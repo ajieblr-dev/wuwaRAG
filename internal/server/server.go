@@ -4,6 +4,8 @@ import (
 	"context"
 	"fmt"
 	"net/http"
+	"os"
+	"path/filepath"
 	"strings"
 	"time"
 
@@ -79,6 +81,23 @@ func corsMiddleware() gin.HandlerFunc {
 	}
 }
 
+func findWebDir() string {
+	candidates := []string{
+		"./web",
+		"../web",
+		"../../web",
+		"/app/web",
+	}
+	for _, dir := range candidates {
+		if info, err := os.Stat(dir); err == nil && info.IsDir() {
+			if _, err := os.Stat(filepath.Join(dir, "index.html")); err == nil {
+				return dir
+			}
+		}
+	}
+	return ""
+}
+
 func (s *Server) registerRoutes() {
 	s.router.GET("/health", s.handleHealth)
 
@@ -89,6 +108,38 @@ func (s *Server) registerRoutes() {
 		api.POST("/query", s.handleChat) // alias
 		api.POST("/search", s.handleSearch)
 		api.POST("/ingest", s.handleIngest)
+	}
+
+	// Serve Frontend if web directory is available
+	webDir := findWebDir()
+	if webDir != "" {
+		s.router.Static("/web", webDir)
+		s.router.Static("/fonts", filepath.Join(webDir, "fonts"))
+		s.router.StaticFile("/", filepath.Join(webDir, "index.html"))
+		s.router.StaticFile("/index.html", filepath.Join(webDir, "index.html"))
+		s.router.StaticFile("/ask.html", filepath.Join(webDir, "ask.html"))
+		s.router.StaticFile("/search.html", filepath.Join(webDir, "search.html"))
+		s.router.StaticFile("/about.html", filepath.Join(webDir, "about.html"))
+		s.router.StaticFile("/admin.html", filepath.Join(webDir, "admin.html"))
+		s.router.StaticFile("/admin-overview.html", filepath.Join(webDir, "admin-overview.html"))
+		s.router.StaticFile("/admin-ingest.html", filepath.Join(webDir, "admin-ingest.html"))
+		s.router.StaticFile("/admin-corpus.html", filepath.Join(webDir, "admin-corpus.html"))
+		s.router.StaticFile("/admin-gateway.html", filepath.Join(webDir, "admin-gateway.html"))
+		s.router.StaticFile("/admin-logs.html", filepath.Join(webDir, "admin-logs.html"))
+		s.router.StaticFile("/admin-settings.html", filepath.Join(webDir, "admin-settings.html"))
+		s.router.StaticFile("/design-system.html", filepath.Join(webDir, "design-system.html"))
+		s.router.StaticFile("/styles.css", filepath.Join(webDir, "styles.css"))
+		s.router.StaticFile("/app.js", filepath.Join(webDir, "app.js"))
+
+		s.router.NoRoute(func(c *gin.Context) {
+			reqPath := strings.TrimPrefix(c.Request.URL.Path, "/")
+			filePath := filepath.Join(webDir, reqPath)
+			if info, err := os.Stat(filePath); err == nil && !info.IsDir() {
+				c.File(filePath)
+				return
+			}
+			c.JSON(http.StatusNotFound, gin.H{"error": "route not found"})
+		})
 	}
 }
 
@@ -196,6 +247,7 @@ func (s *Server) handleSearch(c *gin.Context) {
 	c.JSON(http.StatusOK, gin.H{
 		"query":   req.Query,
 		"count":   len(snippets),
+		"limit":   req.Limit,
 		"results": snippets,
 	})
 }

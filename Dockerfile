@@ -30,6 +30,7 @@ RUN addgroup -S wuwa && adduser -S wuwa -G wuwa
 
 COPY --from=builder /bin/api /app/api
 COPY --from=builder /bin/ingest /app/ingest
+COPY --chown=wuwa:wuwa web /app/web
 
 USER wuwa
 

@@ -32,9 +32,23 @@
     set reduced(v) { LS.set("od-reduced", String(v)); OD.applyPrefs(); },
     get previewSources() { return (LS.get("od-preview-sources") ?? "true") === "true"; },
     set previewSources(v) { LS.set("od-preview-sources", String(v)); },
-    get mock() { return (LS.get("od-mock") ?? "true") === "true"; },
+    get mock() {
+      const stored = LS.get("od-mock");
+      if (stored !== null) return stored === "true";
+      if (typeof window !== "undefined" && window.location && (window.location.protocol === "http:" || window.location.protocol === "https:")) {
+        return false;
+      }
+      return true;
+    },
     set mock(v) { LS.set("od-mock", String(v)); OD.applyPrefs(); },
-    get base() { return LS.get("od-base") || "http://localhost:8080"; },
+    get base() {
+      const stored = LS.get("od-base");
+      if (stored) return stored;
+      if (typeof window !== "undefined" && window.location && window.location.origin && window.location.origin.startsWith("http")) {
+        return window.location.origin;
+      }
+      return "http://localhost:8080";
+    },
     set base(v) { LS.set("od-base", v.replace(/\/+$/, "")); }
   };
   OD.S = S;

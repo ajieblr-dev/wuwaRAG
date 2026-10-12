@@ -126,6 +126,16 @@ When connecting the Google Gemini API key, we addressed two key architectural ch
   - Increased server request timeout from `60s` to `120s` in `internal/server/server.go`.
 * **Result:** The system now generates rich, comprehensive, multi-paragraph answers with grounded citations.
 
+### Phase 6: Frontend Web Application Integration (`web/`)
+To deliver a complete interactive user experience, the system integrates a modern lore-themed web client located in `web/` directly with the Go REST API:
+* **Static File Serving & Routing:** Updated `internal/server/server.go` with dynamic directory discovery (`findWebDir()`) to serve `index.html`, `ask.html`, `search.html`, `styles.css`, `app.js`, and fonts directly from port `:8080`.
+* **Wire Contract Parity:**
+  - Aliased `SourceSnippet` JSON tags in `internal/rag/rag.go` (`page_title`, `section_title`, `chunk_text`) to support both legacy and web frontend consumer specifications without breaking changes.
+  - Added `limit` echo in search response envelopes.
+* **Auto Mode Detection:** Updated `web/app.js` so that when accessed over HTTP/HTTPS, it defaults `mock: false` and uses the host origin (`http://localhost:8080`), automatically switching from prototype mode to live production RAG queries.
+* **Docker Packaging:** Integrated `web/` into `Dockerfile` and `deploy/docker-compose.yml` so production containers ship with the UI out-of-the-box.
+* **Automated Verification:** Added `scripts/smoke-web.sh` and Go contract tests (`TestChatContractMatchesWebExpectations`, `TestSearchContractMatchesWebExpectations`, `TestStaticWebRoutes`) in `internal/server/server_test.go`.
+
 ---
 
 ## 3. Directory Layout & File Roles
@@ -306,11 +316,16 @@ make test
   make ingest
   ```
 
-### 6. Running the API Server Locally
+### 6. Running the API Server & Web UI Locally
 ```bash
 make run
 # The server will start on port 8080
 ```
+Open your browser to:
+* **Interactive Lore Q&A (RAG Chat):** `http://localhost:8080/ask.html`
+* **Semantic Vector Search:** `http://localhost:8080/search.html`
+* **Home / Overview:** `http://localhost:8080/`
+
 
 ---
 

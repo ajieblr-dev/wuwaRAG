@@ -11,13 +11,16 @@ import (
 
 // SourceSnippet represents a retrieved piece of lore used as evidence.
 type SourceSnippet struct {
-	ID         string   `json:"id"`
-	Title      string   `json:"title"`
-	Section    string   `json:"section"`
-	Subsection string   `json:"subsection,omitempty"`
-	Speakers   []string `json:"speakers,omitempty"`
-	Content    string   `json:"content"`
-	Score      float64  `json:"score"`
+	ID           string   `json:"id"`
+	Title        string   `json:"title"`
+	PageTitle    string   `json:"page_title,omitempty"`
+	Section      string   `json:"section"`
+	SectionTitle string   `json:"section_title,omitempty"`
+	Subsection   string   `json:"subsection,omitempty"`
+	Speakers     []string `json:"speakers,omitempty"`
+	Content      string   `json:"content"`
+	ChunkText    string   `json:"chunk_text,omitempty"`
+	Score        float64  `json:"score"`
 }
 
 // QueryResult represents the complete RAG response.
@@ -94,13 +97,16 @@ func (s *Service) SearchOnly(ctx context.Context, query string, limit int) ([]So
 		}
 
 		snippets = append(snippets, SourceSnippet{
-			ID:         idStr,
-			Title:      title,
-			Section:    section,
-			Subsection: subsection,
-			Speakers:   speakers,
-			Content:    content,
-			Score:      p.Score,
+			ID:           idStr,
+			Title:        title,
+			PageTitle:    title,
+			Section:      section,
+			SectionTitle: section,
+			Subsection:   subsection,
+			Speakers:     speakers,
+			Content:      content,
+			ChunkText:    content,
+			Score:        p.Score,
 		})
 	}
 

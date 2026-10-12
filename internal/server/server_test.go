@@ -58,3 +58,23 @@ func TestHealthEndpoint(t *testing.T) {
 		t.Errorf("Expected qdrant_connected to be true, got %v", resp["qdrant_connected"])
 	}
 }
+
+func TestStaticWebRoutes(t *testing.T) {
+	qClient := qdrant.NewClient("http://mock-qdrant")
+	embedder := rag.NewHuggingFaceEmbedder("", "", "", 384)
+	llmClient := rag.NewLLMClient("http://mock-litellm", "", "", "", "")
+	ragService := rag.NewService(qClient, embedder, llmClient, "wuwa_lore", 5, 0.2)
+	fetchClient := fetcher.NewClient("")
+
+	srv := NewServer(ragService, qClient, embedder, fetchClient, "wuwa_lore", "Simulacrum_of_the_Heart")
+
+	routes := []string{"/", "/index.html", "/ask.html", "/search.html", "/styles.css", "/app.js"}
+	for _, route := range routes {
+		req, _ := http.NewRequest(http.MethodGet, route, nil)
+		w := httptest.NewRecorder()
+		srv.Router().ServeHTTP(w, req)
+		if w.Code != http.StatusOK && w.Code != http.StatusMovedPermanently {
+			t.Errorf("Expected route %q to return 200 or 301, got %d", route, w.Code)
+		}
+	}
+}

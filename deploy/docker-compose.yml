@@ -68,6 +68,8 @@ services:
       - DEFAULT_WIKI_PAGE=Simulacrum_of_the_Heart
       - TOP_K=5
       - SCORE_THRESHOLD=0.25
+    volumes:
+      - ../web:/app/web:ro
     depends_on:
       qdrant:
         condition: service_healthy
