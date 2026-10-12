@@ -43,9 +43,16 @@
     set mock(v) { LS.set("od-mock", String(v)); OD.applyPrefs(); },
     get base() {
       const stored = LS.get("od-base");
-      if (stored) return stored;
-      if (typeof window !== "undefined" && window.location && window.location.origin && window.location.origin.startsWith("http")) {
-        return window.location.origin;
+      if (stored && (typeof window === "undefined" || !window.location || window.location.port === "8080" || stored !== window.location.origin)) {
+        return stored;
+      }
+      if (typeof window !== "undefined" && window.location) {
+        if (window.location.port === "8080") {
+          return window.location.origin;
+        }
+        const proto = (window.location.protocol && window.location.protocol.startsWith("http")) ? window.location.protocol : "http:";
+        const host = window.location.hostname || "localhost";
+        return `${proto}//${host}:8080`;
       }
       return "http://localhost:8080";
     },
