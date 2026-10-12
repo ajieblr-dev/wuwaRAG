@@ -1,10 +1,12 @@
-# Binaries
+# Binaries (root-level outputs only; must not match cmd/*/ sources)
 bin/
-api
-ingest
+/api
+/ingest
 
-# Environment variables
+# Environment variables (never commit real keys)
 .env
+.env.local
+.env.*.local
 github-credential
 # Go build cache
 *.exe
@@ -19,6 +21,3 @@ github-credential
 .DS_Store
 .idea/
 .vscode/
-
-# File Exeption
-project-record.md

@@ -12,10 +12,12 @@ services:
     environment:
       - QDRANT__LOG_LEVEL=INFO
     healthcheck:
-      test: ["CMD-SHELL", "bash -c 'cat < /dev/null > /dev/tcp/localhost/6333' || exit 1"]
+      # HTTP probe against Qdrant's built-in readiness endpoint.
+      test: ["CMD-SHELL", "curl -f http://localhost:6333/healthz || exit 1"]
       interval: 10s
       timeout: 5s
       retries: 5
+      start_period: 20s
 
   # 2. LiteLLM Gateway & Fallback Proxy
   litellm:
@@ -33,10 +35,13 @@ services:
       - LITELLM_MASTER_KEY=${LITELLM_MASTER_KEY:-sk-wuwa-rag-secret}
     command: ["--config", "/app/config.yaml", "--port", "4000", "--num_workers", "2"]
     healthcheck:
-      test: ["CMD-SHELL", "bash -c 'cat < /dev/null > /dev/tcp/localhost/4000' || exit 1"]
-      interval: 10s
+      # HTTP probe against LiteLLM's unauthenticated liveliness endpoint
+      # (/health requires the master key; /health/liveliness does not).
+      test: ["CMD-SHELL", "curl -f http://localhost:4000/health/liveliness || exit 1"]
+      interval: 15s
       timeout: 5s
       retries: 5
+      start_period: 30s
 
   # 3. Wuthering Waves Lore RAG API Backend
   api:
@@ -65,9 +70,17 @@ services:
       - SCORE_THRESHOLD=0.25
     depends_on:
       qdrant:
-        condition: service_started
+        condition: service_healthy
       litellm:
-        condition: service_started
+        condition: service_healthy
+    healthcheck:
+      # HTTP probe against the Go API's own /health endpoint.
+      # Runtime image is bare alpine (no curl); BusyBox wget is built in.
+      test: ["CMD-SHELL", "wget --no-verbose --tries=1 --spider http://localhost:8080/health || exit 1"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
 
 volumes:
   qdrant_data:

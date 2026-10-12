@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Admin · Corpus · Resonance Archive</title>
+<link rel="stylesheet" href="styles.css" />
+
+</head>
+<body>
+<main id="content">
+  <div class="wrap page">
+    <div class="page-head" data-od-id="corpus-head">
+      <p class="crumb"><a href="index.html">Resonance Archive</a> / admin / corpus</p>
+      <h1>Corpus</h1>
+      <p>The API exposes no list endpoints for pages, chunks, or speakers yet, so this view is mock-backed and badged. Character counts are real; per-page chunk counts are not.</p>
+    </div>
+    <nav id="admin-nav" class="subnav" aria-label="Admin sections"></nav>
+
+    <div class="banner warn" style="margin-bottom:18px">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg>
+      <div><span class="b-title">Requires backend.</span> <span class="muted">A future <span class="mono">GET /api/v1/pages</span>, <span class="mono">/chunks</span>, and <span class="mono">/speakers</span> would replace the mock rows below.</span></div>
+    </div>
+
+    <section class="panel" data-od-id="pages-table" style="margin-bottom:20px">
+      <div class="panel-head"><h3>Pages</h3><span class="tiny dim mono">5 indexed · 222 chunks</span></div>
+      <div class="table-wrap" style="border:0;border-radius:0">
+        <table class="data">
+          <thead><tr><th>Page</th><th class="num">Characters</th><th class="num">Chunks <span class="mock-badge" style="margin-left:4px">mock</span></th><th>Wiki</th></tr></thead>
+          <tbody id="pages-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <div class="grid-1-2" style="gap:20px;align-items:start">
+      <section class="panel" data-od-id="speakers" style="margin-bottom:20px">
+        <div class="panel-head"><h3>Speakers</h3><span class="pill mute">71 distinct</span></div>
+        <div class="panel-body stack gap-3">
+          <p class="tiny dim">Sample of dialogue speakers returned with chunks. The full list needs a backend endpoint.</p>
+          <div class="row wrapflex gap-2" id="speaker-list"></div>
+          <div class="row gap-2"><span class="mock-badge">mock</span><span class="tiny dim">8 of 71 shown</span></div>
+        </div>
+      </section>
+
+      <section class="panel" data-od-id="chunk-inspector">
+        <div class="panel-head"><h3>Chunk inspector</h3><span class="mock-badge">requires backend</span></div>
+        <div class="panel-body">
+          <div class="field" style="margin-bottom:14px">
+            <label for="chunk-select">Select a chunk</label>
+            <select class="select mono" id="chunk-select"></select>
+          </div>
+          <p class="snippet" id="chunk-text" style="margin-bottom:14px"></p>
+          <div class="json"><pre id="chunk-meta"></pre></div>
+        </div>
+      </section>
+    </div>
+  </div>
+</main>
+
+<script src="app.js"></script>
+<script>
+(function () {
+  OD.mount("admin-corpus");
+  OD.token = OD.SS.get("od-token") || "";
+
+  // deterministic mock chunk counts from real total 222
+  var chunkMock = [214, 3, 2, 2, 1];
+  document.getElementById("pages-body").innerHTML = OD.corpus.map(function (p, i) {
+    return '<tr data-od-id="page-row-' + i + '"><td>' + p.title + '</td>' +
+      '<td class="num">' + p.chars.toLocaleString() + '</td>' +
+      '<td class="num"><span class="dim">[mock]</span> ' + chunkMock[i] + '</td>' +
+      '<td><a class="btn btn-ghost btn-sm" href="' + OD.wikiUrl(p.title) + '" target="_blank" rel="noopener">' + OD.icons.external + 'Open</a></td></tr>';
+  }).join("");
+
+  document.getElementById("speaker-list").innerHTML = OD.speakers.map(function (n) { return OD.speakerChip(n); }).join("");
+
+  var sel = document.getElementById("chunk-select");
+  var chunks = [];
+  OD.corpus.forEach(function (p, pi) {
+    for (var k = 0; k < 2; k++) {
+      chunks.push({ id: (pi + 1) * 1000 + k + 1, page: p.title, section: "[mock] section " + (k + 1), tokens: 140 + k * 30, speakers: OD.speakers.slice(pi, pi + 1 + (k % 2)) });
+    }
+  });
+  sel.innerHTML = chunks.map(function (c) { return '<option value="' + c.id + '">#' + c.id + ' · ' + c.page + '</option>'; }).join("");
+  function show(id) {
+    var c = chunks.filter(function (x) { return String(x.id) === String(id); })[0];
+    document.getElementById("chunk-text").textContent = "[mock] Placeholder chunk text from \u201C" + c.page + "\u201D. Real chunk text and metadata arrive once the corpus endpoint exists.";
+    document.getElementById("chunk-meta").innerHTML = jsonHighlight({ chunk_id: c.id, page_title: c.page, section_title: c.section, tokens: c.tokens, speakers: c.speakers, _source: "mock" });
+  }
+  function jsonHighlight(obj) {
+    return JSON.stringify(obj, null, 2)
+      .replace(/"([^"]+)":/g, '<span class="jk">"$1"</span>:')
+      .replace(/: "([^"]*)"/g, ': <span class="js">"$1"</span>')
+      .replace(/: (\d+)/g, ': <span class="jn">$1</span>')
+      .replace(/: true|: false/g, function (m) { return ': <span class="jb">' + m.slice(2) + '</span>'; });
+  }
+  sel.addEventListener("change", function () { show(sel.value); });
+  show(chunks[0].id);
+})();
+</script>
+</body>
+</html>

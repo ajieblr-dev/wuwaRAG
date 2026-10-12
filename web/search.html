@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Semantic search · Resonance Archive</title>
+<link rel="stylesheet" href="styles.css" />
+
+</head>
+<body>
+<main id="content">
+  <div class="wrap page">
+    <div class="page-head">
+      <p class="crumb"><a href="index.html">Resonance Archive</a> / search</p>
+      <h1>Semantic search</h1>
+      <p>Raw vector retrieval — no LLM in the loop. The same request the Ask screen makes before it writes an answer. Scores are raw cosine similarity; they are not percentages.</p>
+    </div>
+
+    <form class="card" id="search-form" data-od-id="search-form" style="margin-bottom:20px">
+      <div class="row wrapflex gap-3" style="align-items:flex-end">
+        <div class="field grow" style="min-width:260px">
+          <label for="sq">Query</label>
+          <input class="input" id="sq" type="text" placeholder="e.g. Waking Moon Festival, Sentinel Hsin" autocomplete="off" />
+        </div>
+        <div class="field">
+          <label for="limit">Limit</label>
+          <div class="row gap-2">
+            <button class="btn btn-icon btn-secondary" type="button" id="lim-dec" aria-label="Decrease limit">−</button>
+            <input class="input num" id="limit" type="number" min="1" max="20" value="5" style="width:72px;text-align:center" />
+            <button class="btn btn-icon btn-secondary" type="button" id="lim-inc" aria-label="Increase limit">+</button>
+          </div>
+        </div>
+        <button class="btn btn-primary" type="submit">Run search</button>
+      </div>
+      <p class="tiny dim" style="margin-top:10px">POST <span class="mono" id="search-endpoint">/api/v1/search</span> · body <span class="mono">{"query","limit"}</span></p>
+    </form>
+
+    <div id="search-idle" data-od-id="search-idle" style="margin-top:4px">
+      <div class="card stack gap-4">
+        <div class="stack gap-2">
+          <h2 class="display" style="font-size:19px">Nothing searched yet</h2>
+          <p class="muted" style="font-size:13.5px;max-width:62ch">This screen returns ranked passages straight from the vector store — no model writes an answer, so it is the fastest way to check what the index actually contains. Scores are raw cosine similarity, not percentages.</p>
+        </div>
+        <div>
+          <p class="tiny dim mono" style="margin-bottom:8px">START FROM A CORPUS TERM</p>
+          <div class="stack gap-2" id="idle-samples"></div>
+        </div>
+      </div>
+    </div>
+
+    <div id="search-meta" class="row-between" style="margin-bottom:12px"></div>
+    <div id="search-results" class="stack gap-3" data-od-id="search-results"></div>
+  </div>
+</main>
+
+<script src="app.js"></script>
+<script>
+(function () {
+  OD.mount("search");
+  var resultsEl = document.getElementById("search-results");
+  var metaEl = document.getElementById("search-meta");
+  var form = document.getElementById("search-form");
+  var input = document.getElementById("sq");
+  var limit = document.getElementById("limit");
+  var lastResults = [];
+  var activeFilter = null;
+
+  document.getElementById("lim-dec").addEventListener("click", function () { setLimit(+limit.value - 1); });
+  document.getElementById("lim-inc").addEventListener("click", function () { setLimit(+limit.value + 1); });
+  function setLimit(v) { limit.value = Math.max(1, Math.min(20, v)); }
+
+  /* idle state — this screen used to open on a blank void below the form */
+  var idleEl = document.getElementById("search-idle");
+  var IDLE_SAMPLES = ["Waking Moon Festival", "Moon Fox Rice Cakes", "Intendant Suoming", "Xuanfang Hold"];
+  document.getElementById("idle-samples").innerHTML = IDLE_SAMPLES.map(function (s) {
+    return '<button class="suggest" type="button" data-sample="' + s + '">' +
+      '<span class="s-txt">' + s + '</span><span class="s-arrow">' + OD.icons.arrow + '</span></button>';
+  }).join("");
+  document.getElementById("idle-samples").addEventListener("click", function (e) {
+    var b = e.target.closest("[data-sample]");
+    if (!b) return;
+    input.value = b.dataset.sample;
+    run(input.value);
+  });
+  function showIdle(on) { idleEl.hidden = on; }
+
+  form.addEventListener("submit", function (e) { e.preventDefault(); run(input.value); });
+
+  function skeletons() {
+    resultsEl.innerHTML = [0, 1, 2].map(function () {
+      return '<div class="card stack gap-3"><div class="row gap-3"><div class="skel line w6" style="height:16px;width:40%"></div><span class="spacer"></span><div class="skel line" style="width:90px"></div></div><div class="skel line w9"></div><div class="skel line"></div></div>';
+    }).join("");
+  }
+
+  async function run(q) {
+    q = (q || "").trim();
+    if (!q) { OD.toast("Enter a query first", "warn"); return; }
+    showIdle(true);
+    metaEl.innerHTML = '<span class="tiny dim mono">searching…</span>';
+    skeletons();
+    try {
+      var res = await OD.api.search(q, +limit.value);
+      render(q, res);
+    } catch (e) {
+      renderError(e, q);
+    }
+  }
+
+  function render(q, res) {
+    res = OD.normalizeSearch(res, q, +limit.value);
+    lastResults = res.results || [];
+    activeFilter = null;
+    if (!lastResults.length) {
+      metaEl.innerHTML = "";
+      resultsEl.innerHTML = '<div class="card state">' + OD.icons.search + '<h3>No passages scored above the relevance threshold.</h3><p class="muted">Try different wording, or widen the scope — the index covers five pages of the Simulacrum of the Heart arc.</p></div>';
+      return;
+    }
+    // Section filter chips double as client-filter hooks: each card below carries
+    // data-title / data-section / data-speakers. Element/faction filtering is NOT
+    // wired because neither mock nor backend sources expose those fields yet —
+    // TODO: when the API adds `element`/`faction` to SourceSnippet, add matching
+    // data-attrs on cards + chips here (same pattern as the section filter).
+    var sections = Array.from(new Set(lastResults.map(function (r) { return OD.normalizeSource(r).section; }).filter(Boolean)));
+    metaEl.innerHTML =
+      '<span class="tiny dim mono">' + lastResults.length + ' passages · query "' + q.replace(/"/g, "") + '"</span>' +
+      '<div class="row gap-2 wrapflex">' +
+        '<span class="tiny dim">filter</span>' +
+        (sections.length > 1 ? sections.map(function (s) { return '<button class="chip" data-filter="' + s + '" type="button">' + s + '</button>'; }).join("") : '') +
+        '<button class="btn btn-ghost btn-sm" id="copy-json" type="button">' + OD.icons.copy + 'JSON</button>' +
+        '<button class="btn btn-ghost btn-sm" id="copy-curl" type="button">' + OD.icons.cp + 'cURL</button>' +
+      '</div>';
+    renderCards(q);
+    metaEl.querySelectorAll("[data-filter]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        activeFilter = activeFilter === b.dataset.filter ? null : b.dataset.filter;
+        metaEl.querySelectorAll("[data-filter]").forEach(function (x) { x.classList.toggle("pill", x.dataset.filter === activeFilter); });
+        renderCards(q);
+      });
+    });
+    document.getElementById("copy-json").addEventListener("click", function () { OD.copy(JSON.stringify({ query: q, limit: +limit.value, results: lastResults }, null, 2), "JSON"); });
+    document.getElementById("copy-curl").addEventListener("click", function () { OD.copy(curl(q), "cURL"); });
+  }
+
+  function curl(q) {
+    return "curl -s " + OD.S.base + "/api/v1/search \\\n" +
+      '  -H "Content-Type: application/json" \\\n' +
+      "  -d '" + JSON.stringify({ query: q, limit: +limit.value }) + "'";
+  }
+
+  function renderCards(q) {
+    var list = OD.normalizeSources(lastResults).filter(function (r) { return !activeFilter || r.section === activeFilter; });
+    resultsEl.innerHTML = list.map(function (raw, i) {
+      var r = OD.normalizeSource(raw, i);
+      var spk = r.speakers || [];
+      var score = r.score;
+      var scoreHTML = (score != null)
+        ? '<span class="score" style="align-self:center"><span class="bar"><i style="width:' + Math.round(Math.min(1, Math.max(0, score)) * 100) + '%"></i></span><span class="n">' + score.toFixed(2) + '</span></span>'
+        : '<span class="tiny dim" style="align-self:center">score not reported</span>';
+      return '<article class="source" data-od-id="result-' + (i + 1) + '"' +
+        ' data-index="' + r.index + '" data-title="' + r.title.replace(/"/g, "&quot;") + '"' +
+        ' data-section="' + r.section.replace(/"/g, "&quot;") + '"' +
+        ' data-speakers="' + spk.join(",").replace(/"/g, "&quot;") + '">' +
+        '<div class="source-head"><span class="source-idx">' + r.index + '</span>' +
+        '<div class="grow"><div class="source-title">' + r.title + '</div>' +
+        '<div class="source-sub">' + (r.section || "section not reported") + '</div>' +
+        (r.subsection ? '<div class="source-sub dim">' + r.subsection + '</div>' : '') + '</div>' +
+        scoreHTML + '</div>' +
+        '<div class="source-body">' + (spk.length ? '<div class="chips" style="margin-bottom:8px">' + spk.map(function (n) { return OD.speakerChip(n); }).join("") + '</div>' : '') +
+        '<p class="snippet clamp">' + r.content + '</p></div>' +
+        '<div class="source-foot"><button class="btn btn-ghost btn-sm" data-expand type="button">Expand</button>' +
+        '<button class="btn btn-ghost btn-sm" data-copy type="button">Copy chunk</button><span class="spacer"></span>' +
+        '<a class="btn btn-ghost btn-sm" href="' + OD.wikiUrl(r.title) + '" target="_blank" rel="noopener">' + OD.icons.external + 'Wiki</a>' +
+        '</div></article>';
+    }).join("");
+    resultsEl.querySelectorAll("[data-expand]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var p = b.closest(".source").querySelector(".snippet");
+        p.classList.toggle("clamp"); b.textContent = p.classList.contains("clamp") ? "Expand" : "Collapse";
+      });
+    });
+    resultsEl.querySelectorAll("[data-copy]").forEach(function (b) {
+      b.addEventListener("click", function () { OD.copy(b.closest(".source").querySelector(".snippet").textContent, "Chunk"); });
+    });
+  }
+
+  function renderError(e, q) {
+    metaEl.innerHTML = "";
+    var cls = OD.errorClass(e);
+    var msg = cls === "network"
+      ? 'Can\'t reach the API at <span class="mono">' + OD.S.base + '</span>. Check the server is running and CORS allows this origin.'
+      : "The API returned " + cls + ". " + (e.body ? String(e.body).slice(0, 140) : "");
+    resultsEl.innerHTML = '<div class="card state err">' + OD.icons.alert + '<h3>Search failed</h3><p class="muted">' + msg + "</p>" +
+      '<button class="btn btn-secondary" id="retry" type="button">Retry</button></div>';
+    document.getElementById("retry").addEventListener("click", function () { run(q); });
+  }
+
+  input.focus();
+})();
+</script>
+</body>
+</html>

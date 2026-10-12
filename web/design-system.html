@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Design system · Resonance Archive</title>
+<style>
+  .sw{border:1px solid var(--border);border-radius:8px;overflow:hidden}
+  .sw .chip-block{height:58px}
+  .sw .meta{padding:8px 10px;font-family:var(--font-mono);font-size:11px;color:var(--text-2);border-top:1px solid var(--border)}
+  .gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
+</style>
+<link rel="stylesheet" href="styles.css" />
+
+</head>
+<body>
+<main id="content">
+  <div class="wrap page" style="max-width:1120px">
+    <div class="page-head" data-od-id="ds-hero">
+      <p class="crumb"><a href="index.html">Resonance Archive</a> / design-system</p>
+      <div class="row-between wrapflex">
+        <h1>Design system</h1>
+        <div class="seg" data-theme-select aria-label="Theme">
+          <button data-theme-val="system" type="button">System</button>
+          <button data-theme-val="dark" type="button">Dark</button>
+          <button data-theme-val="light" type="button">Light</button>
+        </div>
+      </div>
+      <p>Every token, component, and state used across the reader and the console — rendered live in both themes. Concept: a Tacet resonance codex meets an editorial lore archive.</p>
+    </div>
+
+    <!-- tokens -->
+    <section data-od-id="ds-tokens" style="margin-bottom:36px">
+      <h2 class="display" style="font-size:22px;margin-bottom:6px">Color tokens</h2>
+      <p class="tiny dim" style="margin-bottom:16px">Dark Tacet abyss is the default. Resonance teal is the signal color; brass is reserved for citations and key lore callouts. Values are the only hex literals in the codebase — components reference tokens only.</p>
+      <div class="gallery" id="swatches"></div>
+    </section>
+
+    <!-- type -->
+    <section data-od-id="ds-type" style="margin-bottom:36px">
+      <h2 class="display" style="font-size:22px;margin-bottom:14px">Type</h2>
+      <div class="card stack gap-4">
+        <div><p class="tiny dim mono">DISPLAY · Newsreader</p><p class="display" style="font-size:34px;line-height:1.1">Sentinel Hsin of the Waking Moon</p></div>
+        <div><p class="tiny dim mono">ANSWER BODY · Newsreader 17/28, max 68ch</p><p style="font-family:var(--font-display);font-size:17px;line-height:1.68;max-width:68ch">The answer column is set in the serif at 17 over 28 and held to 68 characters, so grounded prose stays readable next to the denser UI around it.</p></div>
+        <div><p class="tiny dim mono">UI · Inter</p><p>Interface labels, controls, and body copy use Inter at 15px with a 1.55 line height.</p></div>
+        <div><p class="tiny dim mono">DATA · JetBrains Mono, tabular</p><p class="num" style="font-size:15px">latency 4,214 ms · tokens 2,684 · score 0.82 · 168,893</p></div>
+      </div>
+    </section>
+
+    <!-- buttons -->
+    <section data-od-id="ds-buttons" style="margin-bottom:36px">
+      <h2 class="display" style="font-size:22px;margin-bottom:14px">Buttons</h2>
+      <div class="card stack gap-4">
+        <div class="row wrapflex gap-3">
+          <button class="btn btn-primary">Ask</button>
+          <button class="btn btn-secondary">Export</button>
+          <button class="btn btn-ghost">Cancel</button>
+          <button class="btn btn-danger">Delete all</button>
+          <button class="btn btn-primary" aria-disabled="true">Disabled</button>
+          <button class="btn btn-secondary">Loading <svg class="spin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="16" height="16"><path d="M12 3a9 9 0 109 9" stroke-linecap="round"/></svg></button>
+        </div>
+        <div class="row wrapflex gap-3">
+          <button class="btn btn-icon btn-secondary" aria-label="Icon button">+</button>
+          <button class="btn btn-primary btn-lg">Primary large</button>
+          <button class="btn btn-secondary btn-sm">Small</button>
+          <span class="tiny dim">Hover / focus / active are defined per variant; focus shows a 2px ring at 2px offset.</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- chips & badges -->
+    <section data-od-id="ds-chips" style="margin-bottom:36px">
+      <h2 class="display" style="font-size:22px;margin-bottom:14px">Chips, pills &amp; speaker hues</h2>
+      <div class="card stack gap-4">
+        <div class="row wrapflex gap-2">
+          <span class="chip">Xuanfang Hold</span><span class="chip">Mengzhou</span>
+          <span class="pill">accent</span><span class="pill gold">citation</span><span class="pill danger">error</span><span class="pill warn">degraded</span><span class="pill ok">green</span><span class="pill mute">muted</span>
+          <span class="mock-badge">MOCK</span>
+        </div>
+        <div>
+          <p class="tiny dim mono" style="margin-bottom:8px">SPEAKER CHIPS · oklch(.30 .05 H) on oklch(.88 .08 H), hue from a stable name hash</p>
+          <div class="row wrapflex gap-2" id="speaker-demo"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- data display -->
+    <section data-od-id="ds-data" style="margin-bottom:36px">
+      <h2 class="display" style="font-size:22px;margin-bottom:14px">Data display</h2>
+      <div class="gallery" style="margin-bottom:14px">
+        <div class="kpi"><div class="k-top"><span class="k-label">Indexed chunks</span><span class="dim mono tiny">qdrant</span></div><div class="k-val num">222</div><div class="k-sub">collection wuwa_lore</div></div>
+        <div class="kpi flag"><div class="k-top"><span class="k-label">points vs vectors</span><span class="pill warn">mismatch</span></div><div class="k-val num">222 / 210</div><div class="k-sub">flag when the two diverge</div></div>
+        <div class="card stack gap-3">
+          <span class="score"><span class="bar"><i style="width:82%"></i></span><span class="n">0.82</span></span>
+          <span class="score"><span class="bar"><i style="width:44%"></i></span><span class="n">0.44</span></span>
+          <div class="meter"><i style="width:66%"></i></div>
+        </div>
+      </div>
+      <div class="json"><pre id="json-demo"></pre></div>
+    </section>
+
+    <!-- forms -->
+    <section data-od-id="ds-forms" style="margin-bottom:36px">
+      <h2 class="display" style="font-size:22px;margin-bottom:14px">Forms &amp; controls</h2>
+      <div class="card" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px">
+        <div class="field"><label for="d1">Default input</label><input class="input" id="d1" placeholder="page title" /></div>
+        <div class="field"><label for="d2">Focus / error</label><input class="input err" id="d2" value="0" /><span class="err-msg">Overlap must be smaller than chunk size.</span></div>
+        <div class="field"><label for="d3">Select</label><select class="select" id="d3"><option>Simulacrum of the Heart</option><option>Hsin</option></select></div>
+        <div class="field"><label>Switch</label><div class="row gap-2"><span class="switch" role="switch" aria-checked="true" tabindex="0"></span><span class="tiny muted">Preview sources while generating</span></div></div>
+        <div class="field"><label>Segmented</label><div class="seg"><button aria-pressed="true">Comfortable</button><button aria-pressed="false">Compact</button></div></div>
+        <div class="field"><label>Keys</label><div class="row gap-2"><span class="kbd">Ctrl</span><span class="kbd">K</span><span class="kbd">/</span></div></div>
+      </div>
+    </section>
+
+    <!-- states -->
+    <section data-od-id="ds-states" style="margin-bottom:36px">
+      <h2 class="display" style="font-size:22px;margin-bottom:6px">Every data-view state</h2>
+      <p class="tiny dim" style="margin-bottom:16px">Loading uses skeletons sized to the real layout so nothing shifts when data lands.</p>
+      <div class="gallery">
+        <div class="card stack gap-3"><span class="tiny dim mono">LOADING</span><div class="skel line w6" style="height:16px"></div><div class="skel line w9"></div><div class="skel line"></div><div class="skel block" style="height:40px"></div></div>
+        <div class="card state" data-od-id="state-empty"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.2-3.2"/></svg><h3>Empty</h3><p>No passages scored above the relevance threshold.</p></div>
+        <div class="card state" data-od-id="state-success"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 12l5 5L20 6"/></svg><h3>Success</h3><p>Answer grounded in 5 passages.</p></div>
+        <div class="card state" data-od-id="state-partial"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 3v18M3 12h18"/></svg><h3>Partial</h3><p>Some fields missing — sources render only what is present, no page title exposed.</p></div>
+        <div class="card state err" data-od-id="state-error"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg><h3>HTTP 502</h3><p>Bad gateway. Upstream returned an invalid response.</p><button class="btn btn-secondary btn-sm">Retry</button></div>
+        <div class="card state err" data-od-id="state-network"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 3l9 16H3z"/></svg><h3>Network</h3><p>Can't reach the API at http://localhost:8080. Check the server and CORS.</p></div>
+        <div class="card state" data-od-id="state-timeout"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><h3>Timeout</h3><p>The request timed out after 120 s. The gateway may be overloaded.</p></div>
+        <div class="card state" data-od-id="state-aborted"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M6 6l12 12M18 6L6 18"/></svg><h3>Aborted</h3><p>Request cancelled before completion.</p></div>
+        <div class="card state err" data-od-id="state-401"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="4" y="10" width="16" height="10" rx="2"/><path d="M8 10V7a4 4 0 018 0v3"/></svg><h3>Admin token required</h3><p>401 — enter a bearer token to continue.</p></div>
+        <div class="card state" data-od-id="state-degraded"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><path d="M12 8v4l3 2"/></svg><h3>Degraded</h3><p>Archive index unavailable. Answers may be limited.</p></div>
+      </div>
+      <div class="stack gap-3" style="margin-top:14px">
+        <div class="banner info"><span class="b-title">Info.</span> <span class="muted">Retrieval-only answer — no model alias returned.</span></div>
+        <div class="banner warn"><span class="b-title">Warning.</span> <span class="muted">Qdrant disconnected — signatures may be stale.</span></div>
+        <div class="banner danger"><span class="b-title">Error.</span> <span class="muted">The gateway is overloaded.</span></div>
+        <div class="banner ok"><span class="b-title">Healthy.</span> <span class="muted">index ok · 222 chunks.</span></div>
+      </div>
+    </section>
+
+    <!-- overlays & misc -->
+    <section data-od-id="ds-misc" style="margin-bottom:48px">
+      <h2 class="display" style="font-size:22px;margin-bottom:14px">Source card, console &amp; table</h2>
+      <div class="grid-2" style="gap:20px">
+        <div class="source">
+          <div class="source-head"><span class="source-idx">2</span><div class="grow"><div class="source-title">Hsin</div><div class="source-sub">[mock] Sentinel record</div></div></div>
+          <div class="source-body"><div class="chips" style="margin-bottom:8px"><span class="spk" id="spk-x"><span class="ini">H</span>Hsin</span></div><p class="snippet">[mock] Placeholder passage for the source card component.</p></div>
+          <div class="source-foot"><span class="score"><span class="bar"><i style="width:74%"></i></span><span class="n">0.74</span></span><span class="spacer"></span><button class="btn btn-ghost btn-sm">Expand</button></div>
+        </div>
+        <div class="console">
+          <div class="ln"><span class="t">00:00.0</span>POST /api/v1/chat</div>
+          <div class="ln info"><span class="t">00:00.2</span>retrieving 5 passages…</div>
+          <div class="ln warn"><span class="t">00:19.8</span>still working</div>
+          <div class="ln ok"><span class="t">00:06.1</span>200 · 2684 tok</div>
+          <div class="ln err"><span class="t">00:20.4</span>timeout after 120s</div>
+        </div>
+      </div>
+      <div class="table-wrap" style="margin-top:16px">
+        <table class="data">
+          <thead><tr><th>Field</th><th>Type</th><th>Required</th><th class="num">Example</th></tr></thead>
+          <tbody>
+            <tr><td>question</td><td class="mono">string</td><td><span class="pill ok">yes</span></td><td class="num">"Who is Suoming?"</td></tr>
+            <tr><td>model</td><td class="mono">string?</td><td><span class="pill mute">optional</span></td><td class="num">wuwa-lore-model</td></tr>
+            <tr><td>sources[]</td><td class="mono">array?</td><td><span class="pill mute">optional</span></td><td class="num">5 items</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+</main>
+
+<script src="app.js"></script>
+<script>
+(function () {
+  OD.mount("design-system");
+  document.querySelectorAll(".seg[data-theme-select] button").forEach(function (b) {
+    b.addEventListener("click", function () { OD.S.theme = b.dataset.themeVal; });
+  });
+
+  var tokens = [
+    ["--bg-0", "var(--bg-0)"], ["--bg-1", "var(--bg-1)"], ["--bg-2", "var(--bg-2)"], ["--bg-3", "var(--bg-3)"],
+    ["--border", "var(--border)"], ["--border-input", "var(--border-input)"],
+    ["--text-1", "var(--text-1)"], ["--text-2", "var(--text-2)"], ["--text-3", "var(--text-3)"],
+    ["--accent", "var(--accent)"], ["--accent-hover", "var(--accent-hover)"], ["--accent-subtle", "var(--accent-subtle)"],
+    ["--gold", "var(--gold)"], ["--gold-subtle", "var(--gold-subtle)"],
+    ["--hero-from", "var(--hero-from)"], ["--hero-via", "var(--hero-via)"], ["--hero-to", "var(--hero-to)"], ["--wave", "var(--wave)"],
+    ["--danger", "var(--danger)"], ["--success", "var(--success)"], ["--warning", "var(--warning)"], ["--info", "var(--info)"]
+  ];
+  document.getElementById("swatches").innerHTML = tokens.map(function (t) {
+    return '<div class="sw"><div class="chip-block" style="background:' + t[1] + '"></div><div class="meta">' + t[0] + '</div></div>';
+  }).join("");
+
+  document.getElementById("speaker-demo").innerHTML = OD.speakers.map(function (n) { return OD.speakerChip(n); }).join("");
+  var s = document.getElementById("speaker-demo").querySelector(".spk");
+  if (s) document.getElementById("spk-x").setAttribute("style", s.getAttribute("style"));
+
+  document.getElementById("json-demo").innerHTML =
+    '{<span class="jk">"collection"</span>: <span class="js">"wuwa_lore"</span>, <span class="jk">"status"</span>: <span class="js">"green"</span>,\n' +
+    ' <span class="jk">"points_count"</span>: <span class="jn">222</span>, <span class="jk">"vectors_count"</span>: <span class="jn">210</span>}';
+})();
+</script>
+</body>
+</html>

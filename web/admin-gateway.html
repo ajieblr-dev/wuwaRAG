@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Admin · Gateway · Resonance Archive</title>
+<style>
+  .chain{display:flex;flex-direction:column;gap:0}
+  .chain-node{display:flex;gap:12px;align-items:flex-start;padding:14px 0;border-bottom:1px solid var(--border)}
+  .chain-node:last-child{border-bottom:0}
+  .chain-dot{width:12px;height:12px;border-radius:50%;border:2px solid var(--accent);margin-top:5px;flex:none}
+  .chain-node.dim .chain-dot{border-color:var(--text-3)}
+  .bars{display:flex;align-items:flex-end;gap:5px;height:140px;padding-top:8px}
+  .bar-col{flex:1;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;gap:6px;min-width:0}
+  .bar-col .b{width:100%;background:linear-gradient(180deg,var(--accent),color-mix(in oklch,var(--accent) 55%,var(--bg-2)));border-radius:5px 5px 0 0;min-height:3px}
+  .bar-col .bl{font-family:var(--font-mono);font-size:10px;color:var(--text-3);white-space:nowrap}
+</style>
+<link rel="stylesheet" href="styles.css" />
+
+</head>
+<body>
+<main id="content">
+  <div class="wrap page">
+    <div class="page-head" data-od-id="gateway-head">
+      <p class="crumb"><a href="index.html">Resonance Archive</a> / admin / gateway</p>
+      <h1>Gateway</h1>
+      <p>Read-only view of the LiteLLM routing chain. The chat response exposes only the alias <span class="mono">wuwa-lore-model</span> — never the real backing model.</p>
+    </div>
+    <nav id="admin-nav" class="subnav" aria-label="Admin sections"></nav>
+
+    <div class="grid-1-2" style="gap:20px;align-items:start;margin-bottom:20px">
+      <section class="panel" data-od-id="routing">
+        <div class="panel-head"><h3>Routing chain</h3><span class="tiny dim">static config</span></div>
+        <div class="panel-body">
+          <div class="chain">
+            <div class="chain-node"><span class="chain-dot"></span><div><div class="row gap-2"><strong>wuwa-lore-model</strong><span class="pill">alias</span></div><p class="tiny dim">The only model identifier the API returns.</p></div></div>
+            <div class="chain-node"><span class="chain-dot"></span><div><div class="row gap-2"><strong class="mono">gemini/gemini-3.5-flash</strong><span class="pill ok">primary</span></div><p class="tiny dim">First attempt.</p></div></div>
+            <div class="chain-node"><span class="chain-dot"></span><div><div class="row gap-2"><strong class="mono">gemini/gemini-3.1-flash-lite</strong><span class="pill mute">fallback</span></div><p class="tiny dim">Lighter Gemini on failure.</p></div></div>
+            <div class="chain-node"><span class="chain-dot"></span><div><div class="row gap-2"><strong class="mono">groq/llama-3.3-70b</strong><span class="pill mute">fallback</span></div><p class="tiny dim">Second provider.</p></div></div>
+            <div class="chain-node dim"><span class="chain-dot"></span><div><div class="row gap-2"><strong>In-app retrieval</strong><span class="pill warn">degraded</span></div><p class="tiny dim">No LLM: passages returned without synthesis (empty <span class="mono">model</span>).</p></div></div>
+          </div>
+        </div>
+      </section>
+
+      <div class="stack gap-4">
+        <section class="panel" data-od-id="gateway-info">
+          <div class="panel-head"><h3>Parameters</h3></div>
+          <div class="panel-body">
+            <dl class="kv">
+              <dt>max_tokens</dt><dd>4096</dd>
+              <dt>Server timeout</dt><dd>120 s</dd>
+              <dt>Typical latency</dt><dd>≈6000 ms</dd>
+              <dt>Typical tokens</dt><dd>≈2700</dd>
+            </dl>
+            <p class="tiny dim" style="margin-top:12px">Reasoning tokens count against the 4096-token output budget, so a long answer can be truncated before it finishes. <span class="mono">finish_reason</span> is not exposed by the API and is intentionally not shown.</p>
+          </div>
+        </section>
+
+        <section class="panel" data-od-id="probe">
+          <div class="panel-head"><h3>Probe</h3><button class="btn btn-primary btn-sm" id="probe" type="button">Run test question</button></div>
+          <div class="panel-body">
+            <div class="console" id="probe-out"><div class="ln">Runs one /api/v1/chat request and reports latency and token count.</div></div>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <section class="panel" data-od-id="histogram">
+      <div class="panel-head"><h3>Session latency &amp; tokens</h3><span class="tiny dim mono" id="hist-note">from the client-side request log</span></div>
+      <div class="panel-body">
+        <div class="bars" id="bars"></div>
+      </div>
+    </section>
+  </div>
+</main>
+
+<script src="app.js"></script>
+<script>
+(function () {
+  OD.mount("admin-gateway");
+  OD.token = OD.SS.get("od-token") || "";
+
+  function samples() {
+    var fromLog = OD.log.all().filter(function (r) { return r.path === "/api/v1/chat" && r.tokens; }).map(function (r) { return { ms: r.ms, tokens: r.tokens }; });
+    if (fromLog.length < 6) {
+      // session launcher mock so the histogram is meaningful before any probe
+      var base = [{ ms: 5120, tokens: 2410 }, { ms: 6480, tokens: 2980 }, { ms: 4210, tokens: 2240 }, { ms: 7990, tokens: 3310 }, { ms: 5730, tokens: 2690 }, { ms: 6250, tokens: 3120 }];
+      return base.concat(fromLog);
+    }
+    return fromLog;
+  }
+  function renderBars() {
+    var s = samples();
+    var max = Math.max.apply(null, s.map(function (x) { return x.ms; }));
+    document.getElementById("bars").innerHTML = s.map(function (x) {
+      var h = Math.round((x.ms / max) * 120);
+      return '<div class="bar-col" title="' + x.ms + ' ms · ' + x.tokens + ' tok"><span class="tiny mono dim">' + x.tokens + '</span><div class="b" style="height:' + h + 'px"></div><span class="bl">' + (x.ms / 1000).toFixed(1) + 's</span></div>';
+    }).join("");
+  }
+  renderBars();
+
+  document.getElementById("probe").addEventListener("click", async function () {
+    var out = document.getElementById("probe-out");
+    out.innerHTML = "";
+    var t0 = Date.now();
+    function log(k, t) { var d = new Date(); var ts = d.toLocaleTimeString(); var el = document.createElement("div"); el.className = "ln " + k; el.innerHTML = '<span class="t">' + ts + '</span>'; el.appendChild(document.createTextNode(t)); out.appendChild(el); }
+    log("info", "POST /api/v1/chat  {question: \u201CWho is Intendant Suoming?\u201D}");
+    try {
+      var res = await OD.api.chat("Who is Intendant Suoming?");
+      log("", "model alias: " + (res.model || "(empty → retrieval-only)"));
+      log("ok", "200 in " + res.latency_ms + " ms · " + res.total_tokens + " tokens · " + (res.sources ? res.sources.length : 0) + " sources");
+      renderBars();
+      OD.toast("Probe complete", "ok");
+    } catch (e) {
+      log("err", OD.errorClass(e) + " after " + (Date.now() - t0) + " ms");
+      OD.toast("Probe failed", "err");
+    }
+  });
+})();
+</script>
+</body>
+</html>

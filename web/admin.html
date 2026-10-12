@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Admin · Resonance Archive</title>
+<link rel="stylesheet" href="styles.css" />
+
+</head>
+<body>
+<main id="content">
+  <div class="wrap" style="max-width:460px;padding-block:72px 64px">
+    <div class="row gap-3" style="margin-bottom:22px">
+      <span class="feature-mark" style="width:40px;height:40px;display:grid;place-items:center;border:1px solid var(--border);border-radius:10px;color:var(--accent)">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><rect x="4" y="10" width="16" height="10" rx="2"/><path d="M8 10V7a4 4 0 018 0v3"/></svg>
+      </span>
+      <div>
+        <h1 class="display" style="font-size:26px">Maintainer console</h1>
+        <p class="tiny dim">Resonance Archive · admin</p>
+      </div>
+    </div>
+
+    <form class="card stack gap-4" id="gate-form" data-od-id="admin-gate">
+      <div class="field">
+        <label for="tok">Admin token</label>
+        <input class="input" id="tok" type="password" placeholder="paste bearer token" autocomplete="off" spellcheck="false" />
+        <span class="hint">Held in <span class="mono">sessionStorage</span> for this tab only — never written to <span class="mono">localStorage</span> and never bundled.</span>
+        <p class="err-msg" id="tok-err" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" width="13" height="13"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg>Admin token required.</p>
+      </div>
+      <div class="banner warn" style="font-size:12.5px">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg>
+        <div>No auth is documented on the API routes while CORS is <span class="mono">*</span>. This gate is a client-side convention, not a security boundary — logged in <span class="mono">docs/BACKEND_GAPS.md</span>.</div>
+      </div>
+      <div class="row gap-3">
+        <button class="btn btn-primary grow" type="submit">Open console</button>
+        <a class="btn btn-ghost" href="index.html">Cancel</a>
+      </div>
+    </form>
+  </div>
+</main>
+<script src="app.js"></script>
+<script>
+(function () {
+  OD.mount("admin");
+  var form = document.getElementById("gate-form");
+  var tok = document.getElementById("tok");
+  var err = document.getElementById("tok-err");
+  OD.token = OD.SS.get("od-token") || "";
+  function go() {
+    OD.token = tok.value.trim();
+    if (!OD.token) { err.hidden = false; tok.classList.add("err"); tok.focus(); return; }
+    OD.SS.set("od-token", OD.token);
+    location.href = "admin-overview.html";
+  }
+  form.addEventListener("submit", function (e) { e.preventDefault(); go(); });
+  tok.addEventListener("input", function () { err.hidden = true; tok.classList.remove("err"); });
+  tok.focus();
+})();
+</script>
+</body>
+</html>

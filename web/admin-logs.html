@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Admin · Logs · Resonance Archive</title>
+<link rel="stylesheet" href="styles.css" />
+
+</head>
+<body>
+<main id="content">
+  <div class="wrap page">
+    <div class="page-head" data-od-id="logs-head">
+      <p class="crumb"><a href="index.html">Resonance Archive</a> / admin / logs</p>
+      <h1>Request log</h1>
+      <p>Every request this browser made to the API, kept in <span class="mono">sessionStorage</span> for this tab. The client distinguishes network, HTTP, timeout, and aborted failures because the API does not report them itself.</p>
+    </div>
+    <nav id="admin-nav" class="subnav" aria-label="Admin sections"></nav>
+
+    <div class="row-between wrapflex" style="margin-bottom:12px;gap:12px">
+      <div class="row gap-2 wrapflex">
+        <input class="input" id="lg-filter" type="search" placeholder="Filter path or note…" style="width:220px" aria-label="Filter log" />
+        <select class="select" id="lg-class" style="width:170px" aria-label="Filter by error class">
+          <option value="">All classes</option>
+          <option value="ok">Success</option>
+          <option value="network">Network</option>
+          <option value="http">HTTP error</option>
+          <option value="aborted">Aborted</option>
+          <option value="auth">401 / 403</option>
+        </select>
+      </div>
+      <div class="row gap-2">
+        <button class="btn btn-secondary btn-sm" id="lg-json" type="button">Export JSON</button>
+        <button class="btn btn-secondary btn-sm" id="lg-csv" type="button">Export CSV</button>
+        <button class="btn btn-danger btn-sm" id="lg-clear" type="button">Clear</button>
+      </div>
+    </div>
+
+    <div class="table-wrap">
+      <table class="data">
+        <thead>
+          <tr>
+            <th><button class="sortbtn" data-sort="ts" type="button">Time</button></th>
+            <th>Method</th>
+            <th>Path</th>
+            <th class="num"><button class="sortbtn" data-sort="status" type="button">Status</button></th>
+            <th class="num"><button class="sortbtn" data-sort="ms" type="button">Latency</button></th>
+            <th class="num"><button class="sortbtn" data-sort="tokens" type="button">Tokens</button></th>
+            <th>Class</th>
+          </tr>
+        </thead>
+        <tbody id="lg-body"></tbody>
+      </table>
+    </div>
+    <p class="tiny dim" style="margin-top:10px" id="lg-count"></p>
+  </div>
+</main>
+
+<script src="app.js"></script>
+<script>
+(function () {
+  OD.mount("admin-logs");
+  OD.token = OD.SS.get("od-token") || "";
+
+  var sortKey = "ts", sortDir = -1;
+  function cls(r) { if (r.err === "auth") return "auth"; if (r.err) return r.err; return "ok"; }
+  function label(c) {
+    return { ok: '<span class="pill ok">ok</span>', network: '<span class="pill danger">network</span>', http: '<span class="pill danger">http</span>', aborted: '<span class="pill warn">aborted</span>', auth: '<span class="pill warn">401/403</span>' }[c];
+  }
+  function status(r) {
+    if (r.status == null) return '<span class="dim">—</span>';
+    var k = r.status >= 400 ? "danger" : r.status >= 300 ? "warn" : "ok";
+    return '<span class="pill ' + k + '">' + r.status + '</span>';
+  }
+  function render() {
+    var q = document.getElementById("lg-filter").value.toLowerCase();
+    var cf = document.getElementById("lg-class").value;
+    var rows = OD.log.all().filter(function (r) {
+      if (cf && cls(r) !== cf) return false;
+      if (q && !((r.path || "") + " " + (r.note || "")).toLowerCase().includes(q)) return false;
+      return true;
+    });
+    rows.sort(function (a, b) { var x = a[sortKey] ?? 0, y = b[sortKey] ?? 0; return x > y ? sortDir : x < y ? -sortDir : 0; });
+    document.getElementById("lg-body").innerHTML = rows.length ? rows.map(function (r) {
+      return '<tr><td class="mono tiny">' + new Date(r.ts).toLocaleTimeString() + '</td><td class="mono">' + r.method + '</td>' +
+        '<td class="mono" style="max-width:260px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="' + (r.note || "") + '">' + r.path + (r.mock ? ' <span class="mock-badge">mock</span>' : '') + '</td>' +
+        '<td class="num">' + status(r) + '</td><td class="num">' + (r.ms != null ? r.ms + ' ms' : '—') + '</td>' +
+        '<td class="num">' + (r.tokens ? r.tokens.toLocaleString() : '—') + '</td><td>' + label(cls(r)) + '</td></tr>';
+    }).join("") : '<tr><td colspan="7" style="text-align:center;padding:36px" class="dim">No requests match this filter. Ask a question or run a search to populate the log.</td></tr>';
+    document.getElementById("lg-count").textContent = rows.length + " of " + OD.log.all().length + " requests";
+  }
+  document.getElementById("lg-filter").addEventListener("input", render);
+  document.getElementById("lg-class").addEventListener("change", render);
+  document.querySelectorAll("[data-sort]").forEach(function (b) {
+    b.addEventListener("click", function () {
+      var k = b.dataset.sort;
+      if (sortKey === k) sortDir *= -1; else { sortKey = k; sortDir = -1; }
+      render();
+    });
+  });
+  document.getElementById("lg-clear").addEventListener("click", function () { OD.log.clear(); render(); OD.toast("Log cleared", "ok"); });
+  document.getElementById("lg-json").addEventListener("click", function () { OD.copy(JSON.stringify(OD.log.all(), null, 2), "Log JSON"); });
+  document.getElementById("lg-csv").addEventListener("click", function () {
+    var rows = OD.log.all();
+    var csv = ["ts,method,path,status,ms,tokens,class,mock"].concat(rows.map(function (r) {
+      return [new Date(r.ts).toISOString(), r.method, r.path, r.status ?? "", r.ms ?? "", r.tokens ?? 0, cls(r), !!r.mock].join(",");
+    })).join("\n");
+    OD.copy(csv, "Log CSV");
+  });
+  window.addEventListener("od-log", render);
+  render();
+})();
+</script>
+</body>
+</html>

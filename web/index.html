@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Resonance Archive · grounded lore retrieval, with receipts</title>
+<meta name="description" content="Unofficial fan prototype: a retrieval-augmented lore service over the Wuthering Waves wiki, with verifiable citations and a maintainer console." />
+<style>
+  @media (max-width:920px){
+    #hero-split,#surfaces-grid{grid-template-columns:1fr !important;gap:28px !important}
+  }
+</style>
+<link rel="stylesheet" href="styles.css" />
+
+</head>
+<body>
+<main id="content">
+  <section class="hero hero-band" data-od-id="hero" style="padding-block:72px 48px">
+    <div class="wrap" style="display:grid;grid-template-columns:1.05fr .95fr;gap:52px;align-items:center" id="hero-split">
+      <div class="stack gap-4">
+        <p class="eyebrow">Solaris-3 archive · Rover · Resonators · Echoes</p>
+        <h1 class="display" style="font-size:clamp(36px,5vw,58px)">Every answer carries its receipts.</h1>
+        <p class="lead">Resonance Archive is a Retrieval-Augmented Generation service over the <em>Wuthering&nbsp;Waves</em> wiki. Ask a lore question, read the exact passages behind the answer, and inspect the whole pipeline from the maintainer console.</p>
+        <div class="row wrapflex gap-2" style="margin-top:2px">
+          <span class="chip tint-jade">Simulacrum of the Heart</span>
+          <span class="chip tint-brass">Version 3.7+</span>
+          <span class="chip tint-mist">Xuanfang Hold</span>
+          <span class="chip tint-mist">Mengzhou</span>
+        </div>
+        <div class="row wrapflex gap-3" style="margin-top:6px">
+          <a class="btn btn-primary btn-lg" href="ask.html">Open the reader</a>
+          <a class="btn btn-secondary btn-lg" href="admin.html">Maintainer console</a>
+        </div>
+        <p class="tiny dim mono" style="margin-top:6px">Scope: <em>Simulacrum of the Heart</em> · Sentinel Hsin · Intendant Suoming · Waking Moon Festival</p>
+        <p class="tiny dim mono">Unofficial fan project · not affiliated with Kuro Games</p>
+      </div>
+      <div>
+        <div style="border-top:1px solid var(--rule);padding-top:12px">
+          <div class="row-between" style="padding-bottom:12px;border-bottom:1px solid var(--rule)">
+            <span class="mono tiny dim">worked example</span>
+            <span class="health-dot" data-state="ok"><span class="dot"></span>index ok</span>
+          </div>
+          <div style="padding:18px 0 4px">
+            <p class="tiny dim mono" style="margin-bottom:6px">QUESTION</p>
+            <p style="font-family:var(--font-display);font-size:17px;font-weight:500;line-height:1.45">What are Moon Fox Rice Cakes?</p>
+            <p class="tiny dim mono" style="margin:16px 0 6px">ANSWER</p>
+            <p class="serif" style="font-size:16.5px;line-height:1.64;color:var(--text-1)">Moon Fox Rice Cakes are the festival offering baked for the Waking Moon, sold in the streets around Xuanfang Hold while Sentinel Hsin oversees the rites <button class="cite" type="button" aria-label="Source 1">1</button><button class="cite" type="button" aria-label="Source 2">2</button>.</p>
+          </div>
+          <div class="stack">
+            <div class="row gap-3 source-head" style="padding:12px 0;border-top:1px solid var(--rule)">
+              <span class="source-idx">1</span>
+              <div class="grow" style="min-width:0">
+                <div class="source-title" style="font-size:13.5px">Xuanfang Hold</div>
+                <div class="source-sub" style="font-size:11px">Waking Moon Festival</div>
+              </div>
+              <span class="score"><span class="bar"><i style="width:82%"></i></span><span class="n">0.82</span></span>
+            </div>
+            <div class="row gap-3 source-head" style="padding:12px 0;border-top:1px solid var(--rule)">
+              <span class="source-idx">2</span>
+              <div class="grow" style="min-width:0">
+                <div class="source-title" style="font-size:13.5px">Simulacrum of the Heart</div>
+                <div class="source-sub" style="font-size:11px">Rituals of the Moon</div>
+              </div>
+              <span class="score"><span class="bar"><i style="width:74%"></i></span><span class="n">0.74</span></span>
+            </div>
+          </div>
+          <div class="row wrapflex gap-2 mono tiny dim" style="padding:14px 0 0;border-top:1px solid var(--rule)">
+            <span>wuwa-lore-model</span><span>·</span><span class="num">4,214 ms</span><span>·</span><span class="num">2,684 tok</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <hr class="tacet-line" />
+  <section class="wrap" data-od-id="stats" style="padding-block:8px 40px">
+    <div class="kpi-grid">
+      <div class="kpi"><div class="k-top"><span class="k-label">Indexed pages</span><span class="dim mono tiny">wiki</span></div><div class="k-val num">5</div><div class="k-sub">one main-quest hub + four entries</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Chunks</span><span class="dim mono tiny">qdrant</span></div><div class="k-val num">222</div><div class="k-sub">cosine collection <span class="mono">wuwa_lore</span></div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Dialogue speakers</span><span class="dim mono tiny">distinct</span></div><div class="k-val num">71</div><div class="k-sub">each source is tagged with who says it</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Typical chat</span><span class="dim mono tiny">p50</span></div><div class="k-val num">≈6<span class="k-unit">s</span></div><div class="k-sub">≈2.7k tokens · server timeout 120 s</div></div>
+    </div>
+  </section>
+
+  <section class="wrap" data-od-id="surfaces" style="padding-block:36px">
+    <div class="row-between" style="margin-bottom:20px">
+      <div>
+        <p class="eyebrow">Two surfaces, one app</p>
+        <h2 class="display">A codex for readers, a console for the maintainer.</h2>
+      </div>
+    </div>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px" id="surfaces-grid">
+      <a class="card" href="ask.html" style="display:flex;flex-direction:column;gap:12px;transition:border-color var(--dur-2)">
+        <span class="pill">Reader app</span>
+        <h3 class="display">Ask with citations you can verify</h3>
+        <p class="muted" style="font-size:14px">Multiline composer, live source preview, citation chips that resolve to passages, spoiler guard, and an Obsidian-friendly export. Every question is answered on its own.</p>
+        <span class="muted row gap-2" style="margin-top:auto;font-size:13px">Open reader <span class="inline-ic" style="color:var(--accent)">→</span></span>
+      </a>
+      <a class="card" href="admin.html" style="display:flex;flex-direction:column;gap:12px;transition:border-color var(--dur-2)">
+        <span class="pill gold">Admin console</span>
+        <h3 class="display">Watch the pipeline and re-ingest</h3>
+        <p class="muted" style="font-size:14px">Health and KPI tiles, a Qdrant/LiteLLM topology, the ingest runbook with copyable commands, gateway routing, and a client-side request log.</p>
+        <span class="muted row gap-2" style="margin-top:auto;font-size:13px">Open console <span class="inline-ic" style="color:var(--accent)">→</span></span>
+      </a>
+    </div>
+  </section>
+
+  <section class="wrap" data-od-id="routes" style="padding-block:36px 8px">
+    <h2 class="display" style="margin-bottom:8px">Every route in the prototype</h2>
+    <p class="lead" style="margin-bottom:18px">Nine screens plus a living design system, all rendered in the dark-first Tacet theme.</p>
+    <div class="panel">
+      <div class="stack" style="padding:6px 18px">
+        <a class="log-row" href="ask.html" style="text-decoration:none"><span class="mono tiny dim">/</span><div><h3 class="display" style="font-size:17px">Ask</h3><p class="muted tiny">Ground your question in retrieved passages. Default surface.</p></div><span class="muted mono tiny">reader</span></a>
+        <a class="log-row" href="search.html" style="text-decoration:none"><span class="mono tiny dim">/search</span><div><h3 class="display" style="font-size:17px">Semantic search</h3><p class="muted tiny">Raw retrieval, no LLM. Score bars, speaker filters, copy as cURL.</p></div><span class="muted mono tiny">reader</span></a>
+        <a class="log-row" href="about.html" style="text-decoration:none"><span class="mono tiny dim">/about</span><div><h3 class="display" style="font-size:17px">About</h3><p class="muted tiny">Scope, pipeline, attribution, privacy, disclaimers.</p></div><span class="muted mono tiny">reader</span></a>
+        <a class="log-row" href="admin-overview.html" style="text-decoration:none"><span class="mono tiny dim">/admin/overview</span><div><h3 class="display" style="font-size:17px">Overview</h3><p class="muted tiny">Health, KPIs, topology, runbook.</p></div><span class="muted mono tiny">admin</span></a>
+        <a class="log-row" href="admin-ingest.html" style="text-decoration:none"><span class="mono tiny dim">/admin/ingest</span><div><h3 class="display" style="font-size:17px">Ingest</h3><p class="muted tiny">Re-ingestion form, equivalent CLI, long-request console.</p></div><span class="muted mono tiny">admin</span></a>
+        <a class="log-row" href="admin-corpus.html" style="text-decoration:none"><span class="mono tiny dim">/admin/corpus</span><div><h3 class="display" style="font-size:17px">Corpus</h3><p class="muted tiny">Pages, speakers, chunk inspector. Mock until the API lists them.</p></div><span class="muted mono tiny">admin</span></a>
+        <a class="log-row" href="admin-gateway.html" style="text-decoration:none"><span class="mono tiny dim">/admin/gateway</span><div><h3 class="display" style="font-size:17px">Gateway</h3><p class="muted tiny">Routing chain, latency and token stats, probe.</p></div><span class="muted mono tiny">admin</span></a>
+        <a class="log-row" href="admin-logs.html" style="text-decoration:none"><span class="mono tiny dim">/admin/logs</span><div><h3 class="display" style="font-size:17px">Logs</h3><p class="muted tiny">Client-side request log with filter, sort, export.</p></div><span class="muted mono tiny">admin</span></a>
+        <a class="log-row" href="admin-settings.html" style="text-decoration:none"><span class="mono tiny dim">/admin/settings</span><div><h3 class="display" style="font-size:17px">Settings</h3><p class="muted tiny">API URL, token, theme, density, spoiler guard.</p></div><span class="muted mono tiny">admin</span></a>
+        <a class="log-row" href="design-system.html" style="text-decoration:none"><span class="mono tiny dim">/design-system</span><div><h3 class="display" style="font-size:17px">Design system</h3><p class="muted tiny">Tokens, components, every state, light and dark.</p></div><span class="muted mono tiny">ref</span></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap" data-od-id="cta" style="padding-block:44px 56px">
+    <div class="card" style="display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;background:var(--bg-1)">
+      <div>
+        <h2 class="display" style="font-size:24px">Start with a question the archive can actually answer.</h2>
+        <p class="muted tiny" style="margin-top:4px">Out-of-scope questions return thin answers by design. The corpus is five pages wide.</p>
+      </div>
+      <a class="btn btn-primary btn-lg" href="ask.html">Ask the archive</a>
+    </div>
+  </section>
+</main>
+
+<footer class="hair" data-od-id="footer">
+  <div class="wrap row-between wrapflex" style="padding-block:28px">
+    <span class="tiny dim">© 2026 Resonance Archive · unofficial fan project</span>
+    <span class="tiny dim mono">Wuthering Waves is a trademark of Kuro Games · not affiliated</span>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+<script>OD.mount("");</script>
+</body>
+</html>

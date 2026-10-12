@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>About · Resonance Archive</title>
+<link rel="stylesheet" href="styles.css" />
+
+</head>
+<body>
+<main id="content">
+  <div class="wrap page" style="max-width:980px">
+    <div class="page-head" data-od-id="about-hero">
+      <p class="crumb"><a href="index.html">Resonance Archive</a> / about</p>
+      <h1>An observatory for one arc, wired to the wiki.</h1>
+      <p>Resonance Archive is an unofficial, self-hosted Retrieval-Augmented Generation service. It answers lore questions from a small, fixed slice of the <em>Wuthering Waves</em> wiki and shows you the passages it used.</p>
+    </div>
+
+    <section class="card" data-od-id="scope" style="margin-bottom:20px">
+      <p class="eyebrow">Corpus scope</p>
+      <h2 class="display" style="font-size:22px;margin-bottom:10px">Five pages, 222 chunks, 71 speakers</h2>
+      <p class="muted" style="margin-bottom:16px;font-size:14px">The index covers the main quest <em>Simulacrum of the Heart</em> (Version 3.7+). Anything outside this set returns a thin answer — the service prefers an honest gap over invention.</p>
+      <div class="table-wrap">
+        <table class="data">
+          <thead><tr><th>Wiki page</th><th class="num">Characters</th><th>In scope</th></tr></thead>
+          <tbody>
+            <tr><td>Simulacrum of the Heart</td><td class="num">168,893</td><td><span class="pill ok">main quest</span></td></tr>
+            <tr><td>Hsin</td><td class="num">3,167</td><td><span class="pill mute">entry</span></td></tr>
+            <tr><td>Suoming</td><td class="num">1,861</td><td><span class="pill mute">entry</span></td></tr>
+            <tr><td>Mengzhou</td><td class="num">5,179</td><td><span class="pill mute">region</span></td></tr>
+            <tr><td>Xuanfang Hold</td><td class="num">4,028</td><td><span class="pill mute">city</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="card" data-od-id="pipeline" style="margin-bottom:20px">
+      <p class="eyebrow">How it works</p>
+      <h2 class="display" style="font-size:22px;margin-bottom:18px">Wiki to answer, in five hops</h2>
+      <div class="topo" role="list" aria-label="Retrieval pipeline">
+        <div class="topo-node" data-step="01" role="listitem"><div class="tn-name">Fandom wiki</div><div class="tn-meta">MediaWiki source</div></div>
+        <div class="topo-link" aria-hidden="true">→</div>
+        <div class="topo-node" data-step="02" role="listitem"><div class="tn-name">Parser &amp; chunker</div><div class="tn-meta">900 / 150 overlap</div></div>
+        <div class="topo-link" aria-hidden="true">→</div>
+        <div class="topo-node" data-step="03" role="listitem"><div class="tn-name">Embeddings</div><div class="tn-meta">384-dim vectors</div></div>
+        <div class="topo-link" aria-hidden="true">→</div>
+        <div class="topo-node" data-step="04" role="listitem"><div class="tn-name">Retrieval</div><div class="tn-meta">Qdrant · cosine</div></div>
+        <div class="topo-link" aria-hidden="true">→</div>
+        <div class="topo-node" data-step="05" role="listitem"><div class="tn-name">LiteLLM gateway</div><div class="tn-meta">prompt + context</div></div>
+      </div>
+      <p class="tiny dim" style="margin-top:14px">The answer step is routed through a LiteLLM alias (<span class="mono">wuwa-lore-model</span>), which may fall back from a primary model to a lighter one, or degrade to retrieval-only when the gateway is unavailable.</p>
+    </section>
+
+    <section class="grid-2" data-od-id="attribution" style="gap:20px;margin-bottom:20px;align-items:stretch">
+      <div class="card">
+        <p class="eyebrow">Attribution</p>
+        <h3 class="display">Content belongs to the wiki community</h3>
+        <p class="muted" style="font-size:14px;margin-top:8px">Lore text is retrieved from the <a class="link" href="https://wutheringwaves.fandom.com/" target="_blank" rel="noopener">Wuthering Waves Fandom wiki</a>. Fandom content is generally licensed CC BY-SA — the exact license line is confirmed before any public deploy, and every source card links back to its page.</p>
+        <p class="tiny dim" style="margin-top:10px">Verify license text before shipping.</p>
+      </div>
+      <div class="card">
+        <p class="eyebrow">Privacy</p>
+        <h3 class="display">Where your question goes</h3>
+        <p class="muted" style="font-size:14px;margin-top:8px">Your question is sent to this app's API, and — together with the retrieved passages — forwarded to external LLM providers through the gateway. Question history is stored only in your own browser.</p>
+      </div>
+    </section>
+
+    <section class="card" data-od-id="disclaimer" style="margin-bottom:20px">
+      <div class="banner warn" style="border:0;background:none;padding:0">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg>
+        <div>
+          <span class="b-title">Unofficial fan project.</span>
+          <p class="muted" style="font-size:13.5px;margin-top:2px">Not affiliated with, endorsed by, or connected to Kuro Games. <em>Wuthering Waves</em> and all related names, characters, and marks are trademarks of their respective owners. This service ships no official game assets, character art, or logos.</p>
+        </div>
+      </div>
+    </section>
+
+    <section data-od-id="build-info">
+      <dl class="kv" style="grid-template-columns:auto 1fr">
+        <dt>App version</dt><dd>0.1.0-prototype</dd>
+        <dt>API base URL</dt><dd id="api-base">http://localhost:8080</dd>
+        <dt>Data mode</dt><dd id="data-mode">mock</dd>
+        <dt>Questions carry context</dt><dd>no — each turn is stateless</dd>
+      </dl>
+    </section>
+  </div>
+</main>
+
+<script src="app.js"></script>
+<script>
+OD.mount("about");
+document.getElementById("api-base").textContent = OD.S.base;
+document.getElementById("data-mode").textContent = OD.S.mock ? "mock (VITE_USE_MOCK)" : "live API";
+</script>
+</body>
+</html>

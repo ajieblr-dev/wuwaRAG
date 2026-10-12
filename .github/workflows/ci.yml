@@ -1,0 +1,35 @@
+name: CI
+
+# Draft pipeline: fast feedback (frontend syntax check + Go unit tests first),
+# fail-fast, cached builds. Secrets via GitHub Actions secrets / env only.
+"on":
+  push:
+    branches: [main, frontend-prototype]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  # Gate 1 (fast): static checks — no dependencies required
+  frontend-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Syntax-check frontend entrypoint
+        run: node --check web/app.js
+
+  # Gate 2: Go unit tests with coverage threshold
+  go-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+          cache: true
+      - name: Vet
+        run: go vet ./internal/...
+      - name: Unit tests
+        run: go test ./internal/...

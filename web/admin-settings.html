@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Admin · Settings · Resonance Archive</title>
+<link rel="stylesheet" href="styles.css" />
+
+</head>
+<body>
+<main id="content">
+  <div class="wrap page" style="max-width:900px">
+    <div class="page-head" data-od-id="settings-head">
+      <p class="crumb"><a href="index.html">Resonance Archive</a> / admin / settings</p>
+      <h1>Settings</h1>
+      <p>Connection, appearance, and privacy preferences. Secrets are never written to <span class="mono">localStorage</span> and never enter the bundle.</p>
+    </div>
+    <nav id="admin-nav" class="subnav" aria-label="Admin sections"></nav>
+
+    <section class="panel" data-od-id="set-connection" style="margin-bottom:16px">
+      <div class="panel-head"><h3>Connection</h3></div>
+      <div class="panel-body stack gap-4">
+        <div class="field">
+          <label for="base">API base URL</label>
+          <div class="row-actions">
+            <input class="input mono grow" id="base" type="url" spellcheck="false" />
+            <button class="btn btn-secondary" id="test" type="button">Test connection</button>
+          </div>
+          <span class="hint" id="test-out">Not tested yet.</span>
+        </div>
+        <div class="field">
+          <label for="token">Admin token <span class="tiny dim">(session only)</span></label>
+          <div class="row-actions">
+            <input class="input mono grow" id="token" type="password" placeholder="bearer token" autocomplete="off" spellcheck="false" />
+            <button class="btn btn-secondary" id="save-token" type="button">Save for this tab</button>
+          </div>
+          <span class="hint">Stored in <span class="mono">sessionStorage</span>; cleared when the tab closes.</span>
+        </div>
+        <div class="row gap-3">
+          <label class="row gap-2" style="cursor:pointer"><span class="switch" id="sw-mock" role="switch" tabindex="0"></span><span>Mock mode <span class="tiny dim">(VITE_USE_MOCK)</span></span></label>
+          <span class="mock-badge" data-mock-badge hidden>MOCK</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel" data-od-id="set-appearance" style="margin-bottom:16px">
+      <div class="panel-head"><h3>Appearance</h3></div>
+      <div class="panel-body stack gap-4">
+        <div class="row-between wrapflex"><span>Theme</span>
+          <div class="seg" data-theme-select aria-label="Theme">
+            <button data-theme-val="system" type="button">System</button>
+            <button data-theme-val="dark" type="button">Dark</button>
+            <button data-theme-val="light" type="button">Light</button>
+          </div>
+        </div>
+        <div class="row-between wrapflex"><span>Density</span>
+          <div class="seg" id="seg-density" aria-label="Density">
+            <button data-density="comfortable" type="button">Comfortable</button>
+            <button data-density="compact" type="button">Compact</button>
+          </div>
+        </div>
+        <div class="row-between wrapflex"><span>Reduced motion <span class="tiny dim">override the OS setting</span></span>
+          <span class="switch" id="sw-motion" role="switch" tabindex="0"></span>
+        </div>
+        <div class="field" style="max-width:280px">
+          <label for="lang">Language</label>
+          <select class="select" id="lang">
+            <option value="en">English (default)</option>
+            <option value="zh">简体中文</option>
+            <option value="ja">日本語</option>
+          </select>
+          <span class="hint">Strings live in a resource file; only English is translated in this prototype.</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel" data-od-id="set-privacy" style="margin-bottom:16px">
+      <div class="panel-head"><h3>Reading &amp; privacy</h3></div>
+      <div class="panel-body stack gap-4">
+        <div class="row-between wrapflex"><span>Spoiler guard</span>
+          <div class="seg" id="seg-spoiler" aria-label="Spoiler guard">
+            <button data-spoiler="off" type="button">Off</button>
+            <button data-spoiler="blur" type="button">Blur answers</button>
+          </div>
+        </div>
+        <div class="row-between wrapflex"><span>Preview sources while generating</span>
+          <span class="switch" id="sw-preview" role="switch" tabindex="0"></span>
+        </div>
+        <hr class="rule" />
+        <div class="row gap-2 wrapflex">
+          <button class="btn btn-secondary" id="export-data" type="button">Export all local data</button>
+          <button class="btn btn-danger" id="clear-data" type="button">Clear all local data</button>
+        </div>
+        <p class="tiny dim">Local data: theme, density, spoiler guard, question history, ingest history, request log.</p>
+      </div>
+    </section>
+  </div>
+</main>
+
+<script src="app.js"></script>
+<script>
+(function () {
+  OD.mount("admin-settings");
+  OD.token = OD.SS.get("od-token") || "";
+
+  var base = document.getElementById("base");
+  base.value = OD.S.base;
+  base.addEventListener("change", function () { OD.S.base = base.value.trim() || "http://localhost:8080"; OD.toast("API base saved", "ok"); });
+
+  var testOut = document.getElementById("test-out");
+  document.getElementById("test").addEventListener("click", async function () {
+    testOut.textContent = "Testing…";
+    try {
+      var h = await OD.api.health();
+      testOut.innerHTML = '<span class="pill ok">reachable</span> <span class="dim">service ' + (h.service || "?") + ' · ' + (h.indexed_chunks ?? "?") + ' chunks</span>';
+    } catch (e) {
+      var m = OD.errorClass(e);
+      testOut.innerHTML = m === "network"
+        ? '<span class="pill danger">unreachable</span> <span class="dim">Can\'t reach ' + OD.S.base + ' — check the server and CORS.</span>'
+        : '<span class="pill danger">' + m + '</span>';
+    }
+  });
+
+  var tokenEl = document.getElementById("token");
+  tokenEl.value = OD.token || "";
+  document.getElementById("save-token").addEventListener("click", function () {
+    OD.token = tokenEl.value.trim();
+    if (OD.token) OD.SS.set("od-token", OD.token); else OD.SS.remove("od-token");
+    OD.toast(OD.token ? "Token saved for this tab" : "Token cleared", "ok");
+  });
+
+  function switchEl(id, get, set) {
+    var el = document.getElementById(id);
+    if (!el) return;
+    el.setAttribute("aria-checked", String(get()));
+    el.addEventListener("click", function () { set(!get()); el.setAttribute("aria-checked", String(get())); });
+    el.addEventListener("keydown", function (e) { if (e.key === " " || e.key === "Enter") { e.preventDefault(); set(!get()); el.setAttribute("aria-checked", String(get())); } });
+  }
+  switchEl("sw-mock", function () { return OD.S.mock; }, function (v) { OD.S.mock = v; OD.toast(v ? "Mock mode on" : "Live API mode", "info"); });
+  switchEl("sw-motion", function () { return OD.S.reduced; }, function (v) { OD.S.reduced = v; });
+  switchEl("sw-preview", function () { return OD.S.previewSources; }, function (v) { OD.S.previewSources = v; });
+
+  function segmented(id, attr, get, set) {
+    var host = document.getElementById(id);
+    if (!host) return;
+    function sync() { host.querySelectorAll("button").forEach(function (b) { b.setAttribute("aria-pressed", String(b.dataset[attr] === get())); }); }
+    host.querySelectorAll("button").forEach(function (b) { b.addEventListener("click", function () { set(b.dataset[attr]); sync(); }); });
+    sync();
+  }
+  segmented("seg-density", "density", function () { return OD.S.density; }, function (v) { OD.S.density = v; });
+  segmented("seg-spoiler", "spoiler", function () { return OD.S.spoiler; }, function (v) { OD.S.spoiler = v; });
+  document.querySelectorAll(".seg[data-theme-select] button").forEach(function (b) {
+    b.addEventListener("click", function () { OD.S.theme = b.dataset.themeVal; });
+  });
+  document.getElementById("lang").addEventListener("change", function () { OD.toast("Language resource not bundled in the prototype", "warn"); });
+
+  document.getElementById("export-data").addEventListener("click", function () {
+    var dump = {};
+    OD.LS.keys().forEach(function (k) { if (k.indexOf("od-") === 0) dump[k] = OD.LS.get(k); });
+    var blob = new Blob([JSON.stringify(dump, null, 2)], { type: "application/json" });
+    var a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "resonance-archive-local-data.json"; a.click(); URL.revokeObjectURL(a.href);
+    OD.toast("Local data exported", "ok");
+  });
+  document.getElementById("clear-data").addEventListener("click", function () {
+    if (!confirm("Clear all local data? This removes your theme, history, and request log from this browser.")) return;
+    OD.LS.keys().forEach(function (k) { if (k.indexOf("od-") === 0) OD.LS.remove(k); });
+    OD.SS.clear();
+    OD.toast("Local data cleared — reloading", "ok");
+    setTimeout(function () { location.reload(); }, 700);
+  });
+})();
+</script>
+</body>
+</html>

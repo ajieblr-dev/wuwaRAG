@@ -78,6 +78,17 @@ The system features:
 ├── deploy/
 │   ├── docker-compose.yml   # Multi-service stack (qdrant, litellm, api)
 │   └── litellm_config.yaml  # LiteLLM routing rules and fallback configuration
+├── web/                   # Frontend prototype (static pages + app.js)
+│   ├── index.html           # Landing / entry page
+│   ├── ask.html             # Q&A chat view
+│   ├── search.html          # Semantic search view
+│   ├── admin*.html          # Admin console views (corpus, gateway, ingest, logs, settings)
+│   ├── app.js               # Frontend logic (syntax-checked in CI via node --check)
+│   ├── styles.css
+│   └── context/             # Frontend source context notes
+├── skills/                # Agent skills (design references)
+│   ├── README.md
+│   └── design-md/           # DESIGN.md analyses per product style
 ├── Dockerfile               # Multi-stage production container build
 ├── Makefile                 # Development shortcuts (build, test, run, ingest)
 ├── .env.example             # Template environment variables

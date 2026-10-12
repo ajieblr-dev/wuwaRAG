@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Admin · Overview · Resonance Archive</title>
+<link rel="stylesheet" href="styles.css" />
+
+</head>
+<body>
+<main id="content">
+  <div class="wrap page">
+    <div class="page-head" data-od-id="overview-head">
+      <p class="crumb"><a href="index.html">Resonance Archive</a> / admin / overview</p>
+      <h1>Overview</h1>
+      <p>Live health of the API and its Qdrant index, polled every 15 seconds. Everything here comes from <span class="mono">/health</span> and <span class="mono">/api/v1/status</span>.</p>
+    </div>
+    <nav id="admin-nav" class="subnav" aria-label="Admin sections"></nav>
+
+    <div class="row-between wrapflex" style="margin-bottom:14px">
+      <span class="row gap-2 tiny dim"><span class="health-dot" id="poll-dot" data-state="unknown"><span class="dot"></span><span id="poll-state">connecting…</span></span><span id="last-updated"></span></span>
+      <div class="row gap-3">
+        <label class="row gap-2 tiny muted" style="cursor:pointer"><span class="switch" id="poll-switch" role="switch" aria-checked="true" tabindex="0"></span>Poll every 15s</label>
+        <button class="btn btn-secondary btn-sm" id="refresh" type="button">Refresh now</button>
+      </div>
+    </div>
+
+    <section class="kpi-grid" data-od-id="kpis" style="margin-bottom:20px">
+      <div class="kpi"><div class="k-top"><span class="k-label">Service status</span></div><div class="k-val" id="k-status" style="font-size:19px">—</div><div class="k-sub" id="k-service">—</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Qdrant</span></div><div class="k-val" id="k-qdrant" style="font-size:19px">—</div><div class="k-sub">vector store connectivity</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Collection</span></div><div class="k-val" id="k-collection" style="font-size:19px">—</div><div class="k-sub">cosine</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Indexed chunks</span></div><div class="k-val num" id="k-chunks">—</div><div class="k-sub">from <span class="mono">/health</span></div></div>
+      <div class="kpi" id="k-flag-tile"><div class="k-top"><span class="k-label">points vs vectors</span><span id="k-flag"></span></div><div class="k-val num" id="k-points" style="font-size:19px">—</div><div class="k-sub" id="k-vectors">—</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">API timestamp</span></div><div class="k-val num" id="k-ts-rel" style="font-size:19px">—</div><div class="k-sub mono" id="k-ts-abs">—</div></div>
+    </section>
+
+    <div class="grid-2" style="gap:20px;margin-bottom:20px;align-items:start">
+      <section class="panel" data-od-id="topology">
+        <div class="panel-head"><h3>Topology</h3><span class="tiny dim">static unless probed</span></div>
+        <div class="panel-body stack gap-4">
+          <div class="topo">
+            <div class="topo-node" data-step="01"><div class="tn-name">Client</div><div class="tn-meta">browser · this app</div></div>
+            <div class="topo-link">→</div>
+            <div class="topo-node" data-step="02"><div class="tn-name">Go API (Gin)</div><div class="tn-meta" id="topo-api">:8080</div></div>
+            <div class="topo-link">→</div>
+            <div class="topo-node" data-step="03"><div class="tn-name">Qdrant</div><div class="tn-meta" id="topo-qdrant">state from /health</div></div>
+          </div>
+          <div class="topo">
+            <div class="topo-node" data-step="04"><div class="tn-name">Go API</div><div class="tn-meta">prompt + context</div></div>
+            <div class="topo-link">→</div>
+            <div class="topo-node" data-step="05"><div class="tn-name">LiteLLM gateway</div><div class="tn-meta" id="topo-litellm">Unknown · no health probe configured</div></div>
+          </div>
+          <p class="tiny dim">LiteLLM state stays <span class="mono">Unknown</span> unless <span class="mono">VITE_LITELLM_HEALTH_URL</span> is set; a direct browser probe may be blocked by CORS.</p>
+        </div>
+      </section>
+
+      <section class="panel" data-od-id="health-sparkline">
+        <div class="panel-head"><h3>Session health</h3><span class="tiny dim">this tab only</span></div>
+        <div class="panel-body">
+          <svg class="spark" id="spark" viewBox="0 0 320 90" preserveAspectRatio="none" aria-label="Indexed chunks over session">
+            <path id="spark-path" d="" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+            <g id="spark-dots"></g>
+          </svg>
+          <div class="row-between tiny dim mono" style="margin-top:6px"><span id="spark-min">—</span><span id="spark-note">indexed_chunks samples</span><span id="spark-max">—</span></div>
+        </div>
+      </section>
+    </div>
+
+    <section class="panel" data-od-id="runbook">
+      <div class="panel-head"><h3>Runbook</h3><span class="tiny dim">copy a command</span></div>
+      <div class="panel-body stack gap-2" id="runbook"></div>
+    </section>
+  </div>
+</main>
+
+<script src="app.js"></script>
+<script>
+(function () {
+  OD.mount("admin-overview");
+  OD.token = OD.SS.get("od-token") || "";
+
+  var samples = [], pollId = null, polling = true;
+  var RUNBOOK = [
+    ["Bring the stack up", "cd deploy && docker compose up -d"],
+    ["Check containers", "docker compose ps"],
+    ["Qdrant readiness", "curl http://localhost:6333/readyz"],
+    ["Gateway health", "curl http://localhost:4000/health"],
+    ["Run the test suite", "make test"],
+    ["Re-ingest from wiki", "make ingest"],
+    ["Dry run (no writes)", "make dry-run"]
+  ];
+  document.getElementById("runbook").innerHTML = RUNBOOK.map(function (r) {
+    return '<div class="row gap-3" style="padding:8px 0;border-bottom:1px solid var(--border)">' +
+      '<div class="grow"><div class="tiny muted">' + r[0] + '</div><code class="mono" style="font-size:13px">' + r[1] + '</code></div>' +
+      '<button class="btn btn-ghost btn-sm" data-cmd="' + r[1] + '" type="button">' + OD.icons.copy + 'Copy</button></div>';
+  }).join("");
+  document.getElementById("runbook").querySelectorAll("[data-cmd]").forEach(function (b) {
+    b.addEventListener("click", function () { OD.copy(b.dataset.cmd, "Command"); });
+  });
+
+  function rel(ts) {
+    var s = Math.round((Date.now() - new Date(ts).getTime()) / 1000);
+    if (s < 5) return "just now";
+    if (s < 60) return s + "s ago";
+    if (s < 3600) return Math.round(s / 60) + "m ago";
+    return Math.round(s / 3600) + "h ago";
+  }
+  function setState(el, ok, txt) {
+    el.dataset.state = ok === true ? "ok" : ok === false ? "down" : "unknown";
+    el.querySelector("span:last-child").textContent = txt || (ok ? "ok" : ok === false ? "down" : "unknown");
+  }
+
+  async function refresh() {
+    try {
+      var h = await OD.api.health();
+      document.getElementById("poll-state").textContent = "live";
+      document.getElementById("poll-dot").dataset.state = h.qdrant_connected ? "ok" : "warn";
+      document.getElementById("k-status").innerHTML = '<span class="pill ok">' + h.status + '</span>';
+      document.getElementById("k-service").textContent = h.service || "—";
+      document.getElementById("k-qdrant").innerHTML = h.qdrant_connected ? '<span class="pill ok">connected</span>' : '<span class="pill danger">down</span>';
+      document.getElementById("k-collection").textContent = h.collection || "—";
+      document.getElementById("k-chunks").textContent = h.indexed_chunks != null ? h.indexed_chunks.toLocaleString() : "—";
+      document.getElementById("k-ts-rel").textContent = rel(h.timestamp);
+      document.getElementById("k-ts-abs").textContent = new Date(h.timestamp).toLocaleString();
+      document.getElementById("topo-qdrant").textContent = h.qdrant_connected ? "connected · " + h.collection : "disconnected";
+      samples.push(h.indexed_chunks);
+      if (samples.length > 40) samples.shift();
+      drawSpark();
+    } catch (e) {
+      document.getElementById("poll-state").textContent = "offline";
+      document.getElementById("poll-dot").dataset.state = "down";
+      OD.toast("Health check failed: " + OD.errorClass(e), "err");
+    }
+    try {
+      var st = await OD.api.status();
+      document.getElementById("k-points").textContent = st.points_count != null ? st.points_count.toLocaleString() : "—";
+      document.getElementById("k-vectors").textContent = "vectors " + (st.vectors_count != null ? st.vectors_count.toLocaleString() : "—");
+      var mismatch = st.points_count != null && st.vectors_count != null && st.points_count !== st.vectors_count;
+      document.getElementById("k-flag").innerHTML = mismatch ? '<span class="pill warn">mismatch</span>' : '<span class="pill ok">match</span>';
+      document.getElementById("k-flag-tile").classList.toggle("flag", mismatch);
+    } catch (e) { /* status is optional */ }
+  }
+
+  function drawSpark() {
+    if (!samples.length) return;
+    var W = 320, H = 90, pad = 6;
+    var min = Math.min.apply(null, samples), max = Math.max.apply(null, samples);
+    var span = Math.max(1, max - min);
+    var pts = samples.map(function (v, i) {
+      var x = pad + (i / Math.max(1, samples.length - 1)) * (W - pad * 2);
+      var y = H - pad - ((v - min) / span) * (H - pad * 2);
+      return [x, y];
+    });
+    document.getElementById("spark-path").setAttribute("d", pts.map(function (p, i) { return (i ? "L" : "M") + p[0].toFixed(1) + " " + p[1].toFixed(1); }).join(" "));
+    document.getElementById("spark-dots").innerHTML = pts.map(function (p) { return '<circle cx="' + p[0].toFixed(1) + '" cy="' + p[1].toFixed(1) + '" r="2.4" fill="currentColor"/>'; }).join("");
+    document.getElementById("spark-min").textContent = "min " + min;
+    document.getElementById("spark-max").textContent = "max " + max;
+  }
+
+  function schedule() { if (pollId) clearInterval(pollId); if (polling) pollId = setInterval(refresh, 15000); }
+  document.getElementById("refresh").addEventListener("click", refresh);
+  var sw = document.getElementById("poll-switch");
+  function toggle() { polling = !polling; sw.setAttribute("aria-checked", String(polling)); schedule(); OD.toast(polling ? "Polling resumed" : "Polling paused", "info"); }
+  sw.addEventListener("click", toggle);
+  sw.addEventListener("keydown", function (e) { if (e.key === " " || e.key === "Enter") { e.preventDefault(); toggle(); } });
+
+  refresh();
+  schedule();
+})();
+</script>
+</body>
+</html>

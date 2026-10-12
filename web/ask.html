@@ -1,0 +1,529 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Ask · Resonance Archive</title>
+<link rel="stylesheet" href="styles.css" />
+
+</head>
+<body>
+<main id="content">
+  <div class="ask-grid" style="padding-block:22px 40px">
+
+    <!-- history rail -->
+    <aside class="rail ask-history" data-od-id="history-rail" aria-label="Question history">
+      <div class="panel">
+        <div class="panel-head">
+          <h3>History</h3>
+          <button class="btn btn-ghost btn-sm" id="clear-hist" type="button">Clear</button>
+        </div>
+        <div style="padding:8px">
+          <input class="input" id="hist-search" type="search" placeholder="Filter questions…" aria-label="Filter history" style="margin-bottom:6px" />
+          <div id="hist-list" class="stack gap-1"></div>
+        </div>
+        <p class="tiny dim" style="padding:0 12px 12px;margin:0">Stored locally in your browser (IndexedDB in the production build). Nothing leaves this device.</p>
+      </div>
+    </aside>
+
+    <!-- thread -->
+    <section class="thread" data-od-id="thread">
+      <div class="stack gap-3" id="banners" style="margin-bottom:16px">
+        <div class="banner info" id="banner-retrieval" hidden>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg>
+          <div><span class="b-title">Retrieval-only answer.</span> <span class="muted">The gateway returned no model alias, so this response is passages without synthesis.</span></div>
+        </div>
+        <div class="banner danger" id="banner-offline" hidden>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg>
+          <div><span class="b-title">Can't reach the API.</span> <span class="muted" id="offline-detail"></span></div>
+        </div>
+      </div>
+
+      <div id="thread-slot"></div>
+    </section>
+  </div>
+
+  <!-- spoiler gate -->
+  <div class="scrim" id="spoiler-gate" hidden>
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="gate-title">
+      <div class="modal-head">
+        <h2 id="gate-title">Before you read</h2>
+        <span class="pill gold">spoilers</span>
+      </div>
+      <div class="modal-body stack gap-3">
+        <p>This archive contains full spoilers for <em>Simulacrum of the Heart</em> (Version 3.7+). Answers quote the actual quest text.</p>
+        <p class="muted tiny">Choose how answers should appear. You can change this later in Settings or from the top bar.</p>
+      </div>
+      <div class="modal-foot">
+        <button class="btn btn-secondary" data-gate="blur" type="button">Blur answers until I reveal them</button>
+        <button class="btn btn-primary" data-gate="off" type="button">Continue, show answers</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- shortcuts -->
+  <div class="scrim" id="shortcut-modal" hidden>
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="sc-title">
+      <div class="modal-head"><h2 id="sc-title">Keyboard shortcuts</h2><button class="btn-icon btn btn-ghost" data-close-shortcuts type="button" aria-label="Close">✕</button></div>
+      <div class="modal-body">
+        <dl class="kv" style="grid-template-columns:1fr auto;gap:12px 20px">
+          <dt>Focus the composer</dt><dd><span class="kbd">/</span></dd>
+          <dt>Command palette</dt><dd><span class="kbd">Ctrl</span> <span class="kbd">K</span></dd>
+          <dt>Send the question</dt><dd><span class="kbd">Enter</span></dd>
+          <dt>New line</dt><dd><span class="kbd">Shift</span> <span class="kbd">Enter</span></dd>
+          <dt>Toggle this sheet</dt><dd><span class="kbd">?</span></dd>
+          <dt>Close overlays</dt><dd><span class="kbd">Esc</span></dd>
+        </dl>
+      </div>
+      <div class="modal-foot"><button class="btn btn-secondary" data-close-shortcuts type="button">Done</button></div>
+    </div>
+  </div>
+</main>
+
+<script src="app.js"></script>
+<script>
+(function () {
+  var slot = document.getElementById("thread-slot");
+  var current = null;         // { question, answer, sources, meta }
+  var controller = null;
+  var timerId = null;
+
+  OD.mount("ask");
+
+  /* ── spoiler gate ─────────────────────────────────────────── */
+  var gate = document.getElementById("spoiler-gate");
+  if (!OD.LS.get("od-gate-seen")) {
+    OD.openOverlay(gate);
+  }
+  gate.addEventListener("click", function (e) {
+    var g = e.target.closest("[data-gate]");
+    if (!g) return;
+    OD.S.spoiler = g.dataset.gate;
+    OD.LS.set("od-gate-seen", "1");
+    OD.closeOverlay(gate);
+    OD.toast(g.dataset.gate === "blur" ? "Answers blurred until you reveal them" : "Answer text will show normally", "ok");
+  });
+
+  /* ── history store ────────────────────────────────────────── */
+  var HK = "od-history";
+  function hist() { try { return JSON.parse(OD.LS.get(HK) || "[]"); } catch (e) { return []; } }
+  function saveHist(rows) { OD.LS.set(HK, JSON.stringify(rows.slice(0, 40))); }
+  function pushHist(entry) { var rows = hist().filter(function (r) { return r.id !== entry.id; }); rows.unshift(entry); saveHist(rows); renderHist(); }
+
+  function renderHist() {
+    var q = (document.getElementById("hist-search").value || "").toLowerCase();
+    var rows = hist().filter(function (r) { return !q || r.q.toLowerCase().includes(q); });
+    var list = document.getElementById("hist-list");
+    if (!rows.length) { list.innerHTML = '<p class="tiny dim" style="padding:8px">No saved questions yet.</p>'; return; }
+    list.innerHTML = rows.map(function (r) {
+      return '<button class="hist-item" data-id="' + r.id + '" aria-current="' + (current && current.id === r.id) + '">' +
+        '<span class="q"></span><span class="when">' + new Date(r.ts).toLocaleString() + '</span></button>';
+    }).join("");
+    list.querySelectorAll(".hist-item").forEach(function (b, i) {
+      b.querySelector(".q").textContent = rows[i].q;
+      b.addEventListener("click", function () { loadEntry(rows[i]); });
+    });
+  }
+  document.getElementById("hist-search").addEventListener("input", renderHist);
+  document.getElementById("clear-hist").addEventListener("click", function () { saveHist([]); OD.toast("Local history cleared", "ok"); renderHist(); });
+
+  /* ── empty state ──────────────────────────────────────────── */
+  /* One surface, composer first. It used to sit below a description card plus four
+     full-width prompt buttons, which pushed the only real control off a 390px screen. */
+  function renderEmpty() {
+    slot.innerHTML =
+      '<div class="ask-intro" data-od-id="empty-state">' +
+        '<div class="ask-intro-head">' +
+          '<h2>What do you want to know?</h2>' +
+          '<p>Answers are grounded in <span class="mono">5</span> indexed wiki pages. Questions outside that scope come back thin — the archive will say so rather than invent lore.</p>' +
+        '</div>' +
+        '<div class="ask-intro-compose">' + composerInner() + '</div>' +
+        '<div class="ask-intro-foot">' +
+          '<div style="margin-bottom:16px">' +
+            '<p class="lbl">Indexed scope</p>' +
+            '<div class="scope-chips">' +
+              OD.corpus.map(function (p) { return '<span class="chip">' + p.title + '</span>'; }).join("") +
+            '</div>' +
+          '</div>' +
+          '<p class="lbl">Try one of these</p>' +
+          '<div class="stack gap-2">' +
+            OD.suggested.map(function (s, i) {
+              return '<button class="suggest" data-sug="' + i + '" type="button">' +
+                '<span class="s-txt"></span><span class="s-arrow">' + OD.icons.arrow + '</span>' +
+                '</button>';
+            }).join("") +
+          '</div>' +
+        '</div>' +
+      '</div>';
+    wireComposer();
+    slot.querySelectorAll("[data-sug]").forEach(function (b, i) {
+      b.querySelector(".s-txt").textContent = OD.suggested[i];
+      b.addEventListener("click", function () { send(OD.suggested[i]); });
+    });
+  }
+
+  function composerHTML() {
+    return '<div class="composer" style="margin-top:16px">' + composerInner() + '</div>';
+  }
+
+  function composerInner() {
+    return '' +
+      '<label class="sr-only" for="q">Your question</label>' +
+      '<textarea id="q" data-focus-composer rows="2" placeholder="Ask about the Simulacrum of the Heart, Sentinel Hsin, Xuanfang Hold…" maxlength="1200"></textarea>' +
+      '<div class="composer-bar">' +
+        '<div class="composer-tools">' +
+          '<button type="button" id="preview-toggle" aria-pressed="' + OD.S.previewSources + '" title="Preview sources while generating">' + OD.icons.spark + '<span>Preview sources</span></button>' +
+        '</div>' +
+        '<span class="spacer"></span>' +
+        '<span class="tiny dim mono" id="counter">0 / 1000</span>' +
+        '<button class="btn btn-primary" id="send" type="button">' + OD.icons.send + 'Ask</button>' +
+      '</div>' +
+      '<p class="tiny dim" style="padding:6px 4px 0">Each question is answered on its own. Include names and context.</p>';
+  }
+
+  function wireComposer() {
+    var ta = document.getElementById("q");
+    var counter = document.getElementById("counter");
+    var sendBtn = document.getElementById("send");
+    ta.addEventListener("input", function () { counter.textContent = ta.value.length + " / 1000"; });
+    ta.addEventListener("keydown", function (e) {
+      if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); send(ta.value); }
+    });
+    sendBtn.addEventListener("click", function () { send(ta.value); });
+    var pt = document.getElementById("preview-toggle");
+    pt.addEventListener("click", function () {
+      OD.S.previewSources = !OD.S.previewSources;
+      pt.setAttribute("aria-pressed", String(OD.S.previewSources));
+    });
+    /* Only pull focus to the composer when nothing is layered on top of it.
+       renderEmpty() runs after the spoiler gate opens and was stealing focus out of the dialog. */
+    if (!document.querySelector(".scrim:not([hidden]), .palette:not([hidden])")) ta.focus();
+  }
+
+  /* ── pending ──────────────────────────────────────────────── */
+  function pendingHTML() {
+    return '<div class="stack gap-3" data-od-id="pending">' +
+      '<div class="pending"><svg class="wave wave-live" viewBox="0 0 130 34" fill="none" aria-hidden="true">' +
+        '<path d="M0 17 C 10 4, 20 30, 32 17 S 54 4, 66 17 S 88 30, 100 17 S 122 4, 130 17" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>' +
+        '<span class="wave-static mono tiny" aria-hidden="true">…</span>' +
+        /* the label carries the state changes; the elapsed counter is aria-hidden so it
+           does not announce a new number ten times a second */
+        '<div class="stack gap-1"><strong style="font-size:14px" id="pending-label" role="status" aria-live="polite">Consulting the archive…</strong>' +
+        '<span class="tiny dim mono" aria-hidden="true">elapsed <span id="elapsed">0.0</span>s · /api/v1/chat</span></div>' +
+        '<span class="spacer"></span>' +
+        '<button class="btn btn-secondary btn-sm" id="cancel" type="button">Cancel</button></div>' +
+      '<div class="skel block" style="height:120px"></div></div>';
+  }
+
+  /* ── send ─────────────────────────────────────────────────── */
+  async function send(question) {
+    question = (question || "").trim();
+    if (!question) { OD.toast("Type a question first", "warn"); return; }
+    if (controller) controller.abort();
+    document.getElementById("banner-offline").hidden = true;
+    document.getElementById("banner-retrieval").hidden = true;
+
+    controller = new AbortController();
+    var signal = controller.signal;
+    var started = Date.now();
+    slot.innerHTML = pendingHTML();
+    var el = document.getElementById("elapsed");
+    var label = document.getElementById("pending-label");
+    var aborted = false;
+
+    document.getElementById("cancel").addEventListener("click", function () { aborted = true; controller.abort(); });
+
+    if (OD.S.previewSources) {
+      OD.api.search(question, 5).then(function (res) {
+        if (aborted || (res.results && !res.results.length)) return;
+        var host = document.getElementById("footnote-block");
+        if (!host) return;
+        host.innerHTML =
+          '<div class="footnotes-head"><h3>Top matches</h3>' +
+          '<span class="tiny dim mono">preview while generating</span></div>' +
+          OD.normalizeSources(res.results).map(function (s) { return sourceCard(s, true); }).join("");
+        wireSourceCards(host);
+      }).catch(function () {});
+    }
+
+    timerId = setInterval(function () {
+      var s = (Date.now() - started) / 1000;
+      if (el) el.textContent = s.toFixed(1);
+      if (s > 90 && label) label.textContent = "Still working. This is taking longer than usual.";
+      else if (s > 20 && label) label.textContent = "Still working. Reasoning models can take a while.";
+    }, 100);
+
+    try {
+      var data = await OD.api.chat(question, signal);
+      clearInterval(timerId);
+      var elapsed = (Date.now() - started) / 1000;
+      if (elapsed > 120) { throw Object.assign(new Error("timeout"), { name: "TimeoutError" }); }
+      renderAnswer(question, data);
+    } catch (e) {
+      clearInterval(timerId);
+      if (aborted || e.name === "AbortError") { renderAborted(question); return; }
+      if (e.name === "NetworkError") { renderNetworkError(question); return; }
+      renderError(question, e);
+    } finally {
+      controller = null;
+    }
+  }
+
+  function renderState(title, body, action, question) {
+    slot.innerHTML = stateCard(title, body, action);
+    wireComposer();
+    var btn = slot.querySelector("[data-" + action + "]");
+    if (btn) btn.addEventListener("click", function () { send(question); });
+  }
+  function renderAborted(question) { renderState("Request cancelled", "You stopped this request. Nothing was stored on the server.", "resend", question); }
+  function renderNetworkError(question) {
+    document.getElementById("banner-offline").hidden = false;
+    document.getElementById("offline-detail").textContent = "Can't reach the API at " + OD.S.base + ". Check that the server is running and CORS allows this origin.";
+    renderState("Can't reach the API", "A fetch error with no HTTP status usually means the server is down or CORS blocked the origin.", "retry", question);
+  }
+  function renderError(question, e) {
+    var body = e.body ? String(e.body).slice(0, 160) : "The API returned an error status.";
+    renderState("Request failed (" + (e.status || "http") + ")", body, "retry", question);
+  }
+
+  function stateCard(title, body, action) {
+    return '<div class="card state err" data-od-id="error-state">' + OD.icons.alert +
+      '<h3>' + title + '</h3><p class="muted">' + body + '</p>' +
+      '<button class="btn btn-secondary" data-' + action + ' type="button">' + (action === "retry" ? "Retry" : "Ask again") + '</button></div>' +
+      composerHTML();
+  }
+
+  /* ── answer ───────────────────────────────────────────────── */
+  function renderAnswer(question, data) {
+    data = OD.normalizeChat(data || {});
+    var model = data.model || "";
+    current = { id: OD.uid(), q: question, ts: Date.now(), answer: data.answer || "", sources: data.sources || [], meta: { model: model, latency_ms: data.latency_ms, total_tokens: data.total_tokens } };
+    if (!model) document.getElementById("banner-retrieval").hidden = false;
+
+    var answerHTML = renderMarkdown(data.answer || "");
+    var hasCites = /\[\d+\]/.test(data.answer || "");
+
+    slot.innerHTML =
+      '<div class="answer" data-od-id="answer-card">' +
+        '<div class="answer-head">' +
+          '<span class="pill ok">' + OD.icons.check + ' answer</span>' +
+          (model ? '' : '<span class="pill warn">retrieval-only</span>') +
+          '<span class="spacer"></span>' +
+          '<span class="meta-row tiny dim mono" id="meta-row"></span>' +
+        '</div>' +
+        '<h2 class="sr-only" id="answer-heading" tabindex="-1">Answer</h2>' +
+        '<div class="answer-body" id="answer-body">' + answerHTML + '</div>' +
+        /* sources live here, as the footnote block under the answer */
+        '<div class="footnotes" id="footnote-block"></div>' +
+        '<div class="answer-foot">' +
+          '<button class="btn btn-secondary btn-sm" id="reveal" type="button" hidden>' + OD.icons.eye + 'Reveal</button>' +
+          '<button class="btn btn-ghost btn-sm" data-act="copy" type="button">' + OD.icons.copy + 'Copy</button>' +
+          '<button class="btn btn-ghost btn-sm" data-act="copy-md" type="button">' + OD.icons.copy + 'Copy + sources</button>' +
+          '<button class="btn btn-ghost btn-sm" data-act="obsidian" type="button">' + OD.icons.download + 'Export to Obsidian</button>' +
+          '<span class="spacer"></span>' +
+          '<button class="btn btn-ghost btn-sm" data-act="again" type="button">' + OD.icons.refresh + 'Ask again</button>' +
+        '</div>' +
+      '</div>';
+
+    renderMeta(document.getElementById("meta-row"), current.meta);
+
+    var body = document.getElementById("answer-body");
+    body.innerHTML = answerHTML;
+    if (hasCites) {
+      body.innerHTML = body.innerHTML.replace(/\[(\d+)\]/g, function (m, n) {
+        return '<button class="cite" data-cite="' + n + '" aria-label="Source ' + n + '" title="Jump to source ' + n + '">' + n + '</button>';
+      });
+    }
+    body.querySelectorAll("[data-cite]").forEach(function (b) {
+      b.addEventListener("click", function () { jumpToSource(b.dataset.cite); });
+    });
+
+    var reveal = document.getElementById("reveal");
+    if (OD.S.spoiler === "blur") {
+      reveal.hidden = false;
+      reveal.addEventListener("click", function () {
+        body.classList.toggle("revealed");
+        reveal.innerHTML = body.classList.contains("revealed") ? OD.icons.eye + 'Hide' : OD.icons.eye + 'Reveal';
+      });
+    }
+
+    slot.querySelector('[data-act="copy"]').addEventListener("click", function () { OD.copy(current.answer, "Answer"); });
+    slot.querySelector('[data-act="copy-md"]').addEventListener("click", function () { OD.copy(asMarkdown(current), "Answer + sources"); });
+    slot.querySelector('[data-act="obsidian"]').addEventListener("click", function () { downloadObsidian(current); });
+    slot.querySelector('[data-act="again"]').addEventListener("click", function () { renderEmpty(); });
+
+    renderSources(data.sources || []);
+    document.getElementById("answer-heading").focus();
+    pushHist(current);
+  }
+
+  function renderMeta(el, meta) {
+    if (!el) return;
+    el.innerHTML =
+      '<span class="tip"><span style="border-bottom:1px dotted var(--text-3);cursor:help">' + (meta.model || "—") + '</span>' +
+      '<span class="tip-body">A LiteLLM gateway alias, not the real backing model. Gemini or Groq may serve it.</span></span>' +
+      '<span> · </span><span>' + (meta.latency_ms != null ? meta.latency_ms + " ms" : "—") + '</span>' +
+      '<span> · </span><span>' + (meta.total_tokens != null ? meta.total_tokens + " tok" : "—") + '</span>';
+  }
+
+  function renderMarkdown(text) {
+    var esc = text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    return esc.split(/\n{2,}/).map(function (p) { return "<p>" + p.replace(/\n/g, "<br>") + "</p>"; }).join("");
+  }
+
+  /* ── sources (tolerant to BOTH shapes via OD.normalizeSource) ── */
+  // TODO(element/faction filter): backend SourceSnippet currently exposes only
+  // {title,section,subsection,speakers,content,score} — no element/faction fields.
+  // Cards below already carry data-title/data-section/data-speakers hooks; once the
+  // API adds element/faction, add matching data-attrs here + chip filters (see
+  // search.html render()) without changing the normalizer contract.
+  function sourceCard(raw, isPreview) {
+    var s = OD.normalizeSource(raw, (raw && raw.index ? raw.index - 1 : 0));
+    var title = s.title;
+    var section = s.section;
+    var subsection = s.subsection || "";
+    var spk = s.speakers || [];
+    var score = s.score;
+    var text = s.content;
+    return '<article class="source" id="src-' + s.index + '" data-od-id="source-card-' + s.index + '"' +
+      ' data-index="' + s.index + '" data-title="' + title.replace(/"/g, "&quot;") + '"' +
+      ' data-section="' + section.replace(/"/g, "&quot;") + '"' +
+      ' data-speakers="' + spk.join(",").replace(/"/g, "&quot;") + '"' +
+      (isPreview ? ' data-preview="true"' : '') + '>' +
+      '<div class="source-head"><span class="source-idx">' + s.index + '</span>' +
+        '<div class="grow"><div class="source-title">' + title + '</div>' +
+        (section ? '<div class="source-sub">' + section + '</div>' : '') +
+        (subsection ? '<div class="source-sub dim">' + subsection + '</div>' : '') + '</div>' +
+      '</div>' +
+      '<div class="source-body">' +
+        (spk.length ? '<div class="chips" style="margin-bottom:8px">' + spk.map(function (n) { return OD.speakerChip(n); }).join("") + '</div>' : '') +
+        '<p class="snippet clamp">' + text + '</p>' +
+      '</div>' +
+      '<div class="source-foot">' +
+        (score != null ? '<span class="score"><span class="bar"><i style="width:' + Math.round(Math.min(1, Math.max(0, score)) * 100) + '%"></i></span><span class="n">' + score.toFixed(2) + '</span></span>' : '<span class="tiny dim">score not reported</span>') +
+        '<span class="spacer"></span>' +
+        '<a class="btn btn-ghost btn-sm" href="' + OD.wikiUrl(title) + '" target="_blank" rel="noopener">' + OD.icons.external + 'Wiki</a>' +
+        '<button class="btn btn-ghost btn-sm" data-expand="' + s.index + '" type="button">Expand</button>' +
+        '<button class="btn btn-ghost btn-sm" data-copy-chunk="' + s.index + '" type="button">Copy</button>' +
+      '</div></article>';
+  }
+
+  /* Sources are rendered as the footnote block beneath the answer, not into a side rail. */
+  function renderSources(list) {
+    var host = document.getElementById("footnote-block");
+    if (!host) return;
+    var items = OD.normalizeSources(list);
+    if (!items.length) { host.innerHTML = ""; return; }
+    host.innerHTML =
+      '<div class="footnotes-head"><h3>Sources</h3>' +
+      '<span class="tiny dim mono">' + items.length + ' passage' + (items.length === 1 ? '' : 's') + '</span></div>' +
+      items.map(function (s) { return sourceCard(s); }).join("");
+    wireSourceCards(host);
+  }
+
+  function wireSourceCards(root) {
+    var list = current ? current.sources : [];
+    root.querySelectorAll("[data-expand]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var p = b.closest(".source").querySelector(".snippet");
+        p.classList.toggle("clamp");
+        b.textContent = p.classList.contains("clamp") ? "Expand" : "Collapse";
+      });
+    });
+    root.querySelectorAll("[data-copy-chunk]").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var card = b.closest(".source");
+        OD.copy(card.querySelector(".snippet").textContent, "Passage");
+      });
+    });
+  }
+
+  function jumpToSource(n) {
+    var el = document.getElementById("src-" + n);
+    if (!el) return;
+    el.classList.add("hl");
+    setTimeout(function () { el.classList.remove("hl"); }, 1600);
+    var rail = document.querySelector(".ask-sources");
+    if (rail && window.matchMedia("(min-width:1300px)").matches) {
+      rail.scrollTo ? rail.scrollTo({ top: el.offsetTop - 8, behavior: "smooth" }) : null;
+    } else {
+      var r = el.getBoundingClientRect();
+      window.scrollTo({ top: window.scrollY + r.top - 90, behavior: "smooth" });
+    }
+  }
+
+  /* ── export ───────────────────────────────────────────────── */
+  function asMarkdown(entry) {
+    var m = entry.meta || {};
+    var lines = [
+      "---",
+      'question: "' + entry.q.replace(/"/g, "'") + '"',
+      "date: " + new Date(entry.ts).toISOString(),
+      "model: " + (m.model || "retrieval-only"),
+      "latency_ms: " + (m.latency_ms ?? ""),
+      "total_tokens: " + (m.total_tokens ?? ""),
+      "tags: [resonance-archive, wuwa-lore]",
+      "---",
+      "",
+      "# " + entry.q,
+      "",
+      entry.answer,
+      "",
+      "## Sources"
+    ];
+    (entry.sources || []).forEach(function (raw, i) {
+      var s = OD.normalizeSource(raw, i);
+      lines.push("- [" + s.index + "] " + (s.title || "?") + (s.section ? " — " + s.section : "") + (s.subsection ? " / " + s.subsection : "") + " (score " + (typeof s.score === "number" ? s.score.toFixed(2) : "n/a") + ")");
+    });
+    return lines.join("\n");
+  }
+  function downloadObsidian(entry) {
+    var blob = new Blob([asMarkdown(entry)], { type: "text/markdown" });
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "resonance-" + entry.id.slice(0, 8) + ".md";
+    a.click();
+    URL.revokeObjectURL(a.href);
+    OD.toast("Obsidian note exported", "ok");
+  }
+
+  function loadEntry(entry) {
+    current = entry;
+    var model = entry.meta && entry.meta.model;
+    if (!model) document.getElementById("banner-retrieval").hidden = false;
+    var hasCites = /\[\d+\]/.test(entry.answer || "");
+    slot.innerHTML =
+      '<div class="answer" data-od-id="answer-card">' +
+        '<div class="answer-head"><span class="pill ok">' + OD.icons.check + ' saved</span>' +
+        (model ? '' : '<span class="pill warn">retrieval-only</span>') + '<span class="spacer"></span><span class="meta-row tiny dim mono" id="meta-row"></span></div>' +
+        '<h2 class="sr-only" id="answer-heading" tabindex="-1">Answer</h2>' +
+        '<div class="answer-body" id="answer-body">' + renderMarkdown(entry.answer) + '</div>' +
+        '<div class="answer-foot"><button class="btn btn-ghost btn-sm" data-act="copy" type="button">' + OD.icons.copy + 'Copy</button>' +
+        '<button class="btn btn-ghost btn-sm" data-act="obsidian" type="button">' + OD.icons.download + 'Export to Obsidian</button>' +
+        '<span class="spacer"></span><button class="btn btn-ghost btn-sm" data-act="again" type="button">' + OD.icons.refresh + 'New question</button></div>' +
+      '</div>';
+    renderMeta(document.getElementById("meta-row"), entry.meta || {});
+    var body = document.getElementById("answer-body");
+    if (hasCites) body.innerHTML = body.innerHTML.replace(/\[(\d+)\]/g, function (m, n) { return '<button class="cite" data-cite="' + n + '">' + n + '</button>'; });
+    body.querySelectorAll("[data-cite]").forEach(function (b) { b.addEventListener("click", function () { jumpToSource(b.dataset.cite); }); });
+    slot.querySelector('[data-act="copy"]').addEventListener("click", function () { OD.copy(entry.answer, "Answer"); });
+    slot.querySelector('[data-act="obsidian"]').addEventListener("click", function () { downloadObsidian(entry); });
+    slot.querySelector('[data-act="again"]').addEventListener("click", function () { renderEmpty(); });
+    renderSources(entry.sources || []);
+    renderHist();
+  }
+
+  /* ── overlays ── */
+  document.querySelectorAll("[data-close-shortcuts]").forEach(function (b) {
+    b.addEventListener("click", function () { OD.closeOverlay(document.getElementById("shortcut-modal")); });
+  });
+
+  /* ── boot ─────────────────────────────────────────────────── */
+  renderHist();
+  renderEmpty();
+  OD.applyPrefs();
+  if (location.hash === "#new") setTimeout(function () { document.getElementById("q") && document.getElementById("q").focus(); }, 50);
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Admin · Ingest · Resonance Archive</title>
+<link rel="stylesheet" href="styles.css" />
+
+</head>
+<body>
+<main id="content">
+  <div class="wrap page">
+    <div class="page-head" data-od-id="ingest-head">
+      <p class="crumb"><a href="index.html">Resonance Archive</a> / admin / ingest</p>
+      <h1>Re-ingestion</h1>
+      <p>Runs a long synchronous request against <span class="mono">POST /api/v1/ingest</span>. There is no job id to poll — the request stays open until the server responds.</p>
+    </div>
+    <nav id="admin-nav" class="subnav" aria-label="Admin sections"></nav>
+
+    <div class="grid-1-2" style="gap:20px;align-items:start">
+      <form class="card stack gap-4" id="ingest-form" data-od-id="ingest-form">
+        <div class="field">
+          <label for="page">Page title</label>
+          <input class="input mono" id="page" list="pages" placeholder="Simulacrum of the Heart" autocomplete="off" />
+          <datalist id="pages">
+            <option value="Simulacrum of the Heart"></option><option value="Hsin"></option><option value="Suoming"></option><option value="Mengzhou"></option><option value="Xuanfang Hold"></option>
+          </datalist>
+          <span class="hint">Spaces are normalized to underscores. Leave blank to ingest the default set.</span>
+        </div>
+        <div class="row gap-3">
+          <div class="field grow"><label for="cs">chunk_size</label><input class="input num" id="cs" type="number" value="900" min="1" /></div>
+          <div class="field grow"><label for="ov">overlap</label><input class="input num" id="ov" type="number" value="150" min="0" /></div>
+        </div>
+        <p class="err-msg" id="form-err" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" width="13" height="13"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg><span></span></p>
+        <div class="banner info" style="font-size:12.5px">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg>
+          <div>Re-ingestion upserts deterministic IDs, so re-running should not create duplicates. The response shape is not documented — the raw JSON is shown as-is.</div>
+        </div>
+        <button class="btn btn-primary" id="run" type="submit">Re-ingest</button>
+      </form>
+
+      <div class="stack gap-4">
+        <section class="panel" data-od-id="cli">
+          <div class="panel-head"><h3>Equivalent CLI</h3><button class="btn btn-ghost btn-sm" id="copy-cli" type="button">Copy</button></div>
+          <div class="panel-body"><code class="mono" id="cli" style="font-size:13px;word-break:break-word"></code></div>
+        </section>
+
+        <section class="panel" data-od-id="ingest-console">
+          <div class="panel-head"><h3>Request console</h3><span class="tiny dim mono" id="console-elapsed">idle</span></div>
+          <div class="panel-body">
+            <div class="console" id="console">
+              <div class="ln"><span class="t">--:--.-</span>waiting for a run…</div>
+            </div>
+          </div>
+        </section>
+
+        <section class="panel" data-od-id="ingest-result" hidden>
+          <div class="panel-head"><h3>Result</h3><span class="tiny dim" id="delta"></span></div>
+          <div class="panel-body"><div class="json"><pre id="result-json"></pre></div></div>
+        </section>
+
+        <section class="panel" data-od-id="ingest-history">
+          <div class="panel-head"><h3>Local ingest history</h3><button class="btn btn-ghost btn-sm" id="clear-ing" type="button">Clear</button></div>
+          <div class="panel-body" id="ing-history"><p class="tiny dim">No runs in this browser yet.</p></div>
+        </section>
+      </div>
+    </div>
+  </div>
+</main>
+
+<script src="app.js"></script>
+<script>
+(function () {
+  OD.mount("admin-ingest");
+  OD.token = OD.SS.get("od-token") || "";
+  var page = document.getElementById("page"), cs = document.getElementById("cs"), ov = document.getElementById("ov");
+  var cli = document.getElementById("cli"), form = document.getElementById("ingest-form"), err = document.getElementById("form-err");
+  var cons = document.getElementById("console"), consoElapsed = document.getElementById("console-elapsed");
+  var resultSec = document.getElementById("ingest-result");
+
+  function norm(t) { return (t || "").trim().replace(/\s+/g, "_"); }
+  function cliText() {
+    var parts = ["./bin/ingest"];
+    if (page.value.trim()) parts.push('--pages "' + norm(page.value) + '"');
+    if (+cs.value !== 900) parts.push("--chunk-size " + cs.value);
+    if (+ov.value !== 150) parts.push("--overlap " + ov.value);
+    parts.push("--save-local");
+    return parts.join(" ");
+  }
+  function updateCli() { cli.textContent = cliText(); }
+  [page, cs, ov].forEach(function (el) { el.addEventListener("input", updateCli); });
+  updateCli();
+  document.getElementById("copy-cli").addEventListener("click", function () { OD.copy(cliText(), "Command"); });
+
+  function validate() {
+    var c = +cs.value, o = +ov.value;
+    if (!(c > 0) || !Number.isInteger(c)) return "chunk_size must be a positive integer.";
+    if (!(o >= 0) || !Number.isInteger(o)) return "overlap must be a non-negative integer.";
+    if (o >= c) return "overlap must be smaller than chunk_size.";
+    return null;
+  }
+  function showErr(msg) { err.hidden = !msg; if (msg) err.querySelector("span").textContent = msg; }
+
+  function logLine(kind, text) {
+    var d = new Date();
+    var t = String(d.getMinutes()).padStart(2, "0") + ":" + String(d.getSeconds()).padStart(2, "0") + "." + String(Math.floor(d.getMilliseconds() / 100));
+    var ln = document.createElement("div");
+    ln.className = "ln " + (kind || "");
+    ln.innerHTML = '<span class="t">' + t + '</span>';
+    ln.appendChild(document.createTextNode(text));
+    cons.appendChild(ln);
+    cons.scrollTop = cons.scrollHeight;
+  }
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    var msg = validate();
+    showErr(msg);
+    if (msg) return;
+    // confirm dialog
+    if (!confirm("Re-ingest \u201C" + (page.value.trim() || "the default page set") + "\u201D?\n\nchunk_size " + cs.value + " · overlap " + ov.value + "\n\nThis is a long synchronous request. It cannot be cancelled mid-flight by the server.")) return;
+    runIngest();
+  });
+
+  async function runIngest() {
+    resultSec.hidden = true;
+    cons.innerHTML = "";
+    logLine("info", "POST /api/v1/ingest  (" + OD.S.base + ")");
+    logLine("", "page=" + (norm(page.value) || "*") + " chunk_size=" + cs.value + " overlap=" + ov.value);
+    var started = Date.now();
+    var t = setInterval(function () { consoElapsed.textContent = ((Date.now() - started) / 1000).toFixed(1) + "s"; }, 100);
+    document.getElementById("run").setAttribute("aria-disabled", "true");
+    try {
+      var before = (await OD.api.health()).indexed_chunks;
+      logLine("", "indexed_chunks before: " + before);
+      var res = await OD.api.ingest({ page: norm(page.value) || undefined, chunk_size: +cs.value, overlap: +ov.value });
+      clearInterval(t);
+      logLine("ok", "200 in " + ((Date.now() - started) / 1000).toFixed(1) + "s");
+      var after = (await OD.api.health()).indexed_chunks;
+      var delta = (after - before);
+      logLine(delta ? "warn" : "ok", "indexed_chunks after: " + after + " (" + (delta >= 0 ? "+" : "") + delta + ")");
+      document.getElementById("delta").innerHTML = '<span class="pill ' + (delta ? "warn" : "ok") + '">' + (delta >= 0 ? "+" : "") + delta + " chunks</span>";
+      document.getElementById("result-json").textContent = JSON.stringify(res, null, 2);
+      resultSec.hidden = false;
+      pushIng({ ts: Date.now(), page: norm(page.value) || "*", cs: +cs.value, ov: +ov.value, delta: delta });
+      OD.toast("Ingest completed", "ok");
+    } catch (e) {
+      clearInterval(t);
+      logLine("err", OD.errorClass(e) + " — " + (e.body || "no response"));
+      OD.toast("Ingest failed: " + OD.errorClass(e), "err");
+    } finally {
+      document.getElementById("run").removeAttribute("aria-disabled");
+      consoElapsed.textContent = "done";
+    }
+  }
+
+  var IK = "od-ingest-history";
+  function ingHist() { try { return JSON.parse(OD.LS.get(IK) || "[]"); } catch (e) { return []; } }
+  function pushIng(r) { var a = ingHist(); a.unshift(r); OD.LS.set(IK, JSON.stringify(a.slice(0, 20))); renderIng(); }
+  function renderIng() {
+    var a = ingHist(), host = document.getElementById("ing-history");
+    host.innerHTML = a.length ? a.map(function (r) {
+      return '<div class="row-between" style="padding:7px 0;border-bottom:1px solid var(--border)"><span class="mono tiny">' + r.page + '</span><span class="tiny dim">' + r.cs + "/" + r.ov + '</span><span class="tiny ' + (r.delta ? "" : "dim") + '">' + (r.delta >= 0 ? "+" : "") + r.delta + '</span></div>';
+    }).join("") : '<p class="tiny dim">No runs in this browser yet.</p>';
+  }
+  document.getElementById("clear-ing").addEventListener("click", function () { OD.LS.remove(IK); renderIng(); OD.toast("Cleared", "ok"); });
+  renderIng();
+})();
+</script>
+</body>
+</html>

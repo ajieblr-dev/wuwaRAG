@@ -1,0 +1,136 @@
+{
+  "version": "0.1.0",
+  "corpus": {
+    "chunks_json": "data/processed/chunks.json",
+    "pages": ["Simulacrum_of_the_Heart", "Hsin", "Suoming", "Mengzhou", "Xuanfang_Hold"],
+    "chunk_count": 222,
+    "retrieval_defaults": { "top_k": 5, "score_threshold": 0.25, "embedding": "sentence-transformers/all-MiniLM-L6-v2" }
+  },
+  "scoring": {
+    "per_question": ["hit_expected_page_in_topk", "answer_contains_must_include", "answer_excludes_must_exclude", "citation_points_to_expected_page"],
+    "suite": ["page_recall@k", "must_include_recall", "abstention_rate_on_unanswerable", "speaker_attribution_pass_rate"]
+  },
+  "questions": [
+    {
+      "id": "E01",
+      "question": "What are Moon Fox Rice Cakes, and who recommends or makes them?",
+      "expected_page": "Simulacrum_of_the_Heart",
+      "expected_section_contains": "tea stall",
+      "must_include": ["Moon Fox Rice Cakes", "Hsin"],
+      "must_exclude": [],
+      "spoiler": false,
+      "speaker_check": "Tea Stall Owner recommends them as Lady Hsin's favorite; Shuyun makes them as a gift",
+      "notes": "Tests OD.suggested Q2. Grounding chunks: index 3 (Talk to the tea stall owner), index 6 (Talk to Shuyun)."
+    },
+    {
+      "id": "E02",
+      "question": "Who is Intendant Suoming and which organization does she serve?",
+      "expected_page": "Suoming",
+      "expected_section_contains": "Introduction",
+      "must_include": ["Suoming", "Ministry of Sentinel Affairs"],
+      "must_exclude": [],
+      "spoiler": false,
+      "speaker_check": null,
+      "notes": "Only 1 Suoming chunk exists; at TOP_K=5 this must still surface vs ~206 Simulacrum chunks. Failure here signals corpus-skew recall problem."
+    },
+    {
+      "id": "E03",
+      "question": "What is the covenant or deal between Suoming and Hsin, and what object seals it?",
+      "expected_page": "Simulacrum_of_the_Heart",
+      "expected_section_contains": "Descend into the Sanctum",
+      "must_include": ["Vermillion Lock", "covenant"],
+      "must_exclude": [],
+      "spoiler": true,
+      "speaker_check": "Suoming and Qingxiao must both appear as speakers in supporting chunk (index 26)",
+      "notes": "Spoiler-grade answer. Verify spoiler gate path in web/ (body[data-spoiler]) rather than raw text leak."
+    },
+    {
+      "id": "E04",
+      "question": "Who is Hsin, and what is her role in Mengzhou?",
+      "expected_page": "Hsin",
+      "expected_section_contains": "Introduction",
+      "must_include": ["Moon Fox", "Sentinel"],
+      "must_exclude": [],
+      "spoiler": false,
+      "speaker_check": null,
+      "notes": "Only 3 Hsin chunks; infobox-residue chunk (index 0, raw '|title = The Moon Fox' pipes) must not be quoted as prose. Flags parser infobox-strip gap."
+    },
+    {
+      "id": "E05",
+      "question": "What is Xuanfang Hold and where is it located?",
+      "expected_page": "Xuanfang_Hold",
+      "expected_section_contains": "Introduction",
+      "must_include": ["Mengzhou", "Jinzhou"],
+      "must_exclude": [],
+      "spoiler": false,
+      "speaker_check": null,
+      "notes": "Grounding: Xuanfang_Hold Introduction chunk (between Mengzhou and Jinzhou, vital passageway) or Mengzhou Introduction chunk."
+    },
+    {
+      "id": "E06",
+      "question": "Why do rumors say Xuanfang Hold will collapse, and who started them?",
+      "expected_page": "Simulacrum_of_the_Heart",
+      "expected_section_contains": "rumors",
+      "must_include": ["served its purpose"],
+      "must_exclude": [],
+      "spoiler": true,
+      "speaker_check": "Qingchen/Wanhong/Liangyu/Qingxiao/Suoming chain (indexes 21, 26); Suoming admits 'Yes' the rumor came from her",
+      "notes": "Tests multi-chunk synthesis. Answer must attribute rumor to Suoming/Ministry acting to keep people safe, not to Wardens."
+    },
+    {
+      "id": "E07",
+      "question": "What is Mengzhou known for, and who guards Xuanfang Hold under its Ministry of War?",
+      "expected_page": "Mengzhou",
+      "expected_section_contains": "Military",
+      "must_include": ["Xuanfang Wardens"],
+      "must_exclude": [],
+      "spoiler": false,
+      "speaker_check": null,
+      "notes": "Grounding: Mengzhou Introduction (waterways, automata mechanics) + Military (Xuanfang Wardens / Xuan Triad / Xuan Watchers)."
+    },
+    {
+      "id": "E08",
+      "question": "What is the Manifold Sanctum's relationship to Hsin the Moon Fox?",
+      "expected_page": "Simulacrum_of_the_Heart",
+      "expected_section_contains": "Suoming meets with Tangning",
+      "must_include": ["one and the same"],
+      "must_exclude": [],
+      "spoiler": true,
+      "speaker_check": "Suoming line in index 16: 'The Manifold Sanctum and Hsin the Moon Fox are one and the same'",
+      "notes": "Highest-spoiler fact in set. Eval must check answer carries spoiler flag and cites Simulacrum chunk, not Hsin page."
+    },
+    {
+      "id": "E09",
+      "question": "What are the Heart of Flames, Heart of Bloom, and Heart of Frost Keys used for?",
+      "expected_page": "Simulacrum_of_the_Heart",
+      "expected_section_contains": "Heart",
+      "must_include": ["Heart of Flames"],
+      "must_exclude": [],
+      "spoiler": false,
+      "speaker_check": "Suoming+Rover co-speakers; ??? voice lines (indexes 38/40/42) test null-speaker handling",
+      "notes": "Retrieval trap: 3+ near-identical tiny chunks (indexes 37-42, 79-141 chars). Pass = at least 2 of 3 keys cited; fail mode is only one key returned at TOP_K=5."
+    },
+    {
+      "id": "E10",
+      "question": "What dish is associated with Hsin, and what food does Intendant Suoming dislike?",
+      "expected_page": "Simulacrum_of_the_Heart",
+      "expected_section_contains": "meet with Suoming",
+      "must_include": ["Moon Fox Rice Cakes", "bitter"],
+      "must_exclude": [],
+      "spoiler": false,
+      "speaker_check": "Tangning internal monologue chunk index 7: 'Intendant Suoming dislikes anything bitter-tasting'",
+      "notes": "Join test across index 3 (Hsin favorite) + index 7 (Suoming dislikes bitter). Single-chunk answers are incomplete by design."
+    },
+    {
+      "id": "E11_UNANSWERABLE",
+      "question": "What is Rover's real name and birthday?",
+      "expected_page": null,
+      "expected_section_contains": null,
+      "must_include": ["not found in the quest records", "not in"],
+      "must_exclude": ["Moon Fox"],
+      "spoiler": false,
+      "speaker_check": null,
+      "notes": "Negative control. Corpus has no such fact ({{Rover}} template is stripped to 'Rover'). Correct behavior per rag.go system prompt rule 2 is explicit abstention, not hallucination. Loose must_include: any clear 'not found / not in records' phrasing passes on manual review."
+    }
+  ]
+}
