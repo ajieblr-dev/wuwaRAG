@@ -38,6 +38,8 @@ var (
 	reBlackScreen     = regexp.MustCompile(`(?i)\{\{Black Screen\|([^\}]+)\}\}`)
 	reQuestDesc       = regexp.MustCompile(`(?i)\{\{Quest Description\|([^\}]+)\}\}`)
 	reWavesLineStart  = regexp.MustCompile(`(?i)\{\{WavesLine\s*\|\s*text\s*=\s*`)
+	reMCTemplate      = regexp.MustCompile(`(?i)\{\{MC\s*\|\s*(?:[mf]=)?([^\|\}]+)\s*(?:\|\s*(?:[mf]=)?([^\|\}]+))?\s*\}\}`)
+	reRubiTemplate    = regexp.MustCompile(`(?i)\{\{Rubi\s*\|\s*([^\|\}]+)\s*\|\s*([^\|\}]+)\s*\}\}`)
 	reGenericTemplate = regexp.MustCompile(`(?s)\{\{[^\}]+\}\}`)
 	reBoldItalic      = regexp.MustCompile(`'{4,5}`)
 	reBold            = regexp.MustCompile(`'''`)
@@ -53,6 +55,8 @@ func CleanWikitext(text string) string {
 	text = reRefTags.ReplaceAllString(text, "")
 
 	// Handle specific game wiki templates before generic template removal
+	text = reMCTemplate.ReplaceAllString(text, "$1")
+	text = reRubiTemplate.ReplaceAllString(text, "$1 ($2)")
 	text = reRoverTemplate.ReplaceAllString(text, "Rover")
 	text = reDIconTemplate.ReplaceAllString(text, "[Dialogue Option] ")
 	text = reChoiceTemplate.ReplaceAllString(text, "[Choice] ")
@@ -244,16 +248,17 @@ func ParseIntoChunks(pageTitle, rawWikitext string, targetChunkSize, chunkOverla
 			textChunks := chunkText(sceneText, targetChunkSize, chunkOverlap)
 			for _, chunkStr := range textChunks {
 				chunkStr = strings.TrimSpace(chunkStr)
-				// Skip very short fragments unless they contain dialogue
-				if len(chunkStr) < 50 && !strings.Contains(chunkStr, ":") {
-					continue
-				}
-				// Skip cutscene boilerplate lines without dialogue
-				if strings.HasPrefix(chunkStr, "[Objective: (Cutscene") {
+				speakers := ExtractSpeakers(chunkStr)
+
+				// Skip cutscene markers if they contain no dialogue or speakers
+				if strings.HasPrefix(chunkStr, "[Objective: (Cutscene") && len(speakers) == 0 {
 					continue
 				}
 
-				speakers := ExtractSpeakers(chunkStr)
+				// Skip very short fragments without dialogue
+				if len(chunkStr) < 60 && len(speakers) == 0 {
+					continue
+				}
 				deterministicID := generateDeterministicUUID(fmt.Sprintf("%s:%s:%d:%s", pageTitle, sec.title, chunkIndex, chunkStr[:min(len(chunkStr), 50)]))
 
 				allChunks = append(allChunks, Chunk{

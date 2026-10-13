@@ -56,7 +56,7 @@ func ScorePointLexical(p qdrant.ScoredPoint, keywords []string) float64 {
 
 		matched := false
 		if strings.Contains(titleLower, kwLower) {
-			score += 3.5
+			score += 2.0
 			matched = true
 		}
 		if strings.Contains(speakersLower, kwLower) {
@@ -68,8 +68,8 @@ func ScorePointLexical(p qdrant.ScoredPoint, keywords []string) float64 {
 			matched = true
 		}
 		if count := strings.Count(contentLower, kwLower); count > 0 {
-			// Sub-linear term frequency saturation
-			score += 1.0 + math.Log1p(float64(count))
+			// Sub-linear term frequency saturation with strong base for content matches
+			score += 3.0 + 2.0*math.Log1p(float64(count))
 			matched = true
 		}
 
@@ -80,7 +80,7 @@ func ScorePointLexical(p qdrant.ScoredPoint, keywords []string) float64 {
 
 	// Reward documents that match multiple distinct keywords
 	if matchedKeywords > 1 {
-		score *= (1.0 + 0.25*float64(matchedKeywords))
+		score *= (1.0 + 0.50*float64(matchedKeywords))
 	}
 
 	return score
@@ -202,7 +202,7 @@ func ReciprocalRankFusion(
 		doc.RRFScore = rrf
 
 		// Composite ranking: RRF (primary) + Vector cosine weight + Lexical bonus
-		doc.FinalScore = rrf*10.0 + (doc.VectorScore * 0.3)
+		doc.FinalScore = rrf*10.0 + (doc.VectorScore * 0.3) + math.Min(doc.LexicalScore*0.02, 1.0)
 		docList = append(docList, doc)
 	}
 

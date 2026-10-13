@@ -17,9 +17,14 @@ func TestCleanWikitext(t *testing.T) {
 :'''Abby:''' Say, on this trip to the village, we're not having that same stuff again, are we?
 :'''{{Rover}}:''' ...Mengzhou Fish in Vinegar?
 :'''Abby:''' Eugh, yeah. Besides that, Xuanfang's full of good eats.
+:'''Narrator:''' Determined to defeat the {{Rubi|Threnodian|Ovathrax}} once and for all.
 `
 
 	cleaned := CleanWikitext(raw)
+
+	if !strings.Contains(cleaned, "Threnodian (Ovathrax)") {
+		t.Errorf("Expected Rubi template expansion 'Threnodian (Ovathrax)', got: %s", cleaned)
+	}
 
 	if strings.Contains(cleaned, "{{Stub") {
 		t.Errorf("Cleaned text should not contain {{Stub, got: %s", cleaned)
@@ -62,13 +67,29 @@ func TestParseIntoChunks(t *testing.T) {
 :'''Abby:''' Let's grab some food!
 :'''Rover:''' Good idea.
 
+;(Cutscene plays)
+:'''Narrator:''' Ovathrax, the dreadful Threnodian monster, fed on the frequencies of weapons...
+
+;(Cutscene ends)
+
 ==Gallery==
 [[File:Pic.png|thumb|An image]]
 `
 
-	chunks := ParseIntoChunks("Simulacrum of the Heart", raw, 500, 50)
+	chunks := ParseIntoChunks("Rewinding Raindrops", raw, 500, 50)
 	if len(chunks) == 0 {
 		t.Fatalf("Expected chunks to be generated, got 0")
+	}
+
+	foundOvathrax := false
+	for _, c := range chunks {
+		if strings.Contains(c.Content, "Ovathrax") {
+			foundOvathrax = true
+			break
+		}
+	}
+	if !foundOvathrax {
+		t.Errorf("Expected chunk containing Ovathrax dialogue to be retained")
 	}
 
 	// Gallery should be omitted

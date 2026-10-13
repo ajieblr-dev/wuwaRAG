@@ -171,6 +171,22 @@ Following [`rag_accuracy_enhancement_plan.md`](rag_accuracy_enhancement_plan.md)
    - `RRF_K=60`
    - `CANDIDATE_POOL_SIZE=25`
 
+### Phase 9: Parser Fix for Ruby/Cutscene Lore Loss & Multi-Keyword Hybrid Retrieval
+During deep entity verification on `Ovathrax` and `Rewinding Raindrops`, critical edge cases were identified and resolved:
+1. **Parser Cutscene Dialogue Drop:**
+   - In `internal/parser/parser.go`, cutscene objective boundaries like `;(Cutscene plays)` previously skipped entire chunks starting with `[Objective: (Cutscene`.
+   - This caused the iconic monologue about Ovathrax, General Geshu Lin, and the *Battle Beneath the Crescent* in `Rewinding Raindrops` (and 53 other narrative cutscenes) to be dropped.
+   - **Fix:** Refined chunk filtering to only skip cutscene markers if they contain no dialogue or speakers (`len(speakers) == 0`).
+2. **Parser Ruby & MC Template Preservation:**
+   - Wiki templates like `{{Rubi|Threnodian|Ovathrax}}` and `{{MC|m=him|f=her}}` were being erased by generic template stripping.
+   - **Fix:** Added regex pre-processing expanding `{{Rubi|Base|Gloss}}` to `Base (Gloss)` and `{{MC|...}}` to standard pronouns, restoring 155 key lore relationships.
+3. **Multi-Keyword Scroll Starvation:**
+   - In `internal/qdrant/qdrant.go`, passing multiple keywords into a single `filter.should` allowed high-frequency words (`Threnodian`, `Sentinel`) to consume the scroll limit before rare entities (`Ovathrax`) could be reached.
+   - **Fix:** Updated `ScrollByText` to query Qdrant per-keyword (sorted by phrase length/specificity) with candidate deduplication, guaranteeing rare entity representation.
+4. **Enhanced Lexical Scoring & Reranking:**
+   - Increased content match base weights (`3.0 + 2.0*log1p(count)`) over title-only matches in `internal/rag/hybrid.go`.
+   - Re-ingested all 3,786 main quest chunks into Qdrant collection `wuwa_lore`.
+
 ---
 
 ## 3. Directory Layout & File Roles

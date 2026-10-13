@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"sort"
 	"strings"
 	"time"
 )
@@ -271,7 +272,18 @@ func (c *Client) GetCollectionInfo(ctx context.Context, collectionName string) (
 	}, nil
 }
 
-// ScrollByText searches points matching any of the supplied keywords in payload fields.
+func pointIDToString(id interface{}) string {
+	switch v := id.(type) {
+	case string:
+		return v
+	case float64:
+		return fmt.Sprintf("%.0f", v)
+	default:
+		return fmt.Sprintf("%v", v)
+	}
+}
+
+// ScrollByText searches points matching supplied keywords in payload fields across distinct terms.
 func (c *Client) ScrollByText(ctx context.Context, collectionName string, keywords []string, limit int) ([]ScoredPoint, error) {
 	if limit <= 0 {
 		limit = 25
@@ -280,67 +292,93 @@ func (c *Client) ScrollByText(ctx context.Context, collectionName string, keywor
 		return nil, nil
 	}
 
-	var shouldConditions []map[string]interface{}
+	var validKeywords []string
+	seenKw := make(map[string]bool)
 	for _, kw := range keywords {
 		kw = strings.TrimSpace(kw)
-		if len(kw) < 2 {
-			continue
+		lower := strings.ToLower(kw)
+		if len(kw) >= 2 && !seenKw[lower] {
+			seenKw[lower] = true
+			validKeywords = append(validKeywords, kw)
 		}
-		// Match against title, speakers, subsection, and content
-		shouldConditions = append(shouldConditions,
-			map[string]interface{}{"key": "title", "match": map[string]interface{}{"text": kw}},
-			map[string]interface{}{"key": "speakers", "match": map[string]interface{}{"text": kw}},
-			map[string]interface{}{"key": "subsection", "match": map[string]interface{}{"text": kw}},
-			map[string]interface{}{"key": "content", "match": map[string]interface{}{"text": kw}},
-		)
 	}
-
-	if len(shouldConditions) == 0 {
+	if len(validKeywords) == 0 {
 		return nil, nil
 	}
 
+	// Sort keywords by length descending to prioritize specific entities/phrases over generic short words
+	sort.Slice(validKeywords, func(i, j int) bool {
+		return len(validKeywords[i]) > len(validKeywords[j])
+	})
+
+	// Cap at top 6 distinct keywords to prevent excessive calls
+	if len(validKeywords) > 6 {
+		validKeywords = validKeywords[:6]
+	}
+
 	scrollURL := fmt.Sprintf("%s/collections/%s/points/scroll", c.baseURL, collectionName)
-	scrollPayload := map[string]interface{}{
-		"limit":        limit,
-		"with_payload": true,
-		"filter": map[string]interface{}{
-			"should": shouldConditions,
-		},
+	seenPoints := make(map[string]bool)
+	var mergedPoints []ScoredPoint
+
+	for _, kw := range validKeywords {
+		shouldConditions := []map[string]interface{}{
+			{"key": "title", "match": map[string]interface{}{"text": kw}},
+			{"key": "speakers", "match": map[string]interface{}{"text": kw}},
+			{"key": "subsection", "match": map[string]interface{}{"text": kw}},
+			{"key": "content", "match": map[string]interface{}{"text": kw}},
+		}
+
+		scrollPayload := map[string]interface{}{
+			"limit":        limit,
+			"with_payload": true,
+			"filter": map[string]interface{}{
+				"should": shouldConditions,
+			},
+		}
+
+		bodyBytes, err := json.Marshal(scrollPayload)
+		if err != nil {
+			continue
+		}
+
+		req, err := http.NewRequestWithContext(ctx, http.MethodPost, scrollURL, bytes.NewReader(bodyBytes))
+		if err != nil {
+			continue
+		}
+		req.Header.Set("Content-Type", "application/json")
+
+		resp, err := c.httpClient.Do(req)
+		if err != nil {
+			continue
+		}
+
+		if resp.StatusCode != http.StatusOK {
+			resp.Body.Close()
+			continue
+		}
+
+		var scrollResp struct {
+			Result struct {
+				Points []ScoredPoint `json:"points"`
+			} `json:"result"`
+			Status string `json:"status"`
+		}
+
+		if err := json.NewDecoder(resp.Body).Decode(&scrollResp); err != nil {
+			resp.Body.Close()
+			continue
+		}
+		resp.Body.Close()
+
+		for _, pt := range scrollResp.Result.Points {
+			idStr := pointIDToString(pt.ID)
+			if !seenPoints[idStr] {
+				seenPoints[idStr] = true
+				mergedPoints = append(mergedPoints, pt)
+			}
+		}
 	}
 
-	bodyBytes, err := json.Marshal(scrollPayload)
-	if err != nil {
-		return nil, fmt.Errorf("failed to marshal scroll query: %w", err)
-	}
-
-	req, err := http.NewRequestWithContext(ctx, http.MethodPost, scrollURL, bytes.NewReader(bodyBytes))
-	if err != nil {
-		return nil, fmt.Errorf("failed to build scroll request: %w", err)
-	}
-	req.Header.Set("Content-Type", "application/json")
-
-	resp, err := c.httpClient.Do(req)
-	if err != nil {
-		return nil, fmt.Errorf("scroll request failed: %w", err)
-	}
-	defer resp.Body.Close()
-
-	if resp.StatusCode != http.StatusOK {
-		respBody, _ := io.ReadAll(resp.Body)
-		return nil, fmt.Errorf("scroll failed (status %d): %s", resp.StatusCode, string(respBody))
-	}
-
-	var scrollResp struct {
-		Result struct {
-			Points []ScoredPoint `json:"points"`
-		} `json:"result"`
-		Status string `json:"status"`
-	}
-
-	if err := json.NewDecoder(resp.Body).Decode(&scrollResp); err != nil {
-		return nil, fmt.Errorf("failed to decode scroll response: %w", err)
-	}
-
-	return scrollResp.Result.Points, nil
+	return mergedPoints, nil
 }
 
