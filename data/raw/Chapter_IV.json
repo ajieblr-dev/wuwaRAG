@@ -1,0 +1,70 @@
+{
+  "title": "Chapter IV",
+  "pageid": 42238,
+  "wikitext": "{{Stub}}\n{{Chapter Infobox\n|chapterName     = Rebirth From the Depths\n|image           = Mengzhou Emblem.png\n|type            = Main\n|prev            = Chapter III\n|next            = Chapter V\n}}\n'''Rebirth From the Depths''' is the [[Main Quests|Main Quest]] chapter set in [[Mengzhou]], [[Huanglong]]. \n\n==List of Acts==\n* Act I - [[The Wind Before the Storm]]\n* Act II - [[Xuanling Sings, Storm Quelled]]\n* Segue - [[The Chant of Unseen Ties]]\n* Act III - [[Song of the Heart Sword]]\n* Segue - [[The Nethermancer's Requiem]]\n* Act IV - [[Simulacrum of the Heart]]\n\n==Summary==\n===Act I - The Wind Before the Storm===\n{{Quest Description|After the events in Lahai-Roi are resolved, you decide to return to Huanglong, only to receive news of Yangyang's disappearance. In order to find her, you join Suisui, Yangyang's elder sister, on a journey to the Land of Xuanfang in Mengzhou.}} \n\n===Act II - Xuanling Sings, Storm Quelled===\n{{Quest Description|The Land of Xuanfang is thrown into turmoil following an unexpected riot of out-of-control Autopuppets. As you investigate, you uncover the mastermind behind the scheme—a mysterious Artisan who covets the Sentinel's technology. In the culmination of the event, this figure commands the rogue Autopuppets to launch an assault on Xuanfang Hold.}}\n\n===Segue - The Chant of Unseen Ties===\n{{Quest Description|Days after the Autopuppet crisis was solved, Yangyang chooses to stay behind in the Land of Xuanfang to assist the soldiers and the civilians. As she's waiting on her Resonance Assessment report, a mysterious voice starts to whisper in her ears...}}\n\n===Act III - Song of the Heart Sword===\n{{Quest Description|With the great battle over, the Land of Xuanfang is slowly returning to how it once was, though plenty of aftershocks have yet to settle. Then one day, a WavesLine message from Yangyang arrives out of the blue: Suisui is about to head back to Mengzhou City...}}\n{{Quest Description|To trace the anomaly to its source, you and Qingxiao ventured into the Manifold Sanctum, only to find that Xuanfang Hold's control mainframe had been eroded by Reverberations. As the Sanctum, and then all of Xuanfang Hold, took to the air, the two of you fell into a deep valley...}}\n{{Quest Description|Not long after the upheaval that swept the entire Land of Xuanfang came to an end, Suisui, far away in Mengzhou City, wants to share what her investigation turned up with you and Yangyang... Come to think of it, what has Qingxiao been up to lately?}}\n\n===Segue - The Nethermancer's Requiem===\n{{Quest Description|With the crisis behind you, Liangyu seems to have something to discuss. Go find out what it is when you have a moment. You may soon be seeing that Nethermancer who worked alongside you at the Manifold Sanctum.}}\n\n===Act IV - Simulacrum of the Heart===\n{{Quest Description|TBA}}\n\n==Navigation==\n{{Quest Navbox|Main Quests}}\n[[Category:Chapter IV| ]]\n[[Category:Main Quests]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "List of Acts",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Summary",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Act I - The Wind Before the Storm",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Act II - Xuanling Sings, Storm Quelled",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Segue - The Chant of Unseen Ties",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Act III - Song of the Heart Sword",
+      "number": "2.4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Segue - The Nethermancer's Requiem",
+      "number": "2.5",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Act IV - Simulacrum of the Heart",
+      "number": "2.6",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "9"
+    }
+  ]
+}

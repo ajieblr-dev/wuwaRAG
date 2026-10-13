@@ -1,0 +1,35 @@
+{
+  "title": "Thaw of Eons",
+  "pageid": 9110,
+  "wikitext": "{{Chapter Infobox\n|image         = Quest Thaw of Eons.png\n|type          = Main\n|nation        = Huanglong\n|region        = \n|area          = \n|event_name    =\n|chapter       = Chapter I\n|actNum        = VII\n|act           = \n|part          =\n|characters    = \n|npc           = \n|description   = \n|requirement   =\n|startLocation = \n|prev          = [[A New Companion]]\n|next          = [[To the Shore's End]]\n|rewards       = Union EXP*2,000;Astrite*240;Rover's Waveband (Havoc)*1;Advanced Resonance Potion*17;Advanced Sealed Tube*10;Advanced Energy Core*10;Shell Credit*100,000\n}}\n\n'''Thaw of Eons''' is the seventh act in [[Chapter I]] of the [[Main Quests]].\n\n==List of Parts==\n#[[Dreamweaver's Ascent]]\n#[[To Mt. Firmament]]\n#[[Truthseeker's Pass (Quest)|Truthseeker's Pass]]\n#[[Road of Pilgrimage]]\n#[[Mianloong Chamber (Quest)|Mianloong Chamber]]\n#[[The Commander of Time]]\n#[[Dawn of Snowstorm]]\n\n==Other Languages==\n{{Other Languages\n|en   = Thaw of Eons\n|zhs  = 往岁乘霄醒惊蛰\n|zht  = 往歲乘霄醒驚蟄\n|ja   = 春雷明かす乗霄の暗雲\n|ko   = 승소산에서 울렸던 경칩 소리\n|fr   = Quand les éons fondent\n|de   = Auftauen der Äonen\n|es   = Deshielo de eones\n|th   = จ้าวแห่งยุคผงาดจากนิทรา\n|pt   = Alvorecer das Eras\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==Navigation==\n{{Quest Navbox|Main Quests}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "List of Parts",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

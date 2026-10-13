@@ -1,0 +1,91 @@
+{
+  "title": "Chapter I",
+  "pageid": 9142,
+  "wikitext": "{{Stub}}\n{{Chapter Infobox\n|chapterName     = Jinzhou Rising\n|image           = \u003cgallery\u003e\nHuanglong Emblem.png|Huanglong Chapter\nThe Black Shores Emblem.png|The Black Shores Chapter\n\u003c/gallery\u003e\n|type            = Main\n|prev            = Prologue\n|next            = Chapter II\n}}\n'''Jinzhou Rising''' is the [[Main Quest]] chapter set in [[Huanglong]], and later [[Black Shores#The_Black_Shores|The Black Shores]].\n\n==List of Acts==\n*Act I - [[First Resonance]]\n*Act II - [[Echoing Marche]]\n*Act III - [[Ominous Star]]\n*Act IV - [[Clashing Blades]]\n**Requirements: {{Quest|11|requirements=1}}\n*Act V - [[Rewinding Raindrops]]\n*Act VI - [[Grand Warstorm]]\n*Interlude - [[A New Companion]]\n*Act VII - [[Thaw of Eons]]\n*Act VIII - [[To the Shore's End]]\n\n==Summary==\n===Act I - First Resonance===\n{{Quest Description|As the city lights twinkle, friendly faces beckon you to join them in the bustling border town. Immerse yourself in its prosperous yet tranquil ambiance.}}\n\n===Act II - Echoing Marche===\n{{Quest Description|As the tides of danger retreat, Jinzhou appears tranquil and vibrant. But beyond its borders lies a fierce and desperate battleground.}}\n\n===Act III - Ominous Star===\n{{Quest Description|Forbidden memories of the past lay buried in ashes and ruins. The ominous \"fractured star\" beckons, holding untold secrets within its shadows. Secrets that still burn within a cindered heart.}}\n\n=== Act IV - Clashing Blades===\n{{Quest Description|The purposes and directions of the three tokens have all been found. All the answers of the riddles seem to be hidden behind the mysterious gate that the sundial hints at.}}\n\n=== Act V - Rewinding Raindrops===\n{{Quest Description|The previous puzzle's answers has been revealed, but it only leads to another one. With a storm on the horizon, you follow the Magistrate's advice and search for clues about \"the Black Shores\".}}\n\n=== Act VI - Grand Warstorm===\n{{Quest Description|\nAs the promised raindrops fall upstream, you embark on a journey north to the battlefield in search for answers.}}\n\n===Interlude===\n{{Quest Description|After the battle of Norfall Barrens, everything came to an end. Your friends are calling you for a meet-up with snacks at Panhua's Restaurant. It seems they like to know more about that \"little one\" from within your body...}}\n\n===Act VII - Thaw of Eons===\n{{Quest Description|Your forgotten past, hazy memories, and a strange dream... So many questions linger about your identity, and who you used to be. Meanwhile, a mysterious pull guides you to a [[Mt. Firmament|hidden place]] on the distant sea...}}\n\n===Act VIII - To the Shore's End===\n{{Quest Description|The future is still unknown, and the past remains buried beneath the waves. After your journey across Mt. Firmament, all clues now point to a hidden island in the sea—the Black Shores. Yangyang's message hints that in the Port City of Guixu, you might find the Bloom Bearer now stationed in Jinzhou...}}\n\n==Navigation==\n{{Quest Navbox|Main Quests}}\n\n[[Category:Main Quests]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "List of Acts",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Summary",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Act I - First Resonance",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Act II - Echoing Marche",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Act III - Ominous Star",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Act IV - Clashing Blades",
+      "number": "2.4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Act V - Rewinding Raindrops",
+      "number": "2.5",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Act VI - Grand Warstorm",
+      "number": "2.6",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Interlude",
+      "number": "2.7",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Act VII - Thaw of Eons",
+      "number": "2.8",
+      "index": "10"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Act VIII - To the Shore's End",
+      "number": "2.9",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "12"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "To the Shore's End",
+  "pageid": 20586,
+  "wikitext": "{{Chapter Infobox\n|image         = Quest To the Shore's End.png\n|type          = Main\n|nation        = The Black Shores\n|region        = \n|area          = \n|event_name    =\n|chapter       = Chapter I\n|actNum        = VIII\n|act           = \n|part          =\n|characters    = \n|npc           = \n|description   = \n|requirement   =\n|startLocation = \n|prev          = [[Thaw of Eons]]\n|next          = [[Through the Sea Thou Break]]\n|rewards       = Union EXP*2,000;Astrite*200;Advanced Resonance Potion*6;Advanced Sealed Tube*10;Advanced Energy Core*4;KU-Cass Cartridge*5;Shell Credit*60,000\n}}\n'''To the Shore's End''' is the eighth act in [[Chapter I]] of the [[Main Quests]].\n\n== List of Parts ==\n# [[From the Echoes of Destruction]]\n# [[Hidden Between the Waves]]\n# [[Legacy of the Lasting Night]]\n# [[Advance toward the Future from Today]]\n# [[Beyond the Shore's End]]\n\n==Other Languages==\n{{Other Languages\n|en   = To the Shore's End\n|zhs  = 行至海岸尽头\n|zht  = 行至海岸盡頭\n|ja   = 岸の最果てまで\n|ko   = 해안의 끝을 찾아서\n|fr   = Jusqu'au bout du Littoral\n|de   = Bis ans Ende der Küsten\n|es   = Hasta el final de la costa\n|th   = สู่สุดขอบชายฝั่ง\n|pt   = Até o Fim da Costa\n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==Navigation==\n{{Quest Navbox|Main Quests}}\n[[ru:До конца берегов]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "List of Parts",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

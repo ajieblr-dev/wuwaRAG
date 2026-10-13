@@ -57,8 +57,8 @@ func Load() *Config {
 
 		WikiAPIURL:       getEnv("WIKI_API_URL", "https://wutheringwaves.fandom.com/api.php"),
 		DefaultWikiPage:  getEnv("DEFAULT_WIKI_PAGE", "Simulacrum_of_the_Heart"),
-		TopK:             getEnvAsInt("TOP_K", 5),
-		ScoreThreshold:   getEnvAsFloat("SCORE_THRESHOLD", 0.25),
+		TopK:             getEnvAsInt("TOP_K", 8),
+		ScoreThreshold:   getEnvAsFloat("SCORE_THRESHOLD", 0.20),
 	}
 
 	return cfg

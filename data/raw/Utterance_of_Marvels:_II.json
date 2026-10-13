@@ -1,0 +1,56 @@
+{
+  "title": "Utterance of Marvels: II",
+  "pageid": 2246,
+  "wikitext": "{{Quest Infobox\n|id= 139000026\n|image         = Quest Utterance of Marvels Part II.png\n|type          = Main\n|nation        = Huanglong\n|area          = \n|event_name    =\n|chapter       = Prologue\n|actNum        = \n|act           = \n|part          =\n|characters    = Rover;Yangyang;Chixia;Baizhi;Jinhsi;Camellya\n|npc           =\n|description   =\n|requirement   =\n|startLocation = \n|prev          = [[Utterance of Marvels: I]]\n|next          = [[First Resonance]]\n|rewards       = Union EXP*1,000;Astrite*100;Medium Resonance Potion*10;Medium Energy Core*7;Shell Credit*40,000}}\n\n'''Utterance of Marvels: II''' is the second part in the [[Prologue]] chapter of the [[Main Quests]].\n\n== Synopsis ==\n[[Baizhi]], [[Chixia]], and [[Yangyang]] lead [[Rover]] to [[Jinzhou]]. On their way there, Chixia helps Rover properly absorb an [[Echo]] with their [[terminal]]. Once at Jinzhou, the trio split up, and Rover is left in Chixia’s care as they explore the city together before meeting the [[Jinhsi|Magistrate]].\n\n==Steps==\n#Find a suitable [[Tacet Discord]]\n#Defeat [[Stonewall Bracer]]\n#Absorb the Reverberation and obtain an [[Echo]]\n#Equip the Echo\n#Defeat nearby TDs: (0/2)\n#Return to [[Jinzhou]]\n##(Optional) Activate [[Resonance Beacon]]\n#Head to Jinzhou\n\n==Gameplay Notes==\n* Completing the quest will grant the ''[[Rover's Journey]]'' [[trophy]] ''[[From the New World]]'' and the [[Resonator]] [[Chixia]].\n\n==Dialogue ==\n{{Quest Description|Amidst a ripple of Reverberations, you hear the call... As you unravel your past, a new path unfolds before you, beckoning from the unknown.}}\n{{Dialogue Start}}\n:{{A|Vo hlmq xz 23_1.ogg}} '''[[Baizhi]]:''' It would be best for your well-being to have a thorough physical examination once we arrive in Jinzhou.\n:{{A|Vo hlmq xz 23_2.ogg}} '''Baizhi:''' While there don't seem to be any immediate side effects following the absorption of that Echo, we cannot rule out the possibility of other latent risks.\n:{{A|Vo hlmq xz 23_3.ogg}} '''Baizhi:''' Given our lack of data on you and your unusual physical signs, I suggest absorbing another Reverberation with your [[Terminal]] when we find one. That being said, please be sure to proceed cautiously.\n:{{A|Vo hlmq xz 23_4.ogg}} '''Chixia:''' Yeah, don't go too hard on yourself. You should get a check-up just to be safe. Besides, [[Yangyang]]'s very worried about you.\n:{{A|Vo hlmq xz 23_5.ogg}} '''Yangyang:''' If you feel any discomfort along the way, please do let us know.\n----\n;(As the player goes to the designated location)\n:{{A|Vo hlmq xz 24_1.ogg}} '''Chixia:''' I'm gonna get you one you can absorb. I never go back on my promise! Your hero Chixia's on the hunt!\n----\n:{{A|Vo hlmq xz 25_1.ogg}} '''Baizhi:''' Can you reenact what you did before?\n:{{DIcon}} (Shake your head.)\n:{{DIcon}} I feel nothing.\n:{{DIcon}} I don't have the feeling of being pushed like I did before.\n:{{A|Vo hlmq xz 25_5.ogg}} '''Chixia:''' Hmm, maybe you can only absorb the powerful ones with your body?\n:{{A|Vo hlmq xz 25_6.ogg}} '''Chixia:''' Or does it have to be a certain type of Tacet Discord?\n:{{A|Vo hlmq xz 25_7.ogg}} '''Chixia:''' Or maybe...\n:{{A|Vo hlmq xz 29_1.ogg}} '''Chixia:''' Maybe we should give your Terminal a whirl?\n----\n:{{A|Vo hlmq xz 30_1.ogg}} '''Chixia:''' Yay! it worked!\n:{{A|Vo hlmq xz 30_2.ogg}} '''Chixia:''' I've never seen a gourd quite like yours before, but it sure is working just fine.\n----\n:{{A|Vo hlmq 1_yindao_3_1.ogg}} '''Chixia:''' Hmm... Your Terminal's got a different look, but the functions are pretty much the same.\n----\n:{{A|Vo hlmq xz 26_1.ogg}} '''Chixia:''' Look! [[Jinzhou]] City's just up ahead!\n:{{A|Vo hlmq xz 28_2.ogg}} '''Yangyang:''' ...[[Rover]]?\n----\n;Chapter 1 Act 1 Utterance of Marvels [Quest Complete]\n:{{A|Vo hlmq xz 28_4.ogg}} '''[[Camellya|???]]:''' Hehe, there you are.\n:{{A|Vo hlmq xz 28_5.ogg}} '''???:''' My dearest...\n:{{A|Vo hlmq xz 28_6.ogg}} '''???:''' ...''{{Color|help|seed of fate|nobold=1}}''.\n----\n:{{A|Vo hlmq m1_1_1_1.ogg}} '''Chixia:''' Alrighty. What should we do next?\n:{{A|Vo hlmq m1_1_1_2.ogg}} '''Chixia:''' Shall we go grab a bite?\n:{{DIcon}} Sounds good.\n:{{DIcon}} We should visit the [[City Hall]].\n:{{DIcon}} I should go get my body check-up.\n:{{DIcon}} Let's focus on the task at hand.\n:{{A|Vo hlmq m1_1_1_7.ogg}} '''Baizhi:''' I am to return to the [[Huaxu Academy|Academy]].\n:{{A|Vo hlmq m1_1_1_8.ogg}} '''Baizhi:''' The anomalies at the [[Gorges of Spirits]], the resurgence of that [[Tacet Field]], and the many [[Waveworn Phenomenon|Waveworn Phenomena]] occurrences... I should report them in time.\n:{{A|Vo hlmq m1_1_1_9.ogg}} '''Yangyang:''' Then I'll go submit our report, and prepare the documentation needed for Rover's audience with the [[Jinhsi|Magistrate]] while I'm there.\n:{{DIcon}} Documentation?\n::{{A|Vo hlmq m1_1_1_14.ogg}} '''Yangyang:''' It's the political hub of Jinzhou, and where the {{Rubi|Grand Library|Data Repository}} is located.\n::{{A|Vo hlmq m1_1_1_15.ogg}} '''Yangyang:''' The City Hall is an important place. Seeking an audience with the Magistrate isn't too difficult, but there are still rules to follow.\n:{{DIcon}} Sounds like a lot of work.\n::{{A|Vo hlmq m1_1_1_16.ogg}} '''Yangyang:''' It may take some time, but there won't be too much paperwork.\n:{{DIcon}} What about me?\n:{{DIcon}} Okay.\n:{{A|Vo hlmq m1_1_1_17.ogg}} '''Chixia:''' Then I guess I'll take Rover over to the [[Nexus Tower]] for registration first, and we'll just hang out for a while.\n:\u003c!--{{A|Vo hlmq m1_1_1_18.ogg}}? --\u003e'''Chixia:''' Being new to Jinzhou and all, {{MC|m=he|f=she}} can't be left standing outside the City Hall with nothing to do.\n:{{A|Vo hlmq m1_1_1_19.ogg}} '''Chixia:''' Hospitality is our local speciality, you know!\n:{{A|Vo hlmq m1_1_1_20.ogg}} '''Yangyang:''' Then I'll leave you in Chixia's care, Rover. Is that alright with you? I'll give you a call once the paperwork is done.\n:{{A|Vo hlmq m1_1_1_21.ogg}} '''Chixia:''' Leave it to me!\n:{{A|Vo hlmq m1_1_1_22.ogg}} '''Baizhi:''' I'll send the Branch of Resonmedical Science a notice. We need to conduct a throughout physical examination on you to make sure you are fine.\n:{{A|Vo hlmq m1_1_1_23.ogg}} '''Baizhi:''' Come visit the Academy after your audience if you have no other plans.\n:{{DIcon}} A thorough examination?\n::{{A|Vo hlmq m1_1_1_27.ogg}} '''Baizhi:''' Yes. A physical examination would be required to determine if any disease is present. If no medical issues are found, we'll conduct further monitoring and analysis to understand what happened to your body.\n::{{A|Vo hlmq m1_1_1_28.ogg}} '''Baizhi:''' Of course, we won't do anything without your consent.\n:{{DIcon}} The Academy?\n::{{A|Vo hlmq m1_1_1_29.ogg}} '''Baizhi:''' The unique nature of your condition requires specialized treatment only available in the Huaxu Academy.\n::{{A|Vo hlmq m1_1_1_30.ogg}} '''Baizhi:''' And your body is bound to arouse the interest of many researchers.\n::{{A|Vo hlmq m1_1_1_31.ogg}} '''Baizhi:''' Myself included.\n::{{A|Vo hlmq m1_1_1_32.ogg}} '''Yangyang:''' Baizhi, I think your last sentence could be worded better...\n::{{A|Vo hlmq m1_1_1_33.ogg}} '''Baizhi:''' I see. I agree that my phrasing lacked the attention to detail. Please allow me to reorganize my words.\n:{{DIcon}} Sure.\n:{{A|Vo hlmq m1_1_1_34.ogg}} '''Chixia:''' You guys done yet?\n:{{A|Vo hlmq m1_1_1_35.ogg}} '''Chixia:''' What's the hold up. Let's move, then I'll have more time to show Rover around!\n:{{A|Vo hlmq m1_1_1_36.ogg}} '''Chixia:''' We've got loads of fun in Jinzhou! We can go watch Liondances, Hero Plays, Stand-up Shows, and then maybe the Martial Championships... Plus tons of different treats to try out. You think it, we have it.\n:{{DIcon}} Let's go.\n:{{DIcon}} Let's split up.\n:{{DIcon}} Yangyang, Baizhi, see you later.\n----\n;(Cutscene plays)\n;(Cutscene ends)\n----\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Utterance of Marvels: II\n|zhs  = 万象新声·下\n|zht  = 萬象新聲·下\n|ja   = とある漂泊する音の始まり・下\n|ko   = 새로운 소리 · 하\n|fr   = Prologue : II\n|de   = Äußerung von Wundern: II\n|es   = Declaración de maravillas: II\n|th   = ปฐมบทแห่งสรรพเสียง - จบ\n|pt   = Sinfonia do Despertar: Parte II\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Quest Navbox|Main Quests}}\n\n[[ru:Новый звук мироздания: II]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Synopsis",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Steps",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gameplay Notes",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

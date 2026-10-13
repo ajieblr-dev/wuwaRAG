@@ -1,0 +1,49 @@
+{
+  "title": "Beyond the Shore's End",
+  "pageid": 21681,
+  "wikitext": "{{Quest Infobox\n|type          = Main\n|nation        = The Black Shores\n|region        = \n|area          = \n|event_name    =\n|chapter       = Chapter I\n|actNum        = VIII\n|act           = To the Shore's End\n|part          =\n|characters    = Rover;Shorekeeper\n|npc           = \n|description   = Earth returns to earth, and ashes to ashes. The wandering souls within the Tethys System have finally found their peace, and the Shorekeeper is now free, thanks to your efforts. She wishes to speak with you—there's something she must share, something that concerns you directly.\n|requirement   = \n|startLocation = \n|prev          = [[Advance toward the Future from Today]]\n|next          = [[Through the Sea Thou Break]]\n|rewards       = }}\n{{Intro/Quest|Beyond the Shore's End}}\n\n==Summary==\n[[The Shorekeeper]] warns you of [[Abby]]'s anomalies. Through your intervention, the [[Tethys System]] has returned to its rightful state, now operating with peaceful and harmonious frequencies.\n\n==Steps==\n#Wait for a while\n#(Optional) Adjust the time to two days later\n#Head to the Greenhouse and find the Shorekeeper\n\n==Dialogue==\n{{Quest Description|Earth returns to earth, and ashes to ashes. The wandering souls within the Tethys System have finally found their peace, and the Shorekeeper is now free, thanks to your efforts. She wishes to speak with you—there's something she must share, something that concerns you directly.}}\n{{Dialogue Start}}\n;(Enter the Greenhouse)\n:{{A|Vo bsmq_1_3_699_5.ogg}} '''The Shorekeeper:''' About that frequency dwelling within you...\n:{{DIcon}} You mean Abby?\n:{{A|Vo bsmq_1_3_699_7.ogg}} '''The Shorekeeper:''' Yes.\n:{{A|Vo bsmq_1_3_699_8.ogg}} '''The Shorekeeper:''' It seems to be \"hungering\" for something.\n:{{A|Vo bsmq_1_3_699_9.ogg}} '''The Shorekeeper:''' Have you ever felt anything unusual?\n:{{DIcon}} I don't feel anything...\n:{{DIcon}} Abby's been unusually quiet these days.\n:{{A|Vo bsmq_1_3_699_12.ogg}} '''The Shorekeeper:''' My Sonoro can sense even the most minor changes in frequencies.\n:{{A|Vo bsmq_1_3_699_13.ogg}} '''The Shorekeeper:''' So I can tell that there's something strange about that frequency.\n:{{A|Vo bsmq_1_3_699_14.ogg}} '''The Shorekeeper:''' I'll search for more information in the Tethys System and share what I find with you. \n:{{DIcon}} How is the Tethys System now?\n:{{A|Vo bsmq_1_3_699_16.ogg}} '''The Shorekeeper:''' After being fixed, it's executing the master command given at its creation.\n:{{A|Vo bsmq_1_3_699_17.ogg}} '''The Shorekeeper:''' The core computational unit has now been replaced by a special frequency that shares similar properties as the Lament.\n:{{A|Vo bsmq_1_3_699_18.ogg}} '''The Shorekeeper:''' But this one is... more harmonious and mild.\n:{{DIcon}} What about you? Are you still confined to this place?\n:{{A|Vo bsmq_1_3_699_20.ogg}} '''The Shorekeeper:''' ...No.\n:{{A|Vo bsmq_1_3_699_21.ogg}} '''The Shorekeeper:''' Although I must stay here to watch over the Black Shores, I'm now able to bath in the sunshine and feel the sea breeze with you.\n:{{DIcon}} This is what freedom feels like.\n:{{A|Vo bsmq_1_3_699_23.ogg}} '''The Shorekeeper:''' It feels delightful.\n:{{A|Vo bsmq_1_3_699_24.ogg}} '''The Shorekeeper:''' I know you have your own journey to finish.\n:{{A|Vo bsmq_1_3_699_25.ogg}} '''The Shorekeeper:''' You can entrust the Black Shores to me, and I'll carry out my duty as always.\n:{{A|Vo bsmq_1_3_699_26.ogg}} '''The Shorekeeper:''' You have the full support of the Black Shores, no matter where you are or how far you go.\n:{{A|Vo bsmq_1_3_699_27.ogg}} '''The Shorekeeper:''' And... despite all the many names you bear, I see you for who you truly are.\n:{{A|Vo bsmq_1_3_699_28.ogg}} '''The Shorekeeper:''' Wherever your path leads, I hope to walk it with you.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Beyond the Shore's End\n|zhs  = 海岸尽头……之后？\n|zht  = 海岸盡頭……之後？\n|ja   = 岸の最果の……その先？\n|ko   = 해안의 끝... 그 이후?\n|fr   = Au-delà du Littoral\n|de   = Jenseits der Küsten: Was verbirgt sich?\n|es   = ¿Más allá de la costa?\n|th   = เหนืออีกฟากของขอบทะเล\n|pt   = Além do Fim da Costa\n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==Navigation==\n{{Quest Navbox|Main Quests}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Summary",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Steps",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

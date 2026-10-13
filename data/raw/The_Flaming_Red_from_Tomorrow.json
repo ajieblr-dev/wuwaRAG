@@ -1,0 +1,49 @@
+{
+  "title": "The Flaming Red from Tomorrow",
+  "pageid": 40496,
+  "wikitext": "{{Stub}}\n{{Quest Infobox\n|id= 165800001\n|image         = The Flaming Red from Tomorrow.png\n|type          = Main\n|nation        = Lahai-Roi\n|chapter       = Chapter III\n|actNum        = Segue\n|act           = \n|part          = \n|characters    = Hiyuki;Lucilla\n|description   = After the Dark Side incident comes to an end, Lucilla meets with Hiyuki at the auditorium. Lucilla suspects that the Fractsidus may be plotting something far more dangerous behind the scenes...\n|requirement   =\n|startLocation = \n|prev          = Rabbit Reflected in Shades\n|next          = Wishes in the Bell\n|rewards       = Union EXP*1,000;Astrite*100;Advanced Sealed Tube*4;Advanced Resonance Potion*4;Shell Credit*60,000;Modding EXP*1,600\n}}\n{{Intro/Quest}}\n\n==Steps==\n# Wait until the next day...\n# Head to the auditorium\n\n==Gameplay Notes==\n* Completing the quest awards the ''[[Rover's Journey III]]'' [[Trophy]] ''[[The Danger Within]]''.\n\n==Dialogue==\n{{Quest Description|After the Dark Side incident comes to an end, Lucilla meets with Hiyuki at the auditorium. Lucilla suspects that the Fractsidus may be plotting something far more dangerous behind the scenes…}}\n{{Dialogue Start}}\n;{{Icon/Quest|Main Quests}} Wait until the next day...\n;{{Icon/Quest|Main Quests}} Head to the auditorium\n:{{A|Vo main lahairoi ymdddty 47 1.ogg}} '''Lucilla:''' It's just the two of us now. No need for all the formality, Hiyuki.\n:{{A|Vo main lahairoi ymdddty 47 26.ogg}} '''Lucilla:''' Oh, and just so you know, the maintenance fee for that blade will be coming out of your paycheck this month.\n:{{A|Vo main lahairoi ymdddty 47 27.ogg}} '''Hiyuki:''' Which blade?\n:{{A|Vo main lahairoi ymdddty 47 28.ogg}} '''Lucilla:''' The one you used in the Dark Side. That makes it the fourth you've broken so far. Try to be gentler the next time, will you?\n:{{A|Vo main lahairoi ymdddty 47 29.ogg}} '''Hiyuki:''' Sure. What about my own sword?\n:{{A|Vo main lahairoi ymdddty 47 30.ogg}} '''Lucilla:''' Its maintenance is mostly done. Don't worry, you'll have it back soon.\n:{{A|Vo main lahairoi ymdddty 47 2.ogg}} '''Lucilla:''' Want to try one? It's pretty popular among the students.\n:{{A|Vo main lahairoi ymdddty 47 3.ogg}} '''Hiyuki:''' Not hungry.\n:{{A|Vo main lahairoi ymdddty 47 4.ogg}} '''Lucilla:''' Candy's supposed to be eaten when you're not hungry. That's what makes it taste good. Go on, try it.\n:{{A|Vo main lahairoi ymdddty 47 5.ogg}} '''Lucilla:''' Have you swallowed it?\n:{{A|Vo main lahairoi ymdddty 47 6.ogg}} '''Hiyuki:''' Umm-hmm. A bit sour… and my tongue's tingling. Not my favorite.\n:{{A|Vo main lahairoi ymdddty 47 7.ogg}} '''Lucilla:''' Huh? No reaction at all? That's odd. When Sigrika and the others ate theirs, they…\n:{{A|Vo main lahairoi ymdddty 47 8.ogg}} '''Hiyuki:''' What?\n:{{A|Vo main lahairoi ymdddty 47 9.ogg}} '''Lucilla:''' You're no fun.\n:{{A|Vo main lahairoi ymdddty 47 10 m.ogg}}{{A|Vo main lahairoi ymdddty 47 10 f.ogg}} '''Hiyuki:''' {{MC|m=He|f=She}} saw me. Does that affect your plan?\n:{{A|Vo main lahairoi ymdddty 47 11.ogg}} '''Lucilla:''' It's fine. The Fractsidus didn't just set the trap for me. It was meant to draw you out as well.\n:{{A|Vo main lahairoi ymdddty 47 12.ogg}} '''Lucilla:''' They've noticed your existence.\n:{{A|Vo main lahairoi ymdddty 47 13.ogg}} '''Lucilla:''' I'm sorry for keeping you confined… for trying to hide your power. In the end, it still came to light.\n:{{A|Vo main lahairoi ymdddty 47 14.ogg}} '''Hiyuki:''' We both knew this day would come sooner or later.\n:{{A|Vo main lahairoi ymdddty 47 15.ogg}} '''Lucilla:''' So… would you consider moving back to the Academy for now? If anything happens, you can respond right away.\n:{{A|Vo main lahairoi ymdddty 47 17.ogg}} '''Lucilla:''' The Fractsidus went to great lengths to tamper with the Dark Side, but it poses little actual threat to the Academy.\n:{{A|Vo main lahairoi ymdddty 47 21.ogg}} '''Lucilla:''' At worst, this anomaly might be tied to the power of the Threnodian, too. It seems they're already preparing their next phase.\n:{{A|Vo main lahairoi ymdddty 47 22.ogg}} '''Hiyuki:''' What do you need me to do?\n:{{A|Vo main lahairoi ymdddty 47 23.ogg}} '''Lucilla:''' Now's not the time.\n:{{A|Vo main lahairoi ymdddty 47 24.ogg}} '''Lucilla:''' You should know that the Spacetrek Collective was built atop the Threnodian. That's why we've prepared countless contingency plans.\n:{{A|Vo main lahairoi ymdddty 47 25.ogg}} '''Lucilla:''' Even if every single one failed… even if the Threnodian completely consumed the Collective, we still have a final card to play.\n:{{A|Vo main lahairoi ymdddty 47 20.ogg}} '''Lucilla:''' The wish-granting miko, you—\n----\n;{{Icon/Quest|Quests Interact}} Read Lucilla's WavesLine message\n{{WavesLine|text =\n:'''Lucilla:''' Long story short, we've found traces of Aemeath's frequency.\n:{Choice} Huh?\n::'''(Rover):''' Huh?\n:{Choice} Where?\n::'''(Rover):''' Where?\n:'''Lucilla:''' In the active Voidmatter zone beneath Lahai-Roi. Do you remember that white-haired miko you met, the one with the blade?\n:'''Lucilla:''' Her name is Hiyuki. She's been helping the Collective survey the active Voidmatter zone. Simply put, she's in charge of protecting researchers and students who aren't equipped for a fight.\n:'''Lucilla:''' She's been helping us out with the investigation lately. Like you, she's trying to track down any sign of Aemeath.\n:'''Lucilla:''' Frankly, progress has been slow. She ran it by me and decided to head deeper underground to make some progress—into the high-risk section of the Voidmatter zone.\n:'''Lucilla:''' And we've seen some progress. She's found traces of Aemeath's frequency.\n:'''Lucilla:''' This means we may actually have a chance in bringing back Aemeath—which is why Hiyuki took a risk, and used her familiar to probe deeper into the Voidmatter zone.\n:{Choice} That's too much risk.\n::'''(Rover):''' That's too much risk... We all know what Aleph-1 is capable of. I should join her.\n:{Choice} Will she be all right on her own?\n::'''(Rover):''' Will she be all right on her own? I should join her.\n:'''Lucilla:''' Oh, no. That won't be necessary. She's already back.\n:'''Lucilla:''' She's fine. She just needs to rest. That said, we've detected unusual Voidmatter activity. Until proper preparations are made, nobody's going down there again.\n:'''Lucilla:''' That's it for now. I'll update you as soon as we know more.\n}}\n(''Quest complete: The Flaming Red from Tomorrow'')\n(''Obtained Trophy: [[The Danger Within]]'')\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = The Flaming Red from Tomorrow\n|zhs  = 明日摇曳的绯影\n|zht  = \n|ja   = \n|ko   = \n|fr   = \n|de   = \n|es   = \n|th   = \n|pt   = \n}} \n\n==Change History==\n{{Change History|3.2}} \n\n==Navigation==\n{{Quest Navbox|Main Quests}}\n[[zh:明日摇曳的绯影]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Steps",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gameplay Notes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

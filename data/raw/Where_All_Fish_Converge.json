@@ -1,0 +1,56 @@
+{
+  "title": "Where All Fish Converge",
+  "pageid": 27444,
+  "wikitext": "{{Stub|languages}}{{Quest Infobox\n|id= 880000037\n|type          = Main\n|region        = Rinascita\n|area          = Riccioli Islands\n|event_name    = Old Man and the Whale\n|chapter       = Riccioli Voyage Log\n|actNum        = \n|act           = \n|part          =\n|characters    = Phoebe;Ahab;Queequeg;Rachel;Planck\n|description   = Here, all fish gather—and since whales are also considered \"fish\", then...\n|requirement   = \n|startLocation = \n|prev          = Love in the Time of Fishing\n|next          = Old Man and the Whale (Quest)\n|rewards       = Fame*300;Astrite*20;Universal Compass*1;Fragment of a Mysterious Scripture: Chapter One*1;Advanced Sealed Tube*3;Riccioli Fishery Coin*2,000;Shell Credit*10,000\n}}{{Intro/Quest}}\n\n==Summary==\nThe Tidebreaker has indeed been wandering in Serene Bay. After the lighthouse was relit, the beast swam towards a small island covered in storm...\n\n==Steps==\n#You have obtained the ship blueprint. Go ask Queequeg about ship repairs\n#Deliver the required materials to continue Pequod's repairs\n##Collect 100 Palm Logs\n##Collect 2,000 Riccioli Fishery Coins\n##Retrieve \"Pequod Blueprint: Basic\"\n#Prepare for departure at the dock and head to Serene Bay\n#Travel to Serene Bay\n#Defeat the Tacet Discords\n#Locate the dock in Serene Bay and ask Planck for details\n#Complete Planck's mission request\n#Complete Priority Requests (0/4)\n##Complete Priority Request \"Ahab's Request: Finding the Key{{sic|name in event \"Find the Key\"}}\"\n##Complete Priority Request \"Ahab's Request: A Feather?{{sic|name in event \"Feather?\"}}\"\n##Complete Priority Request \"Ahab's Request: Into the Underworld{{sic|name in event \"Meet the Phantom\"}}\"\n##Complete Priority Request \"Ahab's Request: Setting the Trap{{sic|name in event \"Rainbow Rush\"}}\"\n#Set sail and catch Titanium Mackerel at the given location\n#Light up the lighthouse in Serene Bay\n\n==Gameplay Notes==\n*Completing \"Search for Starbuck\" step awards {{Item|\"Sweet Puff\"}}.\n*Completing \"Travel to Serene Bay\" step awards ''[[Rover's Journey II]]'' trophy ''[[Tormented Prophet]]''.\n*Completing \"Set sail and catch Titanium Mackerel at the given location\" step awards {{Item|Titanium Mackerel}} and ''[[Wilderness Calls]]'' trophy ''[[Mackerel Gear]]''.\n*Completing the quest awards {{Item|Pequod Blueprint: Advanced}}.\n\n==Dialogue ==\n{{Quest Description|Here, all fish gather—and since whales are also considered \"fish\", then...}}\n{{Dialogue Start}}\n;(Approach Pequod)\n:''The once wreckage is starting look{{sic}} more like a ship now.\n----\n;(Deliver materials)\n:'''Queequeg:''' Ship almost fixed up. Thank you. Only half to go.\n:'''Queequeg:''' Captain's orders. Almost working.\n:'''Queequeg:''' As long ship is repaired, will be fine. All will be fine.\n:'''Queequeg:''' By the way, that big \"fish.\" Serene Bay.\n:'''Queequeg:''' We failed before. You be careful.\n----\n;(Idle)\n:'''Queequeg:''' Ship getting better. Ahab lost his harpoon.\n:'''Queequeg:''' Ahab says, once ship is repaired, we can all go home.\n:'''Queequeg:''' Ahab is captain. He is right.\n----\n;(Head to the designated location)\n:'''The Tidebreaker knocks over your boat, and you're washed ashore by the heavy waves...\n----\n:'''Rover:''' Phoebe!\n:'''Rover:''' Get out of the way!\n----\n;(Defeat the TDs)\n:'''Phoebe:''' {{Rover}}! Are you hurt?\n:{{DIcon}} Still in one piece.\n:{{DIcon}} My fish...\n:'''Phoebe:''' The Tidebreaker attacked us! Thank Imperator none of us were hurt.\n:'''Phoebe:''' Quick, let's check if anything was lost!\n:'''You check your belongings...\n:''You find a bizarre fish, its color all wrong, and its eyes glow with an unsettling shimmer.\n:'''Rover:''' Nothing's lost, except now we've got this...\n:'''Phoebe:''' What a strange fish...\n:'''Rover:''' How about we take it back to Planck? Maybe it knows what this is.\n----\n;(Talk with Planck)\n:'''Planck:''' ...!\n:''The octopus Echo waves its tentacles around as it hands you a not from Ahab.\n:'''Ahab:''' \"Once it's safe, Planck can swim over to Seren Bay.\"\n:'''Ahab:''' \"Since the lighthouse on Starbuck's island is up and running, we can set sail again. We're counting on you and Miss White Hat.\"\n:'''Ahab:''' \"There'll be monsters swarming in those waters, ever since Cetus went missing.\"\n:'''Ahab:''' \"Word is, the key to Serene Bay's lighthouse got lost long ago. We only know it's somewhere at the bottom of the sea.\"\n:'''Ahab:''' \"Oh, I reckon you'll be greeted by a few strange fish along the way.\"\n:'''Ahab:''' \"I'll keep poking around and see what else I can dig up. I'll have Planck send word once I've got news.\"\n----\n;(Light up the lighthouse in Serene Bay)\n:'''Phoebe:''' {{Rover}}! Look, it's the Tidebreaker!\n:'''Phoebe:''' They're heading towards that island to the west!\n:'''Phoebe:''' Their wounds seem to be healing, but I still feel the intense fury in their cries.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Where All Fish Converge\n|zhs  = 万鱼归一\n|zht  = 萬魚歸一\n|ja   = すべての魚が一匹に\n|ko   = 모든 물고기가 모이는 곳\n|es   = Donde todos los peces convergen\n|fr   = Là où les poissons se rassemblent\n|de   = Wo alle Fische zusammenkommen\n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Quest Navbox|Event Quests}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Summary",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Steps",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gameplay Notes",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

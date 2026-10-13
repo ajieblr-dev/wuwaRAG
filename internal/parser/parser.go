@@ -244,7 +244,12 @@ func ParseIntoChunks(pageTitle, rawWikitext string, targetChunkSize, chunkOverla
 			textChunks := chunkText(sceneText, targetChunkSize, chunkOverlap)
 			for _, chunkStr := range textChunks {
 				chunkStr = strings.TrimSpace(chunkStr)
-				if len(chunkStr) < 20 {
+				// Skip very short fragments unless they contain dialogue
+				if len(chunkStr) < 50 && !strings.Contains(chunkStr, ":") {
+					continue
+				}
+				// Skip cutscene boilerplate lines without dialogue
+				if strings.HasPrefix(chunkStr, "[Objective: (Cutscene") {
 					continue
 				}
 

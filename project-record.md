@@ -136,6 +136,22 @@ To deliver a complete interactive user experience, the system integrates a moder
 * **Docker Packaging:** Integrated `web/` into `Dockerfile` and `deploy/docker-compose.yml` so production containers ship with the UI out-of-the-box.
 * **Automated Verification:** Added `scripts/smoke-web.sh` and Go contract tests (`TestChatContractMatchesWebExpectations`, `TestSearchContractMatchesWebExpectations`, `TestStaticWebRoutes`) in `internal/server/server_test.go`.
 
+### Phase 7: Full Main Quest Corpus Expansion (Prologue through Chapter IV)
+To dramatically increase the model's lore knowledge across all released storyline chapters:
+* **Corpus Scope:** Curated and ingested **78 comprehensive MediaWiki pages** covering:
+  - **Prologue:** *Utterance of Marvels* (Parts I & II)
+  - **Chapter I (Jinzhou Rising):** Acts I–VI (*First Resonance* to *Grand Warstorm*), Interlude (*A New Companion*), Act VII (*Thaw of Eons* across Mt. Firmament), and Act VIII (*To the Shore's End* across Black Shores).
+  - **Chapter II (Even When Divinity Remains Silent):** Acts I–XII in Rinascita and Septimont (including *Through the Sea Thou Break*, *The Sacred Breeze So Often Breathes*, *Veils Off in Sun or Shadow*, *What Yesterday Wept, Today Doth Sing*, *Old Man and the Whale*, *The Maiden, The Defier, The Death Crier*, *Shadow of Glory*, *Flames of Heart*, *Dreamcatchers in the Secret Gardens*, *Rust, Sword and the Sun*, *By Sun's Burning Hand*, *By Moon's Fated Light*, *The Bygone Shall Always Return*, *Dawn Breaks on Dark Tides*, *Stagnant Dawn on Wastelands*, and segues).
+  - **Chapter III (To the Stars Yet to Shine):** Acts I–V in Lahai-Roi & Roya Frostlands (*When the Unknown Thrums*, *What Burns Beneath Frostlands*, *Ode to the Second Sunrise*, *The Star That Voyages Far*, *Gold Suspended in Shadows*, *Starlights from Yesterdays*, and segues).
+  - **Chapter IV (Rebirth From the Depths):** Acts I–IV in Mengzhou (*The Wind Before the Storm*, *Xuanling Sings, Storm Quelled*, *Song of the Heart Sword*, *Simulacrum of the Heart*, and segues).
+  - **World & Sentinel Lore:** Sentinel Jué, Sentinel Imperator, Sentinel Hsin, Suoming, Xuanfang Hold, and Mengzhou.
+* **Corpus Volume:** Parsed into **3,886 clean, high-signal narrative chunks** (indexed into Qdrant `wuwa_lore`) capturing **1,119 distinct character and speaker tags**.
+* **Embedding & Retrieval Enhancements:**
+  - Added stop-word downweighting in `generateDeterministicVector` (`internal/rag/embedding.go`) so that high-frequency connector words do not overwhelm domain entities (e.g., Carlotta, Carnevale, Jué, Sentinel, Fractsidus).
+  - Filtered out cutscene-only boilerplate markers and isolated non-dialogue fragments (<50 chars) in `internal/parser/parser.go`.
+  - Configured `TOP_K=8` and `SCORE_THRESHOLD=0.20` in `.env` and `internal/config/config.go` for broader contextual coverage across lengthy quest narratives.
+* **CLI Expansion:** Enhanced `cmd/ingest` with `--all-main-quests`, `--pages-file`, and automated `Makefile` targets (`make gather-all`, `make ingest-all`, `make dry-run-all`).
+
 ---
 
 ## 3. Directory Layout & File Roles

@@ -27,6 +27,8 @@ import (
 func main() {
 	pagesFlag := flag.String("pages", "", "Comma-separated MediaWiki page titles to ingest")
 	pageFlag := flag.String("page", "", "Single MediaWiki page title (alternative to --pages)")
+	pagesFile := flag.String("pages-file", "", "Path to file containing page titles (one per line)")
+	allMainQuests := flag.Bool("all-main-quests", false, "Ingest all main quests from Prologue to Chapter IV (using data/main_quests.txt)")
 	gatherOnly := flag.Bool("gather-only", false, "Only fetch raw pages to data/raw without embedding/indexing")
 	dryRun := flag.Bool("dry-run", false, "Parse and preview chunks without writing to Qdrant")
 	fromCache := flag.Bool("from-cache", false, "Load pages from data/raw cache instead of fetching live")
@@ -34,16 +36,39 @@ func main() {
 	overlap := flag.Int("overlap", 150, "Overlap in characters when splitting large scenes")
 	rawDir := flag.String("raw-dir", "data/raw", "Directory for raw wiki JSON dumps")
 	outFile := flag.String("out", "data/processed/chunks.json", "Destination for processed chunks JSON")
+	timeout := flag.Duration("timeout", 45*time.Minute, "Overall context timeout for ingestion")
 	flag.Parse()
 
 	cfg := config.Load()
 
-	// Resolve page list: explicit flags win, otherwise config default.
-	pagesRaw := firstNonEmpty(*pagesFlag, *pageFlag, flag.Arg(0), cfg.DefaultWikiPage)
-	pages := splitPages(pagesRaw)
+	// Resolve page list: explicit flags, file, or default.
+	var pages []string
+	if *allMainQuests {
+		targetFile := *pagesFile
+		if targetFile == "" {
+			targetFile = "data/main_quests.txt"
+		}
+		loaded, err := loadPagesFromFile(targetFile)
+		if err != nil {
+			log.Fatalf("failed to load main quests from %s: %v", targetFile, err)
+		}
+		pages = loaded
+	} else if *pagesFile != "" {
+		loaded, err := loadPagesFromFile(*pagesFile)
+		if err != nil {
+			log.Fatalf("failed to load pages from %s: %v", *pagesFile, err)
+		}
+		pages = loaded
+	} else {
+		pagesRaw := firstNonEmpty(*pagesFlag, *pageFlag, flag.Arg(0), cfg.DefaultWikiPage)
+		pages = splitPages(pagesRaw)
+	}
+
 	if len(pages) == 0 {
 		pages = []string{"Simulacrum_of_the_Heart"}
 	}
+
+	log.Printf("resolved %d page(s) for processing", len(pages))
 
 	fetchClient := fetcher.NewClient(cfg.WikiAPIURL)
 	embedder := rag.NewHuggingFaceEmbedder(
@@ -54,12 +79,12 @@ func main() {
 	)
 	qdrantClient := qdrant.NewClient(cfg.QdrantURL)
 
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Minute)
+	ctx, cancel := context.WithTimeout(context.Background(), *timeout)
 	defer cancel()
 
 	var allChunks []parser.Chunk
 
-	for _, title := range pages {
+	for i, title := range pages {
 		var page *fetcher.WikiPage
 		var err error
 
@@ -67,23 +92,25 @@ func main() {
 			cachedPath := filepath.Join(*rawDir, sanitizeTitle(title)+".json")
 			page, err = fetcher.LoadPageFromDisk(cachedPath)
 			if err != nil {
-				log.Printf("cache miss for %q (%v), fetching live", title, err)
+				log.Printf("[%d/%d] cache miss for %q (%v), fetching live", i+1, len(pages), title, err)
 			}
 		}
 		if page == nil {
-			log.Printf("fetching page %q...", title)
+			log.Printf("[%d/%d] fetching page %q...", i+1, len(pages), title)
 			page, err = fetchClient.FetchPage(ctx, title)
 			if err != nil {
-				log.Printf("ERROR: failed to fetch %q: %v", title, err)
+				log.Printf("ERROR: [%d/%d] failed to fetch %q: %v", i+1, len(pages), title, err)
 				continue
 			}
+			// Polite delay between live API queries
+			time.Sleep(100 * time.Millisecond)
 		}
 
 		savedPath, err := fetchClient.SavePageToDisk(page, *rawDir)
 		if err != nil {
 			log.Printf("WARNING: failed to save raw page %q: %v", title, err)
 		} else {
-			log.Printf("saved raw page %q -> %s (%d chars wikitext)", page.Title, savedPath, len(page.Wikitext))
+			log.Printf("[%d/%d] saved raw page %q -> %s (%d chars wikitext)", i+1, len(pages), page.Title, savedPath, len(page.Wikitext))
 		}
 
 		if *gatherOnly {
@@ -91,7 +118,7 @@ func main() {
 		}
 
 		chunks := parser.ParseIntoChunks(page.Title, page.Wikitext, *chunkSize, *overlap)
-		log.Printf("page %q: parsed %d chunks", page.Title, len(chunks))
+		log.Printf("[%d/%d] page %q: parsed %d chunks", i+1, len(pages), page.Title, len(chunks))
 		allChunks = append(allChunks, chunks...)
 	}
 
@@ -224,3 +251,27 @@ func min(a, b int) int {
 	}
 	return b
 }
+
+func loadPagesFromFile(filePath string) ([]string, error) {
+	data, err := os.ReadFile(filePath)
+	if err != nil {
+		return nil, err
+	}
+
+	lines := strings.Split(string(data), "\n")
+	var pages []string
+	seen := make(map[string]bool)
+
+	for _, line := range lines {
+		line = strings.TrimSpace(line)
+		if line == "" || strings.HasPrefix(line, "#") {
+			continue
+		}
+		if !seen[line] {
+			seen[line] = true
+			pages = append(pages, line)
+		}
+	}
+	return pages, nil
+}
+

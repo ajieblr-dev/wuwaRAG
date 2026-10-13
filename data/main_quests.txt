@@ -1,0 +1,92 @@
+# Wuthering Waves — Main Quests (Prologue through Chapter IV) + Key World Lore
+# Used by cmd/ingest to populate Qdrant vector database
+
+# === Prologue: Utterance of Marvels ===
+Prologue
+Utterance of Marvels: I
+Utterance of Marvels: II
+
+# === Chapter I: Jinzhou Rising ===
+Chapter I
+First Resonance
+Echoing Marche
+Ominous Star
+Clashing Blades
+Rewinding Raindrops
+Grand Warstorm
+A New Companion
+Thaw of Eons
+Dreamweaver's Ascent
+To Mt. Firmament
+Truthseeker's Pass (Quest)
+Road of Pilgrimage
+Mianloong Chamber (Quest)
+The Commander of Time
+Dawn of Snowstorm
+To the Shore's End
+From the Echoes of Destruction
+Hidden Between the Waves
+Legacy of the Lasting Night
+Advance toward the Future from Today
+Beyond the Shore's End
+
+# === Chapter II: Even When Divinity Remains Silent ===
+Chapter II
+Through the Sea Thou Break
+The Sacred Breeze So Often Breathes
+Veils Off in Sun or Shadow
+What Yesterday Wept, Today Doth Sing
+Old Man and the Whale (Quest)
+Set Sail! Pro Angler!
+Love in the Time of Fishing
+Where All Fish Converge
+I Alone Survived
+The Maiden, The Defier, The Death Crier
+Shadow of Glory
+Flames of Heart
+Dreamcatchers in the Secret Gardens
+Rust, Sword and the Sun
+New Arrival in The Big City
+Gladiator Training
+The Impossible Trial
+At the Summit of Septimont
+By Sun's Burning Hand
+By Moon's Fated Light
+The Bygone Shall Always Return
+Dawn Breaks on Dark Tides
+A Stranger in a Strange Land
+Stagnant Dawn on Wastelands
+Flowing Starlight in the Iris
+
+# === Chapter III: To the Stars Yet to Shine ===
+Chapter III
+When the Unknown Thrums
+What Burns Beneath Frostlands
+Ode to the Second Sunrise
+The Star That Voyages Far
+All That Sunlight Touches
+Gold Suspended in Shadows
+Rabbit Reflected in Shades
+The Flaming Red from Tomorrow
+Wishes in the Bell
+Starlights from Yesterdays
+Wishes in the Bell: Epilogue
+Beneath a Melting Night Sky
+At Dream's Edge
+We Choose the Sky
+
+# === Chapter IV: Rebirth From the Depths ===
+Chapter IV
+The Wind Before the Storm
+Xuanling Sings, Storm Quelled
+The Chant of Unseen Ties
+Song of the Heart Sword
+The Nethermancer's Requiem
+Simulacrum of the Heart
+
+# === General / World Lore ===
+Main Quest
+Hsin
+Suoming
+Mengzhou
+Xuanfang_Hold

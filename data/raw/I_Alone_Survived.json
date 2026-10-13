@@ -1,0 +1,56 @@
+{
+  "title": "I Alone Survived",
+  "pageid": 27890,
+  "wikitext": "{{Stub|languages}}\n{{Quest Infobox\n|id= 880000039\n|title         = I Alone Survived\n|type          = Event\n|region        = Rinascita\n|area          = Riccioli Islands\n|event_name    = Old Man and the Whale\n|chapter       = Riccioli Voyage Log\n|actNum        = \n|act           = \n|part          =\n|characters    = Ishmael\n|description   = The sea has calmed, but Captain Ahab and his crew are gone. Ishmael, who first brought you to the Roccioli islands, seems to be studying the relics left behind by the legendary captain...\n|requirement   = \n|startLocation = \n|prev          = Old Man and the Whale (Quest)\n|next          = \n|rewards       = Advanced Resonance Potion*2;Advanced Energy Core*2;Shell Credit*16000\n}}\n{{Intro/Quest}}\n\n==Summary==\n\n==Steps==\n#Find Bouton de Rose\n#Complete Requests or update the Index to increase your Fame to Level 10 or above\n# Find Ishmael in Roccioli Port\n#Complete Requests or update the Index to increase your Fame to Level 12 or above\n# Find Ishmael in Roccioli Port\n\n==Gameplay Notes==\n*Completing the quest awards the ''[[Rover's Journey II]]'' trophy ''[[Take Up the Mantle]]''.\n\n==Dialogue==\n{{Quest Description|The sea has calmed, but Captain Ahab and his crew are gone. Ishmael, who first brought you to the Roccioli islands, seems to be studying the relics left behind by the legendary captain...}}\n{{Dialogue Start}}\n;(Inspect Bouton de Rose)\n:'''Bouton de Rose:''' ...!\n:''The Gondola loaded with cargo seems to be saying, \"Give me money and I'll give you goodies!\"\n----\n;(Talk to Ishmael)\n:'''Ishmael:''' Hmm...\n:'''Ishmael:''' I wonder if you've noticed, {{Rover}}.\n:'''Ishmael:''' After you set the Tidebreaker and the sea right again, Captain Ahab, Mr. Starbuck, and Mr. Queequeg all disappeared...\n:'''Ishmael:''' I'm currently going over Captain Ahab's old journal, and it seems like they were searching for this \"final harbor.\"\n:'''Ishmael:''' Captain Ahab spent his whole life on the waves. He was the finest captain and fisherman this place ever saw.\n:'''Ishmael:''' If we steer our course by Ahab's example, we might discover things, even treasures he left behind....\n:{{DIcon}} Can we catch Cetus the Tidebreaker?\n:'''Ishmael:''' It's a possibility. Captain Ahab always had an obsession with the Cetus, but why remains a mystery.\n:'''Ishmael:''' Well then, let's press on with this as our goal!\n----\n;(Talk to Ishmael)\n:'''Ishmael:''' The sea feels ever so calm, and the whirlpools have finally settled.\n:'''Ishmael:''' Everything's returned to how it once was... To be honest, {{Rover}}, Captain Ahab and his crew met their fate at sea decades ago.\n:'''Ishmael:''' Their love of the sea and their promise to Cetus the Tidebreaker is what kept their spirits lingering here.\n:'''Ishmael:''' And now, the peaceful waters of Riccioli mark their final resting place. This is their \"final harbor.\"\n:'''Ishmael:''' But the Rachel still sails on, and it seems to have taken a liking to you.\n:'''Ishmael:''' I believe that Captain Ahab also hoped you'd carry on his legacy...\n:{{DIcon}} What about you?\n:'''Ishmael:''' Me? I'm just a simple sailor and fisherman. I was born here, and I'll probably get married and have children here too. Eventually, I'll find my peace in these very waters.\n:'''Ishmael:''' So set sail, Captain {{Rover}}! Your journey leads to the very edge of the world.\n;(Quest Complete)\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = I Alone Survived\n|zhs  = 只有我一人逃脱\n|zht  = 只有我一人逃脫\n|ja   = わしだけが逃げ切った\n|ko   = 홀로 도망치다\n|es   = Solo yo escapé\n|fr   = Le seul survivant\n|de   = Nur ich überlebte\n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Quest Navbox|Event Quests}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Summary",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Steps",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gameplay Notes",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

@@ -175,15 +175,36 @@ func fallbackDeterministicEmbeddings(texts []string, dim int) [][]float32 {
 	return results
 }
 
+var stopWords = map[string]bool{
+	"a": true, "an": true, "the": true, "and": true, "or": true, "but": true,
+	"in": true, "on": true, "at": true, "to": true, "for": true, "of": true,
+	"with": true, "by": true, "from": true, "up": true, "about": true, "into": true,
+	"over": true, "after": true, "is": true, "are": true, "was": true, "were": true,
+	"be": true, "been": true, "being": true, "have": true, "has": true, "had": true,
+	"do": true, "does": true, "did": true, "what": true, "which": true, "who": true,
+	"whom": true, "this": true, "that": true, "these": true, "those": true, "am": true,
+	"it": true, "its": true, "as": true, "if": true, "so": true, "then": true,
+}
+
 func generateDeterministicVector(text string, dim int) []float32 {
 	vec := make([]float32, dim)
 	words := strings.Fields(strings.ToLower(text))
 
-	for _, w := range words {
+	for _, rawWord := range words {
+		w := strings.Trim(rawWord, ".,!?:;\"'()[]{}")
+		if w == "" {
+			continue
+		}
+
+		weight := float32(1.0)
+		if stopWords[w] {
+			weight = 0.20
+		}
+
 		// Word hash
 		h := sha256.Sum256([]byte(w))
 		idx := int(binary.BigEndian.Uint16(h[0:2])) % dim
-		val := float32(int16(binary.BigEndian.Uint16(h[2:4]))) / 32768.0
+		val := (float32(int16(binary.BigEndian.Uint16(h[2:4]))) / 32768.0) * weight
 		vec[idx] += val
 
 		// Substring n-grams
@@ -192,7 +213,7 @@ func generateDeterministicVector(text string, dim int) []float32 {
 				ngram := w[j : j+n]
 				ngh := sha256.Sum256([]byte(ngram))
 				nIdx := int(binary.BigEndian.Uint16(ngh[0:2])) % dim
-				nVal := float32(int16(binary.BigEndian.Uint16(ngh[2:4]))) / 65536.0
+				nVal := (float32(int16(binary.BigEndian.Uint16(ngh[2:4]))) / 65536.0) * weight
 				vec[nIdx] += nVal
 			}
 		}

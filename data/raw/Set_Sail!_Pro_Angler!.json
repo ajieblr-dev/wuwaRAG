@@ -1,0 +1,56 @@
+{
+  "title": "Set Sail! Pro Angler!",
+  "pageid": 27399,
+  "wikitext": "{{Stub|MRover dialogue, languages}}\n{{Quest Infobox\n|id= 880000034\n|type          = Tutorial\n|region        = Rinascita\n|area          = Riccioli Islands\n|event_name    = Old Man and the Whale\n|chapter       = Riccioli Voyage Log\n|actNum        = \n|act           = \n|part          =\n|characters    = Ishmael;Phoebe;Ahab;Coffin;Rachel;Planck\n|description   = Sunshine, beach, ocean... and fish! Rinascita, surrounded entirely by the sea, thrives on its love for fishing. A young man named Ishmael will guide you to the Riccioli Islands, a fishing paradise like no other...\n|requirement   = *Reach [[Union Level]] 14\n*Complete {{Quest|Through the Sea Thou Break}}\n|startLocation = [[Ragunna City]]\n|prev          = \n|next          = Love in the Time of Fishing\n|rewards       = Fame*100;Astrite*20;Advanced Resonance Potion*3;Shell Credit*16,000\n}}\n{{Intro/Quest}}\n\n==Summary==\nWith [[Ishmael]]'s guidance, you manage to find the old captain, [[Ahab]] at the dock. Ahab gladly lets you borrow his old Gondola, and you can go fishing at sea with it.\u003cbr\u003eAfter you've recaptured the escaped fish, Ahab suggests you check out the market. To your surprise, [[Phoebe]] is there too. You find her in a sticky situation because of the locals' fraught history with the [[Order of the Deep]]. After you and Ahab help her out, Phoebe reveals she came here searching for [[Cetus the Tidebreaker]]. Ahab remarks that you'll run into the beast eventually just by going out fishing.\n\n==Steps==\n#Find the fisherman\n#Find the Gondolier to prepare for the voyage to the Riccioli Islands\n#Search for the old captain, \"Ahab\"\n#Speak with Planck and get ready to set sail\n#Complete fishing requests\n##Head to the marked Fishing Spot\n##Complete Priority Request \"Ahab's Request: First Test\"{{sic|Request in event called \"Ahab's Request: Maiden Voyage}}\n##Complete Priority Request \"Ahab's Request: Catch the Big Fish\"{{sic|Request in event called \"Ahab's Request: Big Catch}}\n#With the fish back in the net, go chat with Ahab\n#Visit the market in Riccioli Port\n\n==Gameplay Notes==\n*Complete {{Quest|Silent as a Falling Leaf}} for the best experience. .\n\n==Dialogue ==\n{{Quest Description|Sunshine, beach, ocean... and fish! Rinascita, surrounded entirely by the sea, thrives on its love for fishing. A young man named Ishmael will guide you to the Riccioli Islands, a fishing paradise like no other...}}\n{{Dialogue Start}}\n;(Talk with the fisherman)\n:'''Ishmael:''' Ah, call me [[Ishmael]]. Well, well! The Laureate, I presume? Have you ever tried fishing before?\n:'''Ishmael:''' The trick to it is a flexible line and a subtle lure.\n:'''Ishmael:''' Fancy trying your hand at deep sea fishing? It's one of Rinascita's many lasting traditions, like the Carnevale.\n:{{DIcon}} Sure, I want to become a pro angler.\n:{{DIcon}} I'd like to give it a try.\n:'''Ishmael:''' Wonderful, then I've got a good place for you. [[Riccioli Islands]], north of Ragunna. It's right where the currents of the Stormy Sea meet, drawing in swarms of fish.\n:'''Ishmael:''' And if you're alone, angling on a fishing boat would suit you better. A net will just get you tangled up in trouble.\n:'''Ishmael:''' Once you reach the islands, go visit an old captain named [[Ahab]]. He'll be more than glad to show you the ropes.\n:'''Ishmael:''' I've got to make my way back to the islands myself. There's a bot at the harbor that'll take you straight there. Just let the boatman know you're off for some fishing!\n----\n;(Talk with the Gondolier)\n:'''Gondolier:''' Are you the one looking for a ride to Riccioli?\n:{{DIcon}} That's me. Let's go.\n::'''Gondolier:''' Take a seat, and we'll be on our way!\n:{{DIcon}} I have other matters to attend to. Maybe later.\n----\n:'''You arrive near the Riccioli Islands on the fisherman's Gondola...\n----\n:'''Gondolier:''' Seeking out old Ahab, are you? He should be at the harbor over there.\n:'''Gondolier:''' He's no ordinary man, I tell you that. You'll spot him a mile away.\n----\n;(Head to the designated location)\n:'''???:''' Zzz... Zzz...\n:'''???:''' Huh? Hmm... All right, cut it out...\n:'''???:''' Oh! Ahoy! A fish! We have a bite!\n:'''???:''' Well, don't just stand there, {{MC|m=laddie|f=missy}}! Gimme a hand with this thing!\n:'''???:''' Oh, wait! Easy does it...\n:'''???:''' That's gotta be one hefty fish...\n:{{DIcon}} Too bad it got away...\n::'''???:''' A big fella like that? He won't be gettin' away from me, just a matter of time, no bother at all.\n:{{DIcon}} Are you all right?\n::'''???:''' Oh, That? Pah, that was nothing. Back in me youth, I could hunt a whale for a whole day, I could!\n:'''???:''' You must be that young'un Ishmael mentioned.\n:{{DIcon}} Yes, I'm here to become a pro fisher.\n:{{DIcon}} Yes, I'm hre to try deep sea fishing.\n:'''Ahab:''' Aye, good! You've come to the right place. The name's [[Ahab]], and I've been tied to this harbor longer than most.\n:'''Ahab:''' That octopus merchant over there is [[Planck]]. It has all you need, from fishing gear to boat repairs.\n:'''Ahab:''' But... I see you don't have a boat. We can fix that! You can use mine!\n:{{DIcon}} A Gondola?\n:'''Ahab:''' The ones we use here for fishing are different from what you'll find in the city. We treat 'em like family—live and die together, we do.\n:'''Ahab:''' She's called [[Rachel]]. Gettin' on in years, but she's still got some fire in her.\n:'''Ahab:''' Since I retired, it's been a while since she and I crashed some waves. I reckon she misses the old fishing days as much as I do.\n:'''Ahab:''' Well, now that we've shared a bit of fishing, I'd say we've forged a bond, eh?\n:'''Ahab:''' What do you say we chase that big fella that gave us the slip? Let's head straight out to sea!\n:'''Ahab:''' I'd like to see what kind of fish dares to run away from old Ahab!\n----\n;(Speak with Ahab)\n:'''Ahab:''' Ahoy! That was some mighty fine sailing back there!\n:'''Ahab:''' You picked it up quickly. Good, good!\n:'''Ahab:''' Ah, don't forget to stop by the market when ye've got time to spare.\n:'''Ahab:''' Minding the helm is only half the battle. You've got to know how to trade, too!\n----\n(Head to the designated location)\n:'''Seafood Dealer:''' ...Oi, the Order's got no authority here. Now, bugger off, will ya.\n:'''Young Fisherman:''' Come on, Mr. Coffin. Didn't she just help you fish your Echo...\n:'''Seafood Dealer:''' Hell if I know what she's playin' at!\n:'''Old Lady:''' Oh, pipe down, Coffin. The wee lassie was just asking you for some directions, for Imperator's sake.\n:{{DIcon}} [[Phoebe]]?\n:'''Phoebe:''' I'm sorry...\n:'''Phoebe:''' I'm only look for [[Cetus the Tidebreaker]]. They were injured in Ragunna...\n:'''Old Lady:''' Cetus the Tidebreaker, you say? Well...\n:'''Coffin:''' The Order is not welcome around these parts! Yer hear me?\n:'''Young Fisherman:''' Hey, look. Isn't that the Resonator who showed up in Ragunna a while back? The Laureate...\n:'''Ahab:''' That's enough of that!\n:'''Ahab:''' The Order's left us alone for years. If they really wanted to meddle in our affairs now, you think they'd just send one little girl?\n:'''Ahab:''' We owe our treade to the blessings of Cetus the Tidebreaker and these very seas. Ye're tellin' me we can't accept a wee lass in an acolyte hat?\n:'''Ahab:''' Besides, do you really think she's helping you out for some devious reason? Being ungrateful isn't our way, is it?\n:'''Coffin:''' But Ahab...\n:'''Ahab:''' Right then, that's enough of that. Business has been hard as it is lately. Break it up, folks...\n:'''Ahab:''' If ye've got more complaints, toss 'em my way. Happy now? Off you go.\n:'''Phoebe:''' Thank you.\n:'''Phoebe:''' I'm here because I want to talk to the villagers about the Tidebreaker. No one has seen them since the [[Carnevale]]...\n:'''Ahab:''' Friend of yours, {{MC|m=laddie|f=missy}}?\n:{{DIcon}} Yeah, we go way back.\n:{{DIcon}} We're acquainted, yes.\n:'''Ahab:''' All right, then. But know this—the Order's let these islands drift without a guide, so the folk around here aren't too keen on seeing someone wearin' that kind of hat wanderin' about.\n:'''Phoebe:''' My hat? Err...\n:'''Ahab:''' Anyway, just say ye're here on personal business and ye'll be fine. Now, I hear ye're lookin' for Cetus the Tidebreaker. Well, lucky you, 'cause so am I.\n:'''Phoebe:''' Yes! The Tidebreaker showed unnatural signs during the Carnevale not long ago. I think I sensed their pain and anger...\n:'''Ahab:''' Well, sail around in these waters and ye're bound to run into it, sooner or later. But if you want the simple way... See that lighthouse down yonder?\n:'''Ahab:''' There are four of 'em across Riccioli Islands. As long as their lights are on, the Tidebreaker will answer our pleas as gently as ever.\n:'''Ahab:''' Three of them went dark when the Tidebreaker vanished. Getting them lit again should do the trick.\n:'''Ahab:''' You know what? Why don't you take Miss White hat here on a wee boat ride, {{Rover}}?\n:'''Phoebe:''' A boat ride?\n:{{DIcon}} We're going fishing!\n:'''Phoebe:''' W-what? I've only ever read about Riccioli Islands' fishing trade in the Order's library before, but I've never actually fished on the sea...\n:'''Ahab:''' How do you expect the sea to answer yer calls if you don't embrace it yerself?\n:'''Ahab:''' Oh, and hold onto yer \"hat\" during the ride. If anything else comes up, just come find me.\n:'''Phoebe:''' What did he mean by that, {{Rover}}?\n:{{DIcon}} Just be yourself!\n:'''Phoebe:''' I see...\n:'''Phoebe:''' Then I'll help however I can with catching fish while we locate the Tidebreaker!\n;(Quest Complete)\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Set Sail! Pro Angler!\n|zhs  = 出发！成为捕鱼达人！\n|zht  = 出發！成為捕魚達人！\n|ja   = 出航！魚捕りの達人を目指せ！\n|ko   = 출발! 낚시의 달인이 되어라!\n|es   = ¡Zarpa, pescador profesional!\n|fr   = Allons-y, Pêcheur pro !\n|de   = Setz die Segel! Werde Angelprofi!\n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Quest Navbox|Tutorial Quests}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Summary",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Steps",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gameplay Notes",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

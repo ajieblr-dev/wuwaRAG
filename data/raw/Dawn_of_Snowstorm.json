@@ -1,0 +1,42 @@
+{
+  "title": "Dawn of Snowstorm",
+  "pageid": 20476,
+  "wikitext": "{{Quest Infobox\n|type          = Main\n|nation        = Huanglong\n|region        = \n|area          = \n|event_name    =\n|chapter       = Chapter I\n|actNum        = VII\n|act           = Thaw of Eons\n|part          =\n|characters    = Rover;Jinhsi\n|npc           = Jué\n|description   = Time resumes and the snow clears. Mt. Firmament emerges from its long seclusion, ready to embrace its revival.\n|requirement   =\n|startLocation = \n|prev          = [[The Commander of Time]]\n|next          = [[From the Echoes of Destruction]]\n|rewards       = }}\n{{Intro/Quest|Dawn of Snowstorm}}\n\n==Steps==\n# Leave [[Loong's Crest]]\n#* Return to [[Hongzhen]]\n#* (Optional) Ski Down the Mountain\n#*# Ski to the finishing line\n\n==Dialogue==\n{{Quest Description|Time resumes and the snow clears. Mt. Firmament emerges from its long seclusion, ready to embrace its revival.}}\n{{Dialogue Start}}\n----\n:{{A|Vo mtfrmmq 1_1_407_1_M.ogg}} {{A|Vo mtfrmmq 1_1_407_1_F.ogg}} '''\"Jué\":''' One suggests heading back to Hongzhen to reunite with your companions, {{MC|m=Lord|f=Lady}} Arbiter.\n:{{A|Vo mtfrmmq 1_1_407_2.ogg}} '''\"Jué\":''' With Mt. Firmament no longer posing a threat, surely Hongzhen will undergo significant changes.\n----\n;(When player returns to Hongzhen)\n:[[File:Seq mtfrmmq m1_8_18 p1.png|500px]]\n:{{A|Vo mtfrmmq 1_1_410_1.ogg}} '''Storyteller:''' Mt. Firmament glowed with the sun's light, high above the clouds and snow. Then suddenly, they vanished, revealing a distant blue sky.\n:{{A|Vo mtfrmmq 1_1_410_2.ogg}} '''Storyteller:''' And amidst it all stood a white-haired maiden, like a goddess descended from the heavens.\n\n:[[File:Seq mtfrmmq m1_8_18 p2.png|500px]]\n:{{A|Vo mtfrmmq 1_1_410_3.ogg}} '''Storyteller:''' With a mere wave of her hand, she brought forth a new season, transforming the streets below.\n\n:[[File:Seq mtfrmmq m1_8_18 p3.png|500px]]\n:{{A|Vo mtfrmmq 1_1_410_4.ogg}} '''Storyteller:''' This maiden was none other than the dead infant, now reborn as the Magistrate of Jinzhou.\n\n:[[File:Seq mtfrmmq m1_8_18 p4_M.png|250px]] [[File:Seq mtfrmmq m1_8_18 p4_F.png|250px]]\n:{{A|Vo mtfrmmq 1_1_410_5.ogg}} '''Storyteller:''' \"When thunder roars in spring's embrace, the sun shall shine upon this place.\"\n:{{A|Vo mtfrmmq 1_1_410_6.ogg}} '''Storyteller:''' \"For only through death and strife, can one truly embrace new life.\"\n----\n:{{A|Vo mtfrmmq 1_1_410_7.ogg}} '''Phrolova:''' Hmm... I see. Doesn't matter. That's not important for our goal.\n:{{A|Vo mtfrmmq 1_1_410_8.ogg}} '''Phrolova:''' We have the answers we wanted already.\n:{{A|Vo mtfrmmq 1_1_410_9.ogg}} '''Phrolova:''' —With the Second Resonance Awakening, we will tap into powers that rival the Sentinels... Complete control of the artificial Resonator Awakening process is within reach.       \n:{{A|Vo mtfrmmq 1_1_410_11.ogg}} '''Phrolova:''' And lastly, about that Rover...\n:{{A|Vo mtfrmmq 1_1_410_12.ogg}} '''Phrolova:''' This trip was worth it. We've collected many wonderful notes, haven't we?\n:{{A|Vo mtfrmmq 1_1_410_13.ogg}} '''Phrolova:''' It's about time.\n:{{A|Vo mtfrmmq 1_1_410_14.ogg}} '''Phrolova:''' Get moving. Can't let [[Scar|a certain someone]] wait too long behind bars.\n;Huanglong I - Act VII '''Thaw of Eons''' [Quest Complete]\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dawn of Snowstorm\n|zhs  = 风消雪霁\n|zht  = 風消雪霽\n|ja   = 雪が止む頃に\n|ko   = 눈보라 그칠 무렵\n|es   = Cielo despejado tras la nevada\n|fr   = Le dernier givre\n|de   = Anbruch des Schneesturms\n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==Navigation==\n{{Quest Navbox|Main Quests}}\n[[ru:Затишье после вьюги]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Steps",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -19,13 +19,25 @@ run: build
 gather: build
 	./bin/ingest --pages "Simulacrum_of_the_Heart,Hsin,Suoming,Mengzhou,Xuanfang_Hold" --gather-only
 
-# Run wiki ingestion CLI
+# Gather all main quests (Prologue through Chapter IV) to data/raw/
+gather-all: build
+	./bin/ingest --all-main-quests --gather-only
+
+# Run wiki ingestion CLI (sample pages)
 ingest: build
 	./bin/ingest --pages "Simulacrum_of_the_Heart,Hsin,Suoming,Mengzhou,Xuanfang_Hold"
+
+# Ingest all main quests (Prologue through Chapter IV) into Qdrant
+ingest-all: build
+	./bin/ingest --all-main-quests
 
 # Test parsing and preview chunks without writing to Qdrant
 dry-run: build
 	./bin/ingest --pages "Simulacrum_of_the_Heart,Hsin,Suoming,Mengzhou,Xuanfang_Hold" --dry-run
+
+# Dry-run parse and preview for all main quests
+dry-run-all: build
+	./bin/ingest --all-main-quests --dry-run
 
 # Start containers via Docker Compose / Podman Compose
 docker-up:
