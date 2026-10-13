@@ -33,32 +33,87 @@ type QueryResult struct {
 	TotalTokens int             `json:"total_tokens,omitempty"`
 }
 
+// Option configures Service settings.
+type Option func(*Service)
+
+// WithHybridSearch enables or disables vector + keyword hybrid search.
+func WithHybridSearch(enabled bool) Option {
+	return func(s *Service) {
+		s.hybridEnabled = enabled
+	}
+}
+
+// WithQueryRewriter configures the query rewriter component.
+func WithQueryRewriter(rewriter QueryRewriter) Option {
+	return func(s *Service) {
+		s.queryRewriter = rewriter
+	}
+}
+
+// WithQueryRewriteEnabled enables or disables LLM query rewriting.
+func WithQueryRewriteEnabled(enabled bool) Option {
+	return func(s *Service) {
+		s.queryRewriteEnabled = enabled
+	}
+}
+
+// WithRRFConstant configures the k constant in 1/(k + rank).
+func WithRRFConstant(k int) Option {
+	return func(s *Service) {
+		if k > 0 {
+			s.rrfK = k
+		}
+	}
+}
+
+// WithCandidatePoolSize configures how many vector and keyword candidates are retrieved before fusion.
+func WithCandidatePoolSize(size int) Option {
+	return func(s *Service) {
+		if size > 0 {
+			s.candidatePoolSize = size
+		}
+	}
+}
+
 // Service coordinates retrieval from Qdrant and answer generation from LiteLLM.
 type Service struct {
-	qdrant         *qdrant.Client
-	embedder       Embedder
-	llm            *LLMClient
-	collection     string
-	topK           int
-	scoreThreshold float64
+	qdrant              *qdrant.Client
+	embedder            Embedder
+	llm                 *LLMClient
+	collection          string
+	topK                int
+	scoreThreshold      float64
+	queryRewriter       QueryRewriter
+	hybridEnabled       bool
+	queryRewriteEnabled bool
+	rrfK                int
+	candidatePoolSize   int
 }
 
 // NewService creates a new RAG orchestration service.
-func NewService(qdrantClient *qdrant.Client, embedder Embedder, llm *LLMClient, collection string, topK int, scoreThreshold float64) *Service {
+func NewService(qdrantClient *qdrant.Client, embedder Embedder, llm *LLMClient, collection string, topK int, scoreThreshold float64, opts ...Option) *Service {
 	if collection == "" {
 		collection = "wuwa_lore"
 	}
 	if topK <= 0 {
 		topK = 5
 	}
-	return &Service{
-		qdrant:         qdrantClient,
-		embedder:       embedder,
-		llm:            llm,
-		collection:     collection,
-		topK:           topK,
-		scoreThreshold: scoreThreshold,
+	s := &Service{
+		qdrant:              qdrantClient,
+		embedder:            embedder,
+		llm:                 llm,
+		collection:          collection,
+		topK:                topK,
+		scoreThreshold:      scoreThreshold,
+		hybridEnabled:       false,
+		queryRewriteEnabled: false,
+		rrfK:                60,
+		candidatePoolSize:   25,
 	}
+	for _, opt := range opts {
+		opt(s)
+	}
+	return s
 }
 
 // SearchOnly retrieves relevant context snippets without calling the LLM.
@@ -67,7 +122,61 @@ func (s *Service) SearchOnly(ctx context.Context, query string, limit int) ([]So
 		limit = s.topK
 	}
 
-	queryVec, err := s.embedder.Embed(ctx, query)
+	searchQuery := query
+	var keywords []string
+
+	// 1. Pre-Retrieval: Query Rewriting / Expansion
+	if s.queryRewriteEnabled && s.queryRewriter != nil {
+		expanded, kw, err := s.queryRewriter.Rewrite(ctx, query)
+		if err == nil && expanded != "" {
+			searchQuery = expanded
+			keywords = kw
+		}
+	}
+
+	if len(keywords) == 0 {
+		keywords = ExtractHeuristicKeywords(query)
+	}
+
+	// 2. Retrieval: Hybrid Search or Pure Vector
+	if s.hybridEnabled {
+		return s.hybridSearch(ctx, searchQuery, keywords, limit)
+	}
+
+	return s.vectorOnlySearch(ctx, searchQuery, limit)
+}
+
+func (s *Service) hybridSearch(ctx context.Context, searchQuery string, keywords []string, limit int) ([]SourceSnippet, error) {
+	poolSize := s.candidatePoolSize
+	if poolSize < limit {
+		poolSize = limit * 2
+	}
+
+	// A. Dense Vector candidate retrieval
+	queryVec, err := s.embedder.Embed(ctx, searchQuery)
+	if err != nil {
+		return nil, fmt.Errorf("failed to generate query embedding: %w", err)
+	}
+
+	vectorPoints, err := s.qdrant.Search(ctx, s.collection, queryVec, poolSize, s.scoreThreshold)
+	if err != nil {
+		return nil, fmt.Errorf("qdrant vector search failed: %w", err)
+	}
+
+	// B. Lexical/Keyword candidate retrieval
+	lexicalPoints, err := s.qdrant.ScrollByText(ctx, s.collection, keywords, poolSize)
+	if err != nil {
+		// Fallback to vector results if scroll isn't supported (e.g. mock test server)
+		lexicalPoints = nil
+	}
+
+	// C. Reciprocal Rank Fusion & Reranking
+	snippets := ReciprocalRankFusion(vectorPoints, lexicalPoints, keywords, s.rrfK, limit)
+	return snippets, nil
+}
+
+func (s *Service) vectorOnlySearch(ctx context.Context, searchQuery string, limit int) ([]SourceSnippet, error) {
+	queryVec, err := s.embedder.Embed(ctx, searchQuery)
 	if err != nil {
 		return nil, fmt.Errorf("failed to generate query embedding: %w", err)
 	}
@@ -77,39 +186,10 @@ func (s *Service) SearchOnly(ctx context.Context, query string, limit int) ([]So
 		return nil, fmt.Errorf("qdrant search failed: %w", err)
 	}
 
-	snippets := make([]SourceSnippet, 0, len(scoredPoints))
-	for _, p := range scoredPoints {
-		idStr := fmt.Sprintf("%v", p.ID)
-		payload := p.Payload
-
-		title, _ := payload["title"].(string)
-		section, _ := payload["section"].(string)
-		subsection, _ := payload["subsection"].(string)
-		content, _ := payload["content"].(string)
-
-		var speakers []string
-		if rawSpeakers, ok := payload["speakers"].([]interface{}); ok {
-			for _, sp := range rawSpeakers {
-				if spStr, ok := sp.(string); ok {
-					speakers = append(speakers, spStr)
-				}
-			}
-		}
-
-		snippets = append(snippets, SourceSnippet{
-			ID:           idStr,
-			Title:        title,
-			PageTitle:    title,
-			Section:      section,
-			SectionTitle: section,
-			Subsection:   subsection,
-			Speakers:     speakers,
-			Content:      content,
-			ChunkText:    content,
-			Score:        p.Score,
-		})
+	snippets := make([]SourceSnippet, len(scoredPoints))
+	for i, p := range scoredPoints {
+		snippets[i] = ConvertPointToSnippet(p)
 	}
-
 	return snippets, nil
 }
 
@@ -140,7 +220,7 @@ func (s *Service) AnswerQuestion(ctx context.Context, question string) (*QueryRe
 		}
 	}
 
-	systemPrompt := `You are an expert Wuthering Waves lore archivist and assistant specializing in the "Simulacrum of the Heart" quest line and Solaris-3 world lore.
+	systemPrompt := `You are an expert Wuthering Waves lore archivist and assistant specializing in Solaris-3 world lore and all Main Quest storylines from Prologue through Chapter IV (including Huanglong, Mt. Firmament, Rinascita, Septimont, Lahai-Roi, and Mengzhou).
 Your mission is to provide accurate, engaging, and faithful answers based on the provided lore documents.
 Guidelines:
 1. Answer the question using ONLY the provided lore documents.

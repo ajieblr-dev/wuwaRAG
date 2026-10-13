@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"net/http"
 	"net/http/httptest"
+	"strings"
 	"testing"
 
 	"github.com/ajieblr-dev/wuwaRAG/internal/qdrant"
@@ -101,3 +102,78 @@ func TestRAGService(t *testing.T) {
 		t.Errorf("Expected non-empty answer")
 	}
 }
+
+func TestExtractHeuristicKeywords(t *testing.T) {
+	query := "What did Carlotta find in the Averardo Vault about the Carnevale?"
+	kws := ExtractHeuristicKeywords(query)
+
+	hasCarlotta := false
+	hasVault := false
+	for _, kw := range kws {
+		if strings.Contains(strings.ToLower(kw), "carlotta") {
+			hasCarlotta = true
+		}
+		if strings.Contains(strings.ToLower(kw), "vault") || strings.Contains(strings.ToLower(kw), "averardo") {
+			hasVault = true
+		}
+	}
+
+	if !hasCarlotta {
+		t.Errorf("Expected keywords to extract 'Carlotta', got %v", kws)
+	}
+	if !hasVault {
+		t.Errorf("Expected keywords to extract 'Averardo' or 'Vault', got %v", kws)
+	}
+}
+
+func TestReciprocalRankFusion(t *testing.T) {
+	vecPoints := []qdrant.ScoredPoint{
+		{
+			ID:    "doc-1",
+			Score: 0.9,
+			Payload: map[string]interface{}{
+				"title":   "Doc One",
+				"content": "General lore discussion",
+			},
+		},
+		{
+			ID:    "doc-2",
+			Score: 0.7,
+			Payload: map[string]interface{}{
+				"title":   "Doc Two",
+				"content": "Specific mention of Sentinel Jué",
+			},
+		},
+	}
+
+	lexPoints := []qdrant.ScoredPoint{
+		{
+			ID: "doc-2", // doc-2 matches exact keyword!
+			Payload: map[string]interface{}{
+				"title":    "Doc Two",
+				"speakers": []interface{}{"Sentinel Jué"},
+				"content":  "Specific mention of Sentinel Jué and Mianloong Chamber",
+			},
+		},
+		{
+			ID: "doc-3",
+			Payload: map[string]interface{}{
+				"title":   "Doc Three",
+				"content": "Sentinel Jué resting place",
+			},
+		},
+	}
+
+	keywords := []string{"Sentinel Jué", "Mianloong Chamber"}
+	fused := ReciprocalRankFusion(vecPoints, lexPoints, keywords, 60, 5)
+
+	if len(fused) != 3 {
+		t.Fatalf("Expected 3 fused documents, got %d", len(fused))
+	}
+
+	// doc-2 was in BOTH vector and keyword lists, so it must be ranked #1
+	if fused[0].ID != "doc-2" {
+		t.Errorf("Expected doc-2 to be ranked #1 by RRF, got %s", fused[0].ID)
+	}
+}
+

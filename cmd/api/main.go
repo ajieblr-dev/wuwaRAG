@@ -36,6 +36,11 @@ func main() {
 		cfg.Collection,
 		cfg.TopK,
 		cfg.ScoreThreshold,
+		rag.WithHybridSearch(cfg.HybridSearchEnabled),
+		rag.WithQueryRewriter(rag.NewQueryRewriter(llmClient)),
+		rag.WithQueryRewriteEnabled(cfg.QueryRewriteEnabled),
+		rag.WithRRFConstant(cfg.RRFConstant),
+		rag.WithCandidatePoolSize(cfg.CandidatePoolSize),
 	)
 
 	srv := server.NewServer(

@@ -270,3 +270,77 @@ func (c *Client) GetCollectionInfo(ctx context.Context, collectionName string) (
 		VectorsCount: res.Result.VectorsCount,
 	}, nil
 }
+
+// ScrollByText searches points matching any of the supplied keywords in payload fields.
+func (c *Client) ScrollByText(ctx context.Context, collectionName string, keywords []string, limit int) ([]ScoredPoint, error) {
+	if limit <= 0 {
+		limit = 25
+	}
+	if len(keywords) == 0 {
+		return nil, nil
+	}
+
+	var shouldConditions []map[string]interface{}
+	for _, kw := range keywords {
+		kw = strings.TrimSpace(kw)
+		if len(kw) < 2 {
+			continue
+		}
+		// Match against title, speakers, subsection, and content
+		shouldConditions = append(shouldConditions,
+			map[string]interface{}{"key": "title", "match": map[string]interface{}{"text": kw}},
+			map[string]interface{}{"key": "speakers", "match": map[string]interface{}{"text": kw}},
+			map[string]interface{}{"key": "subsection", "match": map[string]interface{}{"text": kw}},
+			map[string]interface{}{"key": "content", "match": map[string]interface{}{"text": kw}},
+		)
+	}
+
+	if len(shouldConditions) == 0 {
+		return nil, nil
+	}
+
+	scrollURL := fmt.Sprintf("%s/collections/%s/points/scroll", c.baseURL, collectionName)
+	scrollPayload := map[string]interface{}{
+		"limit":        limit,
+		"with_payload": true,
+		"filter": map[string]interface{}{
+			"should": shouldConditions,
+		},
+	}
+
+	bodyBytes, err := json.Marshal(scrollPayload)
+	if err != nil {
+		return nil, fmt.Errorf("failed to marshal scroll query: %w", err)
+	}
+
+	req, err := http.NewRequestWithContext(ctx, http.MethodPost, scrollURL, bytes.NewReader(bodyBytes))
+	if err != nil {
+		return nil, fmt.Errorf("failed to build scroll request: %w", err)
+	}
+	req.Header.Set("Content-Type", "application/json")
+
+	resp, err := c.httpClient.Do(req)
+	if err != nil {
+		return nil, fmt.Errorf("scroll request failed: %w", err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		respBody, _ := io.ReadAll(resp.Body)
+		return nil, fmt.Errorf("scroll failed (status %d): %s", resp.StatusCode, string(respBody))
+	}
+
+	var scrollResp struct {
+		Result struct {
+			Points []ScoredPoint `json:"points"`
+		} `json:"result"`
+		Status string `json:"status"`
+	}
+
+	if err := json.NewDecoder(resp.Body).Decode(&scrollResp); err != nil {
+		return nil, fmt.Errorf("failed to decode scroll response: %w", err)
+	}
+
+	return scrollResp.Result.Points, nil
+}
+

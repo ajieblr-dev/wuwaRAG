@@ -152,6 +152,25 @@ To dramatically increase the model's lore knowledge across all released storylin
   - Configured `TOP_K=8` and `SCORE_THRESHOLD=0.20` in `.env` and `internal/config/config.go` for broader contextual coverage across lengthy quest narratives.
 * **CLI Expansion:** Enhanced `cmd/ingest` with `--all-main-quests`, `--pages-file`, and automated `Makefile` targets (`make gather-all`, `make ingest-all`, `make dry-run-all`).
 
+### Phase 8: Advanced RAG Accuracy Enhancements (Pre-Retrieval, Hybrid Fusion & Reranking)
+Following [`rag_accuracy_enhancement_plan.md`](rag_accuracy_enhancement_plan.md), the system was upgraded from pure cosine vector similarity to an **Advanced RAG architecture** designed to eliminate query-document mismatch on game-specific entities:
+1. **Pre-Retrieval Query Rewriting & Entity Expansion (`internal/rag/query_rewriter.go`):**
+   - Implemented `LLMQueryRewriter`, which leverages the LLM (or heuristic entity extractor fallback) to translate conversational or colloquial user questions into semantically dense queries enriched with canonical names, factions, Sentinels, and locations.
+   - Extracts discrete entity keywords for lexical matching (e.g. `["Suhsin", "Fractal Form", "Hsin"]`).
+2. **Hybrid Search (Dense Vector + Exact Lexical Keyword Search):**
+   - Extended Qdrant client with `ScrollByText` to query payload fields (`title`, `speakers`, `subsection`, `content`).
+   - Implemented lexical scoring (`ScorePointLexical`) rewarding multi-term entity matches and title/speaker matches.
+3. **Reciprocal Rank Fusion (RRF) & Reranking (`internal/rag/hybrid.go`):**
+   - Merges vector rankings and lexical rankings using standard RRF:
+     $$Score_{RRF}(d) = \frac{1}{60 + rank_{vec}(d)} + \frac{1}{60 + rank_{lex}(d)}$$
+   - Documents appearing in both semantic and keyword search receive strong ranking reinforcement.
+   - Candidate pool expands to 25 items per stream before fusing down to top 8 highest-relevance evidence snippets.
+4. **Configuration Flags:**
+   - `HYBRID_SEARCH_ENABLED=true`
+   - `QUERY_REWRITE_ENABLED=true`
+   - `RRF_K=60`
+   - `CANDIDATE_POOL_SIZE=25`
+
 ---
 
 ## 3. Directory Layout & File Roles
@@ -178,7 +197,9 @@ To dramatically increase the model's lore knowledge across all released storylin
 │   │   └── qdrant_test.go          # Unit tests for Qdrant client
 │   ├── rag/
 │   │   ├── embedding.go            # HuggingFace MiniLM embedder & offline fallback embedder
+│   │   ├── hybrid.go               # Hybrid search lexical scoring & Reciprocal Rank Fusion (RRF)
 │   │   ├── llm.go                  # LiteLLM client (4096 token budget, OpenAI format)
+│   │   ├── query_rewriter.go       # LLM query rewriter & heuristic entity extractor
 │   │   ├── rag.go                  # RAG orchestrator (context formatting, prompt injection)
 │   │   └── rag_test.go             # Unit tests for RAG pipeline
 │   └── server/
@@ -203,6 +224,7 @@ To dramatically increase the model's lore knowledge across all released storylin
 ├── go.mod                          # Go module dependencies
 ├── go.sum                          # Go dependency checksums
 ├── plan.md                         # Original project requirements document
+├── rag_accuracy_enhancement_plan.md # Advanced RAG enhancement roadmap and audit checklist
 ├── README.md                       # High-level overview & quickstart
 └── project-record.md               # This architectural record
 ```
@@ -354,7 +376,7 @@ Open your browser to:
    ```
 2. **Switching Embedding Models:**
    The current vector dimension is `384` for `sentence-transformers/all-MiniLM-L6-v2`. If upgrading to a model like `text-embedding-3-small` (1536 dim) or `bge-large-en-v1.5` (1024 dim), update `VECTOR_DIM` in `.env` and recreate the Qdrant collection.
-3. **Adding Hybrid Search:**
-   Qdrant supports sparse vectors (BM25) alongside dense vectors. You can extend `internal/qdrant/qdrant.go` to include sparse vector payloads for keyword + semantic hybrid search.
+3. **Tuning Hybrid Search & Reranking:**
+   Hybrid search is active by default (`HYBRID_SEARCH_ENABLED=true`). You can tune `RRF_K` (default 60), `CANDIDATE_POOL_SIZE` (default 25), and `QUERY_REWRITE_ENABLED` in `.env` to adjust the balance between dense semantic representation and exact keyword boosts.
 4. **Custom Front-end:**
    The Gin server has full CORS enabled (`Access-Control-Allow-Origin: *`), so any React, Vue, or Next.js web interface can communicate directly with `http://localhost:8080/api/v1/chat`.

@@ -30,6 +30,11 @@ type Config struct {
 	DefaultWikiPage  string
 	TopK             int
 	ScoreThreshold   float64
+
+	HybridSearchEnabled bool
+	QueryRewriteEnabled bool
+	RRFConstant         int
+	CandidatePoolSize   int
 }
 
 // Load loads configuration from environment variables and an optional .env file.
@@ -59,6 +64,11 @@ func Load() *Config {
 		DefaultWikiPage:  getEnv("DEFAULT_WIKI_PAGE", "Simulacrum_of_the_Heart"),
 		TopK:             getEnvAsInt("TOP_K", 8),
 		ScoreThreshold:   getEnvAsFloat("SCORE_THRESHOLD", 0.20),
+
+		HybridSearchEnabled: getEnvAsBool("HYBRID_SEARCH_ENABLED", true),
+		QueryRewriteEnabled: getEnvAsBool("QUERY_REWRITE_ENABLED", true),
+		RRFConstant:         getEnvAsInt("RRF_K", 60),
+		CandidatePoolSize:   getEnvAsInt("CANDIDATE_POOL_SIZE", 25),
 	}
 
 	return cfg
@@ -83,6 +93,17 @@ func getEnvAsFloat(key string, defaultVal float64) float64 {
 	valStr := getEnv(key, "")
 	if val, err := strconv.ParseFloat(valStr, 64); err == nil {
 		return val
+	}
+	return defaultVal
+}
+
+func getEnvAsBool(key string, defaultVal bool) bool {
+	valStr := getEnv(key, "")
+	if valStr == "" {
+		return defaultVal
+	}
+	if b, err := strconv.ParseBool(valStr); err == nil {
+		return b
 	}
 	return defaultVal
 }
