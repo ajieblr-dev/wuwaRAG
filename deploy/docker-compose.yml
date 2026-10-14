@@ -12,8 +12,8 @@ services:
     environment:
       - QDRANT__LOG_LEVEL=INFO
     healthcheck:
-      # HTTP probe against Qdrant's built-in readiness endpoint.
-      test: ["CMD-SHELL", "curl -f http://localhost:6333/healthz || exit 1"]
+      # HTTP probe against Qdrant's built-in readiness endpoint using bash socket (no curl required).
+      test: ["CMD-SHELL", "bash -c \"exec 3<>/dev/tcp/127.0.0.1/6333 && printf 'GET /healthz HTTP/1.1\\r\\nHost: 127.0.0.1\\r\\nConnection: close\\r\\n\\r\\n' >&3 && cat <&3 | grep -q '200 OK'\""]
       interval: 10s
       timeout: 5s
       retries: 5
@@ -35,9 +35,8 @@ services:
       - LITELLM_MASTER_KEY=${LITELLM_MASTER_KEY:-sk-wuwa-rag-secret}
     command: ["--config", "/app/config.yaml", "--port", "4000", "--num_workers", "2"]
     healthcheck:
-      # HTTP probe against LiteLLM's unauthenticated liveliness endpoint
-      # (/health requires the master key; /health/liveliness does not).
-      test: ["CMD-SHELL", "curl -f http://localhost:4000/health/liveliness || exit 1"]
+      # HTTP probe against LiteLLM's unauthenticated liveliness endpoint using Python standard library (no curl required).
+      test: ["CMD-SHELL", "python3 -c \"import urllib.request; urllib.request.urlopen('http://localhost:4000/health/liveliness')\""]
       interval: 15s
       timeout: 5s
       retries: 5
