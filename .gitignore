@@ -21,3 +21,6 @@ github-credential
 .DS_Store
 .idea/
 .vscode/
+
+# Recap documentation folder
+recap/
