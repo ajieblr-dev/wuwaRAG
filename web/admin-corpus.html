@@ -5,51 +5,112 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Admin · Corpus · Resonance Archive</title>
 <link rel="stylesheet" href="styles.css" />
-
+<style>
+  .filter-bar { display: flex; gap: 10px; align-items: center; margin-bottom: 14px; flex-wrap: wrap; }
+  .table-scroll { max-height: 480px; overflow-y: auto; border: 1px solid var(--border); border-radius: var(--radius-sm); }
+  .spk-clickable { cursor: pointer; transition: transform 0.15s ease, box-shadow 0.15s ease; user-select: none; }
+  .spk-clickable:hover { transform: translateY(-1px); filter: brightness(1.15); }
+  .spk-clickable.active { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .chunk-meta-tags { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
+  .clickable-row { cursor: pointer; transition: background 0.15s ease; }
+  .clickable-row:hover { background: color-mix(in oklch, var(--accent) 8%, transparent); }
+  .clickable-row.selected { background: color-mix(in oklch, var(--accent) 15%, transparent); }
+</style>
 </head>
 <body>
 <main id="content">
   <div class="wrap page">
     <div class="page-head" data-od-id="corpus-head">
       <p class="crumb"><a href="index.html">Resonance Archive</a> / admin / corpus</p>
-      <h1>Corpus</h1>
-      <p>The API exposes no list endpoints for pages, chunks, or speakers yet, so this view is mock-backed and badged. Character counts are real; per-page chunk counts are not.</p>
+      <h1>Corpus Explorer</h1>
+      <p>Browse indexed storyline pages, dialogue speakers, and text chunks directly from the <span class="mono">GET /api/v1/corpus</span> service.</p>
     </div>
     <nav id="admin-nav" class="subnav" aria-label="Admin sections"></nav>
 
-    <div class="banner warn" style="margin-bottom:18px">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg>
-      <div><span class="b-title">Requires backend.</span> <span class="muted">A future <span class="mono">GET /api/v1/pages</span>, <span class="mono">/chunks</span>, and <span class="mono">/speakers</span> would replace the mock rows below.</span></div>
+    <div class="banner info" id="corpus-status-banner" style="margin-bottom:18px">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg>
+      <div><span class="b-title" id="corpus-banner-title">Loading corpus…</span> <span class="muted" id="corpus-banner-msg">Connecting to backend corpus endpoint.</span></div>
     </div>
 
+    <!-- KPI summary row -->
+    <section class="kpi-grid" style="margin-bottom:20px">
+      <div class="kpi"><div class="k-top"><span class="k-label">Indexed Pages</span></div><div class="k-val num" id="k-corpus-pages">—</div><div class="k-sub">Main quests &amp; storylines</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Total Chunks</span></div><div class="k-val num" id="k-corpus-chunks">—</div><div class="k-sub">vector-embedded segments</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Distinct Speakers</span></div><div class="k-val num" id="k-corpus-speakers">—</div><div class="k-sub">dialogue entities</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Selected Scope</span></div><div class="k-val" id="k-corpus-scope" style="font-size:17px">All Pages</div><div class="k-sub" id="k-corpus-scope-sub">3,786 chunks</div></div>
+    </section>
+
+    <!-- Pages Table Section -->
     <section class="panel" data-od-id="pages-table" style="margin-bottom:20px">
-      <div class="panel-head"><h3>Pages</h3><span class="tiny dim mono">5 indexed · 222 chunks</span></div>
-      <div class="table-wrap" style="border:0;border-radius:0">
-        <table class="data">
-          <thead><tr><th>Page</th><th class="num">Characters</th><th class="num">Chunks <span class="mock-badge" style="margin-left:4px">mock</span></th><th>Wiki</th></tr></thead>
-          <tbody id="pages-body"></tbody>
-        </table>
+      <div class="panel-head">
+        <div class="row gap-2">
+          <h3>Pages</h3>
+          <span class="pill ok" id="pages-badge">Connecting…</span>
+        </div>
+        <span class="tiny dim mono" id="pages-summary">—</span>
+      </div>
+      <div class="panel-body">
+        <div class="filter-bar">
+          <input class="input" id="page-search" type="search" placeholder="Filter pages by title…" style="max-width:280px" aria-label="Search pages" />
+          <button class="btn btn-ghost btn-sm" id="page-reset" type="button">Reset filter</button>
+          <span class="tiny dim" id="page-match-count" style="margin-left:auto"></span>
+        </div>
+        <div class="table-scroll">
+          <table class="data">
+            <thead>
+              <tr>
+                <th><button class="sortbtn" data-sort="title" type="button">Page Title</button></th>
+                <th class="num"><button class="sortbtn" data-sort="chars" type="button">Characters</button></th>
+                <th class="num"><button class="sortbtn" data-sort="chunks" type="button">Chunks</button></th>
+                <th>Inspect</th>
+                <th>Wiki</th>
+              </tr>
+            </thead>
+            <tbody id="pages-body"></tbody>
+          </table>
+        </div>
       </div>
     </section>
 
+    <!-- Speakers & Chunk Inspector Grid -->
     <div class="grid-1-2" style="gap:20px;align-items:start">
       <section class="panel" data-od-id="speakers" style="margin-bottom:20px">
-        <div class="panel-head"><h3>Speakers</h3><span class="pill mute">71 distinct</span></div>
+        <div class="panel-head">
+          <h3>Top Dialogue Speakers</h3>
+          <span class="pill mute" id="speaker-count-pill">—</span>
+        </div>
         <div class="panel-body stack gap-3">
-          <p class="tiny dim">Sample of dialogue speakers returned with chunks. The full list needs a backend endpoint.</p>
+          <p class="tiny dim">Click a speaker chip to filter the chunks inspector below.</p>
           <div class="row wrapflex gap-2" id="speaker-list"></div>
-          <div class="row gap-2"><span class="mock-badge">mock</span><span class="tiny dim">8 of 71 shown</span></div>
+          <div class="row gap-2" id="speaker-filter-status" hidden>
+            <span class="tiny muted">Filtering by: <strong id="current-spk-name"></strong></span>
+            <button class="btn btn-ghost btn-sm" id="clear-spk-filter" type="button" style="padding:0 6px;height:auto;font-size:11px">Clear filter</button>
+          </div>
         </div>
       </section>
 
       <section class="panel" data-od-id="chunk-inspector">
-        <div class="panel-head"><h3>Chunk inspector</h3><span class="mock-badge">requires backend</span></div>
+        <div class="panel-head">
+          <div class="row gap-2">
+            <h3>Chunk Inspector</h3>
+            <span class="pill ok" id="chunk-live-badge">Live</span>
+          </div>
+          <span class="tiny dim mono" id="chunk-pool-count">0 chunks</span>
+        </div>
         <div class="panel-body">
           <div class="field" style="margin-bottom:14px">
-            <label for="chunk-select">Select a chunk</label>
+            <label for="chunk-select">Select a chunk to inspect</label>
             <select class="select mono" id="chunk-select"></select>
           </div>
-          <p class="snippet" id="chunk-text" style="margin-bottom:14px"></p>
+
+          <div class="chunk-meta-tags" id="chunk-tags"></div>
+
+          <p class="snippet" id="chunk-text" style="margin-bottom:14px;white-space:pre-wrap;line-height:1.6"></p>
+
+          <div class="row-between" style="margin-bottom:6px">
+            <span class="tiny dim mono">Chunk Payload &amp; Metadata</span>
+            <button class="btn btn-ghost btn-sm" id="copy-chunk-json" type="button">Copy JSON</button>
+          </div>
           <div class="json"><pre id="chunk-meta"></pre></div>
         </div>
       </section>
@@ -63,30 +124,16 @@
   OD.mount("admin-corpus");
   OD.token = OD.SS.get("od-token") || "";
 
-  // deterministic mock chunk counts from real total 222
-  var chunkMock = [214, 3, 2, 2, 1];
-  document.getElementById("pages-body").innerHTML = OD.corpus.map(function (p, i) {
-    return '<tr data-od-id="page-row-' + i + '"><td>' + p.title + '</td>' +
-      '<td class="num">' + p.chars.toLocaleString() + '</td>' +
-      '<td class="num"><span class="dim">[mock]</span> ' + chunkMock[i] + '</td>' +
-      '<td><a class="btn btn-ghost btn-sm" href="' + OD.wikiUrl(p.title) + '" target="_blank" rel="noopener">' + OD.icons.external + 'Open</a></td></tr>';
-  }).join("");
-
-  document.getElementById("speaker-list").innerHTML = OD.speakers.map(function (n) { return OD.speakerChip(n); }).join("");
+  var corpusData = null;
+  var pages = [];
+  var currentChunks = [];
+  var selectedPageTitle = "";
+  var activeSpeakerFilter = "";
+  var sortKey = "title", sortDir = 1;
 
   var sel = document.getElementById("chunk-select");
-  var chunks = [];
-  OD.corpus.forEach(function (p, pi) {
-    for (var k = 0; k < 2; k++) {
-      chunks.push({ id: (pi + 1) * 1000 + k + 1, page: p.title, section: "[mock] section " + (k + 1), tokens: 140 + k * 30, speakers: OD.speakers.slice(pi, pi + 1 + (k % 2)) });
-    }
-  });
-  sel.innerHTML = chunks.map(function (c) { return '<option value="' + c.id + '">#' + c.id + ' · ' + c.page + '</option>'; }).join("");
-  function show(id) {
-    var c = chunks.filter(function (x) { return String(x.id) === String(id); })[0];
-    document.getElementById("chunk-text").textContent = "[mock] Placeholder chunk text from \u201C" + c.page + "\u201D. Real chunk text and metadata arrive once the corpus endpoint exists.";
-    document.getElementById("chunk-meta").innerHTML = jsonHighlight({ chunk_id: c.id, page_title: c.page, section_title: c.section, tokens: c.tokens, speakers: c.speakers, _source: "mock" });
-  }
+  var pageSearch = document.getElementById("page-search");
+
   function jsonHighlight(obj) {
     return JSON.stringify(obj, null, 2)
       .replace(/"([^"]+)":/g, '<span class="jk">"$1"</span>:')
@@ -94,8 +141,271 @@
       .replace(/: (\d+)/g, ': <span class="jn">$1</span>')
       .replace(/: true|: false/g, function (m) { return ': <span class="jb">' + m.slice(2) + '</span>'; });
   }
-  sel.addEventListener("change", function () { show(sel.value); });
-  show(chunks[0].id);
+
+  function renderPagesTable() {
+    var query = pageSearch.value.trim().toLowerCase();
+    var filtered = pages.filter(function (p) {
+      return !query || (p.title || "").toLowerCase().includes(query);
+    });
+
+    filtered.sort(function (a, b) {
+      var x = a[sortKey], y = b[sortKey];
+      if (typeof x === "string") x = x.toLowerCase();
+      if (typeof y === "string") y = y.toLowerCase();
+      return x > y ? sortDir : x < y ? -sortDir : 0;
+    });
+
+    document.getElementById("page-match-count").textContent = filtered.length + " of " + pages.length + " pages";
+
+    var html = filtered.map(function (p, i) {
+      var isSelected = (selectedPageTitle && p.title === selectedPageTitle);
+      return '<tr data-od-id="page-row-' + i + '" class="clickable-row ' + (isSelected ? "selected" : "") + '" data-page-title="' + encodeURIComponent(p.title) + '">' +
+        '<td><strong>' + p.title + '</strong>' + (isSelected ? ' <span class="pill ok" style="margin-left:6px;font-size:10px">Selected</span>' : '') + '</td>' +
+        '<td class="num">' + (p.chars || 0).toLocaleString() + '</td>' +
+        '<td class="num">' + (p.chunks || 0).toLocaleString() + '</td>' +
+        '<td><button class="btn btn-secondary btn-sm inspect-btn" data-title="' + encodeURIComponent(p.title) + '" type="button">Inspect</button></td>' +
+        '<td><a class="btn btn-ghost btn-sm" href="' + OD.wikiUrl(p.title) + '" target="_blank" rel="noopener">' + OD.icons.external + 'Open</a></td>' +
+        '</tr>';
+    }).join("");
+
+    document.getElementById("pages-body").innerHTML = html || '<tr><td colspan="5" class="dim" style="text-align:center;padding:24px">No pages match \u201C' + query + '\u201D</td></tr>';
+
+    // Click handler for inspecting a page's chunks
+    document.querySelectorAll(".inspect-btn").forEach(function (btn) {
+      btn.addEventListener("click", function (e) {
+        e.stopPropagation();
+        var title = decodeURIComponent(btn.dataset.title);
+        selectPage(title);
+      });
+    });
+
+    document.querySelectorAll(".clickable-row").forEach(function (tr) {
+      tr.addEventListener("click", function () {
+        var title = decodeURIComponent(tr.dataset.pageTitle);
+        selectPage(title);
+      });
+    });
+  }
+
+  function renderSpeakers(speakerStats) {
+    var host = document.getElementById("speaker-list");
+    host.innerHTML = speakerStats.map(function (sp) {
+      var name = typeof sp === "string" ? sp : sp.name;
+      var count = typeof sp === "string" ? "" : " (" + sp.count + ")";
+      var isActive = activeSpeakerFilter === name;
+      return '<span class="spk spk-clickable ' + (isActive ? "active" : "") + '" data-spk="' + encodeURIComponent(name) + '" style="--h:' + OD.speakerHue(name) + '">' +
+        '<span class="ini">' + OD.initials(name) + '</span>' + name + '<span class="dim" style="font-size:10px;margin-left:3px">' + count + '</span></span>';
+    }).join("");
+
+    host.querySelectorAll(".spk-clickable").forEach(function (el) {
+      el.addEventListener("click", function () {
+        var spk = decodeURIComponent(el.dataset.spk);
+        if (activeSpeakerFilter === spk) {
+          activeSpeakerFilter = "";
+        } else {
+          activeSpeakerFilter = spk;
+        }
+        updateSpeakerFilterUI();
+        loadChunksForCurrentFilter();
+      });
+    });
+  }
+
+  function updateSpeakerFilterUI() {
+    var st = document.getElementById("speaker-filter-status");
+    if (activeSpeakerFilter) {
+      st.hidden = false;
+      document.getElementById("current-spk-name").textContent = activeSpeakerFilter;
+    } else {
+      st.hidden = true;
+    }
+  }
+
+  document.getElementById("clear-spk-filter").addEventListener("click", function () {
+    activeSpeakerFilter = "";
+    updateSpeakerFilterUI();
+    renderSpeakers(corpusData ? corpusData.top_speakers : OD.speakers);
+    loadChunksForCurrentFilter();
+  });
+
+  async function selectPage(title) {
+    if (selectedPageTitle === title) {
+      selectedPageTitle = "";
+      document.getElementById("k-corpus-scope").textContent = "All Pages";
+      document.getElementById("k-corpus-scope-sub").textContent = (corpusData ? corpusData.total_chunks : 0).toLocaleString() + " chunks";
+    } else {
+      selectedPageTitle = title;
+      document.getElementById("k-corpus-scope").textContent = title;
+      var pg = pages.find(function (p) { return p.title === title; });
+      document.getElementById("k-corpus-scope-sub").textContent = pg ? (pg.chunks + " chunks · " + pg.chars.toLocaleString() + " chars") : "";
+    }
+    renderPagesTable();
+    await loadChunksForCurrentFilter();
+  }
+
+  async function loadChunksForCurrentFilter() {
+    try {
+      sel.innerHTML = '<option value="">Loading chunks…</option>';
+      document.getElementById("chunk-pool-count").textContent = "fetching…";
+      var res = await OD.api.corpus({
+        page: selectedPageTitle || undefined,
+        speaker: activeSpeakerFilter || undefined,
+        limit: 100
+      });
+
+      currentChunks = (res && res.chunks) ? res.chunks : [];
+      document.getElementById("chunk-pool-count").textContent = (res.matched_chunks || currentChunks.length) + " chunks";
+
+      if (!currentChunks.length) {
+        sel.innerHTML = '<option value="">No chunks found for current selection</option>';
+        document.getElementById("chunk-text").textContent = "No chunks found matching the selected page and speaker filters.";
+        document.getElementById("chunk-tags").innerHTML = "";
+        document.getElementById("chunk-meta").textContent = "{}";
+        return;
+      }
+
+      sel.innerHTML = currentChunks.map(function (c, idx) {
+        var label = "#" + (c.index != null ? c.index : idx + 1) + " · " + (c.title || c.page_title) + (c.section ? " (" + c.section + ")" : "");
+        return '<option value="' + c.id + '">' + label + '</option>';
+      }).join("");
+
+      showChunk(currentChunks[0].id);
+    } catch (e) {
+      sel.innerHTML = '<option value="">Error loading chunks</option>';
+      document.getElementById("chunk-text").textContent = "Failed to load chunks: " + OD.errorClass(e);
+      document.getElementById("chunk-meta").textContent = "{}";
+    }
+  }
+
+  function showChunk(id) {
+    var c = currentChunks.find(function (x) { return String(x.id) === String(id); });
+    if (!c) return;
+
+    var tagsHtml = [];
+    if (c.title) tagsHtml.push('<span class="pill ok">' + c.title + '</span>');
+    if (c.section) tagsHtml.push('<span class="pill mute">Section: ' + c.section + '</span>');
+    if (c.subsection) tagsHtml.push('<span class="pill mute">' + c.subsection + '</span>');
+    if (c.char_count) tagsHtml.push('<span class="pill">' + c.char_count + ' chars</span>');
+    if (c.speakers && c.speakers.length) {
+      c.speakers.forEach(function (sp) { tagsHtml.push(OD.speakerChip(sp)); });
+    }
+    document.getElementById("chunk-tags").innerHTML = tagsHtml.join(" ");
+
+    var content = c.content || c.chunk_text || "";
+    document.getElementById("chunk-text").textContent = content;
+
+    var payload = {
+      id: c.id,
+      title: c.title,
+      section: c.section,
+      subsection: c.subsection || "",
+      speakers: c.speakers || [],
+      index: c.index,
+      char_count: c.char_count,
+      content_preview: content.length > 250 ? content.slice(0, 250) + "…" : content,
+      metadata: c.metadata || {}
+    };
+
+    document.getElementById("chunk-meta").innerHTML = jsonHighlight(payload);
+  }
+
+  sel.addEventListener("change", function () { showChunk(sel.value); });
+
+  document.getElementById("copy-chunk-json").addEventListener("click", function () {
+    var c = currentChunks.find(function (x) { return String(x.id) === String(sel.value); });
+    if (c) {
+      OD.copy(JSON.stringify(c, null, 2), "Chunk JSON");
+    }
+  });
+
+  pageSearch.addEventListener("input", renderPagesTable);
+  document.getElementById("page-reset").addEventListener("click", function () {
+    pageSearch.value = "";
+    selectedPageTitle = "";
+    document.getElementById("k-corpus-scope").textContent = "All Pages";
+    document.getElementById("k-corpus-scope-sub").textContent = (corpusData ? corpusData.total_chunks : 0).toLocaleString() + " chunks";
+    renderPagesTable();
+    loadChunksForCurrentFilter();
+  });
+
+  document.querySelectorAll("[data-sort]").forEach(function (b) {
+    b.addEventListener("click", function () {
+      var k = b.dataset.sort;
+      if (sortKey === k) sortDir *= -1; else { sortKey = k; sortDir = 1; }
+      renderPagesTable();
+    });
+  });
+
+  async function init() {
+    try {
+      var res = await OD.api.corpus({ limit: 50 });
+      corpusData = res;
+
+      // Update banner
+      var banner = document.getElementById("corpus-status-banner");
+      banner.className = "banner ok";
+      document.getElementById("corpus-banner-title").textContent = "Live Corpus Connected";
+      document.getElementById("corpus-banner-msg").textContent = "Indexed dataset active: " + res.total_pages + " pages, " + res.total_chunks.toLocaleString() + " chunks, " + res.total_speakers.toLocaleString() + " dialogue speakers.";
+
+      // KPIs
+      document.getElementById("k-corpus-pages").textContent = res.total_pages.toLocaleString();
+      document.getElementById("k-corpus-chunks").textContent = res.total_chunks.toLocaleString();
+      document.getElementById("k-corpus-speakers").textContent = res.total_speakers.toLocaleString();
+      document.getElementById("k-corpus-scope-sub").textContent = res.total_chunks.toLocaleString() + " chunks";
+
+      // Pages & Speakers
+      pages = res.pages || [];
+      document.getElementById("pages-badge").textContent = res.total_pages + " pages";
+      document.getElementById("pages-summary").textContent = res.total_chunks.toLocaleString() + " total chunks";
+      renderPagesTable();
+
+      document.getElementById("speaker-count-pill").textContent = res.total_speakers + " distinct";
+      renderSpeakers(res.top_speakers || []);
+
+      // Chunks
+      currentChunks = res.chunks || [];
+      document.getElementById("chunk-pool-count").textContent = currentChunks.length + " chunks";
+      if (currentChunks.length) {
+        sel.innerHTML = currentChunks.map(function (c, idx) {
+          var label = "#" + (c.index != null ? c.index : idx + 1) + " · " + (c.title || c.page_title) + (c.section ? " (" + c.section + ")" : "");
+          return '<option value="' + c.id + '">' + label + '</option>';
+        }).join("");
+        showChunk(currentChunks[0].id);
+      }
+    } catch (e) {
+      // Fallback to local default set if backend unreachable
+      var banner = document.getElementById("corpus-status-banner");
+      banner.className = "banner warn";
+      document.getElementById("corpus-banner-title").textContent = "Backend Offline / Mock Mode";
+      document.getElementById("corpus-banner-msg").textContent = "Could not reach /api/v1/corpus: " + OD.errorClass(e) + ". Showing baseline dataset.";
+
+      pages = OD.corpus;
+      document.getElementById("k-corpus-pages").textContent = pages.length;
+      document.getElementById("k-corpus-chunks").textContent = "222";
+      document.getElementById("k-corpus-speakers").textContent = OD.speakers.length;
+      document.getElementById("pages-badge").textContent = pages.length + " pages (local)";
+      renderPagesTable();
+      renderSpeakers(OD.speakers);
+
+      var mockChunks = OD.mockSources();
+      currentChunks = mockChunks.map(function (s) {
+        return {
+          id: s.id,
+          title: s.title,
+          section: s.section,
+          speakers: s.speakers,
+          content: s.chunk_text,
+          char_count: (s.chunk_text || "").length
+        };
+      });
+      sel.innerHTML = currentChunks.map(function (c) {
+        return '<option value="' + c.id + '">#' + c.id + ' · ' + c.title + '</option>';
+      }).join("");
+      showChunk(currentChunks[0].id);
+    }
+  }
+
+  init();
 })();
 </script>
 </body>

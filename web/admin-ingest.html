@@ -31,6 +31,12 @@
           <div class="field grow"><label for="cs">chunk_size</label><input class="input num" id="cs" type="number" value="900" min="1" /></div>
           <div class="field grow"><label for="ov">overlap</label><input class="input num" id="ov" type="number" value="150" min="0" /></div>
         </div>
+        <div class="row gap-2 wrapflex" style="margin-top:-6px">
+          <span class="tiny dim">Presets:</span>
+          <button class="btn btn-ghost btn-sm preset-btn" data-cs="900" data-ov="150" type="button" style="padding:0 6px;height:auto;font-size:11px">Default (900/150)</button>
+          <button class="btn btn-ghost btn-sm preset-btn" data-cs="500" data-ov="100" type="button" style="padding:0 6px;height:auto;font-size:11px">Compact (500/100)</button>
+          <button class="btn btn-ghost btn-sm preset-btn" data-cs="1200" data-ov="200" type="button" style="padding:0 6px;height:auto;font-size:11px">Expanded (1200/200)</button>
+        </div>
         <p class="err-msg" id="form-err" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" width="13" height="13"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg><span></span></p>
         <div class="banner info" style="font-size:12.5px">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg>
@@ -92,6 +98,27 @@
   updateCli();
   document.getElementById("copy-cli").addEventListener("click", function () { OD.copy(cliText(), "Command"); });
 
+  document.querySelectorAll(".preset-btn").forEach(function (b) {
+    b.addEventListener("click", function () {
+      cs.value = b.dataset.cs;
+      ov.value = b.dataset.ov;
+      updateCli();
+    });
+  });
+
+  async function populateDatalist() {
+    try {
+      var res = await OD.api.corpus();
+      if (res && res.pages && res.pages.length) {
+        var dl = document.getElementById("pages");
+        dl.innerHTML = res.pages.map(function (p) {
+          return '<option value="' + p.title + '">' + (p.chunks ? p.chunks + ' chunks' : '') + '</option>';
+        }).join("");
+      }
+    } catch (e) {}
+  }
+  populateDatalist();
+
   function validate() {
     var c = +cs.value, o = +ov.value;
     if (!(c > 0) || !Number.isInteger(c)) return "chunk_size must be a positive integer.";
@@ -129,7 +156,10 @@
     logLine("", "page=" + (norm(page.value) || "*") + " chunk_size=" + cs.value + " overlap=" + ov.value);
     var started = Date.now();
     var t = setInterval(function () { consoElapsed.textContent = ((Date.now() - started) / 1000).toFixed(1) + "s"; }, 100);
-    document.getElementById("run").setAttribute("aria-disabled", "true");
+    var runBtn = document.getElementById("run");
+    runBtn.disabled = true;
+    runBtn.textContent = "Re-ingesting…";
+    runBtn.setAttribute("aria-disabled", "true");
     try {
       var before = (await OD.api.health()).indexed_chunks;
       logLine("", "indexed_chunks before: " + before);
@@ -149,7 +179,9 @@
       logLine("err", OD.errorClass(e) + " — " + (e.body || "no response"));
       OD.toast("Ingest failed: " + OD.errorClass(e), "err");
     } finally {
-      document.getElementById("run").removeAttribute("aria-disabled");
+      runBtn.disabled = false;
+      runBtn.textContent = "Re-ingest";
+      runBtn.removeAttribute("aria-disabled");
       consoElapsed.textContent = "done";
     }
   }

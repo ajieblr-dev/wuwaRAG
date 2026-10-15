@@ -28,7 +28,7 @@
     <section class="kpi-grid" data-od-id="kpis" style="margin-bottom:20px">
       <div class="kpi"><div class="k-top"><span class="k-label">Service status</span></div><div class="k-val" id="k-status" style="font-size:19px">—</div><div class="k-sub" id="k-service">—</div></div>
       <div class="kpi"><div class="k-top"><span class="k-label">Qdrant</span></div><div class="k-val" id="k-qdrant" style="font-size:19px">—</div><div class="k-sub">vector store connectivity</div></div>
-      <div class="kpi"><div class="k-top"><span class="k-label">Collection</span></div><div class="k-val" id="k-collection" style="font-size:19px">—</div><div class="k-sub">cosine</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">LiteLLM Gateway</span></div><div class="k-val" id="k-litellm" style="font-size:19px">—</div><div class="k-sub">wuwa-lore-model (:4000)</div></div>
       <div class="kpi"><div class="k-top"><span class="k-label">Indexed chunks</span></div><div class="k-val num" id="k-chunks">—</div><div class="k-sub">from <span class="mono">/health</span></div></div>
       <div class="kpi" id="k-flag-tile"><div class="k-top"><span class="k-label">points vs vectors</span><span id="k-flag"></span></div><div class="k-val num" id="k-points" style="font-size:19px">—</div><div class="k-sub" id="k-vectors">—</div></div>
       <div class="kpi"><div class="k-top"><span class="k-label">API timestamp</span></div><div class="k-val num" id="k-ts-rel" style="font-size:19px">—</div><div class="k-sub mono" id="k-ts-abs">—</div></div>
@@ -36,7 +36,7 @@
 
     <div class="grid-2" style="gap:20px;margin-bottom:20px;align-items:start">
       <section class="panel" data-od-id="topology">
-        <div class="panel-head"><h3>Topology</h3><span class="tiny dim">static unless probed</span></div>
+        <div class="panel-head"><h3>Topology</h3><span class="tiny dim">live probed from /health</span></div>
         <div class="panel-body stack gap-4">
           <div class="topo">
             <div class="topo-node" data-step="01"><div class="tn-name">Client</div><div class="tn-meta">browser · this app</div></div>
@@ -48,9 +48,9 @@
           <div class="topo">
             <div class="topo-node" data-step="04"><div class="tn-name">Go API</div><div class="tn-meta">prompt + context</div></div>
             <div class="topo-link">→</div>
-            <div class="topo-node" data-step="05"><div class="tn-name">LiteLLM gateway</div><div class="tn-meta" id="topo-litellm">Unknown · no health probe configured</div></div>
+            <div class="topo-node" data-step="05"><div class="tn-name">LiteLLM gateway</div><div class="tn-meta" id="topo-litellm">connecting…</div></div>
           </div>
-          <p class="tiny dim">LiteLLM state stays <span class="mono">Unknown</span> unless <span class="mono">VITE_LITELLM_HEALTH_URL</span> is set; a direct browser probe may be blocked by CORS.</p>
+          <p class="tiny dim">Go API orchestrates reciprocal rank fusion, hybrid retrieval from Qdrant, and multi-provider fallback routing via LiteLLM.</p>
         </div>
       </section>
 
@@ -105,25 +105,27 @@
     if (s < 3600) return Math.round(s / 60) + "m ago";
     return Math.round(s / 3600) + "h ago";
   }
-  function setState(el, ok, txt) {
-    el.dataset.state = ok === true ? "ok" : ok === false ? "down" : "unknown";
-    el.querySelector("span:last-child").textContent = txt || (ok ? "ok" : ok === false ? "down" : "unknown");
-  }
 
   async function refresh() {
     try {
       var h = await OD.api.health();
       document.getElementById("poll-state").textContent = "live";
-      document.getElementById("poll-dot").dataset.state = h.qdrant_connected ? "ok" : "warn";
+      document.getElementById("poll-dot").dataset.state = (h.qdrant_connected && h.litellm_connected) ? "ok" : "warn";
       document.getElementById("k-status").innerHTML = '<span class="pill ok">' + h.status + '</span>';
       document.getElementById("k-service").textContent = h.service || "—";
       document.getElementById("k-qdrant").innerHTML = h.qdrant_connected ? '<span class="pill ok">connected</span>' : '<span class="pill danger">down</span>';
-      document.getElementById("k-collection").textContent = h.collection || "—";
+      if (document.getElementById("k-litellm")) {
+        document.getElementById("k-litellm").innerHTML = h.litellm_connected ? '<span class="pill ok">connected</span>' : '<span class="pill danger">down</span>';
+      }
       document.getElementById("k-chunks").textContent = h.indexed_chunks != null ? h.indexed_chunks.toLocaleString() : "—";
       document.getElementById("k-ts-rel").textContent = rel(h.timestamp);
-      document.getElementById("k-ts-abs").textContent = new Date(h.timestamp).toLocaleString();
-      document.getElementById("topo-qdrant").textContent = h.qdrant_connected ? "connected · " + h.collection : "disconnected";
-      samples.push(h.indexed_chunks);
+      document.getElementById("k-ts-abs").textContent = new Date(h.timestamp).toLocaleTimeString();
+      document.getElementById("topo-qdrant").textContent = h.qdrant_connected ? "connected · " + (h.collection || "wuwa_lore") : "disconnected";
+      document.getElementById("topo-litellm").textContent = h.litellm_connected ? "connected · :4000 (wuwa-lore-model)" : (h.litellm_connected === false ? "disconnected" : "Unknown");
+      var lu = document.getElementById("last-updated");
+      if (lu) lu.textContent = " · updated " + new Date().toLocaleTimeString();
+
+      samples.push(h.indexed_chunks || 0);
       if (samples.length > 40) samples.shift();
       drawSpark();
     } catch (e) {
@@ -145,10 +147,10 @@
     if (!samples.length) return;
     var W = 320, H = 90, pad = 6;
     var min = Math.min.apply(null, samples), max = Math.max.apply(null, samples);
-    var span = Math.max(1, max - min);
+    var span = max - min;
     var pts = samples.map(function (v, i) {
       var x = pad + (i / Math.max(1, samples.length - 1)) * (W - pad * 2);
-      var y = H - pad - ((v - min) / span) * (H - pad * 2);
+      var y = span === 0 ? H / 2 : H - pad - ((v - min) / span) * (H - pad * 2);
       return [x, y];
     });
     document.getElementById("spark-path").setAttribute("d", pts.map(function (p, i) { return (i ? "L" : "M") + p[0].toFixed(1) + " " + p[1].toFixed(1); }).join(" "));

@@ -5,17 +5,29 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Admin · Logs · Resonance Archive</title>
 <link rel="stylesheet" href="styles.css" />
-
+<style>
+  .log-row { cursor: pointer; transition: background 0.15s ease; }
+  .log-row:hover { background: color-mix(in oklch, var(--accent) 8%, transparent); }
+  .log-row.selected { background: color-mix(in oklch, var(--accent) 15%, transparent); }
+</style>
 </head>
 <body>
 <main id="content">
   <div class="wrap page">
     <div class="page-head" data-od-id="logs-head">
       <p class="crumb"><a href="index.html">Resonance Archive</a> / admin / logs</p>
-      <h1>Request log</h1>
+      <h1>Request Log</h1>
       <p>Every request this browser made to the API, kept in <span class="mono">sessionStorage</span> for this tab. The client distinguishes network, HTTP, timeout, and aborted failures because the API does not report them itself.</p>
     </div>
     <nav id="admin-nav" class="subnav" aria-label="Admin sections"></nav>
+
+    <!-- KPI Summary Cards -->
+    <section class="kpi-grid" style="margin-bottom:18px">
+      <div class="kpi"><div class="k-top"><span class="k-label">Total Requests</span></div><div class="k-val num" id="k-log-total">0</div><div class="k-sub">this session</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Error Rate</span></div><div class="k-val num" id="k-log-errors">0</div><div class="k-sub" id="k-log-errors-sub">0% errors</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Avg Latency</span></div><div class="k-val num" id="k-log-avg-ms">0 ms</div><div class="k-sub">end-to-end roundtrip</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Tokens Tracked</span></div><div class="k-val num" id="k-log-tokens">0</div><div class="k-sub">from chat completions</div></div>
+    </section>
 
     <div class="row-between wrapflex" style="margin-bottom:12px;gap:12px">
       <div class="row gap-2 wrapflex">
@@ -53,6 +65,27 @@
       </table>
     </div>
     <p class="tiny dim" style="margin-top:10px" id="lg-count"></p>
+
+    <!-- Request Inspector Drawer -->
+    <section class="panel" id="req-inspector" style="margin-top:20px" hidden>
+      <div class="panel-head">
+        <div class="row gap-2">
+          <h3>Request Details</h3>
+          <span class="mono tiny dim" id="ins-id"></span>
+        </div>
+        <button class="btn btn-ghost btn-sm" id="close-ins" type="button">Close</button>
+      </div>
+      <div class="panel-body stack gap-3">
+        <div class="row-between wrapflex tiny dim mono">
+          <span id="ins-timestamp"></span>
+          <span id="ins-status-badge"></span>
+        </div>
+        <div class="row gap-3">
+          <span class="mono" id="ins-method-path" style="font-size:14px;font-weight:600"></span>
+        </div>
+        <div class="json"><pre id="ins-json"></pre></div>
+      </div>
+    </section>
   </div>
 </main>
 
@@ -63,6 +96,8 @@
   OD.token = OD.SS.get("od-token") || "";
 
   var sortKey = "ts", sortDir = -1;
+  var selectedReqId = null;
+
   function cls(r) { if (r.err === "auth") return "auth"; if (r.err) return r.err; return "ok"; }
   function label(c) {
     return { ok: '<span class="pill ok">ok</span>', network: '<span class="pill danger">network</span>', http: '<span class="pill danger">http</span>', aborted: '<span class="pill warn">aborted</span>', auth: '<span class="pill warn">401/403</span>' }[c];
@@ -72,7 +107,24 @@
     var k = r.status >= 400 ? "danger" : r.status >= 300 ? "warn" : "ok";
     return '<span class="pill ' + k + '">' + r.status + '</span>';
   }
+
+  function updateKpis() {
+    var all = OD.log.all();
+    var total = all.length;
+    var errs = all.filter(function (r) { return r.err != null || (r.status && r.status >= 400); }).length;
+    var totalMs = all.reduce(function (sum, r) { return sum + (r.ms || 0); }, 0);
+    var avgMs = total ? Math.round(totalMs / total) : 0;
+    var tokens = all.reduce(function (sum, r) { return sum + (r.tokens || 0); }, 0);
+
+    document.getElementById("k-log-total").textContent = total.toLocaleString();
+    document.getElementById("k-log-errors").textContent = errs.toLocaleString();
+    document.getElementById("k-log-errors-sub").textContent = total ? Math.round((errs / total) * 100) + "% errors" : "0% errors";
+    document.getElementById("k-log-avg-ms").textContent = avgMs + " ms";
+    document.getElementById("k-log-tokens").textContent = tokens.toLocaleString();
+  }
+
   function render() {
+    updateKpis();
     var q = document.getElementById("lg-filter").value.toLowerCase();
     var cf = document.getElementById("lg-class").value;
     var rows = OD.log.all().filter(function (r) {
@@ -81,14 +133,64 @@
       return true;
     });
     rows.sort(function (a, b) { var x = a[sortKey] ?? 0, y = b[sortKey] ?? 0; return x > y ? sortDir : x < y ? -sortDir : 0; });
+
     document.getElementById("lg-body").innerHTML = rows.length ? rows.map(function (r) {
-      return '<tr><td class="mono tiny">' + new Date(r.ts).toLocaleTimeString() + '</td><td class="mono">' + r.method + '</td>' +
+      var isSel = (r.id && r.id === selectedReqId);
+      return '<tr class="log-row ' + (isSel ? "selected" : "") + '" data-req-id="' + (r.id || "") + '">' +
+        '<td class="mono tiny">' + new Date(r.ts).toLocaleTimeString() + '</td>' +
+        '<td class="mono">' + r.method + '</td>' +
         '<td class="mono" style="max-width:260px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="' + (r.note || "") + '">' + r.path + (r.mock ? ' <span class="mock-badge">mock</span>' : '') + '</td>' +
-        '<td class="num">' + status(r) + '</td><td class="num">' + (r.ms != null ? r.ms + ' ms' : '—') + '</td>' +
-        '<td class="num">' + (r.tokens ? r.tokens.toLocaleString() : '—') + '</td><td>' + label(cls(r)) + '</td></tr>';
+        '<td class="num">' + status(r) + '</td>' +
+        '<td class="num">' + (r.ms != null ? r.ms + ' ms' : '—') + '</td>' +
+        '<td class="num">' + (r.tokens ? r.tokens.toLocaleString() : '—') + '</td>' +
+        '<td>' + label(cls(r)) + '</td>' +
+        '</tr>';
     }).join("") : '<tr><td colspan="7" style="text-align:center;padding:36px" class="dim">No requests match this filter. Ask a question or run a search to populate the log.</td></tr>';
+
     document.getElementById("lg-count").textContent = rows.length + " of " + OD.log.all().length + " requests";
+
+    // Row click listeners for inspecting individual requests
+    document.querySelectorAll(".log-row").forEach(function (tr) {
+      tr.addEventListener("click", function () {
+        var id = tr.dataset.reqId;
+        inspectRequest(id);
+      });
+    });
   }
+
+  function inspectRequest(id) {
+    var all = OD.log.all();
+    var req = all.find(function (r) { return r.id === id; });
+    var ins = document.getElementById("req-inspector");
+    if (!req) {
+      ins.hidden = true;
+      selectedReqId = null;
+      return;
+    }
+    selectedReqId = id;
+    ins.hidden = false;
+    document.getElementById("ins-id").textContent = req.id || "";
+    document.getElementById("ins-timestamp").textContent = new Date(req.ts).toISOString() + " (" + new Date(req.ts).toLocaleString() + ")";
+    document.getElementById("ins-status-badge").innerHTML = status(req) + " " + label(cls(req));
+    document.getElementById("ins-method-path").textContent = req.method + " " + req.path + (req.ms != null ? " · " + req.ms + " ms" : "");
+    document.getElementById("ins-json").innerHTML = JSON.stringify(req, null, 2)
+      .replace(/"([^"]+)":/g, '<span class="jk">"$1"</span>:')
+      .replace(/: "([^"]*)"/g, ': <span class="js">"$1"</span>')
+      .replace(/: (\d+)/g, ': <span class="jn">$1</span>')
+      .replace(/: true|: false/g, function (m) { return ': <span class="jb">' + m.slice(2) + '</span>'; });
+
+    // highlight row
+    document.querySelectorAll(".log-row").forEach(function (tr) {
+      tr.classList.toggle("selected", tr.dataset.reqId === id);
+    });
+  }
+
+  document.getElementById("close-ins").addEventListener("click", function () {
+    document.getElementById("req-inspector").hidden = true;
+    selectedReqId = null;
+    document.querySelectorAll(".log-row").forEach(function (tr) { tr.classList.remove("selected"); });
+  });
+
   document.getElementById("lg-filter").addEventListener("input", render);
   document.getElementById("lg-class").addEventListener("change", render);
   document.querySelectorAll("[data-sort]").forEach(function (b) {
@@ -98,15 +200,38 @@
       render();
     });
   });
-  document.getElementById("lg-clear").addEventListener("click", function () { OD.log.clear(); render(); OD.toast("Log cleared", "ok"); });
-  document.getElementById("lg-json").addEventListener("click", function () { OD.copy(JSON.stringify(OD.log.all(), null, 2), "Log JSON"); });
+
+  document.getElementById("lg-clear").addEventListener("click", function () {
+    OD.log.clear();
+    document.getElementById("req-inspector").hidden = true;
+    selectedReqId = null;
+    render();
+    OD.toast("Log cleared", "ok");
+  });
+
+  document.getElementById("lg-json").addEventListener("click", function () {
+    OD.copy(JSON.stringify(OD.log.all(), null, 2), "Log JSON");
+  });
+
   document.getElementById("lg-csv").addEventListener("click", function () {
     var rows = OD.log.all();
-    var csv = ["ts,method,path,status,ms,tokens,class,mock"].concat(rows.map(function (r) {
-      return [new Date(r.ts).toISOString(), r.method, r.path, r.status ?? "", r.ms ?? "", r.tokens ?? 0, cls(r), !!r.mock].join(",");
+    var csv = ["id,ts,method,path,status,ms,tokens,class,mock,note"].concat(rows.map(function (r) {
+      return [
+        r.id || "",
+        new Date(r.ts).toISOString(),
+        r.method,
+        r.path,
+        r.status ?? "",
+        r.ms ?? "",
+        r.tokens ?? 0,
+        cls(r),
+        !!r.mock,
+        JSON.stringify(r.note || "")
+      ].join(",");
     })).join("\n");
     OD.copy(csv, "Log CSV");
   });
+
   window.addEventListener("od-log", render);
   render();
 })();

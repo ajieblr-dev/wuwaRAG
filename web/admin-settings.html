@@ -112,7 +112,9 @@
     testOut.textContent = "Testing…";
     try {
       var h = await OD.api.health();
-      testOut.innerHTML = '<span class="pill ok">reachable</span> <span class="dim">service ' + (h.service || "?") + ' · ' + (h.indexed_chunks ?? "?") + ' chunks</span>';
+      var qdrantBadge = h.qdrant_connected ? '<span class="pill ok">Qdrant: ok</span>' : '<span class="pill danger">Qdrant: down</span>';
+      var litellmBadge = h.litellm_connected != null ? (h.litellm_connected ? '<span class="pill ok">LiteLLM: ok</span>' : '<span class="pill danger">LiteLLM: down</span>') : '';
+      testOut.innerHTML = '<span class="pill ok">reachable</span> ' + qdrantBadge + ' ' + litellmBadge + ' <span class="dim">(' + (h.indexed_chunks ?? "?") + ' chunks)</span>';
     } catch (e) {
       var m = OD.errorClass(e);
       testOut.innerHTML = m === "network"

@@ -57,9 +57,34 @@
         </section>
 
         <section class="panel" data-od-id="probe">
-          <div class="panel-head"><h3>Probe</h3><button class="btn btn-primary btn-sm" id="probe" type="button">Run test question</button></div>
-          <div class="panel-body">
-            <div class="console" id="probe-out"><div class="ln">Runs one /api/v1/chat request and reports latency and token count.</div></div>
+          <div class="panel-head">
+            <h3>Live Gateway Probe</h3>
+            <button class="btn btn-primary btn-sm" id="probe" type="button">Run probe</button>
+          </div>
+          <div class="panel-body stack gap-3">
+            <div class="field">
+              <label for="probe-q">Test Question</label>
+              <select class="select" id="probe-q">
+                <option value="Who is Intendant Suoming?">Who is Intendant Suoming?</option>
+                <option value="What is Ovathrax Threnodian?">What is Ovathrax Threnodian?</option>
+                <option value="What happened in Rewinding Raindrops?">What happened in Rewinding Raindrops?</option>
+                <option value="What is the Sentinel of Jinzhou?">What is the Sentinel of Jinzhou?</option>
+                <option value="custom">-- Custom question --</option>
+              </select>
+            </div>
+            <div class="field" id="probe-custom-box" hidden>
+              <input class="input" id="probe-custom-input" type="text" placeholder="Type custom test question…" />
+            </div>
+            <div class="console" id="probe-out">
+              <div class="ln">Select a test question and click &ldquo;Run probe&rdquo; to test the gateway response time and token count.</div>
+            </div>
+            <div id="probe-answer-box" class="card" style="margin-top:4px" hidden>
+              <div class="row-between tiny dim" style="margin-bottom:6px">
+                <span class="mono">Generated Output</span>
+                <span id="probe-ans-meta"></span>
+              </div>
+              <p class="snippet" id="probe-answer-text" style="line-height:1.6"></p>
+            </div>
           </div>
         </section>
       </div>
@@ -80,40 +105,89 @@
   OD.mount("admin-gateway");
   OD.token = OD.SS.get("od-token") || "";
 
+  var probeQ = document.getElementById("probe-q");
+  var customBox = document.getElementById("probe-custom-box");
+  var customInput = document.getElementById("probe-custom-input");
+
+  probeQ.addEventListener("change", function () {
+    customBox.hidden = (probeQ.value !== "custom");
+    if (probeQ.value === "custom") customInput.focus();
+  });
+
   function samples() {
     var fromLog = OD.log.all().filter(function (r) { return r.path === "/api/v1/chat" && r.tokens; }).map(function (r) { return { ms: r.ms, tokens: r.tokens }; });
     if (fromLog.length < 6) {
-      // session launcher mock so the histogram is meaningful before any probe
       var base = [{ ms: 5120, tokens: 2410 }, { ms: 6480, tokens: 2980 }, { ms: 4210, tokens: 2240 }, { ms: 7990, tokens: 3310 }, { ms: 5730, tokens: 2690 }, { ms: 6250, tokens: 3120 }];
       return base.concat(fromLog);
     }
     return fromLog;
   }
+
   function renderBars() {
     var s = samples();
-    var max = Math.max.apply(null, s.map(function (x) { return x.ms; }));
+    var max = Math.max.apply(null, s.map(function (x) { return x.ms || 0; }));
+    max = Math.max(1, max);
     document.getElementById("bars").innerHTML = s.map(function (x) {
-      var h = Math.round((x.ms / max) * 120);
-      return '<div class="bar-col" title="' + x.ms + ' ms · ' + x.tokens + ' tok"><span class="tiny mono dim">' + x.tokens + '</span><div class="b" style="height:' + h + 'px"></div><span class="bl">' + (x.ms / 1000).toFixed(1) + 's</span></div>';
+      var h = Math.round(((x.ms || 0) / max) * 120);
+      return '<div class="bar-col" title="' + x.ms + ' ms · ' + (x.tokens || 0) + ' tok"><span class="tiny mono dim">' + (x.tokens || 0) + '</span><div class="b" style="height:' + Math.max(4, h) + 'px"></div><span class="bl">' + ((x.ms || 0) / 1000).toFixed(1) + 's</span></div>';
     }).join("");
   }
   renderBars();
 
-  document.getElementById("probe").addEventListener("click", async function () {
+  var probeBtn = document.getElementById("probe");
+  probeBtn.addEventListener("click", async function () {
+    var q = probeQ.value === "custom" ? customInput.value.trim() : probeQ.value;
+    if (!q) {
+      OD.toast("Please enter a question", "err");
+      return;
+    }
+
     var out = document.getElementById("probe-out");
+    var ansBox = document.getElementById("probe-answer-box");
+    var ansText = document.getElementById("probe-answer-text");
+    var ansMeta = document.getElementById("probe-ans-meta");
+
+    ansBox.hidden = true;
     out.innerHTML = "";
     var t0 = Date.now();
-    function log(k, t) { var d = new Date(); var ts = d.toLocaleTimeString(); var el = document.createElement("div"); el.className = "ln " + k; el.innerHTML = '<span class="t">' + ts + '</span>'; el.appendChild(document.createTextNode(t)); out.appendChild(el); }
-    log("info", "POST /api/v1/chat  {question: \u201CWho is Intendant Suoming?\u201D}");
+
+    function log(k, t) {
+      var d = new Date();
+      var ts = d.toLocaleTimeString();
+      var el = document.createElement("div");
+      el.className = "ln " + (k || "");
+      el.innerHTML = '<span class="t">' + ts + '</span>';
+      el.appendChild(document.createTextNode(t));
+      out.appendChild(el);
+    }
+
+    log("info", "POST /api/v1/chat  {question: \u201C" + q + "\u201D}");
+    probeBtn.disabled = true;
+    probeBtn.textContent = "Probing…";
+
     try {
-      var res = await OD.api.chat("Who is Intendant Suoming?");
+      var res = await OD.api.chat(q);
+      var ms = res.latency_ms != null ? res.latency_ms : (Date.now() - t0);
+      var tokens = res.total_tokens || 0;
+      var srcCount = res.sources ? res.sources.length : 0;
+
       log("", "model alias: " + (res.model || "(empty → retrieval-only)"));
-      log("ok", "200 in " + res.latency_ms + " ms · " + res.total_tokens + " tokens · " + (res.sources ? res.sources.length : 0) + " sources");
+      log("ok", "200 in " + ms + " ms · " + tokens + " tokens · " + srcCount + " sources");
+
+      if (res.answer) {
+        ansText.textContent = res.answer;
+        ansMeta.textContent = ms + " ms · " + tokens + " tok · " + (res.model || "wuwa-lore-model");
+        ansBox.hidden = false;
+      }
+
       renderBars();
       OD.toast("Probe complete", "ok");
     } catch (e) {
       log("err", OD.errorClass(e) + " after " + (Date.now() - t0) + " ms");
-      OD.toast("Probe failed", "err");
+      OD.toast("Probe failed: " + OD.errorClass(e), "err");
+    } finally {
+      probeBtn.disabled = false;
+      probeBtn.textContent = "Run probe";
     }
   });
 })();

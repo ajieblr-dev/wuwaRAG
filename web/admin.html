@@ -22,17 +22,21 @@
 
     <form class="card stack gap-4" id="gate-form" data-od-id="admin-gate">
       <div class="field">
-        <label for="tok">Admin token</label>
-        <input class="input" id="tok" type="password" placeholder="paste bearer token" autocomplete="off" spellcheck="false" />
+        <div class="row-between">
+          <label for="tok">Admin token</label>
+          <button class="btn btn-ghost btn-sm" id="toggle-vis" type="button" style="padding:0 6px;height:auto;font-size:11px">Show</button>
+        </div>
+        <input class="input mono" id="tok" type="password" placeholder="paste bearer token (e.g. dev-token)" autocomplete="off" spellcheck="false" />
         <span class="hint">Held in <span class="mono">sessionStorage</span> for this tab only — never written to <span class="mono">localStorage</span> and never bundled.</span>
         <p class="err-msg" id="tok-err" hidden><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" width="13" height="13"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg>Admin token required.</p>
       </div>
-      <div class="banner warn" style="font-size:12.5px">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg>
-        <div>No auth is documented on the API routes while CORS is <span class="mono">*</span>. This gate is a client-side convention, not a security boundary — logged in <span class="mono">docs/BACKEND_GAPS.md</span>.</div>
+      <div class="banner info" style="font-size:12.5px">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg>
+        <div>Local development mode does not enforce Bearer authentication. You may enter any token or use the quick access button below.</div>
       </div>
-      <div class="row gap-3">
+      <div class="row gap-2">
         <button class="btn btn-primary grow" type="submit">Open console</button>
+        <button class="btn btn-secondary grow" id="btn-local" type="button">Enter local session</button>
         <a class="btn btn-ghost" href="index.html">Cancel</a>
       </div>
     </form>
@@ -45,15 +49,36 @@
   var form = document.getElementById("gate-form");
   var tok = document.getElementById("tok");
   var err = document.getElementById("tok-err");
+  var toggleVis = document.getElementById("toggle-vis");
+  var btnLocal = document.getElementById("btn-local");
+
   OD.token = OD.SS.get("od-token") || "";
-  function go() {
-    OD.token = tok.value.trim();
-    if (!OD.token) { err.hidden = false; tok.classList.add("err"); tok.focus(); return; }
-    OD.SS.set("od-token", OD.token);
+  if (OD.token) {
+    tok.value = OD.token;
+  }
+
+  function go(tokenVal) {
+    var val = tokenVal != null ? tokenVal : tok.value.trim();
+    if (!val) { err.hidden = false; tok.classList.add("err"); tok.focus(); return; }
+    OD.token = val;
+    OD.SS.set("od-token", val);
     location.href = "admin-overview.html";
   }
+
   form.addEventListener("submit", function (e) { e.preventDefault(); go(); });
+  btnLocal.addEventListener("click", function () { go("local-maintainer-session"); });
   tok.addEventListener("input", function () { err.hidden = true; tok.classList.remove("err"); });
+
+  toggleVis.addEventListener("click", function () {
+    if (tok.type === "password") {
+      tok.type = "text";
+      toggleVis.textContent = "Hide";
+    } else {
+      tok.type = "password";
+      toggleVis.textContent = "Show";
+    }
+  });
+
   tok.focus();
 })();
 </script>

@@ -392,8 +392,13 @@ make run
 Open your browser to:
 * **Interactive Lore Q&A (RAG Chat):** `http://localhost:8080/ask.html`
 * **Semantic Vector Search:** `http://localhost:8080/search.html`
+* **Corpus & Chunk Inspector:** `http://localhost:8080/admin-corpus.html`
+* **Overview & Topology Health:** `http://localhost:8080/admin-overview.html`
+* **Re-ingestion Console:** `http://localhost:8080/admin-ingest.html`
+* **Gateway & Probe:** `http://localhost:8080/admin-gateway.html`
+* **Request Log Dashboard:** `http://localhost:8080/admin-logs.html`
+* **Settings & Theme:** `http://localhost:8080/admin-settings.html`
 * **Home / Overview:** `http://localhost:8080/`
-
 
 ---
 

@@ -349,6 +349,36 @@
         return { mock: true, accepted: payload, before: 222, after: 222, message: "[mock] Re-ingestion upserts deterministic IDs; chunk count unchanged in this placeholder." };
       }
       return OD.request("POST", "/api/v1/ingest", payload);
+    },
+    async corpus(params) {
+      params = params || {};
+      if (S.mock) {
+        await wait(200);
+        return {
+          total_pages: OD.corpus.length,
+          total_chunks: 222,
+          total_speakers: OD.speakers.length,
+          pages: OD.corpus,
+          top_speakers: OD.speakers.map(function(s) { return { name: s, count: 12 }; }),
+          chunks: OD.mockSources().map(function(s) {
+            return {
+              id: s.id,
+              title: s.title,
+              section: s.section,
+              speakers: s.speakers,
+              content: s.chunk_text,
+              char_count: (s.chunk_text || "").length
+            };
+          })
+        };
+      }
+      var qs = [];
+      if (params.page) qs.push("page=" + encodeURIComponent(params.page));
+      if (params.speaker) qs.push("speaker=" + encodeURIComponent(params.speaker));
+      if (params.offset != null) qs.push("offset=" + encodeURIComponent(params.offset));
+      if (params.limit != null) qs.push("limit=" + encodeURIComponent(params.limit));
+      var qStr = qs.length ? "?" + qs.join("&") : "";
+      return OD.request("GET", "/api/v1/corpus" + qStr);
     }
   };
 

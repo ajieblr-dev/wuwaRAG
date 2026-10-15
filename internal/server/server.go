@@ -2,11 +2,15 @@ package server
 
 import (
 	"context"
+	"encoding/json"
 	"fmt"
 	"net/http"
 	"os"
 	"path/filepath"
+	"sort"
+	"strconv"
 	"strings"
+	"sync"
 	"time"
 
 	"github.com/gin-gonic/gin"
@@ -17,6 +21,30 @@ import (
 	"github.com/ajieblr-dev/wuwaRAG/internal/rag"
 )
 
+// CorpusPage represents per-page statistics.
+type CorpusPage struct {
+	Title  string `json:"title"`
+	Chars  int    `json:"chars"`
+	Chunks int    `json:"chunks"`
+}
+
+// SpeakerStat represents per-speaker frequency in dialogue.
+type SpeakerStat struct {
+	Name  string `json:"name"`
+	Count int    `json:"count"`
+}
+
+// CorpusData caches aggregated statistics from processed chunks.
+type CorpusData struct {
+	TotalPages    int                       `json:"total_pages"`
+	TotalChunks   int                       `json:"total_chunks"`
+	TotalSpeakers int                       `json:"total_speakers"`
+	Pages         []CorpusPage              `json:"pages"`
+	TopSpeakers   []SpeakerStat             `json:"top_speakers"`
+	Chunks        []parser.Chunk            `json:"chunks,omitempty"`
+	ChunksByPage  map[string][]parser.Chunk `json:"-"`
+}
+
 // Server holds the dependencies for the HTTP API.
 type Server struct {
 	router      *gin.Engine
@@ -26,6 +54,8 @@ type Server struct {
 	fetcher     *fetcher.Client
 	collection  string
 	defaultPage string
+	corpusMu    sync.RWMutex
+	corpus      *CorpusData
 }
 
 // IngestionService encapsulates the ingestion workflow.
@@ -104,6 +134,9 @@ func (s *Server) registerRoutes() {
 	api := s.router.Group("/api/v1")
 	{
 		api.GET("/status", s.handleStatus)
+		api.GET("/corpus", s.handleCorpus)
+		api.GET("/pages", s.handlePages)
+		api.GET("/speakers", s.handleSpeakers)
 		api.POST("/chat", s.handleChat)
 		api.POST("/query", s.handleChat) // alias
 		api.POST("/search", s.handleSearch)
@@ -157,6 +190,11 @@ func (s *Server) handleHealth(c *gin.Context) {
 		qdrantOk = true
 	}
 
+	litellmOk := false
+	if s.ragService != nil && s.ragService.PingLLM(ctx) == nil {
+		litellmOk = true
+	}
+
 	info, _ := s.qdrant.GetCollectionInfo(ctx, s.collection)
 	pointsCount := uint64(0)
 	if info != nil {
@@ -164,12 +202,13 @@ func (s *Server) handleHealth(c *gin.Context) {
 	}
 
 	c.JSON(http.StatusOK, gin.H{
-		"status":           "healthy",
-		"service":          "Wuthering Waves Lore RAG API",
-		"qdrant_connected": qdrantOk,
-		"collection":       s.collection,
-		"indexed_chunks":   pointsCount,
-		"timestamp":        time.Now().UTC().Format(time.RFC3339),
+		"status":            "healthy",
+		"service":           "Wuthering Waves Lore RAG API",
+		"qdrant_connected":  qdrantOk,
+		"litellm_connected": litellmOk,
+		"collection":        s.collection,
+		"indexed_chunks":    pointsCount,
+		"timestamp":         time.Now().UTC().Format(time.RFC3339),
 	})
 }
 
@@ -193,6 +232,224 @@ func (s *Server) handleStatus(c *gin.Context) {
 		"status":        info.Status,
 		"points_count":  info.PointsCount,
 		"vectors_count": info.VectorsCount,
+	})
+}
+
+func findChunksFile() string {
+	candidates := []string{
+		"data/processed/chunks.json",
+		"./data/processed/chunks.json",
+		"../data/processed/chunks.json",
+		"../../data/processed/chunks.json",
+		"/app/data/processed/chunks.json",
+	}
+	for _, p := range candidates {
+		if info, err := os.Stat(p); err == nil && !info.IsDir() {
+			return p
+		}
+	}
+	return ""
+}
+
+func (s *Server) getCorpusData() *CorpusData {
+	s.corpusMu.RLock()
+	if s.corpus != nil {
+		defer s.corpusMu.RUnlock()
+		return s.corpus
+	}
+	s.corpusMu.RUnlock()
+
+	s.corpusMu.Lock()
+	defer s.corpusMu.Unlock()
+	if s.corpus != nil {
+		return s.corpus
+	}
+
+	filePath := findChunksFile()
+	if filePath == "" {
+		s.corpus = &CorpusData{
+			Pages:        []CorpusPage{},
+			TopSpeakers:  []SpeakerStat{},
+			Chunks:       []parser.Chunk{},
+			ChunksByPage: make(map[string][]parser.Chunk),
+		}
+		return s.corpus
+	}
+
+	rawBytes, err := os.ReadFile(filePath)
+	if err != nil {
+		s.corpus = &CorpusData{
+			Pages:        []CorpusPage{},
+			TopSpeakers:  []SpeakerStat{},
+			Chunks:       []parser.Chunk{},
+			ChunksByPage: make(map[string][]parser.Chunk),
+		}
+		return s.corpus
+	}
+
+	var chunks []parser.Chunk
+	if err := json.Unmarshal(rawBytes, &chunks); err != nil {
+		s.corpus = &CorpusData{
+			Pages:        []CorpusPage{},
+			TopSpeakers:  []SpeakerStat{},
+			Chunks:       []parser.Chunk{},
+			ChunksByPage: make(map[string][]parser.Chunk),
+		}
+		return s.corpus
+	}
+
+	pageMap := make(map[string]*CorpusPage)
+	speakerMap := make(map[string]int)
+	chunksByPage := make(map[string][]parser.Chunk)
+
+	for _, ch := range chunks {
+		p, exists := pageMap[ch.Title]
+		if !exists {
+			p = &CorpusPage{Title: ch.Title}
+			pageMap[ch.Title] = p
+		}
+		p.Chars += ch.CharCount
+		p.Chunks++
+
+		for _, sp := range ch.Speakers {
+			spClean := strings.TrimSpace(sp)
+			if spClean != "" {
+				speakerMap[spClean]++
+			}
+		}
+
+		chunksByPage[ch.Title] = append(chunksByPage[ch.Title], ch)
+	}
+
+	pages := make([]CorpusPage, 0, len(pageMap))
+	for _, p := range pageMap {
+		pages = append(pages, *p)
+	}
+	sort.Slice(pages, func(i, j int) bool {
+		return pages[i].Title < pages[j].Title
+	})
+
+	type spCount struct {
+		name  string
+		count int
+	}
+	allSpk := make([]spCount, 0, len(speakerMap))
+	for name, count := range speakerMap {
+		allSpk = append(allSpk, spCount{name: name, count: count})
+	}
+	sort.Slice(allSpk, func(i, j int) bool {
+		if allSpk[i].count == allSpk[j].count {
+			return allSpk[i].name < allSpk[j].name
+		}
+		return allSpk[i].count > allSpk[j].count
+	})
+
+	topLimit := 60
+	if len(allSpk) < topLimit {
+		topLimit = len(allSpk)
+	}
+	topSpeakers := make([]SpeakerStat, topLimit)
+	for i := 0; i < topLimit; i++ {
+		topSpeakers[i] = SpeakerStat{Name: allSpk[i].name, Count: allSpk[i].count}
+	}
+
+	s.corpus = &CorpusData{
+		TotalPages:    len(pages),
+		TotalChunks:   len(chunks),
+		TotalSpeakers: len(speakerMap),
+		Pages:         pages,
+		TopSpeakers:   topSpeakers,
+		Chunks:        chunks,
+		ChunksByPage:  chunksByPage,
+	}
+
+	return s.corpus
+}
+
+func (s *Server) handleCorpus(c *gin.Context) {
+	data := s.getCorpusData()
+
+	pageQuery := strings.TrimSpace(c.Query("page"))
+	speakerQuery := strings.TrimSpace(c.Query("speaker"))
+	offsetStr := c.DefaultQuery("offset", "0")
+	limitStr := c.DefaultQuery("limit", "50")
+
+	offset, _ := strconv.Atoi(offsetStr)
+	if offset < 0 {
+		offset = 0
+	}
+	limit, _ := strconv.Atoi(limitStr)
+	if limit <= 0 {
+		limit = 50
+	}
+	if limit > 200 {
+		limit = 200
+	}
+
+	var matched []parser.Chunk
+	if pageQuery != "" || speakerQuery != "" {
+		pLower := strings.ToLower(pageQuery)
+		sLower := strings.ToLower(speakerQuery)
+		for _, ch := range data.Chunks {
+			if pageQuery != "" && !strings.Contains(strings.ToLower(ch.Title), pLower) {
+				continue
+			}
+			if speakerQuery != "" {
+				speakerMatched := false
+				for _, sp := range ch.Speakers {
+					if strings.Contains(strings.ToLower(sp), sLower) {
+						speakerMatched = true
+						break
+					}
+				}
+				if !speakerMatched {
+					continue
+				}
+			}
+			matched = append(matched, ch)
+		}
+	} else {
+		matched = data.Chunks
+	}
+
+	totalMatched := len(matched)
+	var slice []parser.Chunk
+	if offset < totalMatched {
+		end := offset + limit
+		if end > totalMatched {
+			end = totalMatched
+		}
+		slice = matched[offset:end]
+	} else {
+		slice = []parser.Chunk{}
+	}
+
+	c.JSON(http.StatusOK, gin.H{
+		"total_pages":    data.TotalPages,
+		"total_chunks":   data.TotalChunks,
+		"total_speakers": data.TotalSpeakers,
+		"matched_chunks": totalMatched,
+		"offset":         offset,
+		"limit":          limit,
+		"pages":          data.Pages,
+		"top_speakers":   data.TopSpeakers,
+		"chunks":         slice,
+	})
+}
+
+func (s *Server) handlePages(c *gin.Context) {
+	data := s.getCorpusData()
+	c.JSON(http.StatusOK, gin.H{
+		"total": len(data.Pages),
+		"pages": data.Pages,
+	})
+}
+
+func (s *Server) handleSpeakers(c *gin.Context) {
+	data := s.getCorpusData()
+	c.JSON(http.StatusOK, gin.H{
+		"total":    data.TotalSpeakers,
+		"speakers": data.TopSpeakers,
 	})
 }
 
@@ -342,6 +599,10 @@ func (s *Server) handleIngest(c *gin.Context) {
 	}
 
 	duration := time.Since(start).Milliseconds()
+
+	s.corpusMu.Lock()
+	s.corpus = nil
+	s.corpusMu.Unlock()
 
 	c.JSON(http.StatusOK, gin.H{
 		"status":         "success",

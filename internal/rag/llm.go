@@ -55,6 +55,41 @@ func NewLLMClient(liteLLMURL, liteLLMKey, modelName, geminiKey, groqKey string) 
 	}
 }
 
+// Ping checks if the LiteLLM proxy or gateway endpoint is reachable.
+func (c *LLMClient) Ping(ctx context.Context) error {
+	pingCtx, cancel := context.WithTimeout(ctx, 2*time.Second)
+	defer cancel()
+
+	// 1. Try unauthenticated /health/liveliness first
+	req, err := http.NewRequestWithContext(pingCtx, http.MethodGet, c.liteLLMURL+"/health/liveliness", nil)
+	if err == nil {
+		if resp, err := c.httpClient.Do(req); err == nil {
+			defer resp.Body.Close()
+			if resp.StatusCode >= 200 && resp.StatusCode < 400 {
+				return nil
+			}
+		}
+	}
+
+	// 2. Fall back to /health with Bearer key if configured
+	req2, err := http.NewRequestWithContext(pingCtx, http.MethodGet, c.liteLLMURL+"/health", nil)
+	if err != nil {
+		return err
+	}
+	if c.liteLLMKey != "" {
+		req2.Header.Set("Authorization", "Bearer "+c.liteLLMKey)
+	}
+	resp2, err := c.httpClient.Do(req2)
+	if err != nil {
+		return err
+	}
+	defer resp2.Body.Close()
+	if resp2.StatusCode >= 200 && resp2.StatusCode < 400 {
+		return nil
+	}
+	return fmt.Errorf("gateway returned status %d", resp2.StatusCode)
+}
+
 // GenerateAnswer calls LiteLLM proxy with fallback handling for a single turn.
 func (c *LLMClient) GenerateAnswer(ctx context.Context, systemPrompt, userQuery string) (*ChatResponse, error) {
 	return c.GenerateConversation(ctx, systemPrompt, nil, userQuery)

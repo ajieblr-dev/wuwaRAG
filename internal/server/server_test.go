@@ -57,6 +57,54 @@ func TestHealthEndpoint(t *testing.T) {
 	if resp["qdrant_connected"] != true {
 		t.Errorf("Expected qdrant_connected to be true, got %v", resp["qdrant_connected"])
 	}
+	if _, ok := resp["litellm_connected"]; !ok {
+		t.Errorf("Expected litellm_connected key in /health response")
+	}
+}
+
+func TestCorpusEndpoints(t *testing.T) {
+	qClient := qdrant.NewClient("http://mock-qdrant")
+	embedder := rag.NewHuggingFaceEmbedder("", "", "", 384)
+	llmClient := rag.NewLLMClient("http://mock-litellm", "", "", "", "")
+	ragService := rag.NewService(qClient, embedder, llmClient, "wuwa_lore", 5, 0.2)
+	fetchClient := fetcher.NewClient("")
+
+	srv := NewServer(ragService, qClient, embedder, fetchClient, "wuwa_lore", "Simulacrum_of_the_Heart")
+
+	// Test GET /api/v1/corpus
+	req, _ := http.NewRequest(http.MethodGet, "/api/v1/corpus", nil)
+	w := httptest.NewRecorder()
+	srv.Router().ServeHTTP(w, req)
+	if w.Code != http.StatusOK {
+		t.Fatalf("Expected 200 OK for /api/v1/corpus, got %d", w.Code)
+	}
+
+	var corpusResp map[string]interface{}
+	if err := json.NewDecoder(w.Body).Decode(&corpusResp); err != nil {
+		t.Fatalf("Failed to decode /api/v1/corpus response: %v", err)
+	}
+	if _, ok := corpusResp["total_pages"]; !ok {
+		t.Errorf("Expected total_pages in corpus response")
+	}
+	if _, ok := corpusResp["total_chunks"]; !ok {
+		t.Errorf("Expected total_chunks in corpus response")
+	}
+
+	// Test GET /api/v1/pages
+	reqPages, _ := http.NewRequest(http.MethodGet, "/api/v1/pages", nil)
+	wPages := httptest.NewRecorder()
+	srv.Router().ServeHTTP(wPages, reqPages)
+	if wPages.Code != http.StatusOK {
+		t.Fatalf("Expected 200 OK for /api/v1/pages, got %d", wPages.Code)
+	}
+
+	// Test GET /api/v1/speakers
+	reqSpeakers, _ := http.NewRequest(http.MethodGet, "/api/v1/speakers", nil)
+	wSpeakers := httptest.NewRecorder()
+	srv.Router().ServeHTTP(wSpeakers, reqSpeakers)
+	if wSpeakers.Code != http.StatusOK {
+		t.Fatalf("Expected 200 OK for /api/v1/speakers, got %d", wSpeakers.Code)
+	}
 }
 
 func TestStaticWebRoutes(t *testing.T) {

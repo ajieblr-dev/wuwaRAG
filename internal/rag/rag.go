@@ -116,6 +116,14 @@ func NewService(qdrantClient *qdrant.Client, embedder Embedder, llm *LLMClient, 
 	return s
 }
 
+// PingLLM checks if the LLM gateway is reachable.
+func (s *Service) PingLLM(ctx context.Context) error {
+	if s.llm == nil {
+		return fmt.Errorf("no LLM client configured")
+	}
+	return s.llm.Ping(ctx)
+}
+
 // SearchOnly retrieves relevant context snippets without calling the LLM.
 func (s *Service) SearchOnly(ctx context.Context, query string, limit int) ([]SourceSnippet, error) {
 	return s.SearchOnlyWithHistory(ctx, query, nil, limit)
