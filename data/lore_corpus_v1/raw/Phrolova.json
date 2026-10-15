@@ -1,0 +1,135 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:44Z",
+  "title": "Phrolova",
+  "pageid": 1074,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery|Phrolova}} \n\n\u003c!-- Gameplay Info --\u003e|type             = Playable\n|type2            = Quest\n|rarity           = 5\n|class            = Mutant\n|weapon           = Rectifier\n|attribute        = Havoc\n|role             = Main Damage Dealer; Resonance Skill Damage; Havoc DMG Amplification; Heavy Attack DMG Amplification\n|releaseDate      = 2025-07-24\n|dish             = Redcurrant Tart\n|age              = 100+\n|realname         = \n|alias            = \n|nation           = \n|birthplace       = Ostina\n|title            = Symphony of Beyond\n|title2           = The Conductor\n|title3           = Mysterious Woman in Red\n|affiliation      = Fractsidus\n|affiliationNote  = formerly\n|affiliation2     = \n|obtain           = Requiem Without End\n|mother           = Betty\n|motherNote       = deceased\n|father           = \u003c!--Voice Actors--\u003e\n|voiceEN          = [[imdb:nm5893797|Rae Lim]]\u003cref name=\"Phrolova Bilibili\"\u003eBilibili: [https://www.bilibili.com/video/BV1uuufz9ELi/ 《鸣潮》共鸣者战斗演示 | 弗洛洛]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/zh-hans/%张琦 Zhang Qi ({{Lang|mini=1|zh=张琦}})]\u003cref name=\"Phrolova Bilibili\"/\u003e\n|voiceJP          = {{w|Saki Fujita|Fujita Saki ({{Lang|mini=1|ja=藤田咲}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/1933399814559109177 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/최하리 Choi Hari ({{Lang|mini=1|ko=최하리}})]\u003cref name=\"Phrolova Bilibili\"/\u003e\n}}\n{{Quote|Come, let us finish this performance we've all been waiting for. Together.|Phrolova}}\n{{Intro/Resonator|Phrolova}} She is a particularly powerful Resonator and a former Overseer of the [[Fractsidus]]. Her forte can manipulate and transfigure the frequencies of humans, Echoes, and Tacet Discords alike. \n\nA life filled with unexpected suffering, grief, and betrayal led this former musician to align with the Fractsidus, in which she seeks to rekindle a past from which she was the sole survivor. After working with the Fractsidus for a long time, she made a promise with the leader, the [[Grand Architect]] to complete one final task. Following its completion in {{Quest|Dawn Breaks on Dark Tides}}, she left the organization to find her own path.\n\nAfter completing {{Quest|Dreamcatchers in the Secret Gardens}}, she can be found in the [[Lost Beyond]].\n\n==Official Introduction==\nPhrolova, a Fractsidus Overseer walking the fine line between life and death, an uncanny, deadly conductor.\n\nA silent wave of her baton is enough to attune the very frequencies of being and conduct the symphonies of \"souls.\" The music of hers can sculpt a better world or, just as easily, summon a legion to wreak havoc.\u003cref\u003e[https://wutheringwaves.kurogames.com/en/main/news/detail/2907 Official ''Wuthering Waves'' Website: Profile Reveal | Symphony of Beyond — Phrolova]\u003c/ref\u003e{{Quote|The silent and somber Overseer of the Fractsidus, Phrolova carries an endless sadness that envelops everyone around her.\u003cbr /\u003eShe weaves music that bridges the gap between life and death, crafting an ideal world within her heart.|[https://wutheringwaves.kurogames.com/en/main#resonators Introduction from the Official Website.]\n}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Talk to Phrolova in the Lost Beyond)\n:'''Phrolova:''' You... How did you get in...\n:'''Phrolova:''' Entering another's realm without permission like this... Did you forget your manners along with your memories?\n:{{DIcon}} The energy portal outside wasn't your invitation?\n::'''Phrolova:''' Obviously not. \n:{{DIcon}} You're right. I'll leave.\n::'''Phrolova:''' ......\n::'''Phrolova:''' See yourself out.\n:'''Phrolova:''' You will gain nothing in this bygone realm. Must you cast your gaze here?\n:{{DIcon}} Bygone, but cozy.\n::'''Phrolova:''' Anyone who comes here should experience a simple sense of joy... It seems we share similar feelings about this place.\n::'''Phrolova:''' Is that why you've returned? How unexpected.\n::{{DIcon}} (I'd like to immerse myself in melodies of the past)\n::'''Rover:''' I'd also like to know whether listening to past melodies allows me to hear realms that I once went through.\n::'''Phrolova:''' You wish to listen to past stories? Ah... It seems I have an audience for the songs I've collected throughout history.\n::'''Phrolova:''' Go ahead. Every song kept in this room is at your disposal. There's a seat by the window.\n:{{DIcon}} How much of what you said is true?\n::'''Phrolova:''' The people here are of no used to you. Don't try anything. I will protect this place.\n::{{DIcon}} To the end? With your life?\n::'''Phrolova:''' Heh, an empty and graceless threat. After all, you are not one to harm commoners.\n::{{DIcon}} They're not commoners.\n::'''Phrolova:''' I alone am enough to bear all your hostility. Stay away from this sacred land. Whatever you do, I will accompany you to the end.\n::{{DIcon}} A foe's weakness is worth preserving.\n::'''Phrolova:''' What exactly are you here for?\n::{{DIcon}} (To watch what my foe is doing)\n::'''Rover:''' I will return here often to watch them and you. Even if you're not personally here, that should be sufficient.\n::'''Phrolova:''' Holding us under your vigilant eyes... Looks like I'll never be able to fully rest here. How cruel.\n{{Dialogue End}}\n\n==Combat Overview==\n{{Main|Phrolova/Combat}}\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Phrolova|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events|Phrolova}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en   = Phrolova\n|zhs  = 弗洛洛\n|zht  = 弗洛洛\n|ja   = フローヴァ\n|ko   = 플로로\n|fr   = Phrolova\n|de   = Phrolova\n|es   = Phrolova\n|th   = โฟรโลวา\n|pt   = Phrolova\n}}\n\n==Notes==\n{{Reflist|note=1}}\n\n==Trivia== \n* Phrolova has recurring thematical ties to death and the underworld.\n** The {{W|Lycoris radiata|lycoris}} or red spider lily is a flower that symbolizes death and the afterlife, especially in Japan and China.\n** [[Hecate]], the Tacet Discord she summons and her closest companion, is described as a three-faced Witch of the Underworld from a [[Sonoro Sphere]] where all decaying frequencies converge, known as the \"Beyond\" or \"Lost Beyond\". {{W|Hecate}} is a goddess from Greek mythology associated with magic, witchcraft, and fittingly, with crossroads, similar to Phrolova's association with the [[Lost Beyond]].\n* As of Chapter II's climax, Phrolova was implied to represent the true identity of [[The Shepherd]], since she was known to manipulate Echoes and Tacet Discords alike, and possibly sacrificing anyone to become Tacet Discords.\n\n===Etymology===\n* \"Phrolova\" is a stylized spelling of \"Frolova\" (Фролова), a common Russian surname (the feminine form of Frolov). The use of the Greek digraph \"Ph\" instead of \"F\" is an aesthetic choice by the developers.\n* The surname is derived from the Russian given name \"Frol\" (Фрол), which is a colloquial form of the ancient baptismal name \"Flor\" (Флор). This name originates from the Latin word ''florus'', meaning \"blooming\", \"flowering\", or \"bright\" (from ''flos'', meaning flower).\n* The suffix \"-ova\" is a Russian possessive ending, historically meaning \"belonging to\" or \"daughter/wife of Frolov.\"\n\n==Change History==\n{{Change History|introduced=1.0|2.5}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n[[zh:弗洛洛]]\n[[ru:Фролова]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "3.3",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "4.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "5.1",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notes",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "8",
+      "index": "12"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "8.1",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "9",
+      "index": "14"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "10",
+      "index": "15"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "11",
+      "index": "16"
+    }
+  ]
+}

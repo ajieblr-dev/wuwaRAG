@@ -1,0 +1,79 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:12Z",
+  "title": "Battle Beneath the Crescent",
+  "pageid": 26888,
+  "wikitext": "{{Stub}}{{Terminology Infobox\n|type         = Lore\n|image        = Battle Beneath the Crescent.png\n|title        = Battle Beneath the Crescent\n|nation       = Huanglong\n|region       = Jinzhou\n|location     = Norfall Barrens\n}}\n{{Quote|Those Phantoms... Illusions of both soldiers and those monsters... They were not real, but somehow they could injure and kill us. We had to strike them down to survive. But then... Our dead comrades, were coming back to life, ready to stab us behind our backs... It was chaos. We were terrified, couldn't tell friend from foe...|Midnight Ranger|{{Quest|Grand Warstorm}}}}\nThe '''Battle Beneath the Crescent''' is a crucial event in [[Jinzhou|Jinzhou's]] history, taking place in the [[Norfall Barrens]] three years prior to the main story. The battle was fought between the [[Midnight Rangers]], the military force of Jinzhou, and [[Ovathrax]], the [[Threnodian]] of War.\n\n==Overview==\n===Background===\n===Battle===\nThe battle initially seemed to be a victory for the Midnight Rangers, until Ovathrax's power enhanced the effect of the [[Retroact Rain]], projecting deadly Phantoms of monsters and fallen soldiers. \n\nIssuing a final order for his soldiers to stand firm, [[Geshu Lin]] charged at Ovathrax, and vanished. \n\nIn the absence of the General, [[Jiyan]] rose up and led a difficult retreat through a narrow breach out of the Norfall Barrens, establishing Vanguard Base just outside Norfall Valley.\u003cref\u003e[[Outrider Squad's Norfall Valley Investigation Logs I]]\u003c/ref\u003e\n\n===Aftermath===\nFollowing the battle, [[Jué]], the [[Sentinel]] of Jinzhou, rose from a long slumber and chose [[Jinhsi]] as the next Magistrate of the city, a position that had been empty for years prior. In the [[Mingting|Capital]], Counselor [[Changli]] pushed for the reduction of commercial taxes in Jinzhou and allocation of food and funds to better relieve the city from the aftermath.\u003cref\u003e[[Changli/Backstory#Beneath the Whispers|Changli's Backstory, Beneath the Whispers]]\n:''[...] It is said that Counselor Changli, during her time in the capital, proposed the renovation of the Shelter Homes across Huanglong to provide a better home for the refugees who lost their homes in the Lament's aftermath; she also pushed for the reduction of commercial taxes in Jinzhou and allocate food and funds to better relieve Jinzhou from the aftermaths of the Battle Beneath the Crescent.''\u003c/ref\u003e\n\nJué also selected Jiyan to become the next General of the Midnight Rangers, filling the position vacated by Geshu Lin's disappearance, as well as gave him a prophecy to guide [[Rover]] upon their return to confront Ovathrax.\u003cref name=\"GW\"\u003e{{Quest|Grand Warstorm}}\u003c/ref\u003e Jiyan has since became a recognized and well-respected figure in Jinzhou and has made great effort to minimize casualties in the military, such as changing recruitment tactics to ensure that combat units consist of [[Resonator|Resonators]] only.\n\nGeshu Lin has not been seen since the battle, and has become a notorious figure in [[Huanglong]] as many blame him for the casualties that happened under his command. However, video recordings he had sent back of the rain have provided crucial information that has allowed nations worldwide to speed up their research on defense against the Retroact Rain.\u003cref name=\"GW\" /\u003e\n\n==Trivia==  \n*While yet to be explicitly confirmed in the game, it is likely that Ovathrax was not directly encountered in the battle, and it was instead fought against the [[Crownless]], sent as the Threnodian's vanguard.\n**The [[Outrider Squad's Norfall Valley Investigation Logs II]] proposes this theory based on evidence that the stance and frequency matched the [[Crownless]].\n**The statue in the [[Suspended Ruins]] that Jiyan refers to as Ovathrax during {{Quest|Grand Warstorm}} is actually called the [[Statue of the Crownless: Heart|Statue of the Crownless]] on the map.\n\n==Gallery==\n===Videos===\n\u003cgallery\u003e\nWuthering Waves Story Cinematics - Battle Beneath the Crescent\n\u003c/gallery\u003e\n==Other Languages==\n{{Other Languages\n|en   = Battle Beneath the Crescent\n|zhs  = 弯刀之役\n|zht  = 彎刀之役\n|ja   = {{Rubi|湾刀|わんとう}}の戦い\n|ko   = 곡도 전쟁\n|es   = Batalla bajo la media luna\n|fr   = Bataille de la Serpe\n|de   = Schlacht unter dem Halbmond\n|th   = \n|pt   = \n}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Background",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Battle",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Aftermath",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "3.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "10"
+    }
+  ]
+}

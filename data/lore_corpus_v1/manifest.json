@@ -1,0 +1,612 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "status": "gathered_only (not indexed into RAG / Qdrant)",
+  "gathered_at": "2026-10-15T08:25:17Z",
+  "total_pages": 83,
+  "total_wikitext_characters": 417552,
+  "description": "Wuthering Waves World Lore, Terminology, Phenomena, Sentinels, Threnodians, Nations, Factions, and Timeline gathered from MediaWiki.",
+  "storage": {
+    "raw_directory": "data/lore_corpus_v1/raw",
+    "pages_list": "data/lore_corpus_v1/pages.txt",
+    "manifest": "data/lore_corpus_v1/manifest.json"
+  },
+  "comparison": {
+    "old_dataset": {
+      "code": "main-quest-v1",
+      "location": "data/raw/",
+      "pages_count": 78,
+      "scope": "Main Quest dialogue and scene transcripts (Prologue through Chapter IV + hubs)",
+      "indexed_in_rag": true
+    },
+    "new_dataset": {
+      "code": "lore-corpus-v1",
+      "location": "data/lore_corpus_v1/raw/",
+      "pages_count": 83,
+      "scope": "Encyclopedic world lore, cosmology, Sentinel & Threnodian profiles, factions, and Solaris-3 timeline",
+      "indexed_in_rag": false
+    }
+  },
+  "pages": [
+    {
+      "title": "Aleph-1",
+      "file": "Aleph-1.json",
+      "pageid": 38339,
+      "char_count": 7901,
+      "sections_count": 16
+    },
+    {
+      "title": "Arbiter",
+      "file": "Arbiter.json",
+      "pageid": 9279,
+      "char_count": 1965,
+      "sections_count": 4
+    },
+    {
+      "title": "Ashinohara",
+      "file": "Ashinohara.json",
+      "pageid": 37374,
+      "char_count": 2652,
+      "sections_count": 9
+    },
+    {
+      "title": "Battle Beneath the Crescent",
+      "file": "Battle_Beneath_the_Crescent.json",
+      "pageid": 26888,
+      "char_count": 4322,
+      "sections_count": 10
+    },
+    {
+      "title": "Black Shores Archipelago",
+      "file": "Black_Shores_Archipelago.json",
+      "pageid": 21831,
+      "char_count": 3628,
+      "sections_count": 13
+    },
+    {
+      "title": "Blake Bloom",
+      "file": "Blake_Bloom.json",
+      "pageid": 20570,
+      "char_count": 2143,
+      "sections_count": 6
+    },
+    {
+      "title": "Censorate",
+      "file": "Censorate.json",
+      "pageid": 42215,
+      "char_count": 856,
+      "sections_count": 3
+    },
+    {
+      "title": "Central Plains",
+      "file": "Central_Plains.json",
+      "pageid": 5190,
+      "char_count": 2984,
+      "sections_count": 12
+    },
+    {
+      "title": "Court of Savantae",
+      "file": "Court_of_Savantae.json",
+      "pageid": 3150,
+      "char_count": 5509,
+      "sections_count": 15
+    },
+    {
+      "title": "Dark Tide",
+      "file": "Dark_Tide.json",
+      "pageid": 26165,
+      "char_count": 23533,
+      "sections_count": 12
+    },
+    {
+      "title": "Desorock Highland",
+      "file": "Desorock_Highland.json",
+      "pageid": 4972,
+      "char_count": 2909,
+      "sections_count": 15
+    },
+    {
+      "title": "Dim Forest",
+      "file": "Dim_Forest.json",
+      "pageid": 2960,
+      "char_count": 2705,
+      "sections_count": 15
+    },
+    {
+      "title": "Echo",
+      "file": "Echo.json",
+      "pageid": 1011,
+      "char_count": 1213,
+      "sections_count": 2
+    },
+    {
+      "title": "Etheric Sea",
+      "file": "Etheric_Sea.json",
+      "pageid": 10270,
+      "char_count": 3507,
+      "sections_count": 3
+    },
+    {
+      "title": "Exiles",
+      "file": "Exiles.json",
+      "pageid": 9136,
+      "char_count": 2465,
+      "sections_count": 11
+    },
+    {
+      "title": "Exostrider",
+      "file": "Exostrider.json",
+      "pageid": 38286,
+      "char_count": 4899,
+      "sections_count": 16
+    },
+    {
+      "title": "Fang",
+      "file": "Fang.json",
+      "pageid": 79481,
+      "char_count": 1920,
+      "sections_count": 4
+    },
+    {
+      "title": "Fortress and Gorges War",
+      "file": "Fortress_and_Gorges_War.json",
+      "pageid": 58857,
+      "char_count": 1831,
+      "sections_count": 6
+    },
+    {
+      "title": "Fractsidus",
+      "file": "Fractsidus.json",
+      "pageid": 907,
+      "char_count": 9813,
+      "sections_count": 14
+    },
+    {
+      "title": "Geshu Lin",
+      "file": "Geshu_Lin.json",
+      "pageid": 1056,
+      "char_count": 6707,
+      "sections_count": 12
+    },
+    {
+      "title": "Ghost Hounds",
+      "file": "Ghost_Hounds.json",
+      "pageid": 897,
+      "char_count": 792,
+      "sections_count": 5
+    },
+    {
+      "title": "Gorges of Spirits",
+      "file": "Gorges_of_Spirits.json",
+      "pageid": 5192,
+      "char_count": 2438,
+      "sections_count": 11
+    },
+    {
+      "title": "Homeland Civilization",
+      "file": "Homeland_Civilization.json",
+      "pageid": 39607,
+      "char_count": 1468,
+      "sections_count": 2
+    },
+    {
+      "title": "Hsin",
+      "file": "Hsin.json",
+      "pageid": 10962,
+      "char_count": 3087,
+      "sections_count": 14
+    },
+    {
+      "title": "Huanglong",
+      "file": "Huanglong.json",
+      "pageid": 899,
+      "char_count": 7143,
+      "sections_count": 18
+    },
+    {
+      "title": "Huaxu Academy",
+      "file": "Huaxu_Academy.json",
+      "pageid": 938,
+      "char_count": 3697,
+      "sections_count": 12
+    },
+    {
+      "title": "Imperator",
+      "file": "Imperator.json",
+      "pageid": 25653,
+      "char_count": 3229,
+      "sections_count": 8
+    },
+    {
+      "title": "Jinzhou",
+      "file": "Jinzhou.json",
+      "pageid": 898,
+      "char_count": 5319,
+      "sections_count": 15
+    },
+    {
+      "title": "Jinzhou (Province)",
+      "file": "Jinzhou_(Province).json",
+      "pageid": 36422,
+      "char_count": 4559,
+      "sections_count": 9
+    },
+    {
+      "title": "Jinzhou (Province)/Culture",
+      "file": "Jinzhou_(Province)_Culture.json",
+      "pageid": 27141,
+      "char_count": 6056,
+      "sections_count": 17
+    },
+    {
+      "title": "Jinzhou (Province)/History",
+      "file": "Jinzhou_(Province)_History.json",
+      "pageid": 27887,
+      "char_count": 3737,
+      "sections_count": 5
+    },
+    {
+      "title": "Ju\u00e9",
+      "file": "Ju\u00e9.json",
+      "pageid": 1159,
+      "char_count": 9437,
+      "sections_count": 24
+    },
+    {
+      "title": "KU-Roro",
+      "file": "KU-Roro.json",
+      "pageid": 38669,
+      "char_count": 2294,
+      "sections_count": 7
+    },
+    {
+      "title": "Lahai-Roi",
+      "file": "Lahai-Roi.json",
+      "pageid": 36637,
+      "char_count": 6313,
+      "sections_count": 15
+    },
+    {
+      "title": "Leviathan",
+      "file": "Leviathan.json",
+      "pageid": 27120,
+      "char_count": 13480,
+      "sections_count": 14
+    },
+    {
+      "title": "Lore",
+      "file": "Lore.json",
+      "pageid": 1529,
+      "char_count": 734,
+      "sections_count": 4
+    },
+    {
+      "title": "Mengzhou",
+      "file": "Mengzhou.json",
+      "pageid": 21873,
+      "char_count": 5134,
+      "sections_count": 14
+    },
+    {
+      "title": "Midnight Rangers",
+      "file": "Midnight_Rangers.json",
+      "pageid": 896,
+      "char_count": 3174,
+      "sections_count": 14
+    },
+    {
+      "title": "Ministry of Sentinel Affairs",
+      "file": "Ministry_of_Sentinel_Affairs.json",
+      "pageid": 37606,
+      "char_count": 1751,
+      "sections_count": 8
+    },
+    {
+      "title": "Mt. Firmament",
+      "file": "Mt._Firmament.json",
+      "pageid": 8689,
+      "char_count": 8280,
+      "sections_count": 19
+    },
+    {
+      "title": "New Federation",
+      "file": "New_Federation.json",
+      "pageid": 909,
+      "char_count": 6130,
+      "sections_count": 8
+    },
+    {
+      "title": "Norfall Barrens",
+      "file": "Norfall_Barrens.json",
+      "pageid": 5025,
+      "char_count": 2060,
+      "sections_count": 11
+    },
+    {
+      "title": "Order of the Deep",
+      "file": "Order_of_the_Deep.json",
+      "pageid": 25536,
+      "char_count": 5357,
+      "sections_count": 19
+    },
+    {
+      "title": "Ovathrax",
+      "file": "Ovathrax.json",
+      "pageid": 2495,
+      "char_count": 2870,
+      "sections_count": 7
+    },
+    {
+      "title": "Overclocking",
+      "file": "Overclocking.json",
+      "pageid": 24999,
+      "char_count": 8202,
+      "sections_count": 9
+    },
+    {
+      "title": "Phrolova",
+      "file": "Phrolova.json",
+      "pageid": 1074,
+      "char_count": 7416,
+      "sections_count": 18
+    },
+    {
+      "title": "Pioneer Association",
+      "file": "Pioneer_Association.json",
+      "pageid": 2950,
+      "char_count": 3419,
+      "sections_count": 15
+    },
+    {
+      "title": "Port City of Guixu",
+      "file": "Port_City_of_Guixu.json",
+      "pageid": 4706,
+      "char_count": 2702,
+      "sections_count": 13
+    },
+    {
+      "title": "Pre-Lament Civilization",
+      "file": "Pre-Lament_Civilization.json",
+      "pageid": 39606,
+      "char_count": 1310,
+      "sections_count": 3
+    },
+    {
+      "title": "Promeus",
+      "file": "Promeus.json",
+      "pageid": 39919,
+      "char_count": 1320,
+      "sections_count": 2
+    },
+    {
+      "title": "Rabelle's Curve",
+      "file": "Rabelle's_Curve.json",
+      "pageid": 982,
+      "char_count": 1908,
+      "sections_count": 9
+    },
+    {
+      "title": "Remnant",
+      "file": "Remnant.json",
+      "pageid": 1009,
+      "char_count": 3743,
+      "sections_count": 6
+    },
+    {
+      "title": "Resonator",
+      "file": "Resonator.json",
+      "pageid": 348,
+      "char_count": 2805,
+      "sections_count": 6
+    },
+    {
+      "title": "Retroact Rain",
+      "file": "Retroact_Rain.json",
+      "pageid": 7986,
+      "char_count": 4427,
+      "sections_count": 11
+    },
+    {
+      "title": "Reverberation",
+      "file": "Reverberation.json",
+      "pageid": 1013,
+      "char_count": 777,
+      "sections_count": 2
+    },
+    {
+      "title": "Rinascita",
+      "file": "Rinascita.json",
+      "pageid": 9384,
+      "char_count": 5832,
+      "sections_count": 32
+    },
+    {
+      "title": "Rinascita/Culture",
+      "file": "Rinascita_Culture.json",
+      "pageid": 27147,
+      "char_count": 2902,
+      "sections_count": 17
+    },
+    {
+      "title": "Rinascita/History",
+      "file": "Rinascita_History.json",
+      "pageid": 27132,
+      "char_count": 15481,
+      "sections_count": 5
+    },
+    {
+      "title": "Scar",
+      "file": "Scar.json",
+      "pageid": 901,
+      "char_count": 6201,
+      "sections_count": 10
+    },
+    {
+      "title": "Sentinel",
+      "file": "Sentinel.json",
+      "pageid": 1012,
+      "char_count": 9271,
+      "sections_count": 11
+    },
+    {
+      "title": "Solaris-3",
+      "file": "Solaris-3.json",
+      "pageid": 955,
+      "char_count": 6201,
+      "sections_count": 8
+    },
+    {
+      "title": "Somnoire",
+      "file": "Somnoire.json",
+      "pageid": 21791,
+      "char_count": 20051,
+      "sections_count": 13
+    },
+    {
+      "title": "Sonoro Sphere",
+      "file": "Sonoro_Sphere.json",
+      "pageid": 8269,
+      "char_count": 4442,
+      "sections_count": 12
+    },
+    {
+      "title": "Special Response Force",
+      "file": "Special_Response_Force.json",
+      "pageid": 40519,
+      "char_count": 935,
+      "sections_count": 5
+    },
+    {
+      "title": "Startorch Academy",
+      "file": "Startorch_Academy.json",
+      "pageid": 37391,
+      "char_count": 18230,
+      "sections_count": 40
+    },
+    {
+      "title": "Stellar Matrices",
+      "file": "Stellar_Matrices.json",
+      "pageid": 42191,
+      "char_count": 7902,
+      "sections_count": 10
+    },
+    {
+      "title": "Tacet Discord",
+      "file": "Tacet_Discord.json",
+      "pageid": 1008,
+      "char_count": 4084,
+      "sections_count": 17
+    },
+    {
+      "title": "Tacet Field",
+      "file": "Tacet_Field.json",
+      "pageid": 1083,
+      "char_count": 3364,
+      "sections_count": 8
+    },
+    {
+      "title": "Tacet Mark",
+      "file": "Tacet_Mark.json",
+      "pageid": 3396,
+      "char_count": 1287,
+      "sections_count": 3
+    },
+    {
+      "title": "Tacetite",
+      "file": "Tacetite.json",
+      "pageid": 1084,
+      "char_count": 2246,
+      "sections_count": 6
+    },
+    {
+      "title": "Ten Seals Covenant",
+      "file": "Ten_Seals_Covenant.json",
+      "pageid": 77579,
+      "char_count": 1205,
+      "sections_count": 5
+    },
+    {
+      "title": "Terminal",
+      "file": "Terminal.json",
+      "pageid": 1058,
+      "char_count": 5236,
+      "sections_count": 6
+    },
+    {
+      "title": "Tethys System",
+      "file": "Tethys_System.json",
+      "pageid": 11350,
+      "char_count": 4456,
+      "sections_count": 9
+    },
+    {
+      "title": "The Black Shores",
+      "file": "The_Black_Shores.json",
+      "pageid": 26522,
+      "char_count": 1812,
+      "sections_count": 12
+    },
+    {
+      "title": "The Lament",
+      "file": "The_Lament.json",
+      "pageid": 1006,
+      "char_count": 9515,
+      "sections_count": 6
+    },
+    {
+      "title": "The Moon",
+      "file": "The_Moon.json",
+      "pageid": 41913,
+      "char_count": 3325,
+      "sections_count": 5
+    },
+    {
+      "title": "The White Tower",
+      "file": "The_White_Tower.json",
+      "pageid": 42766,
+      "char_count": 4067,
+      "sections_count": 9
+    },
+    {
+      "title": "Threnodian",
+      "file": "Threnodian.json",
+      "pageid": 1010,
+      "char_count": 9321,
+      "sections_count": 10
+    },
+    {
+      "title": "Timeline",
+      "file": "Timeline.json",
+      "pageid": 7557,
+      "char_count": 8743,
+      "sections_count": 21
+    },
+    {
+      "title": "Troupe of Fools",
+      "file": "Troupe_of_Fools.json",
+      "pageid": 25657,
+      "char_count": 4282,
+      "sections_count": 11
+    },
+    {
+      "title": "Waveworn Phenomenon",
+      "file": "Waveworn_Phenomenon.json",
+      "pageid": 1005,
+      "char_count": 10309,
+      "sections_count": 14
+    },
+    {
+      "title": "Xuanfang Hold",
+      "file": "Xuanfang_Hold.json",
+      "pageid": 38120,
+      "char_count": 3929,
+      "sections_count": 14
+    },
+    {
+      "title": "Xuanfang Wardens",
+      "file": "Xuanfang_Wardens.json",
+      "pageid": 43220,
+      "char_count": 2893,
+      "sections_count": 5
+    }
+  ]
+}

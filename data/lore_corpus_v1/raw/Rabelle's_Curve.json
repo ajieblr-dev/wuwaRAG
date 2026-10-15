@@ -1,0 +1,72 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:48Z",
+  "title": "Rabelle's Curve",
+  "pageid": 982,
+  "wikitext": "{{Stub}}{{Terminology Infobox\n|title        = Rabelle's Curve\n|type         = Lore\n|image        = \n}}\n\n'''Rabelle's Curve''' is a test used to classify [[Resonator|Resonators]] into one of four categorizations. The test and its results appear on [[:Category:Character Forte Examination Report|Resonance Evaluation Reports]].\n\n== History ==\n{{Quote|Developed by Dr. Scott Rabelle, this method was originally designed to examine Resonators. It is also known as \"Rabelle's Test.\" Known for its safety, reliability, and ease of use, the test has since been adopted across multiple regions.|In-Game Description}}\n\n== Categorizations ==\n\n=== Natural ===\n[[:Category:Natural Resonators|Natural Resonators]] have a non-convergent Rabelle's Curve with a gradual, stable rise. These Resonators have naturally awakened their [[Forte]] during their growth.\n\n{{Resonators by Category Table|Natural Resonators}}\n\n=== Mutant ===\n[[:Category:Mutant Resonators|Mutant Resonators]] have a non-convergent Rabelle's Curve with a steep rise in its middle section. These Resonators experienced extreme conditions, surges of energy, emotional distress or a life-changing event that led to the awakening of their Forte.\n\n{{Resonators by Category Table|Mutant Resonators}}\n\n=== Congenital ===\n[[:Category:Congenital Resonators|Congenital Resonators]] have a non-convergent Rabelle's Curve with a periodic waveform. These Resonators were born with their Forte.\n\n{{Resonators by Category Table|Congenital Resonators}}\n\n=== Non-congenital ===\n{{Resonators by Category Table|Non-congenital Resonators}}\n\n=== Artificial ===\n{{Resonators by Category Table|Artificial Resonators}}\n\n=== Unclear ===\nThese are resonators for whom their Rabelle's Curve is unclear, and not strictly mentioned in their Resonance Evaluation Report.\n\n{{Resonators by Category Table|Unclear Resonators}}\n\n== Navigation ==\n{{Lore Navbox|Terminology}}\n\n[[zh:拉贝尔曲线]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Categorizations",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Natural",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Mutant",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Congenital",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Non-congenital",
+      "number": "2.4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Artificial",
+      "number": "2.5",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Unclear",
+      "number": "2.6",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "9"
+    }
+  ]
+}

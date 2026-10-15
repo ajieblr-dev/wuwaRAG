@@ -1,0 +1,58 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:43Z",
+  "title": "Ovathrax",
+  "pageid": 2495,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image        = Ovathrax.png\n|affiliation  = Threnodians\n|title        = Ovathrax\n|nation       = Huanglong\n}}\n{{Quote|Ovathrax's towering statue, built from repurposed weapons and debris, has long loomed over Jinzhou as a foreboding symbol of our ongoing struggle.|Jiyan|[[Grand Warstorm]]\n}}\n'''Ovathrax''' is the entity known as the [[Threnodian]] of War. Last seen in the Heart of the Crownless during {{Quest|Grand Warstorm}}, its current location is unknown.\n\n==History ==\n\nIt is said that because [[Jinzhou]] has been a battleground for centuries, it must face the Threnodian that represents the concept of war. Ovathrax's statue has loomed over the region for a long time, feeding on the frequencies of 'weapons' and turning Jinzhou's soldiers into [[Tacet Discord]]s.\n\nThree years prior to the start of the storyline, the [[Midnight Rangers]], led by General [[Geshulin|Geshu Lin]] fought against Ovathrax in the [[Norfall Barrens]], in an event known as the [[Battle Beneath the Crescent]]. However, Ovathrax was able to enhance the effects of the [[Retroact Rain]], projecting dangerous phantoms of both monsters and fallen soldiers. While the Midnight Rangers suffered great causalities along with the disappearance of their general Geshu Lin after he delivered his final blow against Ovathrax, the Threnodian were gravely injured and sunk into the water.\u003cref\u003e[[Grand Warstorm]]\u003c/ref\u003e\n\nAt present, upon the [[Rover|Rover's]] arrival, Ovathrax had been recovering and was set on resurrecting itself. With the support and aid of countless [[Resonator]]s and the Midnight Rangers, both Rover and [[Jiyan]] set out to defeat the Threnodian. Though they were unable to face Ovathrax directly, the defeat of the [[Crownless]] and [[Dreamless]] caused Ovathrax to mysteriously leave and vanish, ending the battle between it and its army against Jinzhou. Its current whereabouts being unknown.\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n*It is likely that Ovathrax's exact identity is not entirely accurate.\n**The [[Outrider Squad's Norfall Valley Investigation Logs II]] states that the stance and frequency of the creature fought during the Battle Beneath the Crescent matched the [[Crownless]], and it was likely sent as a Vanguard.\n**The statue in the [[Suspended Ruins]] that Jiyan refers to as Ovathrax during {{Quest|Grand Warstorm}} is actually called the [[Statue of the Crownless: Heart|Statue of the Crownless]] on the map.\n\n==Gallery==\n\u003cgallery\u003e\nWuthering Waves Story Cinematics - Battle Beneath the Crescent\nFile:Original Ovathrax .png|Ovathrax in original form battling Geshu Lin\n\u003c/gallery\u003e\n\n==Other Languages ==\n{{Other Languages\n|en      = Ovathrax\n|zhs     = 无相燹主\n|zht     = 無相燹主\n|ja      = 無相{{Rubi|燹|せん}}主\n|ko      = 더 엑시온\n|es      = Ovatrax\n|fr      = Arūpa\n|de      = Ovathrax\n}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

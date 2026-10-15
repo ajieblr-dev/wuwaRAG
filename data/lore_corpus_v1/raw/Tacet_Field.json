@@ -1,0 +1,65 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:59Z",
+  "title": "Tacet Field",
+  "pageid": 1083,
+  "wikitext": "{{About|the [[lore]]|the game system|Tacet Suppression}}{{Terminology Infobox\n|title        = Tacet Field\n|type         = Lore\n|image        = Tacet Field.jpg\n}}\n'''Tacet Fields''' are a form of [[Waveworn Phenomenon]], and are widely believed to be where all [[Tacet Discord]]s originate.\u003cref name=\"PROLOGUE\"\u003e{{Quest|Utterance of Marvels: I}}\u003c/ref\u003e [[Reverberation]]s fill the air in these locations, linking the world to an unknown space through a white Resonance Cord.\n__NOTOC__\n==Description==\n{{Description|\"Tacet Fields\" are thought to be where all Tacet Discords originate. These locations feature a sky of inverted seas and a deep cross-shaped Tacet Mark on the ground. Reverberations fill the air, linking our world to an unknown space through a white Resonance Cord. These areas attract gatherings of Tacet Discords.|title=Tacet Field}}\n\n{{Description|The Tacet Fields that exist in isolated dimensions.|title=Paradimensional Tacet Field}}\n\n==Overview==\nTacet Fields are easily identifiable locations, featuring a sky of inverted seas and a deep cross-shaped [[Tacet Mark]] on the ground. Meanwhile, Paradimensional Tacet Fields are accessed through a Tacet Mark shaped door way that sit diagonally from the ground.\n\nThe convergence of the [[Etheric Sea]] results in the formation of new Tacet Fields, which initially go through a Dormant period, during which the area is relatively safe. A faster formation generally results in a longer Dormant period, as well as stronger Tacet Discords.\u003cref name=\"PROLOGUE\" /\u003e\n\n===Research===\nA former researcher from [[Huaxu Academy]] and childhood friend of [[Xiangli Yao]], [[Pascar]] identified the special frequency of the Tacet Field, and developed a prototype detector that can predict where they are forming. After Pascar and the prototype were devoured by Waveworn, his notes were recovered and the theory restored, named the 'Pascar Spectrum' theory. While the prototype has yet to be successfully recreated, the theory has gained global recognition as well as attracted the attention of the [[Black Shores]].\u003cref\u003e{{Quest|Wish Upon the Moon IV: Swan Song}}\u003c/ref\u003e\n\nAs part of their efforts in researching an ancient civilization, a group of scientists exiled from the [[Court of Savantae]] performed an experiment into creating an Artificial Controllable Tacet Field.\u003cref\u003e{{Quest|Rewinding Raindrops}}\u003c/ref\u003e\n\n\n==Gallery==\n\u003cgallery\u003e\nFile:Tacet Field.png|A Tacet Field that have a unique mark around it, first seen in Crownless Tacet Field.\nFile:Tutorial System Tacet Field Rewards.png|Commonly seen Tacet Fields, laid flat on the ground.\nFile:Tutorial Adventure Venturing Into Tacet Fields.png|A Paradimensional Tacet Field, seen protruding from the ground.\n\u003c/gallery\u003e\n\n==Trivia==\n*While Tacet Fields kill the plants in their environment, they are also a source of unique plants and minerals, such as [[Floramber]] that forms from the remains of the dead plants,\u003cref\u003e[[Floramber]], Item Description\u003c/ref\u003e and [[Erodorchid]]s that grow on the edges of Tacet Fields.\u003cref\u003e[[Erodorchid]], Item Description\u003c/ref\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Tacet Field\n|zhs  = 无音区\n|zht  = 無音區\n|ja   = 無音区\n|ko   = 무음구역\n|fr   = Zone taciturne\n|de   = Tacet-Feld\n|es   = Campo Tácito\n|th   = สนามทาเซ็ต\n|pt   = Campo de Dissonância\n}}\n==References==\n{{Reflist}}\n==Navigation==\n{{Lore Navbox|Terminology}}\n[[zh:无音区]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Research",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "8"
+    }
+  ]
+}

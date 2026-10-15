@@ -1,0 +1,44 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:57Z",
+  "title": "Special Response Force",
+  "pageid": 40519,
+  "wikitext": "{{Stub}}\n{{Faction Infobox\n|title    = Special Response Force\n|image    =\n|leader   =\n|base     =\n|nation   = Lahai-Roi\n|ally     = }}\nThe '''Special Response Force''' is an emergency response team unit formed by the [[Spacetrek Collective]].\n\n==History==\nMembers of the team operated in five-person squads, tasked with eliminating any threat to the Collective with year-round deployment into the most dangerous zones imaginable. The unit had a high casualty rate that increased annually and reached an all-time high of 85% until an operation resulted in all members of the Special Response Force being confirmed KIA.\n\n==Members==\n===Notable Personnel===\n{| class=\"article-table\"\n!Icon!!Name!!Position\n|-\n|[[File:Resonator Hiyuki.png|50px]]\n|[[Hiyuki]]\n|Operative\n|}\n\n==Other Languages==\n{{Other Languages\n|en  = Special Response Force\n|zhs = 特别对策组\n|zht =\n|ja  =\n|ko  =\n|fr  =\n|de  =\n|es  =\n|th  =\n}}\n\n==Navigation==\n{{Faction Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Notable Personnel",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "5"
+    }
+  ]
+}

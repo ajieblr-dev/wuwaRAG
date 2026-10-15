@@ -1,0 +1,121 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:20Z",
+  "title": "Exostrider",
+  "pageid": 38286,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|name             = Exostrider\n|image            = Comprehensive Mirror for Historians — Exostrider Cover.png\n|type             = Quest\n|nation           = Lahai-Roi\n|group            = \n|affiliation      = Roya Frostlands\n|affiliation2     = Homeland Civilization\n|title            = Guardian of Lahai-Roi\n|alias            = Baldur\n|alias2           = Lahai Roi\n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm3516054|Joseph Capp]]\n|voiceCN          = \n|voiceJP          = {{w|Koichi Yamadera|Yamadera Kōichi ({{Lang|mini=1|ja=山寺宏一}})}}\n|voiceKR          = \n}}\nThe '''Exostrider''', also known as '''Baldur''' by the Roya Tribe, is a towering mechanoid that slumbers in the Roya Frostlands surface. It's origin of creation was unknown, but current research suggests the Exostriders and Sentinels were created with technology from the same civilization therefore labeling the Exostrider as a Sentinel Analog.\n\nDuring its fight with Aleph-1 and sealing it away, the Exostrider used its {{tt|Reactor Core|Similar to a heart}} to give life to Lahai-Roi, subconsequently, leading to the deactivation of the Exostrider. \u003cref\u003e[[Post-Lament Anthropocene: Comprehensive Mirror for Historians — Exostrider]]\u003c/ref\u003e\n\n{| class=\"article-table mw-collapsible mw-collapsed\" data-expandtext=\"Show spoilers\" data-collapsetext=\"Hide spoilers\"\n! Spoilers\n|-\n|It was revealed the Exostrider is a mechanoid created by the [[Homeland Civilization]] to transport Sentinels to [[Solaris-3]]. There are multiple Exostriders, but the one in Solaris-3 (Baldur) was intercepted by the Threnodian called Aleph-1 in space and sealed it with the help of its Resonator, [[Aemeath]].\n|-\n|After the events of [[Starlights from Yesterdays]], the Exostrider ascends to [[Sentinel]] status and takes on the designation \"Lahai Roi\" in honor of the civilization that gifted it a new heart.\n|}\n\n==Quests and Events==\n{{Quests and Events|Exostrider}}\n\n==Descriptions==\n{{Description|A colossal mech of alien origin, now dormant in the Roya Frostlands. Startorch Academy was founded to train Synchronists capable of establishing Augmented Resonance with it.\nIn the Roya's Trine Myth, it is revered as Baldur, the earthly incarnation of the sun deity Sol. Legend claims it once held up the earth's collapsing crust with its greatsword, saving the Roya from annihilation. Predictions foretell it will awaken from its slumber to confront the ruinous Hvedrungr in a final, apocalyptic battle.|Glossary Excerpt}}\n\nThe '''Exostrider''', also known as '''Baldur''', is a massive, currently dormant mechanoid of alien origin currently located in the [[Roya Frostlands]].\n\nIt is related to the technology that composes the [[Sentinel]]s, and acts as the region's Sentinel, protecting the Roya Frostlands from the Threnodian of Erasure, [[Aleph-1]].\n\nThe [[Exoswarm]] are creatures derived from the Exostrider's cellular remnants, and its power core, the '''Reactor Drive''', was removed from its body to make the artificial sun for the underground nation of [[Lahai-Roi]]. The New Solar Ceremony is a project headed by the non-profit [[Spacetrek Collective]] intended to replace the artificial sun with a manmade one known as \"Helios\" so that the Reactor Drive could be returned to the Exostrider.\n\nThe Spacetrek Collective was established to study the Exostrider's technology, and the Collective's educational institution, [[Startorch Academy]], has multiple departments dedicated to studying the Exostrider.\n\n{| class=\"article-table mw-collapsible mw-collapsed\" data-expandtext=\"Show spoilers\" data-collapsetext=\"Hide spoilers\"\n! Spoilers for {{Quest|The Star That Voyages Far}}\n|-\n|It is later revealed that there is more than one Exostrider and that they were created by the [[Homeland Civilization]] with the purpose of transporting [[Sentinel]]s to defend [[Solaris-3|Solaris]] and possibly other planets from the [[Threnodian]]s.\n|}\n\n==Creations==\n*[[Reactor Husk]]\n*Exoswarm\n**[[Flora Reindeer]]\n**[[Glommoth]]\n**[[Ironhoof]]\n**[[Kronablight]]\n**[[Mining Reindeer]]\n**[[Sabercat Prowler]]\n**[[Sabercat Reaver]]\n**[[Flora Drone]]\n**[[Mining Drone]]\n**[[Soliskin]] (the Exostrider's \"neurons\")\n\n\n==Character Mentions==\n{{Character Mentions|Exostrider}}\n\n==Gallery==\n===Game Assets===\n\u003cgallery\u003e\nAemeath Splash Art.png|The Exostrider in [[Aemeath]]'s splash art\nCherished Item Exostrider Figurine.png|The Exostrider in cherished item \"Exostrider Figurine\"\n\u003c/gallery\u003e\n\n===Official Art===\n{{Files by Character Gallery|Images|not1=Story CGs}}\n\n=== Videos===\n{{Files by Character Gallery|Exostrider Videos}}\n\n== Other Languages ==\n{{Other Languages\n|1_en   = Exostrider\n|1_zhs  = 隧者\n|1_zht  = 隧者\n|1_ja   = エクソストライダー\n|1_ko   = 엑소스트라이더\n|1_fr   = Exoarpenteur\n|1_de   = Exoschreiter\n|1_es   = Exotitán\n|1_th   = Exostrider\n\n|2_en   = Baldur\n|2_zhs  = 巴德尔\n}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}\n[[zh:隧者]]\n[[Category:Sentinels]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Creations",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Voicelines",
+      "number": "4.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Cherished Items",
+      "number": "4.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Game Assets",
+      "number": "5.1",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Official Art",
+      "number": "5.2",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "5.3",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exostrider",
+      "number": "6.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Baldur",
+      "number": "6.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "10"
+    }
+  ]
+}

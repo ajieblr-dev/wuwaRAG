@@ -1,0 +1,65 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:28Z",
+  "title": "Imperator",
+  "pageid": 25653,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|name             = Imperator\n|image            = Imperator.png\n|type             = Quest\n|nation           = Rinascita\n|group            = \n|affiliation      = Sentinels\n|title            = Ragunnesi Sentinel\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = [[imdb:nm1477053|Rachel Atkins]]\u003cref name=\"Carnevale Prologue Bilibili\u003eBilibili:[https://www.bilibili.com/video/BV1uMk1YWEAd 《鸣潮》2.0动画短片 | 狂欢序章]\u003c/ref\u003e\n|voiceCN          = [https://mzh.moegirl.org.cn/姜贺 Jiang He ({{Lang|mini=1|zh=姜贺}})]\u003cref name=\"Carnevale Prologue Bilibili/\u003e\n|voiceJP          = {{w|Naomi Shindō|Shindō Naomi ({{Lang|mini=1|ja=进藤尚美}})}}\u003cref name=\"Carnevale Prologue Bilibili/\u003e\n|voiceKR          = [https://namu.wiki/w/엄현정 Eom Hyun-jung ({{Lang|mini=1|ko=엄현정}})]\u003cref name=\"Carnevale Prologue Bilibili/\u003e\n|status           = Deceased\u003cbr\u003e Sacrificed themselves to revive [[Cartethyia]]}}\n{{Lang|'''Imperator'''|zh=}} is the [[Sentinel]] of [[Rinascita]]. \u003c!--They were one of the Sentinels created by the [[Homeland Civilization]] to defend Solaris-3 from the threat of the [[Threnodian|Threnodians]], and delivered by an [[Exostrider]] to Solaris-3.--\u003e They wield the power to split and manipulate space. Their form was originally that of a Pegasus, but they became a hippocampus after being corrupted by and merging with [[Leviathan]], the [[Rinascita]]n Threnodian. \n\n==Overview==\nThe [[Carnevale]], the grandest celebration in [[Ragunna]], is held as a tribute to Imperator and Their deeds. It is said that Imperator will manifest at the peak of the Carnevale and crown the finest performer with the \"Laurel\", which grants the bearer the rare opportunity to commune with the Sentinel and receive Their wisdom. \n\nIt is at odds with the [[Threnodian]] [[Leviathan]].\n\n==Quests and Events==\n{{Quests and Events}} \n\n==Gallery==\n\u003cgallery\u003e\nFile:Wuthering Waves Story Cinematics - Enlightened One\nFile:Imperator true form 01.png|Imperator original form as a Pegasus.\nFile:Imperator true form 02.png\n\u003c/gallery\u003e\n\n==Trivia==\n*There has been several mentions thus far that the people of [[Ragunna]] may be incorrect about Imperator's identity.\n**[[Ariosto]], an undercover [[Black Shores]] agent stationed in Ragunna, states that the statues in the city do not match the description of Imperator in the their records.\n**Upon inspecting a tablet in the Seminary of the Forgotten, [[Phoebe]] comments that the figure of the Sentinel doesn't quite look like the statues. \u003cref\u003e[[Veils Off in Sun or Shadow]]\u003c/ref\u003e\n**It is revealed in [[The Maiden, The Defier, The Death Crier]] that Imperator's original form was that of a Pegasus, and it only assumed the Sea-Horse form after merging with [[Leviathan]] during the First Dark Tide.\n===Etymology=== \n*\"Imperator\" was a title used in the Roman Republic, originally granted temporarily to victorious generals before later being used as part of an Emperor's titulature. It is derived from the word ''imperare'', meaning 'to order, to command'.\n\n==Other Languages==\n{{Other Languages\n|en   = Imperator\n|zhs  = 英白拉多\n|zht  = 英白拉多\n|ja   = インペラトル\n|ko   = 임페라토르\n|es   = Imperator\n|fr   = Imperator\n|de   = Imperator\n|pt   = Imperator\n}}\n\n==References==\n\n\u003creferences /\u003e\n[[Category:Deceased Characters]]\n[[zh:英白拉多]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "4.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "7"
+    }
+  ]
+}

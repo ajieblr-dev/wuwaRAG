@@ -1,0 +1,44 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:23Z",
+  "title": "Ghost Hounds",
+  "pageid": 897,
+  "wikitext": "{{Stub}}\n{{Faction Infobox\n|leader  = Calcharo\n|founder = Calcharo\n|nation  = New Federation\n}}\nThe '''Ghost Hounds''' are a multinational mercenary group rooted in the [[New Federation]]'s [[Lawless Zone]], annexed from the gang known as \"the Underdogs\", both led by Calcharo.\u003cref\u003eCalcharo's Character Story: [[Calcharo/Backstory#Character Stories|Beast Instinct]]\u003c/ref\u003e\n\n==Notable Members==\n{| class=\"article-table\"\n!Icon!!Name!!Position\n|-\n|[[File:Resonator Calcharo.png|50px]]\n|[[Calcharo]]\n|Leader and founder\n|}\n\n==Other Languages==\n{{Other Languages\n|en   = Ghost Hounds\n|zhs  = 幽灵猎犬\n|ja   = 幽霊猟犬（ゴーストハウンド）\n|ko   = 유령사냥단\n}}\n\n== Trivia ==\n\n* [[Galbrena]] was once invited by Calcharo to join Ghost Hounds, but she declined.\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Faction Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Members",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

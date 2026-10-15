@@ -1,0 +1,114 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:17Z",
+  "title": "Desorock Highland",
+  "pageid": 4972,
+  "wikitext": "{{Stub}}\n{{Location Tabs|Map:Desorock Highland}}\n{{Location Infobox\n|title  = Desorock Highland\n|image  = \u003cgallery\u003e\nDesorock Highland.png|In-Game\nDesorock Highland Map.png|Map\n\u003c/gallery\u003e\n|map    = Solaris-3\n|type   = Region\n|nation = Huanglong\n}}\n{{Description|Desorock Highland, once a fertile river valley, was the source of many streams that nourished the lands downstream. After the onset of the Waveworn Phenomenon, abnormal weather patterns drained most of these water sources, leaving the lake area dry and giving rise to Tacet Fields and TDs.|Flocks of the Extraordinary II}}\n'''Desorock Highland''' is a region in [[Huanglong]]. The region is in northwestern Jinzhou and borders the [[Central Plains]] and [[Norfall Barrens]]. The area features a frontline where many battles against TDs were fought, and there are multiple military bases and exile camps in the region. \n\n==Areas== \n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" | Name\n! Image\n! Description\n|- id=\"Camp Overwatch\"\n| [[Camp Overwatch]]\n| [[File:Camp Overwatch.png|180px]]\u003cbr /\u003e\n| The Midnight Rangers' frontline base near [[Norfall Barrens]].\n|- id=\"Misty Coast\"\n| [[Misty Coast]]\n| [[File:Misty Coast.png|180px]]\u003cbr /\u003e\n| The Eastern side of region, littered with exiles. \n|- id=\"Rearguard Base\"\n| [[Rearguard Base]]\n| [[File:Rearguard Base.png|180px]]\u003cbr /\u003e\n| A Midnight Ranger base on the south side of Desorock Highland, closer to Jinzhou.\n|- id=\"Withering Frontline\"\n| [[Withering Frontline]]\n| [[File:Withering Frontline.png|180px]]\u003cbr /\u003e\n| A large Tacet Field, home to the [[Thundering Mephis]].\n|}\n==Quests==\n{{Quest by Category List|Desorock Highland}}\n\n==Exploration Report==\n===Flocks of the Extraordinary I===\nUnlocked by reaching 50% exploration.\n\n{{Transclude|Flocks of the Extraordinary I|Text|main=1}}\n\n===Flocks of the Extraordinary II===\nUnlocked by reaching 100% exploration.\n\n{{Transclude|Flocks of the Extraordinary II|Text|main=1}}\n\n==Notable Features==\nDesorock Highland is home to the [[Torn Pages from Desorock Highland]] series. The [[Gallery#Sceneries|Viewpoint]] \"Raindrops of the Past\" is found on the southern edge of the Withering Frontline.\n\n===Domains===\n* [[Perspective Bender]]\n\n===Tacet Fields===\n* [[Tacet Field: Desorock Highland I]]\n* [[Tacet Field: Desorock Highland II]]\n\n===Bosses===\n====Overlord Class====\n*{{Enemy|Thundering Mephis}}\n*{{Enemy|Impermanence Heron}}\n\n===Resources===\n*{{Item|Umbragricus}}\n\n==Gallery==\n\u003cgallery\u003e\nRaindrops of the Past Location.png|\"Raindrops of the Past\" Location\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Desorock Highland\n|zhs  = 荒石高地\n|zht  = 荒石高地\n|ja   = {{Rubi|石崩|いしくず}}れの{{Rubi|高地|こうち}}\n|ko   = 잡석 고지\n|es   = Tierras altas de Desoroca\n|fr   = Hauts des roches\n|de   = Hochland Desorock\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Flocks of the Extraordinary I",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Flocks of the Extraordinary II",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Domains",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tacet Fields",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.3",
+      "index": "9"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Overlord Class",
+      "number": "4.3.1",
+      "index": "10"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.4",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "5",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "14"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "15"
+    }
+  ]
+}

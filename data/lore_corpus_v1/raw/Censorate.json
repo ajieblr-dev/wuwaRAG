@@ -1,0 +1,30 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:14Z",
+  "title": "Censorate",
+  "pageid": 42215,
+  "wikitext": "{{Stub}}\n{{Faction Infobox\n|title        = Censorate\n|image        = \n|nation       = Huanglong\n|base         = [[Mingting]]\n|founder      = \n|leader       = \n|ally         = \n|enemy        = \n}} \nThe '''Censorate''' is one of Huanglong's three judicial bodies. It holds the authority to jointly try major cases and wields significant supervisory power, a duty summarized as \"to probe evil and maintain discipline.\" Its officials are generally titled Censors, while those stationed or assigned temporarily in the six cities are called Investigating Censors.\n\u003c!--\n==Members== \n===Former Members===\n* [[Liang Dongyuan]] \n* [[Qiuyuan]] (senior agent) \n--\u003e\n==Other Languages ==\n{{Other Languages\n|en   = Censorate\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|fr   = \n|de   = \n|es   = \n|th   = \n|pt   = \n}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Faction Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

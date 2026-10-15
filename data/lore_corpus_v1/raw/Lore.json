@@ -1,0 +1,37 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:35Z",
+  "title": "Lore",
+  "pageid": 1529,
+  "wikitext": "{{Terminology Infobox\n|type         = Wuthering Waves\n}}'''Lore''' refers to the story, world-building, and other information about the in-game universe of [[Wuthering Waves]].\n\n==World History==\n{{Main|Timeline}}\nThe above article is a compilation of events in the world of [[Solaris-3]]'s history.\n\n==Terminology==\n{{Hatnote|This is based according to the classification in [https://wutheringwaves.kurogames.com/en/main/#lore Wuthering Waves Official Page: Lore]}}\n*[[Solaris-3]]\n*[[Waveworn Phenomenon]]\n*[[The Lament]]\n*[[Tacet Field]]\n*[[Resonator]]\n*[[Tacet Discord]]\n*[[Echoes]]\n*[[Sentinel]]\n*[[Threnodian]]\n*[[Reverberation]]\n*[[Remnant]]\n\n==See Also==\n*[[:Category:Lore]]\n\n==Navigation==\n{{Lore Navbox}}\n\n[[Category:Lore| ]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "World History",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Terminology",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

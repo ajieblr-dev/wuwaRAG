@@ -1,0 +1,44 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:25:17Z",
+  "title": "Xuanfang Wardens",
+  "pageid": 43220,
+  "wikitext": "{{Stub|gallery, documents, members}}\n{{Faction Infobox\n|title        = Xuanfang Wardens\n|image        = \u003cgallery\u003e\nXuanfang Wardens KV.jpg|Key Art\n\u003c/gallery\u003e\n|nation       = Huanglong\n|region       = Mengzhou\n|leader       = Qiuhong\n}}{{Quote|East to West, the Peaks we keep! South to North, our guard won't cease!}}\nThe '''Xuanfang Wardens''' are the primary military force of the frontier region of Xuanfang within the province of [[Mengzhou]]. They stand as the final bulwark protecting the Hold, alongside the Autopuppets. Legally, their power is derived from the Ministry of War established by Mengzhou City Hall. Among their ranks serve the Xuan Watchers, an elite formation forged to confront only the most formidable Tacet Discords. The Wardens and the Xuan Triad are led by Warden Commander [[Qiuhong]].\n\nThe Xuan Paragon [[Qingxiao]] is seldom seen within the Hold, yet whenever calamity looms, she always appears to stand as Xuanfang's protector. In response to the disappearances occurring throughout the Hold, Yangyang, an Outrider from Jinzhou, has been temporarily transferred to the Wardens. Serving as one of the Xuan Watchers, she lends her expertise in support of the Land of Xuanfang.\n==Personnel==\n===Notable Personnel===\n{| class=\"article-table\"\n!Icon!!Personnel!!Position\n|-\n|[[File:Resonator Qingxiao.png|50px]]\n|Qingxiao\n|Paragon\n|-\n|[[File:NPC Qiuhong.jpg|50px]]\n|Qiuhong\n|Warden Commander, [[Unclaimed Rafter Kite]] Collector\n|-\n|[[File:NPC Liangyu.png|50px]]\n|Liangyu\n|Xuan Watcher (Xuan Triad)\n|-\n||[[File:Resonator Yangyang Xuanling.png|50px]]\n|Yangyang: Xuanling\n|Temporary Xuan Watcher (Xuan Triad)\n|}\n===Other Personnel===\n{| class=\"article-table\"\n!Personnel!!Position\n|-\n|[[Liaoxun]]\n|Training Captain\n|-\n|[[Wuxie]]\n|Warden Captain\n|-\n|[[Chiwen]]\n|Xuanfang Warden/Unclaimed Rafter Kite Collector\n|-\n|Xuanjie\n|Xuanfang Warden\n|-\n|Jingwan\n|Xuanfang Warden\n|-\n|Kaoshi\n|Xuanfang Warden\n|-\n|Luchong\n|Xuanfang Warden\n|-\n|Zhengzhuang\n|Xuanfang Warden\n|-\n|Chijue\n|Xuanfang Warden\n|-\n|Wenrong\n|Xuanfang Warden\n|-\n|Yanyun\n|Xuanfang Warden\n|-\n|Gengjing\n|Xuanfang Warden\n|-\n|Mingzhong\n|Xuanfang Warden\n|}\n\u003c!--\n===Other Known Personnel===\n{{NPCs by Category List\n|Xuanfang Wardens\n|header = Xuanfang Wardens\n}}--\u003e\n===Former Personnel===\n{| class=\"article-table\"\n!Personnel !!Position!!Status!!Last Active\n|-\n|Duzhong\n|Xuan Watcher\n|Deceased\n|A few days before [[Chapter IV]]\n|-\n|Qingzhi\n|Xuan Watcher (Xuan Triad)\n|Deceased\n|A few days before [[Chapter IV]]\n|-\n|Yanlang\n|Xuanfang Warden (Xuan Triad)\n|Deceased\n|[[The Wind Before the Storm]]\n|-\n|Mingyu\n|Xuanfang Warden\n|Deceased\n|[[The Wind Before the Storm]]\n|}\n\u003c!--\n==Related Documents==\n*[[insert documents here]]\n\n==Gallery==\n=== Videos===\n\u003cgallery\u003e\nWuthering Waves Story Cinematics - Battle Beneath the Crescent\n\u003c/gallery\u003e\n\n==Trivia==\n* \n\n==References==\n\u003creferences /\u003e\n--\u003e\n\n==Navigation==\n{{Faction Navbox}}\n[[zh:定玄卫]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Personnel",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Notable Personnel",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Other Personnel",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Former Personnel",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "2",
+      "index": "5"
+    }
+  ]
+}

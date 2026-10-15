@@ -1,0 +1,86 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:49Z",
+  "title": "Retroact Rain",
+  "pageid": 7986,
+  "wikitext": "{{Terminology Infobox\n|title        = Retroact Rain\n|image        = Retroact Rain.png\n|type         = Lore\n}}\n'''Retroact Rain''' is a form of [[Waveworn Phenomenon]].\n\n==Overview==\nRetroact Rain consists of condensed [[Remnant]] Energy from the [[Etheric Sea]].\u003cref name=\"ACT5\"\u003e{{Quest|Rewinding Raindrops}}\u003c/ref\u003e\u003cref name=\"ACT6\"\u003e{{Quest|Grand Warstorm}}\u003c/ref\u003e Since Remnant Energy records events across time and space, the rain conjures illusions of past events to those exposed to it, and a stronger emotional connection to the affected area leads to experiencing more intense hallucinations.\u003cref name=\"ACT6\" /\u003e\n\nWhile usually a harmless phenomenon in itself, the Remnant Energy makes it a magnet for [[Tacet Discord]]s, and the power of a [[Ovathrax|Threnodian]] can greatly enhance the effects of the rain.\u003cref name=\"ACT6\" /\u003e\n\nThe frequencies of those who die in the Retroact Rain will be trapped in the rain.\n\n===Phantoms===\nPhantoms refer to the projections conjured by the Retroact Rain. When it rains across a large area, it can project memories of multiple people at once, and in a battleground such as [[Jinzhou]], this would result in thousands of Phantoms of dead soldiers and Tacet Discords. During Threnodian-enhanced Retroact Rain, these Phantoms are given a physical form and the ability to inflict harm on real people.\u003cref name=\"ACT6\" /\u003e\n\nFor someone to be projected as a Phantom, they must have had prior exposure to the rain and a deep connection to the affected area.\u003cref name=\"ACT6\" /\u003e\n\n===Stages===\nBefore it forms, Retroact Rain goes through three stages:\n*'''First Stage:''' The phenomenon appears identical to normal rain.\u003cref name=\"ACT5\" /\u003e\n*'''Second Stage:''' Water droplets float completely still in midair, as if time is frozen.\u003cref name=\"ACT5\" /\u003e\n*'''Third Stage:''' Water droplets fall upwards, as if in reverse.\u003cref name=\"ACT6\" /\u003e\n\n==History==\n===Threnodian-Enhanced Retroact Rain===\nThe first recorded instance of Threnodian-enhanced Retroact Rain ever happening was during the [[Battle Beneath the Crescent]], fought against [[Ovathrax]] in the [[Norfall Barrens]], three years prior to the start of the story.\u003cref name=\"ACT5\" /\u003e\n\nA second case of Threnodian-enhanced Retroact Rain occurs again in the [[Main Quests|Main Quest]] [[Chapter I]]: Act VI - ''[[Grand Warstorm]]'', again in the Norfall Barrens as well as [[Desorock Highland]].\u003cref name=\"ACT6\" /\u003e\n\n===Research into Retroact Rain===\nThere have been many independent studies on Retroact Rain, most of which were conducted by researches who wanted to relive a previous experience or reunite with their loved ones. However, a group of [[Court of Savantae]] researchers expelled by the Committee had attempted a large scale \"Artificial Retroactive Rain\" project. Funded by an unnamed male [[Fractsidus]] Overseer, the researchers built a remote facility where they attempted to recreate a 'divine miracle' that they had witnessed. The experiment was never completed, and the researchers all vanished, having been devoured by the [[Mech Abomination]] they created.\u003cref name=\"ACT5\" /\u003e\n\nFollowing the Battle Beneath the Crescent, videos recorded by the [[Midnight Rangers|Midnight Rangers']] [[Geshu Lin|previous General]] has allowed other nations to to speed up their research on defense against the Retroact Rain. In addition to this, an antidote has since then been developed by the [[Huaxu Academy|Academy]] for the Retroact Rain, minimizing the effects of the hallucinations.\u003cref name=\"ACT5\" /\u003e\n\n===Known Affected Areas===\n*[[Desorock Highland]]\n*[[Norfall Barrens]]\n*[[Nostalgia Isle]]\n\n==Trivia==\n*[[Dripsnail]]s are usually spotted after Retroact Rains. When their shells are crushed, nearby creatures will hear a sound similar to the rain.\u003cref\u003e[[Dripsnail]]\u003c/ref\u003e\n*While certain manifestations within the [[Dark Tide]] in [[Rinascita]] mirror the effects of Retroact Rain, they have not been explicitly classified as such. It remains unconfirmed whether these instances represent a distinct phenomenon or are simply the same occurrence under a different regional designation.\n\n==Other Languages==\n{{Other Languages\n|en      = Retroact Rain\n|zhs     = 溯回雨\n|zht     = 溯回雨\n|ja      = 遡徊雨\n|ko      = 역행비\n|es      = Lluvia retroactiva\n|fr      = Pluie rétroactive\n|de      = Retroact-Regen\n|th      = \n|pt      = \n}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}\n\n[[Category:Lore]]\n[[Category:Terminology]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Phantoms",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Stages",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Threnodian-Enhanced Retroact Rain",
+      "number": "2.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Research into Retroact Rain",
+      "number": "2.2",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Known Affected Areas",
+      "number": "2.3",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "11"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:25:02Z",
+  "title": "Terminal",
+  "pageid": 1058,
+  "wikitext": "{{Stub|Information on Black Shore's terminal and Rabelle Cassette.}}\n{{Terminology Infobox\n|image        = Rover's Terminal.png\n|title        = Terminal\n|caption      = Rover's Unique Terminal\n|type         = Combat System\n|type2        = Lore\n}}\n'''Terminal''' is a device used by [[Resonator|Resonators]]. Each Terminal has various functions that aid Resonators in exploration, navigation and collection in [[Solaris-3]]. Terminals vary in appearance and function depending on the nation, as can be visually seen in the difference between the Terminals of Resonators from [[Huanglong]], [[Rinascita]], [[The Black Shores]] and the [[Fractsidus]]. The [[Rover]] carries a unique version of the Terminal that can be upgraded. \n\n==Functions==\nThe primary function of the Terminal is to collect and record [[Reverberation|Reverberations]]. These Reverberations are turned into [[Echoes]] by the Terminal, which can then be directed as needed. The [[Data Bank]] module of the Terminal allows Resonators to replicate the combat abilities of these Echoes in battle. Additionally, some Echoes enable Resonators to briefly transform into the shapes of the [[Tacet Discord|Tacet Discords]] that are stored. \n\nIt also has a [[Utility]] module, with features such as Grapple, Sensor, and Levitator. \n\nEach Terminal carries a unique Terminal ID which allows the Rover to unlock portions of the Map via Huanglong's Nexus Towers and Rinascita's Genesis Nexus.  \n\n==Pangu Terminal==\n{{Quote|\"... A celestial being descended, commanding the Quiankun's boundless (universe) power. Assuming mortal form, they condensed the primordial essence, creating Pangu. Cleaving heaven and earth apart, they aligned the celestial and terrestrial. Their radiance encompassed the four corners… Thus began the illustrious annals of Huanglong, as provinces were first demarcated.”\n|Yangyang, ''Comprehensive Mirror for Historians''\n}}\n[[File:Pangu Terminal.png|thumb|213x213px|The Pangu Terminal unique to [[Huanglong]]]]\nThe '''Pangu Terminal''' is unique to the nation of [[Huanglong]] and is studied by the [[Huaxu Academy]] of Jinzhou. The Rover's Terminal is currently configured to the upgrades from this iteration of the Terminal.\n\nThis terminal features a gourd-shaped design with a chrome finish. Its body is adorned with various design elements in gold, including concentric waves at its base and a singular white motif reminiscent of a ''loong''.\n\nIn [[Jinzhou]], the Utility Function of the Terminal has upgraded modules with regards to security and communication. An example of such module is used for '''Access Pass Authorization,''' upgraded by [[Sanhua]]. This contains the contact information for all public services, such as Patrol Stations, and provides unlimited access to all regions in Jinzhou.\n\n==Reserved Terminal==\n[[File:Reserved Terminal.png|thumb|213x213px|The Reserved Terminal unique to [[Rinascita]]]]\nThe [[Montelli Family]] earned recognition for their pursuit of Echoes beyond [[Rinascita]]’s borders—Echoes not bound by the Genesis Nexus, which was provided by the Sentinel Imperator. This led to the development of Reserved Terminals, which evolved from a basic Terminal discovered in the Montellis' early trade dealings. Their investment in this technology was driven by the need for Echoes independent of the Genesis Nexus, capable of seafaring and defending against Tacet Discord encounters in open waters—an area where Common Echoes falter due to their inability to travel beyond the Genesis Nexus' range.\n\nIn the early years, the family patriarch, [[Francesco Montelli]], learned to modify Terminals during his ventures in the [[New Federation]]. Unlike other regions where Terminals were freely traded, Rinascita’s Terminals were strictly controlled by the Order. The Montellis, however, developed a modified lantern-type Terminal that appeared ornamental but contained advanced tech modules. These modifications allowed the family to supply Terminals to Resonators at fair prices, effectively breaking the Order's monopoly.\n\nOnly a select few Resonators are permitted to carry a Reserved Terminal and while it is still a sensitive subject in public, at least the people are free to explore in the wild and gather Echoes as they please. Guests of the Montelli family are granted permission to bring their Reserved Terminal into Rinascita.\n\n==Frequency Cassette Recorder==\nThe '''Frequency Cassette Recorder''' is unique to the nation of [[Lahai-Roi]] and is used by members of the [[Spacetrek Collective]], storing a '''Rabelle Cassette.''' The owner must have their Frequency burned into their Rabelle Cassette via the Burning Room of the [[Spacetrek Collective (Area)|Spacetrek Collective]]. \n\nAccording to their description, the materials used to make them date back to the [[Exostrider]], granting the owner partial resistance to [[Void Storm|Void Storms]]. [[File:Frequency Cassette Recorder.png|thumb|213x213px|The Frequency Cassette Recorder unique to [[Lahai-Roi]]]]\n\n==Other Languages==\n{{Other Languages\n|en   = Pangu Terminal\n|zhs  = 盘古终端\n|zht  = 盤古終端\n|ja   = 盤古デバイス\n|ko   = 반고 단말기\n|es   = Terminal Pangu\n|fr   = Borne de Pangu\n|de   = Pangu Terminal\n|th   = \n|pt   = \n}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Functions",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Pangu Terminal",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Reserved Terminal",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Frequency Cassette Recorder",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

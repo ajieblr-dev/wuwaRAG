@@ -1,0 +1,128 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:58Z",
+  "title": "Tacet Discord",
+  "pageid": 1008,
+  "wikitext": "{{Stub}}\n{{Terminology Infobox\n|title        = Tacet Discord\n|type         = Lore\n|image        = Tacet Discord.jpg\n}}\n\n'''Tacet Discords''' (abbreviated as TDs) are sentient beings formed by the residual chaotic frequency energy under the [[Waveworn Phenomenon]] with ever-changing, amorphous forms. They possess {{Lang|'''Tacet Cores'''|zh=声核|lit=Sound Nucleus}}, also known by the academic community as {{Lang|[[Reverberation]] Bodies|zh=残响体}} and instinctively feed on other frequencies to maintain stability and evolve.\n\nThese creatures mimic the abilities, shapes, and behaviors of others and are influenced by the types of frequency they consume.\n\n==\"Archive: Tacet Discord\"==\n===[Entry]===\nTacet Discord\n\n===[Known Types]===\nWhisperin, Howler, Tranquilite, Clamorling, and Staticoid\n\n===[Overview]===\nEver since the emergence of the [[Waveworn Phenomenon]], humanity has been fixated on researching the enigma known as the Tacet Discords.\n\nThese entities are seen as sources of destruction and embodiments of chaotic energy. Despite extensive study, our understanding remains incomplete due to a lack of information on their composition.\n\nAs time passes, this gap in knowledge will only widen, resulting in the gradual decay and eventual annihilation of these discords. To sustain itself, the Tacet Discords possess an instinctual drive to consume and merge with other frequencies, in a constant battle to maintain its existence.\n\n===[Appendix: Echoes]===\nUpon its demise, the frequencies of a Tacet Discord will not immediately vanish. Instead, they will slowly decay over time, allowing for their capture and utilization.\n\nOnce enough frequencies have been stored, they can be harnessed to replicate the abilities of the original Tacet Discord.\n\nThis remaining energy, capable of emulating the defeated entity's power, is known as an Echo - a valuable asset that must be carefully collected and preserved in our laboratory archives.\n\n\u003c!--==Classes==\n===Calamity===\n===Overlord===\n===Elite===\n===Common===--\u003e\n\n==Mimicry Classification ==\n===Whisperin\u003cref\u003eAlso called Murmurin\u003c/ref\u003e===\nThese Tacet Discords consume the frequencies of humanity to mimic their body shape.\n \nTheir fully formed Tacet Cores appear as following.\n{{Card|FF Whisperin Core}}\n===Howler===\nThese Tacet Discords consume the frequencies of flora and fauna to mimic wildlife.\n\nTheir fully formed Tacet Cores appear as following.\n{{Card|FF Howler Core}}\n===Tranquilite===\nThese Tacet Discords consume the frequencies of earth and sometimes other natural inorganic matter (non-man-made). They often mimic rocks and crystal formations but sometimes appear plant-like.\n===Staticoid===\nThese Tacet Discords attach themselves to man-made objects and are sometimes described as parasites of the objects they're attached to.\n===Clamorling===\nNo description of this class has been given in the current version of ''Wuthering Waves''.\n\nTheir fully formed Tacet Cores appear as following.\n{{Card|FF Polygon Core}}{{Card|FF Mech Core}}\n\n==Ranks==\n#[[Dreamless]] - A Tacet Discord directly birthed by [[Ovathrax]] for its protection, created by cannibalizing the frequencies of the Crownless.\n#[[Crownless]] - Harbinger of the Scourge of War (Threnodian [[Ovathrax]]).\n##[[Tempest Mephis]] - Vanguard of the Crownless\n##[[Thundering Mephis]] - Vanguard of the Crownless\n\n==Trivia==\n*According to the allegorical story of [[Qichi Village]] that [[Scar]] made for Rover, the \"'''white lambs'''\" might represent the Tacet Discords. It is also implied that the TDs are originally sapient humans, but turned into monsters by [[The Shepherd|the mysterious shepherd]].\n\n==Other Languages==\n{{Other Languages\n|en     = Tacet Discord\n|zhs    = 残象\n|zht    = 殘象\n|ja     = 残像\n|ko     = 잔상\n|es     = Disonancia Tácita\n|fr     = Tacet Discord\n|de     = Tacet-Dissonanz\n|th     = \n|pt     = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Enemy Navbox}}\n{{Lore Navbox|Terminology}}\n\n[[Category:Terminology]]\n[[Category:Lore]]\n[[Category:Tacet Discord]]\n\n[[ru:Тацетные дискорды]]\n[[zh:残象]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "\"Archive: Tacet Discord\"",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "[Entry]",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "[Known Types]",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "[Overview]",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "[Appendix: Echoes]",
+      "number": "1.4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mimicry Classification",
+      "number": "2",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Whisperin\u003csup\u003e\u003cspan\u003e[\u003c/span\u003e1\u003cspan\u003e]\u003c/span\u003e\u003c/sup\u003e",
+      "number": "2.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Howler",
+      "number": "2.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tranquilite",
+      "number": "2.3",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Staticoid",
+      "number": "2.4",
+      "index": "10"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Clamorling",
+      "number": "2.5",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Ranks",
+      "number": "3",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "14"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "15"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "16"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "17"
+    }
+  ]
+}

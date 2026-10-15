@@ -1,0 +1,93 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:15Z",
+  "title": "Central Plains",
+  "pageid": 5190,
+  "wikitext": "{{Location_Infobox\n|title  = Central Plains\n|image  = Central Plains.png\n|map    = Solaris-3\n|type   = Region\n|nation = Huanglong\n}}\nThe '''Central Plains''' is a region in [[Huanglong]].   \n\n==Areas==\n\u003c!-- add descriptions --\u003e\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Gubei Pass\"\n|[[Gubei Pass]]\n|[[File:Gubei Pass.png|180px]]\u003cbr /\u003e\n|A road lined with various exile camps. \n|- id=\"Fireflies Sea\"\n|[[Fireflies Sea]]\n|[[File:Fireflies Sea.png|180px]]\u003cbr /\u003e\n|A large lake with several islands and an exile camp at its centre. \n|- id=\"Loong's Gaze Suburbs\"\n|[[Loong's Gaze Suburbs]]\n|[[File:Loong's Gaze Suburbs.png|180px]]\u003cbr /\u003e\n|A hilly area with caves leading towards the Gorges of Spirits.\n|- id=\"Stone Pile Plain\"\n|[[Stone Pile Plain]]\n|[[File:Stone Pile Plain.png|180px]]\u003cbr /\u003e\n|A dangerous Tacet Field that suddenly appeared.\n|- id=\"Taoyuan Vale\"\n|[[Taoyuan Vale]]\n|[[File:Taoyuan Vale.png|180px]]\u003cbr /\u003e\n|A beautiful village nestled amongst a cliffside tree and a flowing river.\n|- id=\"Tiderise Cliff\"\n|[[Tiderise Cliff]]\n|[[File:Tiderise Cliff.png|180px]]\u003cbr /\u003e\n|A large cliff with a lighthouse stretching into the sky above the beach.\n|- id=\"Tower of Adversity\"\n|[[Tower of Adversity (Area)|Tower of Adversity]]\n|[[File:Tower of Adversity.png|180px]]\u003cbr /\u003e\n|A combat project by Huaxu Academy, repurposed from an abandoned experiment site once used by the Court of Savantae.\n|- id=\"Qichi Village\"\n|[[Qichi Village]]\n|[[File:Qichi Village.png|180px]]\u003cbr /\u003e\n|A former village in the Central Plains where a tragedy occurred.\n|- id=\"Xiehua Village\"\n|[[Xiehua Village]]\n|[[File:Yeming Slide.png|180px]]\u003cbr /\u003e\n|A small village overlooking the Fireflies Sea.\n|}\n\n==Quests==\n{{Quest by Category List|Central Plains}}\n\n==Exploration Report==\n===Lonely SOL-3: Central Plains I===\n\n*Unlocked by reaching 50% exploration.\n\n{{Transclude|Lonely SOL-3: Central Plains I|Text|main=1}}\n\n===Lonely SOL-3: Central Plains II===\n\n*Unlocked by reaching 100% exploration.\n\n{{Transclude|Lonely SOL-3: Central Plains II|Text|main=1}}\n\n==Notable Features ==\n===Challenges===\n*[[Forgery Challenge: Marigold Woods]]\n*[[Parallel Perception]]\n*[[Tacet Field: Central Plains]]\n*[[Tower of Adversity]]\n===Bosses===\n*{{Enemy|Scar/Boss}}\n*{{Enemy|Crownless}}\n*{{Enemy|Tempest Mephis}}\n===Resources===\n*{{Item|Angelica}}\n*{{Item|Bittberry}}\n*{{Item|Cliffrecluse}}\n*{{Item|Dewvetch}}\n*{{Item|Dripsnail}}\n*{{Item|Erodorchid}}\n*{{Item|Floramber}}\n*{{Item|Lemongrass}}\n*{{Item|Noctemint}}\n*{{Item|Pearl Leaf}}\n*{{Item|Pecok Flower}}\n*{{Item|Perilla}}\n*{{Item|Waterlamp}}\n\u003c!--\n==Gallery==\n\u003cgallery\u003e\n\n\u003c/gallery\u003e\n== Trivia ==\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Central Plains\n|zhs  = 中曲台地\n|zht  = 中曲臺地\n|ja   = 中部台地\n|ko   = 중부 평원\n|es   = Llanuras Centrales\n|fr   = Plaine centrale\n|de   = Zentralebenen\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[zh:中曲台地]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Lonely SOL-3: Central Plains I",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Lonely SOL-3: Central Plains II",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.3",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "12"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:41Z",
+  "title": "Norfall Barrens",
+  "pageid": 5025,
+  "wikitext": "{{Location Infobox\n|title1    = Norfall Barrens\n|image     = Crownless statue.png\n|world_map = Solaris-3\n|type      = Region\n|nation    = Huanglong\n}}\n'''Norfall Barrens''' is a region in [[Huanglong]]. It is a dangerous area with hostile Tacet Discords. The area consists of a narrow passageway from [[Desorock Highland]] reaching down into the central area of the barrens. It contains the titanic [[Ovathrax]] statue along with many floating buildings. \n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n! Image\n! Description\n|- id=\"Norfall Valley\"\n|[[Norfall Valley]]\n|[[File:Norfall Valley.png|180px]] \u003cbr /\u003e\n|A pass from which the rest of Norfall Barrens can be accessed.\n|- id=\"Suspended Ruins\"\n|[[Suspended Ruins]]\n|[[File:Suspended ruins.png|180px]]\u003cbr /\u003e\n|Ruins floating in the air, disturbed by the Threnodian.\n|}\n\n==Quests==\n{{Quest by Category List|Norfall Barrens Quests}}\n\n==Exploration Report==\n===Outrider Squad's Norfall Valley Investigation Logs I===\n\n*Unlocked by reaching 50% exploration.\n{{Transclude|Outrider Squad's Norfall Valley Investigation Logs I|Text|main=1}}\n\n===Outrider Squad's Norfall Valley Investigation Logs II===\n\n*Unlocked by reaching 100% exploration.\n{{Transclude|Outrider Squad's Norfall Valley Investigation Logs II|Text|main=1}}\n\n==Notable Features==\n===Bosses===\n*{{Enemy|Dreamless}}\n\n===Resources===\n*{{Item|Angelica}}\n*{{Item|Chromeshell}}\n*{{Item|Cliffrecluse}}\n*{{Item|Dewvetch}}\n*{{Item|Edodes}}\n*{{Item|Erodorchid}}\n*{{Item|Floramber}}\n*{{Item|Indigoite}}\n*{{Item|Noctemint}}\n*{{Item|Pearl Leaf}}\n*{{Item|Perilla}}\n*{{Item|Umbragricus}}\n*{{Item|Violet Coral}}\n*{{Item|Waterlamp}}\n\u003c!--\n==Gallery==\n\u003cgallery\u003e\n\n\u003c/gallery\u003e\n==Trivia==\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Norfall Barrens\n|zhs  = 北落野\n|zht  = 北落野\n|ja   = {{Rubi|北落野原|ほくらくのはら}}\n|ko   = 북락 광야\n|es   = Baldíos de Norfall\n|fr   = Plaine de Nor-Chute\n|de   = Norfall Barrens\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Outrider Squad's Norfall Valley Investigation Logs I",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Outrider Squad's Norfall Valley Investigation Logs II",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

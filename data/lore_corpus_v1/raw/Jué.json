@@ -1,0 +1,177 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:32Z",
+  "title": "Jué",
+  "pageid": 1159,
+  "wikitext": "{{CustomTabs\n|tab1 = NPC\n|tab2 = Boss\n|tab3 = Echo\n}}\n{{NPC Infobox\n|name             = Jué\n|image            = Jue_HD_4K.png\n|type             = Quest\n|birthplace       = Huanglong\n|nation           = Huanglong\n|group            = \n|affiliation      = Sentinels\n|title            = Jinzhou Sentinel\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = [[imdb:nm0264525|Lourdes Faberes]]\u003cref name='bili' /\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/黄莺 Huang Ying ({{zh|黄莺}})]\u003cref name='bili'\u003eBilibili: [https://www.bilibili.com/video/BV1ji421e7nM/ 《鸣潮》动画短片 | 今昔]\u003c/ref\u003e\n|voiceJP          = {{w|Ayumi Tsunematsu|Tsunematsu Ayumi ({{Lang|mini=1|ja=恒松 あゆみ}})}}\u003cref name='bili' /\u003e\n|voiceKR          = [https://namu.wiki/w/이소영(성우) Lee So-young ({{Lang|mini=1|ko=이소영}})]\u003cref name='bili' /\u003e\n|Appointed Resonator=Jihnsi}}\n{{Quote|\"I am Jué the Sentinel, the guide of Jinzhou's civilization. Everything about Jinzhou has been stored in my mind. '''You, Rover, are my Arbiter, and my former master.''' In bygone days, I stood by your side as you established the Jinzhou city. You tasked me with safeguarding its prosperity.”\n|Jué\n}}\n{{Lang|'''Jué'''|zh=角|zh_tl=horn}} is the [[Sentinel]] of [[Jinzhou]] and one of [[Huanglong]]'s seven Sentinels, taking the form of a {{Lang|''Loong''|zh=龙|zh_tl=dragon}}. It currently resides in [[Mt. Firmament]] within the [[Mianloong Chamber]]. Its '''Appointed Resonator''' is the current magistrate of Jinzhou, [[Jinhsi]].  \n\nIt was first introduced as an NPC during the {{Quest|Utterance of Marvels: I}}. \n\n== Description ==\n{{Description|One of the Sentinels of Huanglong, taking the shape of a Loong. The guiding force behind Jinzhou's civilization.\u003cbr\u003eA majestic \"deity\" with unquestionable power, omniscient of Jinzhou's past, present, and future. Jué, the wielder of time's flow, sees eons as mere moments. In an instant, Jué can change the universe forever.\u003cbr\u003e\u003cbr\u003e\"Seasons shift by decree, and all beings abide by their laws. Such is the nature of the universe.\"|Description When Discovered}}\n\n==Synopsis==\n===The Birth of Jué===\nHuanglong's original Sentinel was one of the Sentinels created by the [[Homeland Civilization]] to defend [[Solaris-3]] from the threat of the [[Threnodian]]s. This Sentinel was delivered by an [[Exostrider]] to Solaris-3.\u003cref\u003e{{Quest|The Star That Voyages Far}}\n:'''''Aemeath:''' That was when I realized that Exostriders were built to transport Sentinels.''\n:'''''Aemeath:''' They trekked through stars to deliver Sentinels to Solaris.''\u003c/ref\u003e The original Sentinel was then split into seven Sentinels, each descending on and guarding a province of the nation.\u003cref\u003e{{Quest|Utterance of Marvels: I}}\n:'''''Yangyang:''' There are one capital and six cities in Huanglong, with each city having its own Sentinel. While they share some similarities in appearance, there are also differences.''\n:[...]\n:'''''Yangyang:''' Records state the Sentinels in Huanglong were once a single entity. Now they are each responsible for a part of Huanglong.''\u003c/ref\u003e One of the seven Sentinels is Jué, who descended upon Mt. Firmament.\n\n===Descent on Mt. Firmament===\nIn ancient times, Jué descended on Mt. Firmament alongside a colossal vehicle, which would later come to be known as the Mianloong Chamber. The early settlers of [[Hongzhen]] believed that the Sentinel originated from a faraway star and that its vehicle served as its hibernation pod. As part of its directive to protect and safeguard civilization, Jué created a '''Temporal Barrier''' to protect the citizens of Hongzhen from [[Tacet Discord]]s—greatly affecting the flow of time within the area. Due to this act, the people of Hongzhen revere the Sentinel, who safeguards their town, praying devotedly for its blessing of lasting prosperity and longevity. They eventually carved its likeness onto the mountain itself, creating [[Loong's Crest]].\n\nA report from the [[Court of Savantae]], which had dubbed the Sentinel '''C-001''', confirmed that it had sustained serious injuries—injuries that surpassed even its natural state of immortality. Alongside these injuries, the Sentinel had also lost one of its '''Temporal Programs''', a key component of its complete dominion over the '''Temporal Mandate'''. In its prime, Jué had the ability to manipulate time—decelerating, halting, rewinding it, and making corrections as needed. However, with the loss of one of its Programs, it could now only stop and reverse the flow of time. Jué concluded that, eventually, it would perish, and could only use the Mianloong Chamber to temporarily stabilize its condition and replenish its energy, delaying its inevitable demise. Its current condition could only be described as one of sickness, with irreversible disruptions to time rendering any attempts at correction or restoration ineffective. According to Jué, should it eventually die, the uncontrolled time flow—'''Temporal Disruptions''', would expand beyond Mt. Firmament, endangering Jinzhou.\n\nThe Sentinel, still adhering to its directive from its Arbiter, continued its duty of safeguarding civilization—Jinzhou, and by extension, Hongzhen—at the cost of its own life force, frequently returning to the Mianloong Chamber to sustain itself.\n\nRecognizing the threat posed by the Sentinel's impending demise, a \"peculiar visitor\" collaborated with the Court of Savantae, leading to the creation of the Chronosorters. These artificial Resonance Objects were designed as a temporary aid to the Sentinel, tasked with correcting the temporal distortions currently affecting Mt. Firmament by resonating with the Sentinel. This collaboration continued and eventually contributed to the development of the Secondary Resonance Awakening Theory after several failed attempts.\n{{Quote|I was right... My belief in the Secondary Resonance theory has been confirmed! When two entities resonate at high intensity, the weaker one can exert much greater Resonance power than its original capacity. The only issue is how the Chronosorters we've been making are too fragile for this task. I need a more powerful Resonator, but the risk is too great. No one can withstand the resonance shock of C-001 without enduring catastrophic overclocking.|an excerpt from [[Truthseeker's Pass (Quest)|''CSC Research Memo I'']] on the concept of a \"Secondary Resonance\"\n}}\n\n===Jinhsi's Resurrection and Rise===\n[[File:Jue ReversesDeath 4K.png|thumb|424x424px| The Sentinel reversing time to save Jinhsi in the official featured cinematic, [https://youtu.be/TvxwtXIrf1g?si=FB8ribkLawMgK8er \"AS FATE HAS DECREED\"].|left]]While Jinzhou was under siege from a numerous Tacet Discords, a mother and the infant Jinhsi sought refuge in the ruins, attempting to evade the Tacet Discords. The mother was ultimately killed while protecting her child, and the infant's survival became highly unlikely as its cries diminished and ceased within minutes. The infant's cries, however, exhibited a [[Jinhsi/Backstory|unique Resonance]] that was detected by the Sentinel. Responding to their Resonance, Jué found the infant and utilized its temporal capabilities to dispel the surrounding threats. Unfortunately, the infant had already passed. \n\nUtilizing the temporal anomalies of Mt. Firmament, the Sentinel was able to reverse the infant’s death, effectively resurrecting it. Once restored, the infant was designated as the Sentinel's Appointed Resonator, a role of significant influence. Unbeknownst to many, the infant had also inherited the Sentinel's '''Temporal Program''', including the one it had lost, due to its Resonance Ability. The individual would later ascend to the position of Magistrate of Jinzhou.\n\n===The Thaw of Eons===\nAfter the events of the Main Quest: [[Thaw of Eons]], Jinhsi inherits the '''Temporal Mandate''' through her Secondary Resonance Awakening after its transfer was approved by the Sentinel's Arbiter. The Temporal Disruptions present in Mt. Firmament have subsided due to the re-completion of the Sentinel's Temporal Programs within Jinhsi. Jué vows to only offer aid when it is truly needed since the Magistrate of Jinzhou has fully assumed their mantle of leadership.\n\n==Quests and Events==\n{{Quests and Events|Jué}}\n==Creations==\n*[[Lumiscale Construct]]\n\n==Character Mentions==\n{{Character Mentions|Jué}}\n\n==Gallery==\n===Game Assets===\n\u003cgallery\u003e\nJinhsi Splash Art.png|Jué in Jinhsi's splash art\nJinhsi Convene Still.png|Jué in Jinhsi's convene still\n\u003c/gallery\u003e\n\n===Official Art===\n{{Files by Character Gallery|Images|not1=Story CGs}}\n\n===Story CGs===\n====[[Chapter I]]====\n\u003cgallery\u003e\nChapter I Meeting the Divine MRover.png|\u003csmall\u003eAct VII: [[Thaw of Eons]]\u003c/small\u003e\u003cbr/\u003eMeeting the Divine — ''What seekest thou before the divine?''\nChapter I Meeting the Divine FRover.png|\u003csmall\u003eAct VII: [[Thaw of Eons]]\u003c/small\u003e\u003cbr/\u003eMeeting the Divine — ''What seekest thou before the divine?''\n\u003c/gallery\u003e\n\n===Videos===\n{{Files by Character Gallery|Jué Videos}}\n\n==Trivia==\n===Etymology===\n*The name \"Jué\" is a reference to the Mansion of Jué {{lang|zh=角}} in the Chinese {{w|Twenty-Eight Mansions}}, the mansion is symbolized as the horn of the {{w|Azure Dragon}}, one of the four symbols on the east. This correspond with the in-game fact that Jué is a green dragon.\n\n==Other Languages==\n{{Other Languages\n|en   = Jué\n|zhs  = 角\n|zht  = 角\n|ja   = 角\n|ko   = 별자리\n|fr   = Jiao\n|de   = Jué\n|es   = Jué\n|th   = Jué\n|pt   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n[[zh:角]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Synopsis",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "The Birth of Jué",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Descent on Mt. Firmament",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Jinhsi's Resurrection and Rise",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "The Thaw of Eons",
+      "number": "2.4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Creations",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "5.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Voicelines",
+      "number": "5.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Cherished Items",
+      "number": "5.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Game Assets",
+      "number": "6.1",
+      "index": "11"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Official Art",
+      "number": "6.2",
+      "index": "12"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Story CGs",
+      "number": "6.3",
+      "index": "13"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Chapter I",
+      "number": "6.3.1",
+      "index": "14"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "6.4",
+      "index": "15"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "7",
+      "index": "16"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "7.1",
+      "index": "17"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "8",
+      "index": "18"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "9",
+      "index": "19"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "10",
+      "index": "20"
+    }
+  ]
+}

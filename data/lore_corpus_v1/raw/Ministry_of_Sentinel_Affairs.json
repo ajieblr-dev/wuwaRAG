@@ -1,0 +1,65 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:38Z",
+  "title": "Ministry of Sentinel Affairs",
+  "pageid": 37606,
+  "wikitext": "{{Spoiler}}\n{{Stub}}\n{{Faction Infobox\n|title    = Ministry of Sentinel Affairs\n|image    = Ministry of Sentinel Affairs Emblem.png\n|leader   = \n|base     = \n|nation   = Huanglong\n|region   =\n}}\n\nThe '''Ministry of Sentinel Affairs''' is one of the governing bodies of [[Huanglong]]. A special agency responsible for monitoring Sentinels, astronomy, and calendars across Huanglong's various cities. Led by the Minister of Sentinel Affairs in [[Mingting]], it has subordinate bureaus in the other six cities, each headed by a Supervisor. While they hold independent authority on Sentinel-related matters, they are limited to advising and supervising the administrative bodies of each city and Mingting.\n==Members==\n===Mingting===\n====Former Members====\n{| class=\"article-table\"\n!Icon!!Personnel!!Position\n|-\n|\n|[[Minister Lin]]\n|Former Minister of Sentinel Affairs five years ago. Fell ill and retired.\n|}\n===Mengzhou===\n====Notable Personnel====\n{| class=\"article-table\"\n!Icon!!Personnel!!Position\n|-\n|[[File:Resonator Suoming.png|50px]]\n|[[Suoming]]\n|Intendant of [[Mengzhou]] Branch\n|-\n|\n|[[Tangning]]\n|Agent of Mengzhou Branch\n|-\n|\n|[[Jiqing]]\n|Agent of Mengzhou Branch\n|}\n====Former Members====\n{| class=\"article-table\"\n!Icon!!Personnel!!Position\n|-\n|[[File:Balanophora Icon.png|50px]]\n||[[Balanophora]]\n||[[Fractsidus]] Overseer posing as Intendant of Mengzhou Branch. Fled after assassinating [[Hsin]].\n|}\n\n==Other Languages==\n{{Other Languages\n|en   = Ministry of Sentinel Affairs\n|zhs  = 谛天鉴\n|zht  = 諦天鑒\n|ja   = 諦天鑑\n|ko   = 제천감\n|fr   = Ministre de l'affaire Sentinelle\n|de   = Ministerium für Hütende-Angelegenheiten\n|es   = Ministerio de Asuntos de los Centinelas\n|th   = กระทรวงพินิจจักรดารา\n}} \n\n==Navigation==\n{{Faction Navbox}}\n[[zh:谛天鉴]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Mingting",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Former Members",
+      "number": "1.1.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Mengzhou",
+      "number": "1.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Notable Personnel",
+      "number": "1.2.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Former Members",
+      "number": "1.2.2",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "8"
+    }
+  ]
+}

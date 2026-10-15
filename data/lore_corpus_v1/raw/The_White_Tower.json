@@ -1,0 +1,72 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:25:05Z",
+  "title": "The White Tower",
+  "pageid": 42766,
+  "wikitext": "{{Stub|Image is from Closed Beta Testing trailer and not an accurate representation of current Tower, but merely a speculation. Please update with correct visuals once available.}}\n{{NPC Infobox\n|title        = The White Tower\n|image        = The White Tower.jpg\n|nation       = Somnoire\n|affiliation   = Threnodians\n}}\n'''The White Tower''' is a [[Threnodian]] sealed deep within the [[Somnoire]]. Little is known about its nature and true origins, beyond what is relayed in the lore of [[Dreaming Deep]]. \n\n==Synopsis==\n===Arrival and Imprisonment on Solaris-3===\nDescribed as a Threnodian that was instinctually drawn to the \"brilliance\" of an ancient civilization on [[Solaris-3]] from afar, it brought upon this society's total destruction, leading to the [[Ivory Gatekeeper]] and [[Ebony Gatekeeper]] taking initiative to preserve the remnants of their civilization within the Somnoire. The White Tower would notice this, and take to chasing after their preserved remains. To stop its incessant destruction, the Gatekeepers worked together to seal the White Tower in the Somnoire by splitting it into a myriad of layers across dream realms, leaving the White Tower stranded at the bottom of its deepest layer. \n\n===Opposed by D===\nThe White Tower would later make attempts to stir from the depths of its prison. However, this would be countered by the emergence of [[D]]- who formed either as a residual frequency of the Threnodian in opposition to it that severed itself and became influenced by human emotion, or as a result of a manifestation of the civilization's will itself. D began reconstituting her memories and records through the creation of films, while also battling the Threnodian's nightmare creations.\u003cref\u003e[[Dreaming Deep]] Lore:\n:'''Sound Lost in Memory:''' Like all stories of rise and fall, your world once had a dazzling civilization long ago... So bright, no one could look away. But then, one day, *It* came, drawn to that brilliance, reaching out by instinct. People fought desperately to protect their home, but no matter what they tried, nothing could stop it.\n:[...]\n:'''Sound Lost in Memory:''' They couldn't agree, so they first decided to shelter it all within a dream. But even the faintest ember of light was enough to draw *Its* attention.\n:[...]\n:'''Sound Lost in Memory:''' Bound by their promise to their creator, the Black Cat and White Cat had no choice but to fragment the dreamscape realm into separate layers, severing them one by one, even erasing themselves along with the tainted dreams, all in an effort to seal *It* within the deepest layer.\n:[...]\n:'''Sound Lost in Memory:''' *It* hid within the wreckage of dreams and slipped into the world beyond the gateway.\n:[...]\n:'''Sound Lost in Memory:''' Yet unlike the hesitant gatekeepers, some residual frequencies stranded in the underwater realm were ready to rise again. They were ready to finish the fight, to stand their ground and never yield to *It*.\n:[...]\n:'''Sound Lost in Memory:''' Even if they had forgotten their original forms, even if their memories, records, and beliefs lay scattered in fragments... they still waited in the silent, lightless depths, slowly piecing those fragments together, weaving them into countless 'films.'\u003c/ref\u003e \n\n==Speculations==\n*[[D]], from [[Dreaming Deep]], is theorized to be a manifestation of it.\n\n\n==Trivia==\n*The White Tower is strongly implied to be the second known alien Threnodian, similar to [[Aleph-1]]. Much like the latter, it became attracted to Solaris-3 from the abyss of space, and attempted to wreak mass destruction upon its arrival. Both were sealed for centuries by forces that arose in opposition, such as the twin Gatekeepers of the Somnoire in the case of the White Tower, and the [[Exostrider]] in Aleph-1's case.\n\n==Other Languages==\n{{Other Languages\n|en   = The White Tower\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|2.3}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}\n[[Category:Somnoire]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Synopsis",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Arrival and Imprisonment on Solaris-3",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Opposed by D",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Speculations",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "9"
+    }
+  ]
+}

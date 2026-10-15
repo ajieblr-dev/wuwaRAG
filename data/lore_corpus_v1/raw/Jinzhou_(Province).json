@@ -1,0 +1,72 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:30Z",
+  "title": "Jinzhou (Province)",
+  "pageid": 36422,
+  "wikitext": "{{DISPLAYTITLE: Jinzhou}}\n{{RegionTabs|Culture|History}}\n{{About|the province|the region|Jinzhou}}\n{{Location Infobox\n|title        = Jinzhou\n|image        = Jinzhou.png\n|type         = Province\n|map          = Solaris-3\n|event        = \n|nation       = Huanglong\n|demonym      = \n}}\n{{Quote|Jinzhou is situated on the northern border of Huanglong, nestled within the expanse of a great lake, embraced by waters on three sides and cradled by mountains on the fourth.\nThe city experiences a humid climate characterized by four distinct seasons.\nRenowned as a vital pass in Huanglong, Jinzhou also serves as an indispensable stronghold in the defense against Tacet Discords.|[https://wutheringwaves.kurogames.com/en/main#regions ''Wuthering Waves Official Website'']\n}}{{Intro/Location|Jinzhou}} It is governed in the name of the Emperor by Magistrate [[Jinhsi]], who received the name Jin after being appointed by the Sentinel [[Jué]], who guides her and protects the province. Jinzhou is split from the rest of Huanglong, called Inner Huanglong, by the Mountains of Spirit. The only path to Inner Huanglong lies in the Gorges of Spirits, which connects to the land of [[Xuanfang]] and thus the rest of the country.\n\nAs the border fortress of the nation, it is referred to as the throat of Huanglong, and is the site of many great battles against the Tacet Discord threat lead by the Threnodian [[Ovathrax]].\n\n==Regions==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Description\n|- id=\"Jinzhou\"\n|\u003ccenter\u003e[[File:Jinzhou.png|180px]]\u003cbr\u003e[[Jinzhou]]\u003c/center\u003e\n|The capital city of Jinzhou province.\n|- id=\"Gorges of Spirits\"\n|\u003ccenter\u003e[[File:Gorges of Spirits.png|180px]]\u003cbr\u003e[[Gorges of Spirits]]\u003c/center\u003e\n|Where Rover's story began, and the only road to the rest of Huanglong.\n|- id=\"Central Plains\"\n|\u003ccenter\u003e[[File:Central Plains.png|180px]]\u003cbr\u003e[[Central Plains]]\u003c/center\u003e\n|The wide open plains surrounding Jinzhou city.\n|- id=\"Desorock Highland\"\n|\u003ccenter\u003e[[File:Desorock Highland.png|180px]]\u003cbr\u003e[[Desorock Highland]]\u003c/center\u003e\n|A series of forts protecting the province from Tacet Discord outbreaks.\n|- id=\"Tiger's Maw\"\n|\u003ccenter\u003e[[File:Tigers maw mine.png|180px]]\u003cbr\u003e[[Tiger's Maw]]\u003c/center\u003e\n|A great open-air mine in the centre of the province.\n|- id=\"Whining Aix's Mire\"\n|\u003ccenter\u003e[[File:Whining Aix's Mire.png|180px]]\u003cbr\u003e[[Whining Aix's Mire]]\u003c/center\u003e\n|A whirling mire hiding ancient secrets and heresies.\n|- id=\"Dim Forest\"\n|\u003ccenter\u003e[[File:Giant banyan.png|180px]]\u003cbr\u003e[[Dim Forest]]\u003c/center\u003e\n|A dangerous forest full of toxic and thorny flora.\n|- id=\"Port City of Guixu\"\n|\u003ccenter\u003e[[File:Port City of Guixu.png|180px]]\u003cbr\u003e[[Port City of Guixu]]\u003c/center\u003e\n|The ruins of old humanity and their hubris against the Lament.\n|- id=\"Wuming Bay\"\n|\u003ccenter\u003e[[File:Wuming Bay.png|180px]]\u003cbr\u003e[[Wuming Bay]]\u003c/center\u003e\n|A calm bay nestled around an enormous fallen skyscraper.\n|- id=\"Norfall Barrens\"\n|\u003ccenter\u003e[[File:Crownless statue.png|180px]]\u003cbr\u003e[[Norfall Barrens]]\u003c/center\u003e\n|The frontlines of the Midnight Rangers against the Tacet Discord threat.\n|- id=\"Mt. Firmament\"\n|\u003ccenter\u003e[[File:Mt. Firmament.png|180px]]\u003cbr\u003e[[Mt. Firmament]]\u003c/center\u003e\n|The origin of Jinzhou, where Sentinel Jué first descended to Solaris.\n|}\n\n==Resonators==\n===Playable===\n{{Resonators by Category Table|Playable Resonators\u0026Jinzhou}}\n===Upcoming===\n{{Resonators by Category Table|Upcoming Resonators\u0026Jinzhou}}\n\n\n==Trivia==\n*Jinzhou is based on the province of [[wp:Jiangsu|Jiangsu]], near Shanghai.\n**Jiangsu is often referred to as the ''throat'' of China or the Yangtze River, and Nanjing's fortresses are said to \"strangle the throat of the Long River.\"\n**Architecturally, Jiangsu is known for its native Su-style and Hui-style from neighbouring Anhui. Both styles have whitewashed walls, dark-tiled roofs, archways, and winding paths.\n***Jinzhou's waterways and large moats are emblematic of the Su-style, especially in Suzhou\n***Guardian lions are popular in the Hui-style\n***[[Jinzhou City Hall]] is similar to the [[wp:Ming Palace|Ming Palace]] of Nanjing\n\n*In [[Version/Closed Beta I|CBT1]], Huanglong was comprised only by Jinzhou (which was not named), as the other provinces did not exist.\n\n==Other Languages==\n{{Other Languages\n|en      = Jinzhou\n|zhs     = 今州城\n|zht     = 今州城\n|ja      = {{Rubi|今州|こんしゅう|城|じょう}}\n|ko      = 금주성\n|es      = Jinzhou\n|fr      = Jinzhou\n|de      = Jinzhou\n|th      = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[zh:今州]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Regions",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resonators",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Playable",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Upcoming",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "9"
+    }
+  ]
+}

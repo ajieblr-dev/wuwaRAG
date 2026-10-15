@@ -1,0 +1,114 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:29Z",
+  "title": "Jinzhou",
+  "pageid": 898,
+  "wikitext": "{{Stub}}\n{{About|the region|the area|Jinzhou (Area)|the province|Jinzhou (Province)}}{{Location Infobox\n|title        = Jinzhou\n|image        = \u003cgallery\u003e\nJinzhou.png|In-Game\nJinzhou Map.png|Map\n\u003c/gallery\u003e\n|type         = Region\n|type2        = City\n|type3        = Huanglong City{{!}}Huanglong Cities\n|map          = Solaris-3\n|event        = \n|nation       = Huanglong\n}}{{Intro/Location|Jinzhou}} It is the fortified capital city of the [[Jinzhou (Province)|province of the same name]]. Jinzhou is the most recent city established in Huanglong\u003cref\u003eJinzhou Folklore Journal - Reward from quest \"Tales of the Past and Present: Gorges of Spirits\"\u003c/ref\u003e, the only city in Outer Huanglong, and was founded by [[Rover]] during their previous awakening after the emergence of the Sentinel [[Jué]].\n\u003c!--there's conflicting information about whether Jinzhou is the northern or southeastern border, so I'll leave this commented out for now\nIt lies on the southeastern border of Huanglong and is the first land-based port for all foreign ships entering the nation\u003cref\u003ePort Business Advertisement - billboard found in Port Gunchao\u003c/ref\u003e.--\u003e\n\nAccording to [[Chixia]] and [[Sanhua]], it is also neither the biggest nor the most populated of the seven major cities. Situated on a lake, its gates and narrow bridges protect the lower city from invasion to the north and west, while the upper city and harbour are embedded into the mountain framing the city. In the event of a catastrophic collapse of the city's defense, a dam near Lake Heights can be used to flood the lower city and protect what remains from the Tacet Discord threat.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n! Description\n|- id=\"Jinzhou (Area)\"\n|[[File:Jinzhou.png|180px]]\u003cbr /\u003e[[Jinzhou (Area)]]\n|The city proper, and centre of all culture in the province.\n|- id=\"Lake Heights\"\n|[[File:Lake Heights.png|180px]]\u003cbr /\u003e[[Lake Heights]]\n|A hill near the city where fallen warriors lay at rest.\n|- id=\"Shade Ridge\"\n|[[File:Shade Ridge.png|180px]]\u003cbr /\u003e[[Shade Ridge]]\n|The most important mountain of Jinzhou and its highest point.\n|- id=\"Sky Ray\"\n|[[File:Sky Ray.png|180px]]\u003cbr /\u003e[[Sky Ray]]\n|A series of waterfalls cascading down to the sea.\n|}\n===Points of Interest===\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Description\n|- id=\"City Hall\"\n|[[File:City Hall.png|180px]]\u003cbr /\u003e[[Jinzhou City Hall]]\n|Located in the highest position in Jinzhou, the City Hall stands as the paramount political hub, housing the vital data repository — the Grand Library. Since the establishment of Jinzhou, it has served as the residence of every Jinzhou Magistrate. The current Magistrate of Jinzhou is Jinhsi.\n|- id=\"Jinzhou Huaxu Academy\"\n|[[File:Huaxu Academy.png|180px]]\u003cbr /\u003e[[Jinzhou Huaxu Academy]]\n|Huaxu Academy is a collective of researchers dedicated to inventing new ways to aid the prosperity of Huanglong, as well as uncovering the mysteries of the world. Focused on discerning the truth from remnants of ancient knowledge, echoes of the world, and the enigmatic frozen tundra, the researchers at Huaxu Academy delve into the depths of understanding.\n|- id=\"Pioneer Association\"\n| [[File:Pioneer Association Jinzhou.png|180px]]\u003cbr /\u003e[[Jinzhou Pioneer Association]]\n|The Pioneer Association, founded before the Lament, is a prestigious organization in science and education.\u003cbr\u003e\u003cbr\u003eThe Pioneer Association continues to collaborate with scientists, photographers, and journalists to explore and document the world's wonders after the Ebb Tide.\u003cbr\u003e\u003cbr\u003eTheir hard work leads to groundbreaking discoveries that captivate global audiences through mediums like magazines, maps, books, entertainment, and interactive media.\n|}\n\n==Quests==\n{{Quest by Category List|Jinzhou Quests}}\n\n==Exploration Report==\n===Jinzhou City Construction Project Report I===\n\n*Unlocked by reaching 50% exploration.\n\n{{Transclude|Jinzhou City Construction Project Report I|Text|main=1}}\n\n===Jinzhou City Construction Project Report II===\n*Unlocked by reaching 100% exploration.\n{{Transclude|Jinzhou City Construction Project Report II|Text|main=1}}\n\n==Notable Features==\n===Resources===\n*{{Item|Angelica}}\n*{{Item|Bittberry}}\n*{{Item|Bunnywort}}\n*{{Item|Caltrop}}\n*{{Item|Climbing Fig}}\n*{{Item|Dewvetch}}\n*{{Item|Gemberry}}\n*{{Item|Gloom Slough}}\n*{{Item|Lemongrass}}\n*{{Item|Lotus Seeds}}\n*{{Item|Pearl Leaf}}\n*{{Item|Perilla}}\n*{{Item|Umbragricus}}\n*{{Item|Waterlamp}}\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=location}}\n\n==Trivia==\n*Jinzhou was known as {{Lang|Tiānchéng|zh=天城}} in [[Version/Closed Beta I|CBT1]].\n\n==Gallery==\n\u003cgallery\u003e\nJinzhou Theatre .png|Jinzhou Theatre\nJinzhou shopping district.png|Jinzhou Shops\nJinzhou residential district .png|JInzhou Residential District\nJinzhou Moon.png|Jinzhou's Moon\nJinzhou Unique Unique Sky.png|Jinzhou Unique Sky shaped similar to a Tacet Field\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Jinzhou\n|zhs  = 今州城\n|zht  = 今州城\n|ja   = {{Rubi|今州|こんしゅう|城|じょう}}\n|ko   = 금주성\n|es   = Jinzhou\n|fr   = Jinzhou\n|de   = Jinzhou\n|th   = เมืองจินโจว\n|pt   = Jinzhou\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[zh:今州城]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Points of Interest",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Jinzhou City Construction Project Report I",
+      "number": "3.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Jinzhou City Construction Project Report II",
+      "number": "3.2",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "8",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "9",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "10",
+      "index": "14"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "11",
+      "index": "15"
+    }
+  ]
+}

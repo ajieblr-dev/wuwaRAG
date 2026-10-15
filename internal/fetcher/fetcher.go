@@ -24,10 +24,12 @@ type Section struct {
 
 // WikiPage represents the fetched MediaWiki page.
 type WikiPage struct {
-	Title    string    `json:"title"`
-	PageID   int       `json:"pageid"`
-	Wikitext string    `json:"wikitext"`
-	Sections []Section `json:"sections"`
+	DatasetCode string    `json:"dataset_code,omitempty"`
+	GatheredAt  string    `json:"gathered_at,omitempty"`
+	Title       string    `json:"title"`
+	PageID      int       `json:"pageid"`
+	Wikitext    string    `json:"wikitext"`
+	Sections    []Section `json:"sections"`
 }
 
 type parseResponse struct {

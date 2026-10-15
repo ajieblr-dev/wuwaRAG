@@ -1,0 +1,23 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:50Z",
+  "title": "Reverberation",
+  "pageid": 1013,
+  "wikitext": "{{Terminology Infobox\n|title        = Reverberation\n|type         = Lore\n|image        = Reverberation.jpg\n}}\n\nThe [[Waveworn Phenomenon]] is believed to alter matter, information, and energy by converting them into vibrating \"frequencies\", and the frequency energy form that remains and continues to decay afterwards are referred to as '''Reverberations.'''\n\nAccording to research observations, once the [[Remnant]] decays, it will become a Reverberation, and this process is irreversible.\n\n==Other Languages==\n{{Other Languages\n|en      = Reverberation\n|zhs     = 残响\n|zht     = 殘響\n|ja      = 残響\n|ko      = 잔향\n|es      = Reverberación\n|fr      = Révébération\n|de      = Nachhall\n|th      = เสียงกังวาน\n}}\n\n== Navigation ==\n{{Lore Navbox|Terminology}}\n\n[[Category:Terminology]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

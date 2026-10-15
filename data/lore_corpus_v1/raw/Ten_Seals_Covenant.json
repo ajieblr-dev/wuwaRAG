@@ -1,0 +1,44 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:25:01Z",
+  "title": "Ten Seals Covenant",
+  "pageid": 77579,
+  "wikitext": "{{Stub}}\n{{Faction Infobox\n|title    = Ten Seals Covenant\n|image    = \n|leader   = \n|base     = \n|nation   = Huanglong\n|region   = \n}}\nThe '''Ten Seals Covenant''' {{Lang|zh=禁锁十契}} is an organization founded by [[Suoming]] to combat the Evil Miasma in her hometown of Huating.\u003cref name=\"Simulacrum of the Heart\" /\u003e\n\nSuoming is the only surviving member of the Ten Seals Covenant. By using her Resonance Ability, she sealed the frequencies of her nine subordinates within her Vermillion Lock.\u003cref name=\"Simulacrum of the Heart\" /\u003e\n\n==History==\nThe organization was formed after the calamity, Evil Miasma, brought disaster and suffering to [[Huating]]. Once Suoming's childhood ended, she gathered nine others who lost their homes and created the Ten Seals Covenant.\u003cref name=\"Simulacrum of the Heart\"\u003e[[Simulacrum of the Heart]]\u003c/ref\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Ten Seals Covenant\n|zhs  = 禁锁十契\n|zht  = 禁鎖十契\n|ja   = 禁鎖の十契\n|ko   = 금쇄십계\n|fr   = Pacte des Dix Sceaux\n|de   = Bund der zehn Siegel\n|es   = Pacto de los Diez Sellos\n|th   = ภาคีสิบพันธกานต์\n|pt   = Pacto dos Dez Selos\n}}\n\n==Change History==\n{{Change History|3.7}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Faction Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

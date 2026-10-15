@@ -1,0 +1,93 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:56Z",
+  "title": "Sonoro Sphere",
+  "pageid": 8269,
+  "wikitext": "{{CustomTabs\n|tab1 = Overview\n|tab2 = List\n}}\n{{Terminology Infobox\n|image        = \u003cgallery\u003e\nEmblem Domains.png|Emblem\nSorono Sphere Entrance.png|Sorono Sphere Entrance\n\u003c/gallery\u003e\n|type         = Game Systems\n|type2        = Lore\n|group        = Activities\n}}\n\n'''Sonoro Spheres,''' \"Field of Sound,\" are instances in ''[[Wuthering Waves]]''.\n\nCompleting the challenges within Sonoro Spheres rewards various items and materials such as Weapon and Skill Materials, Weapon \u0026 Skill Materials, [[Union EXP]], [[Intimacy]], and [[Shell Credit]]s in return for some [[Waveplate]].\n\n==Overview==\nSonoro Spheres are spaces of dense abundant [[Remnant]] Energy, capable of preserving transdimensional information. They are important sources of information for humanity to understand the history and civilization of [[The Lament]], and are a part of the field of Ecoacoustic research. While generally a naturally occurring phenomenon, artificial Sonoro Spheres exist, such as the [[Simulation Training]] that [[Midnight Rangers]] use, with the [[Nimbus Sanctum]] being a unique Sonoro Sphere that can be interacted in the physical plane.\n\nHowever, upon entering a Sonoro Sphere, information may become distorted and it becomes difficult to remove the interference from the original contents. There is also the possibility that when recording information, if the conditions are met, a person dying within the vicinity of the Sonoro Sphere will cause the copy of the original to be fully self-aware instead of being a recorded illusion. There is risk then of the version trapped within to become infected with maligned frequencies, such as  Pascar who had been warped into a Tacet Discord from corruption. The Lament itself could also consume and imprison locations, such as Honami City, which has since become the [[Chronorift Metropolis]]. \n\n[[Sonance Casket|Sonance Caskets]] are the product of the natural decay and collapse of Sonoro Spheres, and thus hold high archaeological value.\n\nThe [[Shorekeeper]] is a Remnant Creature made up of Sonoro Spheres herself.\n\nAmong natural and artificial occurring Sonoro Sphere, there are also Resonators who wield the ability to create a Sonoro Sphere themselves. As they are creating the Sonoro Sphere through their Resonance Ability, the Sonoro Sphere will form and reflect under the user's own traits, ideals, and beliefs. One example would be the [[Fractsidus]] Overseer [[Phrolova]] who has access to a mysterious Sonoro Sphere known as \"The Beyond\" in which all decaying frequencies converge and in which she summons the powerful Tacet Discord [[Hecate]] from\u003cref\u003e[[Hecate|Hecate Description]] \u003c/ref\u003e but also created the [[Shards of the Beyond|Lost Beyond]] for her lost home. Others such as [[Cristoforo]] and [[Ciaccona]] also wield their own Sonoro's with their own unique effects and abilities. It's possible for a Resonator to have their Sonoro Sphere exist for a certain lenth of time, as seen by the Forever Fest created by Cobb Copo lasting for years, or Cristoforo entrapping [[Septimont]] for an unknown amount of time. However, this varies as eventually they will fade away in due time alongside anything within it. \n\nAt the same time, certain Sonoro Spheres can be formed from a rise in emotions from a collective group. Similar to Resonators creating Sonoro Spheres, these specific Sonoro's can take form and shape by the unconscious thoughts that create the space itself. The [[Academy's Dark Side]] and the Sea of Ghosts of the Fisalia Family were both created by unconscious thoughts, making a reflective plane in the area they are created in with their own rules that must be followed. While not impossible to confine and shape them, it's difficult where these Sonoro Sphere's are usually permanent in duration unless one deals with the emotions that linger and gave birth to these areas. \n\n==Permanent Domains==\n=== Challenge Sonoro Spheres ===\n====Forgery Challenges====\n{{Main|Forgery Challenge}}\n\n===Tower of Adversity===\n\n==Temporary Domains==\n===Quest Sonoro Spheres===\n{{Main|Quest Sonoro Spheres}}\n===Event Sonoro Spheres===\n{{Main|Event Sonoro Spheres}}\n==Soundtracks==\n\n==Achievements==\n\n==Trivia==\n\n==Other Languages==\n{{Other Languages\n|en      = Sonoro Sphere\n|zhs     = {{Rubi|索|声之|诺|领|拉|域 }}\n|zht     = {{Rubi|索|聲之|諾|領|拉|域}}\n|ja      = {{Rubi|音場|ソノラ}}\n|ko      = {{Rubi|소노라|음의 영역}}\n|fr      = Champ sonore\n|de      = Sonoro-Sphäre\n|es      = Esfera Sonora\n}}\n\n[[zh:索诺拉]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Permanent Domains",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenge Sonoro Spheres",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Forgery Challenges",
+      "number": "2.1.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tower of Adversity",
+      "number": "2.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Temporary Domains",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Quest Sonoro Spheres",
+      "number": "3.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Sonoro Spheres",
+      "number": "3.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "4",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Achievements",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "12"
+    }
+  ]
+}

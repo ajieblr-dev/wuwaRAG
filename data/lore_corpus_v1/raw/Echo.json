@@ -1,0 +1,23 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:18Z",
+  "title": "Echo",
+  "pageid": 1011,
+  "wikitext": "{{CustomTabs\n|tab1 = Overview\n|tab2 = List\n|tab3 = Stats\n|tab4 = Leveling\n}}\n{{Terminology Infobox\n|title        = Echo\n|type         = Combat\n|type2        = Lore\n|type3        = Item Types\n|type4        = Backpack Categories\n|image        = Echo.jpg\n}}\n\nThe [[Pangu Terminal]] can capture and reproduce a unique frequency, known as the [[Tacet Discord]] ability. However, there is a possibility that it will leave behind a [[Reverberation]] effect when shattered. This Reverberation can be transformed into an '''Echo''' through the Pangu Terminal's Data Bank, providing a useful advantage in combat.\n\nWhen a Tacet Discord is defeated, the remaining frequency may become an Echo. You can obtain [[Data Bank]] EXP by absorbing an Echo for the first time. Level up Data Bank to raise the probability of Echo drop.\nEchoes are an important source of a [[Resonator]]'s strength. Resonators can use the Echo Skill of the Echo equipped at the top.\n\n==Other Languages==\n{{Other Languages\n|en       = Echo\n|zhs      = 声骸\n|zht      = 聲骸\n|ja       = 音骸\n|ko       = 에코\n|fr     = Echo\n|de     = Echo\n|es     = Eco\n}}\n\n==Navigation==\n{{Echo Navbox}}\n{{Combat Navbox|state=collapsed}}\n{{Lore Navbox|state=collapsed}}\n[[zh:声骸]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

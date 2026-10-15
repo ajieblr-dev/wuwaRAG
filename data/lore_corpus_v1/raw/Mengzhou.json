@@ -1,0 +1,107 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:36Z",
+  "title": "Mengzhou",
+  "pageid": 21873,
+  "wikitext": "{{Location Infobox\n|title        = Mengzhou\n|image        = \u003cgallery\u003e\nMengzhou.png|In-Game\nMengzhou Emblem.png|Emblem\n\u003c/gallery\u003e\n|type         = Province\n|nation       = Huanglong\n|map          = Solaris-3\n|event        = \n|demonym      = \n}}\n'''Mengzhou''' is a [[Province]] of [[Huanglong]] and one of its six major cities. It is renowned for its abundant waterways, thriving greenery, and enchanting landscapes. Here commerce and Taoism thrive and coexist in perfect harmony.\u003cref\u003e Chapter II Act V, Shadow of Glory. Buling's Introduction.\u003c/ref\u003e\n\nUnder the guidance of its [[Sentinel]] [[Hsin]], the people of Mengzhou have developed unique automata mechanics\u003cref\u003eBuling Story 1 Glossary Definition\u003c/ref\u003e which have been deployed in the land of [[Xuanfang]] as a bulwark to repel the Tacet Discord threat, especially before the founding of [[Jinzhou]]. Mengzhou borders Jinzhou, only separated by Xuanfang, which comes under the jurisdiction of Mengzhou's frontier court.\n\n==Regions==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Description\n|- id=\"Xuanfang Hold\"\n|\u003ccenter\u003e[[File:Xuanfang Hold.png|180px]]\u003cbr\u003e[[Xuanfang Hold]]\u003c/center\u003e\n|A suspended mechanized hold under Mengzhou, which contains the Tacet Discords diverted from the Norfall Barren outbreak.\u003cbr\u003eIntricately constructed, it splits and traps incoming waves of Tacet Discords through a vast array of mechanisms. Its form can change at will, deploying autopuppets to rotate defense and purge or suppress the Tacet Discords held inside.\n|- id=\"Eastern Xuan Peaks\"\n|\u003ccenter\u003e[[File:Eastern Xuan Peaks.png|180px]]\u003cbr\u003e[[Eastern Xuan Peaks]]\u003c/center\u003e\n|A forested, mountainous, fog-bound area located in the east of the Land of Xuanfang. A maze-like pagoda called the Fogveil Pagoda can be found here. The pagoda has a complex structure and emits Disorienting Fog all year round. The fog contains frequencies that bewilder Tacet Discords and guide them into their traps.\n|- id=\"Western Fang Peaks\"\n|\u003ccenter\u003e[[File:Western Fang Peaks.png|180px]]\u003cbr\u003e[[Western Fang Peaks]]\u003c/center\u003e\n|Located in the west of the Land of Xuanfang, where a factory called the Skyworks is situated. The Skyworks consists of Thousandfold Foundry that manufactures Autopuppets and Myriad Snare whose sole purpose is to wipe out powerful Tacet Discords. These two facilities run day and night to offer support and aid to Xuanfang Hold.\n|- id=\"Southern Yuan Hills\"\n|\u003ccenter\u003e[[File:Southern Yuan Hills.png|180px]]\u003cbr\u003e[[Southern Yuan Hills]]\u003c/center\u003e\n|Located in the south of the Land of Xuanfang and adjacent to the gateway between the territory and the outside world. Here sits a way post known as Shaftpost Yard, where all goods, wares, and travelers passing in or out of the Hold must submit to inspection by the Ministry of Foreign Affairs.\n|- id=\"Simulacrum Nexus of Mengzhou\"\n|\u003ccenter\u003e[[File:Simulacrum Nexus of Mengzhou.png|180px]]\u003cbr\u003e[[Simulacrum Nexus of Mengzhou]]\u003c/center\u003e\n|A Nexus of ordered design, the pivot on which all turns. Xuanfang Hold's control mainframe—the Manifold Sanctum. Here, all things are simulated and released, sustaining the Hold's ceaseless workings.\n|}\n\n==Resonators==\n===Playable===\n{{Resonators by Category Table|Playable Resonators\u0026Mengzhou}}\n===Upcoming===\n{{Resonators by Category Table|Upcoming Resonators\u0026Mengzhou}}\n\n==Military==\nUnder the Ministry of War in Mengzhou, the soldiers responsible for guarding Xuanfang Hold are known as Xuanfang Wardens. They act as the military of Xuanfang, assisting Autopuppets in defending the region. The Xuan Triad is a special unit formed by the Xuanfang Wardens, composed of three elite Wardens. Members of this unit are also known as Xuan Watchers. The Xuan Triad is tasked with handling incidents beyond the capabilities of standard Xuanfang Wardens.\n{{Transclude|Xuanfang Wardens|Personnel}}\n\n==History==\nA Martial Arts Championship between various sects from Huanglong once took place in a lone mountain peak here, where [[Buling]] and [[Jianxin]], as disciples of Master Jiufeng and Master Shiling respectively, fought. After the fight was over, a mysterious white-robed master,\u003cref\u003eParagon [[Qingxiao]]\u003c/ref\u003e carrying a guqin in her arms, confronted Buling about her conceding the fight to Jianxin.\n\nThe [[Court of Savantae]] was once active in Mengzhou, having assisted Hsin in building [[Xuanfang Hold]] on the ruins of Yuan Fortress after its destruction during the Fortress and Gorges War. As the fortress had been built with the partnership of the Zhuojun Atelier, this unexpected choice was seen as snubbing the group according to some of its members.\n\n==Trivia==\n*Mengzhou may be based on [[wp:Hubei|Hubei]], in central China.\n*Mengzhou has a famous rockery style known as the \"Mengzhou Garden Style\".\n\n==Other Languages==\n{{Other Languages\n|en   = Mengzhou\n|zhs  = 梦州\n|zht  = 夢州\n|ja   = 夢州\n|ko   = 몽주\n|fr   = Mengzhou\n|de   = Mengzhou\n|es   = Mengzhou\n|th   = เมิ่งโจว\n|pt   = Mengzhou\n}}\n\n==Change History==\n{{Change History|introduced=1.1|3.5}}\n\n==References==\n\u003creferences /\u003e\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n\n[[ru:Мэнчжоу]]\n[[zh:梦州]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Regions",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resonators",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Playable",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Upcoming",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Military",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Notable Personnel",
+      "number": "3.1",
+      "index": "T-1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Other Personnel",
+      "number": "3.2",
+      "index": "T-2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Former Personnel",
+      "number": "3.3",
+      "index": "T-3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "11"
+    }
+  ]
+}

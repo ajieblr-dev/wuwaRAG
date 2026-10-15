@@ -1,0 +1,86 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:24Z",
+  "title": "Gorges of Spirits",
+  "pageid": 5192,
+  "wikitext": "{{stub}}\n{{Location Infobox\n|title  = Gorges of Spirits\n|image  = Gorges of Spirits.png\n|map    = Solaris-3\n|type   = Region\n|nation = Huanglong\n}}\n{{Quote\n| speaker = [https://wutheringwaves.kurogames.com/en/main#regions ''Wuthering Waves Official Website'']\n| quote = While Jinzhou is the newest addition to Huanglong's cities, it holds a crucial position as a strategic pass.\nTravelers journeying to Jinzhou from other parts of Huanglong must pass through the Gorges of Spirits, a vital gateway into the city.\n}}\nThe '''Gorges of Spirits''' is a region in [[Jinzhou (Province)|Jinzhou]], [[Huanglong]]. It is the starting point of the game's events.\n==Areas== \n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n! Image\n! Description\n|- id=\"Bell-Borne Ravine\"\n|[[Bell-Borne Ravine]]\n|[[File:Bell-Borne Ravine.png|180px]]\u003cbr /\u003e\n|A ravine infested with ice, ending in a waterfall. Lying in the depths is the great [[Bell-Borne Geochelone]].\n|- id=\"Clouded Cliffs\"\n|[[Clouded Cliffs]]\n|[[File:Clouded Cliffs.png|180px]]\u003cbr /\u003e\n|A Midnight Rangers base defending the path to Inner Huanglong. The site of a great battle years before.\n|- id=\"Memento Square\"\n|[[Memento Square]]\n|[[File:Memento Square.png|180px]]\u003cbr /\u003e\n|A square featuring a large statue of [[Jué]] that is still under construction.\n|- id=\"Dreaming Cavern\"\n|[[Dreaming Cavern]]\n|[[File:Dreaming Cavern.png|180px]]\u003cbr /\u003e\n|A cavern connecting Jinzhou to the land of Xuanfang.\n|}\n\n==Quests==\n{{Quest by Category List|Gorges of Spirits}}\n\n==Exploration Report==\n===Golden Scales of Outer Huanglong I===\nUnlocked by reaching 50% exploration.\n{{Transclude|Golden Scales of Outer Huanglong I|Text|main=1}}\n\n===Golden Scales of Outer Huanglong II===\nUnlocked by reaching 100% exploration.\n{{Transclude|Golden Scales of Outer Huanglong II|Text|main=1}}\n\n==Notable Features==\n===Bosses===\n*{{Enemy|Bell-Borne Geochelone}}\n===Resources===\n*{{Item|Angelica}}\n*{{Item|Dewvetch}}\n*{{Item|Lemongrass}}\n*{{Item|Lotus Seeds}}\n*{{Item|Noctemint}}\n*{{Item|Pearl Leaf}}\n*{{Item|Wintry Bell}}\n\u003c!--\n==Gallery==\n==Trivia==\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Gorges of Spirits\n|zhs  = 云陵谷\n|zht  = 雲陵谷\n|ja   = {{Rubi|雲陵谷|うんりょうだに}}\n|ko   = 운릉 협곡\n|es   = Valle de Almas\n|fr   = Yunling-la-Vallée\n|de   = Geisterschluchten\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[zh:云陵谷]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Golden Scales of Outer Huanglong I",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Golden Scales of Outer Huanglong II",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

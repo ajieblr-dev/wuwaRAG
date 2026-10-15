@@ -1,0 +1,37 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:21Z",
+  "title": "Fang",
+  "pageid": 79481,
+  "wikitext": "{{NPC Infobox\n|name             = Fang\n|image            = NPC Fang.png\n|type             = Mentioned\n|nation           = Huanglong\n|group            = \n|affiliation      = Sentinels\n|title            = Sun Hare\n}}\n{{Quote\n| quote = [[Hsin]] the Moon Fox, Fang the Sun Hare, [[Promeus]]... Oh Sentinels above, I need your help...\n| speaker = [[Edwards]]\n}}\n'''Fang''' is one of [[Huanglong]]'s seven [[Sentinel]]s,\u003cref\u003e{{Quest|Utterance of Marvels: I}}\n:'''Yangyang:''' Yes, the one we built this statue for. The {{rubi|Sentinel|Oracle Engine}} in Jinzhou. There is one capital and six cities in Huanglong, with each city having its own Sentinel. While they share some similarities in appearance, there are also differences.\u003c/ref\u003e thus far only known in the prayers of the [[Startorch Academy]] student [[Edwards]] and through [[Hsin]]'s voicelines.\u003cref name=\"HSIN\"\u003e[[Hsin/Voicelines|Hsin's About Voicelines, About Fang the Sun Hare]]\n:...Where did that whole \"Fox Chasing the Moon\" tale even come from? The Moon Fox only wanted to retrieve a stolen mirror. How did it become a story of chasing the poor thing? Now, that little hare may seem quiet, but It is full of tricks. If you ever cross paths with It... you would do well to be careful.\u003c/ref\u003e\n\n==Profile==\nAs per the tale of \"The Fox and the Moon\", one of the most popular origin stories of the [[Moon-Chasing Festival]], Hsin, a merrymaker among the Sentinels known for its love of merriment and mischief, once teased Fang with a night of chasing during celebration.\u003cref name=\"HSIN\" /\u003e \n\nHsin says that while Fang may seem quiet, It is full of tricks. She then advises [[Rover]] to be careful if they ever cross paths with It.\u003cref name=\"HSIN\" /\u003e \n\n==Other Languages==\n{{Other Languages\n|en   = Fang\n|zhs  = \n|zht  =\n|ja   = \n|ko   = \n|fr   = \n|de   = \n|es   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|introduced=3.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:10Z",
+  "title": "Arbiter",
+  "pageid": 9279,
+  "wikitext": "{{Terminology Infobox\n|title        = Arbiter\n|type         = Lore\n}}\n\n'''Arbiter''' is a title and position of power over the [[Sentinels]] that grants them decision making authority. Rover holds on to this title even after losing their memories. It is first mentioned by [[Sentinels|Sentinel]] [[Jué]] in {{Quest|Mianloong Chamber (Quest)}}.\n\nBy definition, an Arbiter is a person with power to decide a dispute; a person or agency whose judgment or opinion is considered authoritative. \n\nIt is not known if there is more than one Arbiter or if it is a single designated role to Rover only, and if it's only authoritative power over just Sentinels. \n\n==Known Arbiter==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 150px;\" |Image\n!Name\n!Title\n!Attribute\n|-\n|[[File:Resonator Rover.png|50px]]\n|[[Rover]]\n|Lord/Lady Arbiter\n|[[Attribute/Rover|Multiple]]\n|}\n\n==Known Duties==\n*In Chapter I: Act VII - [[Thaw of Eons]], Jué required the Arbiter permission to transfer the Temporal Mandate to [[Jinhsi]]. Later, Jué reveals that Their existence requires approval from Rover as the Arbiter for any decision made. \n\n*In {{Quest|The Maiden, The Defier, The Death Crier}}, Imperator made an agreement with Arbiter (Rover) previously to have the restrictions on Their root privileges removed to be able to make decisions on Their own to uncovering Threnodian's true nature. \n\n*In {{Quest|Ode to the Second Sunrise}}, [[\"The Shaper\"|The Shaper]] requested Rover, who was foretold in the fractured records as Arbiter, to grant permission to take on the task of all [[Heliodic Six]] members calculations duties. This implies that Arbiter have some authority over the [[Exostrider]] as well. \n\n==Other Languages==\n{{Other Languages\n|en  = Arbiter\n|zhs = 御者\n|zht = 御者\n|ja  = 御者\n|ko  = 어자\n|fr  = Arbitre\n|de  = Schiedsrichter\n|es  = Arbiter\n}}\n\n== Navigation ==\n{{Lore Navbox|Terminology}}\n\n[[Category:Terminology]]\n[[Category:Lore]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Known Arbiter",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Known Duties",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

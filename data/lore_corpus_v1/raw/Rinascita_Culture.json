@@ -1,0 +1,128 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:52Z",
+  "title": "Rinascita/Culture",
+  "pageid": 27147,
+  "wikitext": "{{RegionTabs}}{{Stub}}\n==Daily Life==\n===Art===\nArt has a strong influence over the different city-states of Rinascita. In Ragunna especially, citizens honor the Sentinel through grand performances, and tend to engage in street festivals more so than attend stationary, year-round theaters.\n\nIn Septimont, a common form of entertainment is betting on gladiator fights in the underground casinos.\n\n===Cuisine===\n====Ragunna====\n{{Dishes by Category Table|Ragunna Dishes}}\n====Septimont====\n{{Dishes by Category Table|Septimont Dishes}}\n\n===Echoes===\nRinascita is also known as the Land of [[Echoes]], as they are the leading nation in Echo research and technology. Describing them as being gifts from the Sentinel, the people of Rinascita have developed a strong symbiotic bond with Echoes, incorporating them into many aspects of daily life. \n\n====Ragunna====\n[[Common Echoes]], also called \"Divine Envoys\", are adored in Ragunna, seen as trusted friends and allies. These Echoes can found throughout the streets of the city, entertaining with performances, cooking food at restaurants, or transporting citizens across the water. Many children even possess Echo themed toys. \n\nCertain kinds of Echoes are also employed tactically by the Order, often for surveillance, enforcement, and the spread of doctrine. However, Acolytes are strictly forbidden from getting attached to Echoes.\n\nCommon Echoes are available for all citizens who register their information with the Nexus, however, ownership of Reserved Echoes is heavily regulated by the [[Order of the Deep]], and thus most citizens are unfamiliar with them. \n\nThe Order actively purges [[Tacet Discord]] around the city so that their remaining [[Reverbation]] may be absorbed into the Genesis Nexus and become a frequency sample for Common Echoes. The people of Ragunna thus believe that Tacet Discords and Echoes are essentially the same, and that this process allows them to return to the Sentinel's embrace and once again become Divine Envoys to assist humanity.\n\n====Septimont====\nEcho gladiator battles are a common form of entertainment in Septimont.\n\n===Education \u0026 Science===\n\n==Economy==\nThe economy of Rinascita thrives on its trade ports, exporting spice and minerals to other parts of the world. The [[Montelli Family]] played an instrumental role in developing Rinascita's economy, having chartered its trade routes.\n\nA notable class divide exists in Ragunna, between the noble families and the commoners.\n\n==Festivals==\n===The Carnevale===\n{{main|Carnevale}}\n\n==Politics==\nRinascita has no center of politics, instead existing as a collection of autonomous city-states.\n\n===Ragunna===\n{{main|Order of the Deep}}\n\n===Septimont===\nWhile little is known about Septimont's government, they are said to be far more lax than Ragunna, and do not hold as close of a relationship to the Sentinel.\n\n==Military==\n\n==References==\n\u003creferences /\u003e",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Daily Life",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Art",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Cuisine",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Ragunna",
+      "number": "1.2.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Septimont",
+      "number": "1.2.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Echoes",
+      "number": "1.3",
+      "index": "6"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Ragunna",
+      "number": "1.3.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Septimont",
+      "number": "1.3.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Education \u0026amp; Science",
+      "number": "1.4",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Economy",
+      "number": "2",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Festivals",
+      "number": "3",
+      "index": "11"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "The Carnevale",
+      "number": "3.1",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Politics",
+      "number": "4",
+      "index": "13"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ragunna",
+      "number": "4.1",
+      "index": "14"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Septimont",
+      "number": "4.2",
+      "index": "15"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Military",
+      "number": "5",
+      "index": "16"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "17"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:11Z",
+  "title": "Ashinohara",
+  "pageid": 37374,
+  "wikitext": "{{Stub}}\n{{Region Infobox\n|image              = \n|map                = Solaris-3\n|chapter            = \n|main city          = \n|festival           = \n|controlling_entity = \n|demonym            = \n}}\n{{Description|The nation encompassing Honami City. Despite the frequent Waveworn Phenomena, it maintains a prosperous, highly urbanized society, marked by its sprawling railroad network.|Glossary Excerpt}}\n\n'''Ashinohara {{Lang|ja=葦ノ原}}''' was\u003cref\u003e''Midnight Podcast | Hiyuki'': \"The disappearance of Ashinohara is now an established fact.\"\u003c/ref\u003e a nation in [[Solaris-3]], a solitary floating island walled in on all sides, that was largely destroyed by the [[The Lament|Lament]]. It was the former site of [[Chronorift Metropolis|Honami City]], the site of Neo Honami City built nearby, and recently vanished in a single day.\n\nAshinohara was discriminatory against [[Resonator|Resonators]], who were required by its monitoring agencies to wear suppression devices and be placed on an observation list, for the sake of ensuring societal stability. The populace directly blamed them for [[Tacet Field]] outbreaks, and viewed those that dare walk around in public as ticking time bombs.\n\nThe Fractsidus Overseer known only as [[Zashiki-warashi]] primarily operated in Ashinohara, and has been implicated in its disappearance\u003cref\u003e''Chapter III Act V Starlights from Yesterdays''\u003c/ref\u003e, although the [[Threnodian#Known Threnodians|Threnodian of Ashinohara]] remains the most likely culprit. [[Hiyuki]], the Miko of Flaming Sakura and representative of the country at [[Startorch Academy]], possesses one of the five [[Legacy Talismans]] that were bestowed upon the internal factions of Ashinohara by the Sentinels. It is not known how many, if any, of these Sentinels remained to protect Ashinohara before its disappearance.\n\n==Resonators==\n===Playable Resonators===\n{{Resonators by Category Table|Playable Resonators\u0026Ashinohara Resonators}}\n\n===Upcoming Resonators===\n{{Resonators by Category Table|Upcoming Resonators\u0026Ashinohara Resonators}}\n\n==Trivia==\n===Etymology===\n* The name \"Ashinohara\" is derived from \"Ashihara-no-Nakatsukuni\" {{Lang|ja=葦原の中つ国・葦原中国|lit=the middle country of reed beds}}, the world between Takamagahara (heaven) and Yomi (hell) in Japanese mythology. It is also used as a poetic name for Japan.\n\n==Other Languages==\n{{Other Languages\n|en   = Ashinohara\n|zhs  = 苇原\n|zht  = 葦原\n|ja   = 葦ノ原\n|ko   = 아시노하라\n|fr   = Ashinohara\n|de   = Ashinohara\n|es   = Ashinohara\n|th   = อาชิโนะฮาระ\n|pt   = Ashinohara\n}}\n\n==Change History==\n{{Change History|introduced=2.8}}\n\n==References==\n{{Reflist|1}}\n\n==Navigation==\n{{Location Navbox}}\n[[zh:苇原]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resonators",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Playable Resonators",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Upcoming Resonators",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "2.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "9"
+    }
+  ]
+}

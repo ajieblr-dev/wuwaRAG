@@ -1,0 +1,51 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:21Z",
+  "title": "Fortress and Gorges War",
+  "pageid": 58857,
+  "wikitext": "{{Stub}}\n{{Terminology Infobox\n|title        = Fortress and Gorges War\n|image        = Fortress and Gorges War.jpg\n|type         = Lore\n|nation       = Huanglong\n}}\n{{Description|A large-scale war that broke out simultaneously in the Gorges of Spirits and Yuan Fortress, aimed at preventing the spread of the Tacet Discord Outbreak from the Norfall Barrens into Huanglong via the Land of Xuanfang.\u003cbr\u003eFollowing this war, Jinzhou was formally established.\u003cbr\u003eYuan Fortress was ultimately destroyed during the war, and Xuanfang Hold was later constructed upon its ruins.|Glossary}}\nThe '''Fortress and Gorges War''' was a large-scale war in [[Huanglong]] that was waged to prevent the spread of a large [[Tacet Discord]] outbreak that swept into [[Xuanfang]].\n\n==Overview==\nThe war wreaked havoc on the lands of Xuanfang, with most of the city's men and women taking up arms to join the battle and [[Mengzhou]] sending their greatest armies as aid. Despite the number of soldiers fighting in the war, it's said that \"for every ten (soldiers) who went to war, scarcely one returned alive\".\u003cref name=\"Wind Before Storm\"\u003e{{Quest|The Wind Before the Storm}}\u003c/ref\u003e\n\nThe war resulted in the fall of [[Yuan Fortress]], insurmountable damage to Xuanfang and the extinction of the [[Xuanling Bird]].\u003cref name=\"Wind Before Storm\"/\u003e\n\n===Aftermath===\nThe aftermath of the war saw the founding of [[Jinzhou]] and the rebuild of Xuanfang at the hands of Mengzhou, placing Xuanfang Hold under Mengzhou's jurisdiction.\n\n[[Lingfang]] was one of the causalities in the war.\n\n==Interactables==\n* [[Story about the Painting]]\n\n==Other Languages==\n{{Other Languages\n|en   = Fortress and Gorges War\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}} \n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Aftermath",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Interactables",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

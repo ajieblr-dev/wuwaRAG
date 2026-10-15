@@ -1,0 +1,107 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:25Z",
+  "title": "Hsin",
+  "pageid": 10962,
+  "wikitext": "{{Stub|}}\n{{Resonator Tabs}}\n{{Resonator Infobox\n|name             = Hsin\n|image            = {{Infobox Gallery}}\n|title            = The Moon Fox\n|type             = Playable\n|modelType        = \n|gender           = Female\n|class            = \n|age              = 200 years\n|mother           = Hsin The Moon Fox\n|rarity           = 5\n|attribute        = Electro\n|weapon           = Rectifier\n|obtain           = As Full as Tonight, Forever\n|birthday         = \n|releaseDate      = 2026-09-30\n|sigil            = \n|role             = Main Damage Dealer;Resonance Skill Damage;Unison;Electro Flare;Coordinated Attack\n|birthplace       = Unknown\n|nation           = Huanglong\n|affiliation      = Sentinels\n|affiliation2     = Mengzhou\n|dish             = Abundant Azure\n|voiceEN          = {{w|Suzie Yeung}}\u003cref name=\"Hsin-Bili\" /\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/菊花花 Ju Huahua ({{Lang|mini=1|zh=菊花花}})]\u003cref name=\"Hsin-Bili\"\u003eBilibili: [https://t.bilibili.com/1248500650294116370 《鸣潮》动画短片 | 寻心]\u003c/ref\u003e\n|voiceJP          = {{w|Mamiko Noto|Noto Mamiko ({{Lang|mini=1|ja=能登 麻美子}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/2101287693925617819 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/소연(성우) So Yeon ({{Lang|mini=1|ko=소연}})]\u003cref name=\"Hsin-Bili\" /\u003e\n}}\n\u003c!--keep both quotes?--\u003e\n{{Quote|To walk among their joys, and stand guard... over the everglowing lanterns.|Hsin}}\n{{Quote\n| quote = Hsin loves to join in on celebrations with its people. It's said that if you hear the leaves rustling, it must be Hsin wandering in the woods. Sometimes, it even leaves behind small, whimsical gifts, like this lottery wheel here. People consider this a good omen, as the sound of the spinning wheel mimics the rustling leaves in the tale.\n| speaker = Xianchen at the Moon-Chasing Festival\n}}\n{{Intro/Resonator|lang=zh=心}} She is also known as \"The Moon Fox\" or Hsin (Heart), and is one of [[Huanglong|Huanglong's]] seven [[Sentinel]]s who is located in [[Mengzhou]].\n\nAs per the tale of \"The Fox and the Moon\", one of the most popular origin stories of the [[Moon-Chasing Festival]], Hsin is a merrymaker among the Sentinels known for her love of merriment and mischief, and once teased another Sentinel with a night of chasing during celebration. This joyous scene, as they were silhouetted against the mid-autumn moonlight, gave rise to the term \"Moon-Chasing.\"\n\n==Combat Overview==\n{{Main|Hsin/Combat}}\n\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Hsin|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Trivia==\n*Hsin is the first playable [[Sentinel]] in Wuthering Waves.\n\n==Other Languages==\n{{Other Languages\n|en   = Hsin\n|zhs  = 心\n|zht  = 心\n|ja   = 心\n|ko   = 여우의별자리\n|fr   = Hsin\n|de   = Hsin\n|es   = Hsin\n|th   = Hsin\n|pt   = Hsin\n}}\n\n==Change History==\n{{Change History|introduced=1.2|3.7}}\n\n==References==\n{{Reflist|2}}\n\n==Navigation==\n{{Resonator Navbox}}\n[[ru:Синь]]\n[[zh:心]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tales Quests",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "3.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

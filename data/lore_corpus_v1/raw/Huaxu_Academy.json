@@ -1,0 +1,93 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:27Z",
+  "title": "Huaxu Academy",
+  "pageid": 938,
+  "wikitext": "{{Stub}}\n{{Faction Infobox\n|title        = Huaxu Academy\n|image        = Huaxu Academy - Xiangli Yao, Mortefi, Baizhi.jpg\n|nation       = Huanglong\n|base         = \n|leader       = \n}}\n{{Description|The state-run research institute of Huanglong, with branch organizations established in each city.|Glossary}}\n{{Lang|'''Huaxu Academy'''|zh=华胥研究院}} is a research institute in [[Huanglong]] with state-run branches in each city. \n\n==Jinzhou Campus' Organization==\nIn the Jinzhou territory, \"Huaxu Academy\" specifically denotes its Jinzhou Campus. Specializing in Wutherology, Ecoacoustics, and Resonology, the Jinzhou Campus has significantly advanced through achievements such as the development of [[Pangu Terminal]] and the construction of regional [[Resonance Beacons]]. \n\n==General==\nHuaxu Academy, a renowned scientific research center in Jinzhou, boasts a rich academic heritage and cutting-edge technology.\u003cref\u003e[[Archive: Huaxu Academy, Jinzhou Campus]]\u003c/ref\u003e \n\nAs a branch of Huanglong Huaxu Academy, it has produced numerous groundbreaking research results due to its focus on advancing science and technology in the face of the ongoing war against Tacet Discord. \n\nThe academy maintains a high level of independence in its research pursuits, while also actively engaging in academic exchanges with other institutions within Huanglong and beyond. In fact, it was once a key collaborator of the [[Court of Savantae]]. \n\nComprised of four primary departments, each with its own specialized functions, Huaxu Academy conducts parallel and cooperative research initiatives. \n\nAd hoc project teams are also formed to tackle major challenges as they arise. While the president oversees administrative affairs, the Principle Investigator serves as the academic leader of the academy. \n\nComprised of four primary departments, each with its own specialized functions, Huaxu Academy conducts parallel and cooperative research initiatives. \n\n===Department of Anomaly Studies===\nThe Department of Anomaly Studies researches and analyzes abnormal occurrences, constructs theories based on these events, and devises preventative measures. This includes the [[Resonance Beacon]] network model and Wutherological Climate studies in [[Jinzhou]].  \n* Main Disciplines: Wutherology, Remnant Ecoacoustics. \n\n===Department of Laboratory Evaluation===\nThe Department of Laboratory Evaluation analyzes and simulates anomalies using different theories to find optimal solutions. They also design the internal structure of Resonance Beacon and [[Terminal]] for effective use.\n* Main Disciplines: N/A\n\n===Department of Safety===\nThe Department of Safety researches and supports the elimination of [[Tacet Discord]]. They design [[Tacetite]] Weapon models for [[Resonators]] and create countermeasure equipment for civilians.\n* Main Disciplines: TD Ecoacoustics, Resonology. \n\n===Department of Resources===\nThe Department of Resources primarily studies [[Waveworn]] substances, processes field materials for research samples, and contributes to the Departments of Laboratory Evolution and Safety.\n* Main Disciplines: Wuthermaterials, TD Ecoacoustics, Plant Ecoacoustics. \n\n==Branches==\n* [[Jinzhou]] - [[Jinzhou Huaxu Academy]]\n* [[Xuanfang]] - [[Xuanfang Huaxu Academy]] \n\n==Gallery==\n\u003cgallery\u003e\nHuaxu Academy - Xiangli Yao, Mortefi, Baizhi.jpg|thumb|Promo Art (Jinzhou Branch)\n\u003c/gallery\u003e \n\n==Other Languages==\n{{Other Languages\n|en   = Huaxu Academy\n|zhs  = 华胥研究所\n|zht  = 華胥研究所\n|ja   = 華胥研究院\n|ko   = 화서연구원\n|fr   = L'Académie de Huaxu\n|de   = das Institut von Huaxu\n|es   = Academia Huaxu\n|th   = \n|pt   = \n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==References==\n{{Reflist}} \n\n==Navigation==\n{{Faction Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Jinzhou Campus' Organization",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "General",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Department of Anomaly Studies",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Department of Laboratory Evaluation",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Department of Safety",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Department of Resources",
+      "number": "2.4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Branches",
+      "number": "3",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

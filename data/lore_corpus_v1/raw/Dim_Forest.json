@@ -1,0 +1,114 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:18Z",
+  "title": "Dim Forest",
+  "pageid": 2960,
+  "wikitext": "{{Location Infobox\n|title  = Dim Forest\n|image  = Giant banyan.png\n|map    = Solaris-3\n|type   = Region\n|nation = Huanglong\n}}\n'''Dim Forest''' is a region in [[Huanglong]]. It is a forest consisting of many unique flora, such as the [[Violet Banyan]] and [[Giant Banyan]], with hostile life inhabiting the [[Forbidden Forest]]. A number of Jinzhou scientists spend their time here to study Hoochiefs.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" | Name\n! Image\n! Description\n|- id=\"\" Forbidden Forest\n| [[Forbidden Forest]]\n|[[File:Forbidden Forest.png|180px]]\u003cbr /\u003e\n|A mist-filled forest, where the trees whisper crying tears.\n|- id=\"Giant Banyan\"\n|[[Giant Banyan]]\n|[[File:Dim Forest Loading Screen.png|180px]]\u003cbr /\u003e\n|A large tree in the center of the Dim Forest, spreading a toxic infection throughout the woods.\n|- id=\"Thorny Passage\"\n|[[Thorny Passage]]\n|[[File:Thorny Passage.png|180px]]\u003cbr /\u003e\n|A passage under the hills separating Dim Forest from the world.\n|- id=\"Violet Banyan\"\n|[[Violet Banyan]]\n|[[File:Violet Banyan.png|180px]]\u003cbr /\u003e\n|A large willow with multiple moon-shaped lamps hanging from its branches.\n|- id=\"Wenye Beach\"\n|[[Wenye Beach]]\n|[[File:Wenye Beach.png|180px]]\u003cbr /\u003e\n|A large swath of area reaching from the coast to the woodland. There is a cave with a research camp set up in this area.\n|}\n==Quests==\n{{Quest by Category List|Dim Forest Quests}}\n\n==Exploration Report==\n===A Behavioral Report on the Hoochiefs in Dim Forest I===\n\n*Unlocked by reaching 50% exploration.\n\n{{Transclude|A Behavioral Report on the Hoochiefs in Dim Forest I|Text|main=1}}\n\n===A Behavioral Report on the Hoochiefs in Dim Forest II===\n\n{{Transclude|A Behavioral Report on the Hoochiefs in Dim Forest II|Text|main=1}}\n\n==Notable Features==\n===Challenges===\n*[[Forgery Challenge: Misty Forest]]\n*[[Tacet Field: Dim Forest]]\n\n===Bosses===\n*{{Enemy|Feilian Beringal}}\n\n===Resources===\n*{{Item|Angelica}}\n*{{Item|Bunnywort}}\n*{{Item|Chromeshell}}\n*{{Item|Coriolus}}\n*{{Item|Edodes}}\n*{{Item|Floramber}}\n*{{Item|Lemongrass}}\n*{{Item|Pearl Leaf}}\n*{{Item|Perilla}}\n*{{Item|Scarletthorn}}\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=location}}\n\n==Trivia==\n*[[Suan'ni]] are said to have lived in the Violet Banyan.\n*The Banyan's moon shaped lamps are suggested to be made by [[Lingyang]] and his grandmother.\n\n==Other Languages ==\n{{Other Languages\n|en   = Dim Forest\n|zhs  = 无光之森\n|zht  = 無光之森\n|ja   = 光なき森\n|ko   = 암흑 밀림\n|es   = Bosque Oscuro\n|fr   = Forêt aveuglante\n|de   = Düsterer Wald\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[zh:无光之森]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "A Behavioral Report on the Hoochiefs in Dim Forest I",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "A Behavioral Report on the Hoochiefs in Dim Forest II",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.3",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "9",
+      "index": "14"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "10",
+      "index": "15"
+    }
+  ]
+}

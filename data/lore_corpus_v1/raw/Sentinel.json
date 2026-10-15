@@ -1,0 +1,86 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:54Z",
+  "title": "Sentinel",
+  "pageid": 1012,
+  "wikitext": "{{Spoiler}}\n{{Terminology Infobox\n|image        = Sentinel.png\n|title        = Sentinels\n|type         = Lore\n}}\nThe '''Sentinels''', also called '''Oracle Engines''',\u003cref name=\"PROLOGUE\"\u003e{{Quest|Utterance of Marvels: I}}\n:'''''Yangyang:''' Yes, the one we built this statue for. The {{rubi|Sentinel|Oracle Engine}} in Jinzhou. There is one capital and six cities in Huanglong, with each city having its own Sentinel. While they share some similarities in appearance, there are also differences.''\n:''[...]''\n:'''''Yangyang:''' Records state the Sentinels in Huanglong were once a single entity. Now they are each responsible for a part of Huanglong.''\u003c/ref\u003e stand at the brink of civilization and history, as guardians and guides. Their immortal existence has helped humanity through countless troubles, sharing prophecies and wisdom. As [[Rover]] embarks on a new journey after enduring [[The Lament|the Lament]], the Sentinels remain humanity's record keeper and beacon in times of disaster. They were created by the [[Homeland Civilization]], whose [[Exostrider]]s would deliver them to [[Solaris-3]].\u003cref\u003e{{Quest|The Star That Voyages Far}}\n:'''''Aemeath:''' Back when we lived together, you once told me you'd come from a faraway place. That you were on Solaris to carry out a mission.''\n:'''''Aemeath:''' Current research suggests the Exostriders and Sentinels were made with technology from the same civilization. I think that civilization... is the faraway homeland you spoke of.''\n:''[...]''\n:'''''Aemeath:''' That was when I realized that Exostriders were built to transport Sentinels.''\n:'''''Aemeath:''' They trekked through stars to deliver Sentinels to Solaris. Until, during one jump, the Threnodian Aleph-1 must've noticed them.''\u003c/ref\u003e\n\nSentinels are only able to resonate with one [[Resonator]] at a time, and the breaking of this law will result in both the Sentinel and its current Resonator having their frequencies rent asunder, destroying them.\n\n==Known Sentinels==\n===Huanglong===\nThe Sentinels of [[Huanglong]] were originally one being before being split into seven,\u003cref group=\"note\"\u003eThis resembles the myth of [[wp:Pangu|Pangu]], who has been mentioned in the story. Pangu may therefore be the Huanglong Sentinel's original name.\u003c/ref\u003e each guarding a province of the nation.\u003cref name=\"PROLOGUE\" /\u003e They are likely named after the seven astrological mansions of the {{w|Azure Dragon}}.\u003cref group=\"note\"\u003eThus the remaining Sentinels are likely named Kang, Di, Wei, and Ji.\u003c/ref\u003e\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Image\n!Name\n!Area\n!Connected Resonators\n!Status\n|-\n|[[File:Jué Icon.png|180px]]\n|[[Jué]]\u003cbr\u003e(\"Horn\")\n|[[Jinzhou]]\n|\n*[[File:Resonator Jinhsi.png|25px]] [[Jinhsi]] - Chosen Magistrate \u0026 Current Resonator\n*[[File:Resonator Jiyan.png|25px]] [[Jiyan]] - Appointed General\n*[[Geshu Lin]] - Previously Appointed General\n*[[File:Resonator Rover.png|25px]] [[Rover]] - Arbiter\n|Alive (Recovering)\n|-\n|[[File:Resonator Hsin.png|180px]]\n|[[Hsin]] the Moon Fox\u003cbr\u003e(\"Heart\")\n|[[Mengzhou]]\n|\n*[[Xuanqing]]\u003cref\u003e{{Quest|Moonlike Heart, Mortal Longing}}\n:'''''{{Rover}}:''' (Just as I thought. Xuanqing is Hsin's Resonator.)''\u003c/ref\u003e\n*[[File:Resonator Rover.png|25px]] [[Rover]] - Arbiter\n|Alive\n|-\n|TBA\n|[[Fang]] the Sun Hare\u003cbr\u003e(\"Room\")\n|Unknown\n|Unknown\n|Unknown\n|}\n\n===Rinascita===\nRinascita is said to only have one Sentinel.\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Image\n!Name\n!Area\n!Connected Resonators\n!Status\n|-\n|[[File:Imperator Icon.png|150px]]\n|[[Imperator]]\u003cbr\u003e(Pegasus) \n|[[Rinascita]]\n|\n* [[Napoli II]] - First Resonator\n*[[File:Fenrico Icon.png|25px]] [[Fenrico]] - Former Primus, fraudulent \"Enlightened One\"\n*[[File:Resonator Cartethyia.png|25px]] [[Cartethyia]] (Fleurdelys) - Blessed Maiden, Resonator of merged Imperator and [[Leviathan]], Current Resonator\n*[[File:Resonator Cantarella.png|25px]] [[Cantarella]] - Chosen Resonator, relinquished powers to Imperator and ceded title to Cartethyia\n*[[File:Resonator Rover.png|25px]] [[Rover]] - Arbiter\n|Deceased\n|}\n\n===Lahai-Roi===\n[[Lahai-Roi]] is originally a nation without a Sentinel, with the closest thing being the [[Exostrider]]; a mechanoid made of the same technology as the Sentinels. It is one of many Exostriders that were created to transport Sentinels from the [[Homeland Civilization]] across space to [[Solaris-3]], but this one in particular was intercepted by [[Aleph-1]] in space and sealed the [[Threnodian]] with the help of [[Aemeath]].\n\nAfter the events of the [[Version 3.3]] main quest, the Exostrider is upgraded to Sentinel status and takes the name Lahai-Roi.\u003cref\u003e{{Quest|Starlights from Yesterdays}} Summary\n:''Once the Drive Replica is embedded within the Exostrider, it completes its ascension and becomes a Sentinel. [...] Before you part, the Exostrider requests your permission to change its designation to bear a new name: \"Lahai-Roi.\"''\u003c/ref\u003e\n\n{|class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Image\n!Name\n!Area\n!Connected Resonators\n!Status\n|-\n|[[File:Exostrider Icon.png|150px]]\n|[[Exostrider]]\u003cbr\u003eLahai-Roi\u003cbr\u003eBaldur (formerly)\n|[[Lahai-Roi]]\n|\n*[[File:Resonator Aemeath.png|25px]] [[Aemeath]] - Exostrider's Synchronist \u0026 Resonator\n*[[File:Resonator Rover.png|25px]] [[Rover]] - Arbiter\n|Active\n|}\n\n===Others===\nThe Sentinel [[Promeus]] is of unknown origin, thus far only known in the prayers of the [[Startorch Academy]] student [[Edwards]].\u003cref\u003e[[Edwards]], Idle\n:'''''Edwards:''' Hsin the Moon Fox, Fang the Sun Hare, Promeus... Oh Sentinels above, I need your help...''\n:'''''Edwards:''' Any one of you, just let me pass, I'm begging you...''\u003c/ref\u003e\n\nEnglish-language descriptions\u003cref\u003e[https://wutheringwaves.kurogames.com/en/main/news/detail/4569 Post-Lament Anthropocene: Stars Intertwined | Hiyuki]\u003c/ref\u003e suggest that [[Ashinohara]] may have several Sentinels that left the [[Legacy Talismans]] in the country for safekeeping. As none have been named however, it remains possible that these Sentinels left the country after bestowing the Talismans to it.\n\n== Technology ==\nThrough the Homeland Civilization which they originate from, as explained by Aemeath in {{Quest|The Star That Voyages Far}}, the Sentinels hold advanced technology that could alter the human civilizations found on Solaris-3. As they were delivered through the Exostrider for the seeming goal of helping humanity, much of their technology consists in aiding them. However, due to how advanced their technology is, such as the Genesis Nexus and Autopuppets, it is noted by [[Muyu]] in {{Quest|The Wind Before the Storm}} that Sentinel technology is a black box to humanity. [[Baizhi]] attests that the Autopuppets utilized in [[Xuanfang Hold]] that are the pinnacle of Automata Mechanics as a field for the foreseeable future, where [[Xiangli Yao]] attests that Xuanfang Hold itself is a masterpiece that doesn't require people to defend the civilians.\u003cref\u003e{{Quest|The Wind Before the Storm}}\n:'''''Baizhi:''' Do be extra cautious, {{Rover}}. Xuanfang Hold isn't just any military stronghold. It's the pinnacle of what Automata Mechanics as a field can achieve today, and for the foreseeable future.''\n:[...]\n:'''''Xiangli Yao:''' It's the masterpiece of Mengzhou's Sentinel, Hsin. A mechanical city built for the sole purpose of trapping and eliminating Tacet Discords to keep wider Mengzhou safe.''\u003c/ref\u003e When investigating the Autopuppets, Rover states that while they're as advanced as Lahai-Roi's machines, possibly more, no one could understand how they work.\n\nThough, Sentinel Hsin states in {{Quest|Song of the Heart Sword}} that technology that outpaces the current era is equally a curse as it is a blessing. This suggests that the Sentinels refrain from granting humanity their full knowledge, with Hsin stating that their technology was never meant for the mortal world as to many lives were warped through their appearance. As such, certain technology like the Cloud Shuttles were never introduced after Yuan Fortress self-destructed while the Celestials, such as [[Ruoyun]], were restricted from revealing high-clearance knowledge. \n\nSentinels also hold what is known as a Civilization Capsule. Their exact functions are unknown, however, they contain vital legacy data concerning the Sentinels and civilization. They are capable of simulating, reconstructing and converge future possibilities, and are used by the Sentinels in guiding mankind in creating humanity's civilizations. In Xuanfang Hold, the Sanctum managed to create an entire simulated timeline which Muyu interfered with during his attempt to steal it. These specific types of technology are desired by [[Leviathan]] and the [[Fractsidus]] Overseer, [[Balanophora]], for uncertain reasons.\n\n==Other Languages==\n{{Other Languages\n|en   = Sentinel\n|zhs  = 岁主\n|zht  = 歲主\n|ja   = 歳主\n|ko   = 수호신\n|es   = Centinela\n|fr   = Sentinelle\n|de   = Das Hütende\n|th   = \n|pt   = Sentinela\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Notes==\n\u003creferences group=\"note\"/\u003e\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}\n\n[[Category:Terminology]]\n[[Category:Lore]]\n[[zh:岁主]]\n[[ru:Хранитель]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Known Sentinels",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Huanglong",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Rinascita",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Lahai-Roi",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Others",
+      "number": "1.4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Technology",
+      "number": "2",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notes",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:13Z",
+  "title": "Black Shores Archipelago",
+  "pageid": 21831,
+  "wikitext": "{{Location Tabs|Map:Black Shores Archipelago}}\n{{Stub}}\n{{Location Infobox\n|title        = Black Shores Archipelago\n|image        = \u003cgallery\u003e\nHeihaian1.png|In-Game\nThe Black Shores Archipelago Map Template.png|Map\n\u003c/gallery\u003e\n|type         = Region\n|map          = Solaris-3\n|event        = \n|nation       = The Black Shores\n}}\n{{Quote|An archipelago shrouded in the Stormy Sea of Solaris. Formed from Tacetites, these isles constantly emanate Remnant Energy, casting an eerie \"mist\" that envelopes the region.|[https://wutheringwaves.kurogames.com/en/main#regions Wuthering Waves Official Website]}}\n{{Intro/Location|Black Shores Archipelago}} Access is unlocked during [[Hidden Between the Waves]].\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n! Description\n|- id=\"Haven of Sprouts\"\n|[[Haven of Sprouts]] \n|[[File:Haven of Sprouts.png|180px]]\u003cbr /\u003e\n|The living quarters of the Black Shores staff, tailored to reflect their tastes. From arcade machines to rare collections from around the world, anything they like can be found here.\n|- id=\"Tethys Hub\"\n|[[Tethys Hub]]\n|[[File:Tethys Hub.png|180px]]\u003cbr /\u003e\n|An archipelago shrouded in the Stormy Sea of Solaris. Formed from Tacetites, these isles constantly emanate Remnant Energy, casting an eerie \"mist\" that envelopes the region. This mist distorts human perception and jams all forms of communication, making the archipelago inaccessible to most. Only those recognized or invited by the Black Shores can navigate their way to this mysterious place.\n|- id=\"TD Observatory\"\n|[[TD Observatory]]\n|[[File:TD Observatory.png|180px]]\u003cbr /\u003e\n|The TD Observatory is where Black Shores stores TD data gathered from around the world.\u003cbr/\u003eThe data will then be converted into digital Reverberations and transferred to the Tethys System underground as the building blocks of the data space within the Infinite Reality Sandbox.\n|}\n\n==Notes and Points of Interest==\n===[[Stargate]]===\nStargate is a gateway hidden beneath the central waters of the Black Shores archipelago, where data surges endlessly downward like a torrent. Descend through the Stargate, and when gravity reverses its hold, [[Tethys' Deep]] shall reveal itself. From here data turns into stars, lighting up the sky beneath.\n\n===Communication Interference===\nThe frequencies emitted by the Tacetites disrupt standard communication signals. Communication with the outside world is only possible via the Black Shores' Beacon relay system.\n\n===Blake Bloom===\nShaped by the unique environment of the Black Shores, the rare Remnant plant has since become the region's symbol. Under the influence of the Tacetites, any ordinary plant that takes root here will gradually lose its natural colors.\u003cref name=\"WGV1\"\u003eArticle: [[Wutherium Geographic: Lands and Waters — The Black Shores Vol. 1]]\u003c/ref\u003e\n\n==Quests==\n{{Quest by Category List|Black Shores Archipelago Quests}}\n\n==Exploration Report==\n===Basic Introduction to the Black Shores I===\n\n*Unlocked by reaching 50% exploration.\n\n{{Transclude|Basic Introduction to the Black Shores I|Text|main=1}}\n\n===Basic Introduction to the Black Shores II===\n\n*Unlocked by reaching 100% exploration.\n\n{{Transclude|Basic Introduction to the Black Shores II|Text|main=1}}\n\n==Gallery==\n\n==Other Languages==\n{{Other Languages\n|en   = Black Shores Archipelago\n|zhs  = 黑海岸群岛\n|zht  = 黑海岸群島\n|ja   = ブラックショア諸島\n|ko   = 검은 해안 군도\n|fr   = Archipel du Littoral noir\n|de   = Archipel der Schwarzen Küsten\n|es   = Archipiélago de Costa Negra\n|th   = \n}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notes and Points of Interest",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Stargate",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Communication Interference",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Blake Bloom",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Basic Introduction to the Black Shores I",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Basic Introduction to the Black Shores II",
+      "number": "4.2",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "13"
+    }
+  ]
+}

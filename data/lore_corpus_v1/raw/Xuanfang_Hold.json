@@ -1,0 +1,107 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:25:16Z",
+  "title": "Xuanfang Hold",
+  "pageid": 38120,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title    = Xuanfang Hold\n|image    = Xuanfang Hold.png\n|type     = Region\n|type2    = City\n|type3    = Huanglong City{{!}}Huanglong Cities\n|map      = Solaris-3\n|event    = \n|nation   = Huanglong\n}}\n'''Xuanfang Hold''' is a [[region]] of the [[Mengzhou]] Province in [[Huanglong]], and the primary settlement of the frontier region of Xuanfang. It is located between the cities of Mengzhou and [[Jinzhou]], and is considered a vital passageway between them.\n\nBefore the founding of Jinzhou, Xuanfang Hold was established north of the Clouded Cliffs by Sentinel [[Hsin]] and Mengzhou's frontier court to contain and divide the [[Tacet Discord]] outbreak flowing from [[Norfall Barrens]]. It was built atop the ruins of Yuan Fortress after its destruction during the Fortress and Gorges War in collaboration with the [[Court of Savantae]].\n\nOne of its mountains is said to have a reclusive martial arts master living at the peak.\u003cref\u003eGlossary\u003c/ref\u003e\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n! Description\n|-\n|[[File:Xuanfang Square.png|180px]]\u003cbr /\u003e[[Xuanfang Square]]\n|\n|-\n|[[File:Huizhen Plaza.png|180px]]\u003cbr /\u003e[[Huizhen Plaza]]\n|\n|-\n|[[File:Xuanfang Huaxu Academy.png|180px]]\u003cbr /\u003e[[Xuanfang Huaxu Academy]]\n|\n|-\n|[[File:Verdant Court.png|180px]]\u003cbr /\u003e[[Verdant Court]]\n|\n|-\n|[[File:Xuanfang Ministry of War.png|180px]]\u003cbr /\u003e[[Xuanfang Ministry of War]]\n|\n|-\n|[[File:Xuanfang Ministry of Development.png|180px]]\u003cbr /\u003e[[Xuanfang Ministry of Development]]\n|\n|-\n|[[File:Western Skyreach Range.png|180px]]\u003cbr /\u003e[[Western Skyreach Range]]\n|\n|-\n|[[File:Hidden Entrance.png|180px]]\u003cbr /\u003e[[Hidden Entrance]]\n|\n|-\n|[[File:Eastern Fogveil Pass.png|180px]]\u003cbr /\u003e[[Eastern Fogveil Pass]]\n|\n|}\n\u003c!--===Points of Interest===\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Description\n|- id=\"City Hall\"\n|[[File:City Hall.png|180px]]\u003cbr /\u003e[[Jinzhou City Hall]]\n|Located in the highest position in Jinzhou, the City Hall stands as the paramount political hub, housing the vital data repository — the Grand Library. Since the establishment of Jinzhou, it has served as the residence of every Jinzhou Magistrate. The current Magistrate of Jinzhou is Jinhsi.\n|}\n--\u003e\n==Quests==\n{{Quest by Category List|Xuanfang Hold Quests}}\n\u003c!--\n==Exploration Report==\n===Xuanfang Hold Exploration Report I===\n\n*Unlocked by reaching 50% exploration.\n\n{{Transclude|Xuanfang Hold Exploration Report I|Text|main=1}}\n\n===Xuanfang Hold Exploration Report II ===\n*Unlocked by reaching 100% exploration.\n{{Transclude|Xuanfang Hold Exploration Report II|Text|main=1}}\n--\u003e\n==Notable Features==\n===Challenges===\n*[[Sparring Ground]]\n\u003c!--\n===Enemies===\n====Elite Class====\n*\n====Common Class====\n*\n--\u003e\n===Resources===\n*{{Item|Cloudperch Seed}}\n*{{Item|Flowborne Dream}}\n*{{Item|Leafweaver}}\n*{{Item|Uncracked Jade}}\n*{{Item|White Jade Beauty}}\n\u003c!--\n==Trivia==\nsomeone's gonna work out something cool about its architecture or whatever, and we put that info here.\n--\u003e\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=location}}\n\n==Gallery==\n\u003cgallery\u003e\nMengzhou.png|The Land of Xuanfang\n\u003c/gallery\u003e\n===Videos===\n\u003cgallery\u003e\nWhere it lies, one may wonder—\nWuthering Waves Special Record - Xuanfang\nWuthering Waves Version 3.5 Geographic Preview\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|1_en   = Xuanfang\n|1_zhs  = 玄方\n|1_zht  = 玄方\n|1_ja   = 玄方\n|1_ko   = 현방\n|1_fr   = Xuanfang\n|1_de   = Xuanfang\n|1_es   = Xuanfang\n|1_th   = เสวียนฟาง\n|1_pt   = Xuanfang\n\n|2_en   = Xuanfang Hold\n|2_zhs  = 玄方城\n|2_zht  = 玄方城\n|2_ja   = 玄方城\n|2_ko   = 현방성\n|2_fr   = Cité de Xuanfang\n|2_de   = Xuanfang-Feste\n|2_es   = Fortaleza Xuanfang\n|2_th   = เมืองเสวียนฟาง\n|2_pt   = Xuanfang\n}}\n\n==Change History==\n{{Change History|introduced=2.8|3.5}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[zh:玄方地界]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "5.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Xuanfang",
+      "number": "6.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Xuanfang Hold",
+      "number": "6.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "12"
+    }
+  ]
+}

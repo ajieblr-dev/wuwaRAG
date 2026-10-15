@@ -1,0 +1,44 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:25:05Z",
+  "title": "The Moon",
+  "pageid": 41913,
+  "wikitext": "{{Terminology Infobox\n|image        = Septimont Moon.png\n|title        = \n|type         = Lore\n}}'''The Moon''' is a [[Waveworn Phenomenon]] in the sky of [[Solaris-3]], likely some kind of reflection of the [[Etheric Sea]] akin to [[Retroact Rain]]'s ability to conjure up the memories of those caught in it. In this sense, the Moon that can be observed on Solaris today is likely a sort of mass-civilisational memory passed from generation to generation, explaining why its appearance is different from culture to culture and why it never appears during the day.\n\nThe exact history of the Moon remains unclear. Its appearance in all cultures on Solaris demonstrates that at one point, the Moon was a real physical object orbiting the planet. While its destruction is a fact,\u003cref\u003e[[Lunite]], Item Description\n:''The moon has long been shattered by the Waveworn Phenomenon. What we observe is nothing but the past's mirage.''\u003c/ref\u003e when exactly this occurred is not clear, although presumably the inhabitants of Solaris would not be able to confirm this destruction if it occurred after the fall of [[SkyArk Space Station]] and the envelopment of the Etheric Sea. Events in [[Dreaming Deep]], which may or may not be tales based on reality, imply that the Moon once visible from the surface was artificially placed in orbit.\u003cref\u003e''[[When Moonlight Shines in the Forest]]'' also makes allusions to the idea of several artificial moons being placed \"to light the dark forest,\" which in turn may be referring to the dark forest hypothesis.\u003c/ref\u003e [[Wutherium Geographic: Lands and Waters — Extra Volume: Culture and Customs#Dual Moons|Some aspects]] of [[Jinzhou]] culture and the dual moons seen in the [[Sanguis Plateaus]] and [[Roya Frostlands]] suggest that Solaris may have even had two moons at one point.\n\nThe Moon plays an important role in many cultures in Solaris. Both Jinzhou and [[Septimont]] use the moon's reflection for fortune-telling, while the [[Moon-Chasing Festival]] of [[Huanglong]] remains one of its most important traditional festivals. The Sentinel [[Hsin]] is also related to the moon, being given the title \"Moon Fox.\"\n\nThe moon both visible and visited during ''[[At Dream's Edge]]'' is not Solaris' moon, and instead is a [[Somnoire]]-induced recreation of Earth's moon from [[Lucy]]'s memories of the {{W|Cyberpunk 2077}} universe.\n\n==Gallery==\n\u003cgallery\u003e\nJinzhou Moon.png|The moon in Jinzhou\nJinzhou Moon Angry.png|The moon in Jinzhou during {{Quest|Grand Warstorm}}\nBlack Shores Moon.png|The moon in Black Shores\nCat Moon.png|The moon seen in the Somnoire during {{Quest|When the Night Knocks}}\nRagunna Moon.png|The moon in Ragunna\nAvinoleum Moon.png|The moon in Avinoleum\nSeptimont Moon.png|The moon in Septimont\nSanguis Moon.png|The moon in the Sanguis Plateaus\nSanguis Moon2.png|The smaller moon in the Sanguis Plateaus\nChaos Moon.png|The moon in Chaos\nHonami Moon.png|The moon in Chronorift Metropolis\nFrostlands Moon.png|The moon in the Roya Frostlands Surface\nXuanfang Moon.png|The moon in Xuanfang\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = The Moon\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = A Lua\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n\u003creferences /\u003e\n\n==Navigation==\n{{Lore Navbox|Terminology}}\n[[Category:Lore]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

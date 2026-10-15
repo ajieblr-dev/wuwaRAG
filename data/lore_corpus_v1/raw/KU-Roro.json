@@ -1,0 +1,58 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:33Z",
+  "title": "KU-Roro",
+  "pageid": 38669,
+  "wikitext": "{{Stub|info, gallery, categorizing}}\n{{Terminology Infobox\n|title        = KU-Roro\n|image        = KU-Cass Map Marker.png\n|type         = Lore\n|affiliation  = Black Shores\n|nation       = \n|region       = The Black Shores\n}}\n{{Quote|Ku... Ku... Ku...}}\n'''KU-Roro's ''' (aka Tethys Terminals) are box shaped robots that can be found at the [[Black Shores Archipelago]]. \n\n==Archive==\n{{Readable|\nThese unique robots, found throughout the Black Shores, serve as the physical terminals of the Tethys System. Their construction and performance capabilities remain largely unknown, yet they possess direct access to the system, second only to its administrator. Within the Black Shores, these robots function both as assistants and tools in the daily activities of its members.\u003cbr\u003e\n\nEach terminal has a distinct personality, and the study of these robots has advanced the field of cognitive psychology.\u003cbr\u003e\n\nThe KU-robots found all over the island are directly linked to the Tethys System. The Tethys system gives them all their own personalities and voice frequencies are encoded into languages that humans can understand. The robots can be considered a living race of their own.|title=The Black Shores Robots; KU-Roro}}\n\n==NPCs==\n{{NPCs by Category List|KU-Roro Characters}}\n\n==Trivia==\n* They are ''[[Kuro Games]]'' mascots.\n** KU-Roro were first seen in the previous ''Kuro Games'' game, Punishing Gray Raven.\n* KU-Roro names are [[KU-Mamar|code names]], with their full name being numbers. \n* While each KU-Roro have their own set of duties that are identifiable by their coatings, each individual differs still. Such example is a KU-Roro Gardener or KU-Roro Medic is capable of taking up arms during emergencies, while other KU-Roro's have zero self defense.  \n\n==Gallery==\n\u003cgallery\u003e\nKU-Roro Profile About 1.jpg\nKU-Roro Profile About 2.jpg\nNPC KU-Ryan.png|Standard Black version\nKU-Hehe.png|Security Type\nKU-Money.png|Finance Type\nNPC KU-Cass.png|Medic Type\nKU-Flora.png|Gardener Type\nEnergy Hub charging station.png|Charging\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en      = KU-Roro\n|zhs     = \n|zht     = \n|ja      = \n|ko      = \n|es      = \n|fr      = \n|de      = \n|th      = \n|pt      = \n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Archive",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

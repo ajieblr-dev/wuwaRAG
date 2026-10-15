@@ -1,0 +1,23 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:47Z",
+  "title": "Promeus",
+  "pageid": 39919,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|name             = Promeus\n|image            = NPC Promeus.png\n|type             = Mentioned\n|nation           = \n|group            = \n|affiliation      = Sentinels\n|title            = \n}}\n{{Quote\n| quote = [[Hsin]] the Moon Fox, [[Fang]] the Sun Hare, Promeus... Oh Sentinels above, I need your help...\n| speaker = Edwards\n}}\n'''Promeus''' is a [[Sentinel]] of unknown providence, thus far only known in the prayers of a [[Startorch Academy]] student.\n\nHowever, it is speculated that, due to thematic links with its likely namesake [[wp:Prometheus|Prometheus]] {{Lang|grc=Προμηθεύς}}, that Promeus may be the otherwise unknown sentinel of the [[New Federation]]. Sentinels have generally reflected mindsets in a nation, and as Prometheus was the Titan who provided the Greeks not only with fire, but by proxy technology and civilisation, Promeus may also be connected to the New Federation's technology cult and scientific analysis of itself. The Novialle Regeneration Group also provides another link to classical imagery with its Ichor technology.\n\n==Other Languages==\n{{Other Languages\n|en   = Promeus\n|zhs  = 普罗米厄\n|zht  = 普羅米厄\n|ja   = プロメウス\n|ko   = 프로메우스\n|fr   = Promeus\n|de   = Promeus\n|es   = Promeus\n|th   = Promeus\n|pt   = Promeus\n}}\n\n==Change History==\n{{Change History|introduced=3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

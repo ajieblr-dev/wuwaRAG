@@ -1,0 +1,30 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:46Z",
+  "title": "Pre-Lament Civilization",
+  "pageid": 39606,
+  "wikitext": "{{Stub}}\n{{Terminology Infobox\n|image        = \n|title        = Pre-Lament Civilization\n|type         = Lore\n}}\n\nThe '''Pre-Lament Civilization''' (PLC) was Solaris' native civilisation before the destruction wrought by [[The Lament|the Lament]]. It was capable of spacetravel, having sent thousands of satellites and nine interstellar probes, including [[The Farwatcher]], into the darkness of space - these nine probes represented by the stars in the emblem of the [[Spacetrek Collective]]. The PLC's cities and machinery were powered by electricity; electric-powered devices, such as Jinzhou's Disruptor, are rarer in the present. The Lament destroyed 80% of their structures and killed half the global population.\n\nThe Tethys Institute, a pre-Lament organisation, may have been a part of this civilisation and created the [[Resolution K626|plan]] which lead to the creation of [[The Black Shores|the Black Shores]] to safeguard humanity.\n\nIt may be related to the {{Lang|Hé civilisation|zh=禾文明}} discovered by researchers in [[Whining Aix's Mire]].\n\n\u003c!--\n==Other Languages ==\n{{Other Languages\n|en    = \n|zhs   = \n|zht   = \n|ja    = \n|ko    = \n|es    = \n|fr    = \n|de    = \n|th    = \n}}\n--\u003e\n==Change History==\n{{Change History|introduced=1.0}}\n\n==References==\n\u003creferences /\u003e\n\n==Navigation==\n{{Lore Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

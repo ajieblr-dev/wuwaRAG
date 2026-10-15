@@ -1,0 +1,107 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:37Z",
+  "title": "Midnight Rangers",
+  "pageid": 896,
+  "wikitext": "{{Stub}}\n{{Faction Infobox\n|title        = Midnight Rangers\n|image        = \u003cgallery\u003e\nMidnight rangers tease.png|Teaser\nMidnight Rangers Jiyan.jpg|Key Art\n\u003c/gallery\u003e\n|nation       = Huanglong\n|region       = Jinzhou\n|leader       = Jiyan\n}}\nThe '''Midnight Rangers''' are the primary military force of the [[Jinzhou]] region, tasked with protecting the land from external threats. The military branch is integral to [[Huanglong]]'s defense strategy, deploying wherever the nation’s enemies pose a threat. They are under the jurisdiction of the Ministry of War, and led by General [[Jiyan]].\n\n==Organization==\n===Vanguard===\nThe Vanguard is responsible for conducting offensive combat operations against Tacet Discords. They have stopped recruiting non-Resonators in recent years due to the advent of increasingly intense battles.\n\n===Rearguard===\nThe Rearguard protect the city and conduct a number of non-combat roles such as logistics, transport, maintenance and medical care to support the Vanguard on the frontline.\n\n===Outriders===\nThe Outriders is a detachment unit that operate independently from the main troop, focusing on gathering vital information about enemy territories. Their mobility and combat prowess make them essential in navigating uncharted territories and uncovering potential threats. They mostly consist of volunteers or reservists. \u003cref\u003e{{Quest|First Resonance}}\u003c/ref\u003e\n\n==Notable Personnel==\n{| class=\"article-table\"\n!Icon!!Personnel!!Position\n|-\n|[[File:Resonator Jiyan.png|50px]]\n|[[Jiyan]]\n|General\n|-\n|[[File:Yhan_headshot.png|50px]]\n|[[Yhan]]\n|Simulation Training Instructor\n|-\n|[[File:Resonator Yangyang.png|50px]]\n|[[Yangyang]]\n|Outrider\n|-\n|[[File:Resonator Danjin.png|50px]]\n|[[Danjin]]\n|Unknown\n|}\n===Other Known Personnel===\n{{NPCs by Category List\n|Midnight Rangers\n|header = Midnight Rangers\n}}\n*[[Ke Ni]]\n*[[Xinyu]]\n*[[Yanwu]]\n\n==Former Personnel==\n{| class=\"article-table\"\n!Personnel !!Position!!Status!!Last Active\n|-\n|[[Geshulin|Geshu Lin]]\n|General\n|Missing\n|3 years ago\n|-\n|[[Jingzhu]]\n|Vanguard Member\n|Veteran\n|Unknown\n|-\n|[[Linghan]]\n|Vanguard Captain\n|Veteran\n|Unknown\n|-\n|[[Gongmin]]\n|Unknown\n|Veteran\n|Unknown\n|-\n|[[Zongye]]\n|Unknown\n|Veteran\n|Unknown\n|}\n\n==Known Connected Weapons==\n*[[Amity Accord]]\n*[[Commando of Conviction]]\n*[[Dauntless Evernight]]\n*[[Jinzhou Keeper]]\n*[[Undying Flame]]\n\n==Related Documents==\n*[[Gorges of Spirits Tacet Discord Battle Report]]\n*[[Outrider Squad's Norfall Valley Investigation Logs I]]\n*[[Outrider Squad's Norfall Valley Investigation Logs II]]\n\n==Gallery==\n=== Videos===\n\u003cgallery\u003e\nWuthering Waves Story Cinematics - Battle Beneath the Crescent\nSpecial Program of Insider Channel - Midnight Rangers- Gear Up\nMidnight Rangers Uniform\n\u003c/gallery\u003e\n\n==Trivia==\n* During their first lesson, new recruits of the Midnight Rangers must pay tribute to fallen soldiers in Knell Square before they are allowed on the battlefield.\u003cref\u003e[[Replica of Past Days]]\u003c/ref\u003e\n* Due to their presence on the frontlines, Midnight Rangers have only very few opportunities for leisure and fun, one of which is the [[Riverside Games]].\n\n==References==\n\u003creferences /\u003e\n\n==Navigation==\n{{Faction Navbox}}\n[[zh:夜归]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Organization",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Vanguard",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Rearguard",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Outriders",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Personnel",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Other Known Personnel",
+      "number": "2.1",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Former Personnel",
+      "number": "3",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Known Connected Weapons",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Related Documents",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "6.1",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "14"
+    }
+  ]
+}

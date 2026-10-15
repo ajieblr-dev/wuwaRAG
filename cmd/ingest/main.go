@@ -36,6 +36,7 @@ func main() {
 	overlap := flag.Int("overlap", 150, "Overlap in characters when splitting large scenes")
 	rawDir := flag.String("raw-dir", "data/raw", "Directory for raw wiki JSON dumps")
 	outFile := flag.String("out", "data/processed/chunks.json", "Destination for processed chunks JSON")
+	datasetCode := flag.String("dataset-code", "lore-corpus-v1", "Code name identifier for this batch of data")
 	timeout := flag.Duration("timeout", 45*time.Minute, "Overall context timeout for ingestion")
 	flag.Parse()
 
@@ -102,8 +103,14 @@ func main() {
 				log.Printf("ERROR: [%d/%d] failed to fetch %q: %v", i+1, len(pages), title, err)
 				continue
 			}
+			if *datasetCode != "" {
+				page.DatasetCode = *datasetCode
+				page.GatheredAt = time.Now().UTC().Format(time.RFC3339)
+			}
 			// Polite delay between live API queries
 			time.Sleep(100 * time.Millisecond)
+		} else if *datasetCode != "" && page.DatasetCode == "" {
+			page.DatasetCode = *datasetCode
 		}
 
 		savedPath, err := fetchClient.SavePageToDisk(page, *rawDir)

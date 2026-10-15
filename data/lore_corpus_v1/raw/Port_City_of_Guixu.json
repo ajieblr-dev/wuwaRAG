@@ -1,0 +1,100 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:46Z",
+  "title": "Port City of Guixu",
+  "pageid": 4706,
+  "wikitext": "{{Location Tabs|Map:Port City of Guixu}}\n{{Location Infobox\n|title  = Port City of Guixu\n|image  = \u003cgallery\u003e\nPort City of Guixu.png|In-Game\nPort City of Guixu Map.png|Map\n\u003c/gallery\u003e\n|map    = Solaris-3\n|type   = Region\n|nation = Huanglong\n}}\nThe '''Port City of Guixu''' was a former settlement located on the western coast of Outer [[Huanglong]]. Hundreds of years ago, it hosted the world's tallest building. The Incinero Petal Toxin from the Sea of Flames caused the destruction and mass evacuation of the city. Before the Lament descended upon the city, leaving nothing but ruin, Guixu had an outdoor music venue at Nostalgia Isle, as well as a record shop within the city. Its remains now float in the air with a menacing black hole behind it, reminding all of Jinzhou what came before.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Donglu Research Station\"\n|[[Donglu Research Station]]\n|[[File:Donglu Research Station.png|180px]]\n|A research base built around the ruins of a dilapidated skyscraper.\n|- id=\"Nostalgia Isle\"\n|[[Nostalgia Isle]]\n|[[File:Nostalgia Isle.png|180px]]\n|A large outdoor music venue situated on an island next to the Sea of Flames.\n|- id=\"Sea of Flames\"\n|[[Sea of Flames]]\n|[[File:Sea of Flames.png|180px]]\n|The ruins of the city of Guixu, now destroyed by the Lament.\n|- id=\"Settle Range\"\n|[[Settle Range]]\n|[[File:Settle Range.png|180px]]\n|Ruins of the past hide amongst the hills.\n|}\n\n==Quests==\n{{Quest by Category List|Port City of Guixu}}\n\n==Exploration Report==\n===An Unfaded Recording I===\n\n*Unlocked by reaching 50% exploration.\n\n{{Transclude|An Unfaded Recording I|Text|main=1}}\n\n===An Unfaded Recording II===\n\n*Unlocked by reaching 100% exploration.\n\n{{Transclude|An Unfaded Recording II|Text|main=1}}\n\n==Notable Features==\n===Challenges===\n*[[Forgery Challenge: Flaming Remnants]]\n*[[Tacet Field: Port City of Guixu]]\n===Bosses===\n*{{Enemy|Inferno Rider}}\n===Resources===\n*{{Item|Angelica}}\n*{{Item|Belle Poppy}}\n*{{Item|Edodes}}\n*{{Item|Erodorchid}}\n*{{Item|Floramber}}\n*{{Item|Honeysuckle}}\n*{{Item|Indigoite}}\n*{{Item|Noctemint}}\n*{{Item|Viola}}\n\nThere is a [[Dauntless Evernight]] on the roof of one of the floating buildings in the Sea of Flames.\n\n==Gallery==\n\n== Other Languages ==\n{{Other Languages\n|en   = Port City of Guixu\n|zhs  = 归墟港市\n|zht  = 歸墟港市\n|ja   = {{Rubi|帰来|きらい}}の{{Rubi|港|みなと}}\n|ko   = 귀허항시\n|es   = Ciudad Portuaria de Guixu\n|fr   = Port de la ville Guixu\n|de   = Hafenstadt Guixu\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[Category:Huanglong Cities]]\n[[Category:Cities]]\n[[zh:归墟港市]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "An Unfaded Recording I",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "An Unfaded Recording II",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.3",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "13"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "dataset_code": "lore-corpus-v1",
+  "gathered_at": "2026-10-15T08:24:45Z",
+  "title": "Pioneer Association",
+  "pageid": 2950,
+  "wikitext": "{{Stub}}{{Faction Infobox\n|image        = Pioneer Association Logo.png\n|caption      = Pioneer Association's logo\n|base         = Multiple\n|region       = Solaris-3\n}}\n{{Quote|As we reconstruct the civilization to its former prosperity, the Pioneer Association brings back from the field signs that proves the world is getting better.|Maqi|Pioneer Association Receptionist.\n}}\n\nThe '''Pioneer Association''' is an organization that provides players rewards for their [[/Exploration Progress|Exploration Progress]].\n\n==History==\nThe Pioneer Association was founded before the Lament, and is a prestigious organization in science and education. Previously known as the '''Universal Geographic Society''', their primary goal is to explore and understand the world, as well as provide graphic documentation that humanity is moving towards a better future. \u003cref\u003e[[Maqi]]\u003c/ref\u003e They collaborate with scientists, photographers, and journalists to document the world's wonders after the Ebb Tide.\n\nThe organization has a deep history, and new members are required to participate in regular 'Fireside Chats' to learn and share it with each other. Among the more notable stories is that of the Icebreakers, members who go expeditions to survey distant and dangerous places, and were the first to witness many powerful [[Tacet Discord|Tacet Discords]]. \u003cref\u003e[[Xianchen]]\u003c/ref\u003e\n\nThey have made countless discoveries and have amassed a global audience through the release of magazines, maps, books, and entertainment, and interactive media.\n\n==Branches==\n* [[Huanglong]]\n**[[Jinzhou]]\n*[[New Federation]]\n*[[Rinascita]]\n**[[Ragunna City]]\n\n==Members==\n===Jinzhou Branch=== \n*[[Maqi]] - Receptionist\n*[[Ganxue]] - Shop Receptionist\n*[[Shangwen]] - Explorer\n*[[Bei Shi]] - Explorer\n* [[Xianchen]] - Explorer\n*[[Zhuyi]] - Intern photographer\n* [[Bowen]] - Journalist\n*[[Yuzhou]] - Mt. Firmament Receptionist\n\n====Ragunna Branch====\nThe Pioneer Association of Ragunna operates under the Wutherium Film studio, the visual production division, dedicated through capturing reality through film.\n\n* [[Fulmine]]\n* [[Alannah]]\n\n====Former Members====\n*[[Uncle Li]] \n===Unknown Branch===\n*[[Wuli]] - Explorer\n*[[Siran]] - Intern Journalist\n\n===New Federation===\n====Former Members====\n{| class=\"article-table\"\n!Icon!!Name!!Position\n|-\n|[[File:Resonator Verina.png|50px]]\n|[[Verina]]\n|Rigg's Explorers Expedition Team Member\n|-\n|[[File:Resonator Lucilla.png|50px]]\n|[[Lucilla]]\n|Former scholar with the Pioneer Association\n|}\n\n==Weapons==\nThe Pioneer Association provides the following weapons for its members:   \n*[[Pistols of Voyager]]\n*[[Gauntlets of Voyager]]\n*[[Broadblade of Voyager]]\n*[[Rectifier of Voyager]]\n*[[Sword of Voyager]]\n\n==Gallery==\n\u003cgallery\u003e\nPioneer Association Emblem.png|Logo\nPioneer Association Promo.jpg|Promo Art\nPioneer Association Promo Textless.jpg|Promo Art - Textless\nPioneer Association Jinzhou.png|Branch in Jinzhou\nPioneer Association Ragunna.png|Branch in Ragunna City\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en      = Pioneer Association\n|zhs     = 先行公约\n|zht     = 先行公約\n|ja      = 先駆条約\n|ko      = 선행 공약\n|es      = Asociación de Pioneros\n|fr      = Association pionnière\n|de      = Vorläufige Vereinbarung\n|th      = สมาคมผู้บุกเบิก\n|pt      = Associação dos Pioneiros\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Faction Navbox}}\n[[Category:Factions]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Branches",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Jinzhou Branch",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Ragunna Branch",
+      "number": "3.1.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Former Members",
+      "number": "3.1.2",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Unknown Branch",
+      "number": "3.2",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "New Federation",
+      "number": "3.3",
+      "index": "8"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Former Members",
+      "number": "3.3.1",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Weapons",
+      "number": "4",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "5",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "14"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "15"
+    }
+  ]
+}
