@@ -319,6 +319,20 @@ Base URL: `http://localhost:8080`
   }
   ```
 
+### Phase 9: Conversational Follow-up RAG & Enhanced Ask Page Readability
+* **Multi-Turn Context Ingestion:**
+  - Extended `/api/v1/chat` request body in [`internal/server/server.go`](file:///home/ajibul/WorkingDirectory/wuwaRAG/internal/server/server.go) with optional `history: [{role, content}]`.
+  - Added `GenerateConversation` in [`internal/rag/llm.go`](file:///home/ajibul/WorkingDirectory/wuwaRAG/internal/rag/llm.go) to pass full conversation turns to LiteLLM, Groq, and Gemini gateways.
+* **Contextual Query Rewriting:**
+  - Enhanced [`internal/rag/query_rewriter.go`](file:///home/ajibul/WorkingDirectory/wuwaRAG/internal/rag/query_rewriter.go) with `RewriteWithHistory` to resolve pronouns ("he", "his", "that battle", "the weapon") into canonical lore entities before querying Qdrant.
+* **Frontend Conversational Threading (`web/ask.html`):**
+  - Replaced the single-turn card view with a multi-turn conversation stream (`threadTurns`) displaying user questions ("You (Rover)") and assistant answers in chronological order.
+  - Kept a persistent follow-up composer at the bottom of the conversation stream with keyboard shortcuts (`Enter` / `Shift+Enter`), character counter, and "New topic" reset button.
+  - Stored full conversation threads in browser local history for seamless reloading.
+* **Markdown Rendering & Typography (`web/styles.css`):**
+  - Implemented client-side markdown parsing supporting headings (`#`, `##`, `###`), bold (`**bold**`), italics (`*italic*`), bullet lists (`- item`), numbered lists (`1. item`), blockquotes (`> quote`), inline code, fenced code blocks, and horizontal rules.
+  - Enhanced typography, line heights, and spacing for a comfortable and effortless reading experience.
+
 ---
 
 ## 5. Developer Guide: How to Run & Maintain

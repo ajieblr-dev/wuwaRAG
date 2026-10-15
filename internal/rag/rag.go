@@ -118,6 +118,11 @@ func NewService(qdrantClient *qdrant.Client, embedder Embedder, llm *LLMClient, 
 
 // SearchOnly retrieves relevant context snippets without calling the LLM.
 func (s *Service) SearchOnly(ctx context.Context, query string, limit int) ([]SourceSnippet, error) {
+	return s.SearchOnlyWithHistory(ctx, query, nil, limit)
+}
+
+// SearchOnlyWithHistory retrieves relevant context snippets, taking conversation history into account during query rewriting.
+func (s *Service) SearchOnlyWithHistory(ctx context.Context, query string, history []ChatMessage, limit int) ([]SourceSnippet, error) {
 	if limit <= 0 {
 		limit = s.topK
 	}
@@ -125,9 +130,9 @@ func (s *Service) SearchOnly(ctx context.Context, query string, limit int) ([]So
 	searchQuery := query
 	var keywords []string
 
-	// 1. Pre-Retrieval: Query Rewriting / Expansion
+	// 1. Pre-Retrieval: Query Rewriting / Expansion with history
 	if s.queryRewriteEnabled && s.queryRewriter != nil {
-		expanded, kw, err := s.queryRewriter.Rewrite(ctx, query)
+		expanded, kw, err := s.queryRewriter.RewriteWithHistory(ctx, query, history)
 		if err == nil && expanded != "" {
 			searchQuery = expanded
 			keywords = kw
@@ -193,12 +198,17 @@ func (s *Service) vectorOnlySearch(ctx context.Context, searchQuery string, limi
 	return snippets, nil
 }
 
-// AnswerQuestion executes the full RAG pipeline: retrieval, context injection, and LLM inference.
+// AnswerQuestion executes the full RAG pipeline for a single question.
 func (s *Service) AnswerQuestion(ctx context.Context, question string) (*QueryResult, error) {
+	return s.AnswerConversation(ctx, question, nil)
+}
+
+// AnswerConversation executes the full RAG pipeline with multi-turn conversation history.
+func (s *Service) AnswerConversation(ctx context.Context, question string, history []ChatMessage) (*QueryResult, error) {
 	start := time.Now()
 
-	// 1. Retrieve relevant lore snippets
-	snippets, err := s.SearchOnly(ctx, question, s.topK)
+	// 1. Retrieve relevant lore snippets with contextual rewrite if history is present
+	snippets, err := s.SearchOnlyWithHistory(ctx, question, history, s.topK)
 	if err != nil {
 		return nil, err
 	}
@@ -226,16 +236,17 @@ Guidelines:
 1. Answer the question using ONLY the provided lore documents.
 2. If the context does not contain the answer, explicitly state that the detail is not found in the quest records rather than hallucinating.
 3. Mention relevant characters, speakers, and quest scenes whenever applicable to provide rich context.
-4. Keep the tone knowledgeable and lore-accurate.`
+4. Maintain continuity across follow-up questions using the ongoing conversation context.
+5. Format your answers clearly with clean markdown headings, bullet points, and readable paragraphs.`
 
-	userPrompt := fmt.Sprintf("Retrieved Lore Records:\n%s\nQuestion: %s\n\nPlease answer the question based on the lore above.", contextBuilder.String(), question)
+	userPrompt := fmt.Sprintf("Retrieved Lore Records:\n%s\nCurrent Question: %s\n\nPlease answer the question based on the lore above.", contextBuilder.String(), question)
 
-	// 3. Invoke LLM Gateway
+	// 3. Invoke LLM Gateway with history
 	var answer string
 	var modelUsed string
 	var totalTokens int
 
-	llmResp, err := s.llm.GenerateAnswer(ctx, systemPrompt, userPrompt)
+	llmResp, err := s.llm.GenerateConversation(ctx, systemPrompt, history, userPrompt)
 	if err != nil {
 		// If LLM gateway fails, fall back to providing the retrieved context directly
 		if len(snippets) > 0 {

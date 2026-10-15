@@ -325,7 +325,7 @@
       const res = await OD.request("POST", "/api/v1/search", { query, limit: limit || 5 });
       return OD.normalizeSearch(res, query, limit || 5);
     },
-    async chat(question, signal) {
+    async chat(question, signal, history) {
       if (S.mock) {
         const t0 = Date.now();
         await wait(4200);
@@ -335,7 +335,11 @@
         OD.log.add({ id: OD.uid(), ts: Date.now(), method: "POST", path: "/api/v1/chat", status: 200, ms, tokens, err: null, mock: true, note: question.slice(0, 60) });
         return OD.normalizeChat({ question, model: "wuwa-lore-model", latency_ms: ms, total_tokens: tokens, answer: MOCK_ANSWER, sources: OD.mockSources() });
       }
-      const res = await OD.request("POST", "/api/v1/chat", { question }, signal);
+      const payload = { question: question };
+      if (history && history.length) {
+        payload.history = history;
+      }
+      const res = await OD.request("POST", "/api/v1/chat", payload, signal);
       return OD.normalizeChat(res);
     },
     async ingest(payload) {

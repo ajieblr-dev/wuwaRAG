@@ -141,7 +141,22 @@ func TestChatContractMatchesWebExpectations(t *testing.T) {
 		t.Logf("GAP: backend sources use title/section/content/id; web mock uses page_title/section_title/chunk_text/index -- web renderers fall back, so tolerant")
 	}
 
-	// 3. Legacy alias the web never calls but the router keeps: POST /api/v1/query.
+	// 3. Follow-up question with history.
+	codeHist, respHist := doJSON(t, srv, http.MethodPost, "/api/v1/chat", map[string]interface{}{
+		"question": "What is it called again?",
+		"history": []map[string]string{
+			{"role": "user", "content": "What is Lady Hsin's favorite treat?"},
+			{"role": "assistant", "content": "Lady Hsin's favorite treat is Moon Fox Rice Cakes [1]."},
+		},
+	})
+	if codeHist != http.StatusOK {
+		t.Fatalf("chat with history: expected 200, got %d (%v)", codeHist, respHist)
+	}
+	if ansHist, _ := respHist["answer"].(string); ansHist == "" {
+		t.Errorf("chat response with history answer is empty")
+	}
+
+	// 4. Legacy alias the web never calls but the router keeps: POST /api/v1/query.
 	if code, _ := doJSON(t, srv, http.MethodPost, "/api/v1/query", map[string]string{"question": "q"}); code != http.StatusOK {
 		t.Errorf("query alias: expected 200, got %d", code)
 	}

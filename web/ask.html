@@ -84,7 +84,8 @@
 <script>
 (function () {
   var slot = document.getElementById("thread-slot");
-  var current = null;         // { question, answer, sources, meta }
+  var threadTurns = [];       // array of { id, q, ts, answer, sources, meta }
+  var current = null;         // latest turn { id, q, ts, answer, sources, meta }
   var controller = null;
   var timerId = null;
 
@@ -108,7 +109,13 @@
   var HK = "od-history";
   function hist() { try { return JSON.parse(OD.LS.get(HK) || "[]"); } catch (e) { return []; } }
   function saveHist(rows) { OD.LS.set(HK, JSON.stringify(rows.slice(0, 40))); }
-  function pushHist(entry) { var rows = hist().filter(function (r) { return r.id !== entry.id; }); rows.unshift(entry); saveHist(rows); renderHist(); }
+  function pushHist(entry) {
+    var toSave = Object.assign({}, entry, { thread: threadTurns.slice() });
+    var rows = hist().filter(function (r) { return r.id !== entry.id; });
+    rows.unshift(toSave);
+    saveHist(rows);
+    renderHist();
+  }
 
   function renderHist() {
     var q = (document.getElementById("hist-search").value || "").toLowerCase();
@@ -127,15 +134,137 @@
   document.getElementById("hist-search").addEventListener("input", renderHist);
   document.getElementById("clear-hist").addEventListener("click", function () { saveHist([]); OD.toast("Local history cleared", "ok"); renderHist(); });
 
+  function escapeHTML(str) {
+    return String(str || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  }
+
+  /* ── markdown formatting ──────────────────────────────────── */
+  function renderMarkdown(text) {
+    if (!text) return "";
+    var codeBlocks = [];
+    var clean = text.replace(/```([a-zA-Z0-9_\-]*)?\n([\s\S]*?)```/g, function (match, lang, code) {
+      var placeholder = "___CODE_BLOCK_" + codeBlocks.length + "___";
+      var escCode = escapeHTML(code);
+      codeBlocks.push('<pre class="code-block' + (lang ? ' lang-' + lang : '') + '"><code>' + escCode + '</code></pre>');
+      return "\n\n" + placeholder + "\n\n";
+    });
+    clean = escapeHTML(clean);
+
+    function parseInline(str) {
+      return str
+        .replace(/`([^`]+)`/g, '<code class="inline-code">$1</code>')
+        .replace(/\*\*\*([^\*]+)\*\*\*/g, '<strong><em>$1</em></strong>')
+        .replace(/___([^_]+)___/g, '<strong><em>$1</em></strong>')
+        .replace(/\*\*([^\*]+)\*\*/g, '<strong>$1</strong>')
+        .replace(/__([^_]+)__/g, '<strong>$1</strong>')
+        .replace(/\*([^\*]+)\*/g, '<em>$1</em>')
+        .replace(/_([^_]+)_/g, '<em>$1</em>')
+        .replace(/\[([^\]]+)\]\((https?:\/\/[^\s\)]+)\)/g, '<a href="$2" target="_blank" rel="noopener" class="md-link">$1</a>');
+    }
+
+    var lines = clean.split("\n");
+    var out = [];
+    var inList = null;
+    var inQuote = false;
+    var quoteLines = [];
+
+    function closeList() {
+      if (inList) {
+        out.push("</" + inList + ">");
+        inList = null;
+      }
+    }
+    function closeQuote() {
+      if (inQuote) {
+        out.push('<blockquote class="lore-quote"><p>' + quoteLines.map(parseInline).join("<br>") + '</p></blockquote>');
+        inQuote = false;
+        quoteLines = [];
+      }
+    }
+
+    for (var i = 0; i < lines.length; i++) {
+      var line = lines[i];
+      var trimmed = line.trim();
+
+      if (trimmed.indexOf("___CODE_BLOCK_") === 0) {
+        closeList();
+        closeQuote();
+        var idx = parseInt(trimmed.replace("___CODE_BLOCK_", "").replace("___", ""), 10);
+        out.push(codeBlocks[idx] || "");
+        continue;
+      }
+      if (/^(?:>|&gt;)\s?(.*)$/.test(line)) {
+        closeList();
+        inQuote = true;
+        var qMatch = line.match(/^(?:>|&gt;)\s?(.*)$/);
+        quoteLines.push(qMatch[1]);
+        continue;
+      } else {
+        closeQuote();
+      }
+      if (/^(?:---|\*\*\*|___)\s*$/.test(trimmed)) {
+        closeList();
+        out.push('<hr class="md-rule">');
+        continue;
+      }
+      var h3 = line.match(/^###\s+(.+)$/);
+      if (h3) {
+        closeList();
+        out.push('<h4 class="md-h4">' + parseInline(h3[1]) + '</h4>');
+        continue;
+      }
+      var h2 = line.match(/^##\s+(.+)$/);
+      if (h2) {
+        closeList();
+        out.push('<h3 class="md-h3">' + parseInline(h2[1]) + '</h3>');
+        continue;
+      }
+      var h1 = line.match(/^#\s+(.+)$/);
+      if (h1) {
+        closeList();
+        out.push('<h2 class="md-h2">' + parseInline(h1[1]) + '</h2>');
+        continue;
+      }
+
+      var ul = line.match(/^[\*\-]\s+(.+)$/);
+      if (ul) {
+        if (inList !== "ul") {
+          closeList();
+          inList = "ul";
+          out.push('<ul class="md-list">');
+        }
+        out.push('<li>' + parseInline(ul[1]) + '</li>');
+        continue;
+      }
+      var ol = line.match(/^\d+\.\s+(.+)$/);
+      if (ol) {
+        if (inList !== "ol") {
+          closeList();
+          inList = "ol";
+          out.push('<ol class="md-list md-olist">');
+        }
+        out.push('<li>' + parseInline(ol[1]) + '</li>');
+        continue;
+      }
+      if (!trimmed) {
+        closeList();
+        continue;
+      }
+      closeList();
+      out.push('<p class="md-p">' + parseInline(trimmed) + '</p>');
+    }
+    closeList();
+    closeQuote();
+    return out.join("\n");
+  }
+
   /* ── empty state ──────────────────────────────────────────── */
-  /* One surface, composer first. It used to sit below a description card plus four
-     full-width prompt buttons, which pushed the only real control off a 390px screen. */
   function renderEmpty() {
     slot.innerHTML =
       '<div class="ask-intro" data-od-id="empty-state">' +
         '<div class="ask-intro-head">' +
           '<h2>What do you want to know?</h2>' +
-          '<p>Answers are grounded in <span class="mono">5</span> indexed wiki pages. Questions outside that scope come back thin — the archive will say so rather than invent lore.</p>' +
+          '<p>Answers are grounded in Solaris-3 quest chronicles and world records. Questions outside scope will be noted rather than hallucinating lore.</p>' +
         '</div>' +
         '<div class="ask-intro-compose">' + composerInner() + '</div>' +
         '<div class="ask-intro-foot">' +
@@ -166,37 +295,49 @@
     return '<div class="composer" style="margin-top:16px">' + composerInner() + '</div>';
   }
 
-  function composerInner() {
+  function composerInner(customPlaceholder, customHelp) {
+    var ph = customPlaceholder || "Ask about the Simulacrum of the Heart, Sentinel Hsin, Xuanfang Hold…";
+    var help = customHelp || (threadTurns.length > 0 ? "Follow-up questions maintain context from previous turns." : "Ask any question about Solaris-3 lore and quest storylines.");
     return '' +
       '<label class="sr-only" for="q">Your question</label>' +
-      '<textarea id="q" data-focus-composer rows="2" placeholder="Ask about the Simulacrum of the Heart, Sentinel Hsin, Xuanfang Hold…" maxlength="1200"></textarea>' +
+      '<textarea id="q" data-focus-composer rows="2" placeholder="' + ph + '" maxlength="1200"></textarea>' +
       '<div class="composer-bar">' +
         '<div class="composer-tools">' +
           '<button type="button" id="preview-toggle" aria-pressed="' + OD.S.previewSources + '" title="Preview sources while generating">' + OD.icons.spark + '<span>Preview sources</span></button>' +
+          (threadTurns.length > 0 ? '<button type="button" class="btn btn-ghost btn-sm" id="composer-clear" title="Start a fresh question">' + OD.icons.refresh + '<span>New topic</span></button>' : '') +
         '</div>' +
         '<span class="spacer"></span>' +
         '<span class="tiny dim mono" id="counter">0 / 1000</span>' +
         '<button class="btn btn-primary" id="send" type="button">' + OD.icons.send + 'Ask</button>' +
       '</div>' +
-      '<p class="tiny dim" style="padding:6px 4px 0">Each question is answered on its own. Include names and context.</p>';
+      '<p class="tiny dim" style="padding:6px 4px 0">' + help + '</p>';
   }
 
   function wireComposer() {
     var ta = document.getElementById("q");
     var counter = document.getElementById("counter");
     var sendBtn = document.getElementById("send");
-    ta.addEventListener("input", function () { counter.textContent = ta.value.length + " / 1000"; });
+    if (!ta) return;
+    ta.addEventListener("input", function () { if (counter) counter.textContent = ta.value.length + " / 1000"; });
     ta.addEventListener("keydown", function (e) {
       if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); send(ta.value); }
     });
-    sendBtn.addEventListener("click", function () { send(ta.value); });
+    if (sendBtn) sendBtn.addEventListener("click", function () { send(ta.value); });
     var pt = document.getElementById("preview-toggle");
-    pt.addEventListener("click", function () {
-      OD.S.previewSources = !OD.S.previewSources;
-      pt.setAttribute("aria-pressed", String(OD.S.previewSources));
-    });
-    /* Only pull focus to the composer when nothing is layered on top of it.
-       renderEmpty() runs after the spoiler gate opens and was stealing focus out of the dialog. */
+    if (pt) {
+      pt.addEventListener("click", function () {
+        OD.S.previewSources = !OD.S.previewSources;
+        pt.setAttribute("aria-pressed", String(OD.S.previewSources));
+      });
+    }
+    var clr = document.getElementById("composer-clear");
+    if (clr) {
+      clr.addEventListener("click", function () {
+        threadTurns = [];
+        current = null;
+        renderEmpty();
+      });
+    }
     if (!document.querySelector(".scrim:not([hidden]), .palette:not([hidden])")) ta.focus();
   }
 
@@ -206,8 +347,6 @@
       '<div class="pending"><svg class="wave wave-live" viewBox="0 0 130 34" fill="none" aria-hidden="true">' +
         '<path d="M0 17 C 10 4, 20 30, 32 17 S 54 4, 66 17 S 88 30, 100 17 S 122 4, 130 17" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>' +
         '<span class="wave-static mono tiny" aria-hidden="true">…</span>' +
-        /* the label carries the state changes; the elapsed counter is aria-hidden so it
-           does not announce a new number ten times a second */
         '<div class="stack gap-1"><strong style="font-size:14px" id="pending-label" role="status" aria-live="polite">Consulting the archive…</strong>' +
         '<span class="tiny dim mono" aria-hidden="true">elapsed <span id="elapsed">0.0</span>s · /api/v1/chat</span></div>' +
         '<span class="spacer"></span>' +
@@ -226,17 +365,50 @@
     controller = new AbortController();
     var signal = controller.signal;
     var started = Date.now();
-    slot.innerHTML = pendingHTML();
-    var el = document.getElementById("elapsed");
-    var label = document.getElementById("pending-label");
     var aborted = false;
 
-    document.getElementById("cancel").addEventListener("click", function () { aborted = true; controller.abort(); });
+    var pendingNode = null;
+    if (threadTurns.length === 0) {
+      slot.innerHTML = pendingHTML();
+    } else {
+      pendingNode = document.createElement("div");
+      pendingNode.className = "turn-pair pending-turn";
+      pendingNode.innerHTML =
+        '<hr class="turn-divider">' +
+        '<div class="turn-user">' +
+          '<div class="turn-user-head">' +
+            '<span class="turn-user-badge">' + OD.icons.ask + ' You (Rover)</span>' +
+            '<span>' + new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) + '</span>' +
+          '</div>' +
+          '<div class="turn-user-q">' + escapeHTML(question) + '</div>' +
+        '</div>' +
+        pendingHTML();
+
+      var comp = document.getElementById("followup-composer");
+      if (comp) {
+        comp.parentNode.insertBefore(pendingNode, comp);
+        comp.style.display = "none";
+      } else {
+        slot.appendChild(pendingNode);
+      }
+      pendingNode.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+
+    var el = document.getElementById("elapsed");
+    var label = document.getElementById("pending-label");
+
+    var cancelBtn = document.getElementById("cancel");
+    if (cancelBtn) {
+      cancelBtn.addEventListener("click", function () { aborted = true; controller.abort(); });
+    }
 
     if (OD.S.previewSources) {
       OD.api.search(question, 5).then(function (res) {
         if (aborted || (res.results && !res.results.length)) return;
         var host = document.getElementById("footnote-block");
+        if (!host && threadTurns.length > 0) {
+          host = document.getElementById("footnote-block-" + (threadTurns.length - 1));
+        }
         if (!host) return;
         host.innerHTML =
           '<div class="footnotes-head"><h3>Top matches</h3>' +
@@ -254,16 +426,46 @@
     }, 100);
 
     try {
-      var data = await OD.api.chat(question, signal);
+      var history = [];
+      threadTurns.forEach(function (t) {
+        history.push({ role: "user", content: t.q });
+        history.push({ role: "assistant", content: t.answer });
+      });
+      var data = await OD.api.chat(question, signal, history);
       clearInterval(timerId);
       var elapsed = (Date.now() - started) / 1000;
       if (elapsed > 120) { throw Object.assign(new Error("timeout"), { name: "TimeoutError" }); }
+      if (pendingNode && pendingNode.parentNode) pendingNode.parentNode.removeChild(pendingNode);
       renderAnswer(question, data);
     } catch (e) {
       clearInterval(timerId);
-      if (aborted || e.name === "AbortError") { renderAborted(question); return; }
-      if (e.name === "NetworkError") { renderNetworkError(question); return; }
-      renderError(question, e);
+      if (pendingNode && pendingNode.parentNode) pendingNode.parentNode.removeChild(pendingNode);
+      var compEl = document.getElementById("followup-composer");
+      if (compEl) compEl.style.display = "";
+
+      if (aborted || e.name === "AbortError") {
+        if (threadTurns.length > 0) {
+          OD.toast("Question cancelled", "info");
+        } else {
+          renderAborted(question);
+        }
+        return;
+      }
+      if (e.name === "NetworkError") {
+        document.getElementById("banner-offline").hidden = false;
+        document.getElementById("offline-detail").textContent = "Can't reach the API at " + OD.S.base + ". Check that the server is running and CORS allows this origin.";
+        if (threadTurns.length > 0) {
+          OD.toast("Network error: Can't reach the API", "err");
+        } else {
+          renderNetworkError(question);
+        }
+        return;
+      }
+      if (threadTurns.length > 0) {
+        OD.toast("Request failed (" + (e.status || "http") + "): " + (e.body || e.message), "err");
+      } else {
+        renderError(question, e);
+      }
     } finally {
       controller = null;
     }
@@ -293,68 +495,171 @@
       composerHTML();
   }
 
-  /* ── answer ───────────────────────────────────────────────── */
+  /* ── answer & conversation thread ─────────────────────────── */
   function renderAnswer(question, data) {
     data = OD.normalizeChat(data || {});
     var model = data.model || "";
-    current = { id: OD.uid(), q: question, ts: Date.now(), answer: data.answer || "", sources: data.sources || [], meta: { model: model, latency_ms: data.latency_ms, total_tokens: data.total_tokens } };
+    current = {
+      id: OD.uid(),
+      q: question,
+      ts: Date.now(),
+      answer: data.answer || "",
+      sources: data.sources || [],
+      meta: { model: model, latency_ms: data.latency_ms, total_tokens: data.total_tokens }
+    };
     if (!model) document.getElementById("banner-retrieval").hidden = false;
 
-    var answerHTML = renderMarkdown(data.answer || "");
-    var hasCites = /\[\d+\]/.test(data.answer || "");
+    threadTurns.push(current);
+    pushHist(current);
+    renderThread();
+  }
 
-    slot.innerHTML =
-      '<div class="answer" data-od-id="answer-card">' +
-        '<div class="answer-head">' +
-          '<span class="pill ok">' + OD.icons.check + ' answer</span>' +
-          (model ? '' : '<span class="pill warn">retrieval-only</span>') +
-          '<span class="spacer"></span>' +
-          '<span class="meta-row tiny dim mono" id="meta-row"></span>' +
+  function renderThread() {
+    if (!threadTurns.length) {
+      renderEmpty();
+      return;
+    }
+
+    var html = '<div class="thread-stream">';
+    html += '<div class="thread-head" style="display:flex;align-items:center;justify-content:space-between;margin-bottom:20px;padding-bottom:12px;border-bottom:1px solid var(--rule)">' +
+      '<span class="tiny dim mono" style="text-transform:uppercase;letter-spacing:0.1em">Conversation · ' + threadTurns.length + ' ' + (threadTurns.length === 1 ? 'exchange' : 'exchanges') + '</span>' +
+      '<div style="display:flex;gap:8px">' +
+        '<button class="btn btn-ghost btn-sm" id="thread-new-btn" type="button">' + OD.icons.refresh + 'New topic</button>' +
+        '<button class="btn btn-ghost btn-sm" id="thread-export-btn" type="button">' + OD.icons.download + 'Export all</button>' +
+      '</div>' +
+    '</div>';
+
+    for (var i = 0; i < threadTurns.length; i++) {
+      var turn = threadTurns[i];
+      var model = turn.meta && turn.meta.model;
+      var answerHTML = renderMarkdown(turn.answer || "");
+
+      html += '<div class="turn-pair" data-turn-idx="' + i + '">' +
+        '<div class="turn-user">' +
+          '<div class="turn-user-head">' +
+            '<span class="turn-user-badge">' + OD.icons.ask + ' You (Rover)</span>' +
+            '<span>' + new Date(turn.ts).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }) + '</span>' +
+          '</div>' +
+          '<div class="turn-user-q">' + escapeHTML(turn.q) + '</div>' +
         '</div>' +
-        '<h2 class="sr-only" id="answer-heading" tabindex="-1">Answer</h2>' +
-        '<div class="answer-body" id="answer-body">' + answerHTML + '</div>' +
-        /* sources live here, as the footnote block under the answer */
-        '<div class="footnotes" id="footnote-block"></div>' +
-        '<div class="answer-foot">' +
-          '<button class="btn btn-secondary btn-sm" id="reveal" type="button" hidden>' + OD.icons.eye + 'Reveal</button>' +
-          '<button class="btn btn-ghost btn-sm" data-act="copy" type="button">' + OD.icons.copy + 'Copy</button>' +
-          '<button class="btn btn-ghost btn-sm" data-act="copy-md" type="button">' + OD.icons.copy + 'Copy + sources</button>' +
-          '<button class="btn btn-ghost btn-sm" data-act="obsidian" type="button">' + OD.icons.download + 'Export to Obsidian</button>' +
-          '<span class="spacer"></span>' +
-          '<button class="btn btn-ghost btn-sm" data-act="again" type="button">' + OD.icons.refresh + 'Ask again</button>' +
+        '<div class="answer" data-od-id="answer-card" id="answer-turn-' + i + '">' +
+          '<div class="answer-head">' +
+            '<span class="pill ok">' + OD.icons.check + ' answer</span>' +
+            (model ? '' : '<span class="pill warn">retrieval-only</span>') +
+            '<span class="spacer"></span>' +
+            '<span class="meta-row tiny dim mono" id="meta-row-' + i + '"></span>' +
+          '</div>' +
+          '<h2 class="sr-only" id="answer-heading-' + i + '" tabindex="-1">Answer</h2>' +
+          '<div class="answer-body' + (OD.S.spoiler === "blur" ? "" : " revealed") + '" id="answer-body-' + i + '">' + answerHTML + '</div>' +
+          '<div class="footnotes" id="footnote-block-' + i + '"></div>' +
+          '<div class="answer-foot">' +
+            (OD.S.spoiler === "blur" ? '<button class="btn btn-secondary btn-sm" data-act="reveal" data-turn="' + i + '" type="button">' + OD.icons.eye + 'Reveal</button>' : '') +
+            '<button class="btn btn-ghost btn-sm" data-act="copy" data-turn="' + i + '" type="button">' + OD.icons.copy + 'Copy</button>' +
+            '<button class="btn btn-ghost btn-sm" data-act="copy-md" data-turn="' + i + '" type="button">' + OD.icons.copy + 'Copy + sources</button>' +
+            '<button class="btn btn-ghost btn-sm" data-act="obsidian" data-turn="' + i + '" type="button">' + OD.icons.download + 'Export</button>' +
+            '<span class="spacer"></span>' +
+            '<button class="btn btn-ghost btn-sm" data-act="again" type="button">' + OD.icons.refresh + 'New question</button>' +
+          '</div>' +
         '</div>' +
       '</div>';
 
-    renderMeta(document.getElementById("meta-row"), current.meta);
-
-    var body = document.getElementById("answer-body");
-    body.innerHTML = answerHTML;
-    if (hasCites) {
-      body.innerHTML = body.innerHTML.replace(/\[(\d+)\]/g, function (m, n) {
-        return '<button class="cite" data-cite="' + n + '" aria-label="Source ' + n + '" title="Jump to source ' + n + '">' + n + '</button>';
-      });
+      if (i < threadTurns.length - 1) {
+        html += '<hr class="turn-divider">';
+      }
     }
-    body.querySelectorAll("[data-cite]").forEach(function (b) {
-      b.addEventListener("click", function () { jumpToSource(b.dataset.cite); });
+
+    // Follow-up Composer
+    html += '<div class="composer composer-followup" id="followup-composer">' +
+      '<div class="composer-prompt-hint">' +
+        '<span class="lbl" style="margin:0">Ask a follow-up</span>' +
+        '<span class="tiny dim">Context from previous answers is retained</span>' +
+      '</div>' +
+      composerInner("Ask a follow-up question (e.g. 'What happened next?', 'Tell me more about their fate')…", "Follow-up questions maintain context from previous turns.") +
+    '</div>';
+
+    html += '</div>';
+
+    slot.innerHTML = html;
+
+    // Attach metadata, sources, and citations for each turn
+    for (var j = 0; j < threadTurns.length; j++) {
+      var t = threadTurns[j];
+      renderMeta(document.getElementById("meta-row-" + j), t.meta || {});
+      var body = document.getElementById("answer-body-" + j);
+      if (body) {
+        if (/\[\d+\]/.test(t.answer || "")) {
+          body.innerHTML = body.innerHTML.replace(/\[(\d+)\]/g, (function (tIdx) {
+            return function (m, n) {
+              return '<button class="cite" data-cite="' + n + '" data-turn="' + tIdx + '" aria-label="Source ' + n + '" title="Jump to source ' + n + '">' + n + '</button>';
+            };
+          })(j));
+        }
+        body.querySelectorAll("[data-cite]").forEach(function (b) {
+          b.addEventListener("click", function () { jumpToSource(b.dataset.cite, b.dataset.turn); });
+        });
+      }
+      renderSources(t.sources || [], document.getElementById("footnote-block-" + j), j);
+    }
+
+    // Wire actions
+    slot.querySelectorAll('[data-act="copy"]').forEach(function (b) {
+      b.addEventListener("click", function () {
+        var idx = parseInt(b.dataset.turn, 10);
+        if (threadTurns[idx]) OD.copy(threadTurns[idx].answer, "Answer");
+      });
+    });
+    slot.querySelectorAll('[data-act="copy-md"]').forEach(function (b) {
+      b.addEventListener("click", function () {
+        var idx = parseInt(b.dataset.turn, 10);
+        if (threadTurns[idx]) OD.copy(asMarkdown(threadTurns[idx]), "Answer + sources");
+      });
+    });
+    slot.querySelectorAll('[data-act="obsidian"]').forEach(function (b) {
+      b.addEventListener("click", function () {
+        var idx = parseInt(b.dataset.turn, 10);
+        if (threadTurns[idx]) downloadObsidian(threadTurns[idx]);
+      });
+    });
+    slot.querySelectorAll('[data-act="again"]').forEach(function (b) {
+      b.addEventListener("click", function () {
+        threadTurns = [];
+        current = null;
+        renderEmpty();
+      });
+    });
+    slot.querySelectorAll('[data-act="reveal"]').forEach(function (b) {
+      b.addEventListener("click", function () {
+        var idx = parseInt(b.dataset.turn, 10);
+        var bEl = document.getElementById("answer-body-" + idx);
+        if (bEl) {
+          bEl.classList.toggle("revealed");
+          b.innerHTML = bEl.classList.contains("revealed") ? OD.icons.eye + "Hide" : OD.icons.eye + "Reveal";
+        }
+      });
     });
 
-    var reveal = document.getElementById("reveal");
-    if (OD.S.spoiler === "blur") {
-      reveal.hidden = false;
-      reveal.addEventListener("click", function () {
-        body.classList.toggle("revealed");
-        reveal.innerHTML = body.classList.contains("revealed") ? OD.icons.eye + 'Hide' : OD.icons.eye + 'Reveal';
+    var tNew = document.getElementById("thread-new-btn");
+    if (tNew) {
+      tNew.addEventListener("click", function () {
+        threadTurns = [];
+        current = null;
+        renderEmpty();
       });
     }
 
-    slot.querySelector('[data-act="copy"]').addEventListener("click", function () { OD.copy(current.answer, "Answer"); });
-    slot.querySelector('[data-act="copy-md"]').addEventListener("click", function () { OD.copy(asMarkdown(current), "Answer + sources"); });
-    slot.querySelector('[data-act="obsidian"]').addEventListener("click", function () { downloadObsidian(current); });
-    slot.querySelector('[data-act="again"]').addEventListener("click", function () { renderEmpty(); });
+    var tExport = document.getElementById("thread-export-btn");
+    if (tExport) {
+      tExport.addEventListener("click", function () {
+        downloadConversation(threadTurns);
+      });
+    }
 
-    renderSources(data.sources || []);
-    document.getElementById("answer-heading").focus();
-    pushHist(current);
+    wireComposer();
+
+    var lastTurnEl = document.getElementById("answer-turn-" + (threadTurns.length - 1));
+    if (lastTurnEl && threadTurns.length > 1) {
+      lastTurnEl.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
   }
 
   function renderMeta(el, meta) {
@@ -366,18 +671,8 @@
       '<span> · </span><span>' + (meta.total_tokens != null ? meta.total_tokens + " tok" : "—") + '</span>';
   }
 
-  function renderMarkdown(text) {
-    var esc = text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-    return esc.split(/\n{2,}/).map(function (p) { return "<p>" + p.replace(/\n/g, "<br>") + "</p>"; }).join("");
-  }
-
-  /* ── sources (tolerant to BOTH shapes via OD.normalizeSource) ── */
-  // TODO(element/faction filter): backend SourceSnippet currently exposes only
-  // {title,section,subsection,speakers,content,score} — no element/faction fields.
-  // Cards below already carry data-title/data-section/data-speakers hooks; once the
-  // API adds element/faction, add matching data-attrs here + chip filters (see
-  // search.html render()) without changing the normalizer contract.
-  function sourceCard(raw, isPreview) {
+  /* ── sources ──────────────────────────────────────────────── */
+  function sourceCard(raw, isPreview, turnIdx) {
     var s = OD.normalizeSource(raw, (raw && raw.index ? raw.index - 1 : 0));
     var title = s.title;
     var section = s.section;
@@ -385,10 +680,12 @@
     var spk = s.speakers || [];
     var score = s.score;
     var text = s.content;
-    return '<article class="source" id="src-' + s.index + '" data-od-id="source-card-' + s.index + '"' +
+    var elemId = (turnIdx != null ? 'src-' + turnIdx + '-' + s.index : 'src-' + s.index);
+    return '<article class="source" id="' + elemId + '" data-od-id="source-card-' + s.index + '"' +
       ' data-index="' + s.index + '" data-title="' + title.replace(/"/g, "&quot;") + '"' +
       ' data-section="' + section.replace(/"/g, "&quot;") + '"' +
       ' data-speakers="' + spk.join(",").replace(/"/g, "&quot;") + '"' +
+      (turnIdx != null ? ' data-turn="' + turnIdx + '"' : '') +
       (isPreview ? ' data-preview="true"' : '') + '>' +
       '<div class="source-head"><span class="source-idx">' + s.index + '</span>' +
         '<div class="grow"><div class="source-title">' + title + '</div>' +
@@ -408,21 +705,19 @@
       '</div></article>';
   }
 
-  /* Sources are rendered as the footnote block beneath the answer, not into a side rail. */
-  function renderSources(list) {
-    var host = document.getElementById("footnote-block");
+  function renderSources(list, hostEl, turnIdx) {
+    var host = hostEl || document.getElementById("footnote-block");
     if (!host) return;
     var items = OD.normalizeSources(list);
     if (!items.length) { host.innerHTML = ""; return; }
     host.innerHTML =
       '<div class="footnotes-head"><h3>Sources</h3>' +
       '<span class="tiny dim mono">' + items.length + ' passage' + (items.length === 1 ? '' : 's') + '</span></div>' +
-      items.map(function (s) { return sourceCard(s); }).join("");
+      items.map(function (s) { return sourceCard(s, false, turnIdx); }).join("");
     wireSourceCards(host);
   }
 
   function wireSourceCards(root) {
-    var list = current ? current.sources : [];
     root.querySelectorAll("[data-expand]").forEach(function (b) {
       b.addEventListener("click", function () {
         var p = b.closest(".source").querySelector(".snippet");
@@ -438,8 +733,14 @@
     });
   }
 
-  function jumpToSource(n) {
-    var el = document.getElementById("src-" + n);
+  function jumpToSource(n, turnIdx) {
+    var el = null;
+    if (turnIdx != null) {
+      el = document.getElementById("src-" + turnIdx + "-" + n);
+    }
+    if (!el) {
+      el = document.getElementById("src-" + n);
+    }
     if (!el) return;
     el.classList.add("hl");
     setTimeout(function () { el.classList.remove("hl"); }, 1600);
@@ -477,6 +778,7 @@
     });
     return lines.join("\n");
   }
+
   function downloadObsidian(entry) {
     var blob = new Blob([asMarkdown(entry)], { type: "text/markdown" });
     var a = document.createElement("a");
@@ -487,29 +789,59 @@
     OD.toast("Obsidian note exported", "ok");
   }
 
+  function downloadConversation(turns) {
+    if (!turns || !turns.length) return;
+    var lines = [
+      "---",
+      "title: Wuthering Waves Lore Archive Conversation",
+      "date: " + new Date().toISOString(),
+      "turns: " + turns.length,
+      "tags: [resonance-archive, wuwa-lore, multi-turn]",
+      "---",
+      "",
+      "# Wuthering Waves Lore Conversation",
+      ""
+    ];
+    turns.forEach(function (t, i) {
+      lines.push("## Turn " + (i + 1) + ": " + t.q);
+      lines.push("");
+      lines.push(t.answer);
+      lines.push("");
+      if (t.sources && t.sources.length) {
+        lines.push("### Sources");
+        t.sources.forEach(function (raw, sIdx) {
+          var s = OD.normalizeSource(raw, sIdx);
+          lines.push("- [" + s.index + "] " + (s.title || "?") + (s.section ? " — " + s.section : "") + (s.subsection ? " / " + s.subsection : "") + " (score " + (typeof s.score === "number" ? s.score.toFixed(2) : "n/a") + ")");
+        });
+        lines.push("");
+      }
+      lines.push("---");
+      lines.push("");
+    });
+    var blob = new Blob([lines.join("\n")], { type: "text/markdown" });
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "resonance-conversation-" + Date.now().toString(36) + ".md";
+    a.click();
+    URL.revokeObjectURL(a.href);
+    OD.toast("Conversation exported to Markdown", "ok");
+  }
+
   function loadEntry(entry) {
     current = entry;
-    var model = entry.meta && entry.meta.model;
-    if (!model) document.getElementById("banner-retrieval").hidden = false;
-    var hasCites = /\[\d+\]/.test(entry.answer || "");
-    slot.innerHTML =
-      '<div class="answer" data-od-id="answer-card">' +
-        '<div class="answer-head"><span class="pill ok">' + OD.icons.check + ' saved</span>' +
-        (model ? '' : '<span class="pill warn">retrieval-only</span>') + '<span class="spacer"></span><span class="meta-row tiny dim mono" id="meta-row"></span></div>' +
-        '<h2 class="sr-only" id="answer-heading" tabindex="-1">Answer</h2>' +
-        '<div class="answer-body" id="answer-body">' + renderMarkdown(entry.answer) + '</div>' +
-        '<div class="answer-foot"><button class="btn btn-ghost btn-sm" data-act="copy" type="button">' + OD.icons.copy + 'Copy</button>' +
-        '<button class="btn btn-ghost btn-sm" data-act="obsidian" type="button">' + OD.icons.download + 'Export to Obsidian</button>' +
-        '<span class="spacer"></span><button class="btn btn-ghost btn-sm" data-act="again" type="button">' + OD.icons.refresh + 'New question</button></div>' +
-      '</div>';
-    renderMeta(document.getElementById("meta-row"), entry.meta || {});
-    var body = document.getElementById("answer-body");
-    if (hasCites) body.innerHTML = body.innerHTML.replace(/\[(\d+)\]/g, function (m, n) { return '<button class="cite" data-cite="' + n + '">' + n + '</button>'; });
-    body.querySelectorAll("[data-cite]").forEach(function (b) { b.addEventListener("click", function () { jumpToSource(b.dataset.cite); }); });
-    slot.querySelector('[data-act="copy"]').addEventListener("click", function () { OD.copy(entry.answer, "Answer"); });
-    slot.querySelector('[data-act="obsidian"]').addEventListener("click", function () { downloadObsidian(entry); });
-    slot.querySelector('[data-act="again"]').addEventListener("click", function () { renderEmpty(); });
-    renderSources(entry.sources || []);
+    if (entry.thread && Array.isArray(entry.thread) && entry.thread.length > 0) {
+      threadTurns = entry.thread.slice();
+    } else {
+      threadTurns = [{
+        id: entry.id,
+        q: entry.q,
+        answer: entry.answer,
+        sources: entry.sources || [],
+        meta: entry.meta || {},
+        ts: entry.ts || Date.now()
+      }];
+    }
+    renderThread();
     renderHist();
   }
 

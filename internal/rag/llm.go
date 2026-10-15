@@ -55,12 +55,29 @@ func NewLLMClient(liteLLMURL, liteLLMKey, modelName, geminiKey, groqKey string) 
 	}
 }
 
-// GenerateAnswer calls LiteLLM proxy with fallback handling.
+// GenerateAnswer calls LiteLLM proxy with fallback handling for a single turn.
 func (c *LLMClient) GenerateAnswer(ctx context.Context, systemPrompt, userQuery string) (*ChatResponse, error) {
-	messages := []ChatMessage{
-		{Role: "system", Content: systemPrompt},
-		{Role: "user", Content: userQuery},
+	return c.GenerateConversation(ctx, systemPrompt, nil, userQuery)
+}
+
+// GenerateConversation calls LiteLLM proxy with full multi-turn conversation history.
+func (c *LLMClient) GenerateConversation(ctx context.Context, systemPrompt string, history []ChatMessage, userQuery string) (*ChatResponse, error) {
+	messages := make([]ChatMessage, 0, len(history)+2)
+	if systemPrompt != "" {
+		messages = append(messages, ChatMessage{Role: "system", Content: systemPrompt})
 	}
+	for _, h := range history {
+		role := strings.ToLower(strings.TrimSpace(h.Role))
+		if role != "user" && role != "assistant" {
+			continue
+		}
+		content := strings.TrimSpace(h.Content)
+		if content == "" {
+			continue
+		}
+		messages = append(messages, ChatMessage{Role: role, Content: content})
+	}
+	messages = append(messages, ChatMessage{Role: "user", Content: userQuery})
 
 	// 1. Try LiteLLM Proxy
 	resp, err := c.callOpenAICompatible(ctx, c.liteLLMURL+"/v1/chat/completions", c.liteLLMKey, c.modelName, messages)
@@ -79,7 +96,7 @@ func (c *LLMClient) GenerateAnswer(ctx context.Context, systemPrompt, userQuery 
 
 	// 3. Direct Fallback to Gemini if key is present
 	if c.geminiKey != "" {
-		resp, errGemini := c.callGeminiDirect(ctx, systemPrompt, userQuery)
+		resp, errGemini := c.callGeminiDirect(ctx, systemPrompt, history, userQuery)
 		if errGemini == nil {
 			return resp, nil
 		}
@@ -152,8 +169,31 @@ func (c *LLMClient) callOpenAICompatible(ctx context.Context, endpoint, apiKey, 
 	}, nil
 }
 
-func (c *LLMClient) callGeminiDirect(ctx context.Context, systemPrompt, userQuery string) (*ChatResponse, error) {
+func (c *LLMClient) callGeminiDirect(ctx context.Context, systemPrompt string, history []ChatMessage, userQuery string) (*ChatResponse, error) {
 	endpoint := fmt.Sprintf("https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key=%s", c.geminiKey)
+
+	contents := make([]map[string]interface{}, 0, len(history)+1)
+	for _, h := range history {
+		role := "user"
+		if strings.ToLower(strings.TrimSpace(h.Role)) == "assistant" {
+			role = "model"
+		}
+		cText := strings.TrimSpace(h.Content)
+		if cText != "" {
+			contents = append(contents, map[string]interface{}{
+				"role": role,
+				"parts": []map[string]interface{}{
+					{"text": cText},
+				},
+			})
+		}
+	}
+	contents = append(contents, map[string]interface{}{
+		"role": "user",
+		"parts": []map[string]interface{}{
+			{"text": userQuery},
+		},
+	})
 
 	reqPayload := map[string]interface{}{
 		"system_instruction": map[string]interface{}{
@@ -161,14 +201,7 @@ func (c *LLMClient) callGeminiDirect(ctx context.Context, systemPrompt, userQuer
 				{"text": systemPrompt},
 			},
 		},
-		"contents": []map[string]interface{}{
-			{
-				"role": "user",
-				"parts": []map[string]interface{}{
-					{"text": userQuery},
-				},
-			},
-		},
+		"contents": contents,
 		"generationConfig": map[string]interface{}{
 			"temperature":     0.2,
 			"maxOutputTokens": 4096,

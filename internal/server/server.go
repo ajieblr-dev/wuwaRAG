@@ -197,7 +197,8 @@ func (s *Server) handleStatus(c *gin.Context) {
 }
 
 type chatRequest struct {
-	Question string `json:"question" binding:"required"`
+	Question string            `json:"question" binding:"required"`
+	History  []rag.ChatMessage `json:"history,omitempty"`
 }
 
 func (s *Server) handleChat(c *gin.Context) {
@@ -210,7 +211,7 @@ func (s *Server) handleChat(c *gin.Context) {
 	ctx, cancel := context.WithTimeout(c.Request.Context(), 120*time.Second)
 	defer cancel()
 
-	res, err := s.ragService.AnswerQuestion(ctx, req.Question)
+	res, err := s.ragService.AnswerConversation(ctx, req.Question, req.History)
 	if err != nil {
 		c.JSON(http.StatusInternalServerError, gin.H{"error": fmt.Sprintf("Failed to answer question: %v", err)})
 		return
