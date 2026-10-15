@@ -11,15 +11,16 @@ import (
 
 // Chunk represents a clean text segment ready for vector embedding and retrieval.
 type Chunk struct {
-	ID         string                 `json:"id"`
-	Title      string                 `json:"title"`
-	Section    string                 `json:"section"`
-	Subsection string                 `json:"subsection,omitempty"`
-	Content    string                 `json:"content"`
-	Speakers   []string               `json:"speakers,omitempty"`
-	Index      int                    `json:"index"`
-	CharCount  int                    `json:"char_count"`
-	Metadata   map[string]interface{} `json:"metadata"`
+	ID          string                 `json:"id"`
+	DatasetCode string                 `json:"dataset_code,omitempty"`
+	Title       string                 `json:"title"`
+	Section     string                 `json:"section"`
+	Subsection  string                 `json:"subsection,omitempty"`
+	Content     string                 `json:"content"`
+	Speakers    []string               `json:"speakers,omitempty"`
+	Index       int                    `json:"index"`
+	CharCount   int                    `json:"char_count"`
+	Metadata    map[string]interface{} `json:"metadata"`
 }
 
 // Regex patterns for wikitext cleaning.

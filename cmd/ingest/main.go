@@ -126,6 +126,17 @@ func main() {
 
 		chunks := parser.ParseIntoChunks(page.Title, page.Wikitext, *chunkSize, *overlap)
 		log.Printf("[%d/%d] page %q: parsed %d chunks", i+1, len(pages), page.Title, len(chunks))
+		for ci := range chunks {
+			code := page.DatasetCode
+			if code == "" {
+				code = *datasetCode
+			}
+			chunks[ci].DatasetCode = code
+			if chunks[ci].Metadata == nil {
+				chunks[ci].Metadata = make(map[string]interface{})
+			}
+			chunks[ci].Metadata["dataset_code"] = code
+		}
 		allChunks = append(allChunks, chunks...)
 	}
 
@@ -172,18 +183,22 @@ func main() {
 
 	points := make([]qdrant.Point, len(allChunks))
 	for i, ch := range allChunks {
+		payload := map[string]interface{}{
+			"title":       ch.Title,
+			"section":     ch.Section,
+			"subsection":  ch.Subsection,
+			"content":     ch.Content,
+			"speakers":    ch.Speakers,
+			"chunk_index": ch.Index,
+			"char_count":  ch.CharCount,
+		}
+		if ch.DatasetCode != "" {
+			payload["dataset_code"] = ch.DatasetCode
+		}
 		points[i] = qdrant.Point{
-			ID:     ch.ID,
-			Vector: embeddings[i],
-			Payload: map[string]interface{}{
-				"title":       ch.Title,
-				"section":     ch.Section,
-				"subsection":  ch.Subsection,
-				"content":     ch.Content,
-				"speakers":    ch.Speakers,
-				"chunk_index": ch.Index,
-				"char_count":  ch.CharCount,
-			},
+			ID:      ch.ID,
+			Vector:  embeddings[i],
+			Payload: payload,
 		}
 	}
 

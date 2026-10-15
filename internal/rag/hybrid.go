@@ -93,6 +93,10 @@ func ConvertPointToSnippet(p qdrant.ScoredPoint) SourceSnippet {
 	section, _ := payload["section"].(string)
 	subsection, _ := payload["subsection"].(string)
 	content, _ := payload["content"].(string)
+	datasetCode, _ := payload["dataset_code"].(string)
+	if datasetCode == "" {
+		datasetCode, _ = payload["datasetCode"].(string)
+	}
 
 	var speakers []string
 	if rawSpeakers, ok := payload["speakers"].([]interface{}); ok {
@@ -105,6 +109,7 @@ func ConvertPointToSnippet(p qdrant.ScoredPoint) SourceSnippet {
 
 	return SourceSnippet{
 		ID:           qdrantPointIDToString(p.ID),
+		DatasetCode:  datasetCode,
 		Title:        title,
 		PageTitle:    title,
 		Section:      section,

@@ -12,6 +12,7 @@ import (
 // SourceSnippet represents a retrieved piece of lore used as evidence.
 type SourceSnippet struct {
 	ID           string   `json:"id"`
+	DatasetCode  string   `json:"dataset_code,omitempty"`
 	Title        string   `json:"title"`
 	PageTitle    string   `json:"page_title,omitempty"`
 	Section      string   `json:"section"`

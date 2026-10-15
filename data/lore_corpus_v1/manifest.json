@@ -1,13 +1,16 @@
 {
   "dataset_code": "lore-corpus-v1",
-  "status": "gathered_only (not indexed into RAG / Qdrant)",
+  "status": "indexed_in_rag (merged into wuwa_lore collection)",
   "gathered_at": "2026-10-15T08:25:17Z",
+  "indexed_at": "2026-10-15T08:37:10Z",
   "total_pages": 83,
+  "total_chunks": 537,
   "total_wikitext_characters": 417552,
   "description": "Wuthering Waves World Lore, Terminology, Phenomena, Sentinels, Threnodians, Nations, Factions, and Timeline gathered from MediaWiki.",
   "storage": {
     "raw_directory": "data/lore_corpus_v1/raw",
     "pages_list": "data/lore_corpus_v1/pages.txt",
+    "chunks": "data/lore_corpus_v1/chunks.json",
     "manifest": "data/lore_corpus_v1/manifest.json"
   },
   "comparison": {
@@ -22,8 +25,9 @@
       "code": "lore-corpus-v1",
       "location": "data/lore_corpus_v1/raw/",
       "pages_count": 83,
+      "total_chunks": 537,
       "scope": "Encyclopedic world lore, cosmology, Sentinel & Threnodian profiles, factions, and Solaris-3 timeline",
-      "indexed_in_rag": false
+      "indexed_in_rag": true
     }
   },
   "pages": [
