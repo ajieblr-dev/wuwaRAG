@@ -131,38 +131,50 @@
   RA.renderMarkdown = function (md) {
     if (!md) return "";
     let html = md
+      .replace(/\r\n/g, "\n")
       // Escaping HTML tags for security
       .replace(/&/g, "&amp;")
       .replace(/</g, "&lt;")
       .replace(/>/g, "&gt;");
 
+    // Code spans
+    html = html.replace(/`([^`]+)`/g, "<code>$1</code>");
+
+    // Blockquotes
+    html = html.replace(/^>\s?(.*$)/gim, "\n\n<blockquote>$1</blockquote>\n\n");
+
     // Headers
-    html = html.replace(/^### (.*$)/gim, "<h3>$1</h3>");
-    html = html.replace(/^## (.*$)/gim, "<h2>$1</h2>");
-    html = html.replace(/^# (.*$)/gim, "<h2>$1</h2>");
+    html = html.replace(/^### (.*$)/gim, "\n\n<h3>$1</h3>\n\n");
+    html = html.replace(/^## (.*$)/gim, "\n\n<h2>$1</h2>\n\n");
+    html = html.replace(/^# (.*$)/gim, "\n\n<h2>$1</h2>\n\n");
 
     // Bold & Italic
     html = html.replace(/\*\*\*(.*?)\*\*\*/gim, "<strong><em>$1</em></strong>");
     html = html.replace(/\*\*(.*?)\*\*/gim, "<strong>$1</strong>");
     html = html.replace(/\*(.*?)\*/gim, "<em>$1</em>");
 
+    // Summary callout detection
+    html = html.replace(/^(?:(?:In summary|Summary|Key takeaway|Takeaway):?\s*)(.*$)/gim, 
+      "\n\n<div class=\"ra-answer-summary-box\"><div class=\"ra-summary-label\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>IN SUMMARY</div><p>$1</p></div>\n\n"
+    );
+
     // Bullet lists
     html = html.replace(/^\* (.*$)/gim, "<li>$1</li>");
     html = html.replace(/^- (.*$)/gim, "<li>$1</li>");
-    html = html.replace(/((?:<li>.*?<\/li>\s*)+)/gi, "<ul>$1</ul>");
+    html = html.replace(/((?:<li>.*?<\/li>\s*)+)/gi, (m) => "\n\n<ul>" + m.trim() + "</ul>\n\n");
 
-    // Paragraph breaks
-    html = html.replace(/\n\n+/g, "</p><p>");
-    html = "<p>" + html + "</p>";
-    html = html.replace(/<p><\/p>/g, "");
-    html = html.replace(/<p>(<h[23]>)/g, "$1");
-    html = html.replace(/(<\/h[23]>)<\/p>/g, "$1");
-    html = html.replace(/<p>(<ul>)/g, "$1");
-    html = html.replace(/(<\/ul>)<\/p>/g, "$1");
+    // Paragraph blocks (split by double newlines)
+    const blocks = html.split(/\n\n+/);
+    html = blocks.map(b => {
+      b = b.trim();
+      if (!b) return "";
+      if (/^<(h[1-4]|ul|ol|blockquote|div)/i.test(b)) return b;
+      return "<p>" + b.replace(/\n/g, "<br>") + "</p>";
+    }).filter(Boolean).join("\n");
 
-    // Citations [1], [2], [3] -> clickable badges
+    // Citations [1], [2], [3] -> clickable badges with smooth scroll & highlight
     html = html.replace(/\[(\d+)\]/g, (match, p1) => {
-      return `<a href="#source-${p1}" class="ra-cite-link" data-cite="${p1}" title="View source ${p1}">[${p1}]</a>`;
+      return `<a href="#source-${p1}" class="ra-cite-link" data-cite="${p1}" onclick="window.RA.highlightSource(${p1}, event)" title="Jump to evidence source [${p1}]">[${p1}]</a>`;
     });
 
     return html;
@@ -591,6 +603,148 @@
     return el;
   }
 
+  /* Helper: Speaker Initials */
+  RA.speakerInitials = function (name) {
+    const parts = String(name || "").trim().split(/\s+/);
+    if (parts.length === 0 || !parts[0]) return "·";
+    if (parts.length === 1) return parts[0].slice(0, 1).toUpperCase();
+    return (parts[0][0] + parts[1][0]).toUpperCase();
+  };
+
+  /* Helper: Toast System */
+  RA.toast = function (msg, kind = "info") {
+    const existing = document.querySelector(".ra-toast");
+    if (existing) existing.remove();
+    const el = document.createElement("div");
+    el.className = "ra-toast";
+    el.innerHTML = `
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+        <path d="M20 6L9 17l-5-5"></path>
+      </svg>
+      <span>${escapeHTML(msg)}</span>
+    `;
+    document.body.appendChild(el);
+    setTimeout(() => {
+      el.style.opacity = "0";
+      el.style.transition = "opacity 0.3s ease";
+      setTimeout(() => el.remove(), 300);
+    }, 2400);
+  };
+
+  /* Helper: Clipboard copy */
+  RA.copyText = async function (text, successMsg = "Copied to clipboard") {
+    try {
+      await navigator.clipboard.writeText(text);
+      RA.toast(successMsg);
+    } catch (_) {
+      const ta = document.createElement("textarea");
+      ta.value = text;
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand("copy");
+      ta.remove();
+      RA.toast(successMsg);
+    }
+  };
+
+  /* Helper: Smooth jump and highlight source */
+  RA.highlightSource = function (idx, e) {
+    if (e) e.preventDefault();
+    const sourceCard = document.getElementById("source-" + idx);
+    if (!sourceCard) return;
+
+    const drawer = sourceCard.closest(".ra-sources-drawer");
+    const drawerBody = drawer?.querySelector(".ra-sources-drawer-body");
+    const toggleText = drawer?.querySelector(".ra-drawer-toggle-text");
+    if (drawerBody && drawerBody.style.display === "none") {
+      drawerBody.style.display = "flex";
+      if (toggleText) toggleText.textContent = "Click to collapse ▾";
+    }
+
+    sourceCard.scrollIntoView({ behavior: "smooth", block: "center" });
+    sourceCard.classList.remove("ra-source-highlight");
+    void sourceCard.offsetWidth;
+    sourceCard.classList.add("ra-source-highlight");
+  };
+
+  /* Helper: Toggle evidence drawer */
+  RA.toggleSources = function (headEl) {
+    const body = headEl.nextElementSibling;
+    const toggleText = headEl.querySelector(".ra-drawer-toggle-text");
+    const isHidden = body.style.display === "none";
+    body.style.display = isHidden ? "flex" : "none";
+    if (toggleText) {
+      toggleText.textContent = isHidden ? "Click to collapse ▾" : "Click to expand ▸";
+    }
+  };
+
+  /* Helper: Toggle passage text box */
+  RA.toggleExcerpt = function (btn) {
+    const card = btn.closest(".ra-source-card-expanded") || btn.closest(".ra-search-result-card");
+    const textBox = card?.querySelector(".ra-source-text-box");
+    if (!textBox) return;
+    const isExpanded = textBox.classList.toggle("expanded");
+    const label = btn.querySelector("span");
+    if (label) label.textContent = isExpanded ? "Collapse" : "Expand";
+  };
+
+  /* Helper: Copy single source card excerpt */
+  RA.copySourceCard = function (btn) {
+    const card = btn.closest(".ra-source-card-expanded") || btn.closest(".ra-search-result-card");
+    const title = card?.querySelector(".ra-source-title")?.textContent || "";
+    const text = card?.querySelector(".ra-source-text-box")?.textContent || "";
+    RA.copyText(`[${title}]\n${text}`, "Passage excerpt copied");
+  };
+
+  /* Helper: Copy entire turn answer */
+  RA.copyTurnAnswer = function (btn) {
+    const turn = btn.closest(".ra-assistant-turn");
+    const prose = turn?.querySelector(".ra-answer-prose");
+    if (prose) {
+      RA.copyText(prose.innerText || prose.textContent, "Answer copied to clipboard");
+    }
+  };
+
+  /* Helper: Copy answer with all evidence citations */
+  RA.copyTurnAnswerWithSources = function (btn) {
+    const turn = btn.closest(".ra-assistant-turn");
+    const prose = turn?.querySelector(".ra-answer-prose")?.innerText || "";
+    const sources = Array.from(turn?.querySelectorAll(".ra-source-card-expanded") || []).map((card, i) => {
+      const title = card.querySelector(".ra-source-title")?.innerText || "";
+      const text = card.querySelector(".ra-source-text-box")?.innerText || "";
+      return `[${i + 1}] ${title}\n${text}`;
+    }).join("\n\n");
+    const full = `${prose}\n\n---\n### Sources & Evidence:\n${sources}`;
+    RA.copyText(full, "Answer + Sources copied to clipboard");
+  };
+
+  /* Helper: Export single turn to Markdown file */
+  RA.exportCurrentTurn = function (btn) {
+    const turn = btn.closest(".ra-assistant-turn");
+    const prose = turn?.querySelector(".ra-answer-prose")?.innerText || "";
+    const blob = new Blob([prose], { type: "text/markdown" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = `resonance-answer-${Date.now().toString(36)}.md`;
+    a.click();
+    URL.revokeObjectURL(url);
+    RA.toast("Answer downloaded as Markdown");
+  };
+
+  /* Helper: Focus new question composer */
+  RA.focusNewQuestion = function () {
+    const dockInput = document.getElementById("ra-dock-input");
+    const initialInput = document.getElementById("ra-question-input");
+    if (dockInput && dockInput.offsetParent !== null) {
+      dockInput.focus();
+      dockInput.scrollIntoView({ behavior: "smooth", block: "center" });
+    } else if (initialInput) {
+      initialInput.focus();
+      initialInput.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+  };
+
   /* Helper: Create Assistant Turn DOM Element */
   function createAssistantTurnElement(answerMd, sources = [], meta = {}) {
     const el = document.createElement("div");
@@ -617,23 +771,27 @@
         let speakersHtml = "";
         const speakers = Array.isArray(src.speakers) ? src.speakers : (src.speaker ? [src.speaker] : []);
         if (speakers.length > 0) {
-          speakersHtml = `<div style="display: flex; gap: 4px; flex-wrap: wrap; margin-top: 4px;">` +
+          speakersHtml = `<div class="ra-speakers-row">` +
             speakers.map(sp => {
               const hue = RA.speakerHue(sp);
-              return `<span class="ra-badge" style="background-color: hsl(${hue}, 40%, 88%); color: hsl(${hue}, 80%, 25%);">${escapeHTML(sp)}</span>`;
+              const initials = RA.speakerInitials(sp);
+              return `<span class="ra-speaker-tag" style="background-color: hsl(${hue}, 45%, 90%); color: hsl(${hue}, 85%, 22%);">
+                <span class="ra-speaker-avatar" style="background-color: hsl(${hue}, 60%, 80%); color: hsl(${hue}, 90%, 15%);">${escapeHTML(initials)}</span>
+                <span>${escapeHTML(sp)}</span>
+              </span>`;
             }).join("") + `</div>`;
         }
 
         cardsHtml += `
           <div class="ra-source-card-expanded" id="source-${num}">
             <div class="ra-source-head">
-              <span class="ra-source-index">${num}</span>
+              <div class="ra-source-index">${num}</div>
               <div class="ra-source-meta">
-                <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
                   <span class="ra-source-title">${escapeHTML(src.title || src.page_title || "Unknown Document")}</span>
                   <span class="ra-badge ${tagClass}">${datasetTag}</span>
                 </div>
-                <div class="ra-source-sub">${escapeHTML(src.section || src.section_title || "")} ${src.subsection ? `· ${escapeHTML(src.subsection)}` : ""}</div>
+                <div class="ra-source-sub">${escapeHTML(src.section || src.section_title || "")} ${src.subsection ? `· Scene: ${escapeHTML(src.subsection)}` : ""}</div>
                 ${speakersHtml}
               </div>
               <div class="ra-source-score">
@@ -641,19 +799,44 @@
                 <span class="ra-badge ra-badge-accent">RRF ${num}</span>
               </div>
             </div>
-            <div class="ra-score-bar-bg">
-              <div class="ra-score-bar-fill" style="width: ${scorePct}%;"></div>
-            </div>
             <div class="ra-source-text-box">${escapeHTML(src.content || src.chunk_text || "")}</div>
+            <div class="ra-source-action-row">
+              <div class="ra-source-score-bar-wrap">
+                <span class="ra-eyebrow" style="font-size: 9px; color: var(--text-muted);">SCORE</span>
+                <div class="ra-source-score-bar">
+                  <div class="ra-source-score-fill" style="width: ${scorePct}%;"></div>
+                </div>
+                <span style="font-family: var(--font-mono); font-size: 10px; color: var(--text-muted);">${Math.round(scoreNum * 100)}%</span>
+              </div>
+              <div class="ra-source-actions">
+                <a href="about.html" class="ra-source-action-btn" title="View in Archive documentation">
+                  <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+                  <span>Wiki</span>
+                </a>
+                <button class="ra-source-action-btn" type="button" onclick="window.RA.toggleExcerpt(this)" title="Toggle full passage view">
+                  <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
+                  <span>Expand</span>
+                </button>
+                <button class="ra-source-action-btn" type="button" onclick="window.RA.copySourceCard(this)" title="Copy passage excerpt">
+                  <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                  <span>Copy</span>
+                </button>
+              </div>
+            </div>
           </div>
         `;
       });
 
       sourcesHtml = `
         <div class="ra-sources-drawer">
-          <div class="ra-sources-drawer-head" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'flex' : 'none'">
-            <span class="ra-eyebrow" style="color: var(--text-primary); font-size: 11px;">EVIDENCE DOCUMENTS (${sources.length} PASSAGES)</span>
-            <span style="font-family: var(--font-mono); font-size: 11px; color: var(--text-muted);">Click to toggle ▾</span>
+          <div class="ra-sources-drawer-head" onclick="window.RA.toggleSources(this)">
+            <span class="ra-eyebrow" style="color: var(--text-primary); font-size: 11px; display: flex; align-items: center; gap: 8px;">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+              EVIDENCE DOCUMENTS (${sources.length} PASSAGES) · HYBRID RRF
+            </span>
+            <span class="ra-drawer-toggle-text" style="font-family: var(--font-mono); font-size: 11px; color: var(--text-muted); display: flex; align-items: center; gap: 4px;">
+              Click to collapse ▾
+            </span>
           </div>
           <div class="ra-sources-drawer-body">
             ${cardsHtml}
@@ -662,15 +845,49 @@
       `;
     }
 
+    const turnActionsHtml = `
+      <div class="ra-turn-actions-bar">
+        <button class="ra-turn-action-btn" type="button" onclick="window.RA.copyTurnAnswer(this)" title="Copy answer text">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+          <span>Copy answer</span>
+        </button>
+        <button class="ra-turn-action-btn" type="button" onclick="window.RA.copyTurnAnswerWithSources(this)" title="Copy answer with cited evidence">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect></svg>
+          <span>Copy + sources</span>
+        </button>
+        <button class="ra-turn-action-btn" type="button" onclick="window.RA.exportCurrentTurn(this)" title="Export exchange as Markdown">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+          <span>Export</span>
+        </button>
+        <div style="flex: 1;"></div>
+        <button class="ra-turn-action-btn primary" type="button" onclick="window.RA.focusNewQuestion()">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line></svg>
+          <span>New question</span>
+        </button>
+      </div>
+    `;
+
     el.innerHTML = `
       <div class="ra-answer-header">
-        <span class="ra-badge ra-badge-accent">ANSWER</span>
-        <span>${escapeHTML(modelName)} · ${latency}${tokens}</span>
+        <div class="ra-answer-header-meta">
+          <span class="ra-badge ra-badge-accent" style="display: inline-flex; align-items: center; gap: 5px;">
+            <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M2 10v3"></path><path d="M6 6v11"></path><path d="M10 3v18"></path><path d="M14 8v7"></path><path d="M18 5v13"></path><path d="M22 10v3"></path></svg>
+            ANSWER
+          </span>
+          <span>${escapeHTML(modelName)} · ${latency}${tokens}</span>
+        </div>
+        <div class="ra-answer-header-actions">
+          <button class="ra-header-action-btn" type="button" onclick="window.RA.copyTurnAnswer(this)" title="Copy answer text">
+            <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+            <span>Copy</span>
+          </button>
+        </div>
       </div>
       <div class="ra-answer-prose">
         ${renderedHtml}
       </div>
       ${sourcesHtml}
+      ${turnActionsHtml}
     `;
 
     return el;
@@ -747,42 +964,63 @@
         resultsContainer.innerHTML = "";
         items.forEach((item, idx) => {
           const num = idx + 1;
-          const score = item.score ? Number(item.score).toFixed(2) : "0.85";
-          const scorePct = Math.round(Number(item.score || 0.85) * 100);
+          const scoreNum = Number(item.score != null ? item.score : 0.85);
+          const scorePct = Math.min(100, Math.max(5, Math.round((!isNaN(scoreNum) ? scoreNum : 0.85) * 100)));
           const datasetTag = item.dataset_code === "lore-corpus-v1" ? "WORLD LORE" : "MAIN QUEST";
           const tagClass = item.dataset_code === "lore-corpus-v1" ? "ra-badge-accent" : "ra-badge-neutral";
 
           let speakersHtml = "";
-          if (item.speakers && item.speakers.length > 0) {
-            speakersHtml = `<div style="display: flex; gap: 4px; flex-wrap: wrap; margin-top: 6px;">` +
-              item.speakers.map(sp => {
+          const speakers = Array.isArray(item.speakers) ? item.speakers : (item.speaker ? [item.speaker] : []);
+          if (speakers.length > 0) {
+            speakersHtml = `<div class="ra-speakers-row">` +
+              speakers.map(sp => {
                 const hue = RA.speakerHue(sp);
-                return `<span class="ra-badge" style="background-color: hsl(${hue}, 40%, 88%); color: hsl(${hue}, 80%, 25%);">${escapeHTML(sp)}</span>`;
+                const initials = RA.speakerInitials(sp);
+                return `<span class="ra-speaker-tag" style="background-color: hsl(${hue}, 45%, 90%); color: hsl(${hue}, 85%, 22%);">
+                  <span class="ra-speaker-avatar" style="background-color: hsl(${hue}, 60%, 80%); color: hsl(${hue}, 90%, 15%);">${escapeHTML(initials)}</span>
+                  <span>${escapeHTML(sp)}</span>
+                </span>`;
               }).join("") + `</div>`;
           }
 
           const card = document.createElement("div");
-          card.className = "ra-search-result-card";
+          card.className = "ra-source-card-expanded ra-search-result-card";
           card.innerHTML = `
             <div class="ra-source-head">
-              <span class="ra-source-index">${num}</span>
+              <div class="ra-source-index">${num}</div>
               <div class="ra-source-meta">
-                <div style="display: flex; align-items: center; gap: 8px;">
+                <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
                   <span class="ra-source-title">${escapeHTML(item.title || item.page_title || "Unknown Document")}</span>
                   <span class="ra-badge ${tagClass}">${datasetTag}</span>
                 </div>
-                <div class="ra-source-sub">${escapeHTML(item.section || item.section_title || "")} ${item.subsection ? `· ${escapeHTML(item.subsection)}` : ""}</div>
+                <div class="ra-source-sub">${escapeHTML(item.section || item.section_title || "")} ${item.subsection ? `· Scene: ${escapeHTML(item.subsection)}` : ""}</div>
                 ${speakersHtml}
               </div>
               <div class="ra-source-score">
-                <span>${score}</span>
+                <span>${(!isNaN(scoreNum) ? scoreNum : 0.85).toFixed(2)}</span>
                 <span class="ra-badge ra-badge-accent">RRF ${num}</span>
               </div>
             </div>
-            <div class="ra-score-bar-bg">
-              <div class="ra-score-bar-fill" style="width: ${scorePct}%;"></div>
+            <div class="ra-source-text-box" style="max-height: 180px;">${escapeHTML(item.content || item.chunk_text || "")}</div>
+            <div class="ra-source-action-row">
+              <div class="ra-source-score-bar-wrap">
+                <span class="ra-eyebrow" style="font-size: 9px; color: var(--text-muted);">SCORE</span>
+                <div class="ra-source-score-bar">
+                  <div class="ra-source-score-fill" style="width: ${scorePct}%;"></div>
+                </div>
+                <span style="font-family: var(--font-mono); font-size: 10px; color: var(--text-muted);">${scorePct}%</span>
+              </div>
+              <div class="ra-source-actions">
+                <button class="ra-source-action-btn" type="button" onclick="window.RA.toggleExcerpt(this)" title="Toggle full passage view">
+                  <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="15 3 21 3 21 9"></polyline><polyline points="9 21 3 21 3 15"></polyline><line x1="21" y1="3" x2="14" y2="10"></line><line x1="3" y1="21" x2="10" y2="14"></line></svg>
+                  <span>Expand</span>
+                </button>
+                <button class="ra-source-action-btn" type="button" onclick="window.RA.copySourceCard(this)" title="Copy passage excerpt">
+                  <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                  <span>Copy</span>
+                </button>
+              </div>
             </div>
-            <div class="ra-source-text-box" style="max-height: none;">${escapeHTML(item.content || item.chunk_text || "")}</div>
           `;
           resultsContainer.appendChild(card);
         });
