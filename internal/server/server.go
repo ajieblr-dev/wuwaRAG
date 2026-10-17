@@ -160,26 +160,15 @@ func (s *Server) registerRoutes() {
 		api.POST("/ingest", s.handleIngest)
 	}
 
-	// Serve Redesigned Frontend if web_redesign directory is available
+	// Discover directories
 	redesignDir := findWebRedesignDir()
-	if redesignDir != "" {
-		s.router.Static("/redesign", redesignDir)
-		s.router.Static("/web_redesign", redesignDir)
-		s.router.GET("/redesign", func(c *gin.Context) {
-			c.File(filepath.Join(redesignDir, "index.html"))
-		})
-	}
-
-	// Serve Frontend if web directory is available
 	webDir := findWebDir()
+
+	// 1. Serve Admin Console and Classic Prototypes from webDir
 	if webDir != "" {
 		s.router.Static("/web", webDir)
+		s.router.Static("/classic", webDir)
 		s.router.Static("/fonts", filepath.Join(webDir, "fonts"))
-		s.router.StaticFile("/", filepath.Join(webDir, "index.html"))
-		s.router.StaticFile("/index.html", filepath.Join(webDir, "index.html"))
-		s.router.StaticFile("/ask.html", filepath.Join(webDir, "ask.html"))
-		s.router.StaticFile("/search.html", filepath.Join(webDir, "search.html"))
-		s.router.StaticFile("/about.html", filepath.Join(webDir, "about.html"))
 		s.router.StaticFile("/admin.html", filepath.Join(webDir, "admin.html"))
 		s.router.StaticFile("/admin-overview.html", filepath.Join(webDir, "admin-overview.html"))
 		s.router.StaticFile("/admin-ingest.html", filepath.Join(webDir, "admin-ingest.html"))
@@ -188,19 +177,52 @@ func (s *Server) registerRoutes() {
 		s.router.StaticFile("/admin-logs.html", filepath.Join(webDir, "admin-logs.html"))
 		s.router.StaticFile("/admin-settings.html", filepath.Join(webDir, "admin-settings.html"))
 		s.router.StaticFile("/design-system.html", filepath.Join(webDir, "design-system.html"))
-		s.router.StaticFile("/styles.css", filepath.Join(webDir, "styles.css"))
-		s.router.StaticFile("/app.js", filepath.Join(webDir, "app.js"))
+	}
 
-		s.router.NoRoute(func(c *gin.Context) {
-			reqPath := strings.TrimPrefix(c.Request.URL.Path, "/")
-			filePath := filepath.Join(webDir, reqPath)
-			if info, err := os.Stat(filePath); err == nil && !info.IsDir() {
-				c.File(filePath)
-				return
-			}
-			c.JSON(http.StatusNotFound, gin.H{"error": "route not found"})
+	// 2. Serve Primary User Routes: prefer redesignDir if available, else webDir
+	primaryDir := redesignDir
+	if primaryDir == "" {
+		primaryDir = webDir
+	}
+
+	if primaryDir != "" {
+		s.router.StaticFile("/", filepath.Join(primaryDir, "index.html"))
+		s.router.StaticFile("/index.html", filepath.Join(primaryDir, "index.html"))
+		s.router.StaticFile("/ask.html", filepath.Join(primaryDir, "ask.html"))
+		s.router.StaticFile("/search.html", filepath.Join(primaryDir, "search.html"))
+		s.router.StaticFile("/about.html", filepath.Join(primaryDir, "about.html"))
+		s.router.StaticFile("/styles.css", filepath.Join(primaryDir, "styles.css"))
+		s.router.StaticFile("/app.js", filepath.Join(primaryDir, "app.js"))
+	}
+
+	// 3. Keep explicit /redesign routes
+	if redesignDir != "" {
+		s.router.Static("/redesign", redesignDir)
+		s.router.Static("/web_redesign", redesignDir)
+		s.router.GET("/redesign", func(c *gin.Context) {
+			c.File(filepath.Join(redesignDir, "index.html"))
 		})
 	}
+
+	// 4. Fallback route handler
+	s.router.NoRoute(func(c *gin.Context) {
+		reqPath := strings.TrimPrefix(c.Request.URL.Path, "/")
+		if primaryDir != "" {
+			pPath := filepath.Join(primaryDir, reqPath)
+			if info, err := os.Stat(pPath); err == nil && !info.IsDir() {
+				c.File(pPath)
+				return
+			}
+		}
+		if webDir != "" && webDir != primaryDir {
+			wPath := filepath.Join(webDir, reqPath)
+			if info, err := os.Stat(wPath); err == nil && !info.IsDir() {
+				c.File(wPath)
+				return
+			}
+		}
+		c.JSON(http.StatusNotFound, gin.H{"error": "route not found"})
+	})
 }
 
 // Router returns the configured Gin engine.
