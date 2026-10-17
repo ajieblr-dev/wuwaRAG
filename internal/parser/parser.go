@@ -260,7 +260,7 @@ func ParseIntoChunks(pageTitle, rawWikitext string, targetChunkSize, chunkOverla
 				if len(chunkStr) < 60 && len(speakers) == 0 {
 					continue
 				}
-				deterministicID := generateDeterministicUUID(fmt.Sprintf("%s:%s:%d:%s", pageTitle, sec.title, chunkIndex, chunkStr[:min(len(chunkStr), 50)]))
+				deterministicID := generateDeterministicUUID(fmt.Sprintf("%s:%s:%s", pageTitle, sec.title, chunkStr))
 
 				allChunks = append(allChunks, Chunk{
 					ID:         deterministicID,

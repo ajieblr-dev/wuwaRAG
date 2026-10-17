@@ -216,18 +216,29 @@ func ReciprocalRankFusion(
 		return docList[i].FinalScore > docList[j].FinalScore
 	})
 
-	// 5. Select topK results
-	limit := topK
-	if len(docList) < limit {
-		limit = len(docList)
-	}
+	// 5. Select topK results with content deduplication
+	seenContent := make(map[string]bool)
+	var results []SourceSnippet
 
-	results := make([]SourceSnippet, limit)
-	for i := 0; i < limit; i++ {
-		snip := docList[i].Snippet
+	for _, doc := range docList {
+		if len(results) >= topK {
+			break
+		}
+
+		contentKey := strings.TrimSpace(doc.Snippet.Content)
+		if len(contentKey) > 160 {
+			contentKey = contentKey[:160]
+		}
+		fingerprint := doc.Snippet.Title + "::" + contentKey
+		if seenContent[fingerprint] {
+			continue // skip duplicate chunk
+		}
+		seenContent[fingerprint] = true
+
+		snip := doc.Snippet
 		// Format score between 0.0 and 1.0 for UI display
-		snip.Score = math.Min(1.0, math.Round(docList[i].FinalScore*100)/100)
-		results[i] = snip
+		snip.Score = math.Min(1.0, math.Round(doc.FinalScore*100)/100)
+		results = append(results, snip)
 	}
 
 	return results

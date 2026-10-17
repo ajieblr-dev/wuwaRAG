@@ -162,8 +162,8 @@ func (s *Service) SearchOnlyWithHistory(ctx context.Context, query string, histo
 
 func (s *Service) hybridSearch(ctx context.Context, searchQuery string, keywords []string, limit int) ([]SourceSnippet, error) {
 	poolSize := s.candidatePoolSize
-	if poolSize < limit {
-		poolSize = limit * 2
+	if poolSize < limit*3 {
+		poolSize = limit * 3
 	}
 
 	// A. Dense Vector candidate retrieval
@@ -184,7 +184,7 @@ func (s *Service) hybridSearch(ctx context.Context, searchQuery string, keywords
 		lexicalPoints = nil
 	}
 
-	// C. Reciprocal Rank Fusion & Reranking
+	// C. Reciprocal Rank Fusion & Reranking (deduplicates identical contents)
 	snippets := ReciprocalRankFusion(vectorPoints, lexicalPoints, keywords, s.rrfK, limit)
 	return snippets, nil
 }
@@ -195,14 +195,29 @@ func (s *Service) vectorOnlySearch(ctx context.Context, searchQuery string, limi
 		return nil, fmt.Errorf("failed to generate query embedding: %w", err)
 	}
 
-	scoredPoints, err := s.qdrant.Search(ctx, s.collection, queryVec, limit, s.scoreThreshold)
+	fetchLimit := limit * 2
+	scoredPoints, err := s.qdrant.Search(ctx, s.collection, queryVec, fetchLimit, s.scoreThreshold)
 	if err != nil {
 		return nil, fmt.Errorf("qdrant search failed: %w", err)
 	}
 
-	snippets := make([]SourceSnippet, len(scoredPoints))
-	for i, p := range scoredPoints {
-		snippets[i] = ConvertPointToSnippet(p)
+	seenContent := make(map[string]bool)
+	var snippets []SourceSnippet
+	for _, p := range scoredPoints {
+		if len(snippets) >= limit {
+			break
+		}
+		snip := ConvertPointToSnippet(p)
+		contentKey := strings.TrimSpace(snip.Content)
+		if len(contentKey) > 160 {
+			contentKey = contentKey[:160]
+		}
+		fingerprint := snip.Title + "::" + contentKey
+		if seenContent[fingerprint] {
+			continue
+		}
+		seenContent[fingerprint] = true
+		snippets = append(snippets, snip)
 	}
 	return snippets, nil
 }
