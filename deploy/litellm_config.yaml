@@ -1,15 +1,15 @@
 model_list:
-  # Primary Model: Google Gemini 3.5 Flash
+  # Primary Model: Google Gemini 3.1 Flash Lite
   - model_name: wuwa-lore-model
     litellm_params:
-      model: gemini/gemini-3.5-flash
+      model: gemini/gemini-3.1-flash-lite
       api_key: os.environ/GEMINI_API_KEY
       rpm: 30
 
   # Secondary Gemini model fallback
-  - model_name: wuwa-lore-gemini-lite
+  - model_name: wuwa-lore-gemini-pro
     litellm_params:
-      model: gemini/gemini-3.1-flash-lite
+      model: gemini/gemini-3.5-flash
       api_key: os.environ/GEMINI_API_KEY
       rpm: 30
 
@@ -23,7 +23,7 @@ model_list:
   # Direct alias mappings for individual testing
   - model_name: gemini-flash
     litellm_params:
-      model: gemini/gemini-1.5-flash
+      model: gemini/gemini-3.1-flash-lite
       api_key: os.environ/GEMINI_API_KEY
 
   - model_name: groq-llama
@@ -40,7 +40,7 @@ model_list:
 router_settings:
   # Automatic failover when primary encounters rate limits, timeouts, or quota errors
   fallbacks:
-    - wuwa-lore-model: ["wuwa-lore-gemini-lite", "wuwa-lore-fallback"]
+    - wuwa-lore-model: ["wuwa-lore-gemini-pro", "wuwa-lore-fallback"]
     - gemini-flash: ["groq-llama"]
   num_retries: 3
   timeout: 30

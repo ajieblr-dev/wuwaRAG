@@ -205,7 +205,7 @@ func (c *LLMClient) callOpenAICompatible(ctx context.Context, endpoint, apiKey, 
 }
 
 func (c *LLMClient) callGeminiDirect(ctx context.Context, systemPrompt string, history []ChatMessage, userQuery string) (*ChatResponse, error) {
-	endpoint := fmt.Sprintf("https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent?key=%s", c.geminiKey)
+	endpoint := fmt.Sprintf("https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent?key=%s", c.geminiKey)
 
 	contents := make([]map[string]interface{}, 0, len(history)+1)
 	for _, h := range history {
@@ -289,7 +289,7 @@ func (c *LLMClient) callGeminiDirect(ctx context.Context, systemPrompt string, h
 
 	return &ChatResponse{
 		Answer:       strings.TrimSpace(geminiResp.Candidates[0].Content.Parts[0].Text),
-		Model:        "gemini-1.5-flash (direct fallback)",
+		Model:        "gemini-3.1-flash-lite (direct fallback)",
 		TotalTokens:  geminiResp.UsageMetadata.TotalTokenCount,
 		PromptTokens: geminiResp.UsageMetadata.PromptTokenCount,
 	}, nil

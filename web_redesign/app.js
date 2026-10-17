@@ -305,7 +305,14 @@
       });
       if (speakersEl) speakersEl.textContent = String(speakerSet.size);
 
-      if (modelEl) modelEl.textContent = meta.model ? meta.model.replace("gemini-", "").replace("-preview", "") : "Flash-Lite";
+      if (modelEl) {
+        const raw = meta.model || "gemini-3.1-flash-lite";
+        if (raw.includes("3.1") || raw.includes("lite") || raw.includes("wuwa-lore")) {
+          modelEl.textContent = "Gemini 3.1 Flash Lite";
+        } else {
+          modelEl.textContent = raw.replace("gemini/", "").replace("gemini-", "Gemini ");
+        }
+      }
       if (latencyEl) {
         const s = meta.latencyMs ? (meta.latencyMs / 1000).toFixed(1) + " s" : "31.6 s";
         latencyEl.textContent = s;
@@ -1000,7 +1007,13 @@
     const el = document.createElement("div");
     el.className = "ra-assistant-turn";
 
-    const modelName = (meta && meta.model) ? meta.model : "wuwa-lore-model";
+    let modelName = "gemini-3.1-flash-lite";
+    if (meta && meta.model) {
+      modelName = meta.model.replace("gemini/", "");
+      if (modelName === "wuwa-lore-model") {
+        modelName = "gemini-3.1-flash-lite";
+      }
+    }
     const latency = (meta && meta.latencyMs) ? `${meta.latencyMs.toLocaleString()} ms` : "";
     const tokens = (meta && meta.tokens) ? ` · ${meta.tokens.toLocaleString()} tok` : "";
 
