@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Semantic Search · Resonance Archive</title>
+    <meta name="description" content="Direct vector retrieval across Wuthering Waves wiki documents with Reciprocal Rank Fusion." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- Top Bar -->
+    <header class="ra-topbar" role="banner">
+      <div class="ra-topbar-inner">
+        <a href="index.html" class="ra-brand" aria-label="Resonance Archive home">
+          <svg class="ra-brand-mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M2 10v3"></path><path d="M6 6v11"></path><path d="M10 3v18"></path><path d="M14 8v7"></path><path d="M18 5v13"></path><path d="M22 10v3"></path>
+          </svg>
+          <span>Resonance Archive</span>
+        </a>
+
+        <nav class="ra-nav" role="navigation" aria-label="Main Navigation">
+          <a href="ask.html" class="ra-nav-link">Ask</a>
+          <a href="search.html" class="ra-nav-link active">Search</a>
+          <a href="about.html" class="ra-nav-link">About</a>
+        </nav>
+
+        <div class="ra-topbar-spacer" aria-hidden="true"></div>
+
+        <div class="ra-topbar-actions">
+          <div class="ra-status-pill" aria-label="Service index status">
+            <span class="ra-status-dot" aria-hidden="true"></span>
+            <span>index ok</span>
+          </div>
+
+          <button id="ra-theme-toggle" class="ra-theme-toggle" type="button" aria-label="Toggle color theme">
+            <!-- Populated by app.js -->
+          </button>
+
+          <a href="/admin.html" class="ra-btn ra-btn-secondary ra-btn-sm" title="Open maintainer console">
+            <span>Console</span>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Page Body -->
+    <main class="ra-main">
+      <div class="ra-search-head">
+        <span class="ra-eyebrow">RESONANCE ARCHIVE / SEARCH</span>
+        <h1 class="ra-heading-serif" style="font-size: 44px; margin-top: 6px;">Semantic search</h1>
+        <p style="color: var(--text-secondary); font-size: 15px; max-width: 680px; margin-top: 8px; line-height: 1.6;">
+          Raw vector retrieval — no LLM synthesis in the loop. The same candidate retrieval request the Ask reader executes before generating an answer. Scores represent normalized cosine similarity fused with lexical BM25 ranks.
+        </p>
+      </div>
+
+      <!-- Query Bar -->
+      <section class="ra-search-bar-wrap" aria-label="Search controls">
+        <div class="ra-search-bar-inner">
+          <div class="ra-search-input-box">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" color="var(--accent)" aria-hidden="true">
+              <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            <input
+              id="ra-search-query"
+              class="ra-search-input"
+              type="text"
+              placeholder="Search concepts, characters, Sentinels or dialogues… (e.g. Ovathrax Threnodian, Geshu Lin, Jué)"
+              value="Waking Moon Festival"
+              aria-label="Search query"
+            />
+          </div>
+
+          <!-- Limit Stepper -->
+          <div class="ra-stepper" aria-label="Result limit stepper">
+            <button id="ra-limit-minus" class="ra-stepper-btn" type="button" aria-label="Decrease limit">−</button>
+            <span id="ra-limit-val" class="ra-stepper-val">5</span>
+            <button id="ra-limit-plus" class="ra-stepper-btn" type="button" aria-label="Increase limit">+</button>
+          </div>
+
+          <button id="ra-search-btn" class="ra-btn ra-btn-primary" type="button">
+            <span>Run search</span>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+          </button>
+        </div>
+      </section>
+
+      <!-- Results Area -->
+      <section class="ra-search-results-list" aria-label="Search results">
+        <div id="ra-search-meta" class="ra-eyebrow" style="margin-bottom: var(--space-2);">
+          Ready to search · Press Enter or click Run search
+        </div>
+
+        <div id="ra-search-results" style="display: flex; flex-direction: column; gap: var(--space-4);" aria-live="polite">
+          <!-- Populated by app.js -->
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="ra-footer" role="contentinfo">
+      <div class="ra-footer-inner">
+        <div class="ra-footer-top">
+          <div class="ra-footer-brand">
+            <div class="ra-brand">
+              <svg class="ra-brand-mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M2 10v3"></path><path d="M6 6v11"></path><path d="M10 3v18"></path><path d="M14 8v7"></path><path d="M18 5v13"></path><path d="M22 10v3"></path>
+              </svg>
+              <span>Resonance Archive</span>
+            </div>
+            <p style="font-size: 13px; color: var(--text-muted); line-height: 1.5;">
+              Wuthering Waves Lore RAG service powered by Go, Qdrant, and Gemini. Grounded in MediaWiki transcripts.
+            </p>
+          </div>
+
+          <div class="ra-footer-links">
+            <div class="ra-footer-col">
+              <span class="ra-footer-col-title">Navigation</span>
+              <a href="ask.html" class="ra-footer-link">Ask the Archive</a>
+              <a href="search.html" class="ra-footer-link">Semantic Search</a>
+              <a href="about.html" class="ra-footer-link">About &amp; Methodology</a>
+            </div>
+
+            <div class="ra-footer-col">
+              <span class="ra-footer-col-title">Maintainer</span>
+              <a href="/admin.html" class="ra-footer-link">Console Overview</a>
+              <a href="/health" class="ra-footer-link" target="_blank" rel="noopener">Health Endpoint</a>
+              <a href="https://github.com/ajieblr-dev/wuwaRAG" class="ra-footer-link" target="_blank" rel="noopener">GitHub Repository</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="ra-footer-bottom">
+          <span>Unofficial fan project. Wuthering Waves content and materials are trademarks of Kuro Games.</span>
+          <span>Resonance Archive v2.0 · Altitude Design System</span>
+        </div>
+      </div>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

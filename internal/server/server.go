@@ -128,6 +128,23 @@ func findWebDir() string {
 	return ""
 }
 
+func findWebRedesignDir() string {
+	candidates := []string{
+		"./web_redesign",
+		"../web_redesign",
+		"../../web_redesign",
+		"/app/web_redesign",
+	}
+	for _, dir := range candidates {
+		if info, err := os.Stat(dir); err == nil && info.IsDir() {
+			if _, err := os.Stat(filepath.Join(dir, "index.html")); err == nil {
+				return dir
+			}
+		}
+	}
+	return ""
+}
+
 func (s *Server) registerRoutes() {
 	s.router.GET("/health", s.handleHealth)
 
@@ -141,6 +158,16 @@ func (s *Server) registerRoutes() {
 		api.POST("/query", s.handleChat) // alias
 		api.POST("/search", s.handleSearch)
 		api.POST("/ingest", s.handleIngest)
+	}
+
+	// Serve Redesigned Frontend if web_redesign directory is available
+	redesignDir := findWebRedesignDir()
+	if redesignDir != "" {
+		s.router.Static("/redesign", redesignDir)
+		s.router.Static("/web_redesign", redesignDir)
+		s.router.GET("/redesign", func(c *gin.Context) {
+			c.File(filepath.Join(redesignDir, "index.html"))
+		})
 	}
 
 	// Serve Frontend if web directory is available

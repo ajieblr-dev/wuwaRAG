@@ -1,0 +1,427 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About · Resonance Archive</title>
+    <meta name="description" content="Methodology, corpus scope, and architectural pipeline of the Resonance Archive Wuthering Waves Lore RAG service." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- Top Bar -->
+    <header class="ra-topbar" role="banner">
+      <div class="ra-topbar-inner">
+        <a href="index.html" class="ra-brand" aria-label="Resonance Archive home">
+          <svg class="ra-brand-mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M2 10v3"></path>
+            <path d="M6 6v11"></path>
+            <path d="M10 3v18"></path>
+            <path d="M14 8v7"></path>
+            <path d="M18 5v13"></path>
+            <path d="M22 10v3"></path>
+          </svg>
+          <span>Resonance Archive</span>
+        </a>
+
+        <nav class="ra-nav" role="navigation" aria-label="Main Navigation">
+          <a href="ask.html" class="ra-nav-link">Ask</a>
+          <a href="search.html" class="ra-nav-link">Search</a>
+          <a href="about.html" class="ra-nav-link ra-nav-link-active" aria-current="page">About</a>
+        </nav>
+
+        <div class="ra-topbar-spacer" aria-hidden="true"></div>
+
+        <div class="ra-topbar-actions">
+          <div class="ra-status-pill" aria-label="Service index status">
+            <span class="ra-status-dot" aria-hidden="true"></span>
+            <span>index ok</span>
+          </div>
+
+          <button id="ra-theme-toggle" class="ra-theme-toggle" type="button" aria-label="Toggle color theme">
+            <!-- Populated by app.js -->
+          </button>
+
+          <a href="/admin.html" class="ra-btn ra-btn-secondary ra-btn-sm" title="Open maintainer console">
+            <span>Console</span>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="ra-main">
+      <!-- Page Head -->
+      <section class="ra-about-head" aria-labelledby="about-heading">
+        <div class="ra-eyebrow">RESONANCE ARCHIVE / ABOUT</div>
+        <h1 id="about-heading" class="ra-heading-serif" style="font-size: clamp(34px, 4vw, 48px); margin-top: var(--space-3); max-width: 860px;">
+          A grounded lore archive across Solaris-3, wired to the wiki.
+        </h1>
+        <p class="ra-hero-lead" style="margin-top: var(--space-4); max-width: 720px;">
+          Resonance Archive is an Advanced Retrieval-Augmented Generation platform over the Wuthering Waves wiki. It indexes all Main Quests from Prologue through Chapter IV and delivers grounded answers backed by verified dialogue passages.
+        </p>
+      </section>
+
+      <!-- Corpus Scope Section -->
+      <section class="ra-section" style="background-color: var(--surface); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);" aria-labelledby="scope-heading">
+        <div class="ra-section-header" style="max-width: 900px; margin-bottom: var(--space-6);">
+          <div class="ra-eyebrow">CORPUS SCOPE</div>
+          <h2 id="scope-heading" class="ra-section-title">161 lore &amp; quest pages, 4,323 chunks, 1,119 speakers</h2>
+          <p class="ra-section-lead">
+            The knowledge base covers the full storyline from the Prologue: Utterance of Marvels through Chapter I, II, III and Chapter IV, plus key world lore hubs. Dialogue turns and cutscenes are parsed with preserved speaker identities and quest objectives.
+          </p>
+        </div>
+
+        <!-- Chapter Grid -->
+        <div class="ra-chapter-grid" role="list" aria-label="Corpus Chapters">
+          <article class="ra-chapter-card" role="listitem">
+            <div class="ra-chapter-card-head">
+              <h3 class="ra-chapter-card-title">Prologue: Utterance of Marvels</h3>
+              <span class="ra-tag ra-tag-accent">HUANGLONG</span>
+            </div>
+            <p class="ra-chapter-card-desc">
+              Awakening of the Rover, encountering Yangyang and Chixia, Gorge of Spirits, and arrival at the border of Jinzhou.
+            </p>
+          </article>
+
+          <article class="ra-chapter-card" role="listitem">
+            <div class="ra-chapter-card-head">
+              <h3 class="ra-chapter-card-title">Chapter I: Huanglong &amp; Jinzhou</h3>
+              <span class="ra-tag ra-tag-gold">ACTS I – VII</span>
+            </div>
+            <p class="ra-chapter-card-desc">
+              Rewinding Raindrops, Grand Warstorm, Clashing Blades, and the Norfall Barrens campaign against the Threnodian Ovathrax.
+            </p>
+          </article>
+
+          <article class="ra-chapter-card" role="listitem">
+            <div class="ra-chapter-card-head">
+              <h3 class="ra-chapter-card-title">Chapter II: Mt. Firmament</h3>
+              <span class="ra-tag ra-tag-slate">ACTS I – II</span>
+            </div>
+            <p class="ra-chapter-card-desc">
+              Thaw of Eons, Truthseeker's Pass, Sentinel Jue, temporal anomalies, and the history of Hongzhen.
+            </p>
+          </article>
+
+          <article class="ra-chapter-card" role="listitem">
+            <div class="ra-chapter-card-head">
+              <h3 class="ra-chapter-card-title">Chapter III: The Black Shores</h3>
+              <span class="ra-tag ra-tag-slate">ACTS I – II</span>
+            </div>
+            <p class="ra-chapter-card-desc">
+              To the Shore's End, Song of the Heart Sword, Sol-III, and the tragic origin of the Shorekeeper.
+            </p>
+          </article>
+
+          <article class="ra-chapter-card" role="listitem">
+            <div class="ra-chapter-card-head">
+              <h3 class="ra-chapter-card-title">Chapter IV: Rinascita &amp; Septimont</h3>
+              <span class="ra-tag ra-tag-gold">ACTS I – V</span>
+            </div>
+            <p class="ra-chapter-card-desc">
+              The Maiden, The Defier, The Death Crier, and the confrontation with the Sentinels of Rinascita.
+            </p>
+          </article>
+
+          <article class="ra-chapter-card" role="listitem">
+            <div class="ra-chapter-card-head">
+              <h3 class="ra-chapter-card-title">Lore Hubs &amp; Major Arcs</h3>
+              <span class="ra-tag ra-tag-green">WORLD LORE</span>
+            </div>
+            <p class="ra-chapter-card-desc">
+              Simulacrum of the Heart (v3.7+), Sentinel Hsin, Intendant Suoming, Mengzhou, and Xuanfang Hold.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <!-- Highlighted Storylines Section -->
+      <section class="ra-section" aria-labelledby="storylines-heading">
+        <div class="ra-section-header">
+          <div class="ra-eyebrow">HIGHLIGHTED STORYLINES</div>
+          <h2 id="storylines-heading" class="ra-section-title">The arcs most readers start with</h2>
+        </div>
+
+        <div class="ra-table-wrap">
+          <table class="ra-table" aria-label="Key Storylines in Corpus">
+            <thead>
+              <tr>
+                <th scope="col">Storyline</th>
+                <th scope="col">Characters</th>
+                <th scope="col">Chunks</th>
+                <th scope="col">Arc</th>
+                <th scope="col"><span class="sr-only">Action</span></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><span class="ra-table-title">Rewinding Raindrops</span></td>
+                <td><span class="ra-table-mono">54,335</span></td>
+                <td><span class="ra-table-mono">55</span></td>
+                <td><span class="ra-tag ra-tag-accent">CHAPTER I · ACT V</span></td>
+                <td style="text-align: right;">
+                  <a href="ask.html?q=Tell%20me%20about%20Rewinding%20Raindrops" class="ra-btn-link" title="Ask about Rewinding Raindrops">
+                    <span>Open</span>
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td><span class="ra-table-title">Grand Warstorm</span></td>
+                <td><span class="ra-table-mono">64,565</span></td>
+                <td><span class="ra-table-mono">70</span></td>
+                <td><span class="ra-tag ra-tag-accent">CHAPTER I · ACT VI</span></td>
+                <td style="text-align: right;">
+                  <a href="ask.html?q=What%20happened%20in%20Grand%20Warstorm" class="ra-btn-link" title="Ask about Grand Warstorm">
+                    <span>Open</span>
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td><span class="ra-table-title">Thaw of Eons</span></td>
+                <td><span class="ra-table-mono">197</span></td>
+                <td><span class="ra-table-mono">2</span></td>
+                <td><span class="ra-tag ra-tag-accent">CHAPTER II · ACT I</span></td>
+                <td style="text-align: right;">
+                  <a href="ask.html?q=Explain%20Thaw%20of%20Eons" class="ra-btn-link" title="Ask about Thaw of Eons">
+                    <span>Open</span>
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td><span class="ra-table-title">Song of the Heart Sword</span></td>
+                <td><span class="ra-table-mono">180,607</span></td>
+                <td><span class="ra-table-mono">251</span></td>
+                <td><span class="ra-tag ra-tag-accent">CHAPTER III · ACT II</span></td>
+                <td style="text-align: right;">
+                  <a href="ask.html?q=What%20is%20the%20Song%20of%20the%20Heart%20Sword" class="ra-btn-link" title="Ask about Song of the Heart Sword">
+                    <span>Open</span>
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td><span class="ra-table-title">The Maiden, The Defier, The Death Crier</span></td>
+                <td><span class="ra-table-mono">128,565</span></td>
+                <td><span class="ra-table-mono">171</span></td>
+                <td><span class="ra-tag ra-tag-accent">CHAPTER IV · ACT I</span></td>
+                <td style="text-align: right;">
+                  <a href="ask.html?q=Tell%20me%20about%20The%20Maiden%2C%20The%20Defier%2C%20The%20Death%20Crier" class="ra-btn-link" title="Ask about The Maiden">
+                    <span>Open</span>
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td><span class="ra-table-title">By Sun's Burning Hand</span></td>
+                <td><span class="ra-table-mono">135,374</span></td>
+                <td><span class="ra-table-mono">156</span></td>
+                <td><span class="ra-tag ra-tag-accent">CHAPTER IV · ACT IV</span></td>
+                <td style="text-align: right;">
+                  <a href="ask.html?q=What%20occurs%20in%20By%20Sun%27s%20Burning%20Hand" class="ra-btn-link" title="Ask about By Sun's Burning Hand">
+                    <span>Open</span>
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td><span class="ra-table-title">Simulacrum of the Heart</span></td>
+                <td><span class="ra-table-mono">141,857</span></td>
+                <td><span class="ra-table-mono">201</span></td>
+                <td><span class="ra-tag ra-tag-accent">MAIN QUEST (V3.7+)</span></td>
+                <td style="text-align: right;">
+                  <a href="ask.html?q=Summarize%20Simulacrum%20of%20the%20Heart" class="ra-btn-link" title="Ask about Simulacrum of the Heart">
+                    <span>Open</span>
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg>
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="ra-table-foot">
+          <p class="ra-table-note">
+            Character counts are wiki page views, not archive statistics. All 161 pages and 4,323 chunks can be inspected interactively in the maintainer console.
+          </p>
+          <a href="/admin.html" class="ra-btn ra-btn-secondary ra-btn-sm">
+            <span>Open Corpus Explorer</span>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+          </a>
+        </div>
+      </section>
+
+      <!-- Pipeline (How it works) Section -->
+      <section class="ra-section" style="background-color: var(--surface-muted); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);" aria-labelledby="pipeline-heading">
+        <div class="ra-section-header">
+          <div class="ra-eyebrow">HOW IT WORKS</div>
+          <h2 id="pipeline-heading" class="ra-section-title">Wiki to answer: the hybrid retrieval pipeline</h2>
+        </div>
+
+        <div class="ra-step-flow" role="list" aria-label="5 Step Pipeline">
+          <div class="ra-step-item" role="listitem">
+            <span class="ra-step-num">01</span>
+            <span class="ra-step-title">Fandom wiki</span>
+            <span class="ra-step-sub">MediaWiki API</span>
+          </div>
+          <div class="ra-step-item" role="listitem">
+            <span class="ra-step-num">02</span>
+            <span class="ra-step-title">Parser &amp; chunker</span>
+            <span class="ra-step-sub">dialogue + speaker tags</span>
+          </div>
+          <div class="ra-step-item" role="listitem">
+            <span class="ra-step-num">03</span>
+            <span class="ra-step-title">Dense + keyword</span>
+            <span class="ra-step-sub">384-dim + heuristics</span>
+          </div>
+          <div class="ra-step-item" role="listitem">
+            <span class="ra-step-num">04</span>
+            <span class="ra-step-title">Hybrid RRF</span>
+            <span class="ra-step-sub">Qdrant · k=60</span>
+          </div>
+          <div class="ra-step-item" role="listitem">
+            <span class="ra-step-num">05</span>
+            <span class="ra-step-title">LiteLLM gateway</span>
+            <span class="ra-step-sub">Gemini / Groq + history</span>
+          </div>
+        </div>
+
+        <p class="ra-hero-lead" style="font-size: 14px; margin-top: var(--space-6); max-width: 900px;">
+          The answer step is orchestrated by LiteLLM (<code>wuwa-lore-model</code>), dynamically routing across Gemini 3.5 Flash and Groq Llama 3.3 70B, with intelligent query rewriting that maintains conversation context across follow-up questions.
+        </p>
+      </section>
+
+      <!-- Policies & Legal Attribution Section -->
+      <section class="ra-section" aria-labelledby="policies-heading">
+        <div class="ra-section-header" style="margin-bottom: var(--space-6);">
+          <div class="ra-eyebrow">POLICIES &amp; ATTRIBUTION</div>
+          <h2 id="policies-heading" class="ra-section-title">Transparency, privacy, and community attribution</h2>
+        </div>
+
+        <div class="ra-grid-2">
+          <div class="ra-policy-card ra-policy-card-blue">
+            <span class="ra-eyebrow" style="color: var(--info-text);">ATTRIBUTION</span>
+            <h3 class="ra-heading-serif" style="font-size: 22px;">Content belongs to the wiki community</h3>
+            <p class="ra-card-body">
+              Lore text and dialogue transcripts are retrieved from the Wuthering Waves Fandom wiki. Fandom content is licensed CC BY-SA. Every answer generated in the Reader links back to the exact wiki source page for verification.
+            </p>
+            <span style="font-family: var(--font-mono); font-size: 11px; color: var(--text-muted);">
+              Attributed under Creative Commons Attribution-ShareAlike.
+            </span>
+          </div>
+
+          <div class="ra-policy-card ra-policy-card-green">
+            <span class="ra-eyebrow" style="color: var(--success-text);">PRIVACY &amp; CONTEXT</span>
+            <h3 class="ra-heading-serif" style="font-size: 22px;">Conversational memory &amp; data privacy</h3>
+            <p class="ra-card-body">
+              Your queries are processed with multi-turn history to enable natural follow-up questions. All chat sessions, prompt history, and client settings remain local to your browser session.
+            </p>
+            <span style="font-family: var(--font-mono); font-size: 11px; color: var(--text-muted);">
+              localStorage / client-isolated · nothing leaves this device.
+            </span>
+          </div>
+        </div>
+
+        <div class="ra-alert-card" role="region" aria-label="Legal Disclaimer">
+          <div class="ra-alert-head">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"></path>
+              <line x1="12" y1="9" x2="12" y2="13"></line>
+              <line x1="12" y1="17" x2="12.01" y2="17"></line>
+            </svg>
+            <span>Unofficial fan project.</span>
+          </div>
+          <p class="ra-alert-body">
+            Not affiliated with, endorsed by, or connected to Kuro Games. Wuthering Waves and all related names, characters, storylines, and marks are trademarks of Kuro Games. This service ships no official game assets, art, or logos.
+          </p>
+        </div>
+      </section>
+
+      <!-- Build Info Section -->
+      <section class="ra-section" style="padding-top: 0;" aria-labelledby="build-heading">
+        <div class="ra-section-header" style="margin-bottom: var(--space-4);">
+          <div class="ra-eyebrow">BUILD INFO</div>
+          <h2 id="build-heading" class="ra-section-title">What this instance is running</h2>
+        </div>
+
+        <div class="ra-kv-table" role="region" aria-label="Instance runtime configuration">
+          <div class="ra-kv-row">
+            <div class="ra-kv-key">App version</div>
+            <div class="ra-kv-val">1.0.0 · Advanced Hybrid RAG</div>
+          </div>
+          <div class="ra-kv-row">
+            <div class="ra-kv-key">API base URL</div>
+            <div class="ra-kv-val">http://localhost:8080</div>
+          </div>
+          <div class="ra-kv-row">
+            <div class="ra-kv-key">Data mode</div>
+            <div class="ra-kv-val">live API</div>
+          </div>
+          <div class="ra-kv-row">
+            <div class="ra-kv-key">Retrieval strategy</div>
+            <div class="ra-kv-val">Dense vector + keyword hybrid with reciprocal rank fusion (RRF k=60)</div>
+          </div>
+          <div class="ra-kv-row">
+            <div class="ra-kv-key">Questions carry context</div>
+            <div class="ra-kv-val">yes — multi-turn history with query rewriting</div>
+          </div>
+          <div class="ra-kv-row">
+            <div class="ra-kv-key">Corpus coverage</div>
+            <div class="ra-kv-val">161 pages · 4,323 chunks in Qdrant (wuwa_lore)</div>
+          </div>
+          <div class="ra-kv-row">
+            <div class="ra-kv-key">Gateway routing</div>
+            <div class="ra-kv-val">wuwa-lore-model · Gemini 3.5 Flash primary, Groq Llama 3.3 70B fallback</div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="ra-footer" role="contentinfo">
+      <div class="ra-footer-inner">
+        <div class="ra-footer-top">
+          <div class="ra-footer-brand">
+            <div class="ra-brand">
+              <svg class="ra-brand-mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M2 10v3"></path><path d="M6 6v11"></path><path d="M10 3v18"></path><path d="M14 8v7"></path><path d="M18 5v13"></path><path d="M22 10v3"></path>
+              </svg>
+              <span>Resonance Archive</span>
+            </div>
+            <p style="font-size: 13px; color: var(--text-muted); line-height: 1.5;">
+              Wuthering Waves Lore RAG service powered by Go, Qdrant, and Gemini. Grounded in MediaWiki transcripts.
+            </p>
+          </div>
+
+          <div class="ra-footer-links">
+            <div class="ra-footer-col">
+              <span class="ra-footer-col-title">Navigation</span>
+              <a href="ask.html" class="ra-footer-link">Ask the Archive</a>
+              <a href="search.html" class="ra-footer-link">Semantic Search</a>
+              <a href="about.html" class="ra-footer-link">About &amp; Methodology</a>
+            </div>
+
+            <div class="ra-footer-col">
+              <span class="ra-footer-col-title">Maintainer</span>
+              <a href="/admin.html" class="ra-footer-link">Console Overview</a>
+              <a href="/health" class="ra-footer-link" target="_blank" rel="noopener">Health Endpoint</a>
+              <a href="https://github.com/ajieblr-dev/wuwaRAG" class="ra-footer-link" target="_blank" rel="noopener">GitHub Repository</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="ra-footer-bottom">
+          <span>Unofficial fan project. Wuthering Waves content and materials are trademarks of Kuro Games.</span>
+          <span>Resonance Archive v2.0 · Altitude Design System</span>
+        </div>
+      </div>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

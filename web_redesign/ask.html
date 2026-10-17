@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ask the Archive · Resonance Archive</title>
+    <meta name="description" content="Ask any Wuthering Waves lore question with grounded dialogue evidence and multi-turn context retention." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- Top Bar -->
+    <header class="ra-topbar" role="banner">
+      <div class="ra-topbar-inner">
+        <a href="index.html" class="ra-brand" aria-label="Resonance Archive home">
+          <svg class="ra-brand-mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M2 10v3"></path>
+            <path d="M6 6v11"></path>
+            <path d="M10 3v18"></path>
+            <path d="M14 8v7"></path>
+            <path d="M18 5v13"></path>
+            <path d="M22 10v3"></path>
+          </svg>
+          <span>Resonance Archive</span>
+        </a>
+
+        <nav class="ra-nav" role="navigation" aria-label="Main Navigation">
+          <a href="ask.html" class="ra-nav-link active">Ask</a>
+          <a href="search.html" class="ra-nav-link">Search</a>
+          <a href="about.html" class="ra-nav-link">About</a>
+        </nav>
+
+        <div class="ra-topbar-spacer" aria-hidden="true"></div>
+
+        <div class="ra-topbar-actions">
+          <div class="ra-status-pill" aria-label="Index status">
+            <span class="ra-status-dot" aria-hidden="true"></span>
+            <span>index ok</span>
+          </div>
+
+          <button id="ra-theme-toggle" class="ra-theme-toggle" type="button" aria-label="Toggle color theme">
+            <!-- Dynamically populated -->
+          </button>
+
+          <a href="/admin.html" class="ra-btn ra-btn-secondary ra-btn-sm" title="Open maintainer console">
+            <span>Console</span>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Reader Layout -->
+    <main class="ra-reader-layout">
+      <!-- Left Column: History Rail -->
+      <aside class="ra-history-rail" aria-label="Thread History Sidebar">
+        <div class="ra-rail-header">
+          <button id="ra-new-thread-btn" class="ra-btn-new-thread" type="button" aria-label="Start new thread">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+            <span>New thread</span>
+            <kbd class="ra-kbd">⌘K</kbd>
+          </button>
+        </div>
+
+        <div class="ra-rail-filter">
+          <div class="ra-filter-input-wrap">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+            <input id="ra-thread-filter" class="ra-filter-input" type="text" placeholder="Filter questions…" aria-label="Filter past questions" />
+          </div>
+        </div>
+
+        <div class="ra-rail-list-label">RECENT CHRONICLES</div>
+        <ul id="ra-history-list" class="ra-history-list" role="list">
+          <!-- Populated by app.js -->
+        </ul>
+
+        <div class="ra-rail-footer">
+          <span>Stored locally · IndexedDB</span>
+          <button id="ra-clear-history-btn" type="button" style="background:none; border:none; color:var(--text-muted); cursor:pointer; font-size:10px; padding:0;" title="Clear stored conversation threads">Clear</button>
+        </div>
+      </aside>
+
+      <!-- Right Column: Thread Container -->
+      <section class="ra-thread-container" aria-label="Reading Pane">
+        <div class="ra-thread-content">
+          <!-- Initial View (No active thread) -->
+          <div id="ra-initial-view" class="ra-reader-initial">
+            <div class="ra-reader-head">
+              <span class="ra-eyebrow">ASK THE ARCHIVE</span>
+              <h1 class="ra-reader-title">What do you want to know?</h1>
+              <p class="ra-reader-lead">
+                Answers are grounded in Solaris-3 quest chronicles and world records. Questions outside scope are explicitly flagged rather than hallucinated.
+              </p>
+            </div>
+
+            <!-- Composer Card -->
+            <div class="ra-composer-card">
+              <textarea
+                id="ra-question-input"
+                class="ra-composer-textarea"
+                placeholder="Ask about a character, place, sentinel or quest… (e.g. What is Ovathrax Threnodian?)"
+                rows="3"
+                maxlength="1000"
+                aria-label="Question prompt input"
+              ></textarea>
+
+              <div class="ra-composer-bar">
+                <button id="ra-preview-toggle-btn" class="ra-preview-toggle-btn" type="button" aria-pressed="true">
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"></path><circle cx="12" cy="12" r="3"></circle></svg>
+                  <span>Preview sources</span>
+                </button>
+
+                <div style="display:flex; align-items:center;">
+                  <span id="ra-char-counter" class="ra-char-counter">0 / 1000</span>
+                  <button id="ra-ask-btn" class="ra-btn ra-btn-primary" type="button">
+                    <span>Ask</span>
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="12" y1="19" x2="12" y2="5"></line><polyline points="5 12 12 5 19 12"></polyline></svg>
+                  </button>
+                </div>
+              </div>
+            </div>
+
+            <!-- Scope & Suggestions -->
+            <div class="ra-suggestions-section">
+              <div class="ra-eyebrow" style="font-size: 10px;">COVERED CHRONICLES</div>
+              <div class="ra-suggestion-pills">
+                <span class="ra-chip">Prologue: Utterance of Marvels</span>
+                <span class="ra-chip">Chapter I: Huanglong &amp; Jinzhou</span>
+                <span class="ra-chip">Chapter II: Mt. Firmament</span>
+                <span class="ra-chip">Chapter III: Rinascita</span>
+                <span class="ra-chip">Chapter IV: Septimont &amp; Mengzhou</span>
+                <span class="ra-chip ra-chip-accent">lore-corpus-v1 (World Lore)</span>
+              </div>
+
+              <div class="ra-eyebrow" style="font-size: 10px; margin-top: var(--space-4);">SAMPLE INQUIRIES</div>
+              <div class="ra-suggestion-pills">
+                <button class="ra-suggestion-btn" type="button" data-prompt="What is Ovathrax Threnodian?">
+                  What is Ovathrax Threnodian?
+                </button>
+                <button class="ra-suggestion-btn" type="button" data-prompt="What was Geshu Lin's role in the Battle Beneath the Crescent?">
+                  What was Geshu Lin's role in the Battle Beneath the Crescent?
+                </button>
+                <button class="ra-suggestion-btn" type="button" data-prompt="What role does Sentinel Jué play in Jinzhou?">
+                  What role does Sentinel Jué play in Jinzhou?
+                </button>
+                <button class="ra-suggestion-btn" type="button" data-prompt="Explain the difference between Tacet Discords and Echoes.">
+                  Difference between Tacet Discords and Echoes
+                </button>
+                <button class="ra-suggestion-btn" type="button" data-prompt="Who is Abraxas and what is its connection to Abby and Leviathan?">
+                  Who is Abraxas and its connection to Abby?
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Conversation View (When thread active) -->
+          <div id="ra-conversation-view" style="display: none; flex-direction: column;">
+            <div class="ra-conversation-head">
+              <span id="ra-thread-head-info" class="ra-eyebrow">CONVERSATION · 1 EXCHANGE</span>
+              <div style="display: flex; gap: var(--space-2);">
+                <button id="ra-new-topic-btn" class="ra-btn ra-btn-secondary ra-btn-sm" type="button">
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"></path></svg>
+                  <span>New topic</span>
+                </button>
+                <button id="ra-export-btn" class="ra-btn ra-btn-secondary ra-btn-sm" type="button" title="Export thread as Markdown">
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                  <span>Export</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- Dynamic Messages Container -->
+            <div id="ra-exchange-container" class="ra-exchange-block" aria-live="polite">
+              <!-- Turns injected by app.js -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Sticky Follow-up Composer Dock -->
+        <div id="ra-dock-composer" class="ra-dock-composer" style="display: none;">
+          <div class="ra-dock-inner">
+            <div class="ra-composer-card">
+              <textarea
+                id="ra-dock-input"
+                class="ra-composer-textarea"
+                style="min-height: 52px; padding: 12px 16px;"
+                placeholder="Ask a follow-up question (context from previous turns is preserved)…"
+                rows="2"
+                aria-label="Follow-up question input"
+              ></textarea>
+              <div class="ra-composer-bar" style="padding: 8px 16px;">
+                <span class="ra-eyebrow" style="font-size: 10px;">MULTI-TURN CONTINUITY ACTIVE</span>
+                <button id="ra-dock-ask-btn" class="ra-btn ra-btn-primary ra-btn-sm" type="button">
+                  <span>Send</span>
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="12" y1="19" x2="12" y2="5"></line><polyline points="5 12 12 5 19 12"></polyline></svg>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

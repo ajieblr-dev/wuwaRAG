@@ -1,0 +1,330 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Resonance Archive · Wuthering Waves Lore RAG</title>
+    <meta name="description" content="An advanced retrieval-augmented service over the Wuthering Waves wiki with verified dialogue and world records." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- Top Bar -->
+    <header class="ra-topbar" role="banner">
+      <div class="ra-topbar-inner">
+        <a href="index.html" class="ra-brand" aria-label="Resonance Archive home">
+          <svg class="ra-brand-mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M2 10v3"></path>
+            <path d="M6 6v11"></path>
+            <path d="M10 3v18"></path>
+            <path d="M14 8v7"></path>
+            <path d="M18 5v13"></path>
+            <path d="M22 10v3"></path>
+          </svg>
+          <span>Resonance Archive</span>
+        </a>
+
+        <nav class="ra-nav" role="navigation" aria-label="Main Navigation">
+          <a href="ask.html" class="ra-nav-link">Ask</a>
+          <a href="search.html" class="ra-nav-link">Search</a>
+          <a href="about.html" class="ra-nav-link">About</a>
+        </nav>
+
+        <div class="ra-topbar-spacer" aria-hidden="true"></div>
+
+        <div class="ra-topbar-actions">
+          <div class="ra-status-pill" aria-label="Service index status">
+            <span class="ra-status-dot" aria-hidden="true"></span>
+            <span>index ok · 8,070 vectors</span>
+          </div>
+
+          <button id="ra-theme-toggle" class="ra-theme-toggle" type="button" aria-label="Toggle color theme">
+            <!-- SVG icon dynamically populated by app.js -->
+          </button>
+
+          <a href="/admin.html" class="ra-btn ra-btn-secondary ra-btn-sm" title="Open maintainer console">
+            <span>Console</span>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="ra-main">
+      <!-- Hero Section -->
+      <section class="ra-hero-section" aria-labelledby="hero-heading">
+        <div class="ra-hero-copy">
+          <div class="ra-eyebrow">SOLARIS-3 ARCHIVE · ROVER · RESONATORS · ECHOES</div>
+
+          <div class="ra-hero-headline">
+            <h1 id="hero-heading" class="ra-hero-headline-1">Every answer</h1>
+            <span class="ra-hero-headline-2">carries its receipts.</span>
+          </div>
+
+          <p class="ra-hero-lead">
+            An advanced retrieval-augmented service over the Wuthering Waves wiki. Ask any lore question from Prologue through Chapter IV, read the exact dialogue passages behind the answer, and inspect the hybrid retrieval pipeline from the maintainer console.
+          </p>
+
+          <div class="ra-hero-chips" aria-label="Dataset Highlights">
+            <span class="ra-chip">Prologue – Chapter IV</span>
+            <span class="ra-chip ra-chip-accent">Hybrid search &amp; RRF</span>
+            <span class="ra-chip">161 lore &amp; quest pages</span>
+            <span class="ra-chip">4,323 chunks</span>
+          </div>
+
+          <div class="ra-hero-actions">
+            <a href="ask.html" class="ra-btn ra-btn-dark">
+              <span>Open the reader</span>
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+            </a>
+            <a href="search.html" class="ra-btn ra-btn-secondary">Explore search</a>
+          </div>
+
+          <div class="ra-hero-notes">
+            <span>Scope: all main quests · Huanglong · Jinzhou · Rinascita · Septimont · Mengzhou</span>
+            <span>Unofficial fan project · not affiliated with Kuro Games</span>
+          </div>
+        </div>
+
+        <!-- Worked Example Card -->
+        <article class="ra-card-example" aria-label="Worked Retrieval Example">
+          <div class="ra-panel-head">
+            <span class="ra-eyebrow">WORKED EXAMPLE</span>
+            <div class="ra-status-pill">
+              <span class="ra-status-dot" aria-hidden="true"></span>
+              <span>index ok</span>
+            </div>
+          </div>
+
+          <div class="ra-example-question">
+            <span class="ra-eyebrow" style="font-size: 10px;">QUESTION</span>
+            <h2 class="ra-example-question-text">What was Ovathrax's role in the Battle Beneath the Crescent?</h2>
+          </div>
+
+          <div class="ra-example-answer">
+            <span class="ra-eyebrow" style="font-size: 10px;">ANSWER</span>
+            <p class="ra-example-answer-text">
+              Ovathrax is the entity known as the <strong>Threnodian of War</strong> that fed on weapon frequencies in the Norfall Barrens. During the Battle Beneath the Crescent, it enhanced the Retroact Rain into deadly phantoms before General Geshu Lin delivered a crushing final blow and vanished into the water.
+            </p>
+            <div class="ra-citations-row" aria-label="Citations">
+              <span class="ra-citation-badge" title="Citation 1: Rewinding Raindrops">1</span>
+              <span class="ra-citation-badge" title="Citation 2: Grand Warstorm">2</span>
+            </div>
+          </div>
+
+          <div class="ra-example-sources">
+            <div class="ra-example-sources-head">
+              <span class="ra-eyebrow" style="font-size: 10px;">RETRIEVED SOURCES</span>
+              <span style="font-family: var(--font-mono); font-size: 11px; color: var(--text-muted);">2 of 5 shown</span>
+            </div>
+
+            <div class="ra-source-item">
+              <div class="ra-source-head">
+                <span class="ra-source-index">1</span>
+                <div class="ra-source-meta">
+                  <div class="ra-source-title">Rewinding Raindrops</div>
+                  <div class="ra-source-sub">Battle Beneath the Crescent · Geshu Lin Confrontation</div>
+                </div>
+                <div class="ra-source-score">
+                  <span>0.94</span>
+                  <span class="ra-badge ra-badge-accent">RRF 1</span>
+                </div>
+              </div>
+              <div class="ra-score-bar-bg" aria-hidden="true">
+                <div class="ra-score-bar-fill" style="width: 94%;"></div>
+              </div>
+            </div>
+
+            <div class="ra-source-item">
+              <div class="ra-source-head">
+                <span class="ra-source-index">2</span>
+                <div class="ra-source-meta">
+                  <div class="ra-source-title">Grand Warstorm</div>
+                  <div class="ra-source-sub">General Jiyan Briefing · Norfall Barrens</div>
+                </div>
+                <div class="ra-source-score">
+                  <span>0.88</span>
+                  <span class="ra-badge ra-badge-accent">RRF 2</span>
+                </div>
+              </div>
+              <div class="ra-score-bar-bg" aria-hidden="true">
+                <div class="ra-score-bar-fill" style="width: 88%;"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="ra-panel-foot">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line><line x1="20" y1="9" x2="23" y2="9"></line><line x1="20" y1="14" x2="23" y2="14"></line><line x1="1" y1="9" x2="4" y2="9"></line><line x1="1" y1="14" x2="4" y2="14"></line></svg>
+            <span>gemini-3.1-flash-lite · 3,120 ms · 3,202 tok</span>
+          </div>
+        </article>
+      </section>
+
+      <!-- Stats Band -->
+      <section class="ra-stats-band" aria-label="System Metrics">
+        <div class="ra-stats-grid">
+          <div class="ra-stat-card">
+            <span class="ra-stat-label">Indexed pages</span>
+            <div class="ra-stat-value-row">
+              <span class="ra-stat-value">161</span>
+              <span class="ra-stat-sub">wiki</span>
+            </div>
+            <span class="ra-hero-notes" style="margin: 0;">78 quest transcripts + 83 world lore</span>
+          </div>
+
+          <div class="ra-stat-card">
+            <span class="ra-stat-label">Processed chunks</span>
+            <div class="ra-stat-value-row">
+              <span class="ra-stat-value">4,323</span>
+              <span class="ra-stat-sub">chunks</span>
+            </div>
+            <span class="ra-hero-notes" style="margin: 0;">Preserved section headers &amp; speakers</span>
+          </div>
+
+          <div class="ra-stat-card">
+            <span class="ra-stat-label">Vector points</span>
+            <div class="ra-stat-value-row">
+              <span class="ra-stat-value" data-stat="vectors">8,070</span>
+              <span class="ra-stat-sub">qdrant</span>
+            </div>
+            <span class="ra-hero-notes" style="margin: 0;">Unified collection wuwa_lore</span>
+          </div>
+
+          <div class="ra-stat-card">
+            <span class="ra-stat-label">Hybrid rank</span>
+            <div class="ra-stat-value-row">
+              <span class="ra-stat-value">RRF</span>
+              <span class="ra-stat-sub">k=60</span>
+            </div>
+            <span class="ra-hero-notes" style="margin: 0;">Dense semantic + BM25 keyword scroll</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Two Surfaces Section -->
+      <section class="ra-section" aria-labelledby="surfaces-heading">
+        <div class="ra-section-header">
+          <span class="ra-eyebrow">TWO SURFACES, ONE APP</span>
+          <h2 id="surfaces-heading" class="ra-section-title">Designed for readers and maintainers alike.</h2>
+          <p class="ra-section-lead">Whether querying complex storylines or inspecting hybrid vector rankings, every feature has a dedicated interface.</p>
+        </div>
+
+        <div class="ra-grid-2">
+          <div class="ra-card">
+            <span class="ra-badge ra-badge-accent">SURFACE 01</span>
+            <h3 class="ra-card-title">The Reader (Ask &amp; Search)</h3>
+            <p class="ra-card-body">
+              A distraction-free reading experience for lore archivers and players. Features multi-turn follow-ups, citation badges linked to source cards, speaker identification, and persistent question history.
+            </p>
+            <div style="margin-top: auto; padding-top: var(--space-4);">
+              <a href="ask.html" class="ra-btn ra-btn-secondary ra-btn-sm">Open Ask Reader →</a>
+            </div>
+          </div>
+
+          <div class="ra-card">
+            <span class="ra-badge ra-badge-neutral">SURFACE 02</span>
+            <h3 class="ra-card-title">The Console (Admin Suite)</h3>
+            <p class="ra-card-body">
+              Full observability across corpus indexing, vector distribution, LiteLLM gateway metrics, and ingestion logs. Maintainers can audit live Qdrant points and inspect vector dimensions without leaving the browser.
+            </p>
+            <div style="margin-top: auto; padding-top: var(--space-4);">
+              <a href="/admin.html" class="ra-btn ra-btn-secondary ra-btn-sm">Open Console →</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Pipeline Section -->
+      <section class="ra-section" style="background-color: var(--surface); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);" aria-labelledby="pipeline-heading">
+        <div class="ra-section-header">
+          <span class="ra-eyebrow">SYSTEM ARCHITECTURE</span>
+          <h2 id="pipeline-heading" class="ra-section-title">Every stage is inspectable.</h2>
+          <p class="ra-section-lead">How a user question transforms into a grounded, verified answer with citations.</p>
+        </div>
+
+        <div class="ra-grid-3">
+          <div class="ra-card" style="background-color: var(--surface-muted);">
+            <span class="ra-badge ra-badge-accent">STAGE 01</span>
+            <h3 class="ra-card-title">1. Contextual Query Rewriting</h3>
+            <p class="ra-card-body">
+              Multi-turn follow-up queries like <em>"What happened to them next?"</em> are expanded using previous dialogue turns into standalone search queries before embedding.
+            </p>
+          </div>
+
+          <div class="ra-card" style="background-color: var(--surface-muted);">
+            <span class="ra-badge ra-badge-accent">STAGE 02</span>
+            <h3 class="ra-card-title">2. Dense &amp; Lexical Retrieval</h3>
+            <p class="ra-card-body">
+              Runs parallel searches: 384-dimensional dense semantic vector search via Qdrant, combined with BM25 keyword scroll across title, character names, and scene dialogues.
+            </p>
+          </div>
+
+          <div class="ra-card" style="background-color: var(--surface-muted);">
+            <span class="ra-badge ra-badge-accent">STAGE 03</span>
+            <h3 class="ra-card-title">3. Reciprocal Rank Fusion (RRF)</h3>
+            <p class="ra-card-body">
+              Fuses candidate results using RRF score formula <code>1 / (60 + rank)</code>, giving equal weight to exact keyword hits and broad semantic matches.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- CTA Band -->
+      <section class="ra-cta-band" aria-labelledby="cta-heading">
+        <div class="ra-cta-inner">
+          <span class="ra-eyebrow">READY TO EXPLORE?</span>
+          <h2 id="cta-heading" class="ra-heading-serif" style="font-size: 38px;">Interrogate the Solaris-3 chronicle.</h2>
+          <p style="color: var(--text-secondary); font-size: 15px;">Ask about Ovathrax, Sentinel Jué, Geshu Lin, the Lament, or any Act from Prologue to Chapter IV.</p>
+          <div style="display: flex; gap: var(--space-3); margin-top: var(--space-3);">
+            <a href="ask.html" class="ra-btn ra-btn-primary">Start asking now</a>
+            <a href="about.html" class="ra-btn ra-btn-secondary">Read documentation</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="ra-footer" role="contentinfo">
+      <div class="ra-footer-inner">
+        <div class="ra-footer-top">
+          <div class="ra-footer-brand">
+            <div class="ra-brand">
+              <svg class="ra-brand-mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M2 10v3"></path><path d="M6 6v11"></path><path d="M10 3v18"></path><path d="M14 8v7"></path><path d="M18 5v13"></path><path d="M22 10v3"></path>
+              </svg>
+              <span>Resonance Archive</span>
+            </div>
+            <p style="font-size: 13px; color: var(--text-muted); line-height: 1.5;">
+              Wuthering Waves Lore RAG service powered by Go, Qdrant, and Gemini. Grounded in MediaWiki transcripts.
+            </p>
+          </div>
+
+          <div class="ra-footer-links">
+            <div class="ra-footer-col">
+              <span class="ra-footer-col-title">Navigation</span>
+              <a href="ask.html" class="ra-footer-link">Ask the Archive</a>
+              <a href="search.html" class="ra-footer-link">Semantic Search</a>
+              <a href="about.html" class="ra-footer-link">About &amp; Methodology</a>
+            </div>
+
+            <div class="ra-footer-col">
+              <span class="ra-footer-col-title">Maintainer</span>
+              <a href="/admin.html" class="ra-footer-link">Console Overview</a>
+              <a href="/health" class="ra-footer-link" target="_blank" rel="noopener">Health Endpoint</a>
+              <a href="https://github.com/ajieblr-dev/wuwaRAG" class="ra-footer-link" target="_blank" rel="noopener">GitHub Repository</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="ra-footer-bottom">
+          <span>Unofficial fan project. Wuthering Waves content and materials are trademarks of Kuro Games.</span>
+          <span>Resonance Archive v2.0 · Altitude Design System</span>
+        </div>
+      </div>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
