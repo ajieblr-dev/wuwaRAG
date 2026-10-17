@@ -207,6 +207,16 @@
     const conversationView = document.getElementById("ra-conversation-view");
     const threadHead = document.getElementById("ra-thread-head-info");
     const exchangeContainer = document.getElementById("ra-exchange-container");
+    const threadContent = document.querySelector(".ra-thread-content");
+
+    function scrollChatToBottom(smooth = true) {
+      if (threadContent) {
+        threadContent.scrollTo({
+          top: threadContent.scrollHeight,
+          behavior: smooth ? "smooth" : "auto"
+        });
+      }
+    }
 
     const initialComposer = document.getElementById("ra-initial-composer");
     const initialTextarea = document.getElementById("ra-question-input");
@@ -505,8 +515,8 @@
       }
       applySpoilerGuardState();
 
-      // Scroll to bottom
-      window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" });
+      // Scroll to bottom of chat
+      scrollChatToBottom();
     }
 
     function showInitialView() {
@@ -645,7 +655,7 @@
         </div>
       `;
       exchangeContainer.appendChild(loadingEl);
-      window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" });
+      scrollChatToBottom();
 
       const startTime = Date.now();
       const progressTimer = setInterval(() => {
@@ -756,7 +766,7 @@
         clearInterval(progressTimer);
         if (initialAskBtn) initialAskBtn.disabled = false;
         if (dockAskBtn) dockAskBtn.disabled = false;
-        window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" });
+        scrollChatToBottom();
       }
     }
 

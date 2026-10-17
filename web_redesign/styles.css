@@ -1023,16 +1023,34 @@ button, input, textarea, select {
    Ask Page (Interactive Reader Layout)
    ═══════════════════════════════════════════════════════════════════ */
 
+/* Lock window viewport so sidebar and context panel fit and never scroll */
+body.ra-reader-page {
+  height: 100vh;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+body.ra-reader-page .ra-topbar {
+  padding: 0 var(--space-5);
+}
+
+body.ra-reader-page .ra-topbar-inner {
+  max-width: 100%;
+}
+
 .ra-reader-layout {
   display: flex;
   flex: 1;
-  min-height: calc(100vh - 56px);
-  max-width: 1440px;
-  margin: 0 auto;
+  height: calc(100vh - 56px);
+  max-height: calc(100vh - 56px);
   width: 100%;
+  max-width: 100%;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
 }
 
-/* History Rail (Sidebar) */
+/* History Rail (Left Sidebar - Recent Chronicles) */
 .ra-history-rail {
   width: 264px;
   flex-shrink: 0;
@@ -1040,7 +1058,11 @@ button, input, textarea, select {
   border-right: 1px solid var(--border);
   display: flex;
   flex-direction: column;
+  height: 100%;
+  max-height: 100%;
   overflow-y: auto;
+  position: relative;
+  z-index: 10;
 }
 
 .ra-rail-header {
@@ -1191,20 +1213,28 @@ button, input, textarea, select {
   align-items: center;
 }
 
-/* Thread Main Container */
+/* Thread Main Container (Center Chat Area) */
 .ra-thread-container {
   flex: 1;
   display: flex;
   flex-direction: column;
   min-width: 0;
+  height: 100%;
+  max-height: 100%;
+  overflow: hidden;
   background-color: var(--bg);
+  position: relative;
 }
 
 .ra-thread-content {
   flex: 1;
   overflow-y: auto;
+  overflow-x: hidden;
   display: flex;
   flex-direction: column;
+  min-height: 0;
+  height: 100%;
+  scroll-behavior: smooth;
 }
 
 /* Initial Empty Reader State */
@@ -1988,12 +2018,13 @@ button, input, textarea, select {
 
 /* Follow-up Dock (Sticky bottom composer) */
 .ra-dock-composer {
-  position: sticky;
-  bottom: 0;
+  flex-shrink: 0;
   background-color: var(--surface);
   border-top: 1px solid var(--border);
   padding: var(--space-4) var(--space-10);
   box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.04);
+  position: relative;
+  z-index: 20;
 }
 
 .ra-dock-inner {
@@ -2038,7 +2069,45 @@ button, input, textarea, select {
   border-left: 1px solid var(--border);
   display: flex;
   flex-direction: column;
+  height: 100%;
+  max-height: 100%;
   overflow-y: auto;
+  position: relative;
+  z-index: 10;
+}
+
+/* Sleek custom scrollbars for Ask Page Panes */
+.ra-thread-content,
+.ra-history-rail,
+.ra-context-panel {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-strong) transparent;
+}
+
+.ra-thread-content::-webkit-scrollbar,
+.ra-history-rail::-webkit-scrollbar,
+.ra-context-panel::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.ra-thread-content::-webkit-scrollbar-track,
+.ra-history-rail::-webkit-scrollbar-track,
+.ra-context-panel::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.ra-thread-content::-webkit-scrollbar-thumb,
+.ra-history-rail::-webkit-scrollbar-thumb,
+.ra-context-panel::-webkit-scrollbar-thumb {
+  background-color: var(--border-strong);
+  border-radius: var(--radius-full);
+}
+
+.ra-thread-content::-webkit-scrollbar-thumb:hover,
+.ra-history-rail::-webkit-scrollbar-thumb:hover,
+.ra-context-panel::-webkit-scrollbar-thumb:hover {
+  background-color: var(--text-muted);
 }
 
 .ra-context-panel-state {
@@ -2652,7 +2721,25 @@ button, input, textarea, select {
    Responsive Breakpoints
    ═══════════════════════════════════════════════════════════════════ */
 
-@media (max-width: 1240px) {
+@media (max-width: 1240px) and (min-width: 901px) {
+  .ra-history-rail {
+    width: 230px;
+  }
+  .ra-context-panel {
+    width: 280px;
+  }
+  .ra-panel-block {
+    padding: 14px 16px;
+  }
+  .ra-dock-composer {
+    padding: var(--space-3) var(--space-6);
+  }
+  .ra-exchange-block, .ra-reader-initial {
+    padding: var(--space-6) var(--space-6);
+  }
+}
+
+@media (max-width: 900px) {
   .ra-context-panel {
     display: none !important;
   }
@@ -2681,10 +2768,18 @@ button, input, textarea, select {
 }
 
 @media (max-width: 860px) {
+  body.ra-reader-page {
+    height: auto;
+    max-height: none;
+    overflow: auto;
+  }
   .ra-topbar {
     padding: 0 var(--space-4);
   }
   .ra-reader-layout {
+    height: auto;
+    max-height: none;
+    overflow: visible;
     flex-direction: column;
   }
   .ra-history-rail {
@@ -2693,6 +2788,16 @@ button, input, textarea, select {
     max-height: 220px;
     border-right: none;
     border-bottom: 1px solid var(--border);
+  }
+  .ra-thread-container {
+    height: auto;
+    max-height: none;
+    overflow: visible;
+  }
+  .ra-thread-content {
+    height: auto;
+    max-height: none;
+    overflow: visible;
   }
   .ra-hero-section, .ra-section, .ra-stats-band, .ra-search-head, .ra-search-bar-wrap, .ra-search-results-list, .ra-about-head, .ra-footer {
     padding-left: var(--space-4);
