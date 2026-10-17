@@ -72,12 +72,16 @@
     </div>
   </section>
   <hr class="tacet-line" />
-  <section class="wrap" data-od-id="stats" style="padding-block:8px 40px">
-    <div class="kpi-grid">
-      <div class="kpi"><div class="k-top"><span class="k-label">Indexed pages</span><span class="dim mono tiny">wiki</span></div><div class="k-val num">78</div><div class="k-sub">Prologue through Chapter IV + hubs</div></div>
-      <div class="kpi"><div class="k-top"><span class="k-label">Indexed chunks</span><span class="dim mono tiny">qdrant</span></div><div class="k-val num">3,786</div><div class="k-sub">hybrid collection <span class="mono">wuwa_lore</span></div></div>
-      <div class="kpi"><div class="k-top"><span class="k-label">Dialogue speakers</span><span class="dim mono tiny">distinct</span></div><div class="k-val num">1,119</div><div class="k-sub">tagged with speakers and quest objectives</div></div>
-      <div class="kpi"><div class="k-top"><span class="k-label">Typical chat</span><span class="dim mono tiny">p50</span></div><div class="k-val num">≈3-4<span class="k-unit">s</span></div><div class="k-sub">Hybrid RRF + Gemini Flash router</div></div>
+  <section class="wrap" data-od-id="stats" style="padding-block:16px 40px; text-align:center;">
+    <div style="margin-bottom:24px; display:flex; flex-direction:column; align-items:center; text-align:center;">
+      <p class="eyebrow">System &amp; Corpus Scale</p>
+      <h2 class="display" style="font-size:24px;">Verified knowledge base across Solaris-3</h2>
+    </div>
+    <div class="kpi-grid" style="text-align:center;">
+      <div class="kpi" style="display:flex; flex-direction:column; align-items:center; text-align:center;"><div class="k-top" style="justify-content:center;"><span class="k-label">Indexed pages</span><span class="dim mono tiny">wiki</span></div><div class="k-val num">161</div><div class="k-sub">78 main quest transcripts + 83 world lore</div></div>
+      <div class="kpi" style="display:flex; flex-direction:column; align-items:center; text-align:center;"><div class="k-top" style="justify-content:center;"><span class="k-label">Processed chunks</span><span class="dim mono tiny">chunks</span></div><div class="k-val num">4,323</div><div class="k-sub">Dialogue turns with preserved speakers</div></div>
+      <div class="kpi" style="display:flex; flex-direction:column; align-items:center; text-align:center;"><div class="k-top" style="justify-content:center;"><span class="k-label">Vector points</span><span class="dim mono tiny">qdrant</span></div><div class="k-val num">8,070</div><div class="k-sub">Dense vectors in unified <span class="mono">wuwa_lore</span></div></div>
+      <div class="kpi" style="display:flex; flex-direction:column; align-items:center; text-align:center;"><div class="k-top" style="justify-content:center;"><span class="k-label">Hybrid rank</span><span class="dim mono tiny">RRF</span></div><div class="k-val num">k=60</div><div class="k-sub">Dense semantic vector + BM25 keyword fusion</div></div>
     </div>
   </section>
 

@@ -162,8 +162,16 @@
         </article>
       </section>
 
-      <!-- Stats Band -->
+      <!-- Centered Metrics Section -->
       <section class="ra-stats-band" aria-label="System Metrics">
+        <div class="ra-stats-header">
+          <span class="ra-eyebrow">SYSTEM &amp; CORPUS SCALE</span>
+          <h2 class="ra-heading-sans" style="font-size: 26px; font-weight: 600; letter-spacing: -0.6px;">Verified knowledge base across Solaris-3</h2>
+          <p style="font-size: 14px; color: var(--text-secondary); line-height: 1.5; margin-top: 4px;">
+            Real-time retrieval metrics from the unified Qdrant vector database and MediaWiki ingestion pipeline.
+          </p>
+        </div>
+
         <div class="ra-stats-grid">
           <div class="ra-stat-card">
             <span class="ra-stat-label">Indexed pages</span>
@@ -171,7 +179,7 @@
               <span class="ra-stat-value">161</span>
               <span class="ra-stat-sub">wiki</span>
             </div>
-            <span class="ra-hero-notes" style="margin: 0;">78 quest transcripts + 83 world lore</span>
+            <p class="ra-stat-desc">78 main quest transcripts + 83 world lore pages</p>
           </div>
 
           <div class="ra-stat-card">
@@ -180,7 +188,7 @@
               <span class="ra-stat-value">4,323</span>
               <span class="ra-stat-sub">chunks</span>
             </div>
-            <span class="ra-hero-notes" style="margin: 0;">Preserved section headers &amp; speakers</span>
+            <p class="ra-stat-desc">Dialogue turns with preserved speakers &amp; objectives</p>
           </div>
 
           <div class="ra-stat-card">
@@ -189,7 +197,7 @@
               <span class="ra-stat-value" data-stat="vectors">8,070</span>
               <span class="ra-stat-sub">qdrant</span>
             </div>
-            <span class="ra-hero-notes" style="margin: 0;">Unified collection wuwa_lore</span>
+            <p class="ra-stat-desc">Dense 384-dim embeddings in unified <code>wuwa_lore</code></p>
           </div>
 
           <div class="ra-stat-card">
@@ -198,7 +206,7 @@
               <span class="ra-stat-value">RRF</span>
               <span class="ra-stat-sub">k=60</span>
             </div>
-            <span class="ra-hero-notes" style="margin: 0;">Dense semantic + BM25 keyword scroll</span>
+            <p class="ra-stat-desc">Dense semantic vector + BM25 keyword scroll fusion</p>
           </div>
         </div>
       </section>

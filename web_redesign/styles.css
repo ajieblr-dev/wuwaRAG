@@ -761,28 +761,46 @@ button, input, textarea, select {
   color: var(--text-muted);
 }
 
-/* Stats Band */
+/* Centered Stats Band */
 .ra-stats-band {
   background-color: var(--surface);
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
-  padding: var(--space-8) var(--space-16);
+  padding: var(--space-12) var(--space-16);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.ra-stats-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: var(--space-10);
+  gap: var(--space-2);
+  max-width: 680px;
 }
 
 .ra-stats-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: var(--space-6);
-  max-width: 1440px;
+  gap: var(--space-8);
+  max-width: 1320px;
+  width: 100%;
   margin: 0 auto;
 }
 
 .ra-stat-card {
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  align-items: center;
+  text-align: center;
+  gap: var(--space-2);
   border-right: 1px solid var(--border);
-  padding-right: var(--space-6);
+  padding: 0 var(--space-6);
 }
 
 .ra-stat-card:last-child {
@@ -790,29 +808,47 @@ button, input, textarea, select {
 }
 
 .ra-stat-label {
-  font-size: 12px;
+  font-family: var(--font-mono);
+  font-size: 11px;
   font-weight: 500;
   color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
 }
 
 .ra-stat-value-row {
   display: flex;
   align-items: baseline;
+  justify-content: center;
   gap: var(--space-2);
 }
 
 .ra-stat-value {
-  font-size: 42px;
+  font-size: 46px;
   font-weight: 600;
-  letter-spacing: -1px;
-  line-height: 1.1;
+  letter-spacing: -1.4px;
+  line-height: 1.05;
   color: var(--text-primary);
 }
 
 .ra-stat-sub {
   font-family: var(--font-mono);
   font-size: 11px;
-  color: var(--text-muted);
+  color: var(--accent);
+  font-weight: 600;
+  background-color: var(--accent-soft);
+  padding: 1px 6px;
+  border-radius: var(--radius-xs);
+}
+
+.ra-stat-desc {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text-secondary);
+  text-align: center;
+  max-width: 240px;
+  margin-top: 2px;
 }
 
 /* Content Sections (Surfaces, Pipeline, Routes) */
