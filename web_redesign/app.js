@@ -12,6 +12,18 @@
 
   const RA = (window.RA = {});
 
+  /* ── 0. Base URL Resolver ── */
+  const API_BASE = (function () {
+    if (typeof window !== "undefined" && window.location) {
+      if (window.location.protocol === "http:" || window.location.protocol === "https:") {
+        if (window.location.port === "8080") return "";
+        return `${window.location.protocol}//${window.location.hostname}:8080`;
+      }
+    }
+    return "http://localhost:8080";
+  })();
+  RA.API_BASE = API_BASE;
+
   /* ── 1. Storage Helper ── */
   const Storage = {
     get(key, fallback = null) {
@@ -83,7 +95,7 @@
   RA.initStatus = async function () {
     const pill = document.querySelector(".ra-status-pill");
     try {
-      const res = await fetch("/health");
+      const res = await fetch(API_BASE + "/health");
       if (!res.ok) throw new Error("Health check failed");
       const data = await res.json();
       if (pill) {
@@ -137,7 +149,7 @@
     // Bullet lists
     html = html.replace(/^\* (.*$)/gim, "<li>$1</li>");
     html = html.replace(/^- (.*$)/gim, "<li>$1</li>");
-    html = html.replace(/(<li>.*<\/li>)/gims, "<ul>$1</ul>");
+    html = html.replace(/((?:<li>.*?<\/li>\s*)+)/gi, "<ul>$1</ul>");
 
     // Paragraph breaks
     html = html.replace(/\n\n+/g, "</p><p>");
@@ -161,7 +173,8 @@
     const readerLayout = document.querySelector(".ra-reader-layout");
     if (!readerLayout) return;
 
-    let threads = Storage.get("threads", []);
+    let rawThreads = Storage.get("threads", []);
+    let threads = Array.isArray(rawThreads) ? rawThreads : [];
     let currentThreadId = Storage.get("active-thread-id", null);
     let previewSources = Storage.get("preview-sources", true);
 
@@ -230,7 +243,8 @@
 
     // Load Specific Thread
     function loadThread(id) {
-      const thread = threads.find(t => t.id === id);
+      if (!Array.isArray(threads)) threads = [];
+      const thread = threads.find(t => t && t.id === id);
       if (!thread) {
         currentThreadId = null;
         Storage.set("active-thread-id", null);
@@ -245,17 +259,20 @@
       conversationView.style.display = "flex";
       dockComposer.style.display = "block";
 
-      const exchangeCount = Math.floor((thread.messages.length + 1) / 2);
+      const exchangeCount = Math.floor(((thread.messages ? thread.messages.length : 0) + 1) / 2);
       threadHead.textContent = `CONVERSATION · ${exchangeCount} EXCHANGE${exchangeCount > 1 ? "S" : ""}`;
       exchangeContainer.innerHTML = "";
 
-      thread.messages.forEach(msg => {
-        if (msg.role === "user") {
-          exchangeContainer.appendChild(createUserTurnElement(msg.content, msg.timestamp));
-        } else if (msg.role === "assistant") {
-          exchangeContainer.appendChild(createAssistantTurnElement(msg.content, msg.sources, msg.meta));
-        }
-      });
+      if (Array.isArray(thread.messages)) {
+        thread.messages.forEach(msg => {
+          if (!msg) return;
+          if (msg.role === "user") {
+            exchangeContainer.appendChild(createUserTurnElement(msg.content, msg.timestamp));
+          } else if (msg.role === "assistant") {
+            exchangeContainer.appendChild(createAssistantTurnElement(msg.content, msg.sources || [], msg.meta || {}));
+          }
+        });
+      }
 
       // Scroll to bottom
       window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" });
@@ -321,7 +338,8 @@
       if (dockAskBtn) dockAskBtn.disabled = true;
 
       // Determine or create thread
-      let thread = threads.find(t => t.id === currentThreadId);
+      if (!Array.isArray(threads)) threads = [];
+      let thread = threads.find(t => t && t.id === currentThreadId);
       if (!thread) {
         thread = {
           id: "th-" + Date.now().toString(36),
@@ -335,6 +353,7 @@
         Storage.set("threads", threads);
         Storage.set("active-thread-id", thread.id);
       }
+      if (!Array.isArray(thread.messages)) thread.messages = [];
 
       // Add user message
       const userMsg = {
@@ -355,38 +374,59 @@
       // Append user turn
       exchangeContainer.appendChild(createUserTurnElement(userMsg.content, userMsg.timestamp));
 
-      // Append temporary loading state
+      // Append temporary loading state with progress ticker
       const loadingEl = document.createElement("div");
       loadingEl.className = "ra-assistant-turn";
       loadingEl.innerHTML = `
         <div class="ra-answer-header">
           <span class="ra-badge ra-badge-accent">RETRIEVING LORE…</span>
-          <span>Searching vector database & synthesizing answer…</span>
+          <span id="ra-loading-status">Searching vector database & synthesizing answer…</span>
         </div>
         <div class="ra-answer-prose" style="padding: 32px; display: flex; align-items: center; gap: 12px; font-family: var(--font-sans); font-size: 14px; color: var(--text-secondary);">
           <div class="ra-status-dot" style="background-color: var(--accent); animation: pulse-dot 1s infinite ease-in-out;"></div>
-          Consulting Wuthering Waves records with Reciprocal Rank Fusion…
+          <span>Consulting Wuthering Waves records with Reciprocal Rank Fusion…</span>
         </div>
       `;
       exchangeContainer.appendChild(loadingEl);
       window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" });
 
+      const startTime = Date.now();
+      const progressTimer = setInterval(() => {
+        const sec = Math.floor((Date.now() - startTime) / 1000);
+        const statusEl = loadingEl.querySelector("#ra-loading-status");
+        if (statusEl) {
+          if (sec > 10) {
+            statusEl.textContent = `Synthesizing grounded response (${sec}s elapsed)…`;
+          } else if (sec > 3) {
+            statusEl.textContent = `Ranking dialogue evidence with hybrid fusion (${sec}s)…`;
+          }
+        }
+      }, 1000);
+
       try {
         // Build conversation history payload for multi-turn follow-up
-        const historyPayload = thread.messages.slice(0, -1).map(m => ({
-          role: m.role,
-          content: m.content
-        }));
+        const historyPayload = (thread.messages || []).slice(0, -1)
+          .filter(m => m && (m.role === "user" || m.role === "assistant") && m.content)
+          .map(m => ({
+            role: m.role,
+            content: String(m.content)
+          }));
 
         const t0 = performance.now();
-        const res = await fetch("/api/v1/chat", {
+        const res = await fetch(API_BASE + "/api/v1/chat", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ question: q, history: historyPayload })
         });
 
         if (!res.ok) {
-          throw new Error(`API responded with status ${res.status}`);
+          const errText = await res.text();
+          let msg = `API responded with status ${res.status}`;
+          try {
+            const errJson = JSON.parse(errText);
+            if (errJson && errJson.error) msg = errJson.error;
+          } catch (_) {}
+          throw new Error(msg);
         }
 
         const data = await res.json();
@@ -395,7 +435,7 @@
         const assistantMsg = {
           role: "assistant",
           content: data.answer || "No response received.",
-          sources: data.sources || [],
+          sources: Array.isArray(data.sources) ? data.sources : [],
           meta: {
             model: data.model || "wuwa-lore-model",
             latencyMs: latencyMs,
@@ -406,8 +446,24 @@
         thread.messages.push(assistantMsg);
         Storage.set("threads", threads);
 
+        clearInterval(progressTimer);
+
         // Replace loading state with actual answer
-        loadingEl.replaceWith(createAssistantTurnElement(assistantMsg.content, assistantMsg.sources, assistantMsg.meta));
+        try {
+          const answerNode = createAssistantTurnElement(assistantMsg.content, assistantMsg.sources, assistantMsg.meta);
+          loadingEl.replaceWith(answerNode);
+        } catch (renderErr) {
+          console.error("Error rendering assistant turn:", renderErr);
+          loadingEl.innerHTML = `
+            <div class="ra-answer-header">
+              <span class="ra-badge ra-badge-accent">ANSWER</span>
+              <span>${escapeHTML(assistantMsg.meta.model)}</span>
+            </div>
+            <div class="ra-answer-prose">
+              ${RA.renderMarkdown(assistantMsg.content)}
+            </div>
+          `;
+        }
 
         // Clear input textareas
         if (initialTextarea) initialTextarea.value = "";
@@ -417,21 +473,41 @@
         const exchangeCount = Math.floor((thread.messages.length + 1) / 2);
         threadHead.textContent = `CONVERSATION · ${exchangeCount} EXCHANGE${exchangeCount > 1 ? "S" : ""}`;
       } catch (err) {
+        clearInterval(progressTimer);
+        console.error("Chat request failed:", err);
+        let errorDetail = err.message || "An unexpected error occurred while querying the lore engine.";
+        if (err.name === "TypeError" && (err.message.includes("fetch") || err.message.includes("network") || err.message.includes("Failed to fetch"))) {
+          errorDetail = `Could not connect to the API server at ${API_BASE || window.location.origin}. Please ensure the backend daemon (bin/api) is running.`;
+        }
+
         loadingEl.innerHTML = `
           <div class="ra-answer-header" style="background-color: var(--danger-soft); color: var(--danger);">
             <span class="ra-badge ra-badge-danger">QUERY ERROR</span>
             <span>Failed to reach knowledge engine</span>
           </div>
-          <div class="ra-answer-prose" style="color: var(--danger); font-family: var(--font-sans); font-size: 14px;">
-            ${escapeHTML(err.message || "An unexpected error occurred while querying the lore engine.")}
+          <div class="ra-answer-prose" style="color: var(--danger); font-family: var(--font-sans); font-size: 14px; padding: 24px;">
+            <p style="margin-bottom: 16px; line-height: 1.5;">${escapeHTML(errorDetail)}</p>
+            <div style="display: flex; gap: 8px;">
+              <button class="ra-btn ra-btn-secondary ra-btn-sm" type="button" onclick="window.RA.retryQuestion(${JSON.stringify(q)})">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"></path></svg>
+                <span>Retry question</span>
+              </button>
+            </div>
           </div>
         `;
       } finally {
+        clearInterval(progressTimer);
         if (initialAskBtn) initialAskBtn.disabled = false;
         if (dockAskBtn) dockAskBtn.disabled = false;
         window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" });
       }
     }
+
+    RA.retryQuestion = function (q) {
+      if (initialTextarea) initialTextarea.value = q;
+      if (dockTextarea) dockTextarea.value = q;
+      submitQuestion(q);
+    };
 
     // Initial Ask Button
     if (initialAskBtn && initialTextarea) {
@@ -482,9 +558,16 @@
       });
     }
 
-    // Initial Render
+    // Initial Render & URL Query Parameter Support (?q=... / ?question=...)
     renderHistory();
-    if (currentThreadId) {
+    const urlParams = new URLSearchParams(window.location.search);
+    const initialQ = urlParams.get("q") || urlParams.get("question");
+
+    if (initialQ && initialQ.trim()) {
+      showInitialView();
+      if (initialTextarea) initialTextarea.value = initialQ.trim();
+      submitQuestion(initialQ.trim());
+    } else if (currentThreadId) {
       loadThread(currentThreadId);
     } else {
       showInitialView();
@@ -513,25 +596,29 @@
     const el = document.createElement("div");
     el.className = "ra-assistant-turn";
 
-    const modelName = meta.model || "gemini-3.1-flash-lite";
-    const latency = meta.latencyMs ? `${meta.latencyMs.toLocaleString()} ms` : "";
-    const tokens = meta.tokens ? ` · ${meta.tokens.toLocaleString()} tok` : "";
+    const modelName = (meta && meta.model) ? meta.model : "wuwa-lore-model";
+    const latency = (meta && meta.latencyMs) ? `${meta.latencyMs.toLocaleString()} ms` : "";
+    const tokens = (meta && meta.tokens) ? ` · ${meta.tokens.toLocaleString()} tok` : "";
 
     const renderedHtml = RA.renderMarkdown(answerMd);
 
     let sourcesHtml = "";
-    if (sources && sources.length > 0) {
+    if (Array.isArray(sources) && sources.length > 0) {
       let cardsHtml = "";
       sources.forEach((src, idx) => {
+        if (!src) return;
         const num = idx + 1;
-        const scorePct = Math.round((src.score || 0.8) * 100);
+        const rawScore = Number(src.score != null ? src.score : 0.85);
+        const scoreNum = !isNaN(rawScore) ? rawScore : 0.85;
+        const scorePct = Math.min(100, Math.max(5, Math.round(scoreNum * 100)));
         const datasetTag = src.dataset_code === "lore-corpus-v1" ? "WORLD LORE" : "MAIN QUEST";
         const tagClass = src.dataset_code === "lore-corpus-v1" ? "ra-badge-accent" : "ra-badge-neutral";
 
         let speakersHtml = "";
-        if (src.speakers && src.speakers.length > 0) {
+        const speakers = Array.isArray(src.speakers) ? src.speakers : (src.speaker ? [src.speaker] : []);
+        if (speakers.length > 0) {
           speakersHtml = `<div style="display: flex; gap: 4px; flex-wrap: wrap; margin-top: 4px;">` +
-            src.speakers.map(sp => {
+            speakers.map(sp => {
               const hue = RA.speakerHue(sp);
               return `<span class="ra-badge" style="background-color: hsl(${hue}, 40%, 88%); color: hsl(${hue}, 80%, 25%);">${escapeHTML(sp)}</span>`;
             }).join("") + `</div>`;
@@ -550,7 +637,7 @@
                 ${speakersHtml}
               </div>
               <div class="ra-source-score">
-                <span>${(src.score || 0.85).toFixed(2)}</span>
+                <span>${scoreNum.toFixed(2)}</span>
                 <span class="ra-badge ra-badge-accent">RRF ${num}</span>
               </div>
             </div>
@@ -632,7 +719,7 @@
 
       try {
         const t0 = performance.now();
-        const res = await fetch("/api/v1/search", {
+        const res = await fetch(API_BASE + "/api/v1/search", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ query: q, limit: limit })
