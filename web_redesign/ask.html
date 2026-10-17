@@ -121,35 +121,46 @@
               </div>
             </div>
 
-            <!-- Scope & Suggestions -->
-            <div class="ra-suggestions-section">
-              <div class="ra-eyebrow" style="font-size: 10px;">COVERED CHRONICLES</div>
-              <div class="ra-suggestion-pills">
-                <span class="ra-chip">Prologue: Utterance of Marvels</span>
-                <span class="ra-chip">Chapter I: Huanglong &amp; Jinzhou</span>
-                <span class="ra-chip">Chapter II: Mt. Firmament</span>
-                <span class="ra-chip">Chapter III: Rinascita</span>
-                <span class="ra-chip">Chapter IV: Septimont &amp; Mengzhou</span>
-                <span class="ra-chip ra-chip-accent">lore-corpus-v1 (World Lore)</span>
+            <!-- Scope & Suggestions (Matches Pen ask.html/v2 Frame) -->
+            <div class="ra-scope-suggestions">
+              <div class="ra-scope-block">
+                <span class="ra-eyebrow" style="font-size: 10px;">INDEXED SCOPE</span>
+                <div class="ra-scope-chips">
+                  <span class="ra-chip ra-chip-accent">Simulacrum of the Heart</span>
+                  <span class="ra-chip">Sentinel Hsin</span>
+                  <span class="ra-chip">Suoming</span>
+                  <span class="ra-chip">Mengzhou</span>
+                  <span class="ra-chip">Xuanfang Hold</span>
+                  <span class="ra-chip ra-chip-accent">lore-corpus-v1 (World Lore)</span>
+                </div>
               </div>
 
-              <div class="ra-eyebrow" style="font-size: 10px; margin-top: var(--space-4);">SAMPLE INQUIRIES</div>
-              <div class="ra-suggestion-pills">
-                <button class="ra-suggestion-btn" type="button" data-prompt="What is Ovathrax Threnodian?">
-                  What is Ovathrax Threnodian?
-                </button>
-                <button class="ra-suggestion-btn" type="button" data-prompt="What was Geshu Lin's role in the Battle Beneath the Crescent?">
-                  What was Geshu Lin's role in the Battle Beneath the Crescent?
-                </button>
-                <button class="ra-suggestion-btn" type="button" data-prompt="What role does Sentinel Jué play in Jinzhou?">
-                  What role does Sentinel Jué play in Jinzhou?
-                </button>
-                <button class="ra-suggestion-btn" type="button" data-prompt="Explain the difference between Tacet Discords and Echoes.">
-                  Difference between Tacet Discords and Echoes
-                </button>
-                <button class="ra-suggestion-btn" type="button" data-prompt="Who is Abraxas and what is its connection to Abby and Leviathan?">
-                  Who is Abraxas and its connection to Abby?
-                </button>
+              <div class="ra-suggestions-container">
+                <div class="ra-suggestions-head">
+                  <span class="ra-eyebrow" style="font-size: 10px;">TRY ONE OF THESE</span>
+                </div>
+                <div class="ra-suggestions-list">
+                  <button class="ra-suggestion-row-btn" type="button" data-prompt="What is the Waking Moon Festival and what role does Sentinel Hsin play?">
+                    <span class="ra-suggestion-text">What is the Waking Moon Festival and what role does Sentinel Hsin play?</span>
+                    <svg class="ra-suggestion-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                  </button>
+                  <button class="ra-suggestion-row-btn" type="button" data-prompt="What are Moon Fox Rice Cakes?">
+                    <span class="ra-suggestion-text">What are Moon Fox Rice Cakes?</span>
+                    <svg class="ra-suggestion-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                  </button>
+                  <button class="ra-suggestion-row-btn" type="button" data-prompt="Who is Intendant Suoming?">
+                    <span class="ra-suggestion-text">Who is Intendant Suoming?</span>
+                    <svg class="ra-suggestion-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                  </button>
+                  <button class="ra-suggestion-row-btn" type="button" data-prompt="What is Xuanfang Hold?">
+                    <span class="ra-suggestion-text">What is Xuanfang Hold?</span>
+                    <svg class="ra-suggestion-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                  </button>
+                  <button class="ra-suggestion-row-btn" type="button" data-prompt="What is Ovathrax Threnodian?">
+                    <span class="ra-suggestion-text">What is Ovathrax Threnodian?</span>
+                    <svg class="ra-suggestion-arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                  </button>
+                </div>
               </div>
             </div>
           </div>
@@ -177,29 +188,174 @@
           </div>
         </div>
 
-        <!-- Sticky Follow-up Composer Dock -->
+        <!-- Sticky Follow-up Composer Dock (Matches Pen frame MJCiZ) -->
         <div id="ra-dock-composer" class="ra-dock-composer" style="display: none;">
           <div class="ra-dock-inner">
+            <div class="ra-dock-followup-head">
+              <span class="ra-dock-title">Ask a follow-up</span>
+              <span class="ra-dock-spacer"></span>
+              <span class="ra-dock-context-note">Context from previous answers is retained</span>
+            </div>
             <div class="ra-composer-card">
               <textarea
                 id="ra-dock-input"
                 class="ra-composer-textarea"
-                style="min-height: 52px; padding: 12px 16px;"
-                placeholder="Ask a follow-up question (context from previous turns is preserved)…"
+                style="min-height: 56px; padding: 12px 16px;"
+                placeholder="Ask a follow-up question (e.g. “What happened next?”, “Tell me more about their fate”)…"
                 rows="2"
+                maxlength="1000"
                 aria-label="Follow-up question input"
               ></textarea>
-              <div class="ra-composer-bar" style="padding: 8px 16px;">
-                <span class="ra-eyebrow" style="font-size: 10px;">MULTI-TURN CONTINUITY ACTIVE</span>
-                <button id="ra-dock-ask-btn" class="ra-btn ra-btn-primary ra-btn-sm" type="button">
-                  <span>Send</span>
-                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="12" y1="19" x2="12" y2="5"></line><polyline points="5 12 12 5 19 12"></polyline></svg>
+              <div class="ra-composer-bar">
+                <button id="ra-dock-preview-toggle-btn" class="ra-preview-toggle-btn" type="button" aria-pressed="true">
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"></path><circle cx="12" cy="12" r="3"></circle></svg>
+                  <span>Preview sources</span>
                 </button>
+                <div style="display: flex; align-items: center; margin-left: auto;">
+                  <span id="ra-dock-char-counter" class="ra-char-counter">0 / 1000</span>
+                  <button id="ra-dock-ask-btn" class="ra-btn ra-btn-primary" type="button">
+                    <span>Ask</span>
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="12" y1="19" x2="12" y2="5"></line><polyline points="5 12 12 5 19 12"></polyline></svg>
+                  </button>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </section>
+
+      <!-- Right Column: Context Panel (Matches Pen ask.html/v2 and ask.html/v2 · answered) -->
+      <aside id="ra-context-panel" class="ra-context-panel" aria-label="Context &amp; Metadata Panel">
+        <!-- Initial State: CORPUS stats, Spoiler Guard, Model, Export -->
+        <div id="ra-context-panel-initial" class="ra-context-panel-state">
+          <div class="ra-panel-block">
+            <span class="ra-eyebrow">CORPUS</span>
+            <div class="ra-panel-stats-list">
+              <div class="ra-panel-stat-row">
+                <span class="ra-panel-stat-label">Pages</span>
+                <span class="ra-panel-spacer"></span>
+                <span id="ra-corpus-pages" class="ra-panel-stat-value">78</span>
+              </div>
+              <div class="ra-panel-stat-row">
+                <span class="ra-panel-stat-label">Chunks</span>
+                <span class="ra-panel-spacer"></span>
+                <span id="ra-corpus-chunks" class="ra-panel-stat-value">3,786</span>
+              </div>
+              <div class="ra-panel-stat-row">
+                <span class="ra-panel-stat-label">Speakers</span>
+                <span class="ra-panel-spacer"></span>
+                <span id="ra-corpus-speakers" class="ra-panel-stat-value">1,119</span>
+              </div>
+              <div class="ra-panel-stat-row">
+                <span class="ra-panel-stat-label">Collection</span>
+                <span class="ra-panel-spacer"></span>
+                <span id="ra-corpus-collection" class="ra-panel-stat-value">wuwa_lore</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="ra-panel-block">
+            <span class="ra-eyebrow">SPOILER GUARD</span>
+            <div class="ra-panel-switch-row">
+              <span class="ra-panel-switch-label">Blur until revealed</span>
+              <span class="ra-panel-spacer"></span>
+              <button id="ra-spoiler-toggle-btn" class="ra-switch" role="switch" aria-checked="false" aria-label="Toggle spoiler guard">
+                <span class="ra-switch-knob"></span>
+              </button>
+            </div>
+          </div>
+
+          <div class="ra-panel-block">
+            <span class="ra-eyebrow">MODEL</span>
+            <div class="ra-panel-select-row">
+              <span class="ra-panel-select-val">wuwa-lore-model</span>
+              <span class="ra-panel-spacer"></span>
+              <span class="ra-badge ra-badge-neutral">Gemini 2.5</span>
+            </div>
+          </div>
+
+          <div class="ra-panel-block">
+            <span class="ra-eyebrow">EXPORT</span>
+            <div class="ra-panel-exports-row">
+              <button id="ra-panel-export-md" class="ra-panel-export-btn active" type="button" title="Download thread as Markdown">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                <span>Markdown</span>
+              </button>
+              <button id="ra-panel-export-obsidian" class="ra-panel-export-btn" type="button" title="Copy formatted for Obsidian">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+                <span>Obsidian</span>
+              </button>
+              <button id="ra-panel-export-curl" class="ra-panel-export-btn" type="button" title="Copy cURL snippet">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="4 17 10 11 4 5"></polyline><line x1="12" y1="19" x2="20" y2="19"></line></svg>
+                <span>cURL</span>
+              </button>
+            </div>
+          </div>
+
+          <div class="ra-panel-foot">
+            <span>Retrieval: hybrid · RRF · rerank cross-encoder</span>
+          </div>
+        </div>
+
+        <!-- Answered State: THIS ANSWER, CITATIONS, SPOILER GUARD, FOOT -->
+        <div id="ra-context-panel-answered" class="ra-context-panel-state" style="display: none;">
+          <div class="ra-panel-block">
+            <span class="ra-eyebrow">THIS ANSWER</span>
+            <div class="ra-panel-stats-list">
+              <div class="ra-panel-stat-row">
+                <span class="ra-panel-stat-label">Passages</span>
+                <span class="ra-panel-spacer"></span>
+                <span id="ra-ans-stat-passages" class="ra-panel-stat-value">8</span>
+              </div>
+              <div class="ra-panel-stat-row">
+                <span class="ra-panel-stat-label">Speakers</span>
+                <span class="ra-panel-spacer"></span>
+                <span id="ra-ans-stat-speakers" class="ra-panel-stat-value">7</span>
+              </div>
+              <div class="ra-panel-stat-row">
+                <span class="ra-panel-stat-label">Model</span>
+                <span class="ra-panel-spacer"></span>
+                <span id="ra-ans-stat-model" class="ra-panel-stat-value">Flash-Lite</span>
+              </div>
+              <div class="ra-panel-stat-row">
+                <span class="ra-panel-stat-label">Latency</span>
+                <span class="ra-panel-spacer"></span>
+                <span id="ra-ans-stat-latency" class="ra-panel-stat-value">31.6 s</span>
+              </div>
+              <div class="ra-panel-stat-row">
+                <span class="ra-panel-stat-label">Tokens</span>
+                <span class="ra-panel-spacer"></span>
+                <span id="ra-ans-stat-tokens" class="ra-panel-stat-value">10,964</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="ra-panel-block">
+            <span class="ra-eyebrow">CITATIONS</span>
+            <div id="ra-citation-grid" class="ra-citation-grid">
+              <!-- Dynamically populated citation jump tiles [1]..[N] -->
+            </div>
+            <p id="ra-citation-note" class="ra-citation-note">
+              Markers are cited inline. Click any tile to jump to the corresponding dialogue source.
+            </p>
+          </div>
+
+          <div class="ra-panel-block">
+            <span class="ra-eyebrow">SPOILER GUARD</span>
+            <div class="ra-panel-switch-row">
+              <span class="ra-panel-switch-label">Blur until revealed</span>
+              <span class="ra-panel-spacer"></span>
+              <button id="ra-spoiler-toggle-btn-ans" class="ra-switch" role="switch" aria-checked="false" aria-label="Toggle spoiler guard">
+                <span class="ra-switch-knob"></span>
+              </button>
+            </div>
+          </div>
+
+          <div class="ra-panel-foot">
+            <span>Retrieval: hybrid · RRF · rerank cross-encoder</span>
+          </div>
+        </div>
+      </aside>
     </main>
 
     <script src="app.js"></script>

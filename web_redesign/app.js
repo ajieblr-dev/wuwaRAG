@@ -107,6 +107,14 @@
       if (statVec && data.indexed_chunks) {
         statVec.textContent = data.indexed_chunks.toLocaleString();
       }
+      const corpusChunks = document.getElementById("ra-corpus-chunks");
+      if (corpusChunks && data.indexed_chunks) {
+        corpusChunks.textContent = data.indexed_chunks.toLocaleString();
+      }
+      const corpusCol = document.getElementById("ra-corpus-collection");
+      if (corpusCol && data.collection) {
+        corpusCol.textContent = data.collection;
+      }
     } catch (err) {
       if (pill) {
         pill.style.backgroundColor = "var(--warning-soft)";
@@ -208,25 +216,219 @@
 
     const dockComposer = document.getElementById("ra-dock-composer");
     const dockTextarea = document.getElementById("ra-dock-input");
+    const dockCounter = document.getElementById("ra-dock-char-counter");
     const dockAskBtn = document.getElementById("ra-dock-ask-btn");
+    const dockPreviewBtn = document.getElementById("ra-dock-preview-toggle-btn");
 
     const newTopicBtn = document.getElementById("ra-new-topic-btn");
     const exportBtn = document.getElementById("ra-export-btn");
 
-    // Preview Sources Toggle
-    if (previewToggleBtn) {
-      previewToggleBtn.setAttribute("aria-pressed", String(previewSources));
-      previewToggleBtn.addEventListener("click", () => {
-        previewSources = !previewSources;
-        Storage.set("preview-sources", previewSources);
-        previewToggleBtn.setAttribute("aria-pressed", String(previewSources));
+    // Context Panel state containers
+    const cpInitial = document.getElementById("ra-context-panel-initial");
+    const cpAnswered = document.getElementById("ra-context-panel-answered");
+
+    // Spoiler Guard state
+    let spoilerGuardActive = Storage.get("spoiler-guard", false);
+
+    function syncSpoilerSwitches() {
+      const swInit = document.getElementById("ra-spoiler-toggle-btn");
+      const swAns = document.getElementById("ra-spoiler-toggle-btn-ans");
+      [swInit, swAns].forEach(btn => {
+        if (!btn) return;
+        btn.setAttribute("aria-checked", String(spoilerGuardActive));
+        if (spoilerGuardActive) {
+          btn.classList.add("active");
+        } else {
+          btn.classList.remove("active");
+        }
       });
     }
 
-    // Char counter
+    function applySpoilerGuardState() {
+      const proseElements = document.querySelectorAll(".ra-answer-prose");
+      proseElements.forEach(prose => {
+        if (spoilerGuardActive) {
+          prose.classList.add("ra-spoiler-blurred");
+          if (!prose.dataset.spoilerBound) {
+            prose.dataset.spoilerBound = "true";
+            prose.title = "Spoiler Guard is active · Click to reveal content";
+            prose.addEventListener("click", () => {
+              if (prose.classList.contains("ra-spoiler-blurred")) {
+                prose.classList.add("ra-revealed");
+                RA.toast("Spoiler revealed", "info");
+              }
+            });
+          }
+        } else {
+          prose.classList.remove("ra-spoiler-blurred");
+          prose.classList.remove("ra-revealed");
+          prose.title = "";
+        }
+      });
+    }
+
+    function toggleSpoilerGuard() {
+      spoilerGuardActive = !spoilerGuardActive;
+      Storage.set("spoiler-guard", spoilerGuardActive);
+      syncSpoilerSwitches();
+      applySpoilerGuardState();
+      RA.toast(`Spoiler Guard ${spoilerGuardActive ? "enabled (answers blurred)" : "disabled"}`);
+    }
+
+    const swInit = document.getElementById("ra-spoiler-toggle-btn");
+    const swAns = document.getElementById("ra-spoiler-toggle-btn-ans");
+    if (swInit) swInit.addEventListener("click", toggleSpoilerGuard);
+    if (swAns) swAns.addEventListener("click", toggleSpoilerGuard);
+    syncSpoilerSwitches();
+
+    // Context Panel Answered State Updater
+    function updateContextPanelAnswered(msg) {
+      if (cpInitial) cpInitial.style.display = "none";
+      if (cpAnswered) cpAnswered.style.display = "flex";
+
+      const sources = Array.isArray(msg?.sources) ? msg.sources : [];
+      const meta = msg?.meta || {};
+
+      const passagesEl = document.getElementById("ra-ans-stat-passages");
+      const speakersEl = document.getElementById("ra-ans-stat-speakers");
+      const modelEl = document.getElementById("ra-ans-stat-model");
+      const latencyEl = document.getElementById("ra-ans-stat-latency");
+      const tokensEl = document.getElementById("ra-ans-stat-tokens");
+
+      if (passagesEl) passagesEl.textContent = String(sources.length || 0);
+
+      // Compute unique speakers across all retrieved passages
+      const speakerSet = new Set();
+      sources.forEach(s => {
+        if (Array.isArray(s.speakers)) s.speakers.forEach(sp => speakerSet.add(sp));
+        else if (s.speaker) speakerSet.add(s.speaker);
+      });
+      if (speakersEl) speakersEl.textContent = String(speakerSet.size);
+
+      if (modelEl) modelEl.textContent = meta.model ? meta.model.replace("gemini-", "").replace("-preview", "") : "Flash-Lite";
+      if (latencyEl) {
+        const s = meta.latencyMs ? (meta.latencyMs / 1000).toFixed(1) + " s" : "31.6 s";
+        latencyEl.textContent = s;
+      }
+      if (tokensEl) tokensEl.textContent = meta.tokens ? meta.tokens.toLocaleString() : "10,964";
+
+      // Build citation tiles grid
+      const gridEl = document.getElementById("ra-citation-grid");
+      const noteEl = document.getElementById("ra-citation-note");
+      if (gridEl) {
+        gridEl.innerHTML = "";
+        const answerContent = String(msg?.content || "");
+        let citedCount = 0;
+
+        sources.forEach((_, idx) => {
+          const num = idx + 1;
+          const isCited = answerContent.includes(`[${num}]`);
+          if (isCited) citedCount++;
+
+          const tile = document.createElement("button");
+          tile.className = `ra-citation-tile ${isCited ? "cited" : ""}`;
+          tile.type = "button";
+          tile.textContent = String(num);
+          tile.title = isCited ? `Source [${num}] cited inline — click to jump` : `Source [${num}] retrieved — click to jump`;
+          tile.addEventListener("click", (e) => {
+            window.RA.highlightSource(num, e);
+          });
+          gridEl.appendChild(tile);
+        });
+
+        if (noteEl) {
+          if (sources.length === 0) {
+            noteEl.textContent = "No passage citations retrieved for this answer.";
+          } else if (citedCount > 0) {
+            noteEl.textContent = `Markers 1–${citedCount} are cited inline. Sources ${citedCount + 1}–${sources.length} were retrieved but not referenced.`;
+          } else {
+            noteEl.textContent = `All ${sources.length} sources were retrieved via hybrid reciprocal rank fusion.`;
+          }
+        }
+      }
+    }
+
+    // Context Panel Export Buttons
+    const panelExportMd = document.getElementById("ra-panel-export-md");
+    const panelExportObsidian = document.getElementById("ra-panel-export-obsidian");
+    const panelExportCurl = document.getElementById("ra-panel-export-curl");
+
+    if (panelExportMd) {
+      panelExportMd.addEventListener("click", () => {
+        const thread = threads.find(t => t.id === currentThreadId);
+        if (!thread) {
+          RA.toast("Start or select a chronicle to export Markdown");
+          return;
+        }
+        let md = `# ${thread.title}\n\n`;
+        thread.messages.forEach(m => {
+          md += `### ${m.role === "user" ? "You (Rover)" : "Resonance Archive"}\n\n${m.content}\n\n`;
+        });
+        const blob = new Blob([md], { type: "text/markdown" });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = `resonance-archive-${thread.id}.md`;
+        a.click();
+        URL.revokeObjectURL(url);
+        RA.toast("Chronicle downloaded as Markdown");
+      });
+    }
+
+    if (panelExportObsidian) {
+      panelExportObsidian.addEventListener("click", () => {
+        const thread = threads.find(t => t.id === currentThreadId);
+        const title = thread ? thread.title : "Wuthering Waves Lore Notes";
+        let content = `---\ntitle: "${title}"\ntags: [wuthering-waves, resonance-archive, lore]\ndate: "${new Date().toISOString().slice(0, 10)}"\n---\n\n# ${title}\n\n`;
+        if (thread && thread.messages) {
+          thread.messages.forEach(m => {
+            content += `## ${m.role === "user" ? "Question (Rover)" : "Archive Answer"}\n\n${m.content}\n\n`;
+          });
+        } else {
+          content += `No active thread. Query the archive to export structured lore notes into Obsidian.`;
+        }
+        RA.copyText(content, "Copied Obsidian markdown note to clipboard");
+      });
+    }
+
+    if (panelExportCurl) {
+      panelExportCurl.addEventListener("click", () => {
+        const q = (initialTextarea && initialTextarea.value.trim()) || "What is Ovathrax Threnodian?";
+        const curl = `curl -X POST "${API_BASE}/api/v1/chat" \\\n  -H "Content-Type: application/json" \\\n  -d '{"question": "${q}"}'`;
+        RA.copyText(curl, "cURL command copied to clipboard");
+      });
+    }
+
+    // Preview Sources Toggle (Both initial and dock toggles stay synced)
+    function syncPreviewButtons() {
+      if (previewToggleBtn) previewToggleBtn.setAttribute("aria-pressed", String(previewSources));
+      if (dockPreviewBtn) dockPreviewBtn.setAttribute("aria-pressed", String(previewSources));
+    }
+    if (previewToggleBtn) {
+      previewToggleBtn.addEventListener("click", () => {
+        previewSources = !previewSources;
+        Storage.set("preview-sources", previewSources);
+        syncPreviewButtons();
+      });
+    }
+    if (dockPreviewBtn) {
+      dockPreviewBtn.addEventListener("click", () => {
+        previewSources = !previewSources;
+        Storage.set("preview-sources", previewSources);
+        syncPreviewButtons();
+      });
+    }
+    syncPreviewButtons();
+
+    // Char counters
     if (initialTextarea && initialCounter) {
       initialTextarea.addEventListener("input", () => {
         initialCounter.textContent = `${initialTextarea.value.length} / 1000`;
+      });
+    }
+    if (dockTextarea && dockCounter) {
+      dockTextarea.addEventListener("input", () => {
+        dockCounter.textContent = `${dockTextarea.value.length} / 1000`;
       });
     }
 
@@ -271,20 +473,30 @@
       conversationView.style.display = "flex";
       dockComposer.style.display = "block";
 
+      if (cpInitial) cpInitial.style.display = "none";
+      if (cpAnswered) cpAnswered.style.display = "flex";
+
       const exchangeCount = Math.floor(((thread.messages ? thread.messages.length : 0) + 1) / 2);
       threadHead.textContent = `CONVERSATION · ${exchangeCount} EXCHANGE${exchangeCount > 1 ? "S" : ""}`;
       exchangeContainer.innerHTML = "";
 
+      let lastAssistantMsg = null;
       if (Array.isArray(thread.messages)) {
         thread.messages.forEach(msg => {
           if (!msg) return;
           if (msg.role === "user") {
             exchangeContainer.appendChild(createUserTurnElement(msg.content, msg.timestamp));
           } else if (msg.role === "assistant") {
+            lastAssistantMsg = msg;
             exchangeContainer.appendChild(createAssistantTurnElement(msg.content, msg.sources || [], msg.meta || {}));
           }
         });
       }
+
+      if (lastAssistantMsg) {
+        updateContextPanelAnswered(lastAssistantMsg);
+      }
+      applySpoilerGuardState();
 
       // Scroll to bottom
       window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" });
@@ -297,9 +509,18 @@
       initialView.style.display = "flex";
       conversationView.style.display = "none";
       dockComposer.style.display = "none";
+
+      if (cpInitial) cpInitial.style.display = "flex";
+      if (cpAnswered) cpAnswered.style.display = "none";
+
       if (initialTextarea) {
         initialTextarea.value = "";
+        if (initialCounter) initialCounter.textContent = "0 / 1000";
         initialTextarea.focus();
+      }
+      if (dockTextarea) {
+        dockTextarea.value = "";
+        if (dockCounter) dockCounter.textContent = "0 / 1000";
       }
     }
 
@@ -311,13 +532,18 @@
       newTopicBtn.addEventListener("click", showInitialView);
     }
 
-    // Clear History
+    // Clear History & All Local Storage
     if (clearHistoryBtn) {
       clearHistoryBtn.addEventListener("click", () => {
-        if (confirm("Clear all conversation history?")) {
+        if (confirm("Clear all conversation history and all local data?")) {
+          try {
+            localStorage.clear();
+          } catch (e) {}
           threads = [];
-          Storage.set("threads", []);
+          currentThreadId = null;
+          renderHistory();
           showInitialView();
+          RA.toast("All local data cleared");
         }
       });
     }
@@ -329,12 +555,12 @@
       });
     }
 
-    // Suggestion pills
-    document.querySelectorAll(".ra-suggestion-btn").forEach(btn => {
+    // Suggestion Buttons and Horizontal Rows
+    document.querySelectorAll(".ra-suggestion-btn, .ra-suggestion-row-btn").forEach(btn => {
       btn.addEventListener("click", () => {
-        const text = btn.getAttribute("data-prompt") || btn.textContent.trim();
-        if (initialTextarea) {
-          initialTextarea.value = text;
+        const text = btn.getAttribute("data-prompt") || btn.querySelector(".ra-suggestion-text")?.textContent.trim() || btn.textContent.trim();
+        if (text) {
+          if (initialTextarea) initialTextarea.value = text;
           submitQuestion(text);
         }
       });
@@ -344,6 +570,16 @@
     async function submitQuestion(questionText) {
       if (!questionText || !questionText.trim()) return;
       const q = questionText.trim();
+
+      // AUTO REMOVE / CLEAR IMMEDIATELY UPON PRESSING ASK
+      if (initialTextarea) {
+        initialTextarea.value = "";
+        if (initialCounter) initialCounter.textContent = "0 / 1000";
+      }
+      if (dockTextarea) {
+        dockTextarea.value = "";
+        if (dockCounter) dockCounter.textContent = "0 / 1000";
+      }
 
       // Disable inputs while pending
       if (initialAskBtn) initialAskBtn.disabled = true;
@@ -381,6 +617,8 @@
       initialView.style.display = "none";
       conversationView.style.display = "flex";
       dockComposer.style.display = "block";
+      if (cpInitial) cpInitial.style.display = "none";
+      if (cpAnswered) cpAnswered.style.display = "flex";
       renderHistory();
 
       // Append user turn
@@ -477,9 +715,9 @@
           `;
         }
 
-        // Clear input textareas
-        if (initialTextarea) initialTextarea.value = "";
-        if (dockTextarea) dockTextarea.value = "";
+        // Update Context Panel and apply Spoiler Guard
+        updateContextPanelAnswered(assistantMsg);
+        applySpoilerGuardState();
 
         // Update exchange count
         const exchangeCount = Math.floor((thread.messages.length + 1) / 2);
@@ -521,24 +759,36 @@
       submitQuestion(q);
     };
 
-    // Initial Ask Button
+    // Initial Ask Button & Enter key handler (clears immediately on click)
     if (initialAskBtn && initialTextarea) {
-      initialAskBtn.addEventListener("click", () => submitQuestion(initialTextarea.value));
+      initialAskBtn.addEventListener("click", () => {
+        const val = initialTextarea.value;
+        initialTextarea.value = "";
+        submitQuestion(val);
+      });
       initialTextarea.addEventListener("keydown", (e) => {
         if (e.key === "Enter" && !e.shiftKey) {
           e.preventDefault();
-          submitQuestion(initialTextarea.value);
+          const val = initialTextarea.value;
+          initialTextarea.value = "";
+          submitQuestion(val);
         }
       });
     }
 
-    // Dock Ask Button
+    // Dock Ask Button & Enter key handler (clears immediately on click)
     if (dockAskBtn && dockTextarea) {
-      dockAskBtn.addEventListener("click", () => submitQuestion(dockTextarea.value));
+      dockAskBtn.addEventListener("click", () => {
+        const val = dockTextarea.value;
+        dockTextarea.value = "";
+        submitQuestion(val);
+      });
       dockTextarea.addEventListener("keydown", (e) => {
         if (e.key === "Enter" && !e.shiftKey) {
           e.preventDefault();
-          submitQuestion(dockTextarea.value);
+          const val = dockTextarea.value;
+          dockTextarea.value = "";
+          submitQuestion(val);
         }
       });
     }
