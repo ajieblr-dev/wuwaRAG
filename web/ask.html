@@ -84,12 +84,21 @@
 <script>
 (function () {
   var slot = document.getElementById("thread-slot");
+  var currentSessionId = null; // Session ID for grouped history
   var threadTurns = [];       // array of { id, q, ts, answer, sources, meta }
   var current = null;         // latest turn { id, q, ts, answer, sources, meta }
   var controller = null;
   var timerId = null;
 
   OD.mount("ask");
+
+  function startNewSession() {
+    currentSessionId = null;
+    threadTurns = [];
+    current = null;
+    renderEmpty();
+    renderHist();
+  }
 
   /* ── spoiler gate ─────────────────────────────────────────── */
   var gate = document.getElementById("spoiler-gate");
@@ -105,25 +114,25 @@
     OD.toast(g.dataset.gate === "blur" ? "Answers blurred until you reveal them" : "Answer text will show normally", "ok");
   });
 
-  /* ── history store ────────────────────────────────────────── */
+  /* ── history store (stored per session) ────────────────────── */
   var HK = "od-history";
   function hist() { try { return JSON.parse(OD.LS.get(HK) || "[]"); } catch (e) { return []; } }
   function saveHist(rows) { OD.LS.set(HK, JSON.stringify(rows.slice(0, 40))); }
-  function pushHist(entry) {
-    var toSave = Object.assign({}, entry, { thread: threadTurns.slice() });
-    var rows = hist().filter(function (r) { return r.id !== entry.id; });
-    rows.unshift(toSave);
+  function pushHist(session) {
+    if (!session || !session.id) return;
+    var rows = hist().filter(function (r) { return r.id !== session.id; });
+    rows.unshift(session);
     saveHist(rows);
     renderHist();
   }
 
   function renderHist() {
     var q = (document.getElementById("hist-search").value || "").toLowerCase();
-    var rows = hist().filter(function (r) { return !q || r.q.toLowerCase().includes(q); });
+    var rows = hist().filter(function (r) { return !q || (r.q && r.q.toLowerCase().includes(q)); });
     var list = document.getElementById("hist-list");
     if (!rows.length) { list.innerHTML = '<p class="tiny dim" style="padding:8px">No saved questions yet.</p>'; return; }
     list.innerHTML = rows.map(function (r) {
-      return '<button class="hist-item" data-id="' + r.id + '" aria-current="' + (current && current.id === r.id) + '">' +
+      return '<button class="hist-item" data-id="' + r.id + '" aria-current="' + (currentSessionId === r.id) + '">' +
         '<span class="q"></span><span class="when">' + new Date(r.ts).toLocaleString() + '</span></button>';
     }).join("");
     list.querySelectorAll(".hist-item").forEach(function (b, i) {
@@ -332,11 +341,7 @@
     }
     var clr = document.getElementById("composer-clear");
     if (clr) {
-      clr.addEventListener("click", function () {
-        threadTurns = [];
-        current = null;
-        renderEmpty();
-      });
+      clr.addEventListener("click", startNewSession);
     }
     if (!document.querySelector(".scrim:not([hidden]), .palette:not([hidden])")) ta.focus();
   }
@@ -499,6 +504,9 @@
   function renderAnswer(question, data) {
     data = OD.normalizeChat(data || {});
     var model = data.model || "";
+    if (!currentSessionId) {
+      currentSessionId = "sess-" + Date.now().toString(36) + "-" + OD.uid();
+    }
     current = {
       id: OD.uid(),
       q: question,
@@ -510,7 +518,14 @@
     if (!model) document.getElementById("banner-retrieval").hidden = false;
 
     threadTurns.push(current);
-    pushHist(current);
+    var firstTurn = threadTurns[0] || current;
+    var sessionEntry = {
+      id: currentSessionId,
+      q: firstTurn.q,
+      ts: Date.now(),
+      thread: threadTurns.slice()
+    };
+    pushHist(sessionEntry);
     renderThread();
   }
 
@@ -621,11 +636,7 @@
       });
     });
     slot.querySelectorAll('[data-act="again"]').forEach(function (b) {
-      b.addEventListener("click", function () {
-        threadTurns = [];
-        current = null;
-        renderEmpty();
-      });
+      b.addEventListener("click", startNewSession);
     });
     slot.querySelectorAll('[data-act="reveal"]').forEach(function (b) {
       b.addEventListener("click", function () {
@@ -640,11 +651,7 @@
 
     var tNew = document.getElementById("thread-new-btn");
     if (tNew) {
-      tNew.addEventListener("click", function () {
-        threadTurns = [];
-        current = null;
-        renderEmpty();
-      });
+      tNew.addEventListener("click", startNewSession);
     }
 
     var tExport = document.getElementById("thread-export-btn");
@@ -828,9 +835,10 @@
   }
 
   function loadEntry(entry) {
-    current = entry;
+    currentSessionId = entry.id;
     if (entry.thread && Array.isArray(entry.thread) && entry.thread.length > 0) {
       threadTurns = entry.thread.slice();
+      current = threadTurns[threadTurns.length - 1];
     } else {
       threadTurns = [{
         id: entry.id,
@@ -840,6 +848,7 @@
         meta: entry.meta || {},
         ts: entry.ts || Date.now()
       }];
+      current = threadTurns[0];
     }
     renderThread();
     renderHist();
@@ -854,7 +863,7 @@
   renderHist();
   renderEmpty();
   OD.applyPrefs();
-  if (location.hash === "#new") setTimeout(function () { document.getElementById("q") && document.getElementById("q").focus(); }, 50);
+  if (location.hash === "#new") setTimeout(function () { startNewSession(); document.getElementById("q") && document.getElementById("q").focus(); }, 50);
 })();
 </script>
 </body>

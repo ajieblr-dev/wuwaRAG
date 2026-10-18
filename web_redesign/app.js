@@ -522,10 +522,12 @@
     function showInitialView() {
       currentThreadId = null;
       Storage.set("active-thread-id", null);
+      if (exchangeContainer) exchangeContainer.innerHTML = "";
+      if (threadHead) threadHead.textContent = "CONVERSATION · 0 EXCHANGES";
       renderHistory();
-      initialView.style.display = "flex";
-      conversationView.style.display = "none";
-      dockComposer.style.display = "none";
+      if (initialView) initialView.style.display = "flex";
+      if (conversationView) conversationView.style.display = "none";
+      if (dockComposer) dockComposer.style.display = "none";
 
       if (cpInitial) cpInitial.style.display = "flex";
       if (cpAnswered) cpAnswered.style.display = "none";
@@ -549,19 +551,65 @@
       newTopicBtn.addEventListener("click", showInitialView);
     }
 
-    // Clear History & All Local Storage
-    if (clearHistoryBtn) {
-      clearHistoryBtn.addEventListener("click", () => {
-        if (confirm("Clear all conversation history and all local data?")) {
-          try {
-            localStorage.clear();
-          } catch (e) {}
-          threads = [];
-          currentThreadId = null;
-          renderHistory();
-          showInitialView();
-          RA.toast("All local data cleared");
+    // Clear History Modal & All Local Storage
+    const clearModal = document.getElementById("ra-clear-modal");
+    const clearCancelBtn = document.getElementById("ra-clear-cancel-btn");
+    const clearConfirmBtn = document.getElementById("ra-clear-confirm-btn");
+    const clearCloseBtn = document.getElementById("ra-clear-modal-close");
+
+    function openClearModal() {
+      if (!clearModal) return;
+      clearModal.removeAttribute("hidden");
+      requestAnimationFrame(() => {
+        clearModal.classList.add("is-open");
+        if (clearCancelBtn) clearCancelBtn.focus();
+      });
+    }
+
+    function closeClearModal() {
+      if (!clearModal) return;
+      clearModal.classList.remove("is-open");
+      setTimeout(() => {
+        if (!clearModal.classList.contains("is-open")) {
+          clearModal.setAttribute("hidden", "");
         }
+      }, 200);
+      if (clearHistoryBtn) clearHistoryBtn.focus();
+    }
+
+    if (clearHistoryBtn) {
+      clearHistoryBtn.addEventListener("click", openClearModal);
+    }
+    if (clearCancelBtn) {
+      clearCancelBtn.addEventListener("click", closeClearModal);
+    }
+    if (clearCloseBtn) {
+      clearCloseBtn.addEventListener("click", closeClearModal);
+    }
+    if (clearModal) {
+      clearModal.addEventListener("click", (e) => {
+        if (e.target === clearModal) {
+          closeClearModal();
+        }
+      });
+    }
+    window.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && clearModal && clearModal.classList.contains("is-open")) {
+        closeClearModal();
+      }
+    });
+
+    if (clearConfirmBtn) {
+      clearConfirmBtn.addEventListener("click", () => {
+        try {
+          localStorage.clear();
+        } catch (e) {}
+        threads = [];
+        currentThreadId = null;
+        renderHistory();
+        showInitialView();
+        closeClearModal();
+        RA.toast("All conversation history cleared");
       });
     }
 
@@ -607,7 +655,7 @@
       let thread = threads.find(t => t && t.id === currentThreadId);
       if (!thread) {
         thread = {
-          id: "th-" + Date.now().toString(36),
+          id: "th-" + Date.now().toString(36) + "-" + Math.random().toString(36).slice(2, 6),
           title: q.slice(0, 48) + (q.length > 48 ? "…" : ""),
           createdAt: Date.now(),
           updatedAt: Date.now(),
@@ -617,6 +665,7 @@
         currentThreadId = thread.id;
         Storage.set("threads", threads);
         Storage.set("active-thread-id", thread.id);
+        if (exchangeContainer) exchangeContainer.innerHTML = "";
       }
       if (!Array.isArray(thread.messages)) thread.messages = [];
 
@@ -628,6 +677,11 @@
       };
       thread.messages.push(userMsg);
       thread.updatedAt = Date.now();
+      const curIdx = threads.findIndex(t => t && t.id === thread.id);
+      if (curIdx > 0) {
+        threads.splice(curIdx, 1);
+        threads.unshift(thread);
+      }
       Storage.set("threads", threads);
 
       // Render conversation view
@@ -711,7 +765,9 @@
         };
 
         thread.messages.push(assistantMsg);
+        thread.updatedAt = Date.now();
         Storage.set("threads", threads);
+        renderHistory();
 
         clearInterval(progressTimer);
 
@@ -837,20 +893,31 @@
       });
     }
 
-    // Initial Render & URL Query Parameter Support (?q=... / ?question=...)
+    // Initial Render & URL Query Parameter Support (?q=... / ?question=... / #new / ?new)
     renderHistory();
     const urlParams = new URLSearchParams(window.location.search);
     const initialQ = urlParams.get("q") || urlParams.get("question");
+    const isExplicitNew = urlParams.has("new") || window.location.hash === "#new";
 
     if (initialQ && initialQ.trim()) {
       showInitialView();
       if (initialTextarea) initialTextarea.value = initialQ.trim();
       submitQuestion(initialQ.trim());
-    } else if (currentThreadId) {
+    } else if (!isExplicitNew && currentThreadId) {
       loadThread(currentThreadId);
     } else {
       showInitialView();
     }
+
+    // Clicking Ask link in topbar when already on ask page should start a new session
+    document.querySelectorAll('.ra-nav a[href="ask.html"], .ra-nav a[href="/ask.html"]').forEach(link => {
+      link.addEventListener("click", (e) => {
+        if (window.location.pathname.endsWith("ask.html") || window.location.pathname === "/ask") {
+          e.preventDefault();
+          showInitialView();
+        }
+      });
+    });
   };
 
   /* Helper: Create User Turn DOM Element */

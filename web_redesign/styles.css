@@ -2835,3 +2835,163 @@ body.ra-reader-page .ra-topbar-inner {
     padding: var(--space-4);
   }
 }
+
+/* ═══════════════════════════════════════════════════════════════════
+   Confirmation Modal & Danger Button (Altitude / v2)
+   ═══════════════════════════════════════════════════════════════════ */
+.ra-btn-danger {
+  background-color: var(--danger);
+  color: #FFFFFF;
+  border-color: var(--danger);
+}
+
+.ra-btn-danger:hover {
+  filter: brightness(1.1);
+  opacity: 0.95;
+}
+
+.ra-rail-clear-btn {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: var(--radius-xs);
+  transition: all var(--transition-fast);
+}
+
+.ra-rail-clear-btn:hover {
+  color: var(--danger);
+  background-color: var(--danger-soft);
+}
+
+.ra-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background-color: rgba(15, 15, 14, 0.72);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-4);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity var(--transition-normal);
+}
+
+.ra-modal-backdrop:not([hidden]) {
+  display: flex;
+}
+
+.ra-modal-backdrop.is-open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.ra-modal-card {
+  width: 100%;
+  max-width: 440px;
+  background-color: var(--surface);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 24px 48px -12px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(255, 255, 255, 0.05);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  transform: scale(0.95) translateY(8px);
+  transition: transform var(--transition-normal);
+}
+
+.ra-modal-backdrop.is-open .ra-modal-card {
+  transform: scale(1) translateY(0);
+}
+
+.ra-modal-header {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-3);
+  padding: var(--space-5) var(--space-5) var(--space-4);
+  border-bottom: 1px solid var(--border);
+}
+
+.ra-modal-icon-badge {
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-md);
+  background-color: var(--danger-soft);
+  color: var(--danger);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.ra-modal-header-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.ra-modal-title {
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.35;
+}
+
+.ra-modal-subtitle {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-top: 2px;
+}
+
+.ra-modal-close-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  width: 28px;
+  height: 28px;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 0;
+  transition: all var(--transition-fast);
+}
+
+.ra-modal-close-btn:hover {
+  background-color: var(--surface-muted);
+  color: var(--text-primary);
+}
+
+.ra-modal-body {
+  padding: var(--space-4) var(--space-5);
+}
+
+.ra-modal-desc {
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--text-secondary);
+}
+
+.ra-modal-footer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-5) var(--space-4);
+  background-color: var(--surface-muted);
+  border-top: 1px solid var(--border);
+}
