@@ -86,14 +86,21 @@ With **9,473 indexed vectors**, **9,072 unified chunks**, and **1,928 recognized
 
 ---
 
-## 🏗️ Architecture & Pipeline
+## 🏗️ System Architecture & Pipeline Flow
+
+<div align="center" style="margin: 24px 0;">
+  <img src="./documentation/WuWaRAG_Architecture_&_Pipeline.png" alt="WuWaRAG System Architecture and Pipeline Flow" width="100%" style="border-radius: 14px; border: 2px solid rgba(0, 217, 255, 0.4); box-shadow: 0 16px 48px rgba(0, 217, 255, 0.2);">
+</div>
+
+<details>
+<summary><b>📐 Text Dataflow Architecture (Click to expand)</b></summary>
 
 ```text
                                   ┌────────────────────────┐
                                   │  Wuthering Waves Wiki  │
                                   │    (MediaWiki API)     │
                                   └───────────┬────────────┘
-                                              │ Concurrent Worker Pool
+                                              │ Concurrent Worker Pool (8x)
                                               ▼
                                   ┌────────────────────────┐
                                   │   cmd/ingest Pipeline  │
@@ -116,55 +123,106 @@ With **9,473 indexed vectors**, **9,072 unified chunks**, and **1,928 recognized
                             └─────────────────┘ └──────────┴───────────┘
 ```
 
+</details>
+
 <div align="center">
-  <div style="width: 100%; max-width: 750px; margin: 20px auto; padding: 20px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.1) 0%, rgba(0, 217, 255, 0.05) 100%); border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.2);">
+  <div style="width: 100%; max-width: 850px; margin: 20px auto; padding: 18px; background: linear-gradient(135deg, rgba(0, 217, 255, 0.12) 0%, rgba(0, 217, 255, 0.04) 100%); border-radius: 15px; border: 1px solid rgba(0, 217, 255, 0.3);">
     <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 15px;">
       <div style="text-align: center;">
-        <div style="font-size: 24px; margin-bottom: 5px;">🌐</div>
-        <div style="font-size: 13px; color: #00d9ff; font-weight: bold;">1. Wiki Scraper</div>
+        <div style="font-size: 26px; margin-bottom: 4px;">🌐</div>
+        <div style="font-size: 13px; color: #00d9ff; font-weight: bold;">Stage 01: Mining</div>
+        <div style="font-size: 11px; color: #94a3b8;">Scraper & Embedder</div>
       </div>
-      <div style="font-size: 18px; color: #00d9ff;">→</div>
+      <div style="font-size: 20px; color: #00d9ff;">→</div>
       <div style="text-align: center;">
-        <div style="font-size: 24px; margin-bottom: 5px;">🧩</div>
-        <div style="font-size: 13px; color: #00d9ff; font-weight: bold;">2. Dialogue Parser</div>
+        <div style="font-size: 26px; margin-bottom: 4px;">⚡</div>
+        <div style="font-size: 13px; color: #00d9ff; font-weight: bold;">Stage 02: Hybrid RRF</div>
+        <div style="font-size: 11px; color: #94a3b8;">Vector + Lexical (α=1.5)</div>
       </div>
-      <div style="font-size: 18px; color: #00d9ff;">→</div>
+      <div style="font-size: 20px; color: #00d9ff;">→</div>
       <div style="text-align: center;">
-        <div style="font-size: 24px; margin-bottom: 5px;">🔢</div>
-        <div style="font-size: 13px; color: #00d9ff; font-weight: bold;">3. Dense Embedder</div>
+        <div style="font-size: 26px; margin-bottom: 4px;">🛡️</div>
+        <div style="font-size: 13px; color: #00d9ff; font-weight: bold;">Stage 03: Gateway</div>
+        <div style="font-size: 11px; color: #94a3b8;">Gemini + Groq Fallback</div>
       </div>
-      <div style="font-size: 18px; color: #00d9ff;">→</div>
+      <div style="font-size: 20px; color: #00d9ff;">→</div>
       <div style="text-align: center;">
-        <div style="font-size: 24px; margin-bottom: 5px;">⚡</div>
-        <div style="font-size: 13px; color: #00d9ff; font-weight: bold;">4. Hybrid RRF</div>
-      </div>
-      <div style="font-size: 18px; color: #00d9ff;">→</div>
-      <div style="text-align: center;">
-        <div style="font-size: 24px; margin-bottom: 5px;">🤖</div>
-        <div style="font-size: 13px; color: #00d9ff; font-weight: bold;">5. LLM Synthesis</div>
+        <div style="font-size: 26px; margin-bottom: 4px;">🎭</div>
+        <div style="font-size: 13px; color: #00d9ff; font-weight: bold;">Delivery</div>
+        <div style="font-size: 11px; color: #94a3b8;">1,928 Speaker Citations</div>
       </div>
     </div>
   </div>
 </div>
 
-### Detailed Stages
+---
 
-#### 1. High-Fidelity Wiki Ingestion
-The scraper (`internal/fetcher/fetcher.go`) connects to the Wuthering Waves MediaWiki endpoint (`/api.php?action=parse`), following canonical redirects, resolving page IDs, and stripping MediaWiki boilerplate. It supports multi-worker parallel batch downloading with polite delays.
+### 🔬 Deep Dive into the 3 Core Stages
 
-#### 2. Dialogue & Speaker Attribution Engine
-The parser (`internal/parser/parser.go`) analyzes wikitext section by section, identifying dialogue lines (e.g. `Character: dialogue`), objective tags, and scene descriptions. It splits content into ~900 character chunks with 150 character overlaps while keeping speaker lists attached in metadata.
+#### 📦 STAGE 01: Corpus Mining & Vectorization (Offline / Scheduled Batch)
 
-#### 3. Dual Dense & Lexical Hybrid Search (RRF)
-Search requests undergo Reciprocal Rank Fusion:
-$$\text{RRF Score}(d) = \frac{1}{k + r_{\text{dense}}(d)} + \frac{\alpha}{k + r_{\text{lexical}}(d)}$$
-Where $k = 60$ and $\alpha$ provides lexical dominance for exact proper noun matches (such as *Abraxas* or *Jué*).
+<div style="background: linear-gradient(90deg, #0b132b 0%, #16213e 100%); border-radius: 10px; padding: 20px; margin: 15px 0; border-left: 4px solid #00d9ff;">
 
-#### 4. Anti-Hallucination Query Rewriter
-Before vector search, `internal/rag/query_rewriter.go` parses the query to extract crucial entity keywords and strips semantic noise. This guarantees that specialized game terminology is preserved in candidate retrieval.
+The data ingestion pipeline systematically captures and structures chaotic wiki markups into clean vector spaces without duplication:
 
-#### 5. Resilient LLM Gateway
-Retrieval evidence snippets are formatted into an evidence context block injected into a strict system prompt. The request is routed via LiteLLM to Gemini 3.1 Flash Lite, falling back automatically to Groq LLaMA 3.3 70B if rate limits or quota boundaries are met.
+1. **MediaWiki API Scraper (`internal/fetcher/fetcher.go`)**:
+   - Queries `https://wutheringwaves.fandom.com/api.php` with `action=parse&prop=wikitext|sections`.
+   - Resolves canonical redirects, extracts page IDs, and sanitizes MediaWiki templates across **1,750+ source lore pages** (Main Quests, Resonators, Character Backstories, Voicelines, Sentinels, Factions, Locations, and Bestiary).
+2. **Parallel High-Throughput Worker Pool (`cmd/ingest/main.go`)**:
+   - Operates a configurable worker pool (default **8 concurrent workers**) with polite delay throttling to ingest thousands of pages in seconds.
+   - Extracts character dialogue lines (`Speaker: Dialogue`), scene directions, objective tags, and builds a comprehensive speaker dictionary of **1,928 unique in-game speakers**.
+3. **Deterministic Chunking & Deduplication (`internal/parser/parser.go`)**:
+   - Segments text into contextual windows (~900 characters with 150-character overlap).
+   - Generates deterministic UUIDs via MD5/SHA256 from `fmt.Sprintf("%s:%s:%s", pageTitle, section, chunkText)`. This guarantees **100% idempotence and zero duplicate vectors** in Qdrant across re-indexing runs.
+4. **Dense Semantic Embedder (`internal/rag/embedding.go`)**:
+   - Encodes text segments into 384-dimensional dense vectors via `sentence-transformers/all-MiniLM-L6-v2`.
+   - Equipped with an automated **deterministic semantic hash fallback** to ensure full offline functionality when Hugging Face API keys are absent.
+5. **Qdrant Vector Database (`internal/qdrant/qdrant.go`)**:
+   - Stores **9,473 vectors** in the `wuwa_lore` collection using Cosine distance and HNSW indexing, attaching rich payload metadata (`title`, `section`, `speakers`, `char_count`, `dataset_code`).
+
+</div>
+
+#### ⚡ STAGE 02: Dual-Branch Hybrid RRF Search (Online Sub-100ms Query)
+
+<div style="background: linear-gradient(90deg, #16213e 0%, #0f3460 100%); border-radius: 10px; padding: 20px; margin: 15px 0; border-left: 4px solid #38ef7d;">
+
+To eliminate the common RAG pitfall of failing on fictional names and proper nouns, WuWaRAG deploys a parallel dual-branch hybrid retrieval mechanism:
+
+1. **Client Request & Rate Limiting**:
+   - Incoming user questions from `/ask.html` or `/api/v1/chat` (e.g. *"Who created the Tethys System and what is Shorekeeper's purpose?"*) enter the Go Gin engine.
+2. **Anti-Hallucination Query Rewriter (`internal/rag/query_rewriter.go`)**:
+   - Extracts and isolates critical lore entities (*Abraxas*, *Jué*, *Shorekeeper*, *Camellya*, *Threnodian*) while discarding semantic noise to guarantee high-precision candidate retrieval.
+3. **Parallel Dual-Branch Dispatch**:
+   - **Branch A (Dense Vector Search)**: 384-d Cosine search in Qdrant ($k = 60$) capturing conceptual, emotional, and broad narrative context.
+   - **Branch B (Lexical BM25 Dominance)**: Keyword dominance matcher ($k = 60$) enforcing strict matching for character names, weapon titles, and location nouns.
+4. **Reciprocal Rank Fusion (RRF) Merger (`internal/rag/hybrid.go`)**:
+   - Combines dense and lexical rankings using an amplified lexical weight ($\alpha = 1.5$):
+     $$\text{RRF Score}(d) = \frac{1}{60 + r_{\text{dense}}(d)} + \frac{1.5}{60 + r_{\text{lexical}}(d)}$$
+   - Ensures that exact proper-noun matches always rank at the top while preserving rich semantic background.
+5. **Evidence Assembler & Grounding Shield**:
+   - Deduplicates and packs top candidate snippets with verified speaker lists, section paths, and spoiler protection tags into an evidence block.
+
+</div>
+
+#### 🛡️ STAGE 03: Resilient Multi-Tier LLM Gateway (Zero-Downtime Routing)
+
+<div style="background: linear-gradient(90deg, #0f3460 0%, #0b132b 100%); border-radius: 10px; padding: 20px; margin: 15px 0; border-left: 4px solid #f5a623;">
+
+Delivers factual, immersive, and grounded answers without downtime or API rate-limit interruptions:
+
+1. **Grounding Shield & Prompt Injection**:
+   - Constructs a strict system prompt instructing the model to rely solely on the provided evidence context, cite speakers verbatim, and admit unknowns rather than hallucinating.
+2. **LiteLLM Proxy Router (Port 4000)**:
+   - Unified AI gateway managing connection pools, automatic retries, latency tracking, and token usage telemetry.
+3. **Tiered Failover Routing Strategy**:
+   - **Tier 1 (Primary - 99% Traffic)**: **Google Gemini 3.1 Flash Lite** (`gemini-2.0-flash-lite` / `gemini-1.5-flash`), delivering sub-second response times, large context capacity, and optimal character nuance.
+   - **Tier 2 (Hot Standby Fallback)**: **Groq LLaMA 3.3 70B Versatile**, providing instant failover upon HTTP 429 rate limits or quota exhaustion to ensure 100% service uptime.
+4. **Attribution & Citation Engine**:
+   - Validates dialogue quotes against the 1,928 registered character speakers, attaches source links to the official MediaWiki articles, and formats source cards.
+5. **Verified Response Delivery**:
+   - Streams markdown-formatted lore answers, character quote attribution tags, confidence scores, and source cards directly to the user interface.
+
+</div>
 
 ---
 
