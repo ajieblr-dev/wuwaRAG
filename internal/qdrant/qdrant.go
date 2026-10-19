@@ -311,9 +311,9 @@ func (c *Client) ScrollByText(ctx context.Context, collectionName string, keywor
 		return len(validKeywords[i]) > len(validKeywords[j])
 	})
 
-	// Cap at top 6 distinct keywords to prevent excessive calls
-	if len(validKeywords) > 6 {
-		validKeywords = validKeywords[:6]
+	// Cap at top 12 distinct keywords to ensure specific single entities aren't truncated by phrases
+	if len(validKeywords) > 12 {
+		validKeywords = validKeywords[:12]
 	}
 
 	scrollURL := fmt.Sprintf("%s/collections/%s/points/scroll", c.baseURL, collectionName)

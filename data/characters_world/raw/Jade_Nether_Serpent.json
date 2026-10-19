@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:05Z",
+  "title": "Jade Nether Serpent",
+  "pageid": 79538,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Jade Nether Serpent\n|title=\n|image=Jade Nether Serpent Icon.png\n|dmgtype=Fusion\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Autopuppet\n|nation=Huanglong\n|region=Mengzhou\n|subregion=Simulacrum Nexus of Mengzhou\n|nightmare=no\n|drops=\n}}{{Description|Autopuppets responsible for detaining and transporting Reverberations within the Censure Courts. Usually, they disguise themselves as antiques and only reveal their serpent form when approached. Sightings of them has declined over the years.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Autopuppet}}\n\n==Stats==\n{{Enemy Stats}}\n\u003c!--\n==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Jade Nether Serpent|customheader=Jade Nether Serpent}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Fusion DMG}}.\u003cbr/\u003e\u003cbr/\u003eAfter each shift switch is complete at the Censure Courts, Jade Nether Serpents search for and absorb any Echoes left behind before transporting them to the Manifold Sanctum for storage. They also periodically remove residual Reverberations from the Censure Court, send them for neutralization within the Manifold Sanctum, before discarding the remnants into the abyss below Xuanfang Hold.\u003cbr/\u003e\u003cbr/\u003ePossibly due to the decline in the purging operations on Tacet Discords, sightings of Jade Nether Serpents across the Land of Xuanfang have become increasingly uncommon in recent years.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Jade Nether Serpent\n|zhs  = 玉冥蛇\n|zht  = 玉冥蛇\n|ja   = 機玉の冥蛇\n|ko   = 옥명사(玉冥蛇)\n|fr   = Serpent Infernal de Jade\n|de   = Jade-Höllenschlange\n|es   = Serpiente de Jade\n|th   = Jade Nether Serpent\n|pt   = Serpente de Jade do Inframundo\n}}\n\n==Change History==\n{{Change History|3.7}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

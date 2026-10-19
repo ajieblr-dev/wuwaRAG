@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:53Z",
+  "title": "Heliogyre",
+  "pageid": 39559,
+  "wikitext": "{{stub}}\n{{spoiler}}\n{{Terminology Infobox\n|title        = Heliogyre\n|image        = Heliogyre.png\n|type         = Lore\n|nation       = Lahai-Roi\n}}\nThe [[Roya Tribe|Roya tribe]] uses the lens \"Heliogyre,\" a relic gifted by the [[Exostrider]], to observe the Exostrider's Drive, calculate its trajectory, predict the onset of [[Void Storm]], and provide critical data for the Spacetreck Collective's New Solar Project.\n\nIt lies within the [[Solisylum]] and is deciphered by six chosen Royan's called the [[Heliodic Six]].\n\nAfter the event of {{Quest|Ode to the Second Sunrise}}, a single [[\"The Shaper\"|Foreseer]] takes on the burden of calculating the Heliogyre, as the other five members are no longer able too.\n\n== Overview ==\nThe Heliogyre is the Exostrider's lens, given to the Roya Tribe in an effort to guide them in avoiding the reoccurring Void Storms that plague Lahai-Roi. The device capable of allowing one to see the future, with the information shared to prevent others being consumed by the Void Sotrms when possible. The Shaper states that only those born with a certain Resonance Ability can be chosen, and none can be forced to link and interpret the Heliogyre. \n\nThe Heliodic Six share their computational powers when using the Heliogye, weaving a vast network to reach the Exostrider in a dimension beyond mortal understanding. Six people are usually required - but one is also possible- if with a cost. if no one calculates then even if the Heliogyre Drive rotates, no one can interpret the readings. This would cause Void Storm occurrences to be unknown where life once more will fall into peril.\n\nThough one weakness is that it cannot predict the occurrences of artificial Void Storms created by [[Warren]], which was used to infect the Heliogyre Drive for a time and corrupting five of the six Heliodic Six members as they were linked to the machine. Though through the [[Soliskin]], the corruption was undone while the five members appear to be recovering, if slowly. \n\n==Gallery==\n\u003cgallery\u003e\nComprehensive Mirror for Historians — Exostrider 03.jpg\n\u003c/gallery\u003e\n\n{{Other Languages\n|en   = Heliogyre\n|zhs  = 日轮\n|zht  = 日輪\n|ja   = 太陽の円環\n|ko   = 헬리오자일\n|fr   = Héliogyre\n|de   = Heliogyr\n|es   = Heliogiro\n|th   = วงจักรสุริยะ\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

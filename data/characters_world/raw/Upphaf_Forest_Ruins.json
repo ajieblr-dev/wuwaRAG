@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:54Z",
+  "title": "Upphaf Forest Ruins",
+  "pageid": 39571,
+  "wikitext": "{{Location Infobox\n|title  = Upphaf Forest Ruins\n|image  = Upphaf Forest Ruins.png\n|type   = Region\n|map    = Solaris-3\n|nation = Roya Frostlands\n}}\n{{Intro/Location|Upphaf Forest Ruins}}\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Upphaf Forest Excavation Site\"\n|[[Upphaf Forest Excavation Site]]\n|[[File:Upphaf Forest Excavation Site.png|180px]]\n|\n|- id=\"Upphaf Life Chamber\"\n|[[Upphaf Life Chamber]]\n|[[File:Upphaf Life Chamber.png|180px]]\n|\n|- id=\"Provenance Enclave\"\n|[[Provenance Enclave]]\n|[[File:Provenance Enclave.png|180px]]\n|\n|}\n\n==Quests==\n{{Quest by Category List|Upphaf Forest Ruins Quests}}\n\n==Exploration Report==\n===An Introduction to Lahai-Roi Historical Geography - Excerpt I===\n* Achieve 50% Area Exploration Progress to unlock the full report. \n\n{{Transclude|An Introduction to Lahai-Roi Historical Geography - Excerpt I|Text|main=1}}\n\n===An Introduction to Lahai-Roi Historical Geography - Excerpt II===\n* Achieve 100% Area Exploration Progress to unlock the full report. \n\n{{Transclude|An Introduction to Lahai-Roi Historical Geography - Excerpt II|Text|main=1}}\n\n==Notable Features==\n===Challenges===\n* [[Frostlands Surface - Void Storm Zone V]]\n\n===Enemies===\n*{{Enemy|Glacio Dreadmane}}\n*{{Enemy|Sabercat Reaver}}\n*{{Enemy|Twin Nova: Nebulous Cannon}}\n*{{Enemy|Twin Nova: Collapsar Blade}}\n*{{Enemy|Glommoth}}\n*{{Enemy|Kronaclaw}}\n*{{Enemy|Iceglint Dancer}}\n\n===Resources===\n* {{Item|Frostwort}}\n\u003c!--\n==Descriptions==\n{{Description|A sacred homeland of the Roya and the habitat of the Soliskin. Bathed in the radiance of the Reactor Drive, its towering trees reach hungrily toward the light, their deep, interwoven roots returning that energy to the earth.|Official Website}}\n\n==Trivia==\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Upphaf Forest Ruins\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|fr   = \n|de   = \n|es   = \n|th   = \n|pt   = \n}} \n\n==Change History==\n{{Change History|3.1}} \n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "An Introduction to Lahai-Roi Historical Geography - Excerpt I",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "An Introduction to Lahai-Roi Historical Geography - Excerpt II",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Enemies",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.3",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "12"
+    }
+  ]
+}

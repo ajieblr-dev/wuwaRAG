@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:30Z",
+  "title": "Academy's Dark Side",
+  "pageid": 40497,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title        = Academy's Dark Side\n|image        = Academy's Dark Side.png\n|type         = Point of Interest\n|map          = Solaris-3\n|nation       = Roya Frostlands\n|region       = Startorch Academy (Region)\n}}\n{{Quote|A collective Sonoro that manifested naturally in Lahai-Roi. The exact cause of its formation remains unconfirmed.\u003cbr\u003eInfluenced by the subconscious minds and residual frequencies of the Resonators at Startorch Academy, it gradually evolved into a mirrored projection of the Academy, becoming a unique phenomenon existing within its grounds.}}\nThe '''Academy's Dark Side''' is a [[Point of Interest]] and a [[Sonoro Sphere]] that mirrors the thoughts and emotions of students and teachers alike at [[Startorch Academy]].\n\n==Glossary==\n{{Description|A Sonoro born of nature. Now a shadowy reflection of the Academy, shifting with the collective psyche of its students and teachers.|Glossary Excerpt}}\n\n== Synopis ==\nAs described by [[Lucilla]], the Dark Side is the Startorch Academy's \"reflection\", which had ben undirectedly created through the collective emotions of the student body and faculty staff. Due to it's nature, it is considered inseparable from the school itself and through the collective thoughts, the Sonoro Sphere mirrors the thoughts of every students, reflecting their \"youth\". Due to this, the Dark Side has many oddities such as floating desks, massive equipment, giant cats, among other strange concepts formed by their delusions. However, despite many students being filled by ideals and passions, the Sonoro Sphere takes in the academy's anxiety and sorrow, absorbing it all before reflecting their truest selves back at them, acting as a vortex of sorts. If allowed, the gathered emotions will swell and collide, where the link between the Dark Side and the minds of everyone that helped form the location will seep into their minds, affecting them negatively. \n\nThis causes students mental health to decline and affect their judgement, with some losing control over their own actions. As a precaution, the academy created a system that allows those who enter the Dark Side so they'd be prepared to face the \"truth\" it tries reflecting towards them. In this case, the Dark Side was confined within \"riddles\", turning it into a harmless game where the students can properly confront their Reflections and face their problems, allowing them to process the negative emotions embodied in the Dark Side and come out without being harmed. \n\nThough, it is possible for the Dark Side to be controlled and turned more harmful, as the [[Fractsidus]] themselves did by sending forth two agents known as the Vortex's Eye and the Strange Rabbit. Together, the two proceeded to influence and control the realm to cause more harm and restricted the academy's control over it. Due to the [[Schwarzloch|Grand Architect]], he also linked the realm to reflect [[Sigrika|Sigrika's]] concerns, which impacted how the Dark Side worked. However, it should be noted that despite the danger the two represented, they could not control the emotions in the Dark Side, merely influence them to affect the Reflections - which in turn affected their real-live selves. \n\nAt the same time, the Vortex's Eye and Strange Rabbit also used student's negative emotions into manifesting aggressive [[Tacet Discord|Tacet Discord's]], which threatened any students who were forcibly entrapped in the Dark Side. Though, once the two were defeated, the school regained proper control of the Dark Side itself. \n\n=== Reflections ===\nReflections are shadows of students’ emotions in the Dark Side, which mirror the hidden feelings within the students’ hearts. They take their form and reveal the \"truth\" that the students would likely never say aloud in the real world. Be it their fears, anger, disappointment, or anything else they hide. While not impossible to hear positive truths, it's unlikely due to the nature of the Dark Side. Due to their nature, the Reflections are linked to their real-selves and depending on the circumstances, anything that affects the Reflections could potentially affect the students themselves, leading to decline in their mental health. \n\nReflections will also always exist, even if their real-life counterparts vanish. One student who had been permanently lost to the school, despite being gone, her Reflections persists as the Dark Side absorbed her pain where her Reflection exists at her lowest moment. \n\nThe Vortex's Eye and Strange Rabbit could influence or disguise themselves as Reflections, which was used in an attempt to mentally harm Sigrika among others to cause them distress. \n\n=== Security Measures ===\nAlongside confining the Dark Side into a harmless game, the faculty had also created a method to communicate with those in the inside if they needed help. Furthermore, certain measures were made for a forcible exit; the alarm clock. Lucilla explaining that just as a pillow is an invitation to sleep (entering the realm), the alarm clock will wake one up and is the key to leaving the Dark Side. \n\nThere are of course a few backup measures if one cannot solve the riddles to exit the location or find the alarm clock to leave. The only seeming consequence is that those who enter the Dark Side through methods aside from the pillow can exit out in odd locations. Sigrika, upon exiting the Dark Side at one point, fell from the sky as the Sonoro Sphere portals can be random at times.\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=location}}\n\n==Other Languages==\n{{Other Languages\n|en   = Academy's Dark Side\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|fr   = \n|de   = \n|es   = \n|th   = \n}} \n\n==Change History==\n{{Change History|3.2}} \n\n==Navigation==\n{{PoI Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Glossary",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Synopis",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Reflections",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Security Measures",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "8"
+    }
+  ]
+}

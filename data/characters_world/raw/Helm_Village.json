@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:54Z",
+  "title": "Helm Village",
+  "pageid": 27868,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Helm Village\n|image=Helm Village.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Riccioli Islands\n}}\n\n'''Helm Village''' is an area of [[Riccioli Islands]], [[Rinascita]]. \n\n==NPCs==\n{{NPCs by Location List|Helm Village}}\n\n==Other Languages==\n{{Other Languages\n|en   = Helm Village\n|zhs  = 舵盘村\n|zht  = 舵盤村\n|ja   = ヘルム村\n|ko   = 조타륜 마을\n|es   = Punta Timón\n|fr   = Hameau des Timoniers\n|de   = Helmdorf\n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

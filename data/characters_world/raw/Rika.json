@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:12Z",
+  "title": "Rika",
+  "pageid": 39178,
+  "wikitext": "{{NPC Infobox\n|image    = NPC Rika.png\n|type     = Open-World\n|nation   = The Black Shores\n|location = Chronorift Metropolis\n|group    = Left Behind\n}}\n{{Quote| Daddy... Mommy... When are you coming back from the sea...?}}\n'''{{PAGENAME}}''' is a {{Extra Effect|Left Behind|Left Behind|Citizens of Honami City who perished during the Lament and who now \"live\" inside the Sonoro Sphere in the form of Human Reverberations. Faint iridescent light flows around their bodies, and they don't seem to be aware of what really happened to them.}} girl that can be found west of from Shashou Cafe, in front of the submerged city in water. \n\nTalking to her after completing {{Quest|Stagnant Dawn on Wastelands}} will have her move on when you return. \n\n==Location==\n{{Map Embed|Chronorift Metropolis|Rika}}\n\n==Idle==\n{{Dialogue Start}}\n:;'''Rika:''' Daddy... Mommy... When are you coming back from the sea...?\n----\n:\u003csmall\u003e(After completing {{Quest|Stagnant Dawn on Wastelands}})\u003c/small\u003e\n:;'''Rika''' Daddy... Mommy... I'll be good, I promise. I won't let you down. \n{{Dialogue End}}\n\n==Dialogue==\n:{{DIcon}} What are you doing here?\n:'''Rika:''' Hello... I'm waiting for my Daddy and Mommy to come home.\n:{{DIcon}} Why here?\n:'''Rika:''' Aunties and Uncles said Daddy and Mommy went to a place really, really far away, so we can't meet for now.\n:'''Rika:''' But every year on this day... they ride the sea waves back home to visit me.\n:'''Rika:''' Today's the day. I've been waiting so long, but... they still haven't shown up.\n:'''Rika:''' Do you think... maybe Daddy and Mommy forgot about me?\n:{{DIcon}} No, they're probably just busy.\n::'''Rika:''' Mm... you're right. Even if they moved somewhere else, they must be busy, just like always.\n:{{DIcon}} ...Maybe they trust you to take care of yourself.\n::'''Rika:''' I've been doing what they told me... I even learned how to cook.\n:'''Rika:''' So I'll wait a little longer. Maybe they just want to surprise me.\n----\n:\u003csmall\u003e(After completing {{Quest|Stagnant Dawn on Wastelands}})\u003c/small\u003e\n:{{DIcon}} Hi.\n:'''Rika:''' Hello. I... I saw Daddy and Mommy just now.\n:{{DIcon}} Really?\n:'''Rika:''' Yes. It was only for a few minutes, but... they really came back from the water to see me.\n:'''Rika:''' Mommy hugged me so tight, and Daddy patted my head just like he used to.\n:'''Rika:''' It felt like a dream. I was so happy... but also so sad. Is that strange?\n:{{DIcon}} Not at all.\n:{{DIcon}} You waited so long for this. It's only natural to feel so.\n:'''Rika:''' ...Actually, I know. Mommy and Daddy... and I aren't supposed to be here anymore.\n:'''Rika:''' But I promised them I'd see every beautiful place in our hometown for them.\n:{{DIcon}} You can do it.\n:{{DIcon}} ...I'll be cheering for you.\n:'''Rika:''' Thank you... I'm sorry. It's just... when you leave, I think I need to cry a little longer.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Rika\n|zhs  = 理香\n|zht  = 理香\n|ja   = 理香\n|ko   = 리카\n|fr   = Rika\n|de   = Rika\n|es   = Rika\n|th   = Rika\n|pt   = \n}}\n\n==Change History==\n{{Change History|2.8}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -51,7 +51,7 @@
       </div>
       <div class="panel-body">
         <div class="filter-bar">
-          <input class="input" id="page-search" type="search" placeholder="Filter pages by title…" style="max-width:280px" aria-label="Search pages" />
+          <input class="input" id="page-search" type="search" placeholder="Search pages or chunk text… (e.g. Abraxas)" style="max-width:320px" aria-label="Search pages" />
           <button class="btn btn-ghost btn-sm" id="page-reset" type="button">Reset filter</button>
           <span class="tiny dim" id="page-match-count" style="margin-left:auto"></span>
         </div>
@@ -145,7 +145,18 @@
   function renderPagesTable() {
     var query = pageSearch.value.trim().toLowerCase();
     var filtered = pages.filter(function (p) {
-      return !query || (p.title || "").toLowerCase().includes(query);
+      if (!query) return true;
+      if ((p.title || "").toLowerCase().includes(query)) return true;
+      if (corpusData && corpusData.chunks) {
+        return corpusData.chunks.some(function (ch) {
+          return ch.title === p.title && (
+            (ch.content || "").toLowerCase().includes(query) ||
+            (ch.section || "").toLowerCase().includes(query) ||
+            (ch.subsection || "").toLowerCase().includes(query)
+          );
+        });
+      }
+      return false;
     });
 
     filtered.sort(function (a, b) {
@@ -247,9 +258,11 @@
     try {
       sel.innerHTML = '<option value="">Loading chunks…</option>';
       document.getElementById("chunk-pool-count").textContent = "fetching…";
+      var qVal = pageSearch ? pageSearch.value.trim() : "";
       var res = await OD.api.corpus({
         page: selectedPageTitle || undefined,
         speaker: activeSpeakerFilter || undefined,
+        q: qVal || undefined,
         limit: 100
       });
 
@@ -318,7 +331,14 @@
     }
   });
 
-  pageSearch.addEventListener("input", renderPagesTable);
+  var searchTimer = null;
+  pageSearch.addEventListener("input", function () {
+    renderPagesTable();
+    if (searchTimer) clearTimeout(searchTimer);
+    searchTimer = setTimeout(function () {
+      loadChunksForCurrentFilter();
+    }, 250);
+  });
   document.getElementById("page-reset").addEventListener("click", function () {
     pageSearch.value = "";
     selectedPageTitle = "";

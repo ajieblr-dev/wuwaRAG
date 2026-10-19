@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:43Z",
+  "title": "Beigu",
+  "pageid": 9925,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Beigu.png\n|type             = Quest\n|nation           = Huanglong\n|location         = Central Plains\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n{{Description|I've fought hard for this opportunity. I hope I don't let Mr. Yhan down with my performance.}}\n'''Beigu''' is an NPC in {{Location|Central Plains}}. The Captain of camp, north of [[Jinzhou]] in Central Plains.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Beigu\n|zhs  = 北固\n|zht  = 北固\n|ja   = 北固（ホクコ）\n|ko   = 북고\n|es   = Beigu\n|fr   = Beigu\n|de   = Beigu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:24Z",
+  "title": "Shashou Cafe",
+  "pageid": 37672,
+  "wikitext": "{{Location Infobox\n|image        = Shashou Cafe.png\n|type         = Area\n|nation       = The Black Shores\n|region       = Chronorift Metropolis\n}}\n'''Shashou Cafe''' is an [[Area]] located in [[Chronorift Metropolis]].\n\n==NPCs==\n{{NPCs by Location List|Shashou Cafe}} \n\n==Gallery==\n\u003cgallery\u003e\nShashou Cafe Logo.png|Cafe Logo\n\u003c/gallery\u003e\n===Videos===\n\u003cgallery\u003e\nPioneer Swift Scoop - Honami Hours\n\u003c/gallery\u003e \n\n==Other Languages==\n{{Other Languages\n|en   = Shashou Cafe\n|zhs  = 列车长咖啡厅\n|zht  = 列車長咖啡廳\n|ja   = {{Rubi|車掌|しゃしょう}}カフェ\n|ko   = 샤쇼우 카페\n|fr   = Café Shashou\n|de   = Shashou-Café\n|es   = Café Shashou\n|th   = คาเฟ่นายสถานี\n}}\n\n==Change History==\n{{Change History|2.8}} \n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

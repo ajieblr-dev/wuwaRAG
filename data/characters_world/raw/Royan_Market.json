@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:17Z",
+  "title": "Royan Market",
+  "pageid": 38643,
+  "wikitext": "{{Location Infobox\n|image        = Royan Market.png\n|icon         = Grocery Store Map Marker.png\n|type         = Point of Interest\n|type2        = Grocery Store\n|nation       = Roya Frostlands\n|region       = Startorch Academy\n}}\nThe '''Royan Market''' is a trading hub where [[Roya Tribe|Royan]] merchants sell their wares to students and faculty from [[Startorch Academy]]. Within the market is a [[Grocery Store]] run by [[Zahira]]. \n\n==Shop==\n{{Vendor|Zahira}} \n\n==Descriptions==\n{{Description|An open-air trading hub between Startorch Academy and the Roya. During designated hours, Royan merchants arrive with local ingredients and wares, allowing students and faculty to obtain unique Lahai-Roi specialties.|Map Description}} \n\n==Other Languages==\n{{Other Languages\n|en   = Royan Market\n|zhs  = 游牧集市\n|zht  = 遊牧集市\n|ja   = ロヤン・マーケット\n|ko   = 유목민 장터\n|fr   = Marché royan\n|de   = Roya-Markt\n|es   = Mercado Roya\n|th   = ตลาดเร่ร่อน\n}} \n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{PoI Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

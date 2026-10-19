@@ -1,0 +1,114 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:52Z",
+  "title": "Nimbus Sanctum",
+  "pageid": 25643,
+  "wikitext": "{{Location_Infobox\n|title  = Nimbus Sanctum\n|image  = Nimbus Sanctum.png\n|map    = Solaris-3\n|type   = Region\n|nation = Rinascita\n}}\n{{Intro/Location|Nimbus Sanctum}} The sea of clouds lingering in this place is formed by concentrated Remnant Energy. Local legends of Ragunna speak of a serene, mirror-like area at the heart of Nimbus Sanctum, said to purify the darkest of thoughts and transform them into part of the clouds. At times, a haunting melody can be heard echoing from the depths of the sanctum.\n\n==Description==\n{{Description|The Nimbus Sanctum is the only Sonoro Sphere that exists in the physical world, where mist and clouds are formed by concentrated Remnant Energy.\u003cbr\u003e\u003cbr\u003eThe sea of clouds that envelop the Sanctum is believed to be the lingering aftermath of the first Dark Tide. As the mist rose, it gradually submerged the former headquarters of the Order of the Deep, the Seminary of the Forgotten, forcing them to relocate to the Cathedral of Mercury in Ragunna City.\u003cbr\u003e\u003cbr\u003eLocal legends of Ragunna speak of a serene, mirror-like area at the heart of Nimbus Sanctum, said to purify the darkest of thoughts and transform them into part of the clouds. Many pilgrims, drawn by this tale, journey here in search of inner peace.}}\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Mistveil Bay\"\n|[[Mistveil Bay]]\n|[[File:Mistveil Bay.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Atrium of Reflections\"\n|[[Atrium of Reflections]]\n|[[File:Atrium of Reflections.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Gold's Landing\"\n|[[Gold's Landing]]\n|[[File:Gold's Landing.png|180px]] \u003cbr /\u003e\n|}\n\n==Quests==\n{{Quest by Category List|Nimbus Sanctum Quests}}\n\n==Exploration Report==\n\n==='''Within Nimbus Sanctum I'''===\n* Unlocked by reaching 50% exploration.\n\n{{Transclude|Within Nimbus Sanctum I|Text|main=1}}\n\n==='''Within Nimbus Sanctum II'''===\n* Unlocked by reaching 100% exploration.\n\n{{Transclude|Within Nimbus Sanctum II|Text|main=1}}\n\n==Notable Features==\n===Enemies===\n====Overlord Class====\n* {{Enemy|Lorelei}}\n* {{Enemy|Nightmare: Mourning Aix}}\n====Elite Class====\n====Common Class====\n\n===Resources===\n\n==Other Languages==\n{{Other Languages\n|en   = Nimbus Sanctum\n|zhs  = 氤柔水境\n|zht  = 氤柔水境\n|ja   = {{Rubi|霞立|かすみた}}つ{{Rubi|水境|すいきょう}}\n|ko   = 물의 경지\n|es   = Santuario del Nimbo\n|fr   = Sanctuaire du Nimbus\n|de   = Nimbus Heiligtum\n|th   = \n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eWithin Nimbus Sanctum I\u003c/b\u003e",
+      "number": "4.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eWithin Nimbus Sanctum II\u003c/b\u003e",
+      "number": "4.2",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Enemies",
+      "number": "5.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Overlord Class",
+      "number": "5.1.1",
+      "index": "9"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Elite Class",
+      "number": "5.1.2",
+      "index": "10"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Common Class",
+      "number": "5.1.3",
+      "index": "11"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "5.2",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "14"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "15"
+    }
+  ]
+}

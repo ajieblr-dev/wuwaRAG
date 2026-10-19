@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:35Z",
+  "title": "Middle-aged Listener",
+  "pageid": 4424,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Middle-aged Listener.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Middle-aged Listener''' is an NPC in {{Location|Jinzhou}}.\n\n==Other Languages==\n{{Other Languages\n|en   = Middle-aged Listener\n|zhs  = 听书的中年人\n|zht  = 聽書的中年人\n|ja   = 観客の中年\n|ko   = 이야기를 듣는 중년\n|es   = Oyente de Mediana Edad\n|fr   = Auditeur d'âge moyen\n|de   = Mittlerer Zuhörer\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

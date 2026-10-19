@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:42Z",
+  "title": "Galloway",
+  "pageid": 38417,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Galloway.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Galloway''' is a male student from the Department of Voidmatters, seen talking with '''Kuangda''' from the Department of Light Energy Sciences.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Galloway:''' This daily hike is killing me...\n:'''Galloway:''' Why can't the school build the dorms closer to the classrooms? Huff puff...\n:'''Kuangda:''' You'll get used to it, brother...\n:'''Galloway:''' Hey, your badge... You're from the Agro Wing, right? Aren't your test plots even farther out?\n:'''Kuangda:''' Yep. And we have to keep watch to make sure no mech reindeer wander in and eat our \"thesis material\"...\n:'''Galloway:''' So you must've complained to the school a long time ago.\n:'''Kuangda:''' We solved the problem already.\n:'''Galloway:''' But how? Did the school move your dorms? Or  did you invent some new transport tech?\n:'''Kuangda:''' Nah. We just started sleeping in the plots.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Galloway\n|zhs  = 加洛韦\n|zht  = 加洛韋\n|ja   = ギャロウェイ\n|ko   = 갤러웨이\n|fr   = Galloway\n|de   = Galloway\n|es   = Galloway\n|th   = Galloway\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

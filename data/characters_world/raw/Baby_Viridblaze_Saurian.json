@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:42Z",
+  "title": "Baby Viridblaze Saurian",
+  "pageid": 23009,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Baby Viridblaze Saurian\n|title=\n|image=Baby Viridblaze Saurian Icon.png\n|dmgtype=Fusion\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Howler\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A Common Class Howler TD often sighted in mountainous areas. It usually follows and works in concert with Tacet Discords of larger sizes.}}\n\n==Drops== \n{{Drops|Common Howler}}\n\n==Stats==\n{{Enemy Stats|Baby Viridblaze Saurian}}\n\u003c!--\n==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Baby Viridblaze Saurian|customheader='''Baby Viridblaze Saurian'''}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Fusion damage}}.\u003cbr/\u003eLarge amphibian-like creatures mostly found in forests. Their hard skins are found to emit heat.\nResearch has found that the tenacity of Viridblaze Saurian's skin has a positive correlation to the beast's body temperature.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Baby Viridblaze Saurian\n|zhs  = 绿熔蜥（稚形）\n|zht  = 綠熔蜥（稚形）\n|ja   = 熔解トカゲ（幼体）\n|ko   = 그린멜팅카멜레온(유체)\n|es   = Saurio Viridblaze Bebé\n|fr   = Lézard Fusion vert (petit)\n|de   = Baby-Grüne Flammeneidechse\n}}\n\n==Change History==\n{{Change History|1.0}} \n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

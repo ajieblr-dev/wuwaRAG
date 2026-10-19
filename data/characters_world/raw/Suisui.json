@@ -1,0 +1,100 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:39Z",
+  "title": "Suisui",
+  "pageid": 41347,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}} \n\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|deceased         = \n|rarity           = 5\n|class            = Natural\n|weapon           = Rectifier\n|role             = Support and Healer;DMG Amplification;Glacio Chafe\n|attribute        = Glacio\n|releaseDate      = 2026-07-30\n\n\u003c!-- Info --\u003e\n|name             = Suisui\n|title            = Host of Harmony\n|gender           = Female\n|birthday         = \n|birthplace       = Huanglong\n|nation           = Huanglong\n|affiliation      = Zhaoming Commerce Guild\n|affiliation2     = Mingting\n|affiliation3     = \n|sigil            = \n|dish             = Gilded Jadeite\n|obtain           = Blessings From Dewy Winds\n\n\u003c!-- Family --\u003e\n|father           = Unnamed\n|fatherRef        = \u003cref name=\"fav food\"\u003eYangyang: Xuanling's Voicelines: [[Yangyang: Xuanling/Voicelines|Favorite Food]]\u003c/ref\u003e\n|mother           = Unnamed\n|motherRef        = \u003cref name=\"fav food\"/\u003e\n|sibling          = Yangyang\n|siblingNote      = younger sister\n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm5069067|Emily Piggford]]\u003cref name=\"Suisui-Bili\" /\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/孙艳琦 Sun Yanqi ({{Lang|mini=1|zh=孙艳琦}})]\u003cref name=\"Suisui-Bili\"\u003eBilibili: [https://t.bilibili.com/1229204199733985298 《鸣潮》共鸣者战斗演示 | 穗穗]\u003c/ref\u003e\n|voiceJP          = {{w|Misato Fukuen|Fukuen Misato ({{Lang|mini=1|ja=福圓 美里}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/2070496046988636184 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/박지윤(성우) Park Ji-yoon ({{Lang|mini=1|ko=박지윤}})]\u003cref name=\"Suisui-Bili\" /\u003e\n}}\n{{Quote|Where clear streams flow, there spring awaits.|Suisui}}\n{{Intro/Resonator|Suisui|lang=zh=穗穗}}\n\nBorn into a noble family of [[Mingting]], she is the brilliant young director of the [[Zhaoming Commerce Guild]].\n\n==Combat Overview==\n{{Main|Suisui/Combat}}\n\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Suisui|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en   = Suisui\n|zhs  = 穗穗\n|zht  = 穗穗\n|ja   = 穂穂（スイスイ）\n|ko   = 수수\n|fr   = Suisui\n|de   = Suisui\n|es   = Suisui\n|th   = Suisui\n|pt   = Suisui\n}}\n\n==Change History==\n{{Change History|introduced=1.0|3.5}}\n\n==References==\n{{Reflist|2}}\n\n==Navigation==\n{{Resonator Navbox}}\n[[ru:Суй Суй]]\n[[zh:穗穗]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "3.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

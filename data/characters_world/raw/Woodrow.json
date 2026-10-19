@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:03Z",
+  "title": "Woodrow",
+  "pageid": 2652,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Woodrow.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Port City of Guixu\n|group            = \n|affiliation      = \n|title            = Wutherological Climate Researcher\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Woodrow''' is an NPC in {{location|Port City of Guixu}}.\n\n==Location==\n{{Map Embed|Port City of Guixu|Woodrow}}\n\n==Quests and Events==\n{{Quests and Events|Woodrow}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Woodrow:''' The storm formed by the abnormal gravity field seems to be returning...\n:'''Woodrow:''' So a new story is about to begin?\n:{{DIcon}} So the storm is happening again?\n:{{DIcon}} A new story?\n:'''Woodrow:''' Oh, actually... It's not that much of a big deal.\n:'''Woodrow:''' I've been conducting uninterrupted observations at this weather Observation Station...\n:'''Woodrow:''' Recent observation data shows that the weather changes in the surroundings share similarities with the storms happening here in the past...\n:'''Woodrow:''' But the similarity are still in the cradle. I can't jump to conclusions now.\n:'''Woodrow:''' Don't worry. I'll keep an eye on this.\n:'''Woodrow:''' That's right. The hero embarks on a journey in the vast wilderness, battling against the harsh natural environment and engaging in thrilling fights with bounty criminals...\n:'''Woodrow:''' I'm captivated by such a fearless and firm belief.\n:'''Woodrow:''' If you're into Westerns too, I'd be more than happy to share my long-cherished movie list with you!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Woodrow\n|zhs  = 伍德罗\n|zht  = 伍德羅\n|ja   = 伍徳羅（ゴトクラ）\n|ko   = 우드로\n|es   = Woodrow\n|fr   = Woodrow\n|de   = Woodrow\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

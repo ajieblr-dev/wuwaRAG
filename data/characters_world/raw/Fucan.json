@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:39Z",
+  "title": "Fucan",
+  "pageid": 4631,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Fucan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Lollo Logistics\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Fucan''' is an NPC in [[Jinzhou]].\n\n==Location==\n{{Map Embed|Jinzhou|Fucan}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Such a strange name. Nobody around here goes by that...\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Fucan:''' There's always these weird names on packages, making deliveries a real puzzle...\n:'''Fucan:''' Can you believe there's someone named \"Ms. Vera's Dog\"?\n:'''Fucan:''' Well, at least it's a living thing. Then there's \"Liv's Quilted Coat\". How's a coat supposed to receive a package?\n:'''Fucan:''' And this one, \"Universe's Strongest Chief\". We've got [[Midnight Rangers]] and Patrollers, but no chiefs. What's that about? There's no such position in the Ministry of War.\n:{{DIcon}} ...Maybe they're from another universe.\n:{{DIcon}} Is it from a famous Hero Play?\n:'''Fucan:''' Sorry, no time for jokes now. Got a package to deliver, pronto.\n:'''Fucan:''' Maybe... It's been ages since I watched a Hero Play. Work's been non-stop.\n:'''Fucan:''' Anyway, enough chatter. Time to hustle and get these packages where they need to be.\n:'''Fucan:''' Can't afford to mess up our reputation as \"We Promise, We Deliver\".\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fucan\n|zhs  = 馥参\n|zht  = 馥參\n|ja   = フクサン\n|ko   = 현지\n|es   = Fucan\n|fr   = Fucan\n|de   = Fucan\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

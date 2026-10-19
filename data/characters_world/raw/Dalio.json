@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:09Z",
+  "title": "Dalio",
+  "pageid": 39657,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Dalio.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = Rabelle College\n|affiliation      = Rabelle College\n|title            = \n}}\n'''{{PAGENAME}}''' is a male NPC student seen with his classmate '''Jixing''', talking to Professor '''Torvald''' on returning back to their homeland to support the recent crisis. \n\n{{Dialogue Start}}\n==Idle==\n:'''Dalio:''' Why can't we go back?\n:'''Jixing:''' Yeah! This is when they need us the most!\n\n==Dialogue==\n:'''Dalio:''' Teacher! I heard what happened in Huanglong and Rinascita! Why can't we go back?\n:'''Jixing:''' Yeah! This is when they need us the most!\n:T'''orvald:''' Calm down. First, tell me what exactly you think you can change.\n:D'''alio:''' At least more than just sitting here doing nothing! They're out there risking their lives, and we're... acting like nothing's happening!\n:'''Torvald:''' No. It's because they're fighting that you can stay here. Don't take that for granted.\n:'''Jixing:''' But I can't just stand by!\n:'''Torvald:''' I know. It's not easy, for any of us. Everyone here feels the same weight. But anger isn't the answer.\n:'''Dalio:''' Then what is?\n:'''Torvald:''' Those who faced the Lament bought us time. Our duty is to use it, to build a future where no one has to fight the Lament again.\n:'''Dalio:''' I... I'll try to calm down.\n{{Dialogue End}}\n\n==Trivia==\n* The two refers to the incidents that occurred during {{Quest|Grand Warstorm}} and {{Quest|Dawn Breaks on Dark Tides}}. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dalio\n|zhs  = 达里奥\n|zht  = 達里奧\n|ja   = ダリオ\n|ko   = 달리오\n|fr   = Dalio\n|de   = Dalio\n|es   = Dalio\n|th   = Dalio\n}}\n\n{{Other Languages\n|en   = Jixing\n|zhs  = 寄星\n|zht  = 寄星\n|ja   = 寄星\n|ko   = 기성\n|fr   = Jixing\n|de   = Jixing\n|es   = Jixing\n|th   = Jixing\n}}\n\n{{Other Languages\n|en   = Torvald\n|zhs  = 托瓦尔德\n|zht  = 托瓦爾德\n|ja   = トヴァルド\n|ko   = 토발드\n|fr   = Torvald\n|de   = Torvald\n|es   = Torvald\n|th   = Torvald\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:57Z",
+  "title": "Pasoli",
+  "pageid": 38915,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Mentioned\n|nation           = Rinascita\n|affiliation      =\n\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n\n'''Pasoli''' is a mentioned-only [[NPC]] impressionist artist in {{Quest|If On a Rainy Night a Family}}. His latest piece, ''Glory in Decay'', can by found at the [[Montelli Quarter]]'s lounge.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Rover's Observation==\n{{Dialogue Start}}\n;(During the quest)\n{{Description|You step closer to study the collage.\u003cbr\u003e\n\nSmall, irregular shapes nest within larger circles, their edges melding together to form a delicate harmony.\u003cbr\u003e\nThis balance, however, feels precarious, as if two opposing forces are on the verge of collision.}}\n----\n;(After completing the quest)\n{{Description|Returning here once again, you finally understand the deeper meaning that [[Francesco Montelli|Francesco]] had not directly stated that day.\u003cbr\u003e\n\n\"They say in art, we glimpse pieces of our own soul... True artistry lies not only in what is painted, but in what is left unsaid.\"\u003cbr\u003e\n\n''Glory in Decay'' is the name of the paining, as well as the motto this elder man has gifted to himself—he feels honored by his own exit.}}\n{{Dialogue End}}\n\n==Gallery==\n\u003cgallery\u003eGlory in Decay.png|thumb|\"Glory in Decay\"\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Pasoli\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n}}\n\n==Change History==\n{{Change History|introduced=2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Rover's Observation",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

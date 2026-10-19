@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:38Z",
+  "title": "Averardo Vault (Instance)",
+  "pageid": 36284,
+  "wikitext": "{{Stub}}\n{{About|the Point of Interest, Instance and Challenge|the region|Averardo Vault|the area|Averardo Vault (Area)}}\n{{Location Infobox\n|title        = Averardo Vault\n|image        = Averardo Vault Interior.png\n|type         = Point of Interest\n|type2        = Instance\n|icon         = Instance Map Marker.png\n|nation       = Rinascita\n|region       = Averardo Vault\n|area         = Averardo Vault (Area)\n}}\n{{Quote|The vault houses an exquisite collection of rare Echoes and artwork. Upholding the principle of \"Inviolability of Property,\" it is the safest and most impregnable place in Rinascita.}} \n\n'''Averardo Vault''' is a [[Point of Interest]] and [[Instance]] located in {{Location|Averardo Vault (Area)|nocat=1}}. It is the largest bank in [[Rinascita]] and owned by the [[Montelli Family]].\n\nIt is also considered a [[Challenge]], and your [[Team]] cannot be changed once you enter Averardo Vault. During {{Quest|Veils Off in Sun or Shadow}} there will be [[enemies]] located within Averardo Vault, but they will not spawn if the quest is completed. \n\n==NPCs==\n* [[Alfred]]\n* [[Cristoforo]] (During [[Veils Off in Sun or Shadow]])\n* [[Dimitri]]\n* [[Frete]]\n* [[Ludvika]]\n* [[Mosto]]\n* [[Oliver]]\n* [[Polis]]\n* [[Roberto]]\n* [[Thurber]]\n\n==Challenge==\n{{Challenge Infobox\n|title        = Averardo Vault\n|image        = Averardo Vault Interior.png\n|type         = Quest\n|description  = The vault, controlled by the Montelli Family, houses an exquisite collection of rare Echoes and artwork. Surrounded by natural barriers and perched atop a high vantage point, it offers a breathtaking view of Nimbus Sanctum.\u003cbr\u003eInside, the vault features numerous depositories guarded by a formidable array of Echo Guards and advanced security devices, making it the safest and most impregnable place in Rinascita. It defies any ordinary means of intrusion.\n|quest        = Veils Off in Sun or Shadow\n|quest_type   = Main\n|nation       = Rinascita\n|region       = Averardo Vault\n|area         = Averardo Vault (Area)\n|recLevel     = \n|requiredUL   = \n}}\n\n===Walkthrough===\n\u003c!-- TBA --\u003e\n\n===Supply Chests===\n* [[File:Basic Supply Chest Map Marker.png|30px|link=Supply Chest]] [[Basic Supply Chest]]×1\n* [[File:Standard Supply Chest Map Marker.png|30px|link=Supply Chest]] [[Standard Supply Chest]]×4\n* [[File:Advanced Supply Chest Map Marker.png|30px|link=Supply Chest]] [[Advanced Supply Chest]]×2\n\n===Enemies===\n{{Enemy List|Chop Chop: Leftless*7;Chop Chop: Rightless*7;Chop Chop: Headless*1;Chop Chop*2;Fae Ignis*10;Tambourinist*5;Chest Mimic*3;Diurnus Knight*1;Vitreum Dancer*2\n}}\n\n==Archive==\n{{Description|A vault built by the Montelli family on the outskirts of the city. Within its walls lies the family's vast collection of treasures. The vault also provides public services such as secure storage for valuables, appraisals, and acquisition of rare collections.}}\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=location}} \n\n==Other Languages==\n{{Other Languages|Averardo Vault}}\u003c!--Same as region--\u003e\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{PoI Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Challenge",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Walkthrough",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Supply Chests",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Enemies",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Archive",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "10"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:57Z",
+  "title": "Patricia",
+  "pageid": 28148,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Patricia.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Fool's Elysium\n|group            = \n|affiliation      = Troupe of Fools\n|title            = \n}}\n'''Patricia''' is a Troupe of Fools member who can be found speaking with [[Claudio]] about their next performance.\n\n==Quests and Events==\n''(Not in any quest or event yet)'' \u003c!-- Remove if the NPC appears in any quest/events --\u003e\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Patricia:''' I suspect we'll head for [[Lilyland]] next.\n:'''Claudio:''' I'd wager that [[Septimont]] is more likely.\n:{{DIcon}}: What are you doing?\n:'''Claudio:''' We're debating our next destination. We're still on a Pan-Ragunna Tour, after all.\n:'''Claudio:''' The Captain often says, \"Wherever the applause calls, there we'll go to 'capture laughter.' With our craft, our wit, and a touch of our own flair, we'll claim what's rightfully ours.\"\n:'''Patricia:''' True enough. But each island has its own tastes when it comes to theater. We'll need to tailor our efforts to make sure everyone feels the journey was worthwhile!\n:'''Claudio:''' But, whether we head to the Lilyland's Sea of Flowers or the exhilarating spectacles of Septimont, it's up to the captain to decide!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Patricia\n|zhs  = 帕特里克\n|zht  = 派屈克\n|ja   = パトリック\n|ko   = 패트릭\n|es   = Patricia\n|fr   = Patricia\n|de   = Patricia\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

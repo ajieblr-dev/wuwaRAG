@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:38Z",
+  "title": "Modigliani",
+  "pageid": 26105,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image       = NPC Modigliani.png\n|realname    = Modigliani Fisalia\n|nation      = Rinascita\n|location    = City Square\n|affiliation = Fisalia Family\n}}\n'''Modigliani''' is an NPC located in {{Location|City Square|nocat=1}}. He can be found near a small fountain alongside a Primordia Bloom.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Modigliani:''' Go ahead, eat up. Let's see if you can grow into even more vibrant colors.\n:{{DIcon}} What are you doing?\n:'''Modigliani:''' I have a habit of taking care of these Primordia Blooms. Be careful. They can release hallucinogenic toxins.\n:'''Modigliani:''' Since we from [[Fisalia Family|Fisalia]] grew up around their venom, we're not affected by it, but it's safer for anyone untrained to stay away.\n:{{DIcon}} They do look beautiful.\n:'''Modigliani:''' Dangerous things always seem to know how to draw attention. The illusions they create can be so captivating that they make people forget their everyday worries.\n:'''Modigliani:''' Much like the emotions stirred by theater, wealth, and status—each is but a fleeting illusion.\n:{{DIcon}} That's an interesting perspective...\n:'''Modigliani:''' Unfortunately, the sober-minded are always the minority. Most people from the Fisalia district are weighed down by outdated honors, unable to break free from our past.\n:'''Modigliani:''' They constantly mention how Fisalia was instrumental in founding Ragunna and the Order of the Deep.\n:'''Modigliani:''' But now, we've put away our cold swords and let go of our vigilant ways.\n:'''Modigliani:''' As time goes on, what does Fisalia have left, aside from empty pride?\n:'''Modigliani:''' Just a facade of mystery and intrigue, perhaps. It's the last refuge for many from Fisalia—a flimsy cover for our flaws.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Modigliani\n|zhs  = 莫迪利亚尼\n|zht  = 莫迪利亞尼\n|ja   = モディリアーニ\n|ko   = 모딜리아니\n|es   = Modigliani\n|fr   = Modigliani\n|de   = Modigliani\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

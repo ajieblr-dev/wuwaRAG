@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:37Z",
+  "title": "Fratello",
+  "pageid": 28251,
+  "wikitext": "{{NPC Infobox\n|image            = NPC_Fratello.png\n|type             = Event\n|nation           = Rinascita\n|location         = \n|group            = \n|affiliation      =\n\n\u003c!-- Clan/family --\u003e\n|sibling          = [[Fratellone]], [[Fratellino]]\n|child            =\n|relative         =\n}}\n\n{{Quote|Burn bright, my youth!}}\nFratellino is the middle brother of the [[The Three Fratellis' Challenge|Fratellis Brothers]] who is training to become stronger to join the Pioneer Association with his brothers. He challenges Rover in Echo Challenge: Flight and Echo Challenge: Plushie Punch.\n\nEach challenge rewards Union EXP x30, [[Astrite]] x20, [[Monnaie]] x40, and EXP Materials. Completing all his challenge will grant the quest [[The Bizarre Brothers: Fratello]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n===Echo Challenge: Flight===\n{{Dialogue Start}}\n{{Icon/Quest|Quests Interact|20}} (First interaction at [[Thessaleo Fells]])\n:'''???:''' Huh? Woah! Look at those battle-honed muscles... and that fierce, unwavering gaze... you must be incredibly strong!\n:'''Fratello:''' I'm Fratello, currently training to join the Pioneer Association.\n:'''Rover:''' You need to train before joining t he Pioneer Association?\n:'''Fratello:''' Of course! It's a huge organization spread across Solaris, so you've got to pass all kinds of tests before they let you in!\n:{{DIcon}} Doesn't the Pioneer Association sell newspapers?\n:{{DIcon}} Don't underestimate yourself, my man.\n:'''Fratello:''' Don't mind the details. Now, how about a little competition?\n:'''Fratello:''' Let's race using our Echoes! You can use any Echo you want, and let's see who can finish faster!\n:'''Rover:''' I bet I could beat you even without an Echo.\n:'''Fratello:''' This is the land of Echoes, outlander! What's the point of getting stronger if your Echoes stay weak?\n:'''Fratello:''' Come on, let's see if you can break my record to become the most fired-up person in this land!\n\n;(Fail to reach objective within time limit)\n:'''Fratello:''' Are you holding back on me?\n:'''Fratello:''' You weren't fired up at all!\n:'''Fratello:''' Come on, one more time! Give it your all and show me who's the most fired-up soul in the land!\n\n:'''Fratello:''' That... that was incredible! You must be the strongest person in the world!\n:{{DIcon}} The one and only.\n:{{DIcon}} I wouldn't say that.\n::'''Fratello:''' No, no, no, my instincts tell me you're definitely the strongest in the world!\n:'''Fratello:''' Woah! Looks like I need to keep training. Burn bright, my youth!\n----\n{{Icon/Quest|Quests Interact|20}} (Reach the objective within the time limit)\n:'''Fratello:''' Whoa! It's you, the world's strongest!\n:'''Fratello:''' I've set a new record even you can't break!\n:'''Fratello:''' Come on now, accept my challenge!\n\n:'''Fratello:''' You've shattered my record like it was nothing!\n:'''Fratello:''' Hahaha! I see, I still need to burn brighter!\n:'''Fratello:''' Just you wait, world's strongest for now! I'll be back!\n:'''Fratello:''' Burn bright, my youth!\n----\n{{Icon/Quest|Quests Interact|20}} (Reach the objective within the time limit)\n:'''Fratello:''' Not enough fire! If I can't push my flames higher, how can I surpass that person?\n:'''Fratello:''' Oh, I was just wondering when you'd show up!\n:'''Fratello:''' I've  set a new record again! Come accept my challenge!\n----\n{{Icon/Quest|Quests Interact|20}} (Reach the objective within the time limit)\n:'''Fratello:''' Ha, we meet again! Come on!\n:'''Rover:''' You've already earned your place in the Pioneer Associations, so why are you still so obsessed with getting stronger?\n:'''Fratello:''' Are you... also the most curious person in the world?\n:'''Rover:''' No explanation, no challenge.\n:'''Fratello:''' Wait, alright, I'll make it quick.\n:'''Fratello:''' You know about the Dark Tide, right? Twenty years ago, the Dark Tide claimed my parents. Since then, my older brother has raised me and my younger brother.\n:'''Fratello:''' That's why I've always wanted to join the Pioneer Association to uncover the truth behind the Dark Tide!\n:'''Fratello:''' I must train myself to get strong―strong enough to push back the Dark Tide with a single strike! Otherwise, how can I protect my brothers?\n:'''Fratello:''' Heh, now I'm feeling a bit embarrassed! Come on, let's see if you can break my record this time!\n----\n{{Icon/Quest|Quests Interact|20}} (Reach the objective within the time limit)\n:'''Fratello:''' Hey, look at me! Do you feel it? I've gotten stronger!\n:'''Rover:''' You know that joining the Pioneer Association doesn't mean you'll fully understand the Dark Tide, right?\n:'''Fratello:''' Yeah, I know. But the key is to take the first step, isn't it?\n:'''Fratello:''' Sometimes, it feels like my brothers and I have never escaped the Dark Tide. It seems our lives were frozen at that moment.\n:'''Fratello:''' So when I heard Fratellino say he wanted to join the Pioneer Association, I immediately thought, \"Ah, this is my first step!\"\n:'''Fratello:''' You must understand how I feel, being the world's strongest!\n:'''Fratello:''' Alright, enough small talk ― come and break my record, world's strongest!\n----\n===Echo Challenge: Plushie Punch===\n{{Icon/Quest|Quests Interact|20}} (Smash the Seamrock) (At [[Averardo Vault]])\n:'''Fratello:''' Ah, it's you―the strongest in the world!\n:'''Fratello:''' Come accept my challenge!\n:'''Rover:''' Not in the mood to race today.\n:'''Fratello:''' No, no, it's a brand new challenge this time.\n:'''Fratello:''' Let's see who can shatter this Seamrock in the shortest time after transforming into a [[Cuddle Wuddle]]!\n:'''Rover:''' Seamrock?\n:'''Fratello:''' It's much tougher than regular rock, but laced with tiny internal cracks. Hit it with the right rhythm, and it'll break apart quickly!\n:'''Fratello:''' Trust me, there's no better way to measure your strength and precision than punching the Seamrock!\n:'''Fratello:''' Come on, let's see if you can break my record to become the most fired-up person in this land!\n;(Smash the Seamrock)\n\n:'''Fratello:''' You've shattered my record like it was nothing!\n:'''Fratello:''' Hahaha! I see, I still need to burn brighter!\n:'''Fratello:''' Just you wait, world's strongest for now! I'll be back!\n:'''Fratello:''' Burn bright, my youth!\n----\n{{Icon/Quest|Quests Interact|20}} (Smash the Seamrock)\n:'''Fratello:''' Whoa! It's you! Come on, let's get stronger together!\n:{{DIcon}} Why are you so driven to become stronger?\n:{{DIcon}} You're already strong enough.\n:'''Fratello:''' The reason doesn't matter! All that matters is I'm not there yet!\n:'''Fratello:''' Haha, I see what you're doing ― you've never given it your all against me, have you? That simply won't do!\n:'''Fratello:''' Come accept my challenge!\n----\n{{Icon/Quest|Quests Interact|20}} (Smash the Seamrock)\n:'''Fratello:''' Hey, we meet again! Ready? The challenge starts now!\n:'''Rover:''' You mentioned you have an older brother, right?\n:'''Fratello:''' That's right, the name's Fratellone! He's out there looking for the [[Nightmare Clouds]], something about conquering his fears.\n:'''Fratello:''' Fratellone used to be famous in town for his bravery! But ever since the Dark Tide, he's been plagued by nightmares and has become incredibly cautious.\n:'''Fratello:''' I know it's because he's so afraid of losing me and our younger brother!  In the end, it all comes down to me not being strong enough. Enough talking, let's go!\n----\n{{Icon/Quest|Quests Interact|20}} (Smash the Seamrock)\n:'''Fratello:''' This aura... you seem stronger now! Amazing!\n:'''Rover:''' Is your younger brother out there training too?\n:'''Fratello:''' That's right! My Fratellino―he said he was going out to collect some documents or what. I wonder if he's taking good care of himself.\n:'''Fratello:''' When the Dark Tide hit, we lost our parents and our house. He's always blamed himself for our parents' deaths. No matter how much we tried to comfort him, it never made a difference and he grew up scatterbrained. \n:'''Fratello:''' Honestly, it's my fault. If I'd been stronger back then... Well, enough talk, let's go!\n----\n{{Icon/Quest|Quests Interact|20}} (Smash the Seamrock)\n:'''Fratello:''' Ah, here you are!\n:'''Fratello:''' This is the final challenge, world's strongest! With defeating you as my goal, my training has progressed faster than expected. But I know I'm still far from your level, right?\n:'''Fratello:''' Arfter all, (Name), you are the Rover, the great hero who saved Jinzhou. Your reputation has spread even to these  distant mountains.\n:'''Fratello:''' So, if I can't become as strong as you, I might still fail to protect my brothers during a disaster, right?\n:{{DIcon}} ...\n:{{DIcon}} You are strong enough.\n:'''Fratello:''' Come on, this is the final challenge!\n\n:'''Fratello:''' As expected, I still have a long way to go.\n:'''Fratello:''' Am I getting ahead of myself? I encouraged my brothers to join the Pioneer Association, yet I lack the strength to protect them from danger...\n:{{DIcon}} You've got this!\n:{{DIcon}} You can do it, Fratello!\n:'''Fratello:''' Are you saying that despite my weakness, I can still keep moving forward?\n:'''Fratello:''' How enlightening! I'd say you're not just the strongest, but also the smartest. I'll head back to Egla Town to meet my brothers. See you!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fratello\n|zhs  = 沃德尔戈\n|zht  = 沃德爾戈\n|ja   = ウォードジロウ\n|ko   = 오드레골\n|es   = Fratello\n|fr   = Fratello\n|de   = Fratello\n}}\n\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Echo Challenge: Flight",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Echo Challenge: Plushie Punch",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "6"
+    }
+  ]
+}

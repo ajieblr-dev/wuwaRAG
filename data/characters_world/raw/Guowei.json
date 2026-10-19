@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:49Z",
+  "title": "Guowei",
+  "pageid": 23436,
+  "wikitext": "\n{{NPC Infobox\n|image            = NPC Guowei.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Huaxu Academy\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Guowei''' is a researcher in [[Huaxu Academy]]. He sorts information in the Archive Room of the academy.\n\n==Quests and Events==\n{{Quests and Events|Guowei}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Guowei:''' Wow, a visitor in the archives! This place is usually so boring.\n:{{DIcon}} What is the Archive Room?\n:'''Guowei:''' In other words, if the Huaxu Academy is like Jinzhou's main library, then the archives are like the library within that library.\n:'''Guowei:''' Everything about this academy can be found here. There's nothing about it that I don't know.\n:'''Guowei:''' Did you come here with any questions?\n:{{DIcon|Arrow}} Tell me more about the Academy.\n::'''Guowei:''' You're in luck because I'm here every day sorting out info, so I know the Huaxu Academy inside out.\n::'''Guowei:''' Huaxu Academy is Jinzhou's research center, a branch of Huanglong Huaxu Academy, and a respected academic institution.\n::'''Guowei:''' Huaxu Academy, the heart of Jinzhou's research, is a branch of the esteemed Huanglong Huaxu Academy, and a respected academic institution.\n::'''Guowei:''' There are various departments, including the Department of Anomaly Studies, the Department of Laboratory Evaluation, the Department of Safety, and the Department of Resources. Occasionally, a Special Project Team is also established.\n::'''Guowei:''' Every department at Huaxu Academy is at the forefront of research. Pretty impressive, right?\n:{{DIcon|Exit}} Let's talk next time.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Guowei\n|zhs  = 郭围\n|zht  = 郭圍\n|ja   = 郭囲（カクイ）\n|ko   = 곽위\n|es   = Guowei\n|fr   = Guowei\n|de   = Guowei\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:54Z",
+  "title": "Heron Wetland",
+  "pageid": 6019,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Heron Wetland\n|image=Heron Wetland.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Whining Aix's Mire\n}}\n'''Heron Wetland''' is an area of [[Whining Aix's Mire]], [[Huanglong]]. \n\n==Other Languages==\n{{Other Languages\n|en   = Heron Wetland\n|zhs  = 羽鹭湿地\n|zht  = 羽鷺濕地\n|ja   = {{Rubi|鷺|サギ}}の湿地\n|ko   = 왜가리 습지\n|es   = Humedal de la Garza\n|fr   = Marais des hérons\n|de   = Gefallenes Grab\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

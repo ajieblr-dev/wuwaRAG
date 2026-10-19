@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:15Z",
+  "title": "Kernel Puppet: Joy",
+  "pageid": 42384,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n |name=Kernel Puppet: Joy\n |title=\n |image=Kernel Puppet Joy Icon.png\n |dmgtype=Physical\n |weakpoint=Unknown\n |echo=Yes\n |class=Common\n |family=Tacet Discord\n |group=Autopuppet\n |nation=Huanglong\n |region=Mengzhou\n |subregion=\n |drops=\n |nightmare=No\n}}\n{{Description|A versatile Autopuppet that carries an abundance of emotions. It traverses the Land of Xuanfang in ever-changing forms, carrying out the command to wipe out Tacet Discords.}} \n{{Intro/Enemy}} \n\n==Drops== \n{{Drops|Common Autopuppet}}\n\n==Stats==\n{{Enemy Stats|Kernel Puppet: Joy}}\n\n==Trophies==\n{{Trophies|Kernel Puppet: Joy|customheader=Kernel Puppet: Joys}}\n\n==Description==\n{{Description|As the Kernel Puppet is the most widely produced and versatile Autopuppet across Xuanfang, it is said that [[Hsin]] the Moon Fox was directly involved in its development.\u003cbr\u003eAs a result, the Kernel Puppets are heavily influenced by Hsin's abundant emotions, giving rise to six separate forms of Autopuppets, thus enabling them to deal with all sorts of Tacet Discords.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en  = Kernel Puppet: Joy\n|zhs = 金庭候\n|zht = 金庭候\n|ja  = 金鉄の庭候\n|ko  = 금정후\n|fr  = Piquet d'or\n|de  = Gold-Hofposten\n|es  = Guardián de Bronce\n|th  = Kernel Puppet: Joy\n|pt  = Marquês Dourado\n}}\n\n==Change History==\n{{Change History|3.5}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

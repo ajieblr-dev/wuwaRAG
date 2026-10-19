@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:08Z",
+  "title": "Daler",
+  "pageid": 38991,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Daler.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = \n|affiliation      = Rabelle College\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Daler''' is a NPC male student who is seeking advice from another [[Startorch_Academy#Rabelle_College|Syncronist]], '''Phayari''', at night next to the [[Tactical Hologram: Synchronization]].\n\n{{Dialogue Start}}\n==Idle==\n:'''Daler:''' Please, I'm begging you! Tell me how you got better!\n:'''Daler:''' I'll do whatever it takes to raise my sync rate!\n\n==Dialogue==\n:'''Daler:''' Please, I'm begging you! Tell me how you got better! I'll do whatever it takes to raise my sync rate!\n:'''Phayari:''' Alright, calm down. The professor confiscated a bunch recently, and the [[Spacetrek Archive]] pulled them too... but I just happen to have a copy.\n:'''Daler:''' ...Wait, is it some top-secret training plan? Classified doc? Am I gonna get expelled?!\n:'''Phayari:''' Take a closer look. From here on out, we're partners in crime.\n:'''Daler:''' Ahhh, I'm not looking! I'm not—Wait, what's this? \"One Punch Rover\" ...?\n:'''Phayari:''' Yep. The school pulled the series when the license expired. No idea when they'll renew it.\n:'''Daler:''' \"...Complete 100 push-ups, 100 sit-ups, 100 squats, and a 10-kilometer run every day...\"\n:'''Phayari:''' Shh! Keep it down! If this leaks, we might actually get a cease-and-desist!\n{{Dialogue End}}\n\n==Trivia==\n* This references the web comic/manga/anime; '''One Punch Man'''.\n* School and Academies are required to obtain licenses for copyrighted materials to be used for fair use.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Daler\n|zhs  = 达勒\n|zht  = 達勒\n|ja   = デイル\n|ko   = 달러\n|fr   = Daler\n|de   = Daler\n|es   = Daler\n|th   = Daler\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

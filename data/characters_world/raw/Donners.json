@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:13Z",
+  "title": "Donners",
+  "pageid": 62899,
+  "wikitext": "{{NPC Infobox\n|name=Donners\n|nation=Lahai-Roi\n|location=Startorch Academy - Square\n|affiliation=Startorch Academy}}\n\n{{Quote|Ah, youth...|Donners}}\n\n'''{{PAGENAME}}''' is a NPC professor who can be found during the day, looking over the Academy's Garden. \n\n{{Dialogue Start}}\n==Idle==\n:;(Nearby Idle)\n:;The Dorm Guarding Fanclub, the School Support Staff Society, the Royan Folk Dance Revival Club... \n:;How is Denia on the attendance roster for literally every single one? \n\n:;Professor, I'd like to file a complaint against that last club… we Roya never dance like that.\n\n:'''Donners''' Ah, youth...\n\n== Dialogue ==\n:'''Donners:''' Are you a new student? I don't think I've seen you around before.\n:{{DIcon}} Yep.\n:{{DIcon}} How did you know...?\n::'''Donners:''' Haha, I've been teaching here for a long time. I remember every face that comes through these halls.\n:'''Donners:''' New students are always full of curiosity. Some chat up anyone who'll listen, trying try to map the place out.\n:'''Donners:''' Then a couple of years pass, and they're buried in academic problems with hardly any free time.\n:'''Donners:''' But when they're about to graduate, those kids...\n:'''Donners:''' They're just as lost as when they first arrived, but the look in their eyes and the way they carry themselves are completely transformed.\n:'''Donners:''' Maybe that kind of change marks the passing of something. Maybe it's \"youth\"... Ha...\n:'''Donners:''' \n----\n;After {{Quest|Starlights from Yesterdays}}\n:'''Donners:''' Ah, if it isn't our rising star. Thank you for your bravery out there.\n:{{DIcon}} How did you know...?\n:'''Donners:''' Haha, curiosity isn't the exclusive remit of students. A seasoned professor like me keeps an eye on the news.\n:'''Donners:''' The whole campus is talking about you. \"Dark Thunderbolt,\" \"Voidworm Rider\"... You're a fine example for everyone.\n:'''Donners:''' Even the freshmen seemed less lost. Of course, you can still see the exhaustion in their eyes, but there's more determination now, too.\n:'''Donners:''' Everyone in Startorch Academy knows that a Void Storm may strike at any time, and that one day we'll have to face the enemy beyond the Stridergate.\n:'''Donners:''' Still, most people panic when everything comes crashing down. And when a torchbearer appears to lead the charge, they earn our admiration and trust.\n:'''Donners:''' In time, others will follow, stepping onto the front lines themselves. That journey, that transformation, maybe that's what \"youth\" is really about.\n{{Dialogue End}}\n\n== Other Language ==\n{{Other Languages\n|en   = Donners\n|zhs  = 唐纳斯\n|zht  = 唐納斯\n|ja   = ドナース\n|ko   = 도나스\n|fr   = Donners\n|de   = Donners\n|es   = Donners\n|th   = Donners\n}}\n== Change History ==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Language",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

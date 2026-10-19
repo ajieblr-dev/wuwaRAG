@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:39Z",
+  "title": "Fuling",
+  "pageid": 26770,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = NPC Fuling.png\n|type             = Quest\n|type2            = \n|nation           = Huanglong\n|affiliation      = Pioneer Association\n|relative         = Wuli\n|relativeNote     = Boyfriend\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}'''Fuling''' is an NPC that first appears in {{Quest|Immortal Blaze}}. She can later be seen near [[Burrata Bakery]] in [[Whisperwind Haven]], [[Rinascita]].\n==Dialogue==\n{{Dialogue Start}}\n;(Idle)\n:'''[[Wuli]]:''' Fuling, check out this book.\n:'''Fuling:''' Fascinating...\n----\n;(Talk to Fuling)\n:'''Fuling:''' Hi {{Rover}}, it's been a while.\n:{{DIcon}} Isn't it Fuling and Wuli?\n:{{DIcon}} Hello! What brings you two here?\n:{{DIcon}} How are you holding up?\n:'''Fuling:''' Thanks to you and Changli, I'm feeling much better now. I can even walk around a bit.\n:'''Fuling:''' And I still want to explore more places and see different views.\n:'''Wuli:''' And I will never let her do that alone.\n:'''Wuli:''' Rinascita has always been on our list. Fuling talked about painting the sunset in [[Ragunna City]] and visiting the Salotto Open Air Gallery.\n:'''Fuling:''' But I'm still not fit enough to walk a long way, so I was thinking maybe I could enjoy the scenery through pictures and paintings.\n:'''Fuling:''' As we planned for it, we found some books scattered around Ragunna. But it's impossible for us to find them all, which is a bit of a letdown...\n:{{DIcon}} I've got some books here.\n:{{DIcon}} I can help you.\n:'''Fuling:''' Well, we'd be immensely grateful! If you come across any illegible pages, feel free to show them to me.\n:'''Fuling:''' I've studied the language of Rinascita before, so I can help interpret them.\n:'''Wuli:''' Can't wait to hear your update, {{Rover}}. We'll have a reward ready while you search.\n{{Dialogue End}}\n==Quests and Events==\n{{Quests and Events}}\n==Other Languages==\n{{Other Languages\n|en   = Fuling\n|zhs  = 伏翎\n|zht  = 伏翎\n|ja   = 伏翎（フレイ）\n|ko   = 복령\n|es   = Fuling\n|fr   = Fuling\n|de   = Fuling\n}}\n==Change History==\n{{Change History|1.1}}\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

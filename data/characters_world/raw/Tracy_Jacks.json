@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:49Z",
+  "title": "Tracy Jacks",
+  "pageid": 10167,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Tracy Jacks.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Tracy Jacks''' is an NPC in {{Location|Huanglong}}.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Tracy Jacks\n|zhs  = 氚疝钾\n|zht  = 氚疝鉀\n|ja   = 川山甲（センザンコウ）\n|ko   = 트리튬\n|es   = Tracy Jacks\n|fr   = Tritium Samarium Potassium\n|de   = Tracy Jacks\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

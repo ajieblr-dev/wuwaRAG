@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:37Z",
+  "title": "Fractsidus Ripper",
+  "pageid": 40207,
+  "wikitext": "{{Enemy Infobox\n|name      = Fractsidus Ripper\n|image     = Fractsidus Ripper Icon.png\n|dmgtype   = \n|weakpoint = \n|echo      = No\n|class     = Common\n|family    = \n|group     = Fractsidus\n}}\n{{Description|A prized creation of the Fractsidus, fusing a set of vicious claws with the essence of a Tacet Discord with New Federation technologies.}}\n{{Intro/Enemy}} \n\n==Drops== \n{{Drops|Common Fractsidus}} \n\n==Stats==\n{{Enemy Stats|Fractsidus Ripper}}\u003c!--\n\n==Abilities==--\u003e \n\n==Trophies==\n{{Trophies|Fractsidus Ripper|customheader=Fractsidus Ripper}} \n\n==Description==\n{{Description|A prized creation of the Fractsidus.\u003cbr\u003e\u003cbr\u003eUsing New Federation technology, they have fused a set of vicious claws with the essence of a Tacet Discord, creating a weapon of cruelty capable of strangling its prey before slicing them apart.\u003cbr\u003e\u003cbr\u003eYet, all transcendence comes at a price. Those who embraced this creation have become thralls to their own design, leaving behind nothing but hollow shells.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Fractsidus Ripper\n|zhs  = 残星·扼拊爪匠\n|zht = 殘星·扼拊爪匠\n|ja  = フラクトシデス・クローマイスター\n|ko  = 잔성 · 클로마스크\n|es  = Fractsidus: Garra vil\n|fr  = Lacératrice des Fractsidus\n|de  = Fractsidus: Zerreißerin\n|th  = Fractsidus Ripper\n}}\n\n==Change History==\n{{Change History|3.2}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

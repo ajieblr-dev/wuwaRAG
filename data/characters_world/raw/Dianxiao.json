@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:11Z",
+  "title": "Dianxiao",
+  "pageid": 20545,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Dianxiao.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Dianxiao''' is an NPC in {{Location|Jinzhou}}.\n\nDuring the event [[By Moon's Grace]], Dianxiao is an NPC in [[Taoyuan Vale]] for the [[Fan Drawing Stall]].\n\u003c!---==Location==\n{{Map Embed|Taoyuan Vale|Dianxiao}}---\u003e\n\n==Quests and Events==\n{{Quests and Events|Dianxiao}}\n\n==Dialogue==\n===Event Dialogue===\n====By Moon's Grace====\n{{Dialogue Start}}\n;(First interaction)\n:'''Dianxiao''': The brushwork is exquisite...\n:'''Dianxiao''': Oh, hello! Interested in painting your own fan? What shape would you like?\n:{{DIcon}} What types of fans do you have?\n::'''Dianxiao''': We have round fans and folding fans available.\n:{{DIcon}} Can I really paint a fan myself?\n::'''Dianxiao''': Absolutely! Many quests have created their own fan as a special keepsake.\n:'''Dianxiao''': The Huaipu Mining Firm sponsors this fan drawing stall to showcase Jinzhou's unique fan art.\n:'''Dianxiao''': Imagine meeting some renowned painters here? Oh, what a treat!\n:'''Dianxiao''': Mesmerizing landscapes and delicate wildlife... you can draw anything on a fan.\n:'''Dianxiao''': I wonder what thoughts inspire the painters as they create.\n:'''Dianxiao''': Anyway, please take your time to choose. Enjoy the selection process!\n----\n:'''Dianxiao''': Would you prefer landscapes or calligraphy on your fan? \n:{{DIcon}} Chat\n::'''Dianxiao''': You see, the brushstrokes in this landscape captures the essence of these towering mountains with such precision.\n::'''Dianxiao''': My uncle used to say that mastering just one aspect of a painting takes a lifetime.\n::'''Dianxiao''': Now I see what he meant.\n::'''Dianxiao''': I guess I'll have the chance to appreciate more artwork at this year's Fair.\n:{{DIcon|Exit}} Leave\n==Other Languages==\n{{Other Languages\n|en   = Dianxiao\n|zhs  = 点晓\n|zht  = 點曉\n|ja   = 点暁（テンギョウ）\n|ko   = 민효\n|es   = Dianxiao\n|fr   = Dianxiao\n|de   = Dianxiao\n}}\n\n==Change History==\n{{Change History|1.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Dialogue",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "By Moon's Grace",
+      "number": "2.1.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "6"
+    }
+  ]
+}

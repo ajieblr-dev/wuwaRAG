@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:31Z",
+  "title": "Adalbert",
+  "pageid": 28014,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Adalbert.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Order of the Deep (Area)\n|group            = \n|affiliation      = \n|title            = \n|status           = Alive\n}}\n'''Adalbert''' is a male NPC who can be found praying to the [[Sentinel]] statue underneath the [[Cathedral of Mercury]] in {{Location|Ragunna City}} during the day.\n\n{{Dialogue Start}}\n==Idle==\n:'''Adalbert:''' O dear Sentinel, please calm the furious sea and guide us safely home...\n\n==Dialogue==\n;(First interaction)\n:'''Alberto:'''{{sic}} O dear Sentinel, please calm the furious sea and guide us safely home...\n:{{DIcon}}: Dear Sentinel...\n::'''Alberto:''' It seems this is your first time performing the Tide Prayer Rite. I can tell from your slightly awkward movements and the look of uncertainty on your face.\n:{{DIcon}}: What can be sought from the Sentinel?\n::'''Alberto:''' This is Ragunna's famous Tide Prayer Rite. Sailors pray here for calm seas before long voyage.\n:'''Alberto:''' Legend has it, that the Sentinel has calmed countless storms, saved lives at sea, and guided people out of the worldly ocean...\n:'''Alberto:''' Hey! Come on! Let me teach you a trick! When a storm looms, hold a sword or dagger to your chest, then make a motion as if cleaving the storm in two...\n:{{DIcon}}: Can I summon the Sentinel like this?\n::'''Alberto:''' Of course not. This gesture is to invoke the Sentinel's power, helping us through the storm, and conquering the sea!\n:{{DIcon}}: Is this how I can ensure a more dignified sea burial?\n::'''Alberto:''' Ah, don't be so pessimistic. The sea isn't untamable{{sic}}! This gesture is to invoke the Sentinel's power, helping us through the storm, and conquering the sea!\n:'''Alberto:''' You're from a foreign land, so you might not fully understand...\n:'''Alberto:''' This simple gesture, however, can fill us with resolve and strength when facing the raging tides.\n:'''Alberto:''' In my view, this is the essence of faith.\n----\n;(Second interaction)\n:'''Alberto:''' When a storm approaches, remember to raise your sword. Hold it to your chest, then make a motion as if cleaving the storm...\n:'''Alberto:''' That simple gesture fills us with resolve and strength when facing the madness of the tides.\n----\n{{Spoiler}}\n;(First interaction after {{Quest|Dawn Breaks on Dark Tides}}\n:'''Adalbert:''' O dear Sentinel, please calm the furious sea and guide us safely home...\n:{{DIcon}} You're still saying that?\n:'''Adalbert:''' Haha, and why shouldn't I?\n:'''Adalbert:''' Only a rare few ever meet the Sentinel in person. Even if most of us never catch so much as a glimpse, we still live beneath Their blessings.\n:{{DIcon}} The Sentinel isn't coming back.\n::'''Adalbert:''' The Sentinel may be gone, but for a being so noble, Their return not impossible. {{sic}}\n:{{DIcon}} You sound so sure about it.\n::'''Adalbert:''' Of course I'm sure! And when They return, perhaps They'll see our devotion and appear upon the sea.\n:'''Adalbert:''' But even if the Sentinel never comes back... our resolve and strength must be enough to cleave through the raging tides and carry us to victory, again and again!\n----\n;(Talk again)\n:'''Adalbert:''' When a storm approaches, remember to raise your sword. Hold it to your chest, then make a motion as if cleaving the storm...\n:'''Adalbert:''' That simple gesture fills us with resolve and strength when facing the madness of the tides.\n:'''Adalbert:''' In my view, this is the essence of faith.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Trivia==\n*Adalbert name is of German origin, while Alberto is the Romance name of it.\n\n==Other Languages==\n{{Other Languages\n|en   = Adalbert\n|zhs  = 阿尔贝托\n|zht  = 阿爾貝托\n|ja   = アールベット\n|ko   = 알베르토\n|es   = Alberto\n|fr   = Adalbert\n|de   = Adalbert\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

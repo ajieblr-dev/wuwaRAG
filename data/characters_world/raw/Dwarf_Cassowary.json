@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:18Z",
+  "title": "Dwarf Cassowary",
+  "pageid": 23042,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Dwarf Cassowary\n|title=\n|image=Dwarf Cassowary Icon.png\n|dmgtype=Physical\n|weakpoint=\n|echo=Yes\n|class=Common\n|family= Tacet Discord\n|group=Howler\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A Common Class Howler TD. Despite its wings, it is entirely terrestrial and highly sensitive to the cold.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Howler}}\n\n==Stats==\n{{Enemy Stats|Dwarf Cassowary}}\n\u003c!--\n==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Dwarf Cassowary|customheader=Dwarf Cassowary}}\n\n==Description==\n{{Description|An endemic ratite-mimic TD inhabiting Mt. Firmament. Being flightless and non-hardy, it can only survive in areas below the mountain ridge.\nIts name has two etymological origins within the Huanglong language family. One stems from a description from the Hongzhen Chronicle: \"This ratite-mmic TD is plump and seemingly lack of intelligence.\"\n\nThe other is originated from the local dialect. Locals use the word to describe creatures that \"look dumb\".|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Dwarf Cassowary\n|zhs  = 侏侏鸵\n|zht  = 侏侏鴕\n|ja   = 地駝鳥\n|ko   = 피그미타조\n|es   = Casuario Enano\n|fr   = Casoar nain\n|de   = Zwergkasuar\n}}\n\n==Change History==\n{{Change History|1.1}} \n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

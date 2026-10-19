@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:26Z",
+  "title": "Lorenzo",
+  "pageid": 37101,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image       = Lorenzo.jpg\n|name        = Lorenzo\n|title       = Drama Maniac\n|type        = Quest\n|nation      = Rinascita\n|affiliation = Troupe of Fools\n\n\u003c!-- Family --\u003e\n|relative      = Leto\n|relativeNote  = Nephew\n|relative2     = Batti\n|relativeNote2 = Niece\n|relative3     = Gisle\n\n\u003c!-- VAs --\u003e\n|voiceEN = \n|voiceCN = \n|voiceJP = \n|voiceKR = \n}}\n'''Lorenzo''' is an [[NPC]] that first appears in {{Quest|The Best Audience}} and a member of the [[Troupe of Fools]].\n\n== Profile ==\nLorenzo was exiled by the [[Order of the Deep|Order]] and sent on the [[Pilgrim's Sail]] and never returned to his family, instead staying with the Troupe of Fools. During the Troupe's off-seasons he visits his home, [[Egla Town]], and has become known by the town's people as the \"Drama Maniac\", a person who dons a mask to share stories about the adventures of the [[Troupe of Fools]]. His niece, [[Batti]], and nephew, [[Leto]], often listen to the stories he tells.\n\nHe's often accompanied by [[Chalulu]], a [[Lottie Lost]] [[Common Echo]].\n\n== Quests and Events ==\n{{Quests and Events}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Lorenzo\n|zhs  = 洛伦佐\n|zht  = 洛倫佐\n|ja   = ロレンツォ\n|ko   = 로렌조\n|fr   = Lorenzo\n|de   = Lorenzo\n|es   = Lorenzo\n|th   = \n}}\n\n== Change History ==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

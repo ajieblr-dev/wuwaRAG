@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:56Z",
+  "title": "House Silva",
+  "pageid": 31852,
+  "wikitext": "{{Stub}}\n{{Faction Infobox\n|title        = House Silva\n|image        = \n|nation       = Rinascita\n|base         = [[Septimont]] (formerly)\n|leader       = Julia Silva\n|ally         = \n|enemy        = \n}}\n'''House Silva''' is one of the founding bloodlines of [[Septimont]] and a once prominent noble family, though their influence began waver with the rise of the new [[Augusta|Ephor]]. \n\nDuring the most recent [[Great Agon]] the household and their head, Julia Silva, take part in match fixing and go as far as to sabotage [[Lupa]]'s equipment in the semi-final match after she leaves the household's gladiator team. After their sabotage is brought to Ephor Augusta and confirmed by Priestess [[Iuno]] they are banished from Septimont.\n\nThe house sponsored the gladiator team \"Bough of Legions\", which previously consisted of Lupa and [[Emilio]] prior to Lupa leaving.\n\n== Glossary ==\n{{Description|The House Lupa fights for. One of Septimont's founding bloodlines, House Silva's roots once ran deep in the city's spire of influence. But with the rise of the new Ephor, such past glories have begun to wane.|Glossary Excerpt}} \n\n==Members==\n===Playable Resonators===\n{| class=\"article-table\"\n!Icon!!Member!!Position\n|-\n|[[File:Resonator Lupa.png|50px]]\n|[[Lupa]]\n|Gladiator \u003csmall\u003e(formerly)\u003c/small\u003e\n|} \n{{NPCs by Category List\n|House Silva\n|header = House Silva Members\n}}\n\n==Other Languages==\n{{Other Languages\n|en   = House Silva\n|zhs  = 西尔瓦家\n|zht  = 西爾瓦家\n|ja   = シルヴァファミリー\n|ko   = 실바 가문\n|es   = Casa Silva\n|fr   = Maison Silva\n|de   = Haus Silva\n}}\n\n==Navigation==\n{{Faction Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Glossary",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Playable Resonators",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "5"
+    }
+  ]
+}

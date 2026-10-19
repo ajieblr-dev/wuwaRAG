@@ -1,0 +1,114 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:20Z",
+  "title": "Sanhua",
+  "pageid": 588,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}} \n\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 4\n|class            = Mutant\n|weapon           = Sword\n|role             = Concerto Efficiency;Basic Attack DMG Amplification\n|attribute        = Glacio\n|releaseDate      = 2024-05-23 \n\n\u003c!-- Info --\u003e\n|name             = Sanhua\n|title            = Snow Waltz\n|gender           = Female\n|birthday         = January 20th\n|birthplace       = Huanglong\n|nation           = Huanglong\n|affiliation      = Jinzhou\n|affiliation2     = Jinzhou City Hall\n|sigil            = Falling Snow\n|dish             = Crystal Clear Buns\n|obtain           = \n\u003c!--Family--\u003e\n|relative         = Qiuyuan\n|relativeNote     = distant relative\n|relativeRef      = \u003cref\u003e[[Qiuyuan|Qiuyuan's]] Character Story: [[Qiuyuan/Backstory#Character Stories|Reforged]]\u003c/ref\u003e \n\n\u003c!-- VAs --\u003e\n|voiceEN          = {{w|Jennifer Armour|Jennifer Armour}}\u003cref name=\"Sanhua Bilibili\"\u003eBilibili: [https://www.bilibili.com/video/BV1Eh4y1D7Jm/ 《鸣潮》共鸣者「散华」展示PV丨初霁]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/宋媛媛 Song Yuanyuan ({{Lang|mini=1|zh=宋媛媛}})]\u003cref name=\"CN-VA_KGSanhua\"\u003eOfficial Website: [https://mc.kurogames.com/main#resonators 共鸣者 瑝珑 散华]\u003c/ref\u003e\n|voiceJP          = {{w|Risae Matsuda|Matsuda Risae ({{Lang|mini=1|ja=松田利冴}})}}\u003cref name=\"Sanhua Bilibili\"\u003e\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/유영(성우) Yooyoung ({{Lang|mini=1|ko=유영}})]\u003cref name=\"Sanhua Bilibili\"\u003e\u003c/ref\u003e\n}}\n{{Quote|Greetings, Rover. I will escort you for the time being.|Sanhua}}\n{{Intro/Resonator|Sanhua|lang=zh=散华}}\n\nShe is the loyal and reliable guard of Jinzhou Magistrate [[Jinhsi]] who perceives a world distinctly different from that in the eyes of others.\n\n==Official Introduction ==\n{{Quote|A loyal and reliable guard for Jinhsi, Sanhua is composed and reserved.\n\nSanhua perceives a world distinctly different from that in the eyes of others, and her body temperature is below normal\n\nHer Forte allows her to cool the surrounding air and conjure snow.\n\nTo maintain emotional stability and prevent Overclocking, Sanhua finds solace in the art of swordplay.\n\nThis allows her to master her Forte with graceful ease and alleviates the burden on her body.|[https://wutheringwaves.kurogames.com/en/main#resonators Her introduction on the Official Website.]\n}}\n\n==Combat Overview ==\n{{Main|Sanhua/Combat}}\n===Ascension Material===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Sanhua|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Sanhua\n|zhs     = 散华\n|zht     = 散華\n|ja      = {{Rubi|散|サン|華|カ}}\n|ko      = 산화\n|es      = Sanhua\n|fr      = Sanhua\n|de      = Sanhua\n}}\n\n== Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[ru:Сань Хуа]]\n[[Category:Female]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Material",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tutorial Quests",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

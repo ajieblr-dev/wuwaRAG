@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:43Z",
+  "title": "Nethermancers",
+  "pageid": 77427,
+  "wikitext": "{{Faction Infobox\n|title    = Nethermancer\n|image    = Nethermancer Jingran.jpg\n|leader   = \n|base     = \n|nation   = Huanglong\n|region   = Mengzhou\n}}{{Description|The Nethermancers are a mysterious, ancient order of explorers in Mengzhou.\u003cbr\u003eThey traverse all manner of Mirage Realms to cleanse threats and unearth relics from forgotten ruins, treading the edge between life and death.}}\n\n'''Nethermancers''' are a faction in [[Mengzhou]]. They are explorers who discover and cleanse [[Sonoro Sphere]]s (known as Mirage Realms in their circles) to prevent [[Tacet Discord]] outbreaks, and sell the ownerless relics they find inside.\n\n==Members==\n===Playable Nethermancers===\n{{Resonators by Category Table|Playable Resonators\u0026Nethermancer}}\n\n===Former Members===\n*[[Sandao]]\n\n==Annals of Huanglong: Walking Between Yin and Yang — Nethermancer==\nMortals are born to cross this world but once, from birth to death.\u003cbr\u003eYet Nethermancers tread the path between, moving through the shadows of yin and yang.\u003cbr\u003eMirage Realms, brimming with secrets, are lands where few dare to wander.\u003cbr\u003eEven if you glimpse the ancient relics hidden within within, only the bold can claim them. \n\nWhispers say Nethermancers are doomed by their glimpses of fate—\u003cbr\u003eFated to grasp everything except fulfillment.\u003cbr\u003e\u003cbr\u003eThose who choose this path become living vaults of uncanny talents, part seer, part ghost whisperer.\u003cbr\u003eNo lock or mechanism is too strange; they unravel mysteries with a mere flick of the wrist.\n\nYet, few realize their true mission: to purge the Mirage Realms of lurking dangers.\u003cbr\u003eIf reverberations are left unchecked, Tacet Discords will fester and consume all.\u003cbr\u003eAmong them, one stands out, bearing a lamp of ghostly flame, delving deep to sever lingering threats.\u003cbr\u003eThrough his tales, the world learns of secrets long buried and the eerie denizens of the netherworld.\u003cbr\u003e\u003cbr\u003eShould you ever find yourself lost in wonder, drawn by a glimmer of blue fire—\u003cbr\u003eFollow its glow. It may be your only hope of survival.\n\n==Gallery==\n\u003cgallery\u003e\nFile:Annals of Huanglong Nethermancer 01.jpg\nFile:Annals of Huanglong Nethermancer 02.jpg\nFile:Annals of Huanglong Nethermancer 03.jpg\nFile:Item Qingfu Pendant.png|[[Qingfu Pendant]]\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Nethermancer\n|zhs  = 寻幽客\n|zht  = 尋幽客\n|ja   = 尋幽客\n|ko   = 유람객\n|fr   = Mage de l'outre-monde\n|de   = Unterweltwandler\n|es   = Nigromante\n|th   = ผู้ท่องปรภพ\n|pt   = Inframante\n}}\n\n==Navigation==\n{{Faction Navbox}}\n\n[[zh:寻幽客]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Playable Nethermancers",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Former Members",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Annals of Huanglong: Walking Between Yin and Yang — Nethermancer",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "7"
+    }
+  ]
+}

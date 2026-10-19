@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:10Z",
+  "title": "Yeye",
+  "pageid": 5322,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Yeye.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = \n|title            = Yuanwu Boxing Gym Assistant\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Yeye''' is an NPC in {{Location|Jinzhou}}.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Yeye:''' Tell you what, Mister [[Yuanwu]]'s got really awesome boxing moves!\n:'''Yeye:''' See these muscles? I bet you wouldn't even believe it if I told you I used to get sick all the time back in the day. I wouldn't even be here if it weren't for my bigger brother looking after me.\n:'''Yeye:''' He joined the [[Midnight Rangers|Rangers]] after I got older, so I went ahead to take boxing lessons from Mister Yuanwu, and he'd offer me Trine Tea after each session. Man, boxing really gets your body going!\n:{{DIcon}} Can't say no to that.\n:'''Yeye:''' Hehe. I need to put in some more practice, that way one day I can be just as strong as that girl [[Jianxin]]!\n:'''Yeye:''' And by then, I'll be the one that's protecting my brother!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yeye\n|zhs  = 夜夜\n|zht  = 夜夜\n|ja   = 夜夜（ヨヨ）\n|ko   = 비비\n|es   = Yeye\n|fr   = Yeye\n|de   = Yeye\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

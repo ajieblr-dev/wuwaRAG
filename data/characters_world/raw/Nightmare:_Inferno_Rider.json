@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:50Z",
+  "title": "Nightmare: Inferno Rider",
+  "pageid": 31832,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Nightmare Enemy Infobox\n|name      = Nightmare: Inferno Rider\n|image     = Nightmare Inferno Rider Icon.png\n|dmgtype   = Fusion\n|nation    = Rinascita\n|variants  = Inferno Rider; Tactical Hologram: Inferno Rider\n|class     = Overlord\n}}\n==Other Languages==\n{{Other Languages\n|en   = Nightmare: Inferno Rider\n|zhs  = 梦魇・燎照之骑\n|zht  = 夢魘・燎照之騎\n|ja   = ナイトメア・燎原の炎騎\n|ko   = 악몽 ・ 지옥불 기사\n|es   = Pesadilla: Jinete Infernal\n|fr   = Cauchemar : Chevalier d'Inferno\n|de   = Albtraum: Höllischer Reiter\n}}\n\n==Change History==\n{{Change History|2.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

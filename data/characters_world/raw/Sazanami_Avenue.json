@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:20Z",
+  "title": "Sazanami Avenue",
+  "pageid": 38142,
+  "wikitext": "{{Location Infobox\n|image        = Sazanami Avenue.png\n|type         = Area\n|nation       = The Black Shores\n|region       = Chronorift Metropolis\n}}\n'''Sazanami Avenue''' is an [[Area]] located in [[Chronorift Metropolis]].\n\n==NPCs==\n{{NPCs by Location List|Sazanami Avenue}} \n\n==Other Languages==\n{{Other Languages\n|en   = Sazanami Avenue\n|zhs  = 细波大道\n|zht  = 細波大道\n|ja   = さざなみ通り\n|ko   = 사자나미 거리\n|fr   = Avenue Sazanami\n|de   = Sazanami-Allee\n|es   = Avenida Sazanami\n|th   = ถนนซาซานามิ\n}} \n\n==Change History==\n{{Change History|2.8}} \n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

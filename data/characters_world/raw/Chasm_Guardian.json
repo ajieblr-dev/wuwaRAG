@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:56Z",
+  "title": "Chasm Guardian",
+  "pageid": 23066,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Chasm Guardian\n|title=\n|image=Chasm Guardian Icon.png\n|dmgtype=Havoc\n|weakpoint=The Tacecrux on the chest of the Chasm Guardian is its weak point. Attack it with pistols to deal high amounts of damage.\n|echo=Yes\n|class=Elite\n|family= Tacet Discord\n|group= Whisperin\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|An Elite Class Whisperin TD with a humanoid appearance. With a colossal size like a fortification, it is usually spotted in the wild.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Elite Whisperin}}\n\n==Stats==\n{{Enemy Stats|Chasm Guardian}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Chasm Guardian|customheader= the Chasm Guardian}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Havoc damage}}.\u003cbr/\u003eA tall TD guardian. Its figure resembles a huge boulder from the abyssal depths. \u003cbr /\u003eDespite its appearance of an indestructible fortification, the nature of Chasm Guardian is never to protect, but to crush any obstacle that blocks its advance.\"|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en      = Chasm Guardian\n|zhs     = 冥渊守卫\n|zht     = 冥淵守衛\n|ja      = 冥淵の守り手\n|ko      = 심연의 위병\n|es      = Guardián del Abismo\n|fr      = Gardien de l'abîme\n|de      = Abgrundwächter\n}}\n\n==Change History==\n{{Change History|introduced=1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

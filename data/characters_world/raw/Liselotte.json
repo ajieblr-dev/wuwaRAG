@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:25Z",
+  "title": "Liselotte",
+  "pageid": 36756,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Septimont\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC female Huanglong tourist accompanied by her companion, '''Gregor'''. They're found by a famous fountain in [[Capitoline Hill City]] that was used in a romance film.\n\n{{Dialogue Start}}\n==Dialogue==\n;(Idle nearby)\n:;All right, everyone. This fountain right in front of us is the crown jewel of the square.\n:;A critically acclaimed romance film once took a scene here, making this fountain a popular tourist attraction ever since.\n:;Oh yeah, that one about the daughter of a Septimont noble falling in love with a foreign reporter, right? I didn't know this was where they filmed it!\n\n;(Day)\n:'''Gregor:''' Yes. Up. Down a little, maybe? More to the left. Or is it the right? Is it hands raised or lowered?\n:'''Lieselotte:''' Ugh, I told you to do it like in the film. I even showed you the exact scene.\n:'''Lieselotte:''' Don't just stand there and shout directions. Do you have the filter on? How's the lighting? Hurry up. There's a line waiting. Don't mess it up!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lieselotte\n|zhs  = 莉丝洛特\n|zht  = 莉絲洛特\n|ja   = リスロット\n|ko   = 리젤로테\n|fr   = Lieselotte\n|de   = Lieselotte\n|es   = Lieselotte\n|th   = Lieselotte\n|pt   = Lieselotte\n}}\n\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

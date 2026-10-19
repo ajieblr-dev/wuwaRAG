@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:50Z",
+  "title": "He'mu",
+  "pageid": 8924,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{NPC Infobox\n|name             = He'mu\n|image            = NPC He'mu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Taoyuan Vale\n|group            = \n|affiliation      = \n|title            = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''He'mu''' is an NPC in {{Location|Taoyuan Vale}}.\n\u003c!--\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n\n==Quests and Events==\n{{Quests and Events|{{subst:#titleparts:{{subst:PAGENAME}}}}}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''He'mu:''' Hey, see that big peach tree over there? That's the symbol of Taoyuan Vale.\n:'''He'mu:''' Flowers can be brewed into flower wine, and fruits can be picked and made into fruit preserves...\n:{{DIcon}} Keep talking about food, aren't you?\n:'''He'mu:''' ...Ahem, there's more to it!\n:'''He'mu:''' The famous Liondancer [[Lingyang]] from the city comes to Taoyuan Vale every year for secluded training!\n:'''He'mu:''' Peach blossoms fluttering down, lions dancing with the wind... Nothing is more beautiful than this.\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = He'mu\n|zhs  = 禾木\n|zht  = 禾木\n|ja   = 禾木（カボク）\n|ko   = 화목\n|es   = He'mu\n|fr   = He'mu\n|de   = He'mu\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

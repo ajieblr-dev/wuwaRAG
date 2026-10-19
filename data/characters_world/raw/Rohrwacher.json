@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:13Z",
+  "title": "Rohrwacher",
+  "pageid": 27260,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Rohrwacher.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Order of the Deep (Area)\n|group            = \n|affiliation      = Fisalia Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Rohrwacher''' is a cautious Fisalia member [[NPC]] who appears outside the [[Cathedral of Mercury]]. He can be seen standing next to an [[Abyssal Mercator]] at the lounge area from 6:00 AM to 5:59 PM and underneath the Cathedral by the [[Sentinel]] statue at 6:00 PM to 5:59 AM.\n\n==Quests and Events==\n{{Quests and Events}}\n\n{{Dialogue Start}}\n==Idle==\n;(At night, by the Sentinel statue underneath the Cathedral)\n:'''Rohrwacher:''' Hail Imperator-\n:'''Rohrwacher:''' You who watch over Ragunna at all times, overseeing the people of Ragunna.\n:'''Rohrwacher:''' I have an audacious request- please, look up, look up at the Order sitting on you.\n:'''Rohrwacher:''' Ah, why won't you look up? Is it that you don't wish to, or that you simply can't? Ahahahahaha..\n:'''Rohrwacher:''' ...O Imperator... You are not the Imperator I remembered. \n----\n;{{Spoiler}}\n;(After {{Quest|Dawn Breaks on Dark Tides}}\n:'''Rohrwacher:''' Hail Imperator—\n:'''Rohrwacher:''' So you have already perished. Your gaze no longer watches over the people of Ragunna.\n:'''Rohrwacher:''' You cannot look upon the Order, nor can you watch over your people.\n:'''Rohrwacher:''' Haha... Hahahaha...\n:'''Rohrwacher:''' O Imperator! Let us offer you a solemn, eternal farewell!\n\n==Dialogue==\n:'''Rohrwacher:''' My friend from afar, I see you're getting close to the Montellis.\n:{{DIcon}} How did you know?\n:'''Rohrwacher:''' Even though Fisalia has been quiet, we still have ears everywhere.\n:'''Rohrwacher:''' But I want to give you a heads-up—don't trust them too much.\n:'''Rohrwacher:''' They're driven by money, measuring everything by what it's worth, even \"talent\" is just another commodity in their eyes, something to be stored in their vault.\n:'''Rohrwacher:''' They don't share the deep family values and bonds we cherish. A tower built on gold isn't just unrespectable; it's also fragile and prone to fall apart.\n:{{DIcon}} But the people I know from the Montelli family don't seem to think that way...\n:'''Rohrwacher:''' It's best to keep your distance. Getting caught up in our drama isn't worth it. You should always look after your own interests.\n:'''Rohrwacher:''' We all have roles we must see through, but you shouldn't be part of the play, nor just a spectator in the audience.\n:'''Rohrwacher:''' You should go behind the scenes and find the one who's pulling the strings.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Rohrwacher\n|zhs  = 洛尔瓦彻\n|zht  = 洛爾瓦徹\n|ja   = ロールワチャー\n|ko   = 로르와처\n|es   = Rohrwacher\n|fr   = Rohrwacher\n|de   = Rohrwacher\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

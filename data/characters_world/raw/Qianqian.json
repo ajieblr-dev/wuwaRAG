@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:04Z",
+  "title": "Qianqian",
+  "pageid": 5992,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Qianqian.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Lake Heights\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Qianqian''' is a female NPC found at Knell Square in {{Location|Lake Heights}}. \n\n==Dialogue==\n{{Dialogue Start}}\n:'''Qianqian:''' [[Huaijin]], please be alright...\n:{{DIcon}} Who is this Huaijin to you?\n:'''Qianqian:''' Huaijin, Huaijin is my... uh, my childhood friend!\n:'''Qianqian:''' I haven't heard from him since I last saw him.\n:'''Qianqian:''' He said he was going to join the Midnight Rangers, but his name wasn't on the recruit list...\n:'''Qianqian:''' And now I can't reach him at all... Did something happen to him?\n:{{DIcon}} Don't worry, I'm sure he's fine.\n:'''Qianqian:''' Maybe he's fine... Yeah, he's fine, he's fine.\n:'''Qianqian:''' I come every day to check. If Huaijin's name's not here, he must be fine.\n----\n;(After talking to Huaijin)\n:'''Qianqian:''' Oh, I wonder if Huaijin is doing okay...\n:{{DIcon}} I saw him. He's fine.\n:'''Qianqian:''' Really?! Is he okay? Where is he now? Why hasn't he come back?\n:{{DIcon}} He's working at the mine. It's... pretty demanding work.\n:'''Qianqian:''' Oh, really? That's a relief! He's okay, thank goodness.\n:'''Qianqian:''' But how could that boy be so busy with work that he didn't even notice when I called... Doesn't seem like him.\n:'''Qianqian:''' Anyway, thanks for telling me!\n----\n;(Talk to Qianqian again)\n:'''Qianqian:''' I need to find Huaijin... I have to see him.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Qianqian\n|zhs  = 芊芊\n|zht  = 芊芊\n|ja   = 芊ちゃん\n|ko   = 가영\n|es   = Qianqian\n|fr   = Qianqian\n|de   = Qianqian\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

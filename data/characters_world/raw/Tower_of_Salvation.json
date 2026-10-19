@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:49Z",
+  "title": "Tower of Salvation",
+  "pageid": 31626,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Tower of Salvation\n|image=Tower of Salvation.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Avinoleum\n}}\n{{quote|The mortal world is a vast and mysterious ocean, wherein all souls are doomed to drown and sink to the depths. Those who refuse to be swallowed must learn to rise, climbing upward until their heads break the surface. Only then shall they glimpse the realm of the divine.}}\n\n'''Tower of Salvation''' is an area of [[Avinoleum]], [[Rinascita]]. \n\n\n==Other Languages==\n{{Other Languages\n|en   = Tower of Salvation\n|zhs  = 拯救之塔\n|zht  = 拯救之塔\n|ja   = 救済の塔\n|ko   = 구원의 탑\n|es   = Torre de la Salvación\n|fr   = Tour de\u0026nbsp;Salut\n|de   = Turm der Erlösung\n}}\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

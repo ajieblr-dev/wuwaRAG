@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:19Z",
+  "title": "Lady of the Sea",
+  "pageid": 35717,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Lady of the Sea\n|title     = Embers of Glory\n|image     = Lady of the Sea Icon.png\n|dmgtype   = Aero\n|weakpoint = Unknown\n|echo      = Yes\n|class     = Overlord\n|family    = Tacet Discord\n|group     = Dark Tide Creation\n|nation    = Rinascita\n|region    = Septimont\n|subregion = Capitoline Hill\n|drops     = Abyssal Husk\n|variants  = Tactical Hologram: Lady of the Sea\n}}\n'''Lady of the Sea''' {{Lang|zh=海之女}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in {{Location|Capitoline Hill}}, and is unlocked after completing {{Quest|Flames of Heart}}.\n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Abyssal Husk}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Abilities==\n\n==Trophies==\n{{Trophies|Lady of the Sea}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} against {{Color|Aero DMG}}.\u003cbr\u003e\u003cbr\u003eA [[Mya|fallen one]] adrift in the frigid currents, a ruptured remnant in which the Threnodian's residual energy resides.\u003cbr\u003e\u003cbr\u003eShe pierced her own heart and fell into the ocean. But fate, relentless as the whirlpools below, dragged her even deeper.\u003cbr\u003e\u003cbr\u003eNow, her [[Leviathan|creator]] has claimed this failed vessel, lying in wait beneath the waves to devour the entire world.|Description When Discovered}}\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=combat}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lady of the Sea\n|zhs  = 海之女\n|zht  = 海之女\n|ja   = 海の娘\n|ko   = 바다의 여인\n|fr   = Dame de la Mer\n|de   = Herrin des Meeres\n|es   = Dama Marina\n}}\n\n==Change History==\n{{Change History|2.6|introduced=2.4}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "9"
+    }
+  ]
+}

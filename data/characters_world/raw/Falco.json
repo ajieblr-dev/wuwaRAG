@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:24Z",
+  "title": "Falco",
+  "pageid": 37958,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Falco.png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Hunter's Den\n|group            = Gladiator\n|affiliation      = Septimont\n|affiliationNote  = Former Gladiator\n|title            = Lord\n|status           = Alive\u003cbr\u003eSaved by Avidius from being corrupted by the Dark Tide.}}\n__NOTOC__\n'''{{PAGENAME}}'''  is Quest-Exclusive NPC Noble and former Gladiator. Became a Noble by [[Corrado|taking credit for a hunt]] in the past then became [[Avidius]] sponsor for the Hunt.\n\nHe makes his first appearance as the '''Shrewd Elder''' (Formerly Astute Elder) in {{Quest|By Sun's Burning Hand}} and a second appearance as '''Elder Senator''' in {{Quest|Dawn Breaks on Dark Tides}}.\n\n==Quests and Events==\n*{{Quest|By Sun's Burning Hand}}\n*{{Quest|Dawn Breaks on Dark Tides}}\n\n==Character Mentions==\n* [[Corrado]]\n* Lorreno\n* [[Baglionia|Este]]\n\n==Other Languages==\n{{Other Languages\n|en   = Falco\n|zhs  = 法尔科\n|zht  = 法爾科\n|ja   = ファルコ\n|ko   = 팔코\n|fr   = Falco\n|de   = Falco\n|es   = Falco\n|th   = ฟาลโก้\n}}\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

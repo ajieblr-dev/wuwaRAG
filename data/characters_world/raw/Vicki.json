@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:55Z",
+  "title": "Vicki",
+  "pageid": 22091,
+  "wikitext": "{{NPC Infobox\n|image            = Vicki.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Modulation Hall\n|group            = \n|affiliation      = Black Shores\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Vicki''' is a Bloom Bearer located at the {{Location|Modulation Hall}} and is seen arguing with the [[Tethys System]].\n\n==Quests and Events==\n{{Quests and Events|Vicki}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Aftermath of {{Quest|To the Shore's End}})\n:'''Vicki:''' Tethys, I require... the list of all Bloom Bearers involved in this mission.\n:'''Tethys System:''' This system is terribly sorry to inform you that all twelve Bloom Bearers in this mission have lost vital signs.\n:'''Vicki:''' I'm not asking for statistics! I need their names!\n:'''Tethys System:''' This system will manage the necessary follow-up procedures. Additional intervention is not required on your part...\n:'''Vicki:''' I said, give me their names! Every single one of them!\n:'''Tethys System:''' Niya, Igor, Suellen, Kresser, Margo, Meiji, Weidenfeller, Fritz, Valery, Nessa, Bangor, and Aleksei. Twelve Bloom Bearers in total.\n:'''Tethys System:''' Follow-up protocol initiated. This system extends it condolences to all affected parties—\n:'''Vicki:''' That won't be necessary. I'll handle it personally. Vicky, Bloom Bearer, code number 1258 y 057/4, proceeding to execute follow-up actions.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Vicki\n|zhs  = 薇依\n|zht  = 薇依\n|ja   = ヴェイユ\n|ko   = 미의\n|es   = Vicki\n|fr   = Vicki\n|de   = Vicki\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

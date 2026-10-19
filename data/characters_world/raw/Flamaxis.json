@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:28Z",
+  "title": "Flamaxis",
+  "pageid": 32980,
+  "wikitext": "{{Stub|Language}}\n{{NPC Infobox\n|image=.png|type=Open-World\n|nation=Rinascita\n|location=Septimont\n|group=\n|affiliation=Association of Architects\n|title=Chairman of Association of Architects\n\u003c!-- Clan/family --\u003e\n|ancestry=\n|father=\n|mother=\n|spouse=\n|sibling=\n|child=\n|relative=\n\u003c!--Voice Actors--\u003e|voiceEN=|voiceCN=|voiceJP=|voiceKR=}}\n\n{{Quote|\"Pledge your hearts for the future of Septimont!\"\n}}'''Flamaxis''' is a male NPC in Septimont and apprentice architect of the Association of Architects. He can be seen with [[Galatea]] listening to [[Aucustus]] speech.\n\n\u003c!--\n== Quests and Events ==\n{{Quests and Events}}\n--\u003e \n\n== Idle ==\n{{Dialogue Start}}\n:'''Aucustus:''' Remember, you're not just plastering cement! You're building the very walls of this city!\n:'''Aucustus:''' We are the Association of Architects! We are the builders of Septimont!\n:'''Aucustus:''' Architects! Pledge your hearts for the future of Septimont!\n:'''Flamaxis:''' Pledge your hearts for the future of Septimont!\n:'''Galatea:''' Sheesh, I thought I was here for construction work. No one told me I'm supposed to be donating organs...\n:'''Galatea:''' The Association of Architects is so awful...\n{{Dialogue End}}\n\n== Dialogue ==\n{{Dialogue Start}}\n:'''Galatea:''' Goodness... Such a shame our chairman didn't chose the career of a motivational speaker...\n:'''Flamaxis:''' Pledge your hearts for the future of Septimont! Pledge your hearts for the future of Septimont!\n:{{DIcon|Option}} Listen in.\n::'''Galatea:''' Calm down, Flamaxis! Are you out of your mind?\n::'''Flamaxis:''' Doesn't your heart swell with pride upon hearing those words? Where's your sense of honor?\n::'''Flamaxis:''' Morta, Decuma, and Nona. Three great walls. All built by our Association!\n::'''Galatea:''' ...But no matter how well they were built, you're still out here plastering cement, aren't you?\n::'''Flamaxis:'''So what? I'm still young! Being an apprentice is great, and easy to find jobs! If you think construction work is so hard, I don't think you'll fare very well doing something else!\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Flamaxis\n|zhs  = 弗拉马克思\n|zht  = 弗拉馬克思\n|ja   = フラマクス\n|ko   = 플라막시스\n|es   = Flamaxis\n|fr   = Flamaxis\n|de   = Flamaxis\n}}\n\n== Change History ==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

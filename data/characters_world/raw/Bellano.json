@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:43Z",
+  "title": "Bellano",
+  "pageid": 27137,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Bellano.png\n|type             = Open-World\n|nation           = Ragunna\n|location         = Rinascita\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Bellano''' is a fishmonger who appears at the [[Montelli Quarter]] marketplace. He has a soft spot for cats.\n\nHe can be seen talking with [[Sofia]] from 6:00 AM to 11:59 AM and talking with [[Aleksander]] from 6:00 PM to 10:59 PM.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n;\u003cnowiki\u003e(6:00 AM to 1:59 PM)\u003c/nowiki\u003e\n:'''Bellano:''' Fresh catch from Riccioli!\n:'''Bellano:''' Whadda Crab, Coconut Urchin, Rainbow Dolphinfish, Titanium Mackerel, you name it!\n----\n;\u003cnowiki\u003e(2:00 PM to 4:59 PM)\u003c/nowiki\u003e\n:'''Bellano:''' Look who it is, my little glutton!\n:'''Bellano:''' You're always around when there's fresh fish.\n:'''Bellano:''' Go ahead and dig in! If you can make it to the Riccioli Islands, you'll be in for a real treat.\n:'''Bellano:''' Too bad I'm getting old and can't catch any big fish anymore.\n:'''Bellano:''' If I managed to hook a Fish King, all the cats in Ragunna would come running!\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;\u003cnowiki\u003e(6:00 AM to 11:59 AM)\u003c/nowiki\u003e\n:'''Sofia:''' Hey, Bellano, can't you sell these [[Til the Fin-ish|two little fish]] separately?\n:'''Bellano:''' No can do. Once these two fish start kissing, they're inseparable!\n:'''Bellano:''' If you try to force them apart, the meat will instantly turn rancid.\n:'''Sofia:''' ...I wonder if Riccioli is full of these strange creatures.\n:'''Bellano:''' You know what? We used to call them \"Die Hard Lovers!\"\n:'''Bellano:''' The longer they lock lips, the fresher and tastier the meat!\n:'''Bellano:''' Then an Acolyte from the Order visited the island and thought the name was unseemly, so he renamed them with a more scholarly term.\n:'''Sofia:''' What's it called now?\n:'''Bellano:''' —\"'Til the Fin-ish!\"\n:'''Sofia:''' Ha, what a poetic name. Makes them sound even more delicious.\n----\n;\u003cnowiki\u003e(6:00 PM to 10:59 PM)\u003c/nowiki\u003e\n:'''Aleksander:''' Mister Bellano, you leave me no choice—\n:'''Bellano:''' You again! How many times must I tell you, no discounts!\n:'''Bellano:''' Keep it up, and I'll call in the Order Tribunal's Acolytes!\n:'''Aleksander:''' This is my cat, Aleksander II—come on! Say hello to the shopkeeper!\n:'''Aleksander II:''' Me-ow!\n:'''Bellano:''' ...\n:'''Aleksander II:''' Purrrrrr...\n:'''Bellano:''' ...Alright, fine, 20% off. No more.\n:'''Aleksander:''' Hooray!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Bellano\n|zhs  = 贝拉诺\n|zht  = 貝拉諾\n|ja   = ベルラーノ\n|ko   = 벨라노\n|es   = Bellano\n|fr   = Bellano\n|de   = Bellano\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

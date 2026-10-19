@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:35Z",
+  "title": "Mercurio",
+  "pageid": 26253,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|title            = Averado Bank Counter\n|image            = NPC Mercurio.png\n|type             = Open-World\n|type2            = Echo\n|nation           = Rinascita\n|location         = Bank Street\n|affiliation      = Averado Bank\n|affiliation2     = Montelli Family\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}'''Mercurio''' is a [[Shop]] NPC in {{Location|Bank Street}}. It is an [[Echo]] that mans the counter for the [[Averado Bank]]. \n\n==Shop==\n{{Shop/Wrapper|currency=Monnaie|note=Unlock Conditions|\n{{Shop|Astrite|x=40|400|1|total=1|note=Automatically Unlocked}}\n{{Shop|Advanced Resonance Potion|80|1|total=1|note=Automatically Unlocked}}\n{{Shop|Advanced Energy Core|80|1|total=1|note=Automatically Unlocked}}\n{{Shop|Advanced Enclosure Tank|50|10|total=1|note=Automatically Unlocked}}\n{{Shop|Laurus Salad Recipe|150|1|total=1|note=Automatically Unlocked}}\n{{Shop|Every Flavor Bell Crab Recipe|150|1|total=1|note=Automatically Unlocked}}\n{{Shop|Astrite|x=40|400|1|total=1|note=Unlocks after obtaining {{Item|Monnaie|30|x=4,000}}}}\n{{Shop|Romance in Farewell Recipe|400|1|total=1|note=Unlocks after obtaining {{Item|Monnaie|30|x=4,000}}}}\n{{Shop|Legend of Drunken Hero Recipe|400|1|total=1|note=Unlocks after obtaining {{Item|Monnaie|30|x=4,000}}}}\n{{Shop|Extracted Phlogiston|x=4|180|1|total=1|note=Unlocks after obtaining {{Item|Monnaie|30|x=4,000}}}}\n{{Shop|Cadence Bud|x=4|180|1|total=1|note=Unlocks after obtaining {{Item|Monnaie|30|x=4,000}}}}\n{{Shop|Adagio Helix|x=4|180|1|total=1|note=Unlocks after obtaining {{Item|Monnaie|30|x=4,000}}}}\n{{Shop|Waveworn Residue 226|x=4|180|1|total=1|note=Unlocks after obtaining {{Item|Monnaie|30|x=4,000}}}}\n{{Shop|Reactive Metallic Drip|x=4|180|1|total=1|note=Unlocks after obtaining {{Item|Monnaie|30|x=4,000}}}}\n{{Shop|Astrite|x=40|400|1|total=1|note=Unlocks after obtaining {{Item|Monnaie|30|x=8,000}}}}\n{{Shop|Premium Resonance Potion|200|1|total=1|note=Unlocks after obtaining {{Item|Monnaie|30|x=8,000}}}}\n{{Shop|Premium Energy Core|200|1|total=1|note=Unlocks after obtaining {{Item|Monnaie|30|x=8,000}}}}\n{{Shop|Premium Sealed Tube|250|1|total=1|note=Unlocks after obtaining {{Item|Monnaie|30|x=8,000}}}}\n{{Shop|Premium Enclosure Tank|120|1|total=1|note=Unlocks after obtaining {{Item|Monnaie|30|x=8,000}}}}\n{{Shop|Shell Credit|x=10,000|100|1|total=1|note=Unlocks after obtaining {{Item|Monnaie|30|x=8,000}}}}\n|total=4,730+|vendor=Mercurio|type=Souvenir}}\n\n==Quests and Events==\n{{Quests and Events|Mercurio}} \n\n==Location==\n\u003cgallery\u003e\nNPC Mercurio Location.png|Mercurio's Location\n\u003c/gallery\u003e \n\n==Dialogue==\n{{Dialogue Start}}\n:{{DIcon}} I want to buy some gifts\n:;(Opens [[shop]])\n::''Mercurio extends his hands confidently, as if to say, \"How may I help you today?\"\n:;(Purchase items)\n::''Mercurio applauds, as if to say, \"Thank you for returning these Monnaie. Please accept this as a token of our gratitude. On behalf of [[Averardo Vault]], we thank you.\"''\n:{{DIcon|Exit}} Leave\n{{Dialogue End}} \n\n==Gallery==\n\u003cgallery\u003e\nRinascita Echo Fiesta Mercurio.png\n\u003c/gallery\u003e \n\n==Other Languages==\n{{Other Languages\n|en   = Mercurio\n|zhs  = 墨丘利\n|zht  = 墨丘利\n|ja   = メルクリオ\n|ko   = 메르쿠리우스\n|es   = Mercurio\n|fr   = Mercurio\n|de   = Mercurio\n}} \n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

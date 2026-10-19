@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:16Z",
+  "title": "Zahira",
+  "pageid": 38320,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Zahira.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy (Region)\n|affiliation      = Roya Tribe\n|title            = Royan Merchant\n\n\u003c!-- family --\u003e\n|sibling          = Aluna\n|siblingNote      = sister\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Zahira''' is a shop [[NPC]] in [[Startorch Academy (Region)|Startorch Academy]]. She is a member of the [[Roya Tribe]] and runs a shop in the [[Royan Market]]. Although she is banned from Academy grounds, her [[Aluna|mech deer]] is not.\n\n==Shop==\n{{Shop/Wrapper|currency=Shell Credit|\n{{Shop|Flour|500|50|total=1}}\n{{Shop|Cooking Oil|500|50|total=1}}\n{{Shop|Sugar|500|50|total=1}}\n{{Shop|Milk|500|50|total=1}}\n{{Shop|Salt|500|50|total=1}}\n{{Shop|Vinegar|500|50|total=1}}\n{{Shop|Chili|500|50|total=1}}\n{{Shop|Beans|500|50|total=1}}\n{{Shop|Animal Fat|500|50|total=1}}\n{{Shop|Smoked Meat Stew|13500|20|total=1}}\n{{Shop|Grilled Fern Spore|9000|20|total=1}}\n{{Shop|\"Crack \u0026 Bolt\" Fish Jar|13500|20|total=1}}\n{{Shop|Lahai-Roi Special Plant Milk|9000|20|total=1}}\n{{Shop|Smoked Meat Stew Recipe|15000|1|total=1}}\n{{Shop|Grilled Fern Spore Recipe|10000|1|total=1}}\n{{Shop|\"Crack \u0026 Bolt\" Fish Jar Recipe|15000|1|total=1}}\n{{Shop|Lahai-Roi Special Plant Milk Recipe|10000|1|total=1}}\n|total=TBA|vendor=Zahira|type=grocery}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:{{DIcon|Grocery}} Buy ingredients\n::'''Zahira:''' ...Yes, I hear your call. You seek something... something to help you.\n:;(Purchase something)\n::'''Zahira:''' Here, take it. It has answered your call.\n:{{DIcon}} Chat\n::'''{{Rover}}:''' The Royan girl before you reaches out her hand, waiting for your response. {{sic}}\n::'''Zahira:''' Like this, we don't need words. Our minds may speak in silent tongues.\n::'''Zahira:''' Most thoughts flutter like morning birds. Bright, restless... like my sister [[Aluna]]. Perhaps you know her.\n::'''Zahira:''' But some minds... they are like a storm on the horizon. Dark, unsettling.\n::{{DIcon}} What are my thoughts like?\n::'''Zahira:''' Yours... are different.\n::'''Zahira:''' Pure white. Still, as if they have  seen the turning of many lifetimes.\n::Grrrr...\n::{{DIcon}} Abby?!\n::'''Zahira:''' ...It seems that within that quiet, there is a quiet hunger.\n::'''Zahira:''' This is for you, and the friend who dwells within—\n::{{DIcon}} This is...?\n::'''Zahira:''' My specially made Gravlaks. No one in the Academy has tasted my cooking, save for Aluna.\n::{{DIcon}} Abby, Abby, wake up—\n::'''Abby:''' AHHHH! This smells soooo good! Finally, not just cans and toothpaste! Save some for me!\n::'''Zahira:''' Once, \"fortunate\" was I to taste the Academy's famed \"super food.\"\n::{{DIcon}} And what did you think?\n::'''Zahira:''' Enough to turn morning birds into a restless storm.\n:{{DIcon|Duel}} Invite to a duel\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Trivia==\n* Gravlaks is a Nordic Dish that consist of cured salmon in salt, sugar and dill. It is commonly served cold-smoked after curing.\n\n==Other Languages==\n{{Other Languages\n|en   = Zahira\n|zhs  = 扎希拉\n|zht  = 扎希拉\n|ja   = ザヒーラ\n|ko   = 자히라\n|fr   = Zahira\n|de   = Zahira\n|es   = Zahira\n|th   = Zahira\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

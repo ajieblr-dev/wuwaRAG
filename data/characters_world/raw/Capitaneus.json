@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:54Z",
+  "title": "Capitaneus",
+  "pageid": 30511,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Capitaneus\n|image         = Capitaneus Icon.png\n|dmgtype       = Spectro\n|weakpoint     = \n|class         = Elite\n|echo          = Yes\n|family        = Echo\n|group         = Dark Tide Influenced\n|nation        = Rinascita\n|region        = Ragunna\n|subregion     =\n|drops         =\n}}{{Description|It holds the authority to command other Echoes of the Order, carrying out the Order's will to eliminate any transgressors.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Elite Dark Tide Influenced}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES|nobold=1}} to {{Color|Spectro|Spectro DMG|nobold=1}}.\nIt holds the authority to command other Echoes of the Order, carrying out the Order's will to eliminate any transgressors.\nJust as the Order's authority is inviolable, so too is the power of the Echo.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en  = Capitaneus\n|zhs = 荣光节使\n|zht = 榮光節使\n|ja  = カピタネウス\n|ko  = 카피타네우스\n|es  = Capitaneus\n|fr  = Capitaneus\n|de  = Capitaneus\n}}\n\n\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:18Z",
+  "title": "Egla Town",
+  "pageid": 26406,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Egla Town\n|image=Egla Town.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Whisperwind Haven\n}}\n\n'''Egla Town''' is an area of [[Whisperwind Haven]], [[Rinascita]]. \n\n==NPCs==\n{{NPCs by Location List|Egla Town}}\n\n==Other Languages==\n{{Other Languages\n|en   = Egla Town\n|zhs  = 埃格拉镇\n|zht  = 埃格拉鎮\n|ja   = エグラ\n|ko   = 에글라 타운\n|es   = Egla\n|fr   = Ville d'Egla\n|de   = Gemeinde Egla\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

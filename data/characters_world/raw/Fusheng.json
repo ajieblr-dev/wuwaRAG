@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:39Z",
+  "title": "Fusheng",
+  "pageid": 9398,
+  "wikitext": "{{Meta\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|name             = Fusheng\n|image            = NPC Fusheng.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Camp Overwatch\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Fusheng''' is an NPC in [[Camp Overwatch]].\n\n==Location==\n{{Map Embed|Desorock Highland|Fusheng}}\n\u003c!--\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n\n==Quests and Events==\n{{Quests and Events|{{subst:#titleparts:{{subst:PAGENAME}}}}}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Fusheng:''' If nothing unexpected happens, we will definitely win this war.\n:{{DIcon}} Why?\n:'''Fusheng:''' After fighting for a lifetime, we can always summarize some battle experience and conclusions.\n:'''Fusheng:''' Although everyone is still tense, overall, the [[Midnight Rangers]] will no longer be trapped in a bloody battle like the previous war when facing [[Tacet Discord]].\n:{{DIcon}} The previous war?\n:'''Fusheng:''' The Battle Beneath the Crescent many years ago... Oh, come to think of it, it's been a long time since I talked to someone about these things.\n:'''Fusheng:''' I was young back then, and I had never seen such a battle before...\n:'''Fusheng:''' The unstoppable tide of Tacet Discord almost engulfed the entire army, and the comrades in chaos suddenly started killing each other...\n:'''Fusheng:''' The endless war slowly dragged each of us into the vortex of weariness, and a moment of relaxation in the mind could take away your life.\n:'''Fusheng:''' Countless people fell in that war, even my dear friend who grew up with me was not spared.\n:'''Fusheng:''' Those nightmarish days, I can't even distinguish now what was real and what was fake...\n:'''Fusheng:''' Those who have experienced that war find it hard to completely move on. I once left the army and lived in the city, but I found that I can only find peace in the barracks.\n:'''Fusheng:''' ... I still can't let go of my comrades, whether it's the past or the present, haha.\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Fusheng\n|zhs  = 福生\n|zht  = 福生\n|ja   = 福生（フクセイ）\n|ko   = 복생\n|es   = Fusheng\n|fr   = Fusheng\n|de   = Fusheng\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

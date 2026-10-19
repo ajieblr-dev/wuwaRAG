@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:05Z",
+  "title": "Xiaojue",
+  "pageid": 9919,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Xiaojue.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = Exiles\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Xiaojue''' is an NPC in {{Location|Huanglong}}.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Xiaojue:''' This is mind-blowing. I wonder how did you make it.\n:'''Xiaojue:''' Trust me, I'll give you some results!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en  = Xiaojue\n|zhs = 小诀\n|zht = 小訣\n|ja  = 訣\n|ko  = 소결\n|es  = Xiaojue\n|fr  = Xiaojue\n|de  = Xiaojue\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

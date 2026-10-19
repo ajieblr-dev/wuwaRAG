@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:33Z",
+  "title": "Maja",
+  "pageid": 73609,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Maja.jpg\n|name             = Maja\n|type             = Quest\n|nation           = Lahai-Roi\n|affiliation      = Roya Tribe\n\n\u003c!--Family--\u003e\n|mother           = Astrid\n\n\u003c!--VAs--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Maja''' {{Lang|zh=玛嘉}} is a quest-exclusive [[NPC]] that first appears in [[Ode to the Second Sunrise]].\n\n== Dialogue ==\n{{Dialogue Start}} \n;After {{Quest|Ode to the Second Sunrise}}, at the Freight Zone inside the [[Spacetrek Archive]] building.\n:;'''Ovid''' Maja, what brings you here today?\n:;'''Maja''' Waaaahhh...\n:'''Ovid:''' Maja, what brings you here today? I thought you were planning to wait right until the term's end to review key points?\n:'''Maja:''' Argh, don't me started... {{sic}}\n:'''Maja:''' My mother just went to see all of my professors. After finding out how poor my grades were, she almost pulled me out of school. She said that if I'm doing this badly, I might as well go home and spend the rest of my life counting Exoswarm.\n:'''Maja:''' I was just trying to help Professor Mornye. How did that end with her tattling to my mother?! Ugh, talk about a disaster...\n{{Dialogue End}}\n\n== Quests and Events ==\n{{Quests and Events}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Maja\n|zhs  = 玛嘉\n|zht  = 瑪嘉\n|ja   = マージャ\n|ko   = 마이아\n|fr   = Maja\n|de   = Maja\n|es   = Maja\n|th   = Maja\n}}\n\n== Change History ==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:14Z",
+  "title": "Dorothy",
+  "pageid": 42767,
+  "wikitext": "{{NPC Infobox\n|title        = Dorothy\n|image        = Dorothy.png\n|affiliation  = Somnoire\n|nation       = \n}}\nDorothy is an [[Illusia]] from the Somnoire, frequently appearing in [[Depths of Illusive Realm]] events. Her identity or role as an Illusia, is often taken by others when interacting with Rover\u003cref\u003e[[Fairy Tale's Finale]]\u003c/ref\u003e\u003cref\u003e[[If You Gaze Into the Abyss of Dreams]]\u003c/ref\u003e. \n\nIt is assumed as one point, [[D]] who assumed Dorothy identity once, based off her behavior, in the event \u003cref\u003e[[Depths of Illusive Realm: Chromatic Fantasy]]\u003c/ref\u003e\u003cref\u003e[[Depths of Illusive Realm: Dreamchasers]]\u003c/ref\u003e.\n\nAccording to Ebony Gatekeeper, it is confirmed Dorothy is an actual person, who is very kind and would never lie- which makes it easy for those assuming her identity to be ousted. \n\n==Speculations==\n* Dorothy is speculated to be one of the residence living within the Somnoire. \n* It is speculated [[Ebony Gatekeeper]] took on Dorothy appearance in the event, [[Fairy Tale's Finale/Story|Fairy Tale's Finale]].\n* It is speculated [[D]] took on Dorothy roles in the event, [[Depths of Illusive Realm: Chromatic Fantasy]] and [[Depths of Illusive Realm: Dreamchasers]]. \n\n== Other Languages ==\n{{Other Languages\n|en   = Dorothy\n|zhs  = 多萝西\n|zht  = 多蘿西\n|ja   = ドロシー\n|ko   = 도로시\n|fr   = Dorothée\n|de   = Dorothy\n|es   = Dorothy\n|th   = Dorothy\n}}\n\n== Change History ==\n{{Change History|1.3}}\n\n== References ==\n{{Reflist}}\n\n== Navigation ==\n{{Lore Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Speculations",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

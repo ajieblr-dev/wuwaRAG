@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:43Z",
+  "title": "Nanao",
+  "pageid": 39661,
+  "wikitext": "{{NPC Infobox\n|image=NPC Nanao.png\n|type=Open-World\n|nation=\n|location=Chronorift Metropolis\n|group = Left Behind\n}}\n'''PAGENAME''' is a {{Extra Effect|Left Behind|Left Behind|Citizens of Honami City who perished during the Lament and who now \"live\" inside the Sonoro Sphere in the form of Human Reverberations. Faint iridescent light flows around their bodies, and they don't seem to be aware of what really happened to them.}} that can be found ontop of Shashou Cafe with her friend, '''Saki'''.\n\n==Location==\n{{Map Embed|Chronorift Metropolis|Nanao}}\n\n{{Dialogue Start}}\n==Idle==\n:'''Saki:''' Hey, hey, Nanao, got any wishes you're really dying to see come true?\n:'''Nanao:''' Why the sudden question?\n:'''Saki:''' Hehe, I was just thinking about those stories of our legendary miko and got curious!\n\n==Dialogue==\n:'''Nanao:''' Huh? What's my wish? I... I want to eat Starflower Candy and Candy Apples from Ginga Street. Oh! And a strawberry mille-feuille too!\n:'''Saki:''' Why is it all food? Using the legendary miko's power for snacks seems... a bit too much, don't you think?\n:'''Nanao:''' Is it true, though? Can she really fulfill people's wishes?\n:'''Saki:''' Well... officially, she acts for the good of the whole nation, so she doesn't respond to trivial, personal desires. \n:'''Saki:''' But I heard... if you're lucky enough to meet her in person, you might be blessed with good fortune.\n----\n;(After completing {{Quest|Stagnant Dawn on Wastelands}})\n:'''Nanao:''' Listen! I had the worst dream ever...\n:'''Saki:''' Oh? Did someone steal your snacks again?\n:'''Nanao:''' I'm not joking... I dreamed... Honami and so many other places were all destroyed...\n:'''Nanao:''' And the miko who's supposed to protect us was gone too.\n:'''Saki:''' That's... really scary. But somehow... I feel like it wasn't just a dream.\n{{Dialogue End}}\n\n==Trivia==\n* A [[Hiyuki|Miko]] is referenced by [[Ashley]] in Version 3.0, Startorch Academy. Whether they're the same person, is currently unknown as there are multiple Miko's. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Nanao\n|zhs  = 七绪\n|zht  = 七緒\n|ja   = 七緒\n|ko   = 나나오\n|fr   = Nanao\n|de   = Nanao\n|es   = Nanao\n|th   = Nanao\n}}\n\n{{Other Languages\n|en   = Saki\n|zhs  = 纱季\n|zht  = 紗季\n|ja   = 紗季\n|ko   = 사키\n|fr   = Saki\n|de   = Saki\n|es   = Saki\n|th   = Saki\n}}\n==Change History==\n{{Change History|2.8}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

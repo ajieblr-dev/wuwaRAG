@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:13Z",
+  "title": "Kilani",
+  "pageid": 39196,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Kilani.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Square\n|group            = Biomatic Club\n|affiliation      = Department of Light Energy Sciences\n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC male student from the Biomatic Club, found at night nearby the {{Rubi|Solis Lens Array|Lahai-Roi Resonance Nexus}}, talking to a professor, '''Tsugu'''.\n\n==Dialogue==\n:'''Kilani:''' Sir, I always wondered, why do you help us so much? Advising the Biomatic Club, getting us funding...\n:'''Tsugu:''' Because I was once in your shoes! Being broke and fighting every other club on  campus... you learn there's nothing like having someone in your corner.\n:'''Tsugu:''' Besides, who hasn't been a student? Looking at you reminds me of myself!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Kilani\n|zhs  = 伽罗尼\n|zht  = 伽羅尼\n|ja   = ガロニ\n|ko   = 가로니\n|fr   = Kilani\n|de   = Kilani\n|es   = Kilani\n|th   = Kilani\n}}\n\n{{Other Languages\n|en   = Tsugu\n|zhs  = 壬\n|zht  = 壬\n|ja   = 壬\n|ko   = 츠구\n|fr   = Tsugu\n|de   = Tsugu\n|es   = Tsugu\n|th   = Tsugu\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:39Z",
+  "title": "Ayla",
+  "pageid": 74623,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Ayla.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Sanguis Plateaus\n|location2        = Asphodel Barrens\n|group            = Gladiator\n|affiliation      = Septimont\n|affiliationNote  = Gladiator\n}}__NOTOC__\n'''{{PAGENAME}}''' is a NPC female Gladiator by the lake with the leaning blue tree. She's not originally from Septimont.\n{{Dialogue Start}}\n==Idle==\n;(Only before {{Quest|By Sun's Burning Hand}}\n:'''Ayla:''' This is truly a remarkable place...\n:'''Ayla:''' That Priestess... She's still not here yet.\n\n==Dialogue==\n:'''Ayla:''' Excuse me, I was wondering if you've seen a young beautiful Priestess with dark blue hair around here?\n:{{DIcon}} You mean… Iuno?\n::'''Ayla:''' That's right. Do you know her? Could it be we were destined to cross paths here...?\n:{{DIcon}} You can try your luck at Tetragon Temple.\n::'''Ayla:''' You are correct, in normal cases. But the Priestess I am looking for is rather unique.\n:'''Ayla:''' Her name is Iuno, the most gifted Priestess throughout the history of Septimont.\n:'''Ayla:''' I've heard that Priestess Iuno would come here for a walk during her leisure time. So I've decided to try my luck and hope that I can bump into her.\n:'''Ayla:''' I am not a Gladiator born from Septimont, so my knowledge of Septimont's Priestesses is rather superficial.\n:'''Ayla:''' I was quite skeptical about how the Priestesses are able to perceive the future. But that was before I saw Iuno's prophecy of Septimont's calamity with my own eyes.\n:'''Ayla:''' I came here to ask Lady Iuno to look into my fate. See if there's any possibility of realizing my dreams in the future.\n:'''Ayla:''' It's rather embarrassing to visit her at Tetragon Temple for a selfish matter like this. I wouldn't want to disturb the other Priestesses at work.\n:'''Ayla:''' Since there are rumours of people meeting her here, I will continue to wait patiently for my opportunity... Or perhaps this wait is also part of her prophecy?\n\n==Spoiler for Act VIII: [[By Moon's Fated Light]]==\n;After {{Quest|By Sun's Burning Hand}}\n:;'''Ayla:''' Why do I come here every day?\n:;'''Ayla:''' Am I attracted to these views to this extent?\n:;'''Ayla:''' Or are there reasons beyond that?\n:'''Ayla:''' Graced by moonlight, this tree stands tall, bridging the heavens and the earth. For generations, it has silently watched over the hunting grounds, a steadfast witness to the stories of Septimontians.\n:'''Ayla:''' Such magnificence... You share the same sentiment as I do, don't you?\n:{{DIcon}} Did you get to see Iuno?\n::'''Ayla:''' Iuno? Who may that be?\n:{{DIcon}} Did you get your wish fulfilled?\n::'''Ayla:''' Strange... Have we met before? And did I mention anything about a wish?\n:'''Ayla:''' For some reason, I've been visiting this tree every night ever since I arrived at the hunting grounds.\n:'''Ayla:''' Whenever I take in this breathtaking view, a strange sense of loss will always weigh heavily on my heart.\n:'''Ayla:''' Am I... am I really here every night just for the view?\n:'''Ayla:''' Do you have the same feeling as I do?\n:'''Ayla:''' There's always this tingling feeling that I've forgotten something important. And yet I can't for the life of me recall what it was.\n----\n;After {{Quest|Dawn Breaks on Dark Tides}}\n:'''Ayla:''' Several days ago, when I returned to Septimont, I met a strange girl.\n:'''Ayla:''' For some reason, I felt like I'd seen her before… but when I thought about it, nothing came to mind...\n:'''Ayla:''' She caught me staring and came over to talk. We ended up having a pleasant conversation.\n:'''Ayla:''' That's how I made a new friend. Her name is Iuno.\n:{{DIcon}} Congrats on fulfilling your wish.\n:'''Ayla:''' Haha, that wasn't my wish! But I was genuinely happy to meet her.\n:'''Ayla:''' If I get the chance, I'd love to bring her here, to share this beautiful view.\n:'''Ayla:''' I'm sure she'd love it.\n:'''Ayla:''' Maybe that's the real reason I keep coming back to this tree, to one day bring a friend here.\n:'''Ayla:''' …And yet, I can't shake the feeling I've forgotten something important. No matter how hard I try, I just can't recall what it is.\n{{Dialogue End}}\n\n==See Also==\n* [[Minervaun]] who stands on the other side\n\n==Other Languages==\n{{Other Languages\n|en   = Ayla\n|zhs  = 艾拉\n|zht  = 艾拉\n|ja   = アイラ\n|ko   = 아일라\n|fr   = Ayla\n|de   = Ayla\n|es   = Ayla\n|th   = Ayla\n}}\n\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Spoiler for Act VIII: By Moon's Fated Light",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

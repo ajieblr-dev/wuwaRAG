@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:59Z",
+  "title": "Hé Chou",
+  "pageid": 9413,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|name             = Hé Chou\n|image            = NPC He Chou.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Rearguard Base\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Hé Chou''' is an NPC in {{Location|Rearguard Base}}.\n\u003c!--\n==Shop==\n{{Shop/Wrapper|\n{{Shop|Item|cost|stock|total=1}}\n|total=|vendor={{subst:#titleparts:{{subst:PAGENAME}}}}}}\n\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n--\u003e\n==Quests and Events==\n{{Quests and Events|Hé Chou}}\n\u003c!--\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Hé Chou:''' Long time no see, {{Rover}}.\n:{{DIcon}} How have you been?\n::'''Hé Chou:''' I've been doing much better lately, thanks for asking. The number of [[TD]] attacks has dropped, and the radar's been in top shape.\n::'''Hé Chou:''' After I went back home that day, I gave it some thought, and ended up withdrewing my transfer letter.\n:{{DIcon}} How are you still here?\n::'''Hé Chou:''' After I went back home that day, I gave it some thought, and ended up withdrewing my transfer letter.\n:{{DIcon}} You are...?\n::'''Hé Chou:''' It's me, Hé Chou. Don't tell me you forgot about me already? We were on the radar repair job last time. I was the one that always had my head hanging...\n::{{DIcon}} You've changed so much I almost didn't recognize you.\n::'''Hé Chou:''' Yeah, after I went back home that day, I gave it some thought, and ended up withdrewing my transfer letter.\n:'''Hé Chou:''' Now that I've decided to stay here, I can't be complaining all the time have to get my act together.\n:'''Hé Chou:''' I mean, Qiuwang was able to develop such an amazing tech. I can't lose to him!\n:{{DIcon}} How's Qiuwang?\n:'''Hé Chou:''' After he made sure that everything were the way they should be, he moved on to the next place.\n:'''Hé Chou:''' He mentioned there are still more data that needs to be collected, and even more advanced technologies that need to be researched...\n:'''Hé Chou:''' From that moment on, I knew that someone like him is destined go even further along the path he had chosen... There’s nothing in this world that could stop him.\n:'''Hé Chou:''' And my job is to safeguard the [[Desorock Highland]]s and fulfill my duties as a soldier.\n:'''Hé Chou:''' That is the path I have chosen.\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Hé Chou\n|zhs  = 何踌\n|zht  = 何躊\n|ja   = 何躊（カチュウ）\n|ko   = 허주\n|es   = Hé Chou\n|fr   = Hé Chou\n|de   = He Chou\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

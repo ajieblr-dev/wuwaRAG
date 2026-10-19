@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:42Z",
+  "title": "Batti",
+  "pageid": 27166,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Batti.png\n|type             = Open-World\n|nation           = Ragunna\n|location         = Rinascita\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Batti''' is a girl NPC who appears in [[Ragunna]], [[Rinascita]]. She can only be seen from 5:00 PM to 6:59 PM, talking to [[Leto]] next to a Tubpup.\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Leto:''' I feel like I've seen that \"Drama Maniac\" from Egla Town somewhere before...\n:'''Batti:''' He's a bit odd... but his stories about the Fool's Troupe are rather captivating!\n:'''Batti:''' [[Roccia|Eccentric Roccia]] the First Mate, free-spirited [[Brant|Captain Brant]]...\n:'''Leto:''' Batti, don't you think the \"Drama Maniac\" looks a lot like [[Lorenzo|Uncle Lorenzo]]?\n:'''Leto:''' But his hair color is different, his clothes have a different style, and he wears a mask, so you can't see his face...\n:'''Leto:''' But when he performs, his gaze always drifts toward us.\n:'''Leto:''' Almost as if he's telling the story for our sake...\n:'''Batti:''' Uncle Lorenzo went on a pilgrimage, didn't he... The adults looked so strange when he left.\n:'''Leto:''' So I haven't dared mention this to Gisle—just hearing Uncle Lorenzo's name makes him sad.\n:'''Batti:''' How about... we investigate it ourselves!\n:'''Admiral Tubpup:''' Bark bark!\n:'''Batti:''' I bet a Monnaie he's not Uncle Lorenzo!\n:'''Leto:''' It's a bet!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Batti\n|zhs  = 巴蒂\n|zht  = 巴蒂\n|ja   = バディ\n|ko   = 바티\n|es   = Batti\n|fr   = Batti\n|de   = Batti\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:54Z",
+  "title": "Uncle Li",
+  "pageid": 5323,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = \n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = \n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Uncle Li.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Uncle Li''' is an [[NPC]] in {{Location|Jinzhou}}.\n\nHe is located to the far right of Panhua's Restaurant in Jinzhou, behind a table with four customers. You can only see him at '''daytime'''.  \n\nPlayers can learn the recipe for [[Clear Soup]] by interacting with him.\n\nDuring the event [[By Moon's Grace]], Uncle Li is a shop NPC in [[Taoyuan Vale]] for [[Yumyum Haven]].\n\n==Shop==\n{{Shop/Wrapper|currency=Shell Credit|total=75,000|vendor=Uncle Li|type=Restaurant|\n{{Shop|Plumpcake|2,000|5|total=1}}\n{{Shop|Moon Pearl|2,000|5|total=1}}\n{{Shop|Moon Brew|2,000|5|total=1}}\n{{Shop|Sweet Stuffed Flatbread|2,000|5|total=1}}\n{{Shop|Vege Omelette|2,000|5|total=1}}\n{{Shop|Plumpcake Recipe|5,000|1|total=1}}\n{{Shop|Egg Pancake Recipe|5,000|1|total=1}}\n{{Shop|Preparation Credits|5,000|3|x=50|total=1}}\n}}\n\n==Quests and Events==\n{{Quests and Events|Uncle Li}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Uncle Li:''' Oh my! {{MC|m=Young man|f=Young lady}}, you look worn from travel. Are you here to eat, or heading somewhere else?\n:{{DIcon}} Gourmet Rumors\n::'''Uncle Li:''' Second-rate cooks might make a broth that tastes good on first sip, but lacks richness of flavor after a while.\n::'''Uncle Li:''' Don't underestimate that pinch of [[sugar]]. It makes all the difference in the taste and depth of flavor!\n::'''Uncle Li:''' That's why you asked me. I don't share this with just anyone.\n:{{DIcon}} Chat\n::'''Uncle Li:''' As someone who's dined at many restaurants, I can say Panhua's Restaurant is the best!\n::'''Uncle Li:''' Just look at this food, taste it! If I could, I'd eat here every day!\n:{{DIcon|Exit}} Leave \n{{Dialogue End}}\n===Event Dialogue===\n====By Moon's Grace====\n{{Dialogue Start}}\n;(First interaction)\n:{{DIcon}} Chat\n::'''Uncle Li''': ...Peel the shring, leave the tails, coat them all with bean flour... Once that's done, arrange them in the shape of a fan...\n::{{DIcon}} What are you making?\n::{{DIcon}} Shrimp Tails?\n::'''Uncle Li''': Oh, look who's here! Good to see you, {{Rover}}. Been hearing all about your adventures at the tea house. Must be pretty busy, huh?\n::'''Uncle Li''': See what I'm making? It's a secret, ancient recipe! This one's called Shrimp Fan.\n::'''Uncle Li''': See this? They're all handwritten recipes I've collected from people. Careful! The paper's thin.\n::'''Uncle Li''': I tavelled the world collecting them when I was young man. As a gourmet, I can never refuse a delicacy.\n::'''Uncle Li''': Since we're celebrating the festival now, I thought it would be nice to whip up some new dishes.\n::'''Uncle Li''': Panhua and Mahe have their own business to attend to and can't be here in person, so I brought some of their dishes along.\n::{{DIcon}} Some are new to me.\n::'''Uncle Li''': Heh! Those are mine.\n::'''Uncle Li''': Not bad, hm? I prefer eating over cooking, but it doesn't mean I can't cook.\n::'''Uncle Li''': Golden Sesame Tofu, Roasted Stuffed Chicken, Osmanthus Pork Stew... All traditional dishes! Try some, won't you?\n----\n:'''Uncle Li''': Welcome! What can I get you? You can't enjoy the festival with an empty belly.\n:{{DIcon|Shop}} See Yumyum Haven menu\n:;(Opens [[shop]])\n:{{DIcon}} Chat\n::'''Uncle Li''': Back in my Pioneer Association days, I was quite the young adventurer.\n::'''Uncle Li''': But as time flew by, I settled down here in Jinzhou. Life's good now, but sometimes I find myself dreaming about all the wonderful places I once explored.\n::'''Uncle Li''': Even in the furthest of lands, there's people. And where there's people, there's food.\n::'''Uncle Li''': Take the different regions of Huanglong, for instance\u0026mdash;no [[Wuthercake]] is the same. They've each got their own unique taste!\n::'''Uncle Li''': Try this one. It's the Jinhzhou Wuthercake! It's authentic, I promise.\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Uncle Li\n|zhs  = 黎叔\n|zht  = 黎叔\n|ja   = 黎じい\n|ko   = 영식\n|es   = Señor Li\n|fr   = Oncle Li\n|de   = Onkel Li\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Dialogue",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "By Moon's Grace",
+      "number": "3.1.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "7"
+    }
+  ]
+}

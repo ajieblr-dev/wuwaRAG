@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:21Z",
+  "title": "Scarlet Velvet",
+  "pageid": 26488,
+  "wikitext": "{{Stub|Voice actress}}\n{{NPC Infobox\n|name             = Scarlet Velvet\n|image            = NPC Scarlet Velvet.png\n|type             = NPC\n|type2            = Quest\n|type3            = Open-World\n|nation           = Rinascita\n|location         = Whisperwind Haven\n|affiliation      = Montelli Family (previously)\n\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Scarlet Velvet''' is a quest-exclusive [[NPC]] who previously had an arrangement with the [[Montelli Family]], acting as an intermediary between them and the common folk, particularly in transactions involving the new [[Ragunna Terminal|Terminals]] that disrupted the [[Order of the Deep|Order]]'s monopoly. Their dealings also extended to perfumes and other goods.\n\nHowever, the partnership ended abruptly due to [[Capollo Montelli]]'s interference with the Order, which caused significant trouble for Scarlet, leading her to sever ties with the Montellis. Scarlet could only be contacted through one of her associates, [[Ernesto]], who worked as a bartender to gather intelligence for their operations.\n\nShe was a close friend of [[Benett]], the former [[Averardo Vault]] Keeper, before his death during the events of {{Quest|If On a Rainy Night a Family}}.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(After completing {{Quest|If On a Rainy Night a Family}}, she can be found on the outskirt of [[Egla Town]])\n:'''Scarlet Velvet''': Hey, {{Rover}}. Good to see you again.\n:{{DIcon}} It's been a while.\n:{{DIcon}} You're looking cheerful today.\n:'''Scarlet Velvet''': Well, I owe that to you and [[Carlotta]]. Thanks to your efforts, we've been able to restart our cooperation with the Montelli family, along with others whose ties had been severed. \n:'''Scarlet Velvet''': The Reserved Terminal is still a sensitive subject in public, but at least now, people here are free to explore in the wild and gather Echoes as they please.\n:'''Scarlet Velvet''': Honestly, I was shocked when Carlotta asked if I'd be interested in joining your plan. I never imagined you'd outmaneuver the Order and strike a deal with [[Capollo Montelli|Capollo]], forcing him to hand over the core data module.\n:'''Scarlet Velvet''': But in highsight, trusting you, Carlotta... and Benett's judgement turned out to be the right decision. \n:'''Scarlet Velvet''': Capollo's been removed and dealt with by the family. Carlotta's busy managing the aftermath alongside [[Francesco Montelli|Padrino]] while also focusing on charting a new sea route.\n:{{DIcon}} A new sea route? Where to?\n::'''Scarlet Velvet''': The exact route hasn't been finalized yet, but it's rumored to span three or four countries.\n:{{DIcon}} Looks like Montelli's ambitions are growing.\n::'''Scarlet Velvet''': Carlotta told me it was your brilliance that made this possible. Your performance at the [[Carnevale]] was so inspiring that more and more people are rallying behind Montelli, eager to explore a bigger, grander world.\n:'''Scarlet Velvet''': We're still figuring out what ventures to take on and what we truly want to achieve. This time, I'm determined to make the right call too.\n:'''Scarlet Velvet''': {{Rover}}, just sit tight—we'll bring you some good news soon!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Scarlet Velvet\n|zhs  = 红丝绒\n|zht  = 紅絲絨\n|ja   = レッドベルベット\n|ko   = 스칼렛 벨벳\n|es   = Scarlet Velvet\n|fr   = Rouge velours\n|de   = Scarlet Velvet\n}}\n==Change History==\n{{Change History|2.0}}\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

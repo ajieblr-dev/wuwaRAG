@@ -1,0 +1,100 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:03Z",
+  "title": "Whisperwind Haven",
+  "pageid": 25638,
+  "wikitext": "{{Location_Infobox\n|title  = Whisperwind Haven\n|image  = Whisperwind Haven.png\n|map    = Solaris-3\n|type   = Region\n|nation = Rinascita\n}}\n{{Intro/Location|Whisperwind Haven}} It stretches across a vast plain outside Ragunna City, adorned with uniquely shaped windmills and babbling streams. When the wind sweeps through, the windmills turn in graceful unison, rippling the streams below. Together, the wind and water merge harmoniously, flowing into the mystical sea of clouds.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Egla Town\"\n|[[Egla Town]]\n|[[File:Egla Town.png|180px]]\n|\n|- id=\"Polyphemos Windmills\"\n|[[Polyphemos Windmills]]\n|[[File:Polyphemos Windmills.png|180px]]\n|\n|- id=\"Silver Moon Grove\"\n|[[Silver Moon Grove]]\n|[[File:Silver Moon Grove.png|180px]]\n|\n|}\n==Quests==\n{{Quest by Category List|Whisperwind Haven Quests}}\n\n==Exploration Report==\n\n==='''Egla: Trapped in Time I'''===\n* Unlocked by reaching 50% exploration.\n\n{{Transclude|Egla: Trapped in Time I|Text|main=1}}\n\n==='''Egla: Trapped in Time II'''===\n* Unlocked by reaching 100% exploration.\n\n{{Transclude|Egla: Trapped in Time II|Text|main=1}}\n\n==NPCs==\n{{NPCs by Location List|Whisperwind Haven}}\n\n==Notable Features==\n===Bosses===\n====Overlord Class====\n* {{Enemy|Nightmare: Thundering Mephis}}\n===Resources===\n* {{Item|Felicitous Olives}}\n\n==Other Languages==\n{{Other Languages\n|en   = Whisperwind Haven\n|zhs  = 拂风水畔\n|zht  = 拂風水畔\n|ja   = そよ風のヘイヴン\n|ko   = 바람 부는 물가\n|es   = Borgo Cantabrisa\n|fr   = Havre aux murmures\n|de   = Flüsterwind Hafen\n|th   = \n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eEgla: Trapped in Time I\u003c/b\u003e",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eEgla: Trapped in Time II\u003c/b\u003e",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "5.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Overlord Class",
+      "number": "5.1.1",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "5.2",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "13"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:09Z",
+  "title": "Daphne",
+  "pageid": 38546,
+  "wikitext": "{{NPC Infobox\n|image=NPC Daphne.png\n|type=Open-World\n|nation=Rinascita\n|location=Septimont\n}}\n'''Daphne''' is a female Septimontian seen arguing with [[Calliope]] at the bathhouse during the morning.\u003cbr\u003eAfterwards, she's seen venting at the docks. \n\n{{Dialogue Start}}\n==Dialogue==\n;(Morning at the bathhouse)\n:;'''Calliope''' What the hell is a peasant doing in the VIP baths?\n:;'''Calliope''' Excuse me! Where's the staff? There's been a mistake.\n:;'''Daphne''' What about commoners? They paid to get in, you know!\n\n:'''Calliope:''' This is the VIP area, peasant. You're in the wrong place. Your baths are on the floor below.\n:'''Daphne:''' Aren't they all just public baths. What's so special about this one?\n:{{DIcon}} Listen in.\n::'''Calliope:''' Heh. How dare you say they're the same? If you want to enjoy the service here, you need to have matching qualifications. Just ask yourself, what are your contributions to Septimont?\n::'''Daphne:''' I-I work hard in my job! What do you mean contributions? Wasn't it we commoners who built this bathhouse to begin with, brick by brick? What right do you have to think you're above anyone else, sitting back and enjoying everything you never lifted a finger for?\n::'''Calliope:''' Hmph. Your perception defines your perspective. How dare a lowly peasant like you speak about the contributions of us nobles? Know your place.\n::'''Daphne:''' So what? Being a noble doesn't mean you can do whatever you want.\n::'''Calliope:''' Heh. I'm sorry, but being nobles, we really can do whatever we want.\n:{{DIcon|Exit}} Leave.\n----\n;(Afternoon-Night at the docks)\n:;'''Daphne''' Damn it! The more I try to let it go, the more pissed off I get! Backing down just makes me feel even more like an idiot!\n:;'''Daphne''' C'mon, Daphne! Get your act together! Why can't you just talk back for once?!\n:'''Daphne:''' If I could do it over again, I'd make sure I shut her up for good! I have to make her apologize!\n:'''Daphne:''' She's clearly the one in the wrong, so why do I have to back off moment I hear the word \"nobles\"... Even Her Excellencyt he Ephor herself said Septimont belongs to all of us.\n:{{DIcon}} What happened?\n::'''Daphne:''' Ugh, I spent months' worth of my salary this morning to get a membership card just so I could try the VIP bathhouse, but then a noblewoman kicked me out. She said a commoner like me doesn't deserve to be in the same space as her...\n::'''Daphne:''' Tell me, do you think I shouldn't talked back to her?\n::{{DIcon}} Show her what you're made of!\n:::'''Daphne:''' Yeah, if only I'd thought of Her Excellency's words at the time...\n:::'''Daphne:''' Even if those nobles made contributions beyond our understanding, everyone deserves the same rights to live in Septimont.\n::{{DIcon}} Just walk it off.\n:::'''Daphne:''' Just walk it off... Why is everyone keeping{{sic}} telling me to just bear with it?\n:::'''Daphne:''' Every time in a situation like this, we think instinctively, \"Just bear with it and it'll be over soon.\" That's why we end up getting pushed around. But we're Septimontians! When things like this happen, shouldn't we muster our courage to stand up and fight back?\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Daphne\n|zhs  = 达芙妮\n|zht  = 達芙妮\n|ja   = ダフネ\n|ko   = 다프네\n|fr   = Daphne\n|de   = Daphne\n|es   = Daphne\n|th   = ดัฟเน\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:26Z",
+  "title": "Lonhaim",
+  "pageid": 42836,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is a male [[NPC]] professor found at the entrance way of [[Startorch Academy]] at night, talking to a group of Regretful Outcast who were once formally accepted to become students at Startorch Academy, but instead chose to become [[Outcasts]]. \n\n==Location==\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Regretful Outcast:''' We were once admitted students! Here, our acceptance letter! Please, let us come back to the Academy!\n:'''Lonhaim:''' ...Acceptance letter? They actually kept it all this time...?\n:'''TARD-E Unit:''' Identity verification complete. Their admission was valid, but their enrollment status expired long ago.\n:'''TARD-E Unit:''' No matter the reason, once you abandon your studies and become Outcasts, you must face the consequences.\n:'''Pleading Outcast:''' We only wanted to learn more. That was why we traded with the outside world! Isn't the Academy supposed to welcome knowledge-seekers?\n:'''Lonhaim:''' You! Do you even grasp the severity of what you've done?\n:'''TARD-E Unit:''' Startorch Academy has no authority over Royan affairs. All three of you will be escorted to the [[Solisylum]] for the Roya's judgment.\n:'''Regretful Outcast:''' No, wait! We can still help! We can build things! We can—!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lonhaim\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

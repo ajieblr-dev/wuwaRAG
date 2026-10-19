@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:27Z",
+  "title": "Fillet Fairmaiden",
+  "pageid": 74684,
+  "wikitext": "{{stub|location, shop, any extra dialogues}}\n{{NPC Infobox\n|image            = NPC Fillet Fairmaiden.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Huizhen Plaza\n|affiliation      = \n|affiliationNote  = \n|title = Restaurant Owner\n|status           = \n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = {{w|Eri Akiyama|Akiyama Eri ({{Lang|mini=1|ja=秋山絵理}})}}\u003cref\u003eX: [https://x.com/aki_e86/status/2087803907896684645 JP VA Self Announcement]\u003c/ref\u003e\n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=鲙娘}} is a [[NPC]] Chef and owner of [[Yuan's Flavors]]. She was an apprentice and heir to the owner of Yuan's Flavor in [[Mengzhou]], but came to the Hold to open her own branch instead. \n\n[[Lili]] manages the Restaurant when Fillet Fairmaiden is busy.\n\n==Location==\n\n==Shop==\n\n{{Dialogue Start}}\n==Idle==\n;(Morning)\n:'''Fillet Fairmaiden:''' Caught you, Stoke. Sneaking bites of charcoal again, are we? Hmph!\n\n;(Morning)\n:'''Fillet Fairmaiden:''' Ember, what are you doing hiding in here? It's time to make soup!\n\n;(Afternoon)\n:'''Fillet Fairmaiden:''' Flare, the heat for that stir-fry just now was spot-on. Big bowl of charcoal for you tonight!\n:'''Flare:''' *Thrilled noise*\n\n;(Daytime)\n:'''Fillet Fairmaiden:''' Rain for the fields, fresh fare for the belly. So, hungry friend, what's your fancy today?\n\n;(Nightime)\n:'''Fillet Fairmaiden:''' A bite before bed? Master always said nothing tempts like the midnight dish...\n\n==Dialogue==\n;(When working)\n:'''Fillet Fairmaiden:''' What'll it be? Slow simmer, quick stir-fry, carving n' slicing, I've got it all covered!\n:{{Icon/Quest|Dialogue Shop|20}} I want to buy some food\n:;(Open Shop)\n:;(Purchase)\n::'''Fillet Fairmaiden:''' You can't go to Yuan Fortress... But if it's that flavor you're after, you came to the right cook!\n::(Not enough Shell Credits)\n::'''Rover:''' (I'm running low on Shell Credits. Maybe I'll come back another time.)\n:{{DIcon}} About yourself\n::'''Fillet Fairmaiden:''' I learned my craft at the restaurant \"Yuan's Flavors.\" Compared to the main house in Mengzhou, this place is really just a Xuanfang branch.\n::'''Fillet Fairmaiden:''' But don't you go thinking I skimp on taste, no, no, no. Every dish I serve matches the main house, bite for bite.\n::'''Fillet Fairmaiden:''' And truth be told, on the days my master isn't at the stove, I think my dishes turn out better!\n::'''Fillet Fairmaiden:''' Don't believe me? Ember, Stoke, Flare, flame on! Let's give our guest a little show!\n:{{DIcon}} About Ember, Stoke, and Flare\n::'''Fillet Fairmaiden:''' You mean those three?\n::'''Fillet Fairmaiden:''' Ran into 'em after I came to Xuanfang. Put 'em to work once in the kitchen, and they've been shadowing me ever since.\n::'''Fillet Fairmaiden:''' Now I can't steam, fry, or braise without 'em keeping the heat just right...\n::'''Fillet Fairmaiden:''' Not that they mind, of course. They know full well that only these hands can make 'em burn their best.\n::'''Fillet Fairmaiden:''' A good knife needs honing, a good wok needs tending! And a real cook gets attached to her tools.\n:{{DIcon|Exit}} \n----\n;(When not working)\n:'''Fillet Fairmaiden:''' Fight in the middle of my cooking again, and you can all forget about charcoal tonight!\n\n:'''Ember \u0026 Stoke \u0026 Flare:''' *Sulky little noises*\n----\n;(Past Midnight?)\n:{{DIcon|Quest}} Observe the Situation\n:'''Fillet Fairmaiden:''' Ember, nice work on that stew. Same again tomorrow!\n:'''Fillet Fairmaiden:''' Stoke, the water took much too long to boil yesterday. Yes, I'm calling you out!\n:'''Fillet Fairmaiden:''' And Flare, less smoke, more sizzle! I couldn't see my own wok in there!\n:'''Fillet Fairmaiden:''' That's all for now. Think it over while you chew on your charcoal, alright?\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fillet Fairmaiden\n|zhs  = 鲙娘\n|zht  = 鱠娘\n|ja   = 鱠娘\n|ko   = 회회\n|fr   = Petite poissonnière\n|de   = Fräulein Filet\n|es   = Damisela Filetera\n|th   = ธิดาครัวมัจฉา\n|pt   = Donzela do Filé\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:鲙娘]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "5.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "5.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

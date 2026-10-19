@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:01Z",
+  "title": "Irion",
+  "pageid": 36655,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Irion.png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Sanguis Plateaus\n|location2         = Tetragon Temple (Area)\n|affiliation      = Septimont\n|affiliationNote  = Gladiator\n|group            = Gladiator\n}}__NOTOC__\n'''Irion''' is a male Gladiator NPC resting inside the [[Tetragon Temple]]. He talks about a Huanglong couple he met that left an impression on him. \n\n{{Dialogue Start}}\n==Dialogue==\n:'''Irion''': Strange, I can still picture them clearly...\n:'''Irion''': The [[Fuling|girl]] looked so pale, but her smile was as bright and warm as the sun.\n:'''Irion''': The [[Wuli|young lad]] walked beside her... Not in a hurry, just calm and steady.\n:'''Irion''': I gave them a kind reminder that once the High Tide passed, they could go to Tetragon Temple and ask the Priestesses about their fate.\n:'''Irion''': I said even if you can't change fate, knowing what lies ahead is better than walking blind.\n:'''Irion''': But they just smiled and said that compared to the time they still had together, the future didn't matter much. To them, every day they were alive, and together, was already a gift.\n:'''Irion''': Honestly… they weren't wrong. As long as you're still breathing, live each day the best you can. That's what really counts.\n{{Dialogue End}}\n\n==Note==\n* The couple mentioned is Wuli and Fuling from {{Quest|Immortal Blaze}} who is touring Septimont at the time.\n\n==See Also==\n* [[Vichy]] - Also involved with the couple\n\n==Other Languages==\n{{Other Languages\n|en   = Irion\n|zhs  = 伊里昂\n|zht  = 伊里昂\n|ja   = イリオン\n|ko   = 이리온\n|es   = Irion\n|fr   = Irion\n|de   = Irion\n}}\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Note",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

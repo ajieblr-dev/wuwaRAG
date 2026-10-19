@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:02Z",
+  "title": "Wicktorio",
+  "pageid": 28248,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Wicktorio.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Whisperwind Haven\n|group            = \n|affiliation      = \n}}\n\nJohn '''Wicktorio''' is the mayor of Egla Town, who is a retired Acolyte and accountant of the [[Order of the Deep|Order]]. After the passing of his wife, her Echo named Daisy, appeared to keep him company for the next twenty-years.\nThat is until an unfortunate event occurred.\n\nHe can be found with [[Cosimo]] in front of an overgrown and abandon house during 07:00 to 10:00, seemingly with regrets.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle==\n{{Dialogue Start}}\n;(Daytime, in front of the abandoned house)\n:'''Cosimo:''' Heh... How many years have we been strolling here every morning?\n:'''Wicktorio:'''  I can't remember. My memory is not what it used to be. We're just old fools approaching the grave.\n:'''Cosimo:''' Every time I see this house, I feel as if the child's right before me...\n:'''Cosimo:''' Oh Imperator, is her fate also part of your design?\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Wicktorio:''' Welcome to Egla Town, traveler from afar. May you enjoy your time here.\n:'''Wicktorio:''' I'm Wicktorio, the mayor. Feel free to ask me about anything related to the town.\n:{{DIcon|Option}}: Could you tell me about the history of this place?\n::'''Wicktorio:''' Certainly, not many young people care about history these days...\n::'''Wicktorio:''' The history of our town begins with the first settlers in Rinascita. Later, The Order united the people during the [[Dark Tide]] and established a city-state. Over time, Ragunna City became the cultural and life center of the region.\n::'''Wicktorio:''' Egla has managed to preserve its original essense due to its relatively peaceful enviornment, thus placing greater importance on the traditions of Ragunna.\n:{{DIcon}}: What do you recommend here?\n::'''Wicktorio:''' You can find the most traditional Ragunna cuisine at the Burrata Bakery, or immerse yourself in town life at the Sorrentino Inn.\n::'''Wicktorio:''' Or... you could quietly hide behind the curtains at night and enjoy the Night Reveries, prepared for the knights.\n:{{DIcon}}: About the unattended house.\n::'''Wicktorio:''' The house you're talking about... That family left Rinascita nearly twenty years ago.\n::'''Wicktorio:''' It's just old news, not worth delving into. Please don't concern yourself with it.\n:{{DIcon}}: Thank you. See you around.\n::'''Wicktorio:''' Goodbye, foreign visitor. May the glory of the Sentinel be with you.\n{{Dialogue End}}\n\n==Trivia==\n*Wicktorio is a reference to the popular fictional character {{W|John Wick (character)|John Wick}}.\n*There is a book referred by [[Julia]] where Wicktorio is an accountant of the Montelli family instead.\n\n==Other Languages==\n{{Other Languages\n|en   = Wicktorio\n|zhs  = 维托里奥\n|zht  = 維托里奧\n|ja   = ヴィットリオ\n|ko   = 비토리오\n|es   = Wicktorio\n|fr   = Wicktorio\n|de   = Wicktorio\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:38Z",
+  "title": "Frostlands Surface",
+  "pageid": 40442,
+  "wikitext": "{{Location Infobox\n|title        = Frostlands Surface\n|image        = Frostlands Surface.png\n|type         = Province\n|map          = Solaris-3\n|event        = \n|nation       = Roya Frostlands\n|demonym      = \n}}\nThe '''Frostlands Surface''' is the original homeland of the [[Roya Tribe|Roya]] before its destruction and freezing during the [[The Lament|Lament]], and the creation of [[Lahai-Roi]] in the subterranean cavern beneath. The Polar Collective would establish diplomatic ties with the Roya and establish its [[Spacetrek Collective Research Institute|Research Institute]] on the sword that connects the tropical realm to the surface and holds it up. It is where the [[Exostrider]] slumbers, awaiting its final duty.\n\nThe Frostlands Surface can be reached during [[The Star That Voyages Far]].\n\n==Regions==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Description\n|- id=\"Frostlands Transit Port\"\n|[[File:Frostlands Transit Port.png|180px]]\u003cbr\u003e[[Frostlands Transit Port]]\n|Lahai-Roi's only connection to the outside world, and to the warmer world below.\n|- id=\"Mount Gjallar\"\n|[[File:Mount Gjallar.png|180px]]\u003cbr\u003e[[Mount Gjallar]]\n|The great mountain rises through the frostlands, towering over history.\n|- id=\"Starblind Crashsite\"\n|[[File:Starblind Crashsite.png|180px]]\u003cbr\u003e[[Starblind Crashsite]]\n|The final resting place of humanity's last reach to the stars, and the last eyes who saw beyond the Etheric Sea.\n|- id=\"Upphaf Forest Ruins\"\n|[[File:Upphaf Forest Ruins.png|180px]]\u003cbr\u003e[[Upphaf Forest Ruins]]\n|The memory of Lahai-Roi's ancient landscape remains in the ice, waiting to be woken up.\n|- id=\"Tidelost Forest\"\n|[[File:Tidelost Forest.png|180px]]\u003cbr\u003e[[Tidelost Forest]]\n|The waves of the icy north crash into the shores, as the Exostrider slumbers.\n|}\n\n==Quests==\n{{Quest by Category List|Frostlands Surface Quests}}\n\n==Other Languages==\n{{Other Languages\n|en   = Frostlands Surface\n|zhs  = 冰原地表\n|zht  = 冰原地表\n|ja   = 氷原の地上\n|ko   = 빙원 지표면\n|fr   = Surface des Terres de Givre\n|de   = Frostlande-Oberfläche\n|es   = Superficie del Páramo Helado\n|th   = พื้นผิวทุ่งน้ำแข็ง\n|pt   = Superfície das Terras Geladas\n}}\n\n==Change History==\n{{Change History|3.1}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Regions",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

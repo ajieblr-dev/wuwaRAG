@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:32Z",
+  "title": "Agliano",
+  "pageid": 62892,
+  "wikitext": "{{NPC Infobox\n|image=NPC Agliano and Siric.png\n|type=Open-World\n|nation=Lahai-Roi\n|location=Startorch Academy - Teaching Zone\n|affiliation=\n|group=\n}}\n'''{{PAGENAME}}''' and '''Siric''' is a male Academy Affair staff NPC who appears at Night in one of the class.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Agliano:''' Have logistics bring over another half-bag of cement powder.\n:'''Agliano:''' Can't believe they managed to blast a hole in it. 3D printing alone won't cut it for a patch job.\n:'''Siric:''' I've seen worse. Last week at the proving grounds was a real mess.\n:'''Siric:''' A student had a Forte freak-out and caused a gravity shift in a lecture hall.\n:'''Siric:''' By the time I got there, everything was just... floating.\n:'''Agliano:''' Ah, the new generation outdoes the old. These kids keep getting more powerful. Back in my day—\n:{{DIcon}} What?\n:'''Agliano:''' Oh, no. It's nothing.\n:'''Siric:''' Let's wrap this up. They've got lectures tomorrow.\n{{Dialogue End}} \n\n==Other Language==\n{{Other Languages\n|en   = Agliano\n|zhs  = 阿格里亚诺\n|zht  = 阿格里亞諾\n|ja   = アグリアーノ\n|ko   = 아그리아노\n|fr   = Agliano\n|de   = Agliano\n|es   = Agliano\n|th   = Agliano\n}}\n{{Other Languages\n|en   = Siric\n|zhs  = 希里克\n|zht  = 希里克\n|ja   = シリック\n|ko   = 시릭\n|fr   = Siric\n|de   = Siric\n|es   = Siric\n|th   = Siric\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Language",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

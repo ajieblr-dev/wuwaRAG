@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:51Z",
+  "title": "Nightmare: Mourning Aix",
+  "pageid": 31826,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Nightmare Enemy Infobox\n|name      = Nightmare: Mourning Aix\n|title     = Face of Lust\n|image     = Nightmare Mourning Aix Icon.png\n|dmgtype   = Spectro\n|weakpoint = Unknown\n|echo      = Yes\n|class     = Overlord\n|family    = Tacet Discord\n|group     = Howler\n|nation    = Rinascita\n|region    = Nimbus Sanctum\n|variants  = Mourning Aix; Tactical Hologram: Mourning Aix\n}}{{Description|A special Tacet Discord that lurks in the intricate network of the Dreamscape Nodes.}}\n{{Lang|'''Nightmare: Mourning Aix'''|zh=梦魇·无冠者}} is an [[Overlord Class]] [[Nightmare Variant|Nightmare]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in {{Location|Nimbus Sanctum|nocat=1}}.\n\n==Drops==\nDefeating this boss offers the following drop:\n{{Card|type=Echo|Nightmare: Mourning Aix/Echo|mini=1|caption=1}} \n\n==Stats==\n{{Enemy Stats}} \n\n==Description==\n{{Description|A special Tacet Discord that lurks in the intricate network of the Dreamscape Nodes. It gathers frequencies of a particular negative emotion emanating from across all of Ragunna.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Nightmare: Mourning Aix\n|zhs  = 梦魇・哀声鸷\n|zht  = 夢魘・哀聲鷙\n|ja   = ナイトメア・哀切の凶鳥\n|ko   = 악몽 ・ 애곡하는 아익스\n|es   = Pesadilla: Aix del Lamento\n|fr   = Cauchemar : Vautour plaignant\n|de   = Albtraum: Trauernde Aix\n}}\n\n==Change History==\n{{Change History|2.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

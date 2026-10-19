@@ -1,0 +1,100 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:01Z",
+  "title": "Whining Aix's Mire",
+  "pageid": 2589,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title  = Whining Aix's Mire\n|image  = Whining Aix's Mire.png\n|map    = Solaris-3\n|type   = Region\n|nation = Huanglong\n}}\n'''Whining Aix's Mire''' is a region in [[Huanglong]]. It consists of many landforms, ruins and buildings. There is a giant storm blocking movement into it in the middle of the region. The storm is later cleared out during the [[Stygian Lacrimosa]] quest.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Court of Savanatae\"\n|[[Court of Savantae Ruins]]\n|[[File:Court ruins.png|180px]]\u003cbr /\u003e\n|The ruins of the Court of Savantae's research building, where miracles were achieved.\n|- id=\"Heron Wetland\"\n|[[Heron Wetland]]\n|[[File:Heron Wetland.png|180px]]\u003cbr /\u003e\n|Wetlands containing a strange impassable storm, full of complex emotions.\n|- id=\"Frosting Harbor\"\n|[[Frosting Harbor]]\n|[[File:Frosting Harbor.png|180px]]\u003cbr /\u003e\n|A small harbour connecting to Mt. Firmament.\n|- id=\"Lollo Warehouse\"\n|[[Lollo Warehouse]]\n|[[File:Lollo Warehouse.png|180px]]\u003cbr /\u003e\n|A warehouse along the route to Jinzhou city.\n|- id=\"Plateau Ruins\"\n|[[Plateau Ruins]]\n|[[File:Plateau Ruins.png|180px]]\u003cbr /\u003e\n|The ruins of a skyscraper amongst cedar trees.\n|- id=\"Port Gunchao\"\n|[[Port Gunchao]]\n|[[File:Port Gunchao.png|180px]]\u003cbr /\u003e\n|A port along an important route to Jinzhou city.\n|- id=\"Waving Battlefield\"\n|[[Waving Battlefield]]\n|[[File:Waving Battlefield.png|180px]]\u003cbr /\u003e\n|A strange, broken ravine containing the Somnoire dreamscape.\n|}\n\n==Quests==\n{{Quest by Category List|Whining Aix's Mire}}\n\n==Exploration Report==\n===\"The Tale of Two Love Birds\" Review I===\n\n*Unlocked by reaching 50% exploration.\n\n{{Transclude|\"The Tale of Two Love Birds\" Review I|Text|main=1}}\n\n===\"The Tale of Two Love Birds\" Review II===\n\n*Unlocked by reaching 100% exploration.\n\n{{Transclude|\"The Tale of Two Love Birds\" Review II|Text|main=1}}\n\n==Notable Features==\n===Tacet Fields===\n*[[Tacet Field: Whining Aix's Mire]]\n===Bosses===\n*{{Enemy|Mourning Aix}}\n*{{Enemy|Mech Abomination}}\n\n==Gallery==\n\u003cgallery\u003e\nFile:Whining Aix's Mire Map Template.png|Map of the region\n\u003c/gallery\u003e\n\n==Trivia==\n\n==Other Languages==\n{{Other Languages\n|en   = Whining Aix's Mire\n|zhs  = 怨鸟泽\n|zht  = 怨鳥澤\n|ja   = {{Rubi|怨鳥|えんちょう}}の沼\n|ko   = 울음새 늪\n|es   = Pantano de Aix\n|fr   = Tourbe piaulante\n|de   = Jaulender Sumpf\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\"The Tale of Two Love Birds\" Review I",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\"The Tale of Two Love Birds\" Review II",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tacet Fields",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "13"
+    }
+  ]
+}

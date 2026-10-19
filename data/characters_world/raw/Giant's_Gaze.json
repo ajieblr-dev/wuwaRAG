@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:44Z",
+  "title": "Giant's Gaze",
+  "pageid": 38239,
+  "wikitext": "{{Location Infobox\n|title  = Giant's Gaze\n|image  = Giant's Gaze.png\n|type   = Region\n|map    = Solaris-3\n|nation = Roya Frostlands\n}}\n{{Intro/Location|Giant's Gaze}}\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Spacetrek Observatory\"\n|[[Spacetrek Observatory]]\n|[[File:Spacetrek Observatory.png|180px]]\n|\n|- id=\"Orbit Valley Pass\"\n|[[Orbit Valley Pass]]\n|[[File:Orbit Valley Pass.png|180px]]\n|\n|}\n\n==Quests==\n{{Quest by Category List|Giant's Gaze Quests}}\n\n==Exploration Report==\n===\"A Study of Royan Mythology\" (Excerpt)===\n* Achieve 50% Area Exploration Progress to unlock the full report.\n\n{{Transclude|\"A Study of Royan Mythology\" (Excerpt)|Text|main=1}}\n\n===\"The Royan Concept of Time\" (Excerpt)===\n* Achieve 100% Area Exploration Progress to unlock the full report.\n\n{{Transclude|\"The Royan Concept of Time\" (Excerpt)|Text|main=1}}\n\n==Notable Features==\n===Challenges===\n* [[Forgery Challenge: Lesson in Void]]\n\u003c!--\n===Enemies===\n====Common Class====\n* {{Enemy|Abyssal Gunmaster}} \u003cexample\u003e\n\n====Elite Class====\n* \n--\u003e\n===Resources===\n* {{Item|Pine Cone}}\n\n==Other Languages==\n{{Other Languages\n|en   = Giant's Gaze\n|zhs  = 巨目远野\n|zht  = 巨目遠野\n|ja   = ジャイアンツ・ゲイズ\n|ko   = 자이언트 게이즈 ・ 평야\n|fr   = Regard du Géant\n|de   = Gigantenblick\n|es   = Vista de Titán\n|th   = ลานไจแอนท์เกซ\n}} \n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\"A Study of Royan Mythology\" (Excerpt)",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\"The Royan Concept of Time\" (Excerpt)",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

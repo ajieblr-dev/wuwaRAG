@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:00Z",
+  "title": "Chronorift Metropolis",
+  "pageid": 37311,
+  "wikitext": "{{Stub}}\n{{Location Tabs}}\n{{Location Infobox\n|title        = Chronorift Metropolis\n|image        = \u003cgallery\u003e\nChronorift Metropolis.png|In-Game\nChronorift Metropolis Map.png|Map\n\u003c/gallery\u003e\n|type         = Region\n|map          = Solaris-3\n|nation       = The Black Shores\n}}\n{{Quote|A ruined city, like amber trapped in the Sonoro. Once-bustling streets lie overgrown with wild grass, low roads swallowed by seawater. The Lament repeats endlessly, and time and space are fractured, but this view seems frozen, stopped in a silent eternity.|[https://wutheringwaves.kurogames.com/en/main#regions Wuthering Waves Official Website]}}\n{{Intro/Location|Chronorift Metropolis}}\n\n==Quests==\n{{Quest by Category List|Chronorift Metropolis Quests}}\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n! Description\n|- id=\"Shashou Cafe\"\n|[[Shashou Cafe]] \n|[[File:Shashou Cafe.png|180px]]\n|\n|- id=\"Sazanami Avenue\"\n|[[Sazanami Avenue]]\n|[[File:Sazanami Avenue.png|180px]]\n|\n|- id=\"Shiawase Fountain Square\"\n|[[Shiawase Fountain Square]]\n|[[File:Shiawase Fountain Square.png|180px]]\n|\n|- id=\"Sakura Pedway\"\n|[[Sakura Pedway]]\n|[[File:Sakura Pedway.png|180px]]\n|\n|- id=\"Sakura Quarter\"\n|[[Sakura Quarter]]\n|[[File:Sakura Quarter.png|180px]]\n|This area was once known as \"Honami's most beautiful living quarter,\" where homes and cherry blossoms stood in perfect harmony. Though the houses now lie hollow and lifeless, the cherry blossoms only flourish more vibrantly...\n|- id=\"Harukaze Stadium\"\n|[[Harukaze Stadium]]\n|[[File:Harukaze Stadium.png|180px]]\n|Built under the City Hall's initiative, this once-grand football arena has long fallen into neglect. In its prime, however, the annual \"Harukaze Cup\" drew school teams from across the region and filled the stands with cheering crowds.\n|- id=\"Meishin Passageway\"\n|[[Meishin Passageway]]\n|[[File:Meishin Passageway.png|180px]]\n|\n|- id=\"Honami Convention Center\"\n|[[Honami Convention Center]]\n|[[File:Honami Convention Center.png|180px]]\n|\n|- id=\"Hanakage Underground Street\"\n|[[Hanakage Underground Street]]\n|[[File:Hanakage Underground Street.png|180px]]\n|A cultural passage beneath the city, famed for its flower trees and the celebrated Seisen Garden. It was ance the city's hub for film festivals and photography exhibitions.\n|- id=\"Honami Central Park\"\n|[[Honami Central Park]]\n|[[File:Honami Central Park.png|180px]]\n|Nestled in the city's center, this park was once a beloved retreat, its gardens draped in cascades of wisteria. The fish windsocks floating above the park used to be a popular sight, but now, for some reason, they all seem to be slowly drifting toward a single spot...\n|}\n\n==Notable Features==\n===Nightmare Nests===\n* [[Honami City Nightmare Nest]]\n\n===Resources===\n* {{Item|Summer Flower}}\n* {{Item|Lemongrass}}\n* {{Item|Perilla}}\n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n===Videos===\n\u003cgallery\u003e\n\u003c/gallery\u003e \n\n==References==\n{{Reflist}}\n\n==Other Languages==\n{{Other Languages\n|en   = Chronorift Metropolis\n|zhs  = 时隙废都\n|zht  = 時隙廢都\n|ja   = 時の隙間に廃れていく街\n|ko   = 시간의 폐허\n|fr   = Métropole de la Faille Temporelle\n|de   = Stadt im Zeitriss\n|es   = Metrópolis de Cronobrecha\n|th   = มหานครในรอยแยกเวลา\n}}\n\n==Change History==\n{{Change History|2.8}} \n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Nightmare Nests",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "11"
+    }
+  ]
+}

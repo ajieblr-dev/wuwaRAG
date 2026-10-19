@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:42Z",
+  "title": "Fusion Dreadmane",
+  "pageid": 23022,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Fusion Dreadmane\n|title=\n|image=Fusion Dreadmane Icon.png\n|dmgtype=Fusion\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Howler\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A Common Class Howler TD widely distributed in the wild. Individuals often take actions in groups and follow the leader in charges.}}\n{{Intro/Enemy}}\n==Drops== \n{{Drops|Common Howler}}\n\n==Stats==\n{{Enemy Stats|Fusion Dreadmane}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Fusion Dreadmane|customheader=Fusion Dreadmane}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Fusion damage}}.\u003cbr/\u003eWolf-like animals that roam the dry areas, known for their fury and bloodlust.\nIn order to fight against more powerful enemies, Annihilation Dreadmanes usually hunt in packs. Their operations are marked by the art of carnage.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Fusion Dreadmane\n|zhs  = 火鬃狼\n|zht  = 火鬃狼\n|ja   = 火鬣狼\n|ko   = 갈기늑대 ・ 불꽃\n|es   = Lobo de Fusión\n|fr   = Loup fusionier\n|de   = Fusion Dreadmane\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

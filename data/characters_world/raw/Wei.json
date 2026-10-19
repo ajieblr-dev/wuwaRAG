@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:00Z",
+  "title": "Wei",
+  "pageid": 9803,
+  "wikitext": "{{Meta\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{NPC Infobox\n|name             = Wei\n|image            = NPC Wei.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}'''Wei''' is an NPC in {{Location|Jinzhou}}.\n\u003c!--\n==Shop==\n{{Shop/Wrapper|\n{{Shop|Item|cost|stock|total=1}}\n|total=|vendor={{subst:#titleparts:{{subst:PAGENAME}}}}}}\n--\u003e\n==Location==\n{{Map Embed|Jinzhou|Wei}}\n\u003c!--\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n--\u003e\n==Quests and Events==\n{{Quests and Events}}\n\u003c!--\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Wei:''' Hello! Are you also here to submit to \"Tidal Geography\" of the [[Pioneer Association]]?\n:{{DIcon}} No, I'm just looking around.\n:'''Wei:''' Well... If you don't mind, could you take a look at the submission I prepared this time?\n:'''Wei:''' I started making submissions not long ago, and I don't know if everyone likes my photos.\n:{{DIcon}} The shot is great.\n:'''Wei:''' Thank you. The publisher started a new column called \"Return to the Front Tide\" in collaboration with big-shot photographers of the [[New Federation]] and the Pioneer Association. It's open for public submission regularly.\n:'''Wei:''' There's no requirement for experience and themes, which means even a nobody photographer like me can take a shot.\n:'''Wei:''' I heard that the selected photos will be used for image reconstruction using AI to restore the scenes of the world before [[the Lament]].\n:'''Wei:''' We can see the former glory of the skyscrapers from the remnants, and what used to be a lustrous sea of flowers from the withered petals.\n:'''Wei:''' Just like magic. Takes everyone back to the past.\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Wei\n|zhs  = 阿伟\n|zht  = 阿偉\n|ja   = 阿偉（アイ）\n|ko   = 영욱\n|es   = Wei\n|fr   = Wei\n|de   = Awei\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:27Z",
+  "title": "Lucretia",
+  "pageid": 42436,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Event\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|location2        = Rabelle College\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is an event-exclusive [[NPC]] for the {{Quest|Gold Suspended in Shadows}} during the {{Extra Effect|New Solar Celebration|New Solar Celebration|The Exostrider poured forth light and heat from its Reactor Drive, sheltering life from the killing frost. Grateful for this gift, the Roya revered the Reactor Drive as their sun. They took it upon themselves to gather the Exostrider's \"cells,\" making this quiet labor the duty of their tribe.\u003cbr\u003eNow, their ancient vow is complete. As the new sun rises, they hold the New Solar Celebration, both to mark the renewal and to remind their kin of the purpose that set them on this path.}}.\n\nShe is found with Patricia outside the Debate Club Expedition room at {{color|help|12:00-15:00}}.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Lucretia:''' Which debate you wanna catch? I think the Helios one sounds pretty interesting.\n:'''Patricia:''' Which brings more suffering: resenting that Helios shines on everyone BUT me, or resenting that it doesn't shine on ONLY me?\n:'''Lucretia:''' Given Helios's output, being the sole recipient would probably fry any carbon-based life. But then again, long-term deprivation isn't great either...\n:'''Patricia:''' Yeahhh, this is why the \"strict standardization vs. innovation in experiments\" debate is probably more your vibe.\n:'''Lucretia:''' Hey, which one will you be checking out?\n:{{DIcon}} The Helios metaphor feels relatable.\n::'''Lucretia:''' I feel the same! Using Helios as a metaphor for someone unreachable, the way both scenarios hit you with that longing, that gut-punch of it was never going to happen... UGH. It's so good.\n::'''Patricia:''' And since we're doing metaphors, Helios could also stand for, like... universally desired things. You know. Research funding.\n::'''Patricia:''' Imagine if everyone else got their grants approved, and I was the only one stuck with rewriting my proposal... Oh, the pain!\n:{{DIcon}} The debate on experimental design is more practical.\n::'''Patricia:''' That's true. Both perspectives are valid, but that kind of discussion probably offers more angles and deeper insights. Let's go with that one.\n::'''Lucretia:''' Alright, since you're finally stepping out of the lab and Archives for once, we'll do it your way. Thanks, {{Rover}}. See you later!\n:{{DIcon}} I'm not sure.\n::'''Lucretia:''' Tough choice either way. Good thing we're not the ones on stage. We just get to listen to the debaters do their thing!\n{{Dialogue End}}\n\n==See Also==\n*[[Marvin]] is recruiting for the Debate Club\n*[[Vera]] is part of the Debate Club\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n\n==Change History==\n{{Change History|3.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

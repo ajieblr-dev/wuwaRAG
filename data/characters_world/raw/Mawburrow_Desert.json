@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:34Z",
+  "title": "Mawburrow Desert",
+  "pageid": 38244,
+  "wikitext": "{{Location Infobox\n|title  = Mawburrow Desert\n|image  = Mawburrow Desert.png\n|type   = Region\n|map    = Solaris-3\n|nation = Roya Frostlands\n}}\n{{Intro/Location|Mawburrow Desert}} The sandy expanse lies in the hinterland of Lahai-Roi and is infested with [[Voidworm|Voidworms]]. Its sole areas, the ''Voidspawn Control Complex Sectors'', are only accessible during the main quest [[What Burns Beneath Frostlands]].\n\n==Quests==\n{{Quest by Category List|Mawburrow Desert Quests}}\n\n==Exploration Report==\n\n==='''Terminal Log Recovered form a Lost Mawburrow Desert Expedition Member'''===\n* Unlocked by reaching 50% exploration.\n\n{{Transclude|Terminal Log Recovered form a Lost Mawburrow Desert Expedition Member|Text|main=1}}\n\n==='''Mr. Chase's Published Eulogy'''===\n* Unlocked by reaching 100% exploration.\n\n{{Transclude|Mr. Chase's Published Eulogy|Text|main=1}}\n\n==Notable Features==\n\n===Challenges===\n* [[Tacet Field: Mawburrow Desert]]\n* [[Voidspawn Emergence]]\n\u003c!--\n===Bosses===\n* {{Enemy|Fenrico}} \u003cexample\u003e\n\n===Enemies===\n====Common Class====\n* {{Enemy|Abyssal Gunmaster}} \u003cexample\u003e\n\n====Elite Class====\n* \n\n===Resources===\n* {{Item|\"Afterlife\"}} \u003cexample\u003e\n--\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Mawburrow Desert\n|zhs  = 隐喙深腹\n|zht  = 隱喙深腹\n|ja   = モーバロウ・デザート\n|ko   = 모버로우 사막\n|fr   = Désert de la gueule\n|de   = Schlundgraben-Wüste\n|es   = Desierto Faucescavadas\n|th   = ลานทรายมอว์เบอร์โรว์\n}} \n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eTerminal Log Recovered form a Lost Mawburrow Desert Expedition Member\u003c/b\u003e",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eMr. Chase's Published Eulogy\u003c/b\u003e",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "3.1",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "9"
+    }
+  ]
+}

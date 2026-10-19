@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:41Z",
+  "title": "Banagher",
+  "pageid": 32981,
+  "wikitext": "{{Stub|Language}}\n\n{{NPC Infobox\n|image=.png\n|type=Open-World\n|nation=Rinascita\n|location=Septimont\n|group=\n|affiliation=\n|title=\n|ancestry=\n|father=\n|mother=\n|spouse=\n|sibling=\n|child=\n|relative=\n\u003c!--Voice Actors--\u003e\n|voiceEN=\n|voiceCN=\n|voiceJP=\n|voiceKR=}}\n\n{{Quote|\"Clearance sale! Everything goes! Best prices in the market! Come check out the best gear in Septimont!\"}}\n\n'''Banagher''' is a male NPC in Septimont. A merchant who claims to sell the same premium gears worn by strong Gladiators at a low price.\nHe is involved for the Achievement: [[Reap What You Sow]]\n\n\u003c!--\n== Quests and Events ==\n{{Quests and Events}}\n--\u003e\n\n== Idle ==\n{{Dialogue Start}}\n\n{{Dialogue End}}\n\n== Dialogue ==\n:'''Banagher:''' Don't miss out! Clearing out my inventory and passing the savings on to you! Get the same premium gear used by top-tier Gladiators for just 30% of their original price!\n:'''Deosthene:''' 30% of their original price? Feels a bit fishy...\n:'''Pelana:''' You sure you're not trying to pass off some crappy gear? How's the quality?\n:'''Larko:''' Let's try somewhere else. If there's one thing I've learned over all these years, it's that you get what you pay for.\n:'''Banagher:''' Of course not! Ask anybody and they'll tell you that old Banagher's as trustworthy a merchant as they come!\n:'''Banagher:''' I'm sure you've heard of [[Annika]], right? She and I are currently in a collaboration, that's why I'm able to offer such great prices! Tell you what, seeing as you're all new recruits, I'll make you an even better deal. Buy two, get one free! Take it as a bit of charity from me!\n:'''Deosthene:''' You've got my attention. We'll take three gear sets, then. We need new equipment anyway.\n:'''Banagher:''' Fantastic! Thanks for your business!\n:'''Larko:''' You sure this is okay?\n:'''Deosthene:''' Relax. My treat. This gear is so cheap, even if it falls apart after a few steps, we won't have lost much.\n\n\u003c!--\n==Gallery==\n\u003cgallery\u003e\u003c/gallery\u003e\n--\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Banagher\n|zhs  = 巴纳吉\n|zht  = 巴納吉\n|ja   = バナージ\n|ko   = 바나게르\n|es   = Banagher\n|fr   = Banagher\n|de   = Banagher\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

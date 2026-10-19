@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:08Z",
+  "title": "Yangming",
+  "pageid": 9389,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|name             = Yangming\n|image            = NPC Yangming.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Lake Heights\n|group            = \n|affiliation      = \n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = Hualin\n|relativeNote     = Grandfather\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Yangming''' is an NPC in {{Location|Lake Heights}}.\n\u003c!--\n==Shop==\n{{Shop/Wrapper|\n{{Shop|Item|cost|stock|total=1}}\n|total=|vendor={{subst:#titleparts:{{subst:PAGENAME}}}}}}\n\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n\n==Quests and Events==\n{{Quests and Events|{{subst:#titleparts:{{subst:PAGENAME}}}}}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction)\n:'''Yangming:''' Shh, keep it down. Mom won't hear me if it's too loud.\n:{{DIcon}} Your mom?\n:'''Yangming:''' Right! Mom is a very impressive [[Midnight Rangers|Midnight Ranger]]. She's taken down tons of [[Tacet Discord]]s!\n:'''Yangming:''' I come here every night to talk to her.\n:{{DIcon}} You come to talk here?\n:'''Yangming:''' [[Hualin|Grandpa]] says this is the only place where Mom can hear me.\n:'''Yangming:''' So, every night, I come here and tell her what happened during the day.\n----\n;(Subsequent interaction - Set 1)\n:'''Yangming:''' Mom, I've been a good boy today. Didn't make the teacher angry.\n:'''Yangming:''' The teacher said as long as I work a little harder, I'll get a good grade for the next exam.\n\n;(Subsequent interaction - Set 2)\n:'''Yangming:''' Mom, guess what? Grandpa got mixed up again while cooking dinner today.\n:'''Yangming:''' He used [[sugar]] instead of [[salt]]! We were eating and it was so sweet we couldn't stop laughing!\n:'''Yangming:''' The dishes you cooked were better... Sob... Sob...\n:'''Yangming:''' No, I'm fine. I'm a grown man now. I shouldn't cry.\n\n;(Subsequent interaction - Set 3)\n:'''Yangming:''' I'm so sleepy. I should head back. We talked a lot today.\n:'''Yangming:''' Mom, let's chat again tomorrow night. I'll have more stories to share.\n:'''Yangming:''' Goodbye... Mom.\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Yangming\n|zhs  = 阳明\n|zht  = 陽明\n|ja   = 陽明（ヤンメイ）\n|ko   = 청명\n|es   = Yangming\n|fr   = Yangming\n|de   = Yangming\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

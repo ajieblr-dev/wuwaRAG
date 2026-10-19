@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:33Z",
+  "title": "Ahab",
+  "pageid": 31698,
+  "wikitext": "{{NPC Infobox\n|name             = Ahab\n|title            = Captain Ahab\n|image            = NPC Ahab.png\n|type             = Quest\n|nation           = Rinascita\n|location         = \n|group            = \n|affiliation      = Riccioli Islands\n|affiliation2     = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}} \n'''Ahab''' is a deceased quest-exclusive [[NPC]] that first appears in {{Quest|Set Sail! Pro Angler!}}.\n\n==Description==\nAhab is the captain of the ship Pequod. According to his diary, he is not originally from [[Rinascita]], but arrived on the shores of [[Riccioli Islands]] after he and his crew pursued [[Cetus the Tidebreaker]] into a whirlpool.\n\nHe vanishes along with his crew after [[Cetus the Tidebreaker]] is healed. [[Ishmael]] reveals that they had died decades ago, though their spirts lingered until peace was restored to the waters of Riccioli Islands.\u003cref\u003e{{Quest|I Alone Survived}}\u003c/ref\u003e\n\n==Quests and Events==\n{{Quests and Events}} \n\n==Trivia==\n*Ahab is a reference to the protagonist of ''{{w|Moby-Dick}}'', the novel that the story of [[Old_Man_and_the_Whale/Story|Old Man and the Whale]] is based on. The Ahab of the novel is also the tyrannical captain of a ship named Pequod who is seeking vengeance against a whale.\n** In the original novel, Ahab is named after the biblical {{w|Ahab|King Ahab}}.\n\n==Other Languages==\n{{Other Languages\n|en   = Ahab\n|zhs  = 亚哈\n|zht  = 亞哈\n|ja   = アハブ\n|ko   = 아합\n|es   = Ahab\n|fr   = Ahab\n|de   = Ahab\n}} \n\n==Change History==\n{{Change History|2.1}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

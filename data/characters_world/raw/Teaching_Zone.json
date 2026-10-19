@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:41Z",
+  "title": "Teaching Zone",
+  "pageid": 39070,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Teaching Zone\n|image     = Startorch Academy - Teaching Zone.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Roya Frostlands\n|region    = Startorch Academy (Region)\n}}\n\n'''Teaching Zone''' is an area of [[Startorch Academy (Region)|Startorch Academy]], [[Roya Frostlands]]. \n\n==Schedule of Class Lectures==\nPlayers can attend class at the following time.\n===CLASS 3 {{Icon|Voidmatters}} Department of Voidmatters ===\n* \u003cnowiki\u003e06:00-16:00\u003c/nowiki\u003e - Professor [[Gauss]] \n* \u003cnowiki\u003e12:00-16:00\u003c/nowiki\u003e - Professor [[Cassini]] \n\n===CLASS 4 {{Icon|Light Energy Sciences}} Department of Light Energy Sciences===\n* \u003cnowiki\u003e06:00-12:00\u003c/nowiki\u003e - Professor [[Chevreuler]] \n* \u003cnowiki\u003e12:00-00:00\u003c/nowiki\u003e - {{tt|Unnamed Professor Transcript|I'm sure you've all seen those mechanical creatures pollinating plants in the culture chambers. \u003cbr\u003eMany native plants and animals have gone extinct since Void Storms began to occur.\u003cbr\u003eThe Exoswarm, with their unique adaptibility, differentiated into all sorts of mechanical fauna to fill those empty ecological niches.\u003cbr\u003eEven so, Lahai-Roi's ecosystem remains fragile under the constant threat of the Void Storms...}}\n\n===CLASS 6 {{Icon|Exostrider Engineering}} Department of Exostrider Engineering===\n* \u003cnowiki\u003e12:00-18:00\u003c/nowiki\u003e - Professor [[Cauchy]] and other Professors. \n\n===CLASS 7 {{Icon|Rabelle College}} Rabelle College ===\n* \u003cnowiki\u003e12:00-18:00\u003c/nowiki\u003e - Professor [[Pepys]] with Teacher Assistant, [[Stanik]].\n\n==Academic Affairs Office Hours==\n===CLASS 1===\n* \u003cnowiki\u003e06:00-11:59\u003c/nowiki\u003e\n** [[Reilynn]]\n* \u003cnowiki\u003e06:00-17:59\u003c/nowiki\u003e\n** [[Agune]] \n* \u003cnowiki\u003e18:00-01:00\u003c/nowiki\u003e\n** [[Chenyue]]\n* \u003cnowiki\u003e02:00-05:59\u003c/nowiki\u003e\n** [[Chenyue]]\n\n===CLASS 5===\n* \u003cnowiki\u003e06:00-11:59\u003c/nowiki\u003e\n** [[Huaiming]]\n* \u003cnowiki\u003e12:00-17:59\u003c/nowiki\u003e\n** [[Lenaia]]\n* \u003cnowiki\u003e18:00-1:59\u003c/nowiki\u003e\n** [[Lenard]]\n** [[Dionne]]\n\n==NPCs==\n{{NPCs by Location List|Startorch Academy - Teaching Zone}}\n\n==Other Languages==\n{{Other Languages\n|en   = Teaching Zone\n|zhs  = 星炬学院・教学区\n|zht  = 星炬學院・教學區\n|ja   = 学園アカデミックエリア\n|ko   = 스타토치 아카데미 ・ 강의동\n|fr   = Académie Brandétoile - Amphithéâtres\n|de   = Sternenfackel-Akademie - Akademische Zone\n|es   = Academia Fuegostelar - Campus\n|th   = สถาบันสตาร์ทอร์ช - เขตสถาบัน\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Schedule of Class Lectures",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "CLASS 3  Department of Voidmatters",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "CLASS 4  Department of Light Energy Sciences",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "CLASS 6  Department of Exostrider Engineering",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "CLASS 7  Rabelle College",
+      "number": "1.4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Academic Affairs Office Hours",
+      "number": "2",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "CLASS 1",
+      "number": "2.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "CLASS 5",
+      "number": "2.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "3",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "12"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:36Z",
+  "title": "Fran",
+  "pageid": 20664,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = Fran.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Black Shores Archipelago\n|group            = \n|affiliation      = Black Shores\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Fran''' is an NPC in {{Location|Black Shores}}.\n\n==Location==\n\u003cgallery\u003e\nFran Location.png|Location\n\u003c/gallery\u003e\n\n==Quests and Events==\n{{Quests and Events|Fran}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Fran:''' I've never seen a plant rooted in the Tacetite before.\n:'''[[KU-Flora]]:''' Ku—Plants that grow on the Tacetite will slowly lose their pigmentation until they turn purple or white.\n:'''KU-Flora:''' No matter what you do, you can't find plants in any other colors here.\n:'''KU-Flora:''' Maybe your hair would turn purple or white too. Ku ku ku...\n:{{DIcon}} Me too...?\n:'''KU-Flora:''' Just kidding! You're human, not a plant. Ku ku ku...\n:'''Fran:''' But actually, without protective gear, humans could be affected by the Tacetite's frequency and start showing symptoms like ataxia.\n:'''Fran:''' However, the Black Shores members don't seem to experience that issue.\n:'''KU-Flora:''' Ku— That's because we have the Anchors. Without them, the Black Shores would just be a barren island.\n:'''KU-Flora:''' And a barren island would have no use of a gardener like me, ku ku...\n:'''Fran:''' So... the Anchors are like one giant protective device for the Black Shores?\n:'''KU-Flora:''' Ku... Help me water these flowers first, and then I'll answer your question in exchange. And you over there, wanna give it a try too?\n:{{DIcon}} Thanks, but I'll pass.\n:{{DIcon}} Turning over rocks for Astrites is more of my thing.\n----\n;(During the Main Quest)\n:'''Fran:''' Whoa! Ah... Excuse me...\n:'''Fran:''' I-I'm actually new here, and I haven't quite figured out what's going on yet...\n:'''Fran:''' Those robots started running around all of a sudden, like something big happened, and the whole place suddenly felt tense.\n:'''Fran:''' Is... is there anything I can help you with?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fran\n|zhs  = 珐兰\n|zht  = 珐蘭\n|ja   = ファーラン\n|ko   = 플랜지\n|es   = Fran\n|fr   = Fran\n|de   = Fran\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

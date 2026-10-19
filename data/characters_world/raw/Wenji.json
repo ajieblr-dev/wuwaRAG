@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:00Z",
+  "title": "Wenji",
+  "pageid": 41787,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Department of Light Energy Sciences\n|title            = \n}}\n'''Wenji''' is a female student from the Department of Light Energy Sciences, seen talking to her classmate, '''Yala''', about [[Verina]]. \n\nThey can be found near the {{Rubi|Solis Lens Array|Resonance Nexus}} at Startorch Academy, during the day.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Yala:''' ...The prose is so fluid, brimming with love for people and nature!\n:'''Wenji:''' Yes! This thesis isn't only a milestone for Plant Ecoacoustics, it's basically a rare piece of botanical poetry!\n:'''Wenji:''' Ms. Verina must be incredibly gentle and kind. Imagine how lucky her students are!\n:'''Yala:''' Look, those plants look like Silver Lotus, same family as the Edelschnee in the frostlands.\n:'''Wenji:''' And the little girl is so cute! Is she Ms. Verina's daughter?\n:'''Yala:''' There's a caption here. Let me see... Verina in Hongzhen...?\n:'''Wenji:''' Wait, seriously?! That adorable girl is \u003ci\u003eher\u003c/i\u003e??\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Wenji\n|zhs  = 闻霁\n|zht  = 聞霽\n|ja   = 聞霽\n|ko   = 문제\n|fr   = Wenji\n|de   = Wenji\n|es   = Wenji\n|th   = Wenji\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

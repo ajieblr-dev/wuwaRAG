@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:40Z",
+  "title": "Mournful Resident",
+  "pageid": 9579,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Mournful Resident.png\n|type             = Quest\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Mournful Resident''' is an NPC in {{Location|Mt. Firmament}}.\n\n==Other Languages==\n{{Other Languages\n|en   = Mournful Resident\n|zhs  = 惆怅的居民\n|zht  = 惆悵的居民\n|ja   = 悲しむ住人\n|ko   = 우울한 주민\n|es   = Residente melancólico\n|fr   = Résident mélancolique\n|de   = Trauriger Bewohner\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

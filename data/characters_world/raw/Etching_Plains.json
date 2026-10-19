@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:22Z",
+  "title": "Etching Plains",
+  "pageid": 38234,
+  "wikitext": "{{Location Infobox\n|title  = Etching Plains\n|image  = Etching Plains.png\n|type   = Region\n|map    = Solaris-3\n|nation = Roya Frostlands\n}}\n{{Intro/Location|Etching Plains}}\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Collapsed Arcbend Ravine\"\n|[[Collapsed Arcbend Ravine]]\n|[[File:Collapsed Arcbend Ravine.png|180px]]\n|\n|}\n\n==Quests==\n{{Quest by Category List|Giant's Gaze Quests}}\n\n==Exploration Report==\n===P.C.–LH–R/0987 Lahai-Roi Interim Research Briefing===\n* Achieve 50% Area Exploration Progress to unlock the full report.\n\n{{Transclude|P.C.–LH–R/0987 Lahai-Roi Interim Research Briefing|Text|main=1}}\n\n===P.C.–LH–R/0988 Lahai-Roi Interim Research Briefing===\n* Achieve 100% Area Exploration Progress to unlock the full report.\n\n{{Transclude|P.C.–LH–R/0988 Lahai-Roi Interim Research Briefing|Text|main=1}}\n\n==Notable Features==\n===Challenges===\n* [[Forgery Challenge: Fallen Sanctum]]\n* [[Forgery Challenge: Lesson in Sunset]]\n===Bosses===\n*{{Enemy|Nightmare: Adam Smasher}}\n\u003c!--\n===Enemies===\n====Common Class====\n* {{Enemy|Gulpuff}} \u003cexample\u003e\n\n====Elite Class====\n* \n\n--\u003e\n===Resources===\n* {{Item|Dusk Honeypot}}\n* {{Item|Gemini Spore}}\n* {{Item|Rimewisp}}\n\n==Other Languages==\n{{Other Languages\n|en   = Etching Plains\n|zhs  = 蚀刻平原\n|zht  = 蝕刻平原\n|ja   = エッチングの平原\n|ko   = 에칭 평원\n|fr   = Plaines gravées\n|de   = Rumpfebenen\n|es   = Llanuras del Grabado\n|th   = ที่ราบรอยสลัก\n}} \n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "P.C.–LH–R/0987 Lahai-Roi Interim Research Briefing",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "P.C.–LH–R/0988 Lahai-Roi Interim Research Briefing",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.3",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "12"
+    }
+  ]
+}

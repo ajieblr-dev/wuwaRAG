@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:12Z",
+  "title": "Karoy",
+  "pageid": 39049,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Karoy.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = Rabelle College\n|affiliation      = Rabelle College\n|title            = \n}}\n'''Karoy''' is a NPC male student seen talking to a Preparatory Program student about Rabelle College courses. \n\n==Idle==\n:'''Karoy:''' Don't worry. Six years is nothing.\n\n==Dialogue==\n{{Dialogue Start}}\n;Outside Classrooms\n:'''Fitzner:''' Neuro-Resonance Topology. Exostrider Transitional Dynamics. Multidimensional Consciousness Mapping...\n:'''Karoy:''' Yeah, Rabelle College requires you to complete courses from every department.\n:'''Karoy:''' Don't worry. Six years is nothing.\n:'''Karoy:''' It'll be over before you know it.\n:'''Fitzner:''' Yeah, and so will my life.\n:'''Karoy:''' Don't worry, you'll get through it.\n:'''Fitzner:''' What do you mean, \"get through it\"?!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Karoy\n|zhs  = 卡罗伊\n|zht  = 卡羅伊\n|ja   = カーロイ\n|ko   = 카로이\n|fr   = Karoy\n|de   = Karoy\n|es   = Karoy\n|th   = Karoy\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

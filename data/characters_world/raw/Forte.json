@@ -1,0 +1,163 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:33Z",
+  "title": "Forte",
+  "pageid": 3397,
+  "wikitext": "{{Stub}}\n{{Terminology Infobox\n|image  = Icon Forte.png\n|type  = Game Systems\n|type2  = Lore\n|type3  = Combat\n}}\n'''Forte''' is the Resonance Abilities that belongs to a resonator.\n__TOC__\n==Description==\nThe Resonance Abilities of a [[Resonator]] are referred to as their '''Forte'''. In the world of ''Wuthering Waves'' there are as many different Forte's as there are Resonators. It is believed that a Resonator's past and subconscious mind influence their Forte, thus making their Fortes unique. \n\nAs a part of what seems to be routine health monitoring of Resonators (and as a preventative safety measure) each Resonator goes through an examination and is then written a [[:Category:Character Forte Examination Report|Forte Examination Report]] that provides information on their Forte and status as a Resonator.\n\nWhile Lorewise not all Fortes seem to be suitable for combat, in the [[Combat System]] of ''Wuthering Waves'' a playable Resonator's set of '''Combat Skills''' is synonymous to their Forte.\n\n==Combat Skills==\nThere are six Fortes that all playable Resonators possess:\n* [[Basic Attack]]\n* [[Resonance Skill]]\n* [[Resonance Liberation]]\n* [[Forte Circuit]]\n* [[Inherent Skill]]\n* [[Intro Skill]]/[[Outro Skill]]\n----\n===Basic Attack===\n[[File:Skill Broadblade.png|50px|right|[[Broadblade]]]]\n[[File:Skill Gauntlets.png|50px|right|[[Gauntlets]]]]\n[[File:Skill Pistols.png|50px|right|[[Pistols]]]]\n[[File:Skill Rectifier.png|50px|right|[[Rectifier]]]]\n[[File:Skill Sword.png|50px|right|[[Sword]]]]\n[[Basic Attack]]s refer to Resonators' normal attacks, usually consisting of a repeated combo that deals their respective [[Attribute]]'s DMG.\n\nOther than their basic attack combo sequence, there are three other types of attacks that the Basic Attack can deal:\n*[[Heavy Attack]]: Holding a Basic Attack will consume [[Stamina]] and deal increased [[Attribute]] DMG.\n*[[Mid-Air Attack]]: Performing a Basic Attack whilst in the air will consume [[Stamina]] to plunge from mid-air and deal increased [[Attribute]] DMG.\n*[[Dodge Counter]]: After a successful [[Dodge]], performing a [[Basic Attack]] in quick succession will cause a Resonator to perform a Counterattack, dealing increased [[Attribute]] DMG.\n\n''Some Resonators might deviate from this pattern.''\n----\n===Resonance Skill===\n[[Resonance Skill]], is a [[Forte]] that regenerates energy for the usage of [[Resonance Liberation]]. The exact details of a Resonance Skill depends on the Resonator.\n\nWhilst most Resonance Skills have [[CD]]s, some Resonators' are an exception to this rule and don't have a [[CD]] for their Skills.\u003cbr\u003e\n''E.g. [[Danjin]]'s Resonance Skill - [[Crimson Fragment]].''\n----\n===Forte Circuit===\n'''Forte Circuits''' are unique to each character, both in ways to use and ways to increase (e.g. [[Danjin]]'s usage of her skill or [[Mortefi]] dealing DMG to increase his \"Annoyance\"). The usage of Forte Circuits is beneficial to combat all around, providing buffed output when used.\n----\n===Resonance Liberation ===\n'''Resonance Liberation''', used by clicking R, is a Forte that is released by using accumulated energy. They tend to be much more powerful than the Resonance Skills.\n----\n===Intro/Outro Skills===\n'''Intro''' and '''Outro Skills''' are Fortes that are used by switching characters after building a set amount of Concerto Energy. Resonators will do a joint attack after swapping with full Concerto Energy, dealing increased DMG, with the leaving character either giving a buff or dealing a massive amount of damage.\n\n*Changli's [[Strategy of Duality]] gives 20% Fusion DMG Bonus and 25% Resonance Liberation DMG Bonus.\n----\n===Concerto Energy===\n'''Concerto Energy''' is increased by dealing damage to enemies.\n----\n==Tutorials==\n{{Main|Tutorials}}\nThere are '''11''' Tutorials related to Fortes and their use in [[Combat]]\n====Resonance Liberation====\n{{Transclude|Tutorial/Resonance Liberation}}\n====Outro Skill \u0026 Intro Skill====\n{{Transclude|Tutorial/Outro Skill \u0026 Intro Skill}}\n====Dodge====\n{{Transclude|Tutorial/Dodge}}\n====Counterattack====\n{{Transclude|Tutorial/Counterattack}}\n====Counter Skill====\n{{Transclude|Tutorial/Counter Skill}}\n====Aero Erosion Effect====\n{{Transclude|Tutorial/Aero Erosion Effect}}\n====Electro Flare Effect====\n{{Transclude|Tutorial/Electro Flare Effect}}\n====Glacio Chafe Effect====\n{{Transclude|Tutorial/Glacio Chafe Effect}}\n====Fusion Burst Effect====\n{{Transclude|Tutorial/Fusion Burst Effect}}\n====Spectro Frazzle Effect====\n{{Transclude|Tutorial/Spectro Frazzle Effect}}\n====Havoc Bane Effect====\n{{Transclude|Tutorial/Havoc Bane Effect}}\n\n==See Also==\n*[[Combat]]\n*[[Weapons]]\n*[[Echoes]]\n\n==Navigation==\n{{Combat Navbox}}\n{{Lore Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Skills",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Basic Attack",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Skill",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte Circuit",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Liberation",
+      "number": "2.4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Intro/Outro Skills",
+      "number": "2.5",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Concerto Energy",
+      "number": "2.6",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorials",
+      "number": "3",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "Resonance Liberation",
+      "number": "3.1",
+      "index": "10"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "Outro Skill \u0026amp; Intro Skill",
+      "number": "3.2",
+      "index": "11"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "Dodge",
+      "number": "3.3",
+      "index": "12"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "Counterattack",
+      "number": "3.4",
+      "index": "13"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "Counter Skill",
+      "number": "3.5",
+      "index": "14"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "Aero Erosion Effect",
+      "number": "3.6",
+      "index": "15"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "Electro Flare Effect",
+      "number": "3.7",
+      "index": "16"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "Glacio Chafe Effect",
+      "number": "3.8",
+      "index": "17"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "Fusion Burst Effect",
+      "number": "3.9",
+      "index": "18"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "Spectro Frazzle Effect",
+      "number": "3.10",
+      "index": "19"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "Havoc Bane Effect",
+      "number": "3.11",
+      "index": "20"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "4",
+      "index": "21"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "22"
+    }
+  ]
+}

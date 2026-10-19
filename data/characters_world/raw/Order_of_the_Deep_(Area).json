@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:56Z",
+  "title": "Order of the Deep (Area)",
+  "pageid": 31862,
+  "wikitext": "{{About|the location|the [[Factions|faction]]|Order of the Deep}}\n{{Location Infobox\n|title     = Order of the Deep\n|image     = Order of the Deep (Area).png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Rinascita\n|region    = Ragunna City\n}}\n'''Order of the Deep''' is an [[area]] located in [[Ragunna City]], [[Rinascita]]. \n\n==Points of Interest==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n! Description\n|- id=\"Cathedral of Mercury\"\n|[[Cathedral of Mercury]] \n|[[File:Cathedral of Mercury.png|180px]]\u003cbr /\u003e\n|A two-tiered holy edifice in Ragunna City, devoted to the worship of the Sentinel's statue. It also serves as the seat of the Order of the Deep. The upper water chapel connects to the sea that flows through Ragunna City, with its waters rising and falling with the tides as if breathing in time with the Sentinel. Thus, it is known as the Tidal Sanctuary.\n|} \n\n==NPCs==\n{{NPCs by Location List|Order of the Deep (Area)}} \n\n==Other Languages==\n{{Other Languages\n|en   = Order of the Deep\n|zhs  = 隐海修会\n|zht  = 隱海修會\n|ja   = {{Rubi|隠海教団|いんかいきょうだん}}\n|ko   = 깊은 바다 수도회\n|es   = Orden Abisal\n|fr   = Ordre des Profondeurs\n|de   = Orden der Tiefe\n}} \n\n==Change History==\n{{Change History|2.0}} \n\n==Navigation==\n{{Location Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Points of Interest",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

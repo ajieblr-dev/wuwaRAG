@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:33Z",
+  "title": "Maosan",
+  "pageid": 8898,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{NPC Infobox\n|name             = Maosan\n|image            = NPC Maosan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = \n|group            = \n|affiliation      = Exiles\n|title            = \n}}\n'''Maosan''' is an NPC within the cave that was cleared during A Free Meal - II.\n\u003c!--\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n--\u003e\n==Quests and Events==\n{{Quests and Events|Maosan}}\n\u003c!--\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n\u003c!-- This dialogue is transcluded from [[Gousi]]'s page. Please update the script on that page. --\u003e\n{{Transclude|Gousi|Dialogue}}\n\n==Trivia==\n* Maosan means Cat Three\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Maosan\n|zhs  = 猫三\n|zht  = 貓三\n|ja   = 猫三（ビョウサン）\n|ko   = 묘령\n|es   = Maosan\n|fr   = Chat trois\n|de   = Maosan\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

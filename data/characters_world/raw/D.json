@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:07Z",
+  "title": "D",
+  "pageid": 41192,
+  "wikitext": "{{NPC Infobox\n|name             = D\n|title            = Master of the Cinema Layer\n|image            = Detective Girl.png\n|type             = Quest\n|nation           = \n|location         = \n|group            = \n|affiliation      = \n|affiliation2     = \n|deceased         = \n|title2           = Girl in Beret\n|title3           = Detective Girl\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''D''' is a quest-exclusive [[NPC]] that first appears in [[Dreaming Deep]]. She is the master of the Somnoire's Cinema Layer, Deep Water Zone.\u003c!-- and to be an offshoot of an ancient Threnodian that once invaded the Somnoire \"DAN: This is a theory from a video, not confirmed officially.\"--\u003e At the end of ''The Cinema House Murders'', D challenges Rover to a detective game to uncover some kind of mystery within the Somnoire that has yet to be revealed.\n\nDue to the writing style, interest in films, and also being located in the Somnoire, some speculate she is also known as '''Aurelia''', the author of a review of ''[[\"The Tale of Two Love Birds\" Review II|The Tale of Two Love Birds]]''. As she calls Rover \"Great Detective,\" she is also likely hiding under the guise of \"[[Dorothy]]\" in [[Depths of Illusive Realm/2026-05-21|Depths of Illusive Realm: Chromatic Fantasy]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Gallery== \n\n==Mentions==\n{{Character Mentions}}\n\u003c!-- seems silly to show this atm when her only official name is a single letter\n==Other Languages ==\n{{Other Languages\n|en   = D\n|zhs  = D\n|zht  = D\n|ja   = D\n|ko   = D\n|fr   = D\n|de   = D\n|es   = D\n|th   = D\n}}\n--\u003e\n==Change History==\n{{Change History|2.3}}\n\n==References==\n{{Reflist}}\n[[Category:Somnoire]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

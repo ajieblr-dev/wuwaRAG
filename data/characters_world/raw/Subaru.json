@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:37Z",
+  "title": "Subaru",
+  "pageid": 38549,
+  "wikitext": "{{NPC Infobox\n|image=NPC Subaru.png\n|type=Open-World\n|nation=\n|location=Chronorift Metropolis\n|group = Left Behind\n}}\n'''Subaru''' is a male child {{Extra Effect|Left Behind|Left Behind|Citizens of Honami City who perished during the Lament and who now \"live\" inside the Sonoro Sphere in the form of Human Reverberations. Faint iridescent light flows around their bodies, and they don't seem to be aware of what really happened to them.}} NPC found south of Shiawase Fountain Square by a lamp post. \n\n==Location==\n{{Map Embed|Chronorift Metropolis|Subaru}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Subaru:''' I've got a bold theory about Honami. No one else wants to hear it, though. Are you interested?\n:{{DIcon}} Go on.\n:{{DIcon}} Just how \"bold\" are we talking here?\n:'''Subaru:''' This city's already been destroyed. And everyone living here—including us—is already dead.\n:{{DIcon}} ...\n:'''Subaru:''' Surprised? I didn't just make it up. At some point, this place doesn't feel like what it used to be.\n:'''Subaru:''' We can't go anywhere. Strange stuff keeps happening everywhere. Yet everyone acts like it's normal.\n:{{DIcon}} (Stay silent.)\n::'''Subaru:''' Believe it or not, I'll find a way to prove my theory. Just watch.\n:{{DIcon}} (Tell him the truth.)\n::'''Subaru:''' ...So you're saying my theory's correct? That explains everything. Ugh, my head hurts...\n::'''Subaru:''' Maybe this whole place is just an endless summer dream.\n----\n:;(After completing {{Quest|Stagnant Dawn on Wastelands}})\n:'''Subaru:''' Oh, it's you again.\n:{{DIcon}} Hi\n:{{DIcon}} How've you been?\n:'''Subaru:''' Ever since something happened in Neon Tower, my head feels much clearer.\n:'''Subaru:''' By the way, I've started writing a wish list.\n:{{DIcon}} A wish list?\n:'''Subaru:''' Yep! I'm jotting down everything I want to do. It's tough, because my list is super long.\n:'''Subaru:''' Like... I want to explore Meishin Passageway, see the view from the top of Neon Tower, and become the best kart driver...\n:{{DIcon}} Sounds like it'll take a while to finish.\n:'''Subaru:''' You know, I'm greedy. But once I check off every last wish, just like the others here...\n:'''Subaru:''' I think I'll finally \"wake up\" from this summer dream.\n{{Dialogue End}}\n\n\n==Other Languages==\n{{Other Languages\n|en   = Subaru\n|zhs  = 昴\n|zht  = 昴\n|ja   = 昴\n|ko   = 스바루\n|fr   = Subaru\n|de   = Subaru\n|es   = Subaru\n|th   = Subaru\n}}\n==Change History==\n{{Change History|2.8}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

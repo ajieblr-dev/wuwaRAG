@@ -1,0 +1,114 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:04Z",
+  "title": "Iuno",
+  "pageid": 31296,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}} \n\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 5\n|class            = Congenital\n|weapon           = Gauntlets\n|role             = Support and Healer; Concerto Efficiency; Resonance Liberation Damage; Heavy Attack DMG Amplification\n|attribute        = Aero\n|releaseDate      = 2025-09-17 \n\n\u003c!-- Info --\u003e\n|name             = Iuno\n|title            = Stasis, Cycle, Renewal\n|title2           = \n|gender           = Female\n|age              = \n|birthday         = \n|birthplace       = \n|nation           = Rinascita\n|affiliation      = Septimont\n|affiliation2     = Tetragon Temple\n|sigil            = \n|dish             = Sweetened Olives\n|obtain           = Across Time's Waxes and Wanes\n\n\u003c!-- Family --\u003e\n|mother           = Sibylla\n|motherNote       = deceased\n|motherRef        = \u003cref\u003eIuno's Character Story: [[Iuno/Backstory#Character Stories|At First, She Closed Her Eyes]]\u003c/ref\u003e\n|father           = Unnamed\n|fatherNote       = deceased\n|fatherRef        = \u003cref\u003e [[By Moon's Fated Light]], he is the Bow-Forging Blacksmith\u003c/ref\u003e\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm16596030|Ella Boyes]]\u003cref\u003eGallery: [https://i.postimg.cc/NFmxGLwV/Screenshot-20250830-084923-Wuthering-Waves.png Official In-Game Profile]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/姜英俊 Jiang Yingjun ({{Lang|mini=1|zh=姜英俊}})]\u003cref name=Iuno Bilibili\"\u003eBilibili: [https://www.bilibili.com/opus/1112684962537013249 《鸣潮》共鸣者「尤诺」PV | 预言与违逆]\u003c/ref\u003e\n|voiceJP          = {{w|Lynn (voice actress)|Lynn ({{Lang|mini=1|ja=りん}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/1933401467337257241 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = {{w|ko:윤은서|Yoon Eun-seo ({{Lang|mini=1|ko=윤은서}})}}\u003cref name=Iuno Bilibili\"/\u003e\n}}\n{{Quote|Beyond myself. Beyond every written start and end of the story. Till we rewrite our fate.|Iuno}}\n{{Intro/Resonator|Iuno}} She is a prodigious and renowned Priestess of [[Septimont]]'s [[Tetragon Temple]], charged with delivering prophecies that shape the lives of its citizens. While both blessed and cursed with the power to foretell the futures of others, her responsibilities are contrasted by her cocky, outspoken and rebellious attitude, embodying an eagerness to defy all of fate's cruelest machinations.\n\n==Official Introduction==\n{{Quote|Iuno is a Priestess well-known in Septimont for being a prodigy.\u003cbr /\u003eShe is blessed with the infallible ability to see the future by studying how moonlight changes.|[https://wutheringwaves.kurogames.com/en/main#resonators Introduction from the Official Website.]\n}}\n\n==Combat Overview==\n{{Main|Iuno/Combat}}\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Iuno|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events|Iuno}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Trivia== \n===Etymology=== \n* Iuno may be a reference to [[wikipedia:Juno (mythology)|Juno]], the Roman goddess known as the goddess of marriage and the queen of the gods. She was also revered as the patron goddess of Rome and the Roman Empire.\n\n==Other Languages==\n{{Other Languages\n|en   = Iuno\n|zhs  = 尤诺\n|zht  = 尤諾\n|ja   = ユーノ\n|ko   = 유노\n|es   = Iuno\n|fr   = Iuno\n|de   = Iuno\n}}\n\n==Change History==\n{{Change History|2.6|introduced=2.4}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[zh:尤诺]]\n[[ru:Юно]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "5.1",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "14"
+    }
+  ]
+}

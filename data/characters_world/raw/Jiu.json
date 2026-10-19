@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:08Z",
+  "title": "Jiu",
+  "pageid": 5875,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Jiu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = Sixi\n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Jiu''' is an NPC in {{Location|Jinzhou}}.\n\n==Quests and Events==\n{{Quests and Events|Jiu}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the evening)\n:'''Jiu:''' {{MC|m=Big Brother|f=Big Sister}}! You look... so cool! Can you tell me how you grew up to be so awesome?!\n:'''Jiu:''' I can't wait to grow up so I can help Dad with his work, and then he can play with me!\n----\n;(After completing {{Quest|Time to Study}})\n:'''Jiu:''' I know now! To grow up quickly, I need to study hard!\n:'''Jiu:''' Dad did say he wanted to spend time with me. Yes, this is great!\n{{Dialogue End}}\n\n== Other Languages==\n{{Other Languages\n|en      = Jiu\n|zhs     = 小九\n|zht     = 小九\n|ja      = 九ちゃん\n|ko      = 하준\n|es      = Jiu\n|fr      = Jiu\n|de      = Jiu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

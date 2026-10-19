@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:43Z",
+  "title": "The Genesis of the Spacetrek Explorer Project: A Developmental Retrospective (Excerpt)",
+  "pageid": 39518,
+  "wikitext": "{{Terminology Infobox\n|image        = \n|type         = Lore\n|nation       = Lahai-Roi\n}}'''{{PAGENAME}}''' is a note found during [[Operation: Frontier Renewal]] and is added to its Archives, Spacetrek Observatory Files.\n\n==Text==\n\"The sprawling, secret-filled lands of Lahai-Roi made it necessary for the Spacetrek Collective to establish mid-to-long-term field research programs. However, sustaining these operations in such dangerous terrain required dependable mobile bases.\n\nAfter weighing its options, the Collective developed a versatile transport platform capable of handling logistics, storage, and emergency defense. They named it Spacetrek Explorer.\n\nThe Explorer's design is based on a wheel robot. Its massive tires provide exceptional grip, allowing it to climb smooth vertical surfaces and easily navigate the dense architecture of Startorch Academy, delivering cargo to otherwise inaccessible locations. The large storage container mounted on its top further supports fieldwork, enabling researchers to access supplies or auxiliary equipment directly on-site.\n\nTo defend against the Exoswarm affected by the Waveworn Phenomenon and attacks from Outcasts, the Explorer is equipped with a heavy electromagnetic cannon and a protective shield projector. However, due to its weight, frequent cargo load, and energy-saving design, it carries only small thrusters. These are useful for brief bursts of acceleration, but not for sustained flight.\n\nIn addition to field expeditions, the Spacetrek Explorer now serves as one of Lahai-Roi's primary heavy logistics vehicles. In its logistics configuration, its weapons are removed and replaced with expanded storage modules to maximize cargo capacity.\"\n\n==Other Languages==\n{{Other Languages\n|en   = The Genesis of the Spacetrek Explorer Project: A Developmental Retrospective (Excerpt)\n|zhs  = 探隧重机运输单位研发始末（节选）\n|zht  = 探隧重機運輸單位研發始末（節選）\n|ja   = 運輸ユニット・「スペーストレック重機」の開発経緯（抜粋）\n|ko   = 운송 단위 ・ 스페이스트렉 탐색기의 개발 경위 (발췌)\n|fr   = Genèse du projet Explorateur du Trek-spatial\u0026nbsp;: une rétrospective du développement (extrait)\n|de   = Die Entstehung des Spacetrek-Explorer-Projekts: Eine Entwicklungsrückschau (Auszug)\n|es   = Génesis del proyecto Explorador Intergaláctico: Una retrospectiva de su desarrollo (Extracto)\n|th   = เรื่องราวการพัฒนาหน่วยขนส่ง Spacetrek Explorer (ตัดตอน)\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Text",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

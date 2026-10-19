@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:39Z",
+  "title": "TD Observatory",
+  "pageid": 23220,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1    = TD Observatory\n|image     = TD Observatory.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = The Black Shores\n|region    = Black Shores Archipelago\n}}\n'''TD Observatory''' is an area of [[Black Shores Archipelago]], [[The Black Shores]]. The TD Observatory is where Black Shores stores [[Tacet Discord]] data gathered from around the world. The data will then be converted into digital [[Reverberation]]s and transferred to the [[Tethys System]] underground as the building blocks of the data space within the Infinite Reality Sandbox.\u003cref\u003e[[Wutherium Geographic: Lands and Waters — The Black Shores Vol. 1#TD Observatory|Wutherium Geographic: Lands and Waters — The Black Shores Vol. 1, TD Observatory]]\n:''The TD Observatory is where Black Shores stores TD data gathered from around the world.''\n:''The data will then be converted into digital Reverberations and transferred to the Tethys System underground as the building blocks of the data space within the Infinite Reality Sandbox.''\u003c/ref\u003e\n\n==Resources==\n\n==NPCs==\n{{NPCs by Location List|TD Observatory}}\n\n==Gallery==\n\n==Other Languages==\n{{Other Languages\n|en   = TD Observatory\n|zhs  = 移转异象所\n|zht  = 移轉異象所\n|ja   = {{Rubi|移転異象所|いてんいしょうじょ}}\n|ko   = 잔상관측소\n|es   = Observatorio DT\n|fr   = Observatoire TD\n|de   = TD-Observatorium\n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==References==\n\u003creferences /\u003e\n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resources",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

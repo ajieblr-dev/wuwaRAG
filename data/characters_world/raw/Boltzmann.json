@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:45Z",
+  "title": "Boltzmann",
+  "pageid": 38987,
+  "wikitext": "{{NPC Infobox\n|name        = Boltzmann\n|image       = NPC Boltzmann.png\n|type        = Open-World\n|nation      = Lahai-Roi\n|location    = Startorch Academy - Square\n|affiliation = Startorch Academy}}\n'''Boltzmann''' is an open-world [[NPC]] in [[Startorch Academy]]. He is a researcher who can be seen talking to a student by the training grounds near [[B.1.N.G.O.]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Boltzmann:''' You know, the trashcan was just a temporary body for B.1.N.G.O. We were strapped for resources back then. You know how it goes...\n:'''Boltzmann:''' Its new chassis was completed a long time ago. But B.1.N.G.O. refused to transfer over. Said everyone had gotten used to its... unique look.\n:'''Boltzmann:''' It insisted it wouldn't like looking  down on everyone from some giant frame. Said cleaning the testing grounds would be a nightmare with a bulky body!\n:'''Boltzmann:''' After that, it just turned and shuffled away. No looking back. It was... kind of majestic.\n{{Dialogue End}}\n\n==Trivia==\n* Boltzmann's name likely comes from {{W|Ludwig Boltzmann}} who was an Austrian mathematician and theoretical physicist in the 19th century.\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

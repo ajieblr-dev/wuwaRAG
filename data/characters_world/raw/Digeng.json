@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:12Z",
+  "title": "Digeng",
+  "pageid": 74669,
+  "wikitext": "{{Stub|Remove if no further Dialogues after Quest}}\n{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xianling Village\n|affiliation      = \n|affiliationNote  = \n|status           = \n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a quest-exclusive NPC that first appears with '''[[Xinyuan]]''' in {{Quest|The Wind Before the Storm}}. \n__NOTOC__\n{{Dialogue Start}}\n==Idle==\n:'''Digeng:''' Hah... Haha... HAHAHA—I knew it... I KNEW IT!\n:'''Xinyuan:''' Not this delusional nonsense again, Digeng...\n\n==Dialogue==\n;During {{Quest|The Wind Before the Storm}}\n:'''Digeng:''' Hah... Haha... HAHAHA—I knew it... I KNEW IT! There \u003cb\u003eis\u003c/b\u003e something wrong with those Autopuppets! They're finally showing their true colors!\n\n:'''Xinyuan:''' Not this delusional nonsense again, Digeng...\n\n:'''Digeng:''' Delusional? Me?! No... That night twenty years ago... I'll never forget it... not as long as I live!\n\n:'''Digeng:''' It was the Autopuppets... Had to be! They've been playing along all this time! Now everyone finally gets to see what they really are!\n\n:'''Xinyuan:''' Digeng, you're... Haah. I'll go get [[Changluan]] to keep an eye on you.\n----\n;During {{Quest|Xuanling Sings, Storm Quelled}} \n:'''Digeng''' Urgh... I can feel them... Those Autopuppets are staring at me... They're coming here soon!\n\n:'''Changluan:''' Haah... There you go again, Digeng. Talking nonsense... \n\n:'''Digeng:''' T-this place isn't safe! Go find Xinyuan, Changluan! We need to get out of here right now! \n\n:'''Changluan:''' Get some rest, brother. Xinyuan is at Huaxu Academy getting herbs for you.\n\n:'''Digeng:''' No, you don't understand... If we stay here, we're all going to die...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Digeng\n|zhs  = 狄梗\n|zht  = 狄梗\n|ja   = 狄梗\n|ko   = 적경\n|fr   = Digeng\n|de   = Digeng\n|es   = Digeng\n|th   = Digeng\n|pt   = Digeng\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

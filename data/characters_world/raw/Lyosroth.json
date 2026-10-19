@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:32Z",
+  "title": "Lyosroth",
+  "pageid": 39277,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Lyosroth.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Bjartr Woods\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC male Royan Shepherd who can be found next to a Giant [[Soliskin]] in [[Soliseed Plains]]. He asks Rover for help in locating and guiding the wandering Soliskin back to Bjartr Woods.\u003cref\u003e[[Monument of Returning Soliseeds]]\u003c/ref\u003e\n\n==Dialogue==\n{{Dialogue Start}}\n;(First time dialogue)\n:'''Lyosroth:''' Hello, {{Rover}}. Forgive me for being so blunt, but there's something I was hoping you could help us with.\n:'''Lyosroth:''' The bulk of the Shepherds at Bjartr Woods are engaged in tasks lately, with each having to look after over twenty Soliskins.\n:'''Lyosroth:''' And over a hundred Soliskin descended from the Solvein Canopy again just yesterday alone...\n:'''Lyosroth:''' With so few Shepherds, many Soliskin are now wandering aimlessly around Lahai-Roi... And of course, there are those that simply ran off to who knows where.\n:'''Lyosroth:''' We would search for them ourselves, but we can't afford to leave the ones under our care...\n:'''Lyosroth:''' If it's not too much to ask, could you help us find the missing Soliskin?\n:{{DIcon}} Hide-and-seek. My favorite game!\n:{{DIcon}} Do I get paid?\n::'''Lyosroth:''' Of course.\n:{{DIcon}} Glad to help.\n:'''Lyosroth:''' You may find me with the Giant Soliskin at the heart of Soliseed Plains once you've retrieved a Soliskin.\n:'''Lyosroth:''' Our rewards await. We're counting you, {{Rover}}.\n----\n;(First time delivering Soliseeds)\n:'''Giant Soliskin:''' Luu? Luu-Luu! (*Excited cheeps*)\n:'''Lyosroth:''' A Soliskin has just returned to us, {{Rover}}! Was it your doing?\n:'''Lyosroth:''' It's astonishing how you managed to find this lost Soliskin so quickly! Wait, what's that in your hand?\n:'''Lyosroth:''' It's a Soliseed of Essehalo! Did you receive this from the lost Soliskin, {{Rover}}?\n:'''Lyosroth:''' Soliskin produce Soliseeds from their Essehalos, and treat them as their own offspring.\n:'''Lyosroth:''' They only give them to people they trust. It seems seeking your help was the right decision, {{Rover}}!\n:'''Giant Soliskin:''' Chuu, luuluu! (*Excited cheeps*)\n:'''Lyosroth:''' The Giant Soliskin shows its thanks and would like you to accept this gift.\n:'''Lyosroth:''' Please, take it. We will have more gifts waiting for you if you manage to find more Soliskin and Soliseeds!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lyosroth\n|zhs  = 留索罗特\n|zht  = 留索羅特\n|ja   = リョゥスロゥト\n|ko   = 리오슬로트\n|fr   = Lyosroth\n|de   = Lyosroth\n|es   = Lyosroth\n|th   = Lyosroth\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

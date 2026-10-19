@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:30Z",
+  "title": "Flameblade of the Rift",
+  "pageid": 42185,
+  "wikitext": "{{Stub|location}}\n{{Enemy Infobox\n|name       = Flameblade of the Rift\n|image      = Corrosaurus Icon.png\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|nation     = Rinascita\n|region     = The Wastelands\n|level      = 120\n}}\n'''Flameblade of the Rift''' is a [[Special Enemies|special enemy]] found in {{Location|Sanguis Plateaus|nocat=1}}. It is located South-West of [[Tetragon Temple]].\n\n==Location==\n{{Map Embed|Septimont|Flameblade of the Rift}}\n\n==Trophies==\n{{Trophies|Flameblade of the Rift|customheader=Flameblade of the Rift}} \n\n==Other Languages==\n{{Other Languages\n|en  = Flameblade of the Rift\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n|pt  = \n}} \n\n==Change History==\n{{Change History|2.6}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:21Z",
+  "title": "Zip Zap",
+  "pageid": 39019,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Zip Zap\n|image         = Zip Zap Icon.png\n|dmgtype       = Electro\n|echo          = Yes\n|class         = Common\n|family        = Tacet Discord\n|group         = Whisperin\n|nation        = Lahai-Roi\n}}{{Description|A type of ironclad electromagnetic Murmurin TD that attracts metal to form a protective shell around itself. Electric arcs are faintly visible through cracks in its metallic armor.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Common Whisperin}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Trophies==\n{{Trophies|Zip Zap}} \n\n==Description==\n{{Description|This enemy has a higher RES to {{Color|[[Electro]] DMG|nobold=1}}.\u003cbr /\u003e\u003cbr /\u003eZip Zap is a type of ironclad electromagnetic Murmurin TD that attracts metal to form a protective shell around itself. Electric arcs are faintly visible through cracks in its metallic armor.\u003cbr /\u003e\u003cbr /\u003eThey may attach themselves to other Clamorling Tacet Discords to provide power amplification. When spent, Zip Zaps reverse the flow of their electricity to recharge themselves.\u003cbr /\u003e\u003cbr /\u003ePeople in Lahai-Roi often catch Zip Zaps in the wild as an emergency power source.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Zip Zap\n|zhs  = 噼啪啪\n|zht  = 劈啪啪\n|ja   = ビリリ\n|ko   = 삐리릭\n|fr   = Zip Zap\n|de   = Zipp-Zapp\n|es   = Zip Zap\n|th   = Zip zap\n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

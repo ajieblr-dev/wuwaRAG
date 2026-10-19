@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:14Z",
+  "title": "Yuanyuan",
+  "pageid": 8525,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Yuanyuan.jpg\n|type             = Quest\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n|deceased=|father=[[Lirong]]}}\n'''Yuanyuan''' is an NPC in {{Location|Huanglong}}. She is the daughter of [[Lirong]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yuanyuan\n|zhs  = 媛媛\n|zht  = 媛媛\n|ja   = 媛ちゃん\n|ko   = 원원\n|es   = Yuanyuan\n|fr   = Yuanyuan\n|de   = Yuanyuan\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

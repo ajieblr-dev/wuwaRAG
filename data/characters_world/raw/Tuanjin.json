@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:51Z",
+  "title": "Tuanjin",
+  "pageid": 6000,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Tuanjin.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Lake Heights\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Tuanjin''' is an NPC in {{Location|Lake Heights}} that appears during the evening.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Tuanjin:''' Hey? You must be that Rover. How are you?\n:{{DIcon}} Are you a Patroller? Anything happened here?\n:'''Tuanjin:''' No, no, don't worry. I just got off work and decided to pay a visit.\n:'''Tuanjin:''' There are names I know here... they're lonely souls, so I visit them from time to time.\n:'''Tuanjin:''' And as you can see, there are lots of seniors here. If anything happens, I'll be around to help out.\n:'''Tuanjin:''' Even though I'm off duty, as long as I'm wearing this uniform, I'm still a Patroller, and I have a duty to protect people.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Tuanjin\n|zhs  = 团锦\n|zht  = 團錦\n|ja   = 団錦（ダンキン）\n|ko   = 단금\n|es   = Tuanjin\n|fr   = Tuanjin\n|de   = Tuanjin\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:33Z",
+  "title": "Marcus",
+  "pageid": 27049,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Marcus.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Bank Street\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Marcus''' is an NPC that appears in [[Ragunna]], [[Rinascita]], trying to settle an argument between [[Alexandro]] and [[Riccardo]].\n\n==Quests and Events==\n''(To be Added)''\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n;(in front of the Nexus)\n:'''Marcus:''' Hail Imperator, I wish to confess...\n:'''Marcus:''' I... accepted a [[Fisalia Family|Fisalia]] deal... deceiving a [[Montelli Family|Montelli]] alongside him.\n:'''Marcus:''' I only wanted an \"elixir\" to save my beloved Lanishi.\n:'''Marcus:''' Forgive me, Imperator.\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(at Margherita)\n:'''Marcus:''' Please keep your Echoes down, gentlemen, and avoid causing unnecessary disturbances in the restaurant.\n:'''Marcus:''' Would you like to put away your Echoes, or should I bring each of them a dish to match yours?\n:{{DIcon}} Do they do this often?\n:'''Marcus:''' I've gotten used to it...\n:'''Marcus:''' [[Margherita|Ms. Margherita]] won't step in as long as they don't disrupt other guests from enjoying their meals.\n:'''Marcus:''' But, honestly, I'd really prefer if they could take their arguments somewhere else.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Marcus\n|zhs  = 小马可\n|zht  = 小馬可\n|ja   = マルコ\n|ko   = 소마커\n|es   = Marcus\n|fr   = Marcus\n|de   = Marcus\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

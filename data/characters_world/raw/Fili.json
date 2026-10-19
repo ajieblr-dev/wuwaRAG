@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:26Z",
+  "title": "Fili",
+  "pageid": 27195,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Fili.png\n|type             = Open-World\n|nation           = Ragunna\n|location         = Rinascita\n|group            = \n|affiliation      = Order of the Deep\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Fili''' is a female NPC who appears near the entrance of the [[Order of the Deep]]'s [[Cathedral of Mercury]]. From 6:00 AM to 5:59 PM, She can be seen arguing with [[Agio]].\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(First Interaction)\n:'''Fili:''' This was a case of civil dispute. You've absolutely no basis to demand that man to be handed over to the Order Penitentiary.\n:'''Agio:''' You're right. But his speech in the court showed a great disrespect towards the [[Imperator|Sentinel]].\n:'''Agio:''' Once matters related to the doctrines are involved, the nature of the case changes entirely.\n:'''Fili:''' You cannot forcibly take him away during the tribunal proceedings.\n:'''Agio:''' He spoke disrespectfully of the Sentinel.\n:'''Fili:''' What evidence do you have to prove that this person truly harbors resentment towards the Sentinel and discontent with the Order's doctrines?\n:'''Agio:''' He spoke disrespectfully of the Sentinel. We must remain vigilant for any potential heresies within this city.\n:'''Fili:''' ...You!\n:{{DIcon}} Order Tribunal and Order Penitentiary?\n:{{DIcon}} What are you arguing about? I can't quite understand.\n:'''Fili:''' Hello, esteemed guest from afar. Please excuse our faux pas.\n:'''Fili:''' At the inception of Ragunna, several prominent families rigged the city's governance with their control over the city's wealth.\n:'''Fili:''' This divided Ragunnesi into two distinct, constantly conflicting classes: the commoners and the aristocrats.\n:'''Fili:''' After the establishment of the Order by the first Primus, a Council of Ten was formed through consensus as the city's legislature to balance the interests of the aristocracy and the common people.\n:'''Fili:''' The Council of Ten is the predecessor of the Order Tribunal, its members elected from both aristocrats and commoners. It serves as a judicial body for mediating civil disputes, handling political crimes, and adjudicating significant public affairs.\n:'''Fili:''' All resolutions of the Order Tribunal are passed through votes, which are binding even over the Primus.\n:'''Fili:''' But after the Dark Tide twenty years ago, [[Fenrico]] became the Primus, and established the Order Penitentiary for investigating heresy. The Order Tribunal's influence has been gradually diluted...\n:'''Fili:''' Primus Fenrico established the Order Penitentiary as a response to the societal instabilities at the time.\n:'''Fili:''' I don't disagree, but... listen, Agio, I respect us as brothers and sisters under the Sentinel's wings.\n:'''Fili:''' Even if the ten seats within the Cathedral of Mercury remain empty and covered in dust, as long as the Order Tribunal exists, we will uphold the principles of fairness and justice to the very end.\n:'''Fili:''' Without conclusive evidence, we shall never convict someone based on assumption! Thus is the value the Order Tribunal upholds, and so must the Order Penitentiary! This is the Sentinel's teaching!\n:'''Agio:''' That much we know! I don't need this lecture from you.\n----\n;(Second Interaction)\n:'''Fili:''' Hello, esteemed guest from afar. Please excuse us if that fight earlier made you uncomfortable.\n:{{DIcon}} Order Tribunal and Order Penitentiary...\n::'''Fili:''' At the inception of Ragunna, several prominent families rigged the city's governance with their control over the city's wealth.\n::'''Fili:''' This divided Ragunnesi into two distinct, constantly conflicting classes: the commoners and the aristocrats.\n::'''Fili:''' After the establishment of the Order by the first Primus, a Council of Ten was formed through consensus as the city's legislature to balance the interests of the aristocracy and the common people.\n::'''Fili:''' The Council of Ten is the predecessor of the Order Tribunal, its members elected from both aristocrats and commoners. It serves as a judicial body for mediating civil disputes, handling political crimes, and adjudicating significant public affairs.\n::'''Fili:''' All resolutions of the Order Tribunal are passed through votes, which are binding even over the Primus.\n::'''Fili:''' But after the Dark Tide twenty years ago, Fenrico became the Primus, and established the Order Penitentiary for investigating heresy. The Order Tribunal's influence has been gradually diluted...\n::'''Fili:''' But as long as the Order Tribunal exists, we will uphold the principles of fairness and justice to the very end. This is the value the Order Tribunal upholds, and so must the Order Penitentiary!\n::{{DIcon}} Thank you, I have no more questions.\n::'''Fili:''' May the Sentinel bless you.\n:{{DIcon}} I have no more questions, goodbye.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fili\n|zhs  = 菲莉\n|zht  = 菲莉\n|ja   = フィリー\n|ko   = 펠리\n|es   = Fili\n|fr   = Fili\n|de   = Fili\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

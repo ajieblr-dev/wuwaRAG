@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:32Z",
+  "title": "Aeschylus",
+  "pageid": 37776,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Aeschylus.png\n|name             = Aeschylus\n|title            = \n|type             = Quest\n|type2            = Open-World\n|status               = Deceased\u003cbr\u003eDied during a meteor impact hundreds of years ago.\n|affiliation      = Ostina \n\n\u003c!--Family--\u003e\n|spouse           = Leah\n|spouseNote       = deceased \n\u003c!---|relative         = Unknown\n|relativeNote     = Son--\u003e\n\u003c!--VAs--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Aeschylus''' {{Lang|zh=埃斯克勒斯}} is a [[NPC]] that first appears in {{Quest|Dreamcatchers in the Secret Gardens}}. After completing Dreamcatchers in the Secret Gardens his Reverberation can be found in the [[Lost Beyond]]. \n\n==Quests and Events==\n{{Quests and Events}} \n\n==Dialogue==\n{{Dialogue Start}}\n;(After 18\u003cnowiki\u003e:\u003c/nowiki\u003e00)\n:;'''Aeschylus''' So what do you think?\n:;'''Leah''' Yawn...\n\n:'''Aeschylus:''' Don't be indifferent. Now listen, a normal welcome-back party is boring. We should throw a surprise party. The youths do like surprises.\n:'''Leah:''' There's a fine line between surprise and jump scare.\n:'''Aeschylus:''' Hehe, she's brave than you. Maybe she's into that kind of thing.\n:{{DIcon}} What are you talking about?\n:'''Aeschylus:''' Oh, it's you. Phrolova is out performing, and we're discussing how to organize a party for her return.\n:'''Leah:''' You act younger than the youths of today. Try not to overexert yourself. Oh, you seem tired, child. Care for a glass of water?\n:'''Aeschylus:''' Hey child, do you like my idea? If we throw a surprise party, maybe they'll let me be the main organizer.\n:{{DIcon}} It's a good idea.\n::'''Aeschylus:''' Hahaha, I most certainly know what the youths want. What have you got to say to that, Leah?\n::'''Leah:''' Sigh...\n:{{DIcon}} Why do you care so much?\n::'''Aeschylus:''' Uh... haha, we saw them grow up. Those young'uns are like family to us.\n::'''Aeschylus:''' Besides, I need to be important to them. If they enjoy my company, they won't forget to visit us from time to time.\n::'''Aeschylus:''' Unlike our own ungrateful brat... He never...\n::'''Leah:''' Okay, that's enough.\n{{Dialogue End}}\n\n==Gallery==\n{{Files by Character Gallery}} \n\n===Videos===\n\u003cgallery\u003e\nWuthering Waves Story Cinematics - Fading Notes\n\u003c/gallery\u003e \n\n==Other Languages ==\n{{Other Languages\n|en   = Aeschylus\n|zhs  = 埃斯克勒斯\n|zht  = 埃斯克勒斯\n|ja   = アイスキュロス\n|ko   = 아이스킬로스\n|fr   = Aeschylus\n|de   = Aeschylus\n|es   = Aeschylus\n|th   = เอสเคอลุส\n}} \n\n==Change History==\n{{Change History|2.5}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

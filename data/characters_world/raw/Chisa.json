@@ -1,0 +1,107 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:59Z",
+  "title": "Chisa",
+  "pageid": 31283,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}}\n\u003c!-- Gameplay Info --\u003e|type             = Playable\n|rarity           = 5\n|class            = Mutant\n|weapon           = Broadblade\n|role             = Support and Healer;Resonance Liberation Damage;Havoc Bane\n|attribute        = Havoc\n|releaseDate      = 2025-11-20\n\n\u003c!-- Info --\u003e|name             = Chisa\n|realname         = Kuchiba Chisa\n|title            = Eye of Unravelling\n|gender           = Female\n|age              = 18 (physically)\u003cref\u003eChisa's Character Story: [[Chisa/Backstory#Character Stories|Beyond the Summer's End]]\u003c/ref\u003e\u003cbr\u003e38 (chronologically)\u003cref\u003e{{Quest|What Burns Beneath Frostlands}}\u003c/ref\u003e\n|birthday         = Unknown\n|birthplace       = Ashinohara\n|nation           = Lahai-Roi\n|nation2          = \n|affiliation      = Startorch Academy\n|affiliation2     = \n|sigil            = \n|dish             = Lemon-Scented Sukiyaki\n|obtain           = Horizon of Dawnbreak\n\n\u003c!-- Family --\u003e|mother           = Mrs. Kuchiba\n|motherRef        = \u003cref name=\"The Summer Where the Story Began\"\u003eChisa's Character Story: [[Chisa/Backstory#Character Stories|The Summer Where the Story Began]]\u003c/ref\u003e\n|father           = Mr. Kuchiba\n|fatherRef        = \u003cref name=\"The Summer Where the Story Began\"\u003e\u003c/ref\u003e\n\n\u003c!-- VAs --\u003e|voiceEN          = [[imdb:nm11377908|Leader Looi]]\u003cref\u003eX: [https://x.com/leaderlooi/status/1989450687894466681 EN VA Self Announcement]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/%E8%B5%B5%E7%81%B5%E6%B3%BD Zhao Lingze] ({{Lang|mini=1|zh=赵灵泽}})\u003cref name=\"Chisa Bili\"\u003eBilibili: [https://t.bilibili.com/1135690744399396981 《鸣潮》共鸣者战斗演示 | 千咲]\u003c/ref\u003e\n|voiceJP          = {{w|Hisako Kanemoto|Kanemoto Hisako ({{Lang|mini=1|ja=金元寿子}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/1989558984659898696 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = {{w|ko:이주은_(성우)|Lee Joo-eun ({{Lang|mini=1|ko=이주은}})}}\u003cref name=\"Chisa Bili\"/\u003e\n}}\n{{Quote|I will… sever this deadlock.|Chisa}}\n{{Intro/Resonator|Chisa|lang=ja=千咲}} Chisa is a conscientious, level-headed student from the [[Startorch Academy]]. To her, everything can be broken down, analyzed, and resolved, with the exception of human bonding. Bonds can be severed, but this fragility is what makes them precious.\n\n==Combat Overview==\n{{Main|Chisa/Combat}}\n\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Chisa|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events|Chisa}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Trivia==\n* Chisa's last name, Kuchiba is likely a nod to the Uchiha Clan from Naruto. \n===Etymology===\n* Kuchiba (朽葉) means withered leaf, while Chisa(千咲) means thousand blossom/blooms. \n\n==Other Languages==\n{{Other Languages\n|en   = Chisa\n|zhs  = 千咲\n|zht  = 千咲\n|ja   = 千咲\n|ko   = 치사\n|fr   = Chisa\n|de   = Chisa\n|es   = Chisa\n|th   = Chisa\n}}\n\n==Change History==\n{{Change History|2.8}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n[[zh:千咲]]\n[[ru:Чиса]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "3.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "4.1",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "13"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:38Z",
+  "title": "Stonewall Bracer",
+  "pageid": 11200,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Stonewall Bracer\n|title     = \n|image     = Stonewall Bracer Icon.png\n|dmgtype   = Physical\n|class     = Elite\n|weakpoint = Unknown\n|echo      = Yes\n|family    = Tacet Discord\n|group     = Tranquilite\n}}\n{{Description|An Elite Class Tranquilite TD found in mountainous areas. They bear huge sizes and inhabit rocks.}}\n{{Intro/Enemy|an=1|lang=zh=坚岩斗士}}\n\n==Drops== \n{{Drops|Elite Tranquilite}}\n\n==Stats==\n{{Enemy Stats|Stonewall Bracer}} \n\n==Abilities== \n\n==Trophies==\n{{Trophies|Stonewall Bracer|customheader=Stonewall Bracer}}\n\n==Description==\n{{Description|A TD constructed from rocks. Slow and clumsy, it possesses horrendous arm strength and prefers throwing stones to attack its enemies.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en     = Stonewall Bracer\n|zhs    = 坚岩斗士\n|zht    = 堅岩鬥士\n|ja     = 巨岩の闘士\n|ko     = 거암 투사\n|es     = Brazal Pétreo\n|fr     = Champion rocheux\n|de     = Stonewall Bracer\n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

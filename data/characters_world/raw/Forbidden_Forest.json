@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:32Z",
+  "title": "Forbidden Forest",
+  "pageid": 6024,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Forbidden Forest\n|image=Forbidden Forest.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Dim Forest\n}}\n'''Forbidden Forest''' is an area of [[Dim Forest]], [[Huanglong]]. \n\n==Features==\n===Interactables===\n{{#dpl:|category = Forbidden Forest Terminology|ordermethod= title}}\n\n==NPCs==\n{{NPCs by Location List|Forbidden Forest}}\n\n==Other Languages==\n{{Other Languages\n|en   = Forbidden Forest\n|zhs  = 猢思崖\n|zht  = 猢思崖\n|ja   = {{Rubi|猿知崖|えんちがい}}\n|ko   = 원숭이 절벽\n|es   = Bosque Prohibido\n|fr   = Forêt interdite\n|de   = Verbotener Wald\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Features",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Interactables",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

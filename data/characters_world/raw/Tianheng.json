@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:47Z",
+  "title": "Tianheng",
+  "pageid": 10406,
+  "wikitext": "{{Meta\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|name             = Tianheng\n|image            = NPC Tianheng.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Camp Overwatch\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Tianheng''' is an NPC in {{Location|Camp Overwatch}}.\n\n==Location==\n{{Map Embed|Desorock Highland|Tianheng}}\n\u003c!--\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n\n==Quests and Events==\n{{Quests and Events|{{subst:#titleparts:{{subst:PAGENAME}}}}}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Tianheng:''' Hmm?\n:'''Tianhe:''' Um... Does he mean \"What's your business at the Vanguard Base\"?\n:{{DIcon}} Vanguard Base?\n:'''Tianheng:''' Hmph.\n:'''Tianhe:''' He means \"If you have nothing to do, don't loiter around here\".\n:'''Tianhe:''' I'm sorry! My brother can be a bit rude... Let me explain for him!\n:'''Tianhe:''' The Midnight Rangers have three divisions: Outrider, Vanguard, and Rearguard, all under the command of General [[Jiyan]].\n:'''Tianhe:''' The Vanguard is the vanguard force of the Midnight Rangers, mainly responsible for frontline combat. This is the Vanguard Base.\n:'''Tianhe:''' We are very close to the frontline here, and there are often [[Tacet Discord]] sightings around. If you have nothing important, please do not linger around, especially do not proceed further to the east.\n:{{DIcon}} Has the situation on the battlefield become more intense?\n::'''Tianhe:''' Although he doesn't talk much, he is very dedicated to his work and skilled, which is why General Jiyan specifically appointed him to guard this place.\n::'''Tianhe:''' Hmph, with the two of us, the Vanguard Base is impregnable!\n:{{DIcon}} How do you understand what he's saying?\n::'''Tianhe:''' That's right, even some of the soldiers who were originally stationed at the base have recently been deployed to the battlefield...\n::'''Tianhe:''' In order to defend this place, we can't leave our posts to ensure your safety, so please stay away from the front lines as much as possible.\n::'''Tianhe:''' Ah... Well, we grew up together, so even without words, I can understand what he means just from his expression.\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Tianheng\n|zhs  = 田亨\n|zht  = 田亨\n|ja   = 田亨（デンコウ）\n|ko   = 전팽\n|es   = Tianheng\n|fr   = Tianheng\n|de   = Tianheng\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

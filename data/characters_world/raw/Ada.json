@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:30Z",
+  "title": "Ada",
+  "pageid": 38257,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Ada.png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Precious Metals and Artworks Depository\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Ada''' is a female NPC working as an appraiser at the [[Vault Underground]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Ada:''' Oh, if only I could see them again...\n:{{DIcon}} Hello there.\n:{{DIcon}} Hi there. What do you want to see?\n:'''Ada:''' Hello! Are you one of the Vault's customers?\n:'''Ada:''' I'm an appraiser here. We been valuing collections for years.\n:'''Ada:''' Well, but something's been bothering me for a long time. Once, the head of the Montellis brought in some items for appraisal. I evaluated them the usual way.\n:'''Ada:''' At the time, I was sure it was the‘most valuable collection I'd ever handled. But to my surprise, many of the pieces seemed... almost worthless when judged by market value.\n:'''Ada:''' Not long after, the collection was sealed away and has never been seen since.\n:'''Ada:''' Could I have overlooked something? Oh... if only I could examine those items once more, I would be certain to appraise them with the clarity they deserve.\n{{Dialogue End}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ada\n|zhs  = 艾妲\n|zht  = 艾妲\n|ja   = イダ\n|ko   = 아이딘\n|fr   = Ada\n|de   = Ada\n|es   = Ada\n|th   = เอด้า\n}}\n==Change History==\n{{Change History|2.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:02Z",
+  "title": "Illuminator Theater",
+  "pageid": 41189,
+  "wikitext": "{{Stub|Drops, stats, abilities, and location}}\n{{Enemy Infobox\n|name       = Illuminator Theater\n|image      = Traffic Illuminator Icon.png\n|dmgtype    = Spectro\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|group      = Clamorling\n|nation     = Huanglong\n|region     = Desorock Highland\n|level      = 60\n}}\n'''Illuminator Theater''' is a [[Special Enemies|special enemy]] found in {{Location|Desorock Highland|nocat=1}}.\u003c!--\n\n==Drops== \n{{Drops|Illuminator Theater}} \n\n==Stats==\n{{Enemy Stats|Illuminator Theater}} \n\n==Abilities==--\u003e\n\n==Location==\n\u003cgallery\u003eTrophy Safety First! Location.png\u003c/gallery\u003e\n\n==Trophies==\n{{Trophies|Illuminator Theater|customheader=Illuminator Theater}} \n\n==Other Languages==\n{{Other Languages\n|en  = Illuminator Theater\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

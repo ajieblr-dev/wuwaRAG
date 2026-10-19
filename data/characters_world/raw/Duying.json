@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:16Z",
+  "title": "Duying",
+  "pageid": 9924,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Duying.png\n|type             = Quest\n|nation           = Huanglong\n|location         = Central Plains\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Duying''' is an [[NPC]] in {{Location|Central Plains}}. He is a member of the [[Midnight Rangers]].\u003cref\u003e[[Side Quest]] {{Quest|Investigate the theft of camp supplies}}\n:'''''Duying:''' General Jiyan asked all members of the Midnight Rangers to assist you in any way possible.''\n:'''''Duying:''' So, whatever your reason is, I'm glad I can help you.''\u003c/ref\u003e\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Duying\n|zhs  = 渡影\n|zht  = 渡影\n|ja   = 渡影\n|ko   = 도영\n|es   = Duying\n|fr   = Duying\n|de   = Duying\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

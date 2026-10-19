@@ -98,6 +98,22 @@ func TestCorpusEndpoints(t *testing.T) {
 		t.Fatalf("Expected 200 OK for /api/v1/pages, got %d", wPages.Code)
 	}
 
+	// Test GET /api/v1/corpus?q=Abraxas
+	reqQ, _ := http.NewRequest(http.MethodGet, "/api/v1/corpus?q=Abraxas", nil)
+	wQ := httptest.NewRecorder()
+	srv.Router().ServeHTTP(wQ, reqQ)
+	if wQ.Code != http.StatusOK {
+		t.Fatalf("Expected 200 OK for /api/v1/corpus?q=Abraxas, got %d", wQ.Code)
+	}
+	var qResp map[string]interface{}
+	if err := json.NewDecoder(wQ.Body).Decode(&qResp); err != nil {
+		t.Fatalf("Failed to decode /api/v1/corpus?q=Abraxas response: %v", err)
+	}
+	matchedCount, _ := qResp["matched_chunks"].(float64)
+	if matchedCount < 2 {
+		t.Errorf("Expected at least 2 matched chunks for 'Abraxas', got %v", matchedCount)
+	}
+
 	// Test GET /api/v1/speakers
 	reqSpeakers, _ := http.NewRequest(http.MethodGet, "/api/v1/speakers", nil)
 	wSpeakers := httptest.NewRecorder()
@@ -116,7 +132,7 @@ func TestStaticWebRoutes(t *testing.T) {
 
 	srv := NewServer(ragService, qClient, embedder, fetchClient, "wuwa_lore", "Simulacrum_of_the_Heart")
 
-	routes := []string{"/", "/index.html", "/ask.html", "/search.html", "/styles.css", "/app.js"}
+	routes := []string{"/", "/index.html", "/ask.html", "/search.html", "/styles.css", "/app.js", "/console", "/admin", "/console.html", "/admin.html"}
 	for _, route := range routes {
 		req, _ := http.NewRequest(http.MethodGet, route, nil)
 		w := httptest.NewRecorder()

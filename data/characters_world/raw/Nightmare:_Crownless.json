@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:44Z",
+  "title": "Nightmare: Crownless",
+  "pageid": 31199,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Nightmare Enemy Infobox\n|name      = Nightmare: Crownless\n|title     = Spear of Transgression\n|image     = Nightmare Crownless Icon.png\n|dmgtype   = Havoc\n|weakpoint = Unknown\n|echo      = Yes\n|class     = Overlord\n|family    = Tacet Discord\n|group     = Whisperin\n|nation    = Rinascita\n|region    = Penitent's End\n|variants  = Crownless; Tactical Hologram: Crownless}}\n{{Description|A special Tacet Discord that lurks in the intricate network of the Dreamscape Nodes.}} \n\n{{Lang|Crownless|zh=梦魇·无冠者}} is an [[Overlord Class]] [[Nightmare Variant|Nightmare]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in {{Location|Penitent's End|nocat=1}}. \n\nNightmare: Crownless is only unlocked after ''discovering'' all four [[Dream Patrol]] challenges in [[Penitent's End]]. \n\n==Drops==\nDefeating this boss offers the following drop:\n{{Card|type=Echo|Nightmare: Crownless/Echo|mini=1|caption=1}} \n\n==Stats==\n{{Enemy Stats}} \n\n==Description==\n{{Description|A special Tacet Discord that lurks in the intricate network of the Dreamscape Nodes. It gathers frequencies of a particular negative emotion emanating from across all of Ragunna.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en      = Nightmare: Crownless\n|zhs     = 梦魇·无冠者\n|zht     = 夢魘·無冠者\n|ja      = ナイトメア・無冠者\n|ko      = 악몽 · 크라운리스\n|fr      = Cauchemar : Sans couronne\n|de      = Albtraum: Ungekrönte\n|es      = Pesadilla: Destronado\n}} \n\n==Change History==\n{{Change History|2.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

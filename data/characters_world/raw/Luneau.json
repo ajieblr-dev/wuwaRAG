@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:29Z",
+  "title": "Luneau",
+  "pageid": 41095,
+  "wikitext": "{{NPC Infobox\n|image            = \n|name             = \n|title            = \n|type             = Quest\n|type2            = Open-World\n|deceased         = Died during a meteor impact hundreds of years ago.\n|affiliation      = Ostina\n\n\u003c!--Family--\u003e\n\n\n\u003c!--VAs--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' is a deceased [[NPC]] that can be found in the [[Lost Beyond]]  as a Reverberation after completing the {{Quest|Dreamcatchers in the Secret Gardens}}.\n\nHe can be seen talking to '''Noemie''' in the morning and dancing with her at night on the cliff. \n\n==Dialogue==\n{{Dialogue Start}}\n:;'''Luneau''' Won't you at least consider my suggestion?\n\n:'''Luneau:''' I have some spare cash on hand. You can borrow my money and pay me back later.\n:'''Noemie:''' Thank you for the offer, but I can't accept this. I've also returned everything Phrolova's given me.\n:'''Noemie:''' It's infuriating. She bought her first violin by herself with savings from her job. Does she think I can't do the same?\n:'''Luneau:''' I'm sure that's not what she meant.\n:'''Noemie:''' But I'm not angry, really. I only want you all to trust me. Even though it'll take a while, I want to buy a new instrument on my own.\n:'''Luneau:''' Still... I'd like to help.\n:'''Noemie:''' Then you can accompany me to the city and help me pick out an instrument after I've saved enough.\n:'''Luneau:''' Alright, it's a deal!\n{{Dialogue End}}\n\n===Videos===\n\u003cgallery\u003e\nWuthering Waves Story Cinematics - Fading Notes\n\u003c/gallery\u003e\n\n==Trivia==\n*Noemie first appeared during the Main Quest, Dreamcatchers in the Secret Gardens, singing to a young man. After completing quest, the young man is now hiding behind a building, watching Noemie and Lunaeu with a scowl. \n\n==Other Languages ==\n{{Other Languages\n|1_en   = Luneau\n|1_zhs   = 鲁诺\n|1_zht   = 魯諾\n|1_ja    = ルノ\n|1_ko    = 루네아\n|1_fr    = Luneau\n|1_de    = Luneau\n|1_es    = Luneau\n|1_th    = Luneau\n\n|2_en   = Noemie\n|2_zhs  = 诺埃米\n|2_zht  = 諾埃米\n|2_ja   = ノエミ\n|2_ko   = 노엠\n|2_fr   = Noemie\n|2_de   = Noemie\n|2_es   = Noemie\n|2_th   = Noemie\n}}\n\n==Change History==\n{{Change History|2.5}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Luneau",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Noemie",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    }
+  ]
+}

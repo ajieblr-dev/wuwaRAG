@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:36Z",
+  "title": "Fractsidus Inspector",
+  "pageid": 35846,
+  "wikitext": "{{Enemy Infobox\n|name      = Fractsidus Inspector\n|title     = \n|image     = Fractsidus Inspector Icon.png\n|dmgtype   = Havoc\n|weakpoint = \n|echo      = No\n|class     = Elite\n|family    = Human\n|group     = Fractsidus\n|nation    = Rinascita\n|region    = Fabricatorium of the Deep\n|subregion = \n|drops     = \n}}{{Description|Inspectors of the Fractsidus who wear the tendrils of darkness emanating from their highly modified body like a badge of honor.}}\n{{Intro/Enemy|Fractsidus Inspector|a=1|lang=zh=裁夺者}}\n\n==Drops== \n{{Drops|Elite Fractsidus}}\n\n==Stats==\n{{Enemy Stats|Fractsidus Inspector}}\n\u003c!--\n==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Fractsidus Inspector|customheader=Fractsidus Inspector}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Havoc DMG|nobold=1}}.\u003cbr/\u003eFractsidus Inspectors whose highly modified bodies embody their devotion to their zealous ideals.\u003cbr/\u003e\nShreds of reason linger beneath the cold metal. Through the cracks, all that remains to be seen is the dark void.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fractsidus Inspector\n|zhs  = 裁夺者\n|zht  = 裁奪者\n|ja   = フラクトシデス・インスペクター\n|ko   = 잔성 ・ 감시관\n|es   = Inspector\n|fr   = Inspecteur des Fractsidus\n|de   = Fractsidus-Inspektor\n}}\n\n==Change History==\n{{Change History|2.5}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

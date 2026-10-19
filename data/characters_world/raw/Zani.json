@@ -1,0 +1,142 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:18Z",
+  "title": "Zani",
+  "pageid": 24793,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery|Zani}} \n\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 5\n|class            = Mutant\n|weapon           = Gauntlets\n|attribute        = Spectro\n|role             = Main Damage Dealer; Heavy Attack Damage; Spectro DMG Amplification; Spectro Frazzle\n|releaseDate      = 2025-04-29\n\n\u003c!-- Info --\u003e\n|name             = Zani\n|title            = Scorched Radiance\n|title2           = The Blazing Nightwalker\u003cref\u003e{{Quest|A Blaze in the Dark}}\u003c/ref\u003e\n|gender           = Female\n|birthday         = \n|birthplace       = Rinascita\n|nation           = Rinascita\n|affiliation      = Ragunna\n|affiliation2     = Montelli Family\n|affiliation3     = Averado Bank\n|sigil            =\n|dish             = One-Pot Pasta\n|obtain           = Between Light and Shadow \n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm3229078|Alexandra Metaxa]]\u003cref name=\"Zani Bilibili\"\u003e\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/zh-hans/聂曦映 Nie Xiying ({{Lang|mini=1|zh=聂曦映}})]\u003cref name=\"Zani Bilibili\"\u003eBilibili: [https://www.bilibili.com/opus/1059726967802167300 《鸣潮》共鸣者战斗演示 | 赞妮]\u003c/ref\u003e\n|voiceJP          = {{w|Hitomi Ueda|Ueda Hitomi ({{Lang|mini=1|ja=上田瞳}})}}\u003cref name=\"JP-VA_TWZani\"\u003eX: [https://x.com/WW_JP_Official/status/1870710862241239302 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/원에스더 Won Esther ({{Lang|mini=1|ko=원에스더}})]\u003cref name=\"Zani Bilibili\"\u003e\u003c/ref\u003e}}\n{{Quote|Alright, what's the first thing on today's to-do list?|Zani}}\n{{Intro/Resonator|Zani}} She is a staff member of the [[Montelli Family]]'s [[Averardo Bank]] in [[Ragunna]]. As a serious and reliable Montelli employee, Zani follows a strict routine and manages tasks with ease. For years, she has clocked in on time without fail, finding as much enjoyment in her well-ordered life as in her carefully planned moments of leisure.\n\n==Official Introduction==\n{{Quote|Zani, a serious and reliable Montelli employee, follows a strict routine and manages tasks with ease.\u003cbr\u003e\nFor years, she has clocked in on time without fail, finding as much enjoyment in her well-ordered life as in her carefully planned moments of leisure.|Introduction from the [https://wutheringwaves.kurogames.com/en/main#resonators Official Website.]}}\n\n==Combat Overview==\n{{Main|Zani/Combat}}\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Zani|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Zani\n|zhs     = 赞妮\n|zht     = 贊妮\n|ja      = ザンニー\n|ko      = 젠니\n|fr      = Zani\n|de      = Zani\n|es      = Zani\n}}\n\n==Trivia==\n===Etymology===\n* A ''[https://en.wikipedia.org/wiki/Zanni Zani]'' (more commonly spelled ''Zanni'') was a character performed during Italian comedy, typically appearing as an immigrant working as a servant. Typically, a Zani was a shrewd, successful trickster.\n\n==Change History==\n{{Change History|2.3|introduced=2.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[zh:赞妮]]\n[[ru:Зани]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "3.3",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "3.4",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.5",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "6.1",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "14"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:38Z",
+  "title": "Averardo Vault (Area)",
+  "pageid": 26420,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Averardo Vault\n|image=Averardo Vault.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Averardo Vault\n}}\n\n'''Averardo Vault''' is an area in [[Rinascita]]. \n\n==Front Desk Attendant==\n{{Dialogue Start}} \n:'''Front Desk Attendant:''' Welcome back, honored guest of the [[Montelli Family|Montelli family]]. It is my pleasure to see you again at Averardo Vault.\n:'''Front Desk Attendant:''' Thank you for everything you've done for the Montellis and the Vault.\n:'''Front Desk Attendant:''' How may I help you today?\n:{{DIcon}} What kind of services do you offer here?\n:'''Front Desk Attendant:''' Well, as you can see, the Vault houses a special collection of rare items collected by the Montelli family.\n:'''Front Desk Attendant:''' From tangible relics like fine art, precious metals, and advanced technologies, to more elusive assets—Reserved Echoes, Remnants, and even abstract concepts. If it holds value, we store it.\n:'''Front Desk Attendant:''' You are welcome to store your valuables in our safe—for a small fee, of course.\n:'''Front Desk Attendant:''' Rest assured, the security we provide is well worth every coin.\n:'''Front Desk Attendant:''' Alternatively, if you wish to part with any of your items or Echoes, we can access their value. Should they be deemed worthy, we will make you an offer based on their worth.\n:'''Front Desk Attendant:''' By the way, we're currently refining our auction process to align with best practices from other regions.\n:'''Front Desk Attendant:''' As such, the auctions will be on hold for the time being.\n:{{DIcon}} Sounds... good.\n:{{DIcon}} Many thanks.\n:{{DIcon}} I'll take a look around.\n:'''Front Desk Attendant:''' It's my pleasure. Should you require anything else, do not hesitate to ask.\n{{Dialogue End}} \n\n==NPCs==\n{{NPCs by Location List|Averardo Vault}}\n\n==Other Languages==\n{{Other Languages|Averardo Vault}}\u003c!--Same as region--\u003e\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Front Desk Attendant",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:31Z",
+  "title": "Abyssal Mercator",
+  "pageid": 25682,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Abyssal Mercator\n|title     = \n|image     = Abyssal Mercator Icon.png\n|dmgtype   = Glacio\n|weakpoint = Unknown\n|echo      = Yes\n|class     = Elite\n|family    = Tacet Discord\n|group     = Dark Tide Influenced\n|gourp2    = Whisperin\n|nation    = Rinascita\n|region    = \n|subregion = \n|drops     = \n}}{{Description|A humanoid Tacet Discord born from the abyssal sea that assumes the semblance of an aristocratic merchant, a fully differentiated form of Primordia Bloom.}}\n{{Intro/Enemy|Abyssal Mercator|an=1}}\n\n==Drops==\n{{Drops|Elite Dark Tide Influenced}}\n\n==Stats==\n{{Enemy Stats|Abyssal Mercator}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} against {{Color|Glacio damage}}.\u003cbr/\u003eA humanoid Tacet Discord born from the abyssal sea that assumes the semblance of an aristocratic merchant, a fully differentiated form of Primordia Bloom.\u003cbr/\u003eIn its earliest state, the Abyssal Mercator was no different from a Primordia Bloom, a creature capable of consuming others' frequencies to mimic their forms and seamlessly blend with its prey's kind.\u003cbr/\u003ePerhaps it originated from a greedy merchant who underestimated the dangers of the Thorncrown Rises, only to become sustenance for countless nematocysts.|Description when discovered}}\n\n==Trophies==\n{{Trophies|Abyssal Mercator}}\n\n==Other Languages==\n{{Other Languages\n|en  = Abyssal Mercator\n|zhs = 凝水贵族\n|zht = 凝水貴族\n|ja  = アビサル・メルカトル\n|ko  = 메르카토르 귀족\n|es  = Mercator Abisal\n|fr  = Mercator abyssal\n|de  = Tiefen Merkator\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

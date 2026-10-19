@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:08Z",
+  "title": "Yago",
+  "pageid": 32513,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Yago.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Porto-Veno Castle\n|group            = \n|affiliation      = Fisalia Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Sybilla''' is a male NPC who appears in {{Location|Porto-Veno Castle|nocat=1}}. He is a member of the [[Fisalia Family]].\n\n==Quests and Events==\n''(Not in any quest or event yet)'' \u003c!-- Remove if the NPC appears in any quest/events --\u003e\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the Day)\n:'''Yago:''' *Sleeping sounds*\n:{{DIcon}} Hey, wake up.\n:'''Yago:''' Ahh! I'm not slacking off!\n:'''Yago:''' Phew... Thank goodness. You're not Mr. Sebastian.\n:'''Yago:''' Oh, I was just... you know, setting the mood! Keeping things relaxed, as is befitting the family's reputation!\n----\n;(at Night)\n:'''Yago:''' How should I prune these flowers?\n:{{DIcon}} What are you doing?\n:'''Yago:''' As you can see, I'm tending to these Violacas.\n:'''Yago:''' Trying to fend off the drowsiness from these flowers while cutting them into perfect squares? Truly, a labor of love...\n:{{DIcon}} But... the petals are still curved.\n:{{DIcon}} You don't even have pruning shears.\n:'''Yago:''' Oh no, please! Please don't tell Mr. Sebastian!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yago\n|zhs  = 亚格\n|zht  = 亞格\n|ja   = アガ\n|ko   = 야그\n|es   = Yag\n|fr   = Yag\n|de   = Yag\n}}\n\n==Change History==\n{{Change History|2.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

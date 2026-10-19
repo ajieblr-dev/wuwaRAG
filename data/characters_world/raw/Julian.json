@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:09Z",
+  "title": "Julian",
+  "pageid": 27198,
+  "wikitext": "{{stub}}{{NPC Infobox\n|image            = NPC Julian.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Order of the Deep (Area)\n|group            = \n|affiliation      = Order of the Deep\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Julian''' is a female NPC who appears at the [[Order of the Deep (Area)|Order of the Deep]], [[Ragunna]]. During the daytime, she can be seen teaching children hymns of the Order, while at night, she prays in front of a fountain.\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Julian:''' Through such a bright and shining grace...\n:'''Julian:''' Like the stars, we are piously united together...\n:'''Julian:''' Under your guidance, we rise from the waters...\n:'''Julian:''' Sacred and pure, reaching a place where the soul can breathe...\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction)\n:'''Julian:''' Alright, everyone, let's take a little break!\n:{{DIcon}} The children's voices are beautiful.\n::'''Julian:''' Indeed! Children have the purest souls, and their voices ring clear—perfect for singing hymns.\n:{{DIcon}} I'd love to understand the meaning behind the lyrics.\n::'''Julian:''' Absolutely. The hymns of the Order are themed around our teachings, especially our motto of \"Salvation, Ascension, and Unity.\"\n:'''Julian:''' Once, the Sentinel's bright gaze pierced the darkness, leaving us out of endless wandering and binding us together as a people.\n:'''Julian:''' We drift on this world like plankton in the ocean... but it is the Sentinel who raises us up, teaching us to breathe once more...\n:'''Julian:''' In the end, we will find \"Unity\" again, hand in hand as we cross the final tide, reaching heaven's gate and receiving salvation...\n:{{DIcon}} Some of this is hard to follow...\n::'''Julian:''' That's alright. As The Codex reminds us—every revelation is already there, waiting in our hearts.\n:{{DIcon}} But the hymn sounds beautiful.\n::'''Julian:''' The hymns aim to awaken that truth. As The Codex reminds us—every revelation is already there, waiting in our hearts.\n:'''Julian:''' Still, I hear the Order is working on a new hymn. Personally, I feel this version tugs my heartstrings more... the new lyric lacks the rhythmic beauty of the original.\n:'''Julian:''' The new hymn leans heavily into \"Unity\" and expands on the interpretation of \"The Deep\"... probably to promote the Order's renown.\n:'''Julian:''' Yet no matter how rough the tides of this world may be, I believe that one day we'll see—behind us, we've always had wings of grace, ready to carry us forward.\n:'''Julian:''' Just as the old legends say, and as the Sentinel hopes: Young hearts, be bold—go forth and make miracles happen!\n----\n;\u003cnowiki\u003e(Second interaction at 6:00 AM to 11:59 AM)\u003c/nowiki\u003e\n:'''Julian:''' No matter how rough the tides of this world may be, one day we'll see—behind us, we've always had wings of grace, ready to carry us forward.\n:'''Julian:''' Just as the old legends say, and as the Sentinel hopes: Young hearts, be bold—go forth and make miracles happen!\n----\n;\u003cnowiki\u003e(Second interaction at 12:00 PM to 12:59 PM)\u003c/nowiki\u003e\n:'''Julian:''' Alright, everyone, let's take a little break!\n----\n;(\u003cspan class=\"text-error\"\u003eMissing condition\u003c/span\u003e)\n:'''Julian:''' Alright, everyone, let's take a little break!\n:'''Julian:''' We have a new member joining the choir today, so let's all make them feel welcome!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Julian\n|zhs  = 朱利安\n|zht  = 朱利安\n|ja   = ジュリアン\n|ko   = 줄리안\n|es   = Julian\n|fr   = Julian\n|de   = Julian\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

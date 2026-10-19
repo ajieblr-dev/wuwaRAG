@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:50Z",
+  "title": "Camilus",
+  "pageid": 38264,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Camilus and Laon.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont\n|group            = Gladiator\n}}\n'''{{PAGENAME}}''' is a male Gladiator NPC training someone from Ragunna, '''Laon'''. They can be found at at the [[Solis Tavern]] in [[Capitoline Hill City]]. \n\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction)\n:'''Camilus''' ...You want to become a Gladiator?\n:'''Laon''' Th-that's right! Please, sir, can you tell me how to become an outstanding Gladiator?\n:'''Camilus''' Hmph... Where you from, kid?\n:'''Laon''' F-from Ragunna!\n:'''Camilus''' Alright, kid, listen up. If you want to be an outstanding Gladiator, the first step is to eat all of this. C'mon!\n:'''Laon''' Eat... these? But it's raw meat!\n:'''Camilus''' That's right! If you want to be a great Gladiator like me, you need to be brave enough to eat animals raw!\n:'''Laon''' Is this stuff r-really edible...? Alright, alright! I'll eat it!\n:'''Rover''' ...\n:'''Rover''' Is that really edible...? I'll come back and check later.\n----\n;(Return to the scene again)\n;'''Laon''' No... no \"vittles\"... That stuff the Echoes make is disgusting. Not for me...\n;'''Camilus''' What do you mean \"disgusting\"...? All the same to me... Here, let's have another drink...\n;'''Camilus''' After the drink, we'll train...\n;'''Laon''' You still want to train...? You, my friend... are going to be an outstanding Gladiator...\n----\n;(Day time at Plaza)\n:;'''Camilus''' Let's practice that same move again! Try to work up the same courage you had when you swapped all of my food for \"vittles!\"\n:;'''Laon''' That was because you tricked me into eating raw meat. But whatever, bring it on! I'll show you that I'm going to be a great Gladiator!\n:;'''Camilus''' Good! That's the spirit!\n\n:'''Laon''' One, two... three! C'mon! Again!\n:{{DIcon}} How's training going?\n:'''Laon''' Great... Perfect even! As long as I'm not eating raw meat!\n:'''Laon''' Mr. Camilus may always play tricks on me, but his teaching is the real deal! I want to continue training!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Camilus\n|zhs  = 卡米卢斯\n|zht  = 卡米盧斯\n|ja   = カミルス\n|ko   = 카밀루스\n|fr   = Camilus\n|de   = Camilus\n|es   = Camilus\n|th   = คามิลุส\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

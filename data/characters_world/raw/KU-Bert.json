@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:10Z",
+  "title": "KU-Bert",
+  "pageid": 22089,
+  "wikitext": "{{NPC Infobox\n|image            = KU-Bert.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Energy Hub\n|group            = \n|affiliation      = Black Shores\n|title            =  \n|species          = KU-Roro\n}}\n'''KU-Bert''' is an NPC in [[Energy Hub]], [[The Black Shores]].\n\n==Quests and Events==\n{{Quests and Events|KU-Bert}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''KU-Bert:''' Corrupted data... Hic... I can't take it anymore...\n:'''KU-Bert:''' Request... Request to clear the disk sector...\n{{Dialogue End}}\n\n== Other Languages ==\n{{Other Languages\n|en   = KU-Bert\n|zhs  = 库伯特\n|zht  = 庫伯特\n|ja   = クーベルト\n|ko   = 쿠 ・ 보터\n|es   = KU-Bert\n|fr   = KU-Bert\n|de   = KU-Bert\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

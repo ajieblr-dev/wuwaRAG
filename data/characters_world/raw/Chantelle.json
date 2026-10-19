@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:56Z",
+  "title": "Chantelle",
+  "pageid": 30590,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Chantelle.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Fool's Elysium\n|group            = \n|affiliation      =\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Chantelle''' is a female NPC who appears in {{location|Fool's Elysium|nocat=1}}. She was rescued by [[Anastasia]] during her pilgrimage.\n\n==Quests and Events==\n{{Quests and Events}}\n\n{{Dialogue Start}}\n==Dialogue==\n:;'''Federico:''' Who... who are you? How did you suddenly appear at sea? Why are you rescuing us?\n:;'''Federico:''' I just want to return to [[Ragunna City]]… My belongings are still there, left behind in the rush.\n:;'''Chantelle:''' Fede... we can't go back.\n:;'''Anastasia:''' I understand your panic, Mr. Fede. But remember this—\n:;'''Anastasia:''' In the eyes of [[Order of the Deep|The Order]], a pilgrimage is no different from an execution...\n:'''Federico:''' Is there really no hope? If we head to [[Lilyland]] or [[Septimont]]... surely there's somewhere that will take us in...\n:'''Anastasia:''' I... I don't know...\n:'''Chantelle:''' Wake up, Fid. No city-state will take in outcasts without identity, unable to prove their very existence. We've lost our status as citizens of Ragunna.\n:'''Chantelle:''' Even our papers... they've turned to nothing but scraps of useless parchment.\n:'''Federico:''' Is there really no one who'll take us in? I still have a few friends... I...\n:'''Chantelle:''' Your friends? Do you truly think they'd welcome \"heretics\" like us?\n:'''Federico:''' What would you have me do, Chantelle? The Order's just left us to die out here, haven't they? How could they do this to us...?\n:'''Anastasia:''' Mr. Federico, please... stay calm. You can stay here while you plan your next steps.\n:'''Chantelle:''' Thank you so much Ahem... Fid?\n:'''Federico:''' Y-yes, thank you. I... we don't know how to thank you enough...\n----\n;(After {{Quest|Dawn Breaks on Dark Tides}}\n:{{Spoiler}}\n:;'''Federico:''' So, can we go back to Ragunna now? My property, my family... They might still be there.\n:;'''Chantelle:''' Lord Fenrico's missing, and the Order's attitude is... unsettling. I fear we'd be killed the moment we set foot back there.\n:;'''Federico:''' I don't care! I'm going back now!\n:;'''Anastasia:''' Mr. Fede, the Order's silence in times like these is anything but normal. For your own safety, please don't act on impulse.\n:'''Federico:''' I heard something big has happened in Ragunna... If we return now, maybe we can find our place again.\n:'''Chantelle:''' ...Though our status as citizens has been erased, if our acquaintances are willing to vouch for us, we might actually have a chance.\n:'''Federico:''' I've already sent letters to the friends who still live there. Perhaps hope is finally within reach...\n:'''Chantelle:''' Me too! I want to reach out to my friends! I'd do anything just to return to my homeland.\n:'''Chantelle:''' This time, I'll follow the Order's rules strictly and live a simple life.\n:'''Federico:''' O Sentinel above... Wait, can we still say that?\n:'''Anastasia:''' Are you...\n:'''Federico:''' No, no, no, we're not complaining that this place isn't good enough. Please, don't misunderstand.\n:'''Anastasia:''' It's alright. I understand. Missing home is only natural. I miss mine too.\n:'''Chantelle:''' But... should I really go home? Miss Anastasia and everyone here mean so much to me...\n:'''Anastasia:''' If you want, you can always stay here.\n:'''Chantelle:''' That would be wonderful...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Chantelle\n|zhs  = 香缇\n|zht  = 香緹\n|ja   = ジャンテ\n|ko   = 샨티\n|es   = Chanty\n|fr   = Chanty\n|de   = Chanty\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

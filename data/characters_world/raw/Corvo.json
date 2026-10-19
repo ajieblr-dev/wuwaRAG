@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:05Z",
+  "title": "Corvo",
+  "pageid": 39248,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Corvo.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Square\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC male researcher seen talking with another researcher, '''Conti''', about the [[Exostrider]] state.\n\n{{Dialogue Start}}\n==Idle==\n:'''Corvo:''' The Third {{tt|Epoch|The beginning of a distinctive period in the history of someone or something.}} the Roya always talk about... It might really be here.\n\n==Dialogue==\n:'''Conti:''' While we do see occassional spikes, the long-term trend shows a consistent decline in both new [[Soliskin]] counts and Exoswarm expansion rate.\n:'''Conti:''' Could it mean the Exostrider is in its final repair phase? That it just... doesn't need them anymore?\n:'''Corvo:''' The Third Epoch the Roya always talk about... It might really be here.\n{{Dialogue End}}\n\n==Note==\n* [[\"A Study of Royan Mythology\" (Excerpt)|Epoch]] refers to Roya mythology that marked major events in the region. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Corvo\n|zhs  = 科尔沃\n|zht  = 科爾沃\n|ja   = コルヴォ\n|ko   = 코르보\n|fr   = Corvo\n|de   = Corvo\n|es   = Corvo\n|th   = Corvo\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Note",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

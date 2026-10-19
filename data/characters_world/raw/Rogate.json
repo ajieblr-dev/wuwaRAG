@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:13Z",
+  "title": "Rogate",
+  "pageid": 38401,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Rogate.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Starward Riseway\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Rogate''' is a researcher found at the '''Research Institute''' above Starward Riseway in Lahai-Roi.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Rogate:''' This is the Artificial Sun Lab, the R\u0026D hub for Project Helios. Please refrain from touching any equipment.\n\n:'''Rogate:''' Also, avoid prolonged direct observation of Helios. It is, technically, a contained star.\n\n:{{DIcon}} Can you tell me more about it?\n\n:'''Rogate: '''Certainly. \"Helios,\"' commonly referred to as the artificial sun, is an energy device built by the [[Spacetrek Collective]]. Its purpose is to replace the current sun above Lahai-Roi—the [[Exostrider]]'s Drive. After we return the Drive to the Exostrider, it will continue to provide sustainable energy for Lahai-Roi's ecosystem.\n\n:'''Rogate:''' This is our first step towards the future. We`l have a sun that belongs to humanity alone... Our success would be nothing short of historic.\n\n:'''Rogate:''' We're working to ensure this new sun illuminates Lahai-Ro's future. It's why we're here.\n----\n;After completing the following {{Main|Ode to the Second Sunrise}}\n:'''[[Rogate]]:''' ...Oh, it's you. You're the one who helped Professor Mornye launch Helios during the New Solar Ceremony, right? Never got the chance to extend my gratitude.\n\n:'''Rogate:''' Thank you.\n\n:{{DIcon}} It was a collective effort.\n::'''Rogate:''' Haha... I won't deny that.\n\n:{{DIcon}} I'm just a student. I didn't help much.\n::'''Rogate:''' Haha, is that so? Let's leave it at that.\n\n:{{DIcon}} How's Helios running now?\n\n:'''Rogate:''' Stable. Power systems, core output, and signal transmission are all in perfect sync. Not that we're letting our guard down.\n\n:'''Rogate:''' Don't worry. We'll keep our new sun safe.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Rogate\n|zhs  = 罗盖特\n|zht  = 羅蓋特\n|ja   = ロゲート\n|ko   = 로가트\n|fr   = Rogate\n|de   = Rogate\n|es   = Rogate\n|th   = Rogate\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

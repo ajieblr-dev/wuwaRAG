@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:20Z",
+  "title": "Leitao",
+  "pageid": 74675,
+  "wikitext": "{{Stub|shop}}\n{{NPC Infobox\n|image            = NPC Leitao.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Xuanfang Ministry of Development\n|affiliation      = Ministry of Development\n|affiliationNote  = Artisan\n|status           = Alive\n\u003c!--FAMILY--\u003e\n|child = Leijia\n|childNote = Daughter\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a [[NPC]] Artisan and manager of the [[Weapon Shops|Ministry of Development Crafting Bay]] at [[Xuanfang Hold]], [[Mengzhou]] region. A Crafting Autopuppet takes his place when he isn't available.\n\n==Location==\n{{Map Embed|Xuanfang Hold|Weapon Crafting}}\n\n==Shop==\n{{Shop/Wrapper|\n|total=00,00+|vendor=Leitao|type=Weapon}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Leitao:''' Greetings. I'm Leitao from the Ministry of Development. \n:{{Icon/Quest|Dialogue Shop|20px}} I want to rearm.\n:;(Open Shop)\n::'''Leitao:''' The crafts here speak for themselves.\n:;(Purchase)\n::'''Leitao:''' Excellent taste... This is quite popular with the Xuanfang Wardens as well.\n::(Not enough Shell Credits)\n::'''Rover:''' (I'm running low on Shell Credits. Maybe I'll come back another time.)\n:[[File:Weapon Crafting Map Marker.png|20px]] I want to craft weapons.\n:{{DIcon}} About yourself\n::'''Leitao:''' My father said that when I was little and told to draw lots, I stacked everything into one pile. Then put the pottery shard right on top.\n::'''Leitao:''' That's how he came up with the name {{Rubi|Leitao|Stacking Pottery}}...\n::'''Leitao:''' Maybe it left its mark on me. I've always had a knack for putting things in order.\n::'''Leitao:''' Hand me a basket no bigger than any other Artisan's, and I'll fit three times the material inside.\n:{{DIcon}} About King Auto\n::'''Leitao:''' That child is called Leijia... She's my daughter, and the only family I have left.\n::'''Leitao:''' When I first took up my post with the Ministry of Development, she was only knee-high... She's grown a lot in that time.\n::'''Leitao:''' I used to make her all kinds of mechanical puppets to play with. Even now that she's older, she still loves collecting them.\n::'''Leitao:''' If you come across any interesting Automatons, would you mind bringing them to her? I've left her some supplies, and I'm sure she'd gladly trade with you.\n::'''Leitao:''' My thanks, truly.\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Leitao\n|zhs  = 累陶\n|zht  = 累陶\n|ja   = 累陶\n|ko   = 루도\n|fr   = Leitao\n|de   = Leitao\n|es   = Leitao\n|th   = Leitao\n|pt   = Leitao\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

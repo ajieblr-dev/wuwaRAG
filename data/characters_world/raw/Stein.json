@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:36Z",
+  "title": "Stein",
+  "pageid": 41788,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Lollo Logistics\n|title            = \n}}\n'''Stein''' is a male Lollo Logistic NPC found talking with his co-worker, '''Gallo''' at the entrance of Startorch Academy during the day.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Gallo:''' Every shipment into Lahai-Roi is a nightmare...\n\n:'''Stein:''' Back in the pre-Lament era, cargo planes would only take a few hours.\n\n:'''Gallo:''' Right?! I can only imagine the time before the Etheric Sea covered Solaris. Now we can only rely on high-speed ships...\n\n:'''Stein:''' No wonder [[Triumph Avionics]] and [[Panovista Transit]] are getting all the hype at the New Federation [[World Expo]].\n\n:'''Gallo:''' Frankly speaking, flight isn't totally banned, but only a handful of companies are licensed, and launch protocols are strict. Not to mention, no insurer wants to cover them.\n\n:'''Stein:''' If only I were a flying-type Resonator, then licenses wouldn't matter at all...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n{{Character Mentions|Galo}}\n\n==Other Languages==\n{{Other Languages\n|en   = Stein\n|zhs  = 施泰因\n|zht  = 施泰因\n|ja   = シュタイン\n|ko   = 슈타인\n|fr   = Stein\n|de   = Stein\n|es   = Stein\n|th   = Stein\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

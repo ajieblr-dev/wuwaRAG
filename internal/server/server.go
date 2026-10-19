@@ -177,6 +177,13 @@ func (s *Server) registerRoutes() {
 		s.router.StaticFile("/admin-logs.html", filepath.Join(webDir, "admin-logs.html"))
 		s.router.StaticFile("/admin-settings.html", filepath.Join(webDir, "admin-settings.html"))
 		s.router.StaticFile("/design-system.html", filepath.Join(webDir, "design-system.html"))
+		s.router.StaticFile("/console.html", filepath.Join(webDir, "admin-overview.html"))
+
+		consoleHandler := func(c *gin.Context) {
+			c.File(filepath.Join(webDir, "admin-overview.html"))
+		}
+		s.router.GET("/console", consoleHandler)
+		s.router.GET("/admin", consoleHandler)
 	}
 
 	// 2. Serve Primary User Routes: prefer redesignDir if available, else webDir
@@ -206,19 +213,39 @@ func (s *Server) registerRoutes() {
 
 	// 4. Fallback route handler
 	s.router.NoRoute(func(c *gin.Context) {
+		cleanPath := strings.Trim(c.Request.URL.Path, "/")
+		if (cleanPath == "console" || cleanPath == "admin" || cleanPath == "console.html") && webDir != "" {
+			c.File(filepath.Join(webDir, "admin-overview.html"))
+			return
+		}
+
 		reqPath := strings.TrimPrefix(c.Request.URL.Path, "/")
 		if primaryDir != "" {
 			pPath := filepath.Join(primaryDir, reqPath)
-			if info, err := os.Stat(pPath); err == nil && !info.IsDir() {
-				c.File(pPath)
-				return
+			if info, err := os.Stat(pPath); err == nil {
+				if !info.IsDir() {
+					c.File(pPath)
+					return
+				}
+				idx := filepath.Join(pPath, "index.html")
+				if _, err := os.Stat(idx); err == nil {
+					c.File(idx)
+					return
+				}
 			}
 		}
 		if webDir != "" && webDir != primaryDir {
 			wPath := filepath.Join(webDir, reqPath)
-			if info, err := os.Stat(wPath); err == nil && !info.IsDir() {
-				c.File(wPath)
-				return
+			if info, err := os.Stat(wPath); err == nil {
+				if !info.IsDir() {
+					c.File(wPath)
+					return
+				}
+				idx := filepath.Join(wPath, "index.html")
+				if _, err := os.Stat(idx); err == nil {
+					c.File(idx)
+					return
+				}
 			}
 		}
 		c.JSON(http.StatusNotFound, gin.H{"error": "route not found"})
@@ -420,6 +447,14 @@ func (s *Server) handleCorpus(c *gin.Context) {
 
 	pageQuery := strings.TrimSpace(c.Query("page"))
 	speakerQuery := strings.TrimSpace(c.Query("speaker"))
+	textQuery := strings.TrimSpace(c.Query("q"))
+	if textQuery == "" {
+		textQuery = strings.TrimSpace(c.Query("query"))
+	}
+	if textQuery == "" {
+		textQuery = strings.TrimSpace(c.Query("search"))
+	}
+
 	offsetStr := c.DefaultQuery("offset", "0")
 	limitStr := c.DefaultQuery("limit", "50")
 
@@ -436,9 +471,10 @@ func (s *Server) handleCorpus(c *gin.Context) {
 	}
 
 	var matched []parser.Chunk
-	if pageQuery != "" || speakerQuery != "" {
+	if pageQuery != "" || speakerQuery != "" || textQuery != "" {
 		pLower := strings.ToLower(pageQuery)
 		sLower := strings.ToLower(speakerQuery)
+		qLower := strings.ToLower(textQuery)
 		for _, ch := range data.Chunks {
 			if pageQuery != "" && !strings.Contains(strings.ToLower(ch.Title), pLower) {
 				continue
@@ -452,6 +488,23 @@ func (s *Server) handleCorpus(c *gin.Context) {
 					}
 				}
 				if !speakerMatched {
+					continue
+				}
+			}
+			if textQuery != "" {
+				textMatched := strings.Contains(strings.ToLower(ch.Content), qLower) ||
+					strings.Contains(strings.ToLower(ch.Title), qLower) ||
+					strings.Contains(strings.ToLower(ch.Section), qLower) ||
+					strings.Contains(strings.ToLower(ch.Subsection), qLower)
+				if !textMatched {
+					for _, sp := range ch.Speakers {
+						if strings.Contains(strings.ToLower(sp), qLower) {
+							textMatched = true
+							break
+						}
+					}
+				}
+				if !textMatched {
 					continue
 				}
 			}
@@ -473,6 +526,21 @@ func (s *Server) handleCorpus(c *gin.Context) {
 		slice = []parser.Chunk{}
 	}
 
+	respPages := data.Pages
+	if textQuery != "" {
+		matchedPageMap := make(map[string]bool)
+		for _, ch := range matched {
+			matchedPageMap[ch.Title] = true
+		}
+		filtered := make([]CorpusPage, 0, len(matchedPageMap))
+		for _, p := range data.Pages {
+			if matchedPageMap[p.Title] {
+				filtered = append(filtered, p)
+			}
+		}
+		respPages = filtered
+	}
+
 	c.JSON(http.StatusOK, gin.H{
 		"total_pages":    data.TotalPages,
 		"total_chunks":   data.TotalChunks,
@@ -480,7 +548,7 @@ func (s *Server) handleCorpus(c *gin.Context) {
 		"matched_chunks": totalMatched,
 		"offset":         offset,
 		"limit":          limit,
-		"pages":          data.Pages,
+		"pages":          respPages,
 		"top_speakers":   data.TopSpeakers,
 		"chunks":         slice,
 	})

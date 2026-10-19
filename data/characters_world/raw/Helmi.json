@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:53Z",
+  "title": "Helmi",
+  "pageid": 39194,
+  "wikitext": "{{NPC Infobox\n|image            = NPC .png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Square\n|group            = \n|affiliation      = Department of Light Energy Sciences\n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC female student found at night nearby the {{Rubi|Solis Lens Array|Lahai-Roi Resonance Nexus}} making fun of her classmate, '''Coywood'''.\n\n{{Dialogue Start}}\n==Idle==\n:'''Helmi:''' If it earns me a solid paper, I'm fine to be a [[Hoochief]]!{{sic}}\n\n==Dialogue==\n:'''Helmi:''' Zahira was literally stunned. Don't tell me you didn't feel anything?\n:'''Coywood:''' Huh? I... just got a small sample from her, that's all.\n:'''Helmi:''' Oh please... When you got that component, you were hopping around like a Hoochief, waving it around, your eyes practically glowing.\n:'''Helmi:''' You were yelling, \"YES! YES! My chain of evidence is  complete! Ghu ghu gaga—!\"\n:'''Coywood:''' I—I wasn't that dramatic... And even if I was, what about it?!\n:'''Coywood:''' If it earns me a solid paper, I'm fine to be a Hoochief!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Helmi\n|zhs  = 海尔米\n|zht  = 海爾米\n|ja   = ヘルミ\n|ko   = 헤르미\n|fr   = Helmi\n|de   = Helmi\n|es   = Helmi\n|th   = Helmi\n}}\n\n{{Other Languages\n|en   = Coywood\n|zhs  = 科伊伍德\n|zht  = 科伊伍德\n|ja   = コイウッド\n|ko   = 코이우드\n|fr   = Coywood\n|de   = Coywood\n|es   = Coywood\n|th   = Coywood\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

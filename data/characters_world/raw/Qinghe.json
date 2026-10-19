@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:05Z",
+  "title": "Qinghe",
+  "pageid": 4611,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Qinghe.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Qinghe''' is an actress NPC in [[Jinzhou]], found nearby Jinzhou Theater stage. At night, she moves around the back stage.\n\n==Location==\n{{Map Embed|Jinzhou|111;91|nogroup=1}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:;'''Qinghe''' Once I pick up the Torch Sword, I'll eradicate that monster...\n\n:;'''Qinghe''' I don't know if everyone is ready...\n:;'''Qinghe''' You gotta practice every day, can't slack off in anything, you know.\n:;'''Qinghe''' I need to double-check the props for the next scene. Can't afford to mess around with the Torch Sword...\n:;'''Qinghe''' Here... Hmm, checked. \n:;'''Qinghe''' And these  supplies, all checked!\n:;'''Qinghe''' Fiamma is ready to slay today!\n\n:;What a dazzling performance! When those sparks flew, the whole theater lit up like gold. Kindle truly lives up to its name!\n:;Bravo, bravo! The moment Fiamma struggled to rise, gripping that flaming blade... Her determination was as fierce as the fire itself! Bravo!\n:;'''[[Junyan]]''' Today's show was really something. Just when I thought we were at the end of the line, the fire blazed and Fiamma showed up!\n:;As long as Fiamma is here, I'm not afraid of anything! Sister Qinghe, I want to be a great hero in the future!\n:;'''Qinghe''' Thank you, everyone! Fiamma couldn't be wielding the Torch Sword without your support!\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction)\n:'''Qinghe:''' Once I pick up the Torch Sword, I'll eradicate that monster\u0026mdash;\n:'''Qinghe:''' Are you here to watch the show? How did you sneak backstage?\n:'''Qinghe:''' Silent flame, lurking evils\u0026mdash;the show hasn't started. Go and have some rest first, and wait for Fiamma's grand entrance!\n----\n;\u003cnowiki\u003e06:00-17:59\u003c/nowiki\u003e\n:'''Qinghe:''' Oh, it's you. What brings you here?\n:'''Qinghe:''' Running around every day, you must have a busy schedule, just like the protagonist in my play...\n:'''Qinghe:''' In the Hero Play, the protagonist, before embarking on a grand mission, always has to deal with some trivial matters first. I guess that's part of the story.\n----\n;\u003cnowiki\u003e18:00-21:59\u003c/nowiki\u003e\n:'''Qinghe''': Oh, it's you. Perfect timing, I was just thinking about something. I'd like to hear your opinion.\n:'''Qinghe''': If you were the hero, enlighten me: what would possess you to pick up the Torch Sword and fight to cleanse evils?\n:{{DIcon}} For family and friends.\n::'''Qinghe''': The lore for family, the bond with friends... So you put a high valuation on trust between those around you.\n:{{DIcon}} For money and honor.\n::'''Qinghe''': Exorcise demons and monsters and become an undying legend... You're seeking the right stuff!\n:{{DIcon}} No reason.\n::'''Qinghe''': Oh? But I see a firm and pure determination in your eyes. I guess it's not that you don't have a reason, but you're always ready to lend a hand, right?\n:'''Qinghe''': So that's how it is... Wait, I've got an idea! Thanks, I'll get back to my rehearsal.\n----\n;\u003cnowiki\u003e22:00-05:59\u003c/nowiki\u003e off the stage.\n:'''Qinghe''': Hello, can I help you?\n:{{DIcon}} Chat\n::'''Qinghe''': Oh, it's you! Got some free time to watch the play today, huh? If you have any questions, feel free to ask me.\n::{{DIcon}} About Jinzhou Theater...\n:::'''Qinghe''': Our Jinzhou Theater is open all year round, with Hero Plays, storytelling, and Liondancing taking turns on stage. We hope that all our audience members leave feeling entertained!\n:::'''Qinghe''': During the holidays, we'll arrange some special performances. The Liondance Troupe, for example, will perform on the theater stage to welcome the {{tt|Spring Loong Festival|Referring to the Spring Festival which marks the end of Winter and the first day of the Lunisolar Calender}}.\n:::'''Qinghe''': These Ushers will be walking around the streets, filling my heart with liveness. Quite the spectacle!\n:::'''Qinghe''': Next up, the Torch Sword! Let its flames burn, let the sparks fly and lighten up tonight!\n:::'''Qinghe''': Sorry, I got carried away again. Please forgive my manners.\n::{{DIcon}} About Hero Play...\n:::'''Qinghe''': I've performed this Hero Play hundreds, even thousands of times.\n:::'''Qinghe''': Playing Fiamma over and over, it feels like we're becoming one entity.\n:::'''Qinghe''': But you know, I'll keep playing the Fiamma role. After all, every time the show ends, I feel happy seeing the bright eyes of the children in the audience.\n:::'''Qinghe''': If the performance can move and inspire people, it doesn't matter how tiring the rehearsals can be.\n:::'''Qinghe''': It was [[Chixia]] who made me realize this. She was a dedicated audience to my play when she was a kid. Now she's a Patroller. More and more people will know her as Chixia!\n:::'''Qinghe''': Well, I think she fits the real Fiamma of Jinzhou better than me. I'm happy for her.\n::{{DIcon}} About the play...\n:::'''Qinghe''': Same old arrangements. \"Speedster\" and \"Fiamma\" are taking turns to perform, making sure the Fluffernox doesn't wreak havoc on the human world.\n:::'''Qinghe''': But we're also working on a new play. Don't forget to come and see it yourself when it's out!\n::{{DIcon}} Nothing.\n:::'''Qinghe''': Alright, feel free to look around. If you have any questions, just ask me.\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Qinghe\n|zhs  = 青禾\n|zht  = 青禾\n|ja   = 青禾（セイカ）\n|ko   = 청화\n|es   = Qinghe\n|fr   = Qinghe\n|de   = Qinghe\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

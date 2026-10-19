@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:11Z",
+  "title": "Yinyu",
+  "pageid": 32813,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Yinyu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Yinyu''' is a female local NPC located in {{Location|Hongzhen}}. After talking to her about her dilemma, she becomes a guide for visitors. \n\n\u003c!--==Quests and Events==\n{{Quests and Events}}--\u003e\n\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction)\n{{tx}}\n----\n;(Second interaction)\n{{tx}}\n----\n;(\u003cnowiki\u003eBetween 06:00- 17:59\u003c/nowiki\u003e, north from the center plaza)\n:'''Yinyu''': Hongzhen was founded very early. It was thriving when Jinzhou was just an idea.\n:'''Yinyu''': Back then, Hongzhen rivaled Jinzhou now.\n:'''Yinyu''': That's also the reason many scholars believe Hongzhen is not only the ancestral land of the early settlers of Jinzhou, but also the predecessor of Jinzhou itself.\n:'''Yinyu''': As you can see, the houses that have been preserved in town share many similarities with Jinzhou architecture.\n----\n;(\u003cnowiki\u003eBetween 18:00- 11:59\u003c/nowiki\u003e, northern boarder of town, in front of the water screen)\n:'''Yinyu''': The stone wall before you is called the Water Shadow Screen. It is naturally formed by years of continuous erosion from the waters of Sagaci Springs.\n:'''Yinyu''': What's notable is that it inspired the ancestors of Hongzhen to invent a delightful form of entertainment—the Water Shadow Play.\n:'''Yinyu''': All you need to do is gather some maple leaves that are scattered throughout the mountains and cut them into various shapes. Then, by using small twigs to manipulate them, the shadows of the leaves will dance in the water, bringing fascinating stories to life.\n:'''Yinyu''': And that's why brewing and sipping tea while watching a Water Shadow Play became the favorite past time for the folks of Mt. Firmament.\n----\n;(\u003cnowiki\u003eBetween 00:00- 05:59\u003c/nowiki\u003e, nearby [[Xinyi]])\n:'''Yinyu''': Oh, it's you.\n:'''Yinyu''': I appreciate what you did last time. I think I got a lot better since then.\n:'''Yinyu''': Now everyone loves to hear my Mt. Firmament stories, and quite a few want me to be their guide.\n:{{DIcon}} Congrats.\n:{{DIcon}} You did it all on your own.\n:'''Yinyu''': Well, I couldn't have done it without your suggestions and encouragement.\n:'''Yinyu''': Of course, I can't be complacent. I learned much of Mt. Firmament's history from these documents.\n:'''Yinyu''': The more I learn, though, the more I realize how little I knew before.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yinyu\n|zhs  = 引玉\n|zht  = 引玉\n|ja   = 引玉（インギョク）\n|ko   = 정옥\n|es   = Yinyu\n|fr   = Yinyu\n|de   = Yinyu\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

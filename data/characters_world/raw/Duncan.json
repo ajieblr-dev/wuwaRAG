@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:15Z",
+  "title": "Duncan",
+  "pageid": 26383,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = NPC Duncan.png\n|type             = NPC\n|type2            = Quest\n|nation           = Rinascita\n|affiliation      = \n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}'''Duncan''' is a quest-exclusive NPC. He is a former member of the [[Montelli Family]].\n==Quests and Events==\n{{Quests and Events}}\n==Other Languages==\n{{Other Languages\n|en   = Duncan\n|zhs  = 老邓肯（通讯中）\n|zht  = 老鄧肯（通訊中）\n|ja   = ダンカン\n|ko   = 던컨(통신 중)\n|es   = Duncan\n|fr   = Vieux Duncan\n|de   = Duncan\n}}\n==Change History==\n{{Change History|2.0}}\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

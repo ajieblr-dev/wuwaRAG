@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:25Z",
+  "title": "Fan Drawing Stall",
+  "pageid": 11151,
+  "wikitext": "{{Location Infobox\n|image        = \u003cgallery\u003e\nFan Drawing Stall Context.png | In-Game\nFan Drawing Stall Art.png | Art\n\u003c/gallery\u003e\n|type         = Point of Interest\n|icon         = Icon Fan Drawing Stall.png\n|event        = By Moon's Grace\n|area         = Taoyuan Vale\n|region       = Central Plains\n|nation       = Huanglong\n}}\n{{Quote|New scenes to paint— the lanterns, fireworks... everything.\u003cbr\u003e\u003cbr\u003e\u003chr\u003e\u003cbr\u003eDid everyone see what I saw?|[[Zhezhi]]}}\n'''Fan Drawing Stall''' is an event-exclusive [[Point of Interest|point of interest]] located in [[Taoyuan Vale]], [[Central Plains]], [[Huanglong]] during the [[By Moon's Grace]] event.\n\n==NPCs==\n* [[Dianxiao]]\n* [[Zhezhi]] \n**''Only available after completing Zhezhi's [[Companion Stories|Companion Quest]]: [[True Colors]].''\n\n==Descriptions==\n{{Description|At the Fan Drawing Stall, you'll find a range of fans and artworks for purchase, and have the added joy of designing your own fan creations.\u003cbr /\u003e{{Color|#a5a19d|Build or Upgrade this stall to gain more Popularity.}}|[[Map]] description}}\n\u003cgallery\u003e\nFan Drawing Stall Location.png|Location\nFan Drawing Stall Context 2.png | Zhezhi at the stall\n\u003c/gallery\u003e\n\n==Dialogue==\n{{Transclude|Dianxiao|By Moon's Grace}}\n{{Transclude|The Present|Dialogue}}\n\n==Trivia==\n*Speaking to Zhezhi at the stall again after completing the [[Event Quest]]: [[Chasing the Moon, Here and Now]] rewards the player [[The Present]].\n\n==Other Languages==\n{{Other Languages\n|en   = Fan Drawing Stall\n|zhs  = 画扇摊\n|zht  = 畫扇攤\n|ja   = 団扇絵屋\n|ko   = 부채 가게\n|es   = Puesto de abanicos\n|fr   = Atelier de l'éventail\n|de   = Fächerstand\n}}\n\n==Change History==\n{{Change History|1.2}}\n\n==Navigation==\n{{PoI Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

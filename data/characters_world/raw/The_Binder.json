@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:42Z",
+  "title": "The Binder",
+  "pageid": 39413,
+  "wikitext": "{{stub|dialogue}}\n{{NPC Infobox\n|image        = NPC The Binder Horstvald.png\n|type         = Quest\n|type2        = Resonator\n|realname     = Horstvaid\n|nation       = Lahai-Roi\n|location     = Bjartr Woods\n|location2 = Starward Riseway\n|affiliation  = Roya Tribe\n|affiliation2 = Heliodic Six\n|status       = Alive\u003cbr\u003eNo longer able to read the Heliosgyre after his mind was corrupted by Voidmatter, he serves the Solisylum by collecting data from the outside world now.\n\u003c!-- VAs --\u003e\n|voiceEN      = \n|voiceCN      = \n|voiceJP      = \n|voiceKR      = \n}}\n{{Quote|He resembles a vessel carved by time itself.}}\n'''The Binder''' is one of the [[Heliodic Six]] members and makes his first appearance inside the Elysium in {{Quest|Ode to the Second Sunrise}}. \n\nAfter completing [[Ode to the Second Sunrise]], The Binder is freed from his duties and can be found [[Starward Riseway]] at {{color|help|06:00 to 17:00}}.\n\n==Location==\n\u003cgallery\u003eHeliodic Six Location - The Binder.png\u003c/gallery\u003e\n\n==Idle==\n:'''The Binder:''' The next stop is...\n\n==Dialogue==\n:'''The Binder:''' Startorch Academy... Sundermere... Nice places, they are. The Spacetrek Collective's public transport is very convenient...\n\n:{{DIcon}} Excuse me, are you one of the Heliodic Six? \n\n:'''The Binder:''' The old Horstvald was indeed the Binder of the Six. But now, a wandering old man I'd rather be.\n\n:{{DIcon}}  What brings you here?\n\n:'''The Binder:''' Observing this and that, as was my dream. In my youth, a traveler I always wished to be.\n\n:'''The Binder:''' After your Spacetrek Collective launched Helios into the sky, lighter grew the burden in the Solisylum. \"No longer stay confined,\" the Shaper told us. \"For the Royan governance and the new season laws, gather knowledge,\" he said.\n\n:'''The Binder:''' But we knew his true wish. It was for us, who had given our lives to the Solisylum, to finally go out and see the world.\n\n:'''The Binder:''' So here I am, an old man riding the train. I look upon the Academy, listen to the market's noise, speak with different souls... and in their faces, their joys and worries I observe.\n\n:'''The Binder:''' And what I observe... to the Shaper, I will carry.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|1_en   = The Binder\n|1_zhs  = 灵悉\n|1_zht  = 靈悉\n|1_ja   = 結ぶ者\n|1_ko   = \u003cano=깨닫는 자\u003e영실(the Binder)\u003c/ano\u003e\n|1_fr   = Le Liant\n|1_de   = Der Binder\n|1_es   = El Vinculador\n|1_th   = ผู้หยั่งรู้สุริยะ\n\n|2_en   = Horstvald\n|2_zhs  = \n|2_zht  = \n|2_ja   = \n|2_ko   = \n|2_fr   = \n|2_de   = \n|2_es   = \n|2_th   = \n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "The Binder",
+      "number": "6.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Horstvald",
+      "number": "6.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

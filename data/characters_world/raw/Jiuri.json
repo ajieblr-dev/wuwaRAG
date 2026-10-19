@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:08Z",
+  "title": "Jiuri",
+  "pageid": 22097,
+  "wikitext": "{{NPC Infobox\n|image            = Jiuri.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Modulation Hall\n|group            = \n|affiliation      = Black Shores\n|title            = \n}}\n'''Jiuri''' is a Black Shore's NPC located at the [[Modulation Hall]], and can be found with [[Huanliu]] and [[Schubert]].\n\n==Quests and Events==\n{{Quests and Events|Jiuri}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the quest [[Advance toward the Future from Today]])\n:'''[[Constantine]]:''' If we keep scanning Tethys' memory, we can pinpoint the Shorekeeper's exact location.\n:'''Constantine:''' We won't... ever give up on anyone.\n:'''Jiuri:''' Her physical form may be lost in the Matrix, but she is still in there.\n:'''Jiuri:''' Because her entire frequency spectrum is still somewhere in Tethys\n:{{DIcon}}: The law of conversation?\n:'''Constantine:''' Yes! Hmm... so you're familiar with this concept, it's quite significant. \n:'''Constantine:''' If we can recover her frequencies, we can use Tethys to bring her back.\n:'''Jiuri:''' It'll be like finding a needle in a haystack...\n:'''Constantine:''' She believed in {{Rover}}. So, please trust us as well!\n----\n;(After {{Quest|Beyond the Shore's End}})\n:'''Jiuri:''' Confirm with the Eye of Asteria if the Reverberation samples from the New Federation have been compiled.\n:'''Jiuri:''' The Stellar Navigator team is ready. Prepare to simulate Lament-stricken areas on the Sand Table.\n:'''Schubert:''' Reverberation data received. Searching for logic units within Tethys for Sand Table simulation.\n:'''Schubert:''' Sand Table coordinates confirmed. Proceed to detect bad sectors... Negative. Simulation commencing.\n:'''Huanliu:''' Reverberation data loaded. Simulating pre-Lament conditions.\n:'''Huanliu:''' Given that the Waveworn occurred decades ago, Reverberations in this area are severely depleted, affecting simulation accuracy. \n:'''Huanliu:''' Success rate: 60%. Jiuri, please request additional computing power from the Matrices.\n:'''Jiuri:''' Understood.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jiuri\n|zhs  = 九日\n|zht  = 九日\n|ja   = 九日\n|ko   = 구일\n|es   = Jiuri\n|fr   = Jiuri\n|de   = Jiuri\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

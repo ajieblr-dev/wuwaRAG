@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:10Z",
+  "title": "KU-Cook",
+  "pageid": 38710,
+  "wikitext": "{{NPC Infobox\n|image            = KU-Cook.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Haven of Sprouts\n|group            = \n|affiliation      = Black Shores\n|title            = \n|species          = KU-Roro\n}}\n'''KU-Cook''' is a KU-Roro in charge of cooking and can be found downstairs the [[Haven of Sprouts]] \"defending\" itself. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''KU-Cook:''' How many times do I have to tell you? NO MEANS NO!\n:'''KU-Cook:''' These recipes you're uploading are gonna corrupt the Tethys System! No more weird recipes!\n:Black Shore Member: Calm down, KU-Cook. Take a breath.\n:Black Shore Member: You know... technically speaking, Coral Bowl is rich in nutrients. You just have to...\n:'''KU-Cook:''' Ahhhh! Somebody erase those words from my memory!\n\n;(Near by)\n:Black Shore Member: Ah... finally a break. I can't even remember the last time I got to enjoy something KU-Cook made.\n:Black Shore Member: KU-Cook's still going strong. Right now it's scolding someone for uploading bizarre recipes again.\n:Black Shore Member: This is the kind of peace we've all been longing for.\n{{Dialogue End}}\n\n==Note==\n* Coral Bowl references [[Encore/Backstory#Cherished Items|Encore]] specialty dish.\n\n==Gallery==\n\u003cgallery\u003eKU-Roro Profile About 1.jpg\u003c/gallery\u003e\n\n== Other Languages ==\n{{Other Languages\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Note",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

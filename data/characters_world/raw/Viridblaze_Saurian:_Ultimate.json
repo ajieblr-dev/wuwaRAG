@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:58Z",
+  "title": "Viridblaze Saurian: Ultimate",
+  "pageid": 38341,
+  "wikitext": "{{Stub|Drops, stats, abilities, and location}}\n{{Enemy Infobox\n|name       = Viridblaze Saurian: Ultimate\n|image      = Viridblaze Saurian Icon.png\n|dmgtype    = Fusion\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|group      = Howler\n|nation     = Huanglong\n|region     = Central Plains\n|level      = 30\n}}\n'''Viridblaze Saurian: Ultimate''' is a [[Special Enemies|special enemy]] found in {{Location|Central Plains|nocat=1}}.\u003c!--\n\n==Drops== \n{{Drops|Viridblaze Saurian: Ultimate}} \n\n==Stats==\n{{Enemy Stats|Viridblaze Saurian: Ultimate}} \n\n==Abilities==--\u003e\n\n==Location==\n\u003cgallery\u003eTrophy The Ultimate Location.png\u003c/gallery\u003e\n\n==Trophies==\n{{Trophies|Viridblaze Saurian: Ultimate|customheader=Viridblaze Saurian: Ultimate}} \n\n==Other Languages==\n{{Other Languages\n|en  = Viridblaze Saurian: Ultimate\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

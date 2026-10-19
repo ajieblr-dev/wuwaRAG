@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:11Z",
+  "title": "Ria",
+  "pageid": 23250,
+  "wikitext": "{{NPC Infobox\n|image            = Ria.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Haven of Sprouts\n|group            = \n|affiliation      = Black Shores\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Ria''' is a female Black Shores NPC at [[The Black Shores]]. She is often found next to [[Gedao]].\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events|Ria}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n;(Night at [[Haven of Sprouts]])\n:'''Ria:''' Mmm, the pastries are so good! Want some?\n:'''Gedao:''' Thanks, but I'm not in the mood. My task is due tomorrow. Gotta burn the midnight oil. Maybe you should just eat me so I'll never have to work again.\n:'''Ria:''' Nice joke. But seriously, you should eat something. It's easier to work on a full stomach, don't you think?\n:'''Ria:''' Next time we're on vacation, we should go to [[Jinzhou]] and try the local dishes!\n\n==Dialogue==\n;(Day at [[TD Observatory]])\n:'''Ria:''' Check this out, Gedao! Pastries from Xiehua Village! [[Aalto]] and [[Encore]] brought it back from Jinzhou for us.\n:'''Ria:''' I've been handling Jinzhou-related affairs, but I've never actually been there myself. All I know is data, just data.\n:'''Ria:''' Remember Xiehua Village? I once sent an alert to the Wutherological Climate Studies Center at Huaxu Academy, warning them about a potential Waveworn in that area.\n:'''Ria:''' I never expected to get a gift from that village. It feels like the locals are acknowledging my work.\n:'''Ria:''' Speaking of which, I wonder how things are in Jinzhou now...\n:'''Gedao:''' Still under observation, but we don't have time to dwell on it. With Tethys affected by corrupted data, we've got a ton of data to process.\n:'''Gedao:''' Ha, another day of overtime...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ria\n|zhs  = 丽露\n|zht  = 麗露\n|ja   = リーヌ\n|ko   = 여로\n|es   = Ria\n|fr   = Ria\n|de   = Ria\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

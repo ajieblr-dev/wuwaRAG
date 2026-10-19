@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:11Z",
+  "title": "Yixin",
+  "pageid": 32784,
+  "wikitext": "{{See Also|[[Sue White|Yixin (Lahai-Roi)]]}}\n\n{{NPC Infobox\n|image            = NPC Yixin.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Rearguard Base\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n}}\n'''Yixin''' is an NPC in {{Location|Rearguard Base}}. Yixin only appears during the day (08:00 - 17:00).\n\n==Location==\n{{Map Embed|Desorock Highland|Yixin}}\n\n==Profile==\nYixin is one of the [[Midnight Rangers]] stationed at the Rearguard Base. He guards the path into [[Norfall Barrens]], warning travelers to keep their distance for their own safety.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Yixin:''' It's dangerous beyond this point. No trespassers!\n:{{DIcon}} I am a Resonator.\n::'''Yixin:''' Even Resonators need to be careful. The front line is intense...\n::'''Yixin:''' Don't go up the slope near [[Camp Overwatch]]. It's strictly off-limits.\n::'''Yixin:''' It's close to Norfall Barrens, an unpredictable territory of threats... Even powerful Resonators shouldn't underestimate it.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yixin\n|zhs  = 一心\n|zht  = 一心\n|ja   = 一心（イッシン）\n|ko   = 일심\n|es   = Yixin\n|fr   = Yixin\n|de   = Yixin\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

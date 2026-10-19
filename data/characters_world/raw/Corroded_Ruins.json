@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:04Z",
+  "title": "Corroded Ruins",
+  "pageid": 6031,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Corroded Ruins\n|image=Corroded Ruins.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Wuming Bay\n}}\n'''Corroded Ruins''' is an area of [[Wuming Bay]], [[Huanglong]]. \n\n==Other Languages==\n{{Other Languages\n|en   = Corroded Ruins\n|zhs  = 荒弃岩壑\n|zht  = 荒棄岩壑\n|ja   = 朽ちた{{Rubi|壑谷|がくこく}}\n|ko   = 폐기된 산골\n|es   = Ruinas Corroídas\n|fr   = Ruines corrodées\n|de   = Korrodierte Ruinen\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:11Z",
+  "title": "KU-Hehe",
+  "pageid": 23253,
+  "wikitext": "{{NPC Infobox\n|image            = KU-Hehe.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Tethys Hub\n|group            = \n|affiliation      = Black Shores\n|title            = \n|species          = KU-Roro\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''KU-Hehe''' is an KU-Roro Guard in [[Tethys Hub]], [[The Black Shores]]. They stand guard with [[KU-Haha]] and are a part of the ''[[Rover's Journey I]]'' [[trophy]]: ''[[Hehe Haha]]''.\n\n==Quests and Events==\n{{Quests and Events|KU-Haha}}\n\n==Dialogue==\n{{Dialogue Start}}\n;'''KU-Haha''' No entry beyond this point. Please leave.\n;'''KU-Hehe''' The emergency response team is clearing out abnormal frequency. \n\n;(Day)\n:'''KU-Hehe:''' Stop dragging me! The binding code is gonna snap!\n:'''KU-Haha:''' Just come over here and stand where Adrian told us! Even if you break, the code will hold!\n:'''KU-Hehe:''' [[Adrian]] said to guard this area. It doesn't matter exactly where we stand. Don't get hung up on the details. Wait, someone's coming.\n:'''KU-Hehe:''' Excuse me. No entry beyond this point. Please leave.\n:{{DIcon}} What's going on?\n::'''KU-Haha:''' The surface of the Black Shores has been invaded by abnormal frequencies, creating multiple data wormholes.\n::'''KU-Hehe:''' The emergency response team is clearing the indoor area. No one is permitted to enter now.\n:'''KU-Haha:''' Hey! I'm in charge here!\n:'''KU-Hehe:''' What? I was just about to say that!\n:{{DIcon}} Are you two arguing? \n::'''KU-Haha:''' Heh!\n::'''KU-Hehe:''' Heh!\n----\n;(Night)\n:'''KU-Haha:''' I saw that charging station first!\n:'''KU-Hehe:''' But I've always used it!\n:'''KU-Haha:''' Doesn't mean it's yours!\n:{{DIcon}} What are you arguing about?\n:'''KU-Hehe:''' This KU-Haha here stole my charging station and pretended it didn't! It even made the station explode!\n:'''KU-Haha:''' It wouldn't have blown up if you hadn't barged in while it was running! And [[KU-HeeHee]] wouldn't have gotten hurt and needed factory repairs!\n:{{DIcon}} Wait, your argument caused someone else to get hurt?\n:'''KU-Hehe:''' I...\n:'''KU-Haha:''' That was an accident...\n:'''KU-Hehe:''' Adrian docked our allowances for it and told us to guard this room.\n:'''KU-Hehe:''' He wanted us to learn to cooperate, so he input a code that binds us 24/7.\n:{{DIcon}} So that's the reason.\n:'''KU-Haha:''' But I can't stand being around this guy! Not for another second!\n:{{DIcon}} ...Looks like you haven't learned the lesson.\n{{Dialogue End}}\n\n== Other Languages ==\n{{Other Languages\n|en   = KU-Hehe\n|zhs  = 库哼哼\n|zht  = 庫哼哼\n|ja   = クフフ\n|ko   = 쿠 ・ 흥흥\n|es   = KU-Hehe\n|fr   = KU-Hehe\n|de   = KU-Hehe\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:09Z",
+  "title": "Rakosan's Speech (Excerpt)",
+  "pageid": 39512,
+  "wikitext": "{{Terminology Infobox\n|image        = \n|type         = Lore\n|nation       = Lahai-Roi\n}}'''{{PAGENAME}}''' is a note found during [[Operation: Frontier Renewal]] and is added to its Archives, Spacetrek Observatory Files.\n\n==Text==\n\"The Spacetrek Observatory stands as a monumental achievement co-built by the Spacetrek Collective and the Roya. Its mission is to map Lahai-Roi's various data points. Unlike the Casettes that store personal data, the Observatory primarily captures and tracks the changes in Lahai-Roi's terrain, ecology, climate, and sky under the influence of Void Storms and Threnodian activity.\n\nAs our partnership with the Roya deepened, the Observatory grew to also document their architecture and cultural landmarks. But then, disaster struck. A devastating Void Storm swept through, leaving the structure in ruins. Although the Academy has started the reconstruction, progress has been painstakingly slow. The sheer number of ongoing projects across Lahai-Roi, coupled with the damaged roads leading to the site, has left this massive facility languishing.\n\nThat concludes the introduction to the Spacetrek Observatory. I trust you can now appreciate its importance. Despite the current challenges, its restoration is a necessity! That is why I am calling on each and every one of you to join me in this vital endeavor. We need your help, in whatever form you can offer. Every contribution matters.\n\nMy name is Rakosan. I will be here, at the Spacetrek Observatory, waiting for you!\"\n\n==Other Languages==\n{{Other Languages\n|en   = Rakosan's Speech (Excerpt)\n|zhs  = 拉科萨演讲稿（节选）\n|zht  = 拉科薩演講稿（節選）\n|ja   = ラコーサの演説原稿（抜粋）\n|ko   = 라코산의 연설문 (발췌)\n|fr   = Discours de Rakosan (extrait)\n|de   = Rakosans Rede (Auszug)\n|es   = Discurso de Rakosan (Extracto)\n|th   = คำปราศรัยของ Rakosan (ตัดตอน)\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Text",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

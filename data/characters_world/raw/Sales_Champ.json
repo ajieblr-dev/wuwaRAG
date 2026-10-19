@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:18Z",
+  "title": "Sales Champ",
+  "pageid": 37674,
+  "wikitext": "{{NPC Infobox\n|image       = Sales Champ In-game.png\n|name        = Sales Champ\n|title       = Mall Guide [[Namipon]]\n|type        = Quest\n|type2       = Open-World\n|location    = Shashou Cafe\n|species     = Remnant Creature\n|affiliation = Shashou Cafe \n\n\u003c!-- VAs --\u003e\n|voiceEN     = \n|voiceCN     = \n|voiceJP     = \n|voiceKR     = \n}}\n'''Sales Champ''' {{Lang|zh=金牌销冠}} is an [[NPC]] in [[Chronorift Metropolis]] and can be found in [[Shashou Cafe]]. \n\n==Quests and Events==\n{{Quests and Events|Sales Champ}} \n\n==Other Languages==\n{{Other Languages\n|en   = Sales Champ\n|zhs  = 金牌销冠\n|zht  = 金牌銷冠\n|ja   = トップ販売員\n|ko   = 최고 판매원\n|fr   = Meilleur vendeur\n|de   = Verkaufsprofi\n|es   = Campeón de Ventas\n|th   = ยอดนักขาย\n}} \n\n==Change History==\n{{Change History|2.8}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

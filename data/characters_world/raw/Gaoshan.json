@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:43Z",
+  "title": "Gaoshan",
+  "pageid": 31358,
+  "wikitext": "{{Meta\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n}}{{NPC Infobox\n|name             = Gaoshan\n|image            = NPC Gaoshan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Rearguard Base\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n}}\n'''Gaoshan''' is an NPC in {{Location|Rearguard Base}}. He can be found between 18:00 to 06:00.\n\n==Location==\n{{Map Embed|Desorock Highland|Gaoshan}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Gaoshan:''' I find the wind extremely unsettling tonight... I sense a desperate voice from it.\n:{{DIcon}} Who?\n:'''Gaoshan:''' An old friend, who has been here for decades.\n:'''Gaoshan:''' I can't leave him here for the lonely night. So I come here every night to keep his company.\n:'''Gaoshan:''' If you happen to run into [[Zongye]] back in [[Jinzhou]] City, remember to say hi for me.\n:'''Gaoshan:''' And remember to keep my secret.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Gaoshan\n|zhs  = 高山\n|zht  = 高山\n|ja   = 高山（コウザン）\n|ko   = 고산\n|es   = Gaoshan\n|fr   = Gaoshan\n|de   = Gaoshan\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

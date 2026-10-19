@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:44Z",
+  "title": "Bellona",
+  "pageid": 37954,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Bellona.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Sanguis Plateaus\n|location2        = Hunter's Den\n|affiliation      = Septimont\n|affiliationNote  = Gladiator\n}}__NOTOC__\n'''{{PAGENAME}}''' is a female Gladiator NPC participating in the Hunt with Augusta. She can be found at the [[Hunter's Den]].\n\n{{Dialogue Start}}\n==Dialogue==\n;(During [[By Sun's Burning Hand]])\n:'''Bellona''': This one's no ordinary [[Corrosaurus]]. It's a lot tougher.\n:'''Bellona''': And it's not just the beast. Something's wrong with this High Tide. The temperature, the pressure, even the way the wild Tacet Discords are stirring... It's all off.\n:'''Bellona''': I can feel it in my gut. Something is getting closer, using this hunt as cover.\n:'''Bellona''': Not a prey... but a hunter.\n----\n;(After)\n:'''Bellona''': I knew something would come at us, but I didn't expect it to be that ferocious.\n:'''Bellona''': Still, it's nothing but ashes now.\n:{{DIcon}} Your instincts saved us all.\n:'''Bellona''': Instinct is nothing compared to your valor.\n:'''Bellona''': Septimont is lucky to have fearless hunters like you.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Bellona\n|zhs  = 贝洛娜\n|zht  = 貝洛娜\n|ja   = ベローナ\n|ko   = 벨로나\n|fr   = Bellona\n|de   = Bellona\n|es   = Bellona\n|th   = Bellona\n}}\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:58Z",
+  "title": "Huayu",
+  "pageid": 8485,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Huayu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Tiger's Maw Mine\n|group            = \n|affiliation      = \n|title            = Yibai Clinic Doctor\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Huayu''' is a shop NPC in {{Location|Tiger's Maw Mine}}.  The store '''Yibai Clinic''' will become available after players have completed Exploration Quest [[Shadow of the Past]].\n\n== Shop ==\n{{Shop/Wrapper|{{Shop|Basic Nutrient Block|3000|100|total=1}}\n{{Shop|Basic Revival Inhaler|3000|100|total=1}}\n{{Shop|Phoenix Butterfly|1000|30|total=1}}\n{{Shop|Red Feather Butterfly|1000|30|total=1}}\n{{Shop|Blue Feather Butterfly|1000|30|total=1}}\n{{Shop|Chrysopa|1000|30|total=1}}\n{{Shop|Golden-Ringed Dragonfly|1000|30|total=1}}\n{{Shop|Silver-Banded Lizard|1000|30|total=1}}\n{{Shop|Azure Lizard|1000|30|total=1}}\n{{Shop|Green Pit Lizard|1000|30|total=1}}\n{{Shop|Goldenback Frog|1000|30|total=1}}|vendor=Huayu|total=870000|type=Pharmacy}}\n\n== Dialogue ==\n{{Dialogue start}}\n:'''Huayu:''' It's been a while, Rover! We solved the mine's crisis all thanks to your help.\n:{{Icon|Pharmacy Store}} Yibai Clinic\n::(Open Shop)\n:{{DIcon|Talk}} What happened next?\n::'''Huayu:''' Hmm, everything is slowly returning to the way it was, but there have also been some minor changes.\n::'''Huayu:''' For example, the two guys who used to bicker all day long around me now stick together every day to discuss the iteration of the parts and system of the Refinement Tower.\n::'''Huayu:''' Hongbo no longer slouches around the places in his memories with his dairies grieving about the old days.\n::'''Huayu:''' His diary is no longer about the past but about today and the hopeful tomorrow.\n::'''Huayu:''' It seems that he can trust the mine with the younger generation now, all thanks to your help. You are welcome to pay us a visit when you have time.\n:{{DIcon|Exit}} Leave\n{{Dialogue end}}\n\n== Quests and Events ==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|1_en   = Huayu\n|1_zhs  = 骅羽\n|1_zht  = 驊羽\n|1_ja   = 驊羽（カウ）\n|1_ko   = 화우\n|1_es   = Hua Yu\n|1_fr   = Huayu\n|1_de   = Hua Yu\n\n|2_en   = Yibai Clinic Doctor\n|2_zhs  = 「益佰诊所」医师\n|2_zht  = 「益佰診所」醫師\n|2_ja   = 「益佰診療所」医師\n|2_ko   = 「익백 진료소」 의사\n|2_es   = Doctor de la Clínica Yibai\n|2_fr   = Médecin de la clinique Yibai\n|2_de   = Yibai Klinikarzt\n}}\n\n==Change History==\n[[Version 1.1]]\n*The loop in the opening dialogue has been fixed. Added voices for Huayu.\n----\n[[Version 1.0]]\n*Released in Version 1.0.",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Huayu",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Yibai Clinic Doctor",
+      "number": "4.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

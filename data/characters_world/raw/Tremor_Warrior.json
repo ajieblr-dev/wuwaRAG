@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:52Z",
+  "title": "Tremor Warrior",
+  "pageid": 39011,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Tremor Warrior\n|image         = Tremor Warrior Icon.png\n|dmgtype       = Electro\n|echo          = Yes\n|class         = Common\n|family        = Tacet Discord\n|group         = Whisperin\n|nation        = Lahai-Roi\n}}{{Description|A bent-over humanoid Tacet Discord with electric currents coursing through its veins and a whip-like appendage on its head.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Common Whisperin}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Trophies==\n{{Trophies|Tremor Warrior}} \n\n==Description==\n{{Description|This enemy has a higher RES to {{Color|[[Electro]] DMG|nobold=1}}.\u003cbr /\u003e\u003cbr /\u003eA bent-over humanoid Tacet Discord with electric currents coursing through its veins and a whip-like appendage on its head.\u003cbr /\u003e\u003cbr /\u003eObservers note that its segmented whip can suddenly release high-voltage electricity. The whip's tip is highly responsive to sensory stimuli, allowing this TD to lock on and restrain targets in the blink of an eye. It primarily attacks with fast-moving claws and sustained whip strikes.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Tremor Warrior\n|zhs  = 颤栗战士\n|zht  = 顫慄戰士\n|ja   = 戦慄の戦士\n|ko   = 전율하는 전사\n|fr   = Combattant du tremblement\n|de   = Erdbeben-Krieger\n|es   = Guerrero Escalofrío\n|th   = Tremor Warrior\n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

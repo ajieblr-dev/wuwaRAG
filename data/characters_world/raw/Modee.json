@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:38Z",
+  "title": "Modee",
+  "pageid": 25915,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}{{Stub}}{{NPC Infobox\n|image            = NPC Modee.png\n|type             = Quest\n|nation           = Huanglong\n|location         = Tiger's Maw Mine\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}'''Modee''' is a quest-exclusive NPC in {{location|Tiger's Maw Mine}}.\n==Quests and Events==\n{{Quests and Events}}\n==Other Languages==\n{{Other Languages\n|en   = Modee\n|zhs  = 莫狄\n|zht  = 莫狄\n|ja   = 莫狄（モテキ）\n|ko   = 모디\n|es   = Modee\n|fr   = Mo Di\n|de   = Mo Di\n}}\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

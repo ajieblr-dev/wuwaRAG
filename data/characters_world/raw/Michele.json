@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:35Z",
+  "title": "Michele",
+  "pageid": 27293,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Michele.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Bank Street\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Michele''' is a male NPC who appears in [[Ragunna]]. He works at Trattoria Margherita.\n\nFrom 6:00 PM to 8:59 PM, he can be found talking with [[Maurizio]] at Trattoria Margherita. From 9:00 PM to 10:59 PM, he is instead talking to [[Sergio]] in [[Montelli Quarter]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;\u003cnowiki\u003e(9:00 PM to 10:59 PM)\u003c/nowiki\u003e\n:'''Sergio:''' Showing up this late, the dish is nearly cold! This was saved especially for your grandmother.\n:'''Michele:''' Thank you, Uncle Sergio!\n:'''Sergio:''' Who's your Uncle?\n:'''Michele:''' What?\n:'''Sergio:''' Call me \"Sir\"!\n:'''Michele:'''Alright... Sir... Sergio.\n:'''Sergio:''' Hmph, that's more like it. Here, is a balm specially made for Septimont gladiators—it's top-notch! Take it back to Giovanni.\n:'''Sergio:''' Poor young lad... thrown his back out getting headbutted by a Tumbleyak...\n:'''Michele:''' I must insist on paying you!\n:'''Sergio:''' Quit your babbling! As if I'd take your money!\n:'''Sergio:''' Apollonia is waiting for your proposal...\n:'''Michele:''' I just got a promising new job. Once I make a name for myself, I'll—\n:'''Sergio:''' Hold it... Don't make my daughter wait forever, or there'll be consequences!\n----\n;\u003cnowiki\u003e(6:00 PM to 8:59 PM)\u003c/nowiki\u003e\n:'''Maurizio:''' Here are the ingredients you ordered. Do a run down and I just need you to sign here when you're ready.\n:'''Michele:''' Giovanni's the one that usually handles our deliveries. How come he's not here today?\n:'''Maurizio:''' Don't get me started. Giovanni got nailed in the back by a Tumbleyak at the ranch. Takes him forever to even get off the bed.\n:'''Maurizio:''' Weird, the animals at Egla Ranch have gotten really frantic lately.\n:'''Maurizio:''' Speaking of him, it just hit me—doesn't Rosemary's potion work really well for injuries?\n:'''Michele:''' That's true.\n:'''Maurizio:''' But I've heard she's a [[Fisalia Family|Fisalia]]...\n:'''Michele:''' That's also true.\n:'''Maurizio:''' Ha, no wonder Giovanni didn't want to go see her by himself and wanted me to tag along...\n:'''Michele:''' Don't worry. You have no reason to fear her. Rosemary is really nice, and not everyone from the Fisalia family is bad.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Michele\n|zhs  = 米凯莱\n|zht  = 米凱萊\n|ja   = ミケーレ\n|ko   = 미셸\n|es   = Michele\n|fr   = Michele\n|de   = Michele\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

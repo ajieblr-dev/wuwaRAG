@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:44Z",
+  "title": "Myriad Snare: Rustfire Chassis",
+  "pageid": 42395,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Myriad Snare: Rustfire Chassis\n|title     =  \n|image     = Myriad Snare Rustfire Chassis Icon.png\n|dmgtype   = Fusion\n|weakpoint = Unknown\n|echo      = Yes\n|nightmare = No\n|class     = Overlord\n|family    = Tacet Discord\n|group     = Autopuppet\n|nation    = Huanglong\n|region    = Mengzhou\n|subregion = Western Fang Peaks\n|drops     = Solidarity's Loneflame\n|variants = Tactical Hologram: Myriad Snare: Rustfire Chassis\n}}\n{{Description|A ruined giant shadow lurking within the Skyworks. It has nearly been forgotten, yet still clings to the directive to wipe out the Tacet Discords to the bitter end.}} \n{{Intro/Enemy}} \n\n==Drops== \n{{Boss Rewards|regular=1|exclusive=Solidarity's Loneflame}}\n\n==Stats==\n{{Enemy Stats|Myriad Snare: Rustfire Chassis}}\n\n==Trophies==\n{{Trophies|Myriad Snare: Rustfire Chassis|customheader=Myriad Snare: Rustfire Chassis}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Fusion DMG}}.\u003cbr\u003e- When Myriad Snare: Rustfire Chassis is affected by Havoc Bane, it takes 5% more total DMG for 30s, stacking up to 5 times.\u003cbr\u003e- When the Havoc Bane affecting Myriad Snare: Rustfire Chassis is consumed, it takes 20% more total DMG for 30s.\u003cbr\u003e\u003cbr\u003eDeep within the Skyworks, the Myriad Snare serves as a living prison for Tacet Discords, capable of transforming into a formidable Autopuppet to wipe them out.\u003cbr\u003eHowever, as the Skyworks fell into unknown chaos, all maintenance work came to a halt. Structures of the Myriad Snare damaged in fierce battle have all plunged into the abyss.\u003cbr\u003eTo this day, even with only a shattered body remaining, it still carries out its purge without rest.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en  = Myriad Snare: Rustfire Chassis\n|zhs = 万囮牢·朽躯\n|zht = 萬囮牢·朽軀\n|ja  = 万囮の檻・朽躯\n|ko  = 만와뢰 · 잔해\n|fr  = Myriade des pièges - Corps brisé\n|de  = Myriadenfalle: Zerbrochenes Gerüst\n|es  = Trampa Miríada: Cuerpo Fragmentado\n|th  = Myriad Snare: Shattered Body\n|pt  = Prisão de Miríades: Corpo Decadente\n}}\n\n==Change History==\n{{Change History|3.5}} \n\n==Navigation==\n{{Enemy Navbox}}\n[[zh:万囮牢·朽躯]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:41Z",
+  "title": "Mrs. Kuchiba",
+  "pageid": 38697,
+  "wikitext": "{{Meta|missing_NPC_profile=yes}}\n{{Stub}}\n{{NPC Infobox\n|image            = \n|type             = Mentioned\n|nation           = Lahai-Roi\n\n\u003c!-- Family --\u003e\n|spouse           = Mr. Kuchiba\n|spouseNote       = husband\n|child            = Chisa\n|childNote        = daughter \n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Mrs. Kuchiba''' is a mentioned [[NPC]] and the mother of [[Chisa]]. She currently lives in [[Lahai-Roi]] with her family.\u003cref\u003e{{Quest|What Burns Beneath Frostlands}}\u003c/ref\u003e\n\n==Mentions==\n{{Character Mentions}} \n\n==Gallery==\n===Videos===\n\u003cgallery\u003e\nWuthering Waves Story Cinematics - \"Monster\" in the Train\n\u003c/gallery\u003e\n\n==References==\n{{Reflist}}\n\n==Change History==\n{{Change History|2.8}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Cherished Items",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    }
+  ]
+}

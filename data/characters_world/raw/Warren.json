@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:59Z",
+  "title": "Warren",
+  "pageid": 38660,
+  "wikitext": "{{Spoiler}}{{Meta\n|missing_NPC_picture=yes\n|missing_NPC_profile=yes}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Warren.png\n|title            = \n|type             = Quest\n|nation           = Lahai-Roi\n|affiliation      = Startorch Academy\n|affiliation2     = Fractsidus \n|deceased         = Killed by [[Schwarzloch]]\u003cref\u003e[[Ode to the Second Sunrise]]\u003c/ref\u003e\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Warren''' {{Lang|zh=魏尔伦}} is a quest-exclusive [[NPC]] that first appears in [[What Burns Beneath Frostlands]]. \n\n==Quests and Events==\n{{Quests and Events}} \n\n==Other Languages==\n{{Other Languages\n|en   = Warren\n|zhs  = 魏尔伦\n|zht  = 魏爾倫\n|ja   = ウォーレン\n|ko   = 워렌\n|fr   = Warren\n|de   = Warren\n|es   = Warren\n|th   = Warren\n}} \n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

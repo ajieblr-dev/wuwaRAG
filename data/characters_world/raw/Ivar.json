@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:03Z",
+  "title": "Ivar",
+  "pageid": 39654,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Ivar.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Square\n|location2        = Teaching Zone\n|group            = \n|affiliation      = Rabelle College\n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC Royan male student found talking with '''Volentus''', a Septimontian classmate, explaining the legend around the two Epoch in Royan history. He and Volentus move to [[Teaching Zone]] after {{Quest|Ode to the Second Sunrise}}\u003c!--not sure this is the exact quest, but lines up lorewise--\u003e.\n\n==Location==\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Ivar:''' Legend says... as the end of the First Epoch, the world froze over. A \"Great Glacial Lock,\" they called it. Raging tides trapped out god, Sol, in the sky, and the Roya lost their means to  speak with the universe...\n:'''Ivar:''' In the Second Epoch, Sol took the form of [[Exostrider|Baldur]] to walk among us mortals. It managed to seal away the foreign god, [[Aleph-1|Hvedrungr]], but was gravely wounded...\n:'''Ivar:''' Just before Baldur fell into its long slumber, its heart became a second sun beneath the earth, guiding the Roya to build a new home under its light...\n:'''Volentus:''' I see... It all makes sense now. Thanks for explaining. \n:'''Ivar:''' No problem! But I thought you Septimont folks don't believe in gods? What's with the sudden interest?\n:'''Volentus:''' The Roya's Trine Myth, and even the Sentinel legends from Ragunna... they're starting to line up with data collected on expeditions.\n:'''Volentus:''' For example, what our scientific records called the \"Lament\" of Lahai-Roi's First Epoch, Roya myths call the \"Glacial Lock.\"\n:'''Volentus:''' The figure you call \"Baldur\" is classified academically as the Exostrider, and the \"second sun\" clearly corresponds to the Reactor Drive.\n:'''Volentus:''' We're just looking at the same mountain from different sides.\n:'''Volentus:''' I admit my past views on \"gods\" were far too rigid. If I ever came off as disrespectful, I'm sorry.\n:'''Ivar:''' Hahaha! No harm done! We can agree to disagree.\n:'''Ivar:''' Our elders say that in this epoch, the Roya must remain watchful and stand with all our allies... For everything we do is but preparation for the coming Twilight Epoch...\n----\n;After completing {{Quest|Ode to the Second Sunrise}}\n:'''Volentus:''' At the end of the Third Epoch, the Reactor Drive of Baldur shall return to him, and so too shall Hvedrungr awaken.\n:'''Volentus:''' When the Reactor Core blazes within Baldur's body, the dying light shall bathe the dome of Lahai-Roi in twilight that burns all to ash. A final battle this shall be, from which there is no retreat.\n:'''Volentus:''' —Should Hvedrungr triumph, into eternal, silent winter shall the world fall. And all of mankind shall vanish into the long night after dusk.\n:'''Ivar:''' Are you reading from the records of the Twilight Epoch\n:'''Volentus:''' Yes. Helios's successful launch... and its replacing the Reactor Drive as Lahai-Roi's sun perfectly mirrors the transition between the Sacred Reactor Epoch and the Twilight Epoch.\n:'''Volentus:''' Hvedrungr's awakening... signifies the Threnodian's return. The Void Storms, occurring so frequently of late, can be interpreted as a precursor to this prediction.\n:'''Volentus:''' It ends there... Is this just an excerpt?\n:'''Ivar:''' This is not an excerpt. The Trine Myth's original words are few. Though multiple translations exist, \"A Brief History of the Roya\" holds the full version our elders judge most faithful to the first meaning.\n:'''Ivar:''' Even the Exostrider cannot predict the final outcome of this battle, so the record ends here.\n:'''Ivar:''' And remember, the Trine Myth is but one part of Royan history. One need not seek answers to mankind's future within its verses.\n:'''Volentus:''' One part of history... Right you are. I may have read too deep into it.\n:'''Ivar:''' Do not punish yourself. \"The sound of ancient myths can still be heard in the present.\" Most who hear the Trine Myth for the first time are captivated by that sense of \"fate\" that transcends space and time. I am no exception.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ivar\n|zhs  = 伊瓦尔\n|zht  = 伊瓦爾\n|ja   = イーヴァル\n|ko   = 이바르\n|fr   = Ivar\n|de   = Ivar\n|es   = Ivar\n|th   = Ivar\n}}\n\n{{Other Languages\n|en   = Volentus\n|zhs  = 沃伦塔斯\n|zht  = 沃倫塔斯\n|ja   = ヴォレンタス\n|ko   = 보렌타스\n|fr   = Volentus\n|de   = Volentus\n|es   = Volentus\n|th   = Volentus\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

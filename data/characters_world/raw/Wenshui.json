@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:00Z",
+  "title": "Wenshui",
+  "pageid": 35608,
+  "wikitext": "{{Meta\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}{{NPC Infobox\n|name             = Wenshui\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = Wenmo\n|relative         = \n}}\n'''Wenshui''' is an NPC in [[Huanglong]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Wenshu:''' Welcome to Wenshu Repair, we fix your broken things and broken backs. How may I be of help, sir?\n:{{DIcon}} About the routine maintenance.\n::'''Wenshu:''' The old neighbors around here consider me a \"fix-it\" guy when it comes to daily items. Although, I'm not sophisticated enough to repair high-end items.\n::'''Wenshu:''' As long as it's a day-to-day thing found around the house, I can always fix them when you come to me.\n::'''Wenshu:''' The elders are used to living in frugality and don't have a habit of throwing away things that are old or broken. That's why some out-dated electrical parts can only be found here.\n::'''Wenshu:''' Hey, I gradually grew attached while repairing these old gadgets. After all, we're all a bit nostalgic.\n:{{DIcon}} Who's that kid...?\n::'''Wenshu:''' Oh, you're speaking of [[Wenmo]]. He's my son. That boy always likes to be alone, tinkering with mechanical things.\n::'''Wenshu:''' He has been watching me repair these things since he was a child, and perhaps he has memorized the steps just by watching.\n::'''Wenshu:''' Sometimes, I have to read an instruction manual for some of the more complex items customers bring in, but he'd be able to understand and start dismantling the structure in a few minutes.\n::'''Wenshu:''' Once I caught him completely disassembling an item to its last gear. I panicked so hard as I thought there had been no way to restore it. But he put it back together in moments like it was brand new.\n::'''Wenshu:''' He also fixed those things. So, I let him do his things from then on. Later, he became increasingly more sophisticated with it.\n::'''Wenshu:''' Maybe one day he can become a great inventor. And I'll be known as the father of a great inventor.\n:{{DIcon}} About the repair shop.\n::'''Wenshu:''' This repair shop has also been on this street for many years. Maybe it's eligible to be a AAAA tourist destination in [[Jinzhou]] in another few decades.\n::'''Wenshu:''' Well, I'm not ashamed to crack this to you: I opened this shop because I had no talents. My late grandfather was once a prominent craftsman in the Ministry of Development.\n::'''Wenshu:''' I didn't match his talents and had to live under his halo as the grandson of the celebrity craftsman.\n::'''Wenshu:''' Like \"If it's him, he can definitely do it...\", but I can't be as perfect as my father.\n::'''Wenshu:''' Later, I left the [[Ministry of Development]] and opened this shop. Now I'm content with this life of fixing things for the folks of Jinzhou.\n::'''Wenshu:''' But the talent of Wenmo was as high as his grandfather's, and he may be able to accomplish what I have not done in the future.\n::'''Wenshu:''' I really hope to see that day.\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Wenshui\n|zhs  = 文疏\n|zht  = 文疏\n|ja   = 文疏\n|ko   = 문식\n|es   = Wenshui\n|fr   = Wenshu\n|de   = Wenshu\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

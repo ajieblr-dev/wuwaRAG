@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:41Z",
+  "title": "Gaea Rai",
+  "pageid": 74603,
+  "wikitext": "{{NPC Infobox\n|image            = NPC The Rai Brothers.png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Sanguis Plateaus\n|location2        = Maroonwood\n|group            = Gladiator\n|affiliation      = Septimont\n|affiliationNote  = Gladiator\n}}\n'''{{PAGENAME}}''', '''Masch Rai''', and '''Ordega Rai''' are three Gladiator Brothers who can be found at the small Gladiator camp in [[Maroonwood]] in Sanguis Plateaus, Rinascita.\n\n==Dialogue==\n{{Dialogue Start}}\n;After {{Quest|By Sun's Burning Hand}}\n:;'''Gaea Rai''' All three of us returned safely from the great battle. It's more than we could've wished for.\n\t\n:'''Gaea Rai:''' {{Rover}}, do you have a moment to give us some pointers? We've been debriefing the last hunt, but we can't seem to reach a consensus on what mattered most.\n:{{DIcon}} Of course.\n::'''Gaea Rai:''' Most grateful! Well then, we'd like to hear your judgment on which of us got it right.\n::'''Gaea Rai:''' In my opinion, speed wins fights—strike before your prey even realizes you're there. Kill fast, end faster. Drag it out, and things can easily go sideways.\n::'''Ordega Rai:''' You're oversimplifying it, brother! What if the first strike fails? Then what? It's all about following a strategy. That's what brings people back.\n::'''Masch Rai:''' No, no, you're thinking too small. A hunt isn't fought by one warrior! It's about the unit. Coordinating between squads. Obeying orders. That's what ensures victory.\n::'''Gaea Rai:''' But {{Rover}} has achieved many heroic feats by themselves! There's an entire army in {{MC|m=him|f=her}}!\n::'''Ordega Rai:''' You idiot! This is the champion of the Agon we're talking about! Not all Resonators are built the same!\n::'''Masch Rai:''' Enough arguing... Let {{Rover}} tell us the answer.\n\n::{{DIcon}} Hit first and hit hard!\n:::'''Gaea Rai:''' Aha, great minds think alike! You hear that, boys? You hit 'em fast and you hit 'em hard. Starting tomorrow, the two of you will be in for some power training!\n::{{DIcon}} Nothing will matter if you're dead!\n:::'''Ordega Rai:''' Well, said! You can't claim glory from the grave.\n::{{DIcon}} Teamwork makes the dream work!\n:::'''Masch Rai:''' Like I said, instead of focusing on individual tactics, we should strengthen our coordination in the field!\n::{{DIcon}} None of that matters.\n:::'''Gaea Rai:''' None of them? Are you implying... we're not thinking big enough?!\n::'''Gaea Rai:''' We greatly appreciate your advice. We'll take some time to think this through...\n:{{DIcon}} Maybe next time.\n----\n;After {{Quest|Dawn Breaks on Dark Tides}}\n:;'''Gaea Rai''' {{Rover}}! Welcome back!\n:'''Gaea Rai:''' May howls of triumph follow you, Honorable {{Rover}}!\n:'''Gaea Rai:''' Do you remember the guidance you once gave us?\n:'''Gaea Rai:''' Thanks to your instructions, when the disaster struck, the three of us managed to survive and even claim victory!\n:'''Gaea Rai:''' It was through your efforts that we set aside our differences and worked together to overcome it.\n:'''Gaea Rai:''' We are truly grateful.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Gaea Rai\n|zhs  = 盖亚・雷\n|zht  = 蓋亞・雷\n|ja   = 速度を重視するグラディエーター\n|ko   = 속도가 중요한 검투사\n|fr   = Gaea Rai\n|de   = Gaea Rai\n|es   = Gaea Rai\n|th   = Gaea Rai\n}}\n{{Other Languages\n|en   = Masch Rai\n|zhs  = 马修・雷\n|zht  = 馬修・雷\n|ja   = 連携を大切にするグラディエーター\n|ko   = 연대가 중요한 검투사\n|fr   = Masch Rai\n|de   = Masch Rai\n|es   = Masch Rai\n|th   = Masch Rai\n}}\n{{Other Languages\n|en   = Ordega Rai\n|zhs  = 奥尔迪加・雷\n|zht  = 奧爾迪加・雷\n|ja   = 慎重さを最優先するグラディエーター\n|ko   = 신중함이 중요한 검투사\n|fr   = Ordega Rai\n|de   = Ordega Rai\n|es   = Ordega Rai\n|th   = Ordega Rai\n}}\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

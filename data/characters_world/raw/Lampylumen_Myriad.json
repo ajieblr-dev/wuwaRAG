@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:20Z",
+  "title": "Lampylumen Myriad",
+  "pageid": 8516,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n |name=Lampylumen Myriad\n |title=Mistfield Tunes\n |image=Enemy Lampylumen Myriad (Boss).png\n |dmgtype=Glacio\n |weakpoint=Unknown\n |echo=Yes\n |class=Overlord\n |family=Tacet Discord\n |group=Howler\n |nation=Huanglong\n |region=Tiger's Maw\n |subregion=Dust-Sealed Track\n |drops=Sound-Keeping Tacet Core\n}}\n{{Description|An Overlord Class Howler TD lying dormant under [[Tiger's Maw]]. It lures preys deep into the mist it hides in before capturing them.}} \n{{Intro/Enemy|zh=无常凶鹭}}\n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Sound-Keeping Tacet Core}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Trophies==\n{{Trophies|Lampylumen Myriad|customheader=Lampylumen Myriad}}\n\n==Tutorial==\n{{Tutorial|Lampylumen Myriad}} \n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Glacio damage}}.\u003cbr/\u003eAn ensnarer that slumbers in a freezing mine pit, obsessed with collecting and imitating sounds. It can imitate human speech through a vibrating hum.\u003cbr/\u003eLampylumen Myriad uses sound as bait to lure its prey, which will be frozen in the deep cold. The loss of warmth and the illusion before dying will cause human beings to pour out their last words, which contain great emotional fluctuations.\u003cbr/\u003eFor Lampylumen Myriad, this is the frequency of the supreme taste.|Description When Discovered}} \n\n== Other Languages==\n{{Other Languages\n |en     = Lampylumen Myriad\n |zhs    = 辉萤军势\n |zht    = 輝螢軍勢\n |ja     = 輝き蛍の軍勢\n |ko     = 반디의 군세\n |es     = Engendro de Lampilumen\n |fr     = Myriade de Lampylumen\n |de     = Lampylumen-Multitude\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

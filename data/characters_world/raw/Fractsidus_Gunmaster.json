@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:35Z",
+  "title": "Fractsidus Gunmaster",
+  "pageid": 23034,
+  "wikitext": "{{Enemy Infobox\n|name=Fractsidus Gunmaster\n|title=\n|image=Fractsidus Gunmaster Icon.png\n|dmgtype=Physical\n|weakpoint=\n|echo=No\n|class=Common\n|family=Human\n|group=Fractsidus\n|nation=\n|region=\n|subregion=\n|drops=\n}}{{Description|Devoted followers of the Fractsidus, frequently collaborating with fellow Artificers. They fight with guns fused to their limbs.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Fractsidus}}\n\n==Stats==\n{{Enemy Stats|Fractsidus Gunmaster}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Fractsidus Gunmaster|customheader=Fractsidus Gunmaster}}\n\n==Description==\n{{Description|Fractsidus' faithful cultists.\u003cbr /\u003eLacking in Forte yet bearing a strong yearning for power, they crossed forbidden scientific boundaries. Through the use of special mechanical components, their human bodies are amalgamated with TD limbs, thus their bodies mutate into powerful guns.\u003cbr /\u003eHowever, TD frequencies distort the cultists' mentality and corrode their bodies. They choose to bandage themselves to conceal their twisted face.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Fractsidus Gunmaster\n|zhs  = 残星・枪肢造匠\n|zht  = 殘星・槍肢造匠\n|ja   = フラクトシデス・ガンマスター\n|ko   = 잔성・사이보그 건맨\n|es   = Fractsidus: Maestro de armas\n|fr   = Fractsidus : mousquataire\n|de   = Fractsidus Schützenmeister\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

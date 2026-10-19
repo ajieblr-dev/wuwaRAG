@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:58Z",
+  "title": "Huiliu",
+  "pageid": 5318,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Huiliu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Huiliu''' is an NPC in {{Location|Jinzhou}}.\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Ah... Why hasn't my grandson's package arrived yet...\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Huiliu:''' Ah... I have no idea where my grandson's package is. Why is it taking so long to arrive...\n:'''Huiliu:''' How about I send him some [[Loong Whiskers Crisp|Loong Whisker Crisps]]? The [[Moon-chasing Festival]] is almost here, and I still haven't heard from him...\n:'''Huiliu:''' Moon-chasing Festival\u0026mdash;It's a time for reunion...\n:'''Huiliu:''' But it's good that the kids want to spread their wings and fly far, isn't it?\n:'''Huiliu:''' I just hope he'll remember these old bones and come back to visit me once in a while...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Huiliu\n|zhs  = 惠琉\n|zht  = 惠琉\n|ja   = 恵琉（ケイリュウ）\n|ko   = 혜선\n|es   = Huiliu\n|fr   = Huiliu\n|de   = Huiliu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

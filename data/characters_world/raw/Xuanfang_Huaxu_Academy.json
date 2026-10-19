@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:07Z",
+  "title": "Xuanfang Huaxu Academy",
+  "pageid": 43114,
+  "wikitext": "{{Stub}}\n{{About|location in Xuanfang|the faction|Huaxu Academy}}\n{{Location Infobox\n|title     = Xuanfang Huaxu Academy\n|image     = Xuanfang Huaxu Academy.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Xuanfang Hold\n}}\n\n'''Xuanfang Huaxu Academy''' is an area of [[Xuanfang Hold]], [[Huanglong]]. \n\n==Members==\n===Personnel===\n{{column|1|\n*[[Fuchang]] \n*[[Chong]] (Night Shift)\n*[[Jin]] (Managing Huaxu Apothecary) \u003c!--Revert back to Dr. Jin if that is the correct way to refer her--\u003e\n*[[Yuandai]]\n}}\n\n===Temporary Transfer===\n{{column|2|\n*[[Baizhi]]\n*[[Jixing]] \n*[[Mortefi]] \n}}\n\n===Former Member===\n{{column|3|\n*[[Shenzhi]] (Retired)\n}}\n\n\u003c!--==NPCs==\n{{NPCs by Location List|Xuanfang Huaxu Academy}}--\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Xuanfang Huaxu Academy\n|zhs  = 玄方·华胥院\n|zht  = 玄方·華胥院\n|ja   = 玄方・{{Rubi|華胥院|かそいん}}\n|ko   = 현방 · 화서원\n|fr   = Académie de Huaxu - Xuanfang\n|de   = Huaxu-Akademie: Xuanfang\n|es   = Xuanfang: Academia Huaxu\n|th   = เสวียนฟาง - สถาบันหัวซวี\n|pt   = Xuanfang - Academia Huaxu\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Personnel",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Temporary Transfer",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Former Member",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "7"
+    }
+  ]
+}

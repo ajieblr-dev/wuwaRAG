@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:55Z",
+  "title": "Vetto",
+  "pageid": 38269,
+  "wikitext": "{{NPC Infobox\n|image=NPC Vetto.png\n|type=Open-World\n|nation=Rinascita\n|location=Septimont\n}}\nThere are two male NPC's name '''Vetto''', one is a nobleman and the other, a salesman. They both can be found in {{Location|Capitoline Hill}}.\n\n==Nobleman Dialogue==\n{{Dialogue Start}}\n:'''Vetto:''' Gladiators undergo extensive training each day. If they want to have their names on the leaderboard, they'll need to put in the extra work.\n:'''Vetto:''' Gladiating was never an easy sport.\n\n==Salesman Dialogue==\n;(Day)\n:'''Vetto:''' Would you like to experience a day in the life of a Champion Gladiator? \n:{{DIcon}} A day in the life of a Champion Gladiator?\n:'''Vetto:''' That's right! Want to be a champion? Want to win in the arena and be forever remembered as a hero?\n:'''Vetto:''' We're launching a Champion Gladiator Itinerary package. If you complete all the activities in the package, you'll get a mystery grand prize!\n:'''Vetto:''' Over a hundred people have signed up so far, but no one has lasted till the end.\n:'''Vetto:''' Will you be the first one to complete the itinerary?\n\n;(Night)\n:'''Angry Customer:''' What Champion Gladiator Itinerary package?! It's just a rip-off!\n:'''Angry Customer:''' All you guys did was make up a schedule to prey on us fans!\n:'''Vetto:''' Calm down now. Hear me out...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Vetto\n|zhs  = 乌斯\n|zht  = 烏斯\n|ja   = ヴィトルズ\n|ko   = 비트루스\n|fr   = Vetto\n|de   = Vetto\n|es   = Viandel\n|th   = เว็ตโต\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Nobleman Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Salesman Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

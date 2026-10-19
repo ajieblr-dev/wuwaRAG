@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:33Z",
+  "title": "Fog Lionarch",
+  "pageid": 42393,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n |name=Fog Lionarch\n |title=\n |image=Fog Lionarch Icon.png\n |dmgtype=Fusion\n |weakpoint=Unknown\n |echo=Yes\n |class=Elite\n |family=Tacet Discord\n |group=Autopuppet\n |nation=Huanglong\n |region=Mengzhou\n |subregion=\n |drops=\n |nightmare=No\n}}\n{{Description|An Autopuppet bearing the form of a beast shrouded in fog. Like the legendary beast that fends off evil, it roams with the fog, awaiting its chance to strike.}} \n{{Intro/Enemy}} \n\n==Drops== \n{{Drops|Elite Autopuppet}}\n\n==Stats==\n{{Enemy Stats|Fog Lionarch}}\n\n==Trophies==\n{{Trophies|Fog Lionarch|customheader=Fog Lionarchs}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Fusion DMG}}.\u003cbr\u003e\u003cbr\u003eThe Fog Lionarch is capable of separating its head from the body, enabling it to fight with high flexibility.\u003cbr\u003eWhen Fog Lionarch is Immobilized, its head will separate to protect the body.\u003cbr\u003eWhen its head is defeated, its body will remain combative.\u003cbr\u003eHowever, when its body is destroyed, its head will lose its mobility without a Kernel to drive it.\u003cbr\u003e\u003cbr\u003eFog Lionarch takes 60% more total Echo Skill DMG.\u003cbr\u003e\u003cbr\u003eA beastly Autopuppet designed to utilize Disorienting Fog to hunt down Tacet Discords at large.\u003cbr\u003eTaking the form of an evil-repelling beast, it has cavities all over its body to release Disorienting Fog. When it moves, it looks as if it's traveling among clouds.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en  = Fog Lionarch\n|zhs = 霁息兽尊\n|zht = 霽息獸尊\n|ja  = 霽息の獣尊\n|ko  = 안개 수존\n|fr  = Lionarque des Brumes\n|de  = Nebel-Bestienfürst\n|es  = León Neblinoso\n|th  = Fog Lionarch\n|pt  = Leão Soberano da Névoa\n}}\n\n==Change History==\n{{Change History|3.5}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:31Z",
+  "title": "Lupa",
+  "pageid": 30940,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery|Lupa}} \n\n\u003c!-- Gameplay Info --\u003e|type             = Playable\n|rarity           = 5\n|class            = Non-congenital\n|weapon           = Broadblade\n|attribute        = Fusion\n|role             = Concerto Efficiency; Resonance Liberation Damage; Fusion DMG Amplification; Basic Attack DMG Amplification\n|releaseDate      = 2025-07-03\n\n\u003c!-- Info --\u003e|name             = Lupa\n|realname         = Lupa Silva\u003cref\u003e{{Quest|Shadow of Glory}} — (\"The House of Silva is nobility in Septimont. I share their name, though, I'm sure they've thrown me out since I stepped away from the team.\")\u003c/ref\u003e\n|title            = Howling Flame\n|title2           = Champion of the Great Agon \u003csmall\u003e\u003cnowiki\u003e(shared with Rover)\u003c/nowiki\u003e\u003c/small\u003e\u003cref\u003e{{Quest|Shadow of Glory}} — (\"As a Gladiator, it's a great honor to claim the title with you, (Rover)\")\u003c/ref\u003e\n|alias            = \n|nation           = Rinascita\n|birthplace       = Rinascita\n|affiliation      = Septimont\n|affiliation2     = House Silva\n|affiliationNote2 = formerly\n|sigil            = \n|dish             = Heartpour\n|obtain           = Roar of Triumph\n\n\u003c!--Voice Actors--\u003e|voiceEN          = [[imdb:nm10227404|Kaja Chan]]\u003cref name=\"Lupa Bilibili\"\u003eBilibili: [https://www.bilibili.com/opus/1083369405568516118 《鸣潮》共鸣者战斗演示 | 露帕 ]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/朔小兔 Shuo Xiaotu ({{Lang|mini=1|zh=朔小兔}})]\u003cref name=\"Lupa Bilibili\"\u003e\u003c/ref\u003e\n|voiceJP          = {{w|Minami Takahashi (voice actress)|Takahashi Minami ({{Lang|mini=1|ja=髙橋ミナミ}})}}\u003cref name=\"JP-VA-Lupa\"\u003eX: [https://x.com/WW_JP_Official/status/1929825384440185192 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/김예령(성우) Kim Ye-ryeong ({{Lang|mini=1|ko=김예령}})]\u003cref name=\"Lupa Bilibili\"\u003e\u003c/ref\u003e\n}}\n{{Quote|Oh, is a new match calling?|Lupa}}\n{{Intro/Resonator|Lupa}} \nShe is a gladiator from [[Septimont]], a warrior and undefeated champion of the arena with both an untamed,  competitive spirit and an honorable, valiant heart. While indulging in the adrenaline of hard-fought victories, she is also a loyal, prideful protector of her city and upholds its values with everything she holds dear.\n\n==Official Introduction==\n{{Quote|The star gladiator of Septimont, a warrior with a pure heart, untamed spirit, intense passion, and immense potential.\u003cbr\u003eShe will relentlessly pursue the things she admires, cherishing each moment that allows her to indulge in competition and self-expression on stage.|[https://wutheringwaves.kurogames.com/en/main#resonators Her introduction on the Official Website.]}}\n\n==Combat Overview==\n{{Main|Lupa/Combat}}\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Lupa|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Lupa\n|zhs     = 露帕\n|zht     = 露帕\n|ja      = ルパ\n|ko      = 루파\n|fr      = Lupa\n|de      = Lupa\n|es      = Lupa\n}}\n\n==Trivia==\n===Etymology===\n* {{W|Lupae|Lupa}} is a Latin word meaning \"she-wolf\", which is a term for a female wolf.\n* The {{W|She-wolf (Roman mythology)|She-wolf}} was an {{W|Italian wolf|Italian wolf}} from ancient Roman mythology, who was said to have nursed and parented the twins {{W|Romulus and Remus|Romulus and Remus}} after they were abandoned in the wild. The twins would later become the founders of Rome, with Romulus becoming its first king.\n** The binomial name for {{W|Wolf|wolves}} is \"canis lupus\".\n\n==Change History==\n{{Change History|2.4}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[zh:露帕]]\n[[ru:Люпа]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "6.1",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "14"
+    }
+  ]
+}

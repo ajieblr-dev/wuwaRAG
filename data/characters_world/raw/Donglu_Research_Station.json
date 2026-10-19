@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:14Z",
+  "title": "Donglu Research Station",
+  "pageid": 7657,
+  "wikitext": "{{Stub}}\n{{Location_Infobox\n|title1=Donglu Research Station\n|image=Donglu Research Station.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Port City of Guixu\n}}\n'''Donglu Research Station''' is an area of [[Port City of Guixu]], [[Huanglong]]. \n\n==Other Languages==\n{{Other Languages\n|en   = Donglu Research Station\n|zhs  = 东麓研究站\n|zht  = 東麓研究站\n|ja   = {{Rubi|東麓|とうろく}}研究所\n|ko   = 동록 연구소\n|es   = Estación de investigación Donglu\n|fr   = Station de recherche de Donglu\n|de   = Forschungsstation Donglu\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

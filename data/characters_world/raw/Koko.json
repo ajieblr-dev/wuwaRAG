@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:15Z",
+  "title": "Koko",
+  "pageid": 2647,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Koko.webp\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Shifang Pharmacy\n|title            = Shifang Pharmacy Manager\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}'''Koko''' is a shop NPC in {{Location|Jinzhou|nocat=1}}. She is the manager of [[Shifang Pharmacy]].\n\n==Shop==\n{{Shop/Wrapper|\n{{Shop|Basic Nutrient Block|3,000|100|total=1}}\n{{Shop|Basic Revival Inhaler|3,000|100|total=1}}\n{{Shop|Pecok Flower|3,000|15|total=1}}\n{{Shop|Belle Poppy|3,000|15|total=1}}\n{{Shop|Wintry Bell|3,000|15|total=1}}\n{{Shop|Iris|3,000|15|total=1}}\n{{Shop|Coriolus|3,000|15|total=1}}\n{{Shop|Terraspawn Fungus|3,000|15|total=1}}\n{{Shop|Lanternberry|3,000|15|total=1}}\n{{Shop|Pearl Leaf|1,000|30|total=1}}\n{{Shop|Dewvetch|1,000|30|total=1}}\n{{Shop|Noctemint|1,000|30|total=1}}\n{{Shop|Honeysuckle|1,000|30|total=1}}\n{{Shop|Perilla|1,000|30|total=1}}\n{{Shop|Angelica|1,000|30|total=1}}\n{{Shop|Lemongrass|1,000|30|total=1}}\n{{Shop|Erodorchid|1,000|30|total=1}}\n{{Shop|Lotus Seeds|1,000|30|total=1}}\n{{Shop|Pavo Plum|3,000|15|total=1}}\n{{Shop|Loong's Pearl|3,000|15|total=1}}\n{{Shop|Silver Lotus|1,000|30|total=1}}\n{{Shop|Base Fluid|3,000|6|total=1}}\n{{Shop|Fluid Catalyst|4,500|3|total=1}}\n{{Shop|Fluid Stabilizer|4,500|3|total=1}}\n{{Shop|Strong Fluid Catalyst|9,000|2|total=1}}\n{{Shop|Strong Fluid Stabilizer|9,000|2|total=1}}\n{{Shop|Violet Coral|3,000|15|total=1}}\n|total=1,230,000|vendor=Koko|type=Pharmacy}}\n\n==Quests and Events==\n{{Quests and Events|Koko}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Koko:''' Greetings. Shifang Pharmacy here.\n:{{DIcon}} I want some medicines.\n:{{DIcon}} Gourmet Rumors\n::'''Koko:''' Even though it's called a broth, a lot of ingredients are added during the cooking process.\n::'''Koko:''' As far as I know, while the methods vary, the most common main ingredient is [[Fowl Meat|fowl]].\n::'''Koko:''' I personally recommend adding more fowl, you know. It's nutritious, relatively low in fat, and good for your health.\n:{{DIcon}} Chat\n::'''Koko:''' *sigh* Medicinal dishes are even harder to make than I expected.\n::{{DIcon}} Something's bothering you?\n::'''Koko:''' Yeah, I've been trying to make better [[Caltrop Soup]].\n::'''Koko:''' But it's tough finding the right mix of health benefits and flavor.\n::'''Koko:''' I might need to look for new ideas and adjust the recipe a bit.\n::{{DIcon}} Why all the effort?\n::'''Koko:''' \"Good medicine tastes bitter\", they say, but it's important to make it easier for patients to take.\n::'''Koko:''' That's why I focus on making medicinal dishes that taste delicious and are still effective in treating illnesses.\n::'''Koko:''' I once made some medicine pancakes with [[Lemongrass]] and [[Caltrop]]. They were a real hit!\n::{{DIcon}} That's impressive.\n::'''Koko:''' Hehe. Just doing what I'm supposed to do as the owner of a pharmacy!\n:{{DIcon}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|1_en   = Koko\n|1_zhs  = 蔻蔻\n|1_zht  = 蔻蔻\n|1_ja   = ココ\n|1_ko   = 코코\n|1_es   = Koko\n|1_fr   = Koko\n|1_de   = Koko\n\n|2_en   = Shifang Pharmacy Manager\n|2_zhs  = 「拾方药房」掌柜\n|2_zht  = 「拾方藥房」掌櫃\n|2_ja   = 「拾方薬局」店主\n|2_ko   = 「습방약국」 사장\n|2_es   = Gerente de Farmacia Shifang\n|2_fr   = Gérante de la Pharmarcie de Shifang\n|2_de   = Inhaberin der Apotheke Shifang\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Koko",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Shifang Pharmacy Manager",
+      "number": "4.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:19Z",
+  "title": "Zongye",
+  "pageid": 5990,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Zongye.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = Veteran of [[Midnight Rangers]]\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Zongye''' is an NPC in {{Location|Jinzhou}}.\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Where did I agree to meet Hualin? Was it here... or over there?\n:{{DIcon}} Why aren't I there yet?\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Zongye:''' Zhiyuan, stop sulking! I won't stop you. I'm just worried about you.\n:{{DIcon}} I'm not Zhiyuan.\n:{{DIcon}} Sir, you're mistaking me for someone else.\n:'''Zongye:''' You... You're not Zhiyuan?... Oh, right. You're not...\n:'''Zongye:''' I'm getting old and confused. I'm sorry, I'm sorry...\n:'''Zongye:''' hy don't you come home, Zhiyuan...\n----\n;(After completing [[Echoing Marche]])\n:'''Zongye:''' Oh, you're... You're that...\n:{{DIcon}} I'm {{Rover}}.\n:'''Zongye:''' Right, right. I remember now. It was all thanks to you.\n:'''Zongye:''' [[Zhiyuan]] told me about you. I must have influenced that kid to want to join the army.\n:'''Zongye:''' But in any case, thanks to you and that little girl, he got a good dose of reality.\n:{{DIcon}} You're too kind.\n:'''Zongye:''' Now, I won't stop him. I'm actually glad he's found something he wants to do.\n:'''Zongye:''' [[Hualin]] and I will give him lessons every now and then.\n:'''Zongye:''' Even if he can't join Midnight Rangers, at least he'll be able to protect himself.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Zongye\n|zhs  = 宗业\n|zht  = 宗業\n|ja   = 宗業（ソウゴウ）\n|ko   = 종업\n|es   = Zongye\n|fr   = Zongye\n|de   = Zongye\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

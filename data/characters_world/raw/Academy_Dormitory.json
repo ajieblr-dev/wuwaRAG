@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:30Z",
+  "title": "Academy Dormitory",
+  "pageid": 39079,
+  "wikitext": "{{Location Infobox\n|image        = Academy Dormitory.png\n|type         = Point of Interest\n|type2        = Instance\n|icon         = Academy Dormitory Map Marker.png\n|nation       = Roya Frostlands\n|region       = Startorch Academy (Region)\n|description  = The Startorch Academy Dormitory is located at the heart of the Residential Zone, surrounded by convenient daily-life facilities such as the Food, Utilities \u0026 Energy Lounge and Auto-Clean Pods.\u003cbr /\u003eThe Academy Dorm exclusively offers single-occupancy rooms, ensuring that every student enjoys ample personal space and a comfortable living environment.\u003cref\u003e[[Wutherium Geographic: Lands and Waters — Lahai-Roi Vol. 1#Academy Dormitory|Wutherium Geographic: Lands and Waters — Lahai-Roi Vol. 1, Academy Dormitory]]\n:''The Startorch Academy Dormitory is located at the heart of the Residential Zone, surrounded by convenient daily-life facilities such as the Food, Utilities \u0026 Energy Lounge and Auto-Clean Pods.''\n:''The Academy Dorm exclusively offers single-occupancy rooms, ensuring that every student enjoys ample personal space and a comfortable living environment.''\u003c/ref\u003e\n}}\n{{Quote|Startorch Academy offers every student a private dorm room to relax and recharge. Every space in the building is thoughtfully designed to meet a variety of needs. The resting area creates a calming environment that helps even insomniacs drift off with ease. Soundproofed walls minimize noise complaints, ensuring peace of mind.}} \n\nThe '''Academy Dormitory''' is a [[Point of Interest]] located in [[Startorch Academy (Region)|Startorch Academy]].\n\n==NPCs==\n{{NPCs by Location List|Academy Dormitory}}\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=location}} \n\n==Other Languages==\n{{Other Languages\n|en  = Academy Dormitory\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|es  = \n|fr  = \n|de  = \n|th  = \n|pt  = \n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==References==\n\u003creferences /\u003e\n\n==Navigation==\n{{PoI Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:17Z",
+  "title": "Edwards",
+  "pageid": 38588,
+  "wikitext": "{{Stub|dialogue}}\n{{NPC Infobox\n|image            = NPC Edward.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Department of Light Energy Sciences\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Edwards''' is a male [[NPC]] found at [[Startorch Academy (Region)|Startorch Academy - Square]], praying at the fountain.\n\n{{Dialogue Start}}\n==Idle==\n:;'''Edwards:''' [[Hsin]] the Moon Fox, [[Fang]] the Sun Hare, [[Promeus]]... Oh Sentinels above, I need your help...\n:;'''Edwards:''' Any one of you, just let me pass, I'm begging you...\n\n==Dialogue==\n:'''Edwards:''' ...Does wishing like this even work? It's so statistically unsound... Ah, screw it!\n:'''Edwards:''' Oh mysterious entity of the wishing fountain... whether you're a Sentinel, a human, a TD, or even an Exoswarm...\n:'''Edwards:''' Under the law of equivalent exchange, I offer my most prized possession and make this wish...\n:'''Edwards:''' Please, let probability be on my side and make my advisor overlook my buggy code so I can pass this exam!\n----\n:'''Trash Can:''' \u0026%#A*...!!!\n:'''Resigned Support Staff:''' Calm down, don't be upset. We'll find whoever started that ridiculous 'wishing fountain\" rumor.\n:'''Resigned Support Staff:''' But... why are they tossing things in there? The rumor was about exchanging VALUABLES, not junk!\n:'''Resigned Support Staff:''' Coins, I understand. But textbooks?\n:'''Resigned Support Staff:''' This one's from the Department of Light Energy Sciences. Even has a name on it. I'll call him to come get it...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Edwards\n|zhs  = 爱德华兹\n|zht  = 愛德華茲\n|ja   = エドワーズ\n|ko   = 에드워즈\n|fr   = Edwards\n|de   = Edwards\n|es   = Edwards\n|th   = Edwards\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

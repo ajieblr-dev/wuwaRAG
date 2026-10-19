@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:41Z",
+  "title": "Tar",
+  "pageid": 27248,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Tar.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Tar''' is a male NPC who appears in [[City Square]], [[Ragunna]] at night.\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Ziegler:''' Tar, I've been thinking... maybe I should just join a gang.\n:'''Tar:''' ...What are you on about now?\n:'''Ziegler:''' I'm serious. I'm just a guy with no talent... it seems impossible for me to get ahead in life.\n:'''Ziegler:''' Have you seen that play, Like a Hippocamp? I want to be like the Mafia in it.\n:'''Ziegler:''' I'll fight with my fists and live by loyalty and passion, carving out my own place in the world!\n:'''Ziegler:''' So, what do you say, Tar? Want to join me on this journey?\n:'''Tar:''' I think...\n:'''Ziegler:''' It's great?\n:'''Tar:''' No, I think you should get a job. If anything, you could go herd sheep in town. I know people.\n:'''Ziegler:''' You think I'm joking, don't you?\n:'''Tar:''' Ziegler, buddy, the gangs are a thing of the past...\n:'''Tar:''' Have you seen anyone in Ragunna City acting like those characters in the play, brawling and openly breaking the law?\n:'''Ziegler:''' Not really.\n:'''Tar:''' If there were, they'd have been locked up in the Order Tribunal or recruited by the families.\n:'''Ziegler:''' But still, I believe gangs like that exist in real life!\n:'''Tar:''' You're a lost cause. Who actually takes stories from a play seriously?!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Tar\n|zhs  = 塔尔\n|zht  = 塔爾\n|ja   = タール\n|ko   = 타얼\n|es   = Tar\n|fr   = Tar\n|de   = Tar\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

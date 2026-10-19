@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:53Z",
+  "title": "Carlow",
+  "pageid": 39921,
+  "wikitext": "{{stub|location}}\n{{NPC Infobox\n|name     = Carlow\n|image    = NPC Carlow.png\n|nation   = Rinascita\n|location = Whisperwind Haven\n|type     = Quest\n|type2    = Open-World\n}}\n\n'''{{PAGENAME}}''' is a quest-exclusive [[NPC]] located in {{Location|Egla Town}}. He only appears in the Open-World after the completion of {{Quest|The Last Knight}}.\n\nHe aimed to become a true knight, inspired by the knight he met in his childhood. Despite learning the knight he met wasn't a true knight, he remains steadfast in his knights oath.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:;'''Carlow:''' What truly defines a knight?\n:;'''Carlow:''' Humility, justice, valor... Are these virtues reserved only for those with a title?\n:Carlow seems deeply focused and hasn't noticed your arrival.\n:{{DIcon}} Hello there!\n::'''Carlow:''' Hello there, {{Rover}}! Hope you're having a wonderful day today!\n:{{DIcon}} Startle him.\n::'''Carlow:''' Waaah...\n::'''Carlow:''' Oh, it's you, {{Rover}}! You startled me for a moment there. Sorry, I was just so focused that I didn't notice.\n:::{{DIcon}} What were you pondering just now?\n:{{DIcon|Exit}} Let's leave him to himself\n:'''Carlow:''' I was just wondering if Egla Town could still hold the Night Reveries in the future.\n:'''Carlow:''' Of course, I don't mean locking the doors every night... I just think we should showcase the knightly plays as a part of the festival celebrations.\n:'''Carlow:''' Perhaps it doesn't match the grandeur of the plays at the [[Carnevale]], but these are stories lived by the people of Egla Town.\n:'''Carlow:''' In a way, it's a testament to all the knights that came before.\n{{Dialogue End}}\n\n==Other Language==\n{{Other Languages\n|en   = Carlow\n|zhs  = 卡洛\n|zht  = 卡洛\n|ja   = カルロ\n|ko   = 카를로\n|fr   = Carlow\n|de   = Carlow\n|es   = Carlow\n|th   = Carlow\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Language",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

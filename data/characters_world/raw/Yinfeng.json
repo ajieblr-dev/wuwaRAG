@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:11Z",
+  "title": "Yinfeng",
+  "pageid": 20644,
+  "wikitext": "{{Stub}}\n{{Meta\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = no\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{NPC Infobox\n|name             = Yinfeng\n|image            = NPC Yinfeng.png\n|type             = Quest\n|nation           = Huanglong\n|location         = \n|group            = \n|affiliation      = Exiles\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Yinfeng''' is a quest-exclusive [[Exile]] [[NPC]] that appears in {{Quest|True Colors}}.\n\n\u003c!--\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n--\u003e\n==Quests and Events==\n{{Quests and Events|Yinfeng}}\n\u003c!--\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Yinfeng\n|zhs  = 隐风\n|zht  = 隱風\n|ja   = 隠風（インフウ）\n|ko   = 은풍\n|es   = Yinfeng\n|fr   = Yinfeng\n|de   = Yinfeng\n}}\n\n==Change History==\n{{Change History|1.2}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

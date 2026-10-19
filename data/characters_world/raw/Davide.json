@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:10Z",
+  "title": "Davide",
+  "pageid": 26110,
+  "wikitext": "\n{{NPC Infobox\n|image            = NPC_Davide.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = Montelli Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         = \n|relativeNote     = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Davide''' is an art collector and Montelli family member. He is seen working with [[Gabriel]] and has romantic interest towards the painting Acolyte [[Clarisse]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle==\n{{Dialogue Start}}\n:'''Gabriel:''' Francesca has discovered a batch of potential collectibles and provided an initial valuation.\n:'''Gabriel:''' Among them is one item I believe will interest you.\n:'''Gabriel:''' The clean and vibrant color palette is emblematic of the creator. All proceeds from the auction will be donated to the Order of the Deep.\n:'''Davide:''' ...\n:'''Davide:''' Do me a favor, Gabriel.\n:'''Gabriel:''' It's already arranged, Davi- I mean, anonymous buyer.\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Gabriel:''' The avant-gardes of the [[New Federation]] haven't turned out anything exciting recently. I've a hunch we're not getting our money back.\n:'''Gabriel:''' What do you think? Should we try our luck in [[Septimont]], Davide? Davide?\n:'''Davide:''' Huh? Oh... what was that? Sorry, I didn't catch you.\n:'''Gabriel:''' What? Spent half of your life managing the Montelli family's collection and now you're seeking a fine piece of art for yourself?\n:{{DIcon}} Are you talking about the painting... or the painter?\n:'''Gabriel:''' Come on, you were eyeing that lady over there. Right?\n:'''Davide:''' Maybe... Or maybe I'm simply attracted by that splash of bright orange tempera. A golden ray of sunshine in Salotto...\n:'''Gabriel:''' She is indeed a charming lady. Got an air of timeless elegance. But judging from the Order's robe she's wearing, she must be an Acolyte.\n:'''Gabriel:''' It won't be easy to have and hold this exquisite piece of art in your hands.\n:'''Gabriel:''' First, you'll need permission from the Order for your union. And it's just the beginning. The rules and restrictions the Order have in place on such a partnership will simply mean you won't be able to serve the Montelli family anymore.\n:'''Davide:''' I understand... despite that inappropriate analogy. There's indeed an insurmountable wall between us and this treasured \"collection\" of the Cathedral of Mercury...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Davide\n|zhs  = 达维德\n|zht  = 達維德\n|ja   = ダビッド\n|ko   = 다이비드\n|es   = Davide\n|fr   = Davide\n|de   = Davide\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

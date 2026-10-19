@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:28Z",
+  "title": "\"Peach\"",
+  "pageid": 38261,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Peach.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Septimont\n|location2        = Capitoline Hill}}\n{{Quote|Hey there, {{MC|m=dark-haired handsome man|f=beautiful lady}}|\"Peach\"}}\n'''{{PAGENAME}}''' is a female Huanglong NPC dressed in Septimont fashion, found in [[Capitoline Hill]], north from Capitoline Hilltop Resonance Beacon. \n__NOTOC__\n{{Dialogue Start}}\n==Idle==\n:;'''\"Peach\"''' Hey there, {{MC|m=dark-haired handsome man|f=beautiful lady}}.\n:;'''\"Peach\"''' You don't look like you're from around here... Mind if I ask you a few questions for a quick interview?\n==Dialogue==\n:'''\"Peach\":''' Hey there, traveler! Judging by your outfit, you must know a thing or two about fashion.\n:'''\"Peach\":''' So, do you prefer the Septimont or Huanglong styles?\n:{{DIcon}} Haunglong's\n::'''\"Peach\":''' Right, your outfit already gave it away. Indeed, there's something about hometown style. It just feels like home, no matter where you are.\n:{{DIcon}} Septimont's\n::'''\"Peach\":''' Oh wow, we've got the same taste! Septimont's designs have that unmistakable beauty, don't they?\n::'''\"Peach\":''' Lightweight, clean-cut, but so full of geometric flair. Always so daring!\n:{{DIcon}} Don't like any of them.\n::'''\"Peach\":''' Oh? That's unexpected... Well, it seems that I need to work harder to be the trendsetter.\n:{{DIcon|Exit}} Not interested, sorry.\n{{Dialogue End}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = \"Peach\"\n|zhs  = “山桃”\n|zht  = 「山桃」\n|ja   = 「山桃」\n|ko   = 「피치」\n|fr   = «\u0026nbsp;Pêche »\n|de   = „Pfirsich“\n|es   = «Melocotón»\n|th   = \"พีช\"\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

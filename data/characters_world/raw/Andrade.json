@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:34Z",
+  "title": "Andrade",
+  "pageid": 26387,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = NPC Andrade.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Bank Street\n|affiliation      = \n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}'''Andrade''' is an NPC in {{location|Ragunna}}, found in [[Bank Street]], talking to [[Monet]] from 6:00 AM to 5:59 PM.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Monet:''' Hands, ah, those hands...\n:'''Andreade:''' What? Running low on cash, buddy?\n:'''Monet:''' What's a few lousy coins? The real treasure is those delicate hands at the counter.\n:'''Monet:''' Gold and jewels dance like silk across her fingers—so enticing.\n:'''Monet:''' A charm is impossible to resist...\n:'''Andreade:''' I heard she's the youngest daughter of the Montelli family, future heiress to the bank.\n:'''Monet:''' Whether she's a lady of Septimont or the Montelli heiress...\n:'''Monet:''' This alluring treasure will be mine, one way or another.\n{{Dialogue End}}\n\n\n==Other Languages==\n{{Other Languages\n|en  = Andrade\n|zhs = 安德拉多\n|zht = 安德拉多\n|ja  = アンドラド\n|ko  = 안드라도\n|es  = Andrade\n|fr  = Andrade\n|de  = Andrade\n}}\n==Change History==\n{{Change History|2.0}}\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

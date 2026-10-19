@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:20Z",
+  "title": "Leonora",
+  "pageid": 37964,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont\n}}\n'''{{PAGENAME}}''' is a Quest-Exclusive NPC seen during {{Quest|By Sun's Burning Hand}} at Tempest Cliff. \u003cbr\u003eShe is found saying farewell with a male Gladiator, '''Mars''', heading to the Hunt.\n\n{{Dialogue Start}}\n==Dialogue==\n;(Talk to Leonora)\n:'''Mars:''' Don't worry about me, Leonora. [[Augusta]] commands this hunt, and [[Avidius]] rides with us. Victory is assured.\n:'''Leonora:''' Still, this is your first time joining a hunt like this…\n:'''Mars:''' No Gladiator would deny themselves such an honor. We've trained all these years for this moment, haven't we?\n:'''Leonora:''' I wish I'd been chosen to go with you…\n:'''Mars:''' It'll be fine, Leonora. Bless me with your heart, and you'll be with me wherever I go.\n:'''Leonora:''' I'll wait for you right here till you return.\n:'''Leonora:''' Mars…\n----\n;(Talk to Leonora again)\n:'''Leonora:''' Forget the honor, just come back to me safe.\n:{{DIcon}} Trust him.\n:'''Leonora:''' This is all I can do now.\n:'''Leonora:''' You'll be out there with them, right?\n:'''Leonora:''' I'll be hoping for your safe return too.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Leonora\n|zhs  = 蕾欧诺拉\n|zht  = 蕾歐諾拉\n|ja   = レオノーラ\n|ko   = 레오노라\n|fr   = Leonora\n|de   = Leonora\n|es   = Leonora\n|th   = Leonora\n}}\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

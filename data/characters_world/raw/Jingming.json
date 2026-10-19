@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:05Z",
+  "title": "Jingming",
+  "pageid": 74668,
+  "wikitext": "{{Stub|Remove if no further Dialogues after Quest}}\n{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xianling Village\n|affiliation      = Xuan Triad\n|affiliationNote  = \n|status           = \n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a quest-exclusive NPC that first appears with '''[[Qinyan]]''' in {{Quest|The Wind Before the Storm}}. \n__NOTOC__\n{{Dialogue Start}}\n==Idle==\n:'''Qinyan:''' Ming...! You're hurt?!\n:'''Jingming:''' Ugh, I'm fine... Just a scratch. Nothing serious, Yan...\n\n==Dialogue==\n:'''Qinyan:''' Ming...! You're hurt?!\n\n:'''Jingming:''' Ugh, I'm fine... Just a scratch. Nothing serious, Yan...\n\n:'''Qinyan:''' What happened?! You said you were just patrolling the Censure Courts. How could this happen...?\n\n:'''Jingming:''' Those Autopuppets... they went crazy out of nowhere. We didn't even have time to react...\n\n:'''Jingming:''' I was one of the lucky ones. [[Liangyu]] got us out. But so many of our people... They...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jingming\n|zhs  = 荆明\n|zht  = 荊明\n|ja   = 荊明\n|ko   = 형명\n|fr   = Jingming\n|de   = Jingming\n|es   = Jingming\n|th   = Jingming\n|pt   = Jingming\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

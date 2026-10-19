@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:07Z",
+  "title": "Xuanfang Ministry of Development",
+  "pageid": 43118,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Xuanfang Ministry of Development\n|image     = Xuanfang Ministry of Development.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Xuanfang Hold\n}}\n\n'''Xuanfang Ministry of Development''' is an area of [[Xuanfang Hold]], [[Huanglong]]. \n\n==NPCs==\n{{NPCs by Location List|Xuanfang Ministry of Development}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xuanfang Ministry of Development\n|zhs  = 玄方·天工部\n|zht  = 玄方·天工部\n|ja   = 玄方・{{Rubi|天工部|てんこうぶ}}\n|ko   = 현방 · 천공부\n|fr   = Ministère du développement - Xuanfang\n|de   = Entwicklungsministerium: Xuanfang\n|es   = Xuanfang: Ministerio de Fomento\n|th   = เสวียนฟาง - กระทรวงการพัฒนา\n|pt   = Xuanfang - Ministério do Desenvolvimento\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

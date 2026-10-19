@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:25Z",
+  "title": "Fae Blaze",
+  "pageid": 42122,
+  "wikitext": "{{Stub|Drops, stats, abilities, and location}}\n{{Enemy Infobox\n|name       = Fae Blaze\n|image      = Fae Ignis Icon.png\n|dmgtype    = Havoc\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|group      = Howler\n|group2     = Influenced by the Dark Tide\n|nation     = Rinascita\n|region     = Fagaceae Peninsula\n|level      = 120\n}}\n'''Fae Blaze''' is a [[Special Enemies|special enemy]] found in {{Location|Ragunna|nocat=1}}.\n\n==Location==\n{{Map Embed|Fagaceae Peninsula|Fae Blaze}}\n\n==Trophies==\n{{Trophies|Fae Blaze|customheader=Fae Blaze}} \n\n==Other Languages==\n{{Other Languages\n|en  = Fae Blaze\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n|pt  = \n}} \n\n==Change History==\n{{Change History|2.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

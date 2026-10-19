@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:51Z",
+  "title": "Heart of Stillness",
+  "pageid": 79468,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Heart of Stillness\n|image     = Heart of Stillness.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Simulacrum Nexus of Mengzhou\n}}\n\n'''Heart of Stillness''' is an area of [[Simulacrum Nexus of Mengzhou]], [[Huanglong]]. \n==Areas== \n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" | Name\n! Image\n! Description\n|- id=\"Mengxuan Vale\"\n| [[Mengxuan Vale]]\n| [[File:Mengxuan Vale.png|180px]]\u003cbr /\u003e\n| The home village of the [[Celestials]] in the Simulacrum Nexus.\n|}\n\n==NPCs== \u003c!--I have manually added a tab for the NPCs as we don't have pages for them for the template to accurately reflect the NPC list. If we ever make a page for each NPC, replace this with the {{NPCs by Location List|Heart of Stillness}} template.--\u003e\nThere are '''12''' NPCs located in Heart of Stillness:\n* Huaiqi\n* Yiwen\n* Yunwu\n* Qing Yan\n* Yanqiu\n* Xitong\n* Yu'an\n* Yujue\n* Elder Yujue\n* Yuyue\n* Qinglan\n* Changyuan\n\n==Other Languages==\n{{Other Languages\n|en   = Heart of Stillness\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   =\n}}\n\n==Change History==\n{{Change History|3.7}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

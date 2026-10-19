@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:43Z",
+  "title": "Battier",
+  "pageid": 77463,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = no\n|missing_NPC_context  = no\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = no\n|missing_NPC_dialogue = no\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Battier.png\n|type             = Quest\n|nation           = Rinascita\n|location         = \n|group            = \n|affiliation      = Troupe of Fools\n|title            = \n|status           = Alive\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Battier''' is a quest-exclusive [[NPC]] and a member of the [[Troupe of Fools]]. He first appears in {{Quest|What Yesterday Wept, Today Doth Sing}}.\n\n==Quests and Events==\n{{Quests and Events}} \n\n==Character Mentions==\n{{Character Mentions|Battier}}\n\n==Other Languages==\n{{Other Languages\n|en   = Battier\n|zhs  = 巴蒂尔\n|zht  = 巴蒂爾\n|ja   = バティエ\n|ko   = 바티르\n|fr   = Battier\n|de   = Battier\n|es   = Battier\n|th   = Battier\n|pt   = Battier \n}} \n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

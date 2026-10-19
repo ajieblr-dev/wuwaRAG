@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:44Z",
+  "title": "Bing'ge",
+  "pageid": 9061,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Bing\u0026#39;ge.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Bing\u0026#39;ge''' is an NPC in {{Location|Hongzhen}}.\n\n==Location==\nBing'ge is located on the second floor of Hongzhen, near the south entrance.\n\n==Profile==\n\n==Quests and Events==\n{{Quests and Events|Bing'ge}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Bing'ge''' It's you, {{Rover}}. It's been a while.\n:'''Bing'ge''' How's your trip so far? Hongzhen has changed a lot, hasn't it?\n:{{DIcon}} It's a lot busier than before.\n::'''Bing'ge''' Well, Hongzhen is what it is now, all thanks to you and the Magistrate.\n:{{DIcon}} It's a lot safer than before.\n::'''Bing'ge''' Yeah, thanks to you and our [[Jinhsi|Madam Magistrate]], the old Hongzhen is back.\n:{{DIcon}} Not as much as I imagined.\n::'''Bing'ge''' Haha, that is true. Hongzhen was a peaceful, happy town before the Temporal Disruption. \n::'''Bing'ge''' Yeah, thanks to you and our Madam Magistrate, the old Hongzhen is back.\n:'''Bing'ge''' Oh, you should stick around longer this time. Try the [[Sagaci Springs]] or check out the Water Plums.\n:'''Bing'ge''' Sorry I can't hang out with you this time. Lady [[Xinyi|Xinyi's]] got me joining up with the [[Midnight Rangers]] from Jinzhou, so I'll be pretty occupied for a while.\n::{{DIcon}} Thank you. It's okay.\n::{{DIcon}} I prefer to be alone, anyway.\n:'''Bing'ge''' Sure! Anytime you need something, just hit me up. Happy to help always!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Bing'ge\n|zhs  = 秉戈\n|zht  = 秉戈\n|ja   = 秉戈（ヘイカ）\n|ko   = 병모\n|es   = Bing'ge\n|fr   = Bing'ge\n|de   = Bing'ge\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

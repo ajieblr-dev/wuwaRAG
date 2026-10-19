@@ -1,0 +1,114 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:54Z",
+  "title": "Carlotta",
+  "pageid": 24790,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|title            = Crystal Remorph\n|name             = Carlotta\n|image            = {{Infobox Gallery|Carlotta}}\n|rarity           = 5\n|type             = Playable\n|class            = Mutant\n|attribute        = Glacio\n|weapon           = Pistols\n|role             = Main Damage Dealer; Resonance Skill Damage\n|alias            = Opal\n|realname         = Carlotta Montelli\u003cref name=\"Carlotta Introduction\u003eTwitter (X): [https://x.com/Wuthering_Waves/status/1860518713272717536 Post-Lament Anthropocene: Stars Intertwined — Carlotta]\u003c/ref\u003e\n|gender           = Female\n|birthplace       = Ragunna\n|nation           = Rinascita\n|affiliation      = Ragunna\n|affiliation2     = Montelli Family\n|birthday         = Unknown\n|dish             = Orange Espresso\n|obtain           = When Silence Tolls\n|releaseDate      = 2025-01-02\n|relative         = Francesco Montelli\n|relativeNote     = Grandfather\n|relative2        = Capollo Montelli\n|relativeNote2    = Uncle\n|voiceEN          = [[imdb:nm10804818|Jennifer English]]\u003cref name=\"Carlotta Bilibili\"\u003e\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/zh-hans/闫夜桥 Yan Yeqiao ({{Lang|mini=1|zh=闫夜桥}})]\u003cref name=\"Carlotta Bilibili\"\u003eBilibili: [https://www.bilibili.com/opus/1016573803556241433 《鸣潮》共鸣者战斗演示]\u003c/ref\u003e\n|voiceJP          = {{w|Kana Ueda|Ueda Kana ({{Lang|mini=1|ja=植田佳奈}})}}\u003cref name=\"Carlotta JP VA Announcement\"\u003eTwitter (X): [https://x.com/WW_JP_Official/status/1860521219927294220 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/김순미 Kim Soon-mi  ({{Lang|mini=1|ko=김순미}})]\u003cref name=\"Carlotta Bilibili\"\u003e\u003c/ref\u003e\n}}\n{{Quote|Fate has led you to me, and considering the terms I'm offering… You wouldn't refuse me, would you?|Carlotta\n}}\n{{Intro/Resonator|Carlotta}} She is the second daughter of the esteemed [[Montelli Family]] of [[Rinascita]], embodying innate nobility and a refined appreciation for art. She wields unparalleled intelligence, confidence, cunning, and an ambition to elevate [[Ragunna City]] to new heights. Her determination extends to her work of maintaining her family's interests, as well as eliminating those standing in the way of them.\n\n==Official Introduction==\n{{Quote|Carlotta, the second daughter of the esteemed Montelli family, embodies innate nobility and a refined appreciation for art. Her elegance is matched by her unconventional spirit, unshackled by tradition.\u003cbr\u003eTo ensure her family’s future, she alternates between dual roles, addressing delicate \"troubles\" behind the scenes.|[https://wutheringwaves.kurogames.com/en/main#resonators Introduction from the Official Website.]\n}}\n\n==Combat Overview==\n{{Main|Carlotta/Combat}}\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Carlotta|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Carlotta\n|zhs     = 珂莱塔\n|zht     = 珂莱塔\n|ja      = カルロッタ\n|ko      = 카를로타\n|fr      = Carlotta\n|de      = Carlotta\n|es      = Carlotta\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n[[zh:珂莱塔]]\n[[ru:Карлотта]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

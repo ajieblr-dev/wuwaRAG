@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:17Z",
+  "title": "Zhaozhou",
+  "pageid": 21872,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title        = Zhaozhou\n|image        =\n|type         = City\n|type3        = Huanglong City{{!}}Huanglong Cities\n|map          = Solaris-3\n|event        = \n|nation       = Huanglong\n}} '''Zhaozhou''' is a mentioned city in [[Huanglong]]. \n\n==Trivia==\n*[[Baizhi]] visited the city in [[A New Companion]] to investigate a [[Sonoro Sphere]].\n*[[Lo, Lo, Lollo Logistics!]] mistakenly calls the province \"Shaozhou\" in English.\n\n==Other Languages==\n{{Other Languages\n|en      = Zhaozhou\n|zhs     = 诏州\n|ja      = {{Rubi|詔州|しょうしゅう}}\n|ko      = 조주\n}}\n\n==Change History==\n{{Change History|introduced=1.0|}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n\n[[Category:Cities]]\n[[Category:Huanglong Cities]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

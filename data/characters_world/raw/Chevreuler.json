@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:57Z",
+  "title": "Chevreuler",
+  "pageid": 39174,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Chevreuler.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = \n|affiliation      = Startorch Academy\n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC male professor with the habit of repeating his opening lecture. He can be found in the Light Energy Sciences classroom during the afternoon. \n\n{{color|help|Players can attend Professor Chevreuler class at \u003cnowiki\u003e06:00-11:59\u003c/nowiki\u003e in the Light Energy Sciences Classroom.}}\n\n{{Dialogue Start}}\n==Idle==\n:'''Chevreuler:''' Be extra careful when picking wild Edelschnee seeds.\n:'''Chevreuler:''' Their tendrils secrete a paralytic agent when they sense other organisms.\n:'''Chevreuler:''' They use it to hunt injured animals, but some larger creatures have learned to use the Edelschee to their advantage.\n:'''Chevreuler:''' The food web out here on the frostlands is incredibly fragile, which is why it's developed this symbiotic relationship...\n\n:'''Chevreuler:''' Never underestimate this Lichen. Its history predates the arrival of the Exostrider.\n:'''Chevreuler:''' If we keep pushing its cultivation, we could actually transform those barren wastelands out there.\n:'''Chevreuler:''' Oh, I should also add that it's the foundation of our super-food manufacturing process.\n:'''Chevreuler:''' The cup noodles you love so much wouldn't exist without it.\n\n:'''Dewar: '''Here it comes, here it comes!\n:'''Dewar: '''I bet you five cup noodle coupons. No backsies.\n\n==Dialogue==\n;(First time interaction with the crowd gathered around another Rabelle College student)\n:'''Stephan:''' Hey, where did you come from? Are you a transfer student?\n:'''Josiah:''' I know you! You're from Rabelle College, aren't you?\n;(Observe the situation)\n:'''Josiah:''' I saw him with Professor Mornye the other day.\n:'''Stephan:''' Tell me, how's the  food in your cafeteria? Is it like toothpaste?\n:'''Vika:''' Quiet down over there! What are you? A bunch of Fluffguins?\n:'''Vika:''' You always swarm whenever someone new shows up.\n:'''Vika:''' Interrupt my lecture again, and I'll have you standing in the frostlands like real Fluffguins.\n----\n;Sit down\n:'''Rover:''' I know this class...\n:{{DIcon}} (Pay close attention.)\n::'''Chevreuler:''' Ahem. Today's lesson is about to start, everyone...\n::'''Dewar:''' \"What is considered indispensable to the functioning of human society?\"\n::'''Chevreuler:''' What is considered indispensable to the functioning of human society?\n::'''Dewar:''' \"Energy!\"\n::'''Chevreuler:''' Energy! And we, we must master the knowledge of creating energy itself.\n::'''Dewar:''' See? What did I tell you? Professor Chevreuler always starts his lectures with the same question.\n::'''Aisha:''' All right, all right. You win. Just take it.\n:{{DIcon}} (Doze off.)\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Chevreuler\n|zhs  = 谢弗勒尔\n|zht  = 謝弗勒爾\n|ja   = シェフラー\n|ko   = 셰보루르\n|fr   = Chevreuler\n|de   = Chevreuler\n|es   = Chevreuler\n|th   = Chevreuler\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:15Z",
+  "title": "Drusilla",
+  "pageid": 74622,
+  "wikitext": "{{Stub|Dialogues from before Dawn Breaks Dark Tides, OL}}\n{{NPC Infobox\n|image            = NPC Drusilla.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Sanguis Plateaus\n|location2        = Asphodel Barrens\n|group            = Gladiator\n|affiliation      = Septimont\n|affiliationNote  = Gladiator\n}}\n'''{{PAGENAME}}''' is a NPC female Gladiator found with her daughter, '''Licinia''' by [[Asphodel Barrens]] Resonance Beacon at day time. \n\n==Dialogue==\n{{Dialogue Start}}\n;After {{Quest|By Sun's Burning Hand}}\n\n----\n;After {{Quest|Dawn Breaks on Dark Tides}}\n:;'''Licinia:''' Pa! I heard the Blessed Maiden's voice!\n:;'''Drusilla''' Why not tell him how you stood with everyone against the Dark Tide?\n:'''Licinia:''' Pa always loved hearing me chatter about little things. He wouldn't mind this either.\n:'''Drusilla''' Go on, then. We can leave a bit later.\n:'''Licinia:''' Thanks, Ma! Now… where should I start?\n:'''Licinia:''' Oh, I know! Let's begin with the day when the Blightcloud over the Plateaus started to stir…\n:'''Drusilla''' Keep talking. I'll borrow a jug and water these flowers.\n{{Dialogue End}}\n\n==Other Languages==\n\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:13Z",
+  "title": "Dion",
+  "pageid": 65816,
+  "wikitext": "{{NPC Infobox\n|image=.png\n|type=Open-World\n|nation=Lahai-Roi\n|location=Startorch Academy\n|affiliation=Department of Light Energy Sciences\n|group=\n}}{{Description|This station is located within Exo Genesis Labs, an experimental field that uses lunar soil samples to create a microgravity environment. Here, prehistoric plants are induced to undergo mutation, enhancing their nutritional value and functional traits. The resulting ingredients are processed at this station to produce convenient \"space food\" designed to boost intellect, stamina, and Forte, suitable for consumption in any environment.|Culinary Station}}\n\n'''{{PAGENAME}}''' is a student NPC wearing an expedition suit that can be found at the building for the Department of Light Energy Sciences building, Exo Genesis Labs.\n\n{{Dialogue Start}}\n==Dialogue==\n:'''Dion:''' I'm sorry… this is all my fault…\n:'''Anakis:''' I'm listening.\n:'''Dion:''' I wasn't keeping an eye on the field equipment and gave a [[Zip Zap]] the chance to steal all the power…\n:'''Anakis:''' Go on.\n:'''Dion:''' To cut corners, I grabbed another Zip Zap and used it to charge the equipment…\n:'''Anakis:''' And?\n:'''Dion:''' It caused a blackout across half the test site, and the repair bill ate up half our budget.\n:'''Anakis:''' Send me your accountability review! And that bill's coming out of your stipend!\n:'''Anakis:''' …Also, you're retaking the safety protocols exam.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dion\n|zhs  = 迪翁\n|zht  = 迪翁\n|ja   = ディオン\n|ko   = 디온\n|fr   = Dion\n|de   = Dion\n|es   = Dion\n|th   = Dion\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

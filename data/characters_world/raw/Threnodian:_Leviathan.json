@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:47Z",
+  "title": "Threnodian: Leviathan",
+  "pageid": 36632,
+  "wikitext": "{{CustomTabs\n|subpages=0\n|tab1=Threnodian: Leviathan\n|tab1name=Enemy\n|tab2=Reminiscence: Threnodian - Leviathan\n|tab2name=Echo}}\n{{About|the Weekly Boss|the NPC|Leviathan}}\n{{Enemy Infobox\n|name          = Threnodian: Leviathan\n|title         = \n|image         = Threnodian Leviathan Icon.png\n|dmgtype       = Havoc\n|dmgtype2      = Aero\n|weakpoint     = \n|echo          = Yes\n|class         = Calamity\n|family        = \n|group         = Threnodian\n|location      = [[Cindernite Apocalypse]]\n|drops         = Curse of the Abyss\n|variants      = \n|voiceEN       = \n|voiceCN       = \n|voiceJP       = \n|voiceKR       = \n}}\n{{Description|The multitudes chant Its name as one; countless voices hail the gospel of the end.\u003cbr\u003eIt and Its kingdom are fated to descend.}}\n{{Lang|Threnodian: Leviathan|zh=鸣式·利维亚坦}} is a [[Calamity Class]] [[Weekly Challenge|Weekly]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in [[Cindernite Apocalypse]].\n\n==Drops==\n{{Boss Rewards\n|weekly=1\n|exclusive=Curse of the Abyss}} \n\n==Stats==\n{{Enemy Stats}}\n\n\u003c!--==Abilities== \n--\u003e\n==Trophies==\n{{Trophies|customheader=Threnodian: Leviathan}}\n\n==Description==\n{{Description|The \"divinity\" who wields the power to merge. A [[Threnodian]] rooted in the civilization of Rinascita.\u003cbr\u003e\u003cbr\u003eIts frequency, once bound by the [[Imperator|Sentinel]]'s shackles, was reborn through the Gem. Taking the form of the once Blessed Maiden, [[Fleurdelys]], It made Itself a vessel anew.\u003cbr\u003e\u003cbr\u003eBorn of the yearning for life and sustained by the eternal dread that haunts all living beings, It gazes unceasingly, silent as the abyss.\u003cbr\u003e\u003cbr\u003eAll heretics and non-believers shall stand before Its judgement.|Description When Discovered}}\n\n==Other Languages ==\n{{Other Languages\n|en   = Threnodian: Leviathan\n|zhs  = 鸣式・利维亚坦\n|zht  = 鳴式・利維亞坦\n|ja   = 鳴式・レビヤタン\n|ko   = 명식 ・ 레비아탄\n|es   = Trenodiano: Leviatán\n|fr   = Léviathan le Réprimantum\n|de   = Threnodianer: Leviathan\n|pt   = Trenodiana: Leviatã\n}}\n\n==Change History==\n{{Change History|2.7}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

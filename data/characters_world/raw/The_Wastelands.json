@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:44Z",
+  "title": "The Wastelands",
+  "pageid": 36362,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = The Wastelands\n|image     = The Wastelands.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Rinascita\n|region    = Sanguis Plateaus}}\n\n'''The Wastelands''' is an area of [[Sanguis Plateaus]], [[Rinascita]].\n\n== NPCs ==\n{{NPCs by Location List|The Wastelands}}\n\n== Other Languages ==\n{{Other Languages\n|en   = The Wastelands\n|zhs  = 受蚀地\n|zht  = 受蝕地\n|ja   = {{Rubi|潮蝕地|ちょうしょくち}}\n|ko   = 침식지\n|es   = Yermo\n|fr   = Terres déchues\n|de   = Das Ödland\n}}\n\n== Change History ==\n{{Change History|2.6}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

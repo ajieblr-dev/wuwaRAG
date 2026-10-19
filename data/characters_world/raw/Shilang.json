@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:24Z",
+  "title": "Shilang",
+  "pageid": 5898,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Shilang.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Tiger's Maw Mine\n|group            = \n|affiliation      = \n|title            = Merchant in Tiger's Maw Mine\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = [[imdb:nm3516054|Joseph Capp]]\n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Shilang''' is a shop NPC in {{Location|Tiger's Maw Mine}}.  The store '''Tiger's Maw Ore''' will become available after players have completed Exploration Quest [[Shadow of the Past]].\n\n==Shop==\n{{Shop/Wrapper|{{Shop|Originite Weapon Supply Chest|80|1|total=1}}\n{{Shop|Medium Energy Core|2|20|total=1}}\n{{Shop|Advanced Energy Core|5|20|total=1}}\n{{Shop|Premium Energy Core|10|20|total=1}}\n{{Shop|Shell Credit|x=2,000|1|50|total=1}}\n{{Shop|Reactive Metallic Drip|3|10|total=1}}\n{{Shop|Waveworn Residue 226|3|10|total=1}}\n{{Shop|Extracted Phlogiston|3|10|total=1}}\n{{Shop|Cadence Bud|3|10|total=1}}\n{{Shop|Adagio Helix|3|10|total=1}}|currency=Lampylumen|vendor=Shilang|total=620|type=Other}}\n\n==Quests and Events==\n{{Quests and Events|Shilang}}\n\n==Dialogue==\n{{Dialogue start}}\n:'''Shilang:''' Geez, I can finally take a breather now. Lately, I've been bombarded with people trying to sell me rocks...\n:{{Icon|Tiger's Maw Ore Shop}} Tiger's Maw Ore\n::(Open Shop)\n:{{DIcon|Talk}} Rocks?\n::'''Shilang:''' Yeah, because aside from selling ores, we're now buying them too.\n::'''Shilang:''' People have been eager to sell the \"ores\" they found to us. Sadly, most of which was just worthless rocks.\n::'''Shilang:''' That's why I thought, maybe we should team up with the Pioneer Association to create a special magazine issue about identifying ores.\n::'''Shilang:''' We could give readers tips on how to distinguish them by colors, shine, and other traits. \n::'''Shilang:''' Mind giving me a few pointers after I finish the first draft?\n:{{DIcon|Exit}} Leave\n{{Dialogue end}}\n\n; Dialogue after Player completes [[Alloy Smelt (Quest)]]\n{{Dialogue start}}\n:'''Shilang:''' Hmm, finally, some time to myself. Without the distractions from some dorky pumpkins trying to sell me useless rocks...\n:{{DIcon|Side Quests}} About \"Alloy Smelt\"\n::'''Shilang:''' Though I've been tweaking the recipe for my alloy, the progress of its improvement has always been limited.\n::'''Shilang:''' I really can't compare myself with the academics and engineers at the academy who specialize in weapon materials.\n::'''Shilang:''' But this crevice in the mine seems to have a special connection to my alloy.\n::'''Shilang:''' Only my alloy glows near this crevice...\n::'''Shilang:''' I was excited and scared at once.\n::'''Shilang:''' Excited, because I felt my efforts were recognized, and my alloy was special in this Sonoro Sphere.\n::'''Shilang:''' But I'm also scared that if the crevice disappears, will my alloy become meaningless?\n::'''Shilang:''' Every time I think about this, I stop worrying about my business, and I even hope the crevice lasts a little longer...\n:{{DIcon|Exit}} Leave\n{{Dialogue end}}\n\n==Other Languages==\n{{Other Languages\n|1_en   = Shilang\n|1_zhs  = 石琅\n|1_zht  = 石琅\n|1_ja   = 石琅（セキロウ）\n|1_ko   = 석랑\n|1_es   = Shilang\n|1_fr   = Shilang\n|1_de   = Shilang\n|2_en   = Tiger's Maw Ore\n|2_zhs  = 虎口矿石\n|2_zht  = 虎口礦石\n|2_ja   = 虎口鉱業\n|2_ko   = 호환 광석\n|2_es   = Mineral de las Fauces del tigre\n|2_fr   = Les mines des tigres\n|2_de   = Tigerschlund Erz\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Shilang",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tiger's Maw Ore",
+      "number": "4.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

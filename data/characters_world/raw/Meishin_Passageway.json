@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:35Z",
+  "title": "Meishin Passageway",
+  "pageid": 38139,
+  "wikitext": "{{Location Infobox\n|image        = Meishin Passageway.png\n|type         = Area\n|nation       = The Black Shores\n|region       = Chronorift Metropolis\n}}\n'''Meishin Passageway''' is an [[Area]] located in [[Chronorift Metropolis]]. It is accessible via [[Stranger Things in Honami]].\n\n==NPCs==\n{{NPCs by Location List|Meishin Passageway}} \n\n==City Secrets==\n''Unlocked by finding all Missing Namipons in [[Namipon Case Files]]''\n\nEven before the Lament, Meishin Passageway was already a fixture among Honami's urban legends. In the strictest sense, it refers to a passage connecting two parallel tunnels in the Commercial District, open only during certain times of the year. Many residents swore they heard strange noises, saw traffic cones gathering on their own, or felt a tap on the shoulder, only to turn and find no one.\n\nThough the city hall insisted that it was just an old service passage from construction, this hardly deterred the thrill-seekers. Over the years, tales multiplied. Some claimed that ten minutes inside meant a full day outside. The best-known story came from a a local radio interview. A man said the passageway had granted his wish by letting him see his long-departed family... His proof was a limited-edition Namipon plushie with a unique serial number, which was thought to be destroyed in a fire, but somehow appeared in the passageway.\n\n==Other Languages==\n{{Other Languages\n|en   = Meishin Passageway\n|zhs  = 迷津隧道\n|zht  = 迷津隧道\n|ja   = 迷心通路\n|ko   = 메이신 통로\n|fr   = Passage Meishin\n|de   = Meishin-Durchgang\n|es   = Pasadizo Meishin\n|th   = อุโมงค์เมย์ชิน\n}}\\ \n\n==Change History==\n{{Change History|2.8}} \n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "City Secrets",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

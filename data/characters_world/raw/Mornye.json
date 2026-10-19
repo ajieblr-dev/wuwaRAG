@@ -1,0 +1,135 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:39Z",
+  "title": "Mornye",
+  "pageid": 37540,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}}\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 5\n|class            = Natural\n|weapon           = Broadblade\n|role             = Support and Healer;DMG Amplification;Tune Rupture Response;Tune Strain Response;Off-Tune Buildup Efficiency\n|attribute        = Fusion\n|releaseDate      = 2026-01-15\n\n\u003c!-- Info --\u003e\n|name             = Mornye\n|realname         = \n|title            = Astral Mapping\n|gender           = Female\n|age              = \n|birthday         = \n|birthplace       = New Federation\n|nation           = Lahai-Roi\n|affiliation      = Spacetrek Collective\n|affiliation2     = Startorch Academy\n|sigil            = \n|dish             = Canned Efficiency\n|obtain           = Distant May the Starlights Be\n\n\u003c!-- Family --\u003e\n|father           = Unnamed\n|fatherRef        = \u003cref name=\"A Thump\"\u003eMornye's Character Story: [[Mornye/Backstory#Character Stories|A Thump]]\u003c/ref\u003e \n|mother           = Unnamed\n|motherRef        = \u003cref name=\"A Thump\"/\u003e\n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm7303431|Michelle Fox]]\u003cref name=\"Mornye-Bili\"/\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/佟心竹 Tong Xinzhu ({{Lang|mini=1|zh=佟心竹}})]\u003cref name=\"Mornye-Bili\"\u003eBilibili: [https://www.bilibili.com/opus/1156472068189978648 《鸣潮》共鸣者战斗演示 | 莫宁]\u003c/ref\u003e\n|voiceJP          = {{w|Manaka Iwami|Iwami Manaka ({{Lang|mini=1|ja=石見舞菜香}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/2000793006132126043 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/오로아 Oh Ro-ah ({{Lang|mini=1|ko=오로아}})]\u003cref name=\"Mornye-Bili\"/\u003e\n}}\n{{Quote|I need not wait for a starry night, nor tilt my gaze to seek the sky. For I have placed it at my back, in my hands, and upon my eyelids.|Mornye}}\n{{Intro/Resonator|Mornye}} She is a researcher for the [[Spacetrek Collective]] and a professor for Exostrider Engineering at [[Startorch Academy]]. She was a student at Startorch Academy and an acquaintance of [[Rover]] 20 years before the [[Void Storm]] hit [[Lahai-Roi]]. With an unwavering dream to chart the course of humanity's exploration of the world beyond Solaris, she plays a key role in the technological developments of Lahai-Roi as a project head of the [[Spacetrek Collective Research Institute]].\n\n==Combat Overview==\n{{Main|Mornye/Combat}}\n\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Mornye|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events|Mornye}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Trivia==\n===Etymology===\n* ''Mornië'' is the word for \"darkness\" in the fictional elvish language Quenya, from J.R.R. Tolkien's ''Lord of the Rings''.\n* Alternatively, ''Molniya'' {{Lang|ru=Молния|lit=lightning}} is both the name of a series of Soviet/Russian satellites, and the name of the [[wp:Molniya orbit|highly elliptical orbit]] they were launched into.\n\n==Other Languages==\n{{Other Languages\n|en      = Mornye\n|zhs     = 莫宁\n|zht     = 莫寧\n|ja      = モーニエ\n|ko      = 모니에\n|fr      = Mornye\n|de      = Mornye\n|es      = Mornye\n|th      = Mornye\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==References==\n{{Reflist|2}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[zh:莫宁]]\n[[ru:Морнье]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Episodic Quests",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "2.3",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.4",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.5",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "3.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "4.1",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "13"
+    }
+  ]
+}

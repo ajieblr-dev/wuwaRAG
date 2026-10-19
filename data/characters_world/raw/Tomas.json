@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:48Z",
+  "title": "Tomas",
+  "pageid": 36488,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Tomas.png\n|type             = Open World\n|nation           = Rinascita\n|location         = Sanguis Plateaus\n|location2        = Tetragon Temple (Area)\n|group            = Gladiator\n|affiliation      = Septimont\n|affiliationNote  = Gladiator\n}}\n__NOTOC__\n'''{{PAGENAME}}''' is a male gladiator participating in the Hunt in [[Sanguis Plateaus]], [[Septimont]]. He makes his first appearance in {{Quest|By Sun's Burning Hand}} then can be found next to a [[Wooter]] after outside of the [[Tetragon Temple]].\n==Dialogue==\n{{Dialogue Start}}\n:'''Tomas''': I have a bad feeling about this one…\n:'''Tomas''': I just want one last sip of Heartpour. Not sure we'll make it back.\n:{{DIcon}} (Hand over a bottle of Heartpour.)\n::'''Tomas''': What?! You got a bottle on you? Miracle. Didn't think I'd get to try it here.\n::'''Tomas''': That's it. Just like I remember.\n::'''Tomas''': Thank you. If we get out of this, next drink is on me.\n:{{DIcon|Exit}} (Don't hand it over.)\n----\n;(Afterwards)\n:'''Tomas''': Hey, it's you! The one who gave me the Heartpour.\n:'''Tomas''': Never imagined you were the destined Hero of Heroes...\n:'''Tomas''': Now we're both back, it's time I kept my promise.\n:'''Tomas''': Come on! Drinks are on me. Let's get wrecked!\n\n==Related Dialogues== \n;Down at the [[Hunter's Den]]\n;(Idle)\n:'''Elliot:''' New supplies just came in. Please check the inventory when you can.\n:'''Elliot:''' Do let us know if you have any additional requests. We'll do our best to meet them!\n:'''Romilda:''' Thanks. I'll go over the supply list first.\n;(Dialogue)\n:'''Romilda:''' Everything's checked. Once the hunt begins, the Gladiators will be sent all over the hunting grounds. We'll be counting on you for more supply runs.\n:'''Romilda:''' By the way, why is there a crate of Heartpour in this delivery? It's not listed.\n:'''Elliot:''' Freebies from the sponsor. They even sent their own crew to drop it off.\n:'''Elliot:''' Everyone's doing their part for this hunt. Just think of it as a gesture of goodwill.\n{{Dialogue End}}\n\n==Note==\n* Giving him a [[Heartpour]] does not grant any trophy nor will be taken out of your inventory.\n* Regardless if you gave Tomas a [[Heartpour]] or not, he still thanks you for giving him one.\n\n==Other Languages==\n{{Other Languages\n|en   = Tomas\n|zhs  = 托马斯\n|zht  = 托馬斯\n|ja   = トマス\n|ko   = 토마스\n|es   = Tomas\n|fr   = Tomas\n|de   = Tomas\n}}\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Related Dialogues",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Note",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

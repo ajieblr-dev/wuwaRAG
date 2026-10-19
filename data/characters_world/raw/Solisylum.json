@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:31Z",
+  "title": "Solisylum",
+  "pageid": 39085,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Solisylum\n|image     = Solisylum.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Roya Frostlands\n|region    = Bjartr Woods\n}}\n\n'''Solisylum''' is an area of [[Bjartr Woods]], [[Roya Frostlands]]. \n\n==NPCs==\n{{NPCs by Location List|Solisylum}}\n\n==Other Languages==\n{{Other Languages\n|en   = Solisylum\n|zhs  = 引日殿\n|zht  = 引日殿\n|ja   = ソリサイルム\n|ko   = 솔리사이룸\n|fr   = Solisium\n|de   = Solisylum\n|es   = Solisylum\n|th   = วิหารอัญเชิญสุริยะ\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

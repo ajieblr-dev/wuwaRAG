@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:00Z",
+  "title": "Well of the Threnodian",
+  "pageid": 39092,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title        = Well of the Threnodian\n|image        = Well of the Threnodian.jpg\n|type         = \n|map          = Solaris-3\n|event        = \n|nation       = Roya Frostlands\n}}\n\nThe '''Well of the Threnodian''' is a facility in the [[Roya Frostlands]] located deep beneath the Research Institute, buried by the Exostrider's sword. Access is strictly controlled as it requires specialised coatings to resist contamination. It remains humanity's only indirect method for observing Threnodian activity in Lahai-Roi.\n\n== References ==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}\n\n[[Category:Mentioned Only]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

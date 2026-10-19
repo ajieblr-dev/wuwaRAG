@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:04Z",
+  "title": "Qiaomu",
+  "pageid": 3691,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Qiaomu.png\n|type             = Quest\n|nation           = Huanglong\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Qiaomu''' is a quest-exclusive [[NPC]] that appears in [[Exploration Quest]] {{Quest|When the Forest is No Longer Dim}} and [[Side Quest]] {{Quest|When Moonlight Shines in the Forest}}.\n==Profile==\n\n==Quests and Events==\n{{Quests and Events|Qiaomu}}\n\n==Other Languages==\n{{Other Languages\n|en   = Qiaomu\n|zhs  = 巧木\n|zht  = 巧木\n|ja   = 巧木（コウモク）\n|ko   = 소란\n|es   = Qiaomu\n|fr   = Qiaomu\n|de   = Qiaomu\n}}\n|de      = \n|es      = \n|fr      = \n|ko      = \n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

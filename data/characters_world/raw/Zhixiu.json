@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:18Z",
+  "title": "Zhixiu",
+  "pageid": 20575,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Zhixiu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Huaxu Academy\n|title            = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Zhixiu''' is an NPC in {{Location|Jinzhou}}. She can be found in the Archive Room, inside the [[Huaxu Academy]].\n\nDuring the event [[By Moon's Grace]], Zhixiu is an NPC in [[Taoyuan Vale]] for [[Swim, Gulpuff, Swim]].\n\u003c!---==Location==\n{{Map Embed|Taoyuan Vale|Zhixiu}}---\u003e\n\n==Quests and Events==\n===Event Appearances===\n* [[By Moon's Grace]]\n{{Quests and Events|Zhixiu}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Zhixiu''': There are some docs Mr. [[Xiangli Yao|Xiangli]] put together for us, sort of like... extra homework? A little gift from our resident genius.\n:'''Zhixiu''': He's always making breakthroughs so quickly, we struggle to keep up.\n:'''Zhixiu''': But we have to keep up. If you can't even try to keep pace, why bother being an academic?\n{{Dialogue End}}\n===Event Dialogue===\n====By Moon's Grace====\n{{Dialogue Start}}\n;(First interaction)\n:'''Zhixiu''': Hi, Rover! Remember me?\n:{{DIcon}} You're a researcher from Huaxu Academy...\n::'''Zhixiu''': Yes, that's me. I'm glad you still remember.\n:{{DIcon}} Sorry, I don't recall.\n::'''Zhixiu''': Oh don't worry, I'll introduce myself again. I'm Zhixiu, a researcher at Huaxu Academy. We met before, remember?\n:'''Zhixiu''': Long story short, interested in trying out \"Swim, Gulpuff, Swim\"?\n:'''Zhixiu''': In this game, participants race as Gulpuffs.\n:'''Zhixiu''': Jinzhou's Echo technology might not be as popular as Rinascita's, but I think it has great potential.\n:'''Zhixiu''': Entertainment is key here. Plus, it's good for collecting research data.\n:'''Zhixiu''': Besides this swimming challenge, I've got some other events lined up. Hope you enjoy them, Rover.\n----\n:'''Zhixiu''': Gulpuffs are so soft... Hmm, they do have an interesting texture.\n:{{DIcon}} Chat\n::'''Zhixiu''': Using Echoes for entertainment could be pretty cool.\n::'''Zhixiu''': At Huaxu Academy, we focus on what works best in practice.\n::'''Zhixiu''': But... not everything we study has to be practical, I guess. Research that brings laughter also has its value.\n::'''Zhixiu''': What do you think, Rover? Aren't Gulpuffs just adorable?\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n==Other Languages==\n{{Other Languages\n|en   = Zhixiu\n|zhs  = 芝琇\n|zht  = 芝琇\n|ja   = 芝琇（シシュウ）\n|ko   = 지수\n|es   = Zhixiu\n|fr   = Zhi Xiu\n|de   = Zhixiu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Appearances",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Dialogue",
+      "number": "2.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "By Moon's Grace",
+      "number": "2.1.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "7"
+    }
+  ]
+}

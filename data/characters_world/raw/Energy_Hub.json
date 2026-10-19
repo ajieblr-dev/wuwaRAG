@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:20Z",
+  "title": "Energy Hub",
+  "pageid": 23211,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Energy Hub\n|image=Energy Hub.png\n|world_map=Solaris-3\n|type = Area\n|nation=The Black Shores\n|region=Tethys' Deep\n}}\n'''Energy Hub''' is an area of [[Tethys' Deep]], [[The Black Shores]]. It houses a KU-Roro charging station, where KU-Roros (aka Tethys Terminals) return to recharge and \"rest\" when their energy reserves run low.\u003cref\u003e[https://wutheringwaves.kurogames.com/en/main/news/detail/1474 Wutherium Geographic: Lands and Waters — The Black Shores Vol. 2]\u003c/ref\u003e \n\n==Resources==\n\n==NPCs==\n{{NPCs by Location List|Energy Hub}}\n\n==Gallery==\n\u003cgallery\u003e\nEnergy Hub charging station.png|KU-Roro charging station\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Energy Hub\n|zhs  = 能源中心\n|zht  = 能源中心\n|ja   = エネルギーセンター\n|ko   = 에너지 센터\n|es   = Centro de Energía\n|fr   = Centre d'énergie\n|de   = Energiezentrum\n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resources",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

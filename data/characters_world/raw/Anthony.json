@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:35Z",
+  "title": "Anthony",
+  "pageid": 65805,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = no\n}}\n{{Stub|Location and group/affiliation}}\n{{NPC Infobox\n|image            = NPC Anthony.png\n|type             = Open-World\n|nation           = Roya Frostlands\n|location         = \n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n'''Anthony''' is an [[NPC]] researcher found inside the Cassette Burning room.\n\n==Dialogue==\n{{Dialogue Start}} \n:'''Zhuming:''' Did you see the incident report? That disciplinary action is harsh. You don't see that very often these days…\n:'''Anthony:''' If you ask me, it's not harsh enough. You don't know what they did!\n:'''Anthony:''' Those two selfish fools snuck off on their own to collect samples just to gain a smidge of progress in their project. The researcher who went to rescue them got completely consumed by the Voidmatter...\n:'''Anthony:''' How is it fair that a good man is gone, and the ones responsible are still alive and kicking?\n:'''Zhuming:''' Don't worry. The Institute has zero tolerance for breaking safety protocols. They will pay for their stupidity.\n:'''Zhuming:''' They aren't worth your time. Not even your anger. Come on, focus on your research and look forward to the future.\n:'''Zhuming:''' Maybe one day… we can use Cassettes to bring back those lost to the Voidmatter. It sounds like a pipe dream now, but turning dreams into reality is what science is all about, isn't it?\n----\n;After {{Quest|Starlights from Yesterdays}}\n:; '''Zhuming''' So get this. I heard those two are petitioning to restart their project and get their disciplinary action softened.\n:; '''Anthony:''' Over my dead body! [[Void Storm]] or not, selfish pricks like that are a walking liability!\n: A researcher seems to be seething over what happened with two troublesome students.\n:{{DIcon|Option}} (Listen)\n:: '''Anthony:''' I don't think I'll ever forgive those two selfish bastards. After all...\n:: '''Anthony:''' ...If the Void Storms are truly gone for good, doesn't that mean the people we lost in them are gone forever too?\n:: '''Zhuming:''' I don't think their sacrifice was meaningless.\n:: '''Anthony:''' I know! They were the pride of the [[Spacetrek Collective]]. I'm not GRIEVING their deaths... I'm FURIOUS. That's what I am.\n:: '''Anthony:''' Every time I think about the colleagues we lost trying to save those two rule-breaking idiots, it makes my blood boil.\n:: '''Zhuming:''' But... Anthony, did you know?\n:: '''Zhuming:''' The two kids they saved back then? They joined the rescue team when [[Aleph-1]] hit.\n:: '''Zhuming:''' When the Void Storm was expanding, they saved another search unit. And that unit brought back data on one of the Royan rune sites.\n:: '''Zhuming:''' And those Royan runes... they're proof that the colleagues we lost in the Void Storm once existed.\n:: '''Zhuming:''' Beyond the [[Stridergate]], they became torches, lighting the coordinates in [[Voidspace]] for the [[Exostrider]].\n:: '''Anthony:''' Are you saying those two idiots helped fight Aleph-1 too?\n:: '''Zhuming:''' No... I'm saying that driving back Aleph-1 was a miracle. Only that miracle was made possible by every single person within that closed loop of cause and effect.\n:{{DIcon|Exit}} (Leave)\n----\n;Nearby\n:;...How many times do I have to say this? In the frostlands, it's every man and woman for themselves. No one is going to hold your hand.\n:;Running off like that cost us an exceptional colleague their life trying to rescue you… He even made sure to leave a final report before he disappeared.\n:;Disciplinary actions will be reported along with details of the incident. After that, you'll be sent home to face trial under your local laws. That's the punishment you deserve.\n:;And if you have any conscience left, remember this\u003cnowiki\u003e:\u003c/nowiki\u003e a colleague gave their life to save you two fools.\n{{Dialogue End}} \n\n==Quests and Events==\n{{Quests and Events|Anthony}}\n\n==Other Languages==\n{{Other Languages\n|en   = Anthony\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

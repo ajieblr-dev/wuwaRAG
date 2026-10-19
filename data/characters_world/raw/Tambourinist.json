@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:42Z",
+  "title": "Tambourinist",
+  "pageid": 23060,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Tambourinist\n|title=\n|image=Tambourinist Icon.png\n|dmgtype=Havoc\n|weakpoint=\n|echo=Yes\n|class=Elite\n|family=Tacet Discord\n|group=Whisperin\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|An Elite Class Whisperin TD often seen in the wild. Records show it looks like an instrumentalist with a tambourine in hand.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Elite Whisperin}}\n\n==Stats==\n{{Enemy Stats|Tambourinist}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Tambourinist|customheader=Tambourinist}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Havoc damage}}.\u003cbr/\u003eHumanoid TD that casts its power by playing the instrument. Imitating the human behaviour of playing bells and saying prayers, the words it emits are never blessing, but curses.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Tambourinist\n|zhs  = 振铎乐师\n|zht  = 振鐸樂師\n|ja   = 金鈴の楽手\n|ko   = 초혼의 악사\n|es   = Panderista\n|fr   = Tambourineur\n|de   = Tambourinist\n}}\n==Change History==\n{{Change History|1.0}} \n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

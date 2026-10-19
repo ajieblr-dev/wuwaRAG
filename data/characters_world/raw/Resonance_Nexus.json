@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:11Z",
+  "title": "Resonance Nexus",
+  "pageid": 32481,
+  "wikitext": "{{Stub}}\n{{Terminology Infobox\n|image  = Resonance Nexus.png\n|type   = Exploration\n|type2  = Progression\n|type3  = Lore\n}}\n{{Quote|Lemme see, uh, think of it as Jinzhou's largest server station, or an integration hub. It's something along those lines. I'm not much of a tech person myself. Long story short, it's a navigator, a defense system, and a regional information center all in one enormous package.|Chixia}}\n'''Resonance Nexuses''' are structures found across [[Solaris-3]]. When a player unlocks one for the first time, the corresponding [[region]] will be revealed in the map. The Nexuses are part of a global monitoring network to anticipate Tacet Discord outbreaks, [[Waveworn Phenomenon|Waveworn Phenomena]] and to coordinate their contaiment by local authorities and [[the Black Shores]]. They serve as the core of the ecological information network centralising the energy fluctuation detection of [[Resonance Beacon]]s to convey information forward.\n\nAs some of the most imposing structures on the landscape, they often acquire local names and histories. The one in the centre of [[Jinzhou]] City is known as the Nexus Tower; [[Rinascita]]'s are also known as the Genesis Nexuses; [[Startorch Academy (Region)|Startorch Academy's]] largest is called the Solis Lens Array; and in [[Xuanfang]] they are Lexicon Axes.\n\n==Tutorial==\n{{Tutorial|Resonance Nexus}}\n\u003c!--\n==Trophies==\n{{Trophies by Category Table|Trophies Related to Resonance Nexus}}\n--\u003e\n==Regional Nexuses==\n\u003cgallery\u003e\nJinzhou Nexus.png|Jinzhou\nRagunna Nexus.png|Ragunna; {{tt|Genesis Nexus|Rinascita's central Resonance Nexus, also known as the Genesis Nexus. According to legend, Imperator revealed the secrets of the Genesis Nexus to the Rinascitans, enabling them to construct other such towering monuments that stand as symbols of the Sentinel's power and sovereignty.\u003cbr\u003eWithin the reach of the Genesis Nexus, Echoes can endure in physical form without relying on Terminals.}}\nSeptimont Nexus.png|Septimont; Genesis Nexus\nHonami Nexus.png|Chronorift Metropolis\nLahai-Roi Nexus.png|Roya Frostlands; {{tt|Solis Lens Array|In the Roya Frostlands and Lahai-Roi, the Resonance Nexus is known as the Solis Lens Array.\u003cbr\u003eThese lenses concentrate and convert the glow of the Reactor Drive into usable power for local facilities.}}\nXuanfang Nexus.png|Xuanfang; {{tt|Lexicon Axis|The Resonance Nexus of the Land of Xuanfang is also known as the Lexicon Axis. Serving as the registration hub for visitors, its structure resembles a mechanical scroll forged from countless modular parts.}}\n\u003c/gallery\u003e\n\n==Gallery==\n\u003cgallery\u003e\nGenesis Nexus.jpg|In legend, Imperator revealed the secrets of the Genesis Nexus to the Rinascitans\nSolis Lens Array.jpg|The Solis Lens Array\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Resonance Nexus\n|zhs  = 中枢信标\n|zht  = 中樞信標\n|ja   = 中枢信号塔\n|ko   = 중추 비콘\n|es   = Nexo de resonancia\n|fr   = Nexus\n|de   = Resonanznexus\n|th   = เรโซแนนซ์เน็กซัส\n|pt   = Nexo de Ressonância\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Exploration Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Regional Nexuses",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

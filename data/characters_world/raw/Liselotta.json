@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:25Z",
+  "title": "Liselotta",
+  "pageid": 36755,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Guntherus and Liselotta.png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Septimont\n|location2        = Vale of Glory\n|group            = Gladiator\n|affiliation      = Septimont\n|affiliation2     = Gladiator\n}}\n'''{{PAGENAME}}''' is a NPC female Gladiator who participated in the hunt, found praying at [[Vale of Glory]] during the day with a male Gladiator named [[Guntherus]].\n__NOTOC__\n{{Dialogue Start}}\n==Dialogue==\n:;'''Liselotta''' If only I fought harder. I will inherit your final wishes.\n:;'''Guntherus''' We will protect this city you loved so dearly.\n\n:'''Liselotta:''' Are you here to pay respects?\n:'''Liselotta:''' This is where the heroes of Septimont lie at rest. Their souls will cross the Styx Lake, forever protecting Septimont.\n:'''Liselotta:''' My squadmate is among them.\n:'''Liselotta:''' But, if only he weren't... If only I fought harder... I'm such a...\n:'''Gunther:''' Liselotta...\n----\n:'''Gunther:''' I still remember our hunts. You always went for a giant's cut of steak.\n:'''Gunther:''' These days, no one can finish one on their own.\n:'''Gunther:''' Don't worry, we're all doing well. Liselotta even qualified for the Great Agon.\n:'''Gunther:''' And... the city you loved so fiercely is in safe hands.\n:'''Gunther:''' Rest easy.\n{{Dialogue End}}\n\n==Trivia==\n* Styx Lake refers to the Greek Mythology, where souls of the deceased are ferried into the afterlife. \n\n==Other Languages==\n{{Other Languages\n|en   = Liselotta\n|zhs  = 莉泽洛特\n|zht  = 莉澤洛特\n|ja   = リゼロッテ\n|ko   = 리젤로타\n|es   = Liselotta\n|fr   = Liselotta\n|de   = Liselotta\n}}\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

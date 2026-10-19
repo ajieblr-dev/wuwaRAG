@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:45Z",
+  "title": "The False Sovereign",
+  "pageid": 35718,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = The False Sovereign\n|title     = \n|image     = The False Sovereign Icon.png\n|dmgtype   = Electro\n|dmgtype2  = Havoc\n|weakpoint = Unknown\n|echo      = Yes\n|class     = Overlord\n|family    = Tacet Discord\n|group     = Dark Tide Creation\n|nation    = Rinascita\n|region    = Sanguis Plateaus\n|subregion = Earthrend Wedge\n|drops     = Blighted Crown of Puppet King\n|variants  = Tactical Hologram: The False Sovereign\n}}\n{{Lang|'''The False Sovereign'''|zh=伪作的神王}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in {{Location|Earthrend Wedge}}, and is unlocked after completing {{Quest|By Sun's Burning Hand}}.\n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Blighted Crown of Puppet King}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Abilities==\n\n==Trophies==\n{{Trophies|The False Sovereign}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} against {{Color|Electro DMG}} and {{Color|Havoc DMG}}.\u003cbr\u003e\u003cbr\u003eA humanoid mimic molded of sludge, a false sovereign, the [[Dark Tide]]'s will made manifest.\u003cbr\u003e\u003cbr\u003eBorn from the utopia of Unity envisioned by the Threnodian, it is a shapeless mass of black sludge given form, a vessel created solely to devour. All things are to unite within the False Sovereign's body and be reborn as servants and children of [[Leviathan]].\u003cbr\u003e\u003cbr\u003eIt does not think. It does not feel. Only the rippling sludge murmurs its false hymns, eternally glorifying the power of Leviathan.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = The False Sovereign\n|zhs  = 伪作的神王\n|zht  = 偽作的神王\n|ja   = 偽りの神王\n|ko   = 거짓의 신왕\n|es   = Falso Soberano\n|fr   = Souverain apocryphe\n|de   = Falscher Gebieter\n}} \n\n==Change History==\n{{Change History|2.6}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

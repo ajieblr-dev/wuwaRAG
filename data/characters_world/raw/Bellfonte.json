@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:44Z",
+  "title": "Bellfonte",
+  "pageid": 36701,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Sanguis Plateaus\n|location2        = Tetragon Temple (Area)\n|affiliation      = Septimont\n|affiliationNote  = Gladiator\n}}__NOTOC__\n'''{{PAGENAME}}''' is a male Gladiator found outside of [[Tetragon Temple (Area)]]. \n\n{{Dialogue Start}}\n==Dialogue==\n;(First interaction during [[By Sun's Burning Hand]])\n:;Flaunting her title as Priestess to mock the Senante...\n:;Hmph... I'll see to it she falls from her lofty perch!\n\n:'''Bellfonte''': Well, well... the Champion of the Great Agon. Septimont's shining hero, here in the flesh.\n:'''Bellfonte''': Here to join us in this glorious hunt? Or perhaps you're here to chase the Priestesses' prophecies in Tetragon Temple?\n:'''Bellfonte''': If it's the former, my squad would be honored to have you. Rest assured, I'll equip you with only the finest gear, worthy of your might and title.\n:{{DIcon}} And if it's the latter?\n:'''Bellfonte''': Ah... then allow me to offer you a friendly piece of advice. Stay far away from Priestess named Iuno.\n:'''Bellfonte''': She's a disgrace. Reckless, rude, and a stain on the Temple's name. She even speaks ill of honored members of the Senate. Trust me, associating with her will do your reputation no favors.\n:{{DIcon}} She's seen through you before, hasn't she?\n:'''Bellfonte''': H-how dare you?! I was only looking out for you! But if you insist on chasing storms... then don't expect sympathy when they break.\n\n==Spoiler for Act VIII: [[By Moon's Fated Light]]==\n;(After completing [[By Sun's Burning Hand]])\n:;Savior of Septimont? Too cliché...\n:;Radiant star who dispelled the Dark Tide's miasma? Hmm... that might just do!\n\n:'''Bellfonte''': Savior of Septimont, radiant star who dispelled the Dark Tide's miasma!\n:'''Bellfonte''': I, Bellfonte, must humbly apologize for my previous shortsightedness. Please forgive my reckless words. You've driven back the miasma and opened the path to final victory.\n:'''Bellfonte''': The people of Septimont will honor your glory and sing your deeds forevermore!\n:{{DIcon}} No, the one who dispelled the miasma was Iuno.\n:{{DIcon}} You owe Iuno the apology.\n:'''Bellfonte''': ...Iuno? I'm sorry, I don't know anyone by that name. Who exactly are you talking about?\n:'''Rover''': (Last time we spoke, his disdain for Iuno was palpable. But now... it's as if the name \"Iuno\" has been erased from his memory entirely.)\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Bellfonte\n|zhs  = 贝拉丰特\n|zht  = 貝拉豐特\n|ja   = ベラフォンテ\n|ko   = 벨라폰테\n|es   = Bellfonte\n|fr   = Bellfonte\n|de   = Bellfonte\n}}\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Spoiler for Act VIII: By Moon's Fated Light",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

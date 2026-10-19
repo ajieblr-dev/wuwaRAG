@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:44Z",
+  "title": "Beohr Trench",
+  "pageid": 31378,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Beohr Trench\n|image=Beohr Waters.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Beohr Trench\n}}\n\n'''Beohr Trench''' is an area of [[Beohr Waters]], [[Rinascita]]. \n==NPCs==\n{{NPCs by Location List|Behor Trench}}\n==Other Languages==\n{{Other Languages\n|en   = Beohr Trench\n|zhs  = 贝奥海沟\n|zht  = 貝奧海溝\n|ja   = ベオ海溝\n|ko   = 베오 해구\n|es   = Fosa Beo\n|fr   = Fosse de Beohr\n|de   = Beo-Meeresgraben\n}}\n\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

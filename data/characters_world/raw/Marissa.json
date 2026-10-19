@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:33Z",
+  "title": "Marissa",
+  "pageid": 27264,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Marissa.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Marissa''' is a female NPC who appears in [[Ragunna]], [[Rinascita]]. She can be seen talking to [[Giovanna]] and [[Sandra]] from 6:00 AM to 5:59 PM.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Giovanna:''' Isn't the Carnevale coming up soon? I just passed by Gondola Market and saw lots of exotic flowers and decorations there.\n:'''Sandra:''' I'm going to decorate our windowsill nicely for the festival this time.\n:'''Marissa:''' I heard that this year's Carnevale is being organized entirely by the Montellis.\n:'''Giovanna:''' No wonder there are so many imports in the market. The Montelli family has money to spare and trade routes everywhere. Only they could pull off such a huge event.\n:'''Sandra:''' My little Pietro just started at Averardo, and after only two days, he came home saying that the [[Montelli Family|Montelli family]] had a hand in all of Ragunna's trade, both imports and exports.\n:'''Marissa:''' Pietro really knows it all! He's so lucky to have a perfect job. Shame that his childhood friend, Gavino, hasn't been as fortunate.\n:'''Sandra:''' What happened to Gavino?\n:'''Marissa:''' Did you know he joined an underground troupe some time ago? He got arrested by the Order Penitentiary recently, so he might be heading to the Pilgrim's Sail soon.\n:'''Giovanna:''' Poor boy... I hope he can clear his name and return repented.\n:'''Marissa:''' Sentinel's grace, Giovanna! Please don't say that. Gavino is a good child, and there is no sin in him.\n----\n;(After {{Quest|Dawn Breaks on Dark Tides}}\n:{{Spoiler}}\n:'''Marissa:''' Gavino made it back home safe and sound... what a relief.\n:'''Giovanna:''' He's a lucky one. Granted absolution before stepping aboard the Sail.\n:'''Marissa:''' I wonder if the Pilgrim's Sail will soon be a thing of the past... Hopefully, history won't repeat itself.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Marissa\n|zhs  = 玛丽莎\n|zht  = 瑪麗莎\n|ja   = マリーザ\n|ko   = 마리자\n|es   = Marissa\n|fr   = Marissa\n|de   = Marissa\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

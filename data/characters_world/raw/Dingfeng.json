@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:13Z",
+  "title": "Dingfeng",
+  "pageid": 4268,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Dingfeng.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Dingfeng''' is an NPC in [[Jinzhou]]. Appears in morning next to [[Chanxue]] in front of City Hall.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Dingfeng:''' Who gets scared of someone they have no connection with? It's absurd, haha.\n:'''Chanxue:''' I'm still here!\n:'''Dingfeng:''' Hahaha, I didn't say who it was.\n:'''Chanxue:''' I...\n:'''Dingfeng:''' It's fine, I've known [[Sanhua]] for a while. She might seem icy, but there's no need to worry.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dingfeng\n|zhs  = 鼎丰\n|zht  = 鼎豐\n|ja   = 鼎豊（テイホウ）\n|ko   = 정태\n|es   = Dingfeng\n|fr   = Dingfeng\n|de   = Dingfeng\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

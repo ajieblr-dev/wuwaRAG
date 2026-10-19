@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:39Z",
+  "title": "Avinoleum: Ground Remains",
+  "pageid": 31611,
+  "wikitext": "\u003c!-- remember there are two parts; sunken remains needs to be added to navbox --\u003e\n{{Stub}}\n{{Location Infobox\n|title=Avinoleum: Ground Remains\n|image=Avinoleum Ground Remains.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Beohr Trench\n}}\n\n'''Avinoleum: Ground Remains''' is an area of [[Beohr Waters]], [[Rinascita]]. \n==NPCs==\n{{NPCs by Location List|Avinoleum: Ground Remains}}\n==Other Languages==\n{{Other Languages\n|en   = Avinoleum: Ground Remains\n|zhs  = 阿维纽林・地上旧址\n|zht  = 阿維紐林・地上舊址\n|ja   = アヴィノレーム・地上遺跡\n|ko   = 아비놀륨 ・ 지상 유적\n|es   = Avinoleum: Ruinas en la superficie\n|fr   = Ruines d'Avinoleum sur terre\n|de   = Avinoleum - Oberirdische Ruinen\n}}\n\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

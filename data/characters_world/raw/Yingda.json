@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:11Z",
+  "title": "Yingda",
+  "pageid": 2639,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Yingda.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Yingda''' is an NPC in [[Huanglong]]. Yingda is the Captain of Chenbi and Shuhe. \n\n==Dialogue==\n{{Dialogue Start}}\n;(During the day)\n:'''Yingda:''' Hello, to schedule a meeting with the Jinzhou Magistrate, please submit the necessary paperwork.\n:{{DIcon}} Someone has already completed the procedures for me.\n:'''Yingda:''' OK, in that case, just produce it when you are at the meeting.\n:{{DIcon}} Why have you been staring over there?\n:'''Yingda:''' Hmm... It's part of my duties as a City Hall guard.\n:'''Yingda:''' But there might be other reasons. The two guards over there, [[Chenbi]] and [[Shuhe]]. I'm their leaders.\n:{{DIcon}} Why don't you trust Chenbi?\n::'''Yingda:''' Since her father died in the war, she's always wanted to complete her father's unfinished business.\n::'''Yingda:''' That's why she signed up to be a City Hall guard. If not shining as a [[Midnight Rangers|Midnight Ranger]], she's finding other ways to make a mark.\n::'''Yingda:''' But you know, they're young, and already a few days on guard duty has them so stressed. I do find it concerning.\n:{{DIcon}} Why don't you trust Shuhe?\n::'''Yingda:''' Him? That kid's got all the strength in the world.\n::'''Yingda:''' It's just that sometimes, once she decides on something, she will never change her mind. She's straightforward and a bit stubborn...\n----\n;(During the evening)\n:'''Yingda:''' City Hall is the heart of Jinzhou.\n:'''Yingda:''' I need to give everything I have for the event happening today.\n:'''Yingda:''' I hope they grow competent enough soon...\n{{Dialogue End}}\n\n==Trivia==\n*At night around 18:00, [[Yingda]] calls over [[Shuhe]] and [[Chenbi]] from their post to talk. The two will return to their post at 21:00.\n{{Description|Yingda: The number of applications for meetings at City Hall is on the rise.\u003cbr\u003eYingda:I'm not sure if Chenbi and Shuhe are up for this challenge...\u003cbr\u003eYingda: Chenbi, Shuhe, come here.\u003cbr\u003eChenbi: Captain...\u003cbr\u003eYingda: Anything unusual?\u003cbr\u003eShuhe: Not really.\u003cbr\u003eShuhe: But those rejected by Lady Sanhua just won't leave.\u003cbr\u003eChenbi: Maybe they really have important causes... \u003cbr\u003eChenbi: But no matter what, our first duty is to  do our jobs well.\u003cbr\u003eYingda: Very well, our main goal is to maintain order in City Hall, no matter the circumstances.\u003cbr\u003eYingda: Please report any issues immediately.}}\n\n==Note==\n*There is a translation error where he misgenders Shuhe.\n\n==Other Languages==\n{{Other Languages\n|en   = Yingda\n|zhs  = 英达\n|zht  = 英達\n|ja   = 英達（エイタツ）\n|ko   = 영달\n|es   = Yingda\n|fr   = Yingda\n|de   = Yingda\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Note",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

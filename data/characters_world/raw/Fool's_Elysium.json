@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:32Z",
+  "title": "Fool's Elysium",
+  "pageid": 26410,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Fool's Elysium\n|image=Fool's Elysium.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Penitent's End\n}}\n{{Quote|The Fool's Troupe travels across all of Rinascita, but their base sits in a vast cavern on Penitent's End. Their creed is freedom, their treasure is laughter, and their gift to every city they visit is a new tale.}}\n\n'''Fool's Elysium''' is an area of [[Penitent's End]], [[Rinascita]]. \n\n==NPCs==\n{{NPCs by Location List|Fool's Elysium}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fool's Elysium\n|zhs  = 愚人乐土\n|zht  = 愚人樂土\n|ja   = {{Rubi|愚者|ぐしゃ}}の{{Rubi|楽園|らくえん}}\n|ko   = 우인 낙원\n|es   = Elíseo de los Torpes\n|fr   = Paradis des Fous\n|de   = Paradies der Narren\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}\n\n[[Category:Troupe of Fools]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

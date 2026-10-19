@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:22Z",
+  "title": "Shade Ridge",
+  "pageid": 2192,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Shade Ridge\n|image=Shade Ridge.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Jinzhou\n}}\n'''Shade Ridge''' is a mountain and area in the southeast part of [[Jinzhou]].\n\n[[Jinzhou]] is the most recent city established in [[Huanglong]]. Situated on the northern border of Huanglong, nestled within the expanse of a great lake, embraced by waters on three sides and cradled by mountains on the fourth. Shade Ridge is one of these mountains.\n\n==Quests==\nThis location is a part of the following quests:\n* [[The Past is the Future: Introduction]]\n\n==NPCs==\n{{NPCs by Location List|Shade Ridge}}\n\n==Other Languages==\n{{Other Languages\n|en   = Shade Ridge\n|zhs  = 屛庭山\n|zht  = 屛庭山\n|ja   = {{Rubi|屏庭山|へいていざん}}\n|ko   = 병정산\n|es   = Cresta de la Sombra\n|fr   = Crête couvrante\n|de   = Berg Pingting\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

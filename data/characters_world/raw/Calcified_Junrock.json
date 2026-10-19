@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:51Z",
+  "title": "Calcified Junrock",
+  "pageid": 28097,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name = Calcified Junrock\n|image = Calcified Junrock Icon.png\n|dmgtype = Physical\n|echo = Yes\n|class = Common\n|family        = Tacet Discord\n|group         = Tranquilite\n|nation        = Rinascita\n|region = \n|subregion = \n|drops = \n}}\n{{Description|A {{Not a typo|rpck}}-mimic TD that carries Resonant Calcite. The Remnant Energy flowing inside shimmers with a pearly glow.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Common Tranquilite}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies|Calcified Junrock|customheader=Calcified Junrocks}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES|nobold=1}} to {{Color|Glacio|Glacio DMG|nobold=1}}. \nA rock-mimic TD that carries Resonant Calcite. The Remnant Energy flowing inside shimmers with an ever-changing pearly glow.\nWhen agitated, Calcified Junrock flashes a dazzling light from its calcified exterior.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en  = Calcified Junrock\n|zhs = 釉变幼岩\n|zht = 釉變幼岩\n|ja  = ミカーレの岩塊\n|ko  = 유약 암괴\n|es  = Junroca Calcificada\n|fr  = Jeunpierre vernie\n|de  = Glasierter Jungstein\n}}\n\n\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

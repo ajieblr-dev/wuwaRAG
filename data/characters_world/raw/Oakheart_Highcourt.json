@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:55Z",
+  "title": "Oakheart Highcourt",
+  "pageid": 26413,
+  "wikitext": "{{Location Infobox\n|title=Oakheart Highcourt\n|image=Oakheart Highcourt.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Fagaceae Peninsula\n}}\n\n'''Oakheart Highcourt''' is a large maze within [[Fagaceae Peninsula]], [[Rinascita]]. At the center lies the [[The Lifer]].\n\u003c!--==NPCs==\n{{NPCs by Location List|Oakheart Highcourt}}--\u003e\n\n==Trophies==\n*[[Alpha Go]] - Lose to the Lifer 10x\n*[[Limit of Intelligence]] - Beat the Lifer in the board game. \n*[[The Lifer's Salvation]] - Defeat the Lifer\n*[[The Ring of The Lifer]] - Unlock all chambers and open the chests within, and the last chest given by defeating the Lifer.\n\n----\n===Locked Chest Mini-Game===\n*Unlocking the north chamber will lead to a locked Treasure Chest, where players must answer the correct questions based on the enemy fought. Answering with the wrong answer will re-spawn the enemies.\n\n==Interactables==\n{{#dpl:|category = Oakheart Highcourt Terminology|ordermethod= title}}\n\n===Stone Tablets - \"-a past buried deep\"===\n{{Stub Dialogue}}\n{{Dialogue Start}}\n:Unfamiliar voices rise around you. By intuition, you realize that they belong to a past buried deep.\n:Serious Male Acolyte: How dare you bring these Echoes into the divine garden, without the Primus' or my permission! Do you grasp the weight of your transgression?\n:Devout Female Acolyte: By the Sentinel's grace, I swear I acted with pure intentions! These poor things... I just encountered them on my way to the garden! Please, I'm telling nothing but the truth!\n:Serious Male Acolyte: Reckless! Do you not see the danger you bring upon the Primus? Enough chicanery. A pilgrimage to the north awaits you—for true reflection and atonement.\n:Devout Female Acolyte: The north... to the Shores of Last Breath? No one has returned from there! Please, I need to see the Primus!\n:Serious Male Acolyte: Such an audience is beyond you now, for you have wandered too far from righteousness. Go forth. This is your last chance at salvation.\n:Devout Female Acolyte: No! Please, let me see the Primus! I'm begging you! O Sentinel above, have mercy on me...\n----\n:Have you ever tasted the Viscum Berry?\n\n:No, Primus… How could I do this to the divine embodiment of our Sentinel?,\n\n:Fear not, Acolyte. I am certain They will not be displeased.\n:The revered Quercus They have manifested leans upon the windows and domes, its blossoms and fruit both beautiful and divine.\n:Born from prophecy, the Viscum Berry is etched in the inscriptions. Consume it, and the gaze of our Divinity you've deeply yearned for shall rest upon you.\n\n:Primus… Are you saying you've granted those people's request?\n:They would make barrels from the Quercus, brew wine with the Viscum Berries… How can we allow such a desecration?\n\n:...Watch your mouth, Acolyte.\n:Tell me, have you had the Nectarwine this day?\n\n:What do you mean, Primus? I've never... Arrgh... No...\n\n:I see. You are too drunk to speak.\n:You shall reunite with the Sentinel in your dreams, good Acolyte. For one as faithful as you, Their sacred land surely awaits. May you find eternal rest in Their embrace.\n----\n:Why do you still refuse to place your faith in our great Sentinel?\n\n:For we place our trust in blades, shields, and in the resolve to command our own fate.\n\n:Then hear me, and hear me well—Ragunna will never welcome the likes of you.\n\n:Fine by me! I'd sooner choke than breathe the same air as you, sniveling Ragunnesi!\n\n:Such profanity… Those who worship at the altar of worldly desires will find no blessings from Imperator!\n----\n:Unfamiliar voices rise around you. By intuition, you realize that they belong to a past buried deep.\n:Serious Male Acolyte: These Echoes... How do you intend to handle them?\n:Deep Male Voice: They shall reveal the truth of this world to us.\n:Deep Male Voice: This one will serve as the black piece, embodying mortal desires and worldly needs.\n:Deep Male Voice: This one will serve as the white piece, guiding the faithful of Ragunna on the right path.\n:Deep Male Voice: And the last one...\n:Deep Male Voice: The board has no room left for it. Therefore, it shall remain here as the Lifer, to continue this game on my behalf.\n:Deep Male Voice: Lifer, I command you: you will never leave this garden, never stray beyond this board.\n:The Lifer: Leave... here...\n:Deep Male Voice: From this moment on, you are bound to this secret, now and forever.\n:The Lifer: Leave... here!\n\n:Suddenly, the inscription texts before you begin to swell and rise, like bubbles breaking the surface of water... And the next moment, the phantom of texts raises a blade against you.\n\n;(Defeat the phantoms)\n:You strike at the phantoms before you, but before your blade could reach them, they dissolve into thin air.\n:Somehow, you feel as if you've finally emerged from deep water, breathing in fresh air anew.\n:Rover: That feeling... Have I been hallucinating? When did it even begin? When I entered this maze, perhaps?\n:Rover: Those must be the Echoes who were accidentally brought to this garden.\n:Rover: Black piece, white piece, and the lifer...what do they represent, exactly?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Oakheart Highcourt\n|zhs  = 青栎庭院\n|zht  = 青櫟庭院\n|ja   = オークの庭\n|ko   = 푸른 참나무 정원\n|es   = Jardín de Robles\n|fr   = Cour de Cœur-de-Chêne\n|de   = Eichenherz Hochhof\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Locked Chest Mini-Game",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Interactables",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Stone Tablets - \"-a past buried deep\"",
+      "number": "2.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "7"
+    }
+  ]
+}

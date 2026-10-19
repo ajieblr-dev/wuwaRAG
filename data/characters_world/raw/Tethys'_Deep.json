@@ -1,0 +1,114 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:42Z",
+  "title": "Tethys' Deep",
+  "pageid": 21832,
+  "wikitext": "{{Location Tabs|Map:Tethys' Deep}}\n{{Stub}}\n{{Location Infobox\n|title        = Tethys' Deep\n|image        = \u003cgallery\u003e\nheihaian2.png|In-Game\nTethys' Deep Map Template.png|Map\n\u003c/gallery\u003e\n|type         = Region\n|map          = Solaris-3\n|event        = \n|nation       = The Black Shores\n}}\n{{Quote|Here sits the Black Shores' Lament observation hub, the heart of the Tethys System. Its high-dimensional code stretches across the vast underground sky like ever-shifting celestial bodies, known as the \"Stellar Matrices.\"|[https://wutheringwaves.kurogames.com/en/main#regions Wuthering Waves Official Website]}}\n{{Intro/Location|Tethys' Deep}} Access is unlocked during [[Legacy of the Lasting Night]].\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n! Description\n|- id=\"Bank of Life\"\n|[[Bank of Life]] \n|[[File:Bank of Life.png|180px]]\u003cbr /\u003e\n|The plant archive in Tethys' Deep, the Black Shores' underground area. Here, seeds collected by Bloom Bearers and Consultants from around the world are carefully nurtured by robot attendants. This vibrant underground section is where Solaris' flora gets systematically categorized.\n|- id=\"Data Torrent\"\n|[[Data Torrent]]\n|[[File:Data Torrent.png|180px]]\u003cbr /\u003e\n|The Data Torrent connecting all the Nexus on this planet continuously transfers information about abnormal fluctuations caused by the Lament and Waveworn back to the Stellar Matrix. The Stellar Matrix then constructs models to predict the location and time of the next Lament. However, it must be noted that the raw energy of the Data Torrent is capable of annihilating any physical entity caught in its flow.\n|- id=\"Eidoscope\"\n|[[Eidoscope]]\n|[[File:Eidoscope.png|180px]]\u003cbr /\u003e\n|The garden, nestled within the depths of the subterranean galaxy, serves as the lens to observe its great expanse. It is said that the garden existed well before the founding of the Black Shores, functioning as the eye that gazes upon the stars. However, what the eye perceives may remain unknown to the heart. What truths lie behind these supreme concepts?\n|- id=\"Energy Hub\"\n|[[Energy Hub]]\n|[[File:Energy Hub.png|180px]]\u003cbr /\u003e\n|The Energy Hub houses KU-Roro charging stations, where KU-Roros (aka Tethys Terminals) return to recharge and \"rest\" when their energy reserves run low.\n|- id=\"Error Cell\"\n|[[Error Cell]]\n|[[File:Error Cell.png|180px]]\u003cbr /\u003e\n|The Stellar Matrices' orbital dance represents the execution of complex, high-dimensional code. As these celestial bodies collide, merge, and collapse, the code evolves through countless iterations. Occasionally, this process spawns errant code within some Stellar Matrices. To avoid contamination, the Black Shores contains these Stellar Matrices in special Tacetite vessels. The Error Cell then analyzes the aberrant data, deploying specialized probes to isolate the rogue code segments.\n|- id=\"Modulation Hall\"\n|[[Modulation Hall]]\n|[[File:Modulation Hall.png|180px]]\u003cbr /\u003e\n|The lighthouse of the subterranean galaxy and the heart of human activity in the Black Shores. It is where \"Modulator\" of the past and people of the present observe and guide the course of stars in the vast underground sky. Through here all beings are reborn as stars, which, in turn, reflect brief moments of reality. With the power of the Tethys System, Star Matrices brought to this place can reveal glimpses of the past, whether of destruction or renewal.\n|}\n\n==Notes and Points of Interests==\n===KU-Roro Charging Stations===\nNestled in Tethys' Deep, KU-Roro Charging Station is where KU-Roros (aka Tethys Terminals) return to recharge and \"rest\" when their energy reserves run low.\n\n===Tethys' Space Anchors===\nThese stabilizing devices are strategically positioned throughout the surface and underground parts of the Black Shores. Their primary function is to calibrate and stabilize the frequencies of the giant Tacetite that makes up the island, effectively isolating the Tethys System's virtual layer from reality. Additionally, these Anchors facilitate communication and carry the responsibility of observing the Etheric Sea, eliminating the need to build a Nexus Tower in the Black Shores.\n\nThe Anchors drew inspiration from the reactor control rods used in pre-Lament reactor engineering. They are considered exemplary models of the Black Shores' minimalist engineering design. In the Black Shores, reality and data intertwine as one. Through this connection, we explore the many paths by which civilizations may endure.\n\n===[[End of Wandering]]===\nOn the virtual shores, deep within the Tethys System, lies the ultimate destination of the Black Shores in a distant future. The tides of fate bring the lost traveler to this place, where their journey finds their end. It is a location exclusively accessible by [[Rover]] and [[Shorekeeper]].\u003cref\u003eArticle: [[Wutherium Geographic: Lands and Waters — The Black Shores Vol. 2]]\u003c/ref\u003e\u003cref\u003e{{Quest|To the Shore's End}}\u003c/ref\u003e\n\n==Interactable== \n{{#dpl:|category = Tethys' Deep Terminology|ordermethod= title}}\n\n==Quests==\n{{Quest by Category List|Tethys' Deep Quests}}\n\n==Exploration Report==\n===Advanced Introduction to the Black Shores I===\n\n*Unlocked by reaching 50% exploration.\n\n{{Transclude|Advanced Introduction to the Black Shores I|Text|main=1}}\n\n===Advanced Introduction to the Black Shores II===\n\n*Unlocked by reaching 100% exploration.\n\n{{Transclude|Advanced Introduction to the Black Shores II|Text|main=1}}\n\n==Gallery==\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=location}}\n\n==Other Languages==\n{{Other Languages\n|en   = Tethys' Deep\n|zhs  = 泰缇斯之底\n|zht  = 泰緹斯之底\n|ja   = テティスの底\n|ko   = 테티스 지하\n|es   = Fondo de Tetis\n|fr   = Profondeur de Tethys\n|de   = Tethys' Tiefen\n|th   = \n}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Template:Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notes and Points of Interests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "KU-Roro Charging Stations",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tethys' Space Anchors",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "End of Wandering",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Interactable",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Advanced Introduction to the Black Shores I",
+      "number": "5.1",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Advanced Introduction to the Black Shores II",
+      "number": "5.2",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "8",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "9",
+      "index": "14"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "10",
+      "index": "15"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:56Z",
+  "title": "Ostina",
+  "pageid": 32775,
+  "wikitext": "{{Location Infobox\n|title        = Ostina\n|image        = Ostina Cutscene.jpg\n|type         = Town\n|map          = Solaris-3\n|event        = \n|nation       =\n}}\nOstina is the name of an ancient town in an unknown nation. It is the birthplace of [[Phrolova]], and it is recreated in her Sonoro Sphere called the [[Lost Beyond]]. \n\nAfter being destroyed by a sudden meteorite impact in the real world, a concert hall was built on top of its remains.\u003cref\u003eDreamcatchers in the Secret Gardens\u003c/ref\u003e\n\n==Residents==\n* [[Aeschylus]]\n* [[Searle|Caleres]]\n* [[Searle|Denali]]\n* [[Ynkwell|Grace]]\n* [[Leah]]\n* [[Luneau]]\n* [[Melissa]]\n* [[Luneau|Noemie]]\n* [[Phrolova]]\n* [[Pier]]\n* [[Searle|Samp]]\n* [[Searle]]\n* [[Triss]]\n* [[Ynkwell]]\n\n==Trivia==\n* It is possible that the name \"Ostina\" is derived from the musical term ''[https://en.wikipedia.org/wiki/Ostinato ostinato]'', referring to a motif, phrase, or melody consistently repeated in a musical piece.\n** Outside of music, Italian ''ostinato'' (English: [https://en.wiktionary.org/wiki/obstinate#Adjective obstinate]) refers to an intense level of stubbornness or persistence that may be viewed as irrational.\n** This would align with Phrolova's unshakeable attachment to the town and its residents, despite it having been destroyed centuries ago.\n** It is also possible that the name is inspired by the Roman port city of [https://en.wikipedia.org/wiki/Ostia_(Rome) Ostia] on the Tyrrhenian Sea.\n* It is worth noting that the town's architecture is similar to that of Ragunna; which is inspired by Venetian architecture in turn.\n* Phrolova mother, '''Betty''', reverberation is nowhere to be found.\n==References==\n\u003creferences /\u003e\n\n==Navigation==\n{{Location Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Residents",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

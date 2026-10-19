@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:03Z",
+  "title": "Jason",
+  "pageid": 38413,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Jason.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Rabelle College\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Jason''' is a male Syncronist student being followed by a Preparatory Program student, '''Shingo'''.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Jason:''' You've been following me for quite a while now.\n:'''Shingo:''' Sorry... I just wanted to see what makes Synchronists different...\n:'''Shingo:''' No creepy stuff, I promise! Look, these are my notes—\n:'''Shingo:''' Wake up at 7:30 AM, wash and dress in under a minute, scar down breakfast in five, and absolutely no sweets... Is giving up sugar the price of becoming a Synchronist?\n:'''Jason:''' Okay, first off, please stop. And I've only been cutting sugar recently.\n:'''Jason:''' There's nothing different about Synchronists. We laugh and cry, fight over cafeteria food, stress about exams... And if you punch me, I'll bruise like anyone else.\n:'''Jason:''' I guess we're all good at different things. Some of us happen to be wired for piloting.\n:'''Shingo:''' I understand... Then how do I get as strong as you? You're at the top of the Voidmatter Enviornment Combat Test every year!\n:'''Shingo:''' Is it because you do 100 push-ups, 100 sit-ups, 100 squats, and a 10km run every day?\n:'''Jason:''' Staying fit never hurts. But take it at your own pace. That's just my own personal routine...\n{{Dialogue End}}\n\n==Trivia==\n* The \"100 push-ups, 100 sit-ups, 100 squats, and a 10km run every day\" is a reference to the web comic/manga/anime, ''One Punch Man''.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jason\n|zhs  = 杰森\n|zht  = 傑森\n|ja   = ジェイソン\n|ko   = 제이슨\n|fr   = Jason\n|de   = Jason\n|es   = Jason\n|th   = Jason\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

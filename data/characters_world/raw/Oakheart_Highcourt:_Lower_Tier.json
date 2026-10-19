@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:54Z",
+  "title": "Oakheart Highcourt: Lower Tier",
+  "pageid": 26414,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Oakheart Highcourt: Lower Tier\n|image=Oakheart Highcourt Lower Tier.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Fagaceae Peninsula\n}}\n\n'''Oakheart Highcourt Lower Tier''' is an area of [[Fagaceae Peninsula]], [[Rinascita]]. \n\n==NPCs==\n{{NPCs by Location List|Oakheart Highcourt Lower Tier}}\n\n==Other Languages==\n{{Other Languages\n|en   = Oakheart Highcourt: Lower Tier\n|zhs  = 青栎庭院・下层\n|zht  = 青櫟庭院・下層\n|ja   = オークの庭・下層\n|ko   = 푸른 참나무 정원 ・ 아래층\n|es   = Jardín de Robles: Inferior\n|fr   = Cour de Cœur-de-Chêne : II\n|de   = Eichenherz Hochhof: Unterer Bereich\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox}}\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

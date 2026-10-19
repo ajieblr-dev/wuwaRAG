@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:26Z",
+  "title": "Figaro",
+  "pageid": 26092,
+  "wikitext": "{{NPC Infobox\n|name             = Figaro\n|image            = NPC Figaro.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|affiliation      = Order of the Deep\n}}\n'''Figaro''' is an Acolyte NPC in Ragunna Ciy, {{Location|City Square|nocat=1}}, by the [[Resonance Nexus|Genesis Nexus]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Figaro:''' Light of Genesis, lift me up...\n:'''Figaro:''' There's dust here again, better wipe it off quickly...\n:'''Figaro:''' I wipe, I wipe... too high, I can't reach!\n\n==Dialogue==\n;(First interaction)\n:'''Figaro:''' Light of Genesis, lift me up...\n:'''Figaro:''' There's dust here again, better wipe it off quickly... I wipe, I wipe... too high, I can't reach!\n:{{DIcon}} About the [[Resonance Nexus|Genesis Nexus]]...\n:'''Figaro:''' This Genesis Nexus, isn't it magnificent? They say it has existed since before our civilization. It's an engineering marvel achievable only through the [[Imperator|Sentinel]]'s divine work!\n:'''Figaro:''' The most unique ability of the Genesis Nexus is to allow the Echoes within its Data Bank to exist in a tangible state for an extended period.\n:'''Figaro:''' The Sentinel once bestowed Their authority upon the Order, granting them control over the Genesis Nexus and the ownership of the Echoes within its Data Bank.\n:'''Figaro:''' Certainly, based on the benevolent and compassionate principles of the Sentinel, we have shared the use of [[Common Echoes]] with the people, hoping Their miracles will spread across the land.\n:'''Figaro:''' I am only responsible for the basic maintenance of the Genesis Nexus. For specific issues regarding the Echo within the Data Bank, you can consult Acolyte [[Tulio]] of the Servitude Hall.\n:'''Figaro:''' He often comes here to deposit frequency samples for the Genesis Nexus. But his duties with the Servitude Hall keep him busy; to see Acolyte Tulio, you'll need a bit of luck.\n----\n{{Stub|Double check accuracy, add {{sic}} to any grammar mistakes.}}\n;(After Tulio disappearance)\n:'''Figaro:''' Tulio, oh, Tulio...\n:'''Figaro:''' Where has Acolyte Tulio been lately?\n:'''Figaro:''' Tulio... sigh... I must admit, among the Servitude Hall, he has the deepest knowledge of Echoes.\n:'''Figaro:''' He is passionate about the Echo, unwavering loyal to the Sentinel, and leads by example in everything he does... yet he is so... obstinate...\n:'''Figaro:''' Fae Ignis migrations have already happened several times. If this isn't an isolated case, then Rinascita's Echoes and Tacet Discords may all be affected to varying degrees.\n:'''Figaro:''' At his strong insistence, the Servitude Hall reported the matter to the higher-ups of the Order and proposed organizing a field investigation of the Penitent's End.\n:'''Figaro:''' The Order's leadership, however, did not approve this plan for various reasons.\n:'''Figaro:''' Who knows, Tulio went alone to Penitent's End one night... and never returned...\n:'''Figaro:''' How could this be...\n:'''Figaro:''' Perhaps he's still alive...\n:'''Figaro:''' Perhaps he isn't dead... I hope... maybe he just lost his way in the island's mist...\n:'''Figaro:''' Yes, maybe he isn't dead... I share that hope... perhaps he's just lost in the mist...\n:'''Figaro:''' O' dear Sentinel, if you ever looked upon us, please grant this devout Acolyte peace and protection... bring this lost soul back to us...\n{{Dialogue End}}\n\n==Note==\n* There is a bug where Figaro appears in both his previous and new location after the disappearance of Tulio. Only his previous location self can be interacted with. \n\n==Other Languages==\n{{Other Languages\n|en   = Figaro\n|zhs  = 费加罗\n|zht  = 費加羅\n|ja   = フィガロー\n|ko   = 페가로\n|es   = Figaro\n|fr   = Figaro\n|de   = Figaro\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Note",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:11Z",
+  "title": "KU-Repair",
+  "pageid": 22189,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|name             = KU-Repair\n|image            = NPC KU-Repair.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Tethys' Deep\n|group            = \n|affiliation      = Black Shores\n|title            = \n|species          = KU-Roro\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Ku-Repair''' is a Quest exclusive KU-Roro NPC found at [[Error Cell]], [[Tethys' Deep]].\n==Quests and Events==\n{{Quests and Events|KU-Repair}}\n\u003c!---\n==Dialogue==\n{{Dialogue Start}}\n{{Dialogue End}}\n---\u003e\n==Other Languages==\n{{Other Languages\n|en      = KU-Repair\n|zhs     = 库库修\n|zht     = 庫庫修\n|ja      = ククシュ\n|ko      = 쿠ㆍ쿠휴\n|es      = KU-Repair\n|fr      = KU-Répare\n|de      = KU-Reparatur\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

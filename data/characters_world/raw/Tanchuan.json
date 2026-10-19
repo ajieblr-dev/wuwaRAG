@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:40Z",
+  "title": "Tanchuan",
+  "pageid": 9195,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Tanchuan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = Lollo Logistics\n|title            = \n}}\n{{Lang|Tanchuan|zh= 探川}} is a Lollo Logistic NPC located in {{Location|Hongzhen}}. After helping [[Yinyu]] dilemma, Tanchuan finds new motivation to continue their work.\n\n\u003c!--==Quests and Events==\n{{Quests and Events}}--\u003e\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} No, no...\n\u003c!--::{{A|VO Siqi 01.ogg}} \"{{tx}}\"--\u003e\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction)\n{{tx}}\n----\n;(Talk to again after helping Yinyu)\n:'''Tanchuan''': I must thank you.\n:{{DIcon}} What for?\n:'''Tanchuan''': I saw how much the local girl you helped has blossomed. You know, the one named Yinyu. She's now a famous guide in Hongzhen.\n:'''Tanchuan''': Her story doesn't have much to do with me, but I'm truly motivated by her growth.\n:'''Tanchuan''': When Lollo Logistics decided to expand into Mt. Firmament, I volunteered for the job, only to run headlong into a bunch of messy problems.\n:'''Tanchuan''': I even considered transferring back to Jinzhou or quitting altogether.\n:'''Tanchuan''': But then I saw Yinyu making us locals proud and building herself quite a name as a guide.\n:'''Tanchuan''': And it made me think, maybe I could ship Mt. Firmament's specialties to Jinzhou using Lollo Logistics and help local sellers reach new markets.\n:'''Tanchuan''': I don't know if it will work, but Mt. Firmament is a different animal. Instead of sticking to traditional logistics services, it might be better to incorporate some local flavor.\n:'''Tanchuan''': I won't be quitting anytime soon, at least.\n{{Dialogue End}}\n----\n==Other Languages==\n{{Other Languages\n|en   = Tanchuan\n|zhs  = 探川\n|zht  = 探川\n|ja   = 探川（タンセン）\n|ko   = 택현\n|es   = Tanchuan\n|fr   = Tanchuan\n|de   = Tanchuan\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

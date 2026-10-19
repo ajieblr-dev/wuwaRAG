@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:16Z",
+  "title": "Eastern Xuan Peaks",
+  "pageid": 42275,
+  "wikitext": "{{Location Infobox\n|title  = Eastern Xuan Peaks\n|image  = Eastern Xuan Peaks.png\n|type   = Region\n|map    = Solaris-3\n|nation = Huanglong\n}}\n{{Intro/Location|Eastern Xuan Peaks}} \n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n! Description\n|-\n|[[File:Xianling Village.png|180px]]\u003cbr /\u003e[[Xianling Village]]\n|\n|-\n|[[File:Fogveil Pagoda.png|180px]]\u003cbr /\u003e[[Fogveil Pagoda]]\n|A pagoda of mechanisms in the Land of Xuanfang's Eastern Xuan Peaks. Its complex structure spills a ceaseless Disorienting Fog made up of frequencies that confound Tacet Discords, luring them into traps from which there is no escape.\n|-\n|[[File:Tranquil Ruins.png|180px]]\u003cbr /\u003e[[Tranquil Ruins]]\n|A scarred battlefield from the Fortress and Gorges War, one ignited over two centuries ago by Ovathrax. Countless soldiers gave their lives here, laying down everything to defend the home they held dear.\n|-\n|[[File:Boughrest Ridge.png|180px]]\u003cbr /\u003e[[Boughrest Ridge]]\n|\n|}\n\n\u003c!--===Points of Interest===\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Description\n|-\n|[[File: .png|180px]]\u003cbr /\u003e[[ ]]\n|\n|}\n--\u003e\n==Quests==\n{{Quest by Category List|Eastern Xuan Peaks Quests}}\n\u003c!--\n==Exploration Report==\n===The Living World: Land of Xuanfang—Excerpt I===\n*Unlocked by reaching 50% exploration.\n\n{{Transclude|The Living World: Land of Xuanfang—Excerpt I|Text|main=1}}\n\n===The Living World: Land of Xuanfang—Excerpt II ===\n*Unlocked by reaching 100% exploration.\n\n{{Transclude|The Living World: Land of Xuanfang—Excerpt II|Text|main=1}}\n--\u003e\n==Notable Features==\n===Challenges===\n*[[Eastern Xuan Peaks Tacet Field]]\n*[[Tactical Hologram: Sparring]]\n\n===Bosses===\n*{{Enemy|Thousand-Puppet Pavilion}}\n\u003c!--\n===Enemies===\n====Elite Class====\n*\n====Common Class====\n*\n--\u003e\n===Resources===\n*{{Item|Cloudperch Seed}}\n*{{Item|Flowborne Dream}}\n*{{Item|Blade Blossom}}\n*{{Item|Climber Shoots}}\n*{{Item|Floral Crest Jade}}\n*{{Item|Opus Stone}}\n\u003c!--\n==Trivia==\nsomeone's gonna work out something cool about its architecture or whatever, and we put that info here.\n--\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Eastern Xuan Peaks\n|zhs  = 玄幽东岳\n|zht  = 玄幽東嶽\n|ja   = {{rubi|玄幽東岳|げんゆうとうがく}}\n|ko   = 현유동악\n|fr   = Mont Xuan à l'est\n|de   = Östliche Xuan-Gipfel\n|es   = Picos Orientales Xuan\n|th   = ขุนเขาเสวียนโยว\n|pt   = Picos Orientais de Xuan\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[zh:玄幽东岳]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "3.3",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "10"
+    }
+  ]
+}

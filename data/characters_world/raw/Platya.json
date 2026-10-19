@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:02Z",
+  "title": "Platya",
+  "pageid": 22071,
+  "wikitext": ":{{Spoiler}}\n{{NPC Infobox\n|image            = Platya.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Black Shores Archipelago\n|group            = \n|affiliation      = Black Shores\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Platya''' is a female Black Shores member. It is later revealed she was originally from [[Chronorift Metropolis|Honami City]]. \n\n==Quests and Events==\n{{Quests and Events|Platya}}\n\n==Location==\n{{Map Embed|Black Shores|Platya}}\n{{Map Embed|Chronorift Metropolis|Platya}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the day)\n:'''Platya:''' Hope I can see it sprout one day...\n:{{DIcon}} What are you doing here?\n:'''Platya:''' Uh, are you asking me? I-I'm just watching the seed I planted... Sorry, am I bothering you?\n:{{DIcon}} Not at all. I'm just wandering around.\n::'''Platya:''' I see. Do you enjoy these flowers too?\n::'''Platya:''' Every plant here carries the experiences of its owner. Some are pleasant, some regretful. They're like living memories of our past.\n::'''Platya:''' Did you plant anything here? If so, I wonder what stories it might tell.\n::'''Platya:''' I come here often, praying for my platycodon seed to bloom someday.\n:{{DIcon}} What did you plant?\n::'''Platya:''' It's platycodon, a flower from my hometown. When I planted it here, I didn't realize it would be the last of its kind.\n::{{DIcon}} Your hometown...\n::'''Platya:''' It was destroyed in the Lament. This seed is all that's left now, the only proof of its existence.\n::'''Platya:''' Do you think... the Lament can truly erase everything?\n::'''Platya:''' I returned to the ruins of my hometown as an agent, hoping to collect leftover Reverberations, thinking I might uncover the truth of the disaster or find traces of the past.\n::'''Platya:''' But I was wrong. Everything I knew is gone, existing only in my memories.\n::'''Platya:''' However, what if those memories fade with time? What if I forget them, and start to believe they never existed at all...\n::'''Platya:''' No... As long as I have this flower, I'll never forget them.\n----\n;(At night)\n:Platya gazes at the sea, lost in silence.\n:She's looking toward where her hometown once stood.\n----\n;(After completing {{Quest|Stagnant Dawn on Wastelands}}, she'll appear outside the cafe of [[Chronorift Metropolis]])\n:'''Platya:''' I remember this Crossing. When I was little, my younger sister and I once snuck out to play in the shopping mall. Oh, we had a blast that whole afternoon...\n:{{DIcon}} So Honami is your hometown?\n:'''Platya:''' Yes, it is. I was on a train leaving Honami when the Lament struck. I, uh... I had a fight with my parents.\n:{{DIcon}} I'm sorry.\n::'''Platya:''' Oh, don't be. That was years ago.\n:{{DIcon}} You still look really young.\n::'''Platya:''' My Resonance ability might not be the strongest out there, but it gives me plenty of time to feel the world.\n:'''Platya:''' In the real world, all that's left of Honami is this giant Tacet Field. But inside this [[Sonoro Sphere]], it still exists. \n:'''Platya:''' To me, the things I need to do stay the same. Collect Reverberations, analyze traces of the Lament, and then... search for the truth.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Platya\n|zhs  = 桔梗\n|zht  = 桔梗\n|ja   = 桔梗（キキョウ）\n|ko   = 길경\n|es   = Platya\n|fr   = Platya\n|de   = Ballonblumen\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

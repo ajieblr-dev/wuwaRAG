@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:12Z",
+  "title": "Karle",
+  "pageid": 39192,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Karle.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Square\n|group            = \n|affiliation      = Startorch Academy\n}}\n'''{{PAGENAME}}''' is a NPC male researcher found at night nearby the {{Rubi|Solis Lens Array|Lahai-Roi Resonance Nexus}}.\n\n{{Dialogue Start}}\n==Dialogue==\n:'''Karele:''' ...Based on the Roya tribe's records from before the [[Spacetrek Collective]], and the Voidwatch Tower's monitoring logs...\n:'''Karele:''' Natural Void Storms have never appeared in [[Bjartr Woods]] or [[Sundermere]].\n:'''Karele:''' Could it be... that the [[Exostrider]]'s greatsword and the giant trees in the woods... somehow ''repel'' Voidmatter?\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Karle\n|zhs  = 卡尔勒\n|zht  = 卡爾勒\n|ja   = カールレ\n|ko   = 카를레\n|fr   = Karle\n|de   = Karle\n|es   = Karle\n|th   = Karle\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

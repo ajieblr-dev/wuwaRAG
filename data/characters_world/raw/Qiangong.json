@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:04Z",
+  "title": "Qiangong",
+  "pageid": 73567,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Department of Exostrider Engineering\n|title            = \n}}\n'''{{PAGENAME}}''' is a male NPC found at Synth Armament Crafting Bay with a Mechascout. \n\n{{Dialogue Start}}\n==Idle==\n:;'''Mechascout''' Hot, hot, hot, hot, hot...\n:;'''Qiangong''' There we go, that should fix it...\n\n==Dialogue==\n:'''Mechascout:''' Hot, hot, hot, hot, hot...\n:'''Qiangong:''' There we go, that should fix it...\n:'''Qiangong:''' Perfect timing... Hey, you! Got a sec? Want to help me test something?\n:{{DIcon|Arrow}} Sure, what is it?\n::'''Qiangong:''' Aside from its main job of fending off Void Storms, the Mechascout is also equipped with a module that measures how powerful someone's attacks are.\n::'''Qiangong:''' Pft, the Academy used to strictly ban that kind of \"walking by and giving a Mechascout a good whack\" thing…\n::'''Qiangong:''' Then they realized the stress was so bad, even some teachers were doing it... It's practically a public service at this point. So instead of cracking down, they decided to leave it as an outlet...\n::'''Qiangong:''' It'll block your hit with that huge shield and give you a fair score. Oh, and don't forget to wear your Terminal, or they'll mark you as a hostile.\n::{{DIcon}} Can we really do that?\n::{{DIcon}} What if I break it?\n::'''Qiangong:''' These mechs are basically walking \"Antivoid Canopies,\" don't underestimate their defense! And so far, no student has ever broken a Mechascout with one punch.\n::'''Qiangong:''' Reveal yourself! Everlasting Shield of Ideals! Oh, don't mind me, that's just the unlock code I set for it... Come on, give it everything you've got! If you break it, I'll take responsibility!\n::{{DIcon}} (Throw a light punch.)\n::{{DIcon}} (Strike it with everything you've got!)\n::'''Mechascout:''' Clang, clang... What an incredibly powerful stri-stri-stri-stri-strike... Your skills are truly rema-remarkable-ble-ble-ble...\n::(The mech in front of you shakes its head, finally coming to its senses after the impact. The symbols on its display slowly focus… Your final score is…)\n::'''Mechascout:''' ！@#￥%\u0026*()*\u0026#￥%\u0026*......\u003cb\u003e∞\u003c/b\u003e！\n::'''Qiangong:''' Th-this can't be right, can it? Is it acting up again?\n::'''Qiangong:''' What exactly went wrong...\n:{{DIcon|Exit}} Sorry, I don't have time for this now.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Qiangong\n|zhs  = 乾工\n|zht  = 乾工\n|ja   = 乾工\n|ko   = 건공\n|fr   = Qiangong\n|de   = Qiangong\n|es   = Qiangong\n|th   = Qiangong\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

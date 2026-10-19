@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:06Z",
+  "title": "Cueto",
+  "pageid": 26241,
+  "wikitext": "{{stub}}{{NPC Infobox\n|image            = NPC Cueto.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Bank Street\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Cueto''' is an NPC that appears in [[Ragunna]], [[Rinascita]].\n\nFrom 6:00 PM - 5:59 AM, he can be found talking to [[Ulma]] about Pizza Tropicale, which he believes is not a real pizza but actually a demon that nearly destroyed Ragunna.\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(At night)\n:'''Ulma:''' Hi there! I'm Ulma, an inspector for the Mochelin Dining Guide, and I'm currently working on the Ragunna Food Guide.\n:'''Cueto:''' Whoa! Welcome! Welcome! Ragunna has an endless array of culinary delights! We have Margherita Steak, Nectarwine, Pizza Classica, and Nuvola Pasta...\n:'''Ulma:''' Uhh, sorry to interrupt you. I actually wanted to ask how you feel about modified local dishes, like the Pizza Tropicale I just ordered.\n:'''Cueto:''' Hey! You! Watch it. That thing you just mentioned. IS. NOT. A. REAL. PIZZA!\n:'''Cueto:''' It's a demon that nearly destroyed Ragunna, a [[Threnodian]] trying to wipe out our culinary culture.\n:'''Ulma:''' Is it really that serious? But it looks just like any other pizza...\n:'''Cueto:''' We Ragunnesi would never consider Pizza Tropicale to be a real pizza! It's just a fruit tart that looks like a pizza!\n:'''Cueto:''' We're asking the Order to differentiate traditional pizza from this import in writing and pronunciation.\n:'''Ulma:''' That's a bit over the top...\n:'''Cueto:''' Over the top? Tell me, where are you from?\n:'''Ulma:''' Me? I'm originally from [[Huanglong]].\n:'''Cueto:''' What would you think if someone tossed canned fruit into [[Jinzhou Stew|Jinzhou stew]]?\n:'''Ulma:''' Oh my god, yuck! Okay, I see your point.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Cueto\n|zhs  = 奎托\n|zht  = 奎托\n|ja   = クラットー\n|ko   = 게토\n|es   = Cueto\n|fr   = Quinto\n|de   = Cueto\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

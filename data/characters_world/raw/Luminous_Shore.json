@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:29Z",
+  "title": "Luminous Shore",
+  "pageid": 9051,
+  "wikitext": "{{Stub}}\n{{Location_Infobox\n|title1=Luminous Shore\n|image=Luminous Shore.png\n|world_map=Solaris-3\n|type = Area\n|nation = Huanglong\n|region = Mt. Firmament\n}}\n{{Quote|The very vessel that carried A vast field of shore resting on the corner of Mt. Firmament. It stands on the endless ridge of Mt. Firmament, welcoming roving voyagers on the farther side of the sea of fog.\n\nOn the end of Luminous Shore lies a nameless cave, through which you can reach the hidden realm of Mt. Firmament.\n\n[https://wutheringwaves.kurogames.com/m/en/main/news/detail/921 '' Wuthering Waves Official Website '']\n}}\n\n'''Luminous Shore''' is an area of [[Mt. Firmament]], [[Huanglong]]. \n\n==Other Languages==\n{{Other Languages\n|en   = Luminous Shore\n|zhs  = 隙光滩\n|zht  = 隙光灘\n|ja   = {{Rubi|砕光浜|さいこうはま}}\n|ko   = 세월의 해변\n|es   = Orilla Luminosa\n|fr   = Rivage lumineux\n|de   = Leuchtendes Ufer\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==Navigation==\n{{Location Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

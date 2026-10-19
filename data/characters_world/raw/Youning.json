@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:13Z",
+  "title": "Youning",
+  "pageid": 26765,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = NPC Youning.png\n|type             = Quest\n|type2            = \n|nation           = Huanglong\n|location         = Hongzhen\n|affiliation      = Pioneer Association\n\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Youning''' is a quest-exclusive [[NPC]] in {{Location|Hongzhen}}. She first appears in {{Quest|Immortal Blaze}}.\n \n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Youning\n|zhs  = 攸宁\n|zht  = 攸寧\n|ja   = 悠寧（ユウネイ）\n|ko   = 윤영\n|es   = You'ning\n|fr   = Youning\n|de   = You'ning\n|th   =\n|pt   = \n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

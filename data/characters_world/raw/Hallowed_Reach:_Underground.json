@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:49Z",
+  "title": "Hallowed Reach: Underground",
+  "pageid": 26426,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Hallowed Reach: Underground\n|image=Hallowed Reach Underground.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Thessaleo Fells\n}}\n\n'''Hallowed Reach: Underground''' is an area of [[Thessaleo Fells]], [[Rinascita]]. \n\n==NPCs==\n{{NPCs by Location List|Hallowed Reach: Underground}}\n\n==Other Languages==\n{{Other Languages\n|en   = Hallowed Reach: Underground\n|zhs  = 赞悼圣迹 ・ 地下\n|zht  = 贊悼聖跡 ・ 地下\n|ja   = ハロウド・リーチの地下\n|ko   = 애도 성역 ・ 아래층\n|es   = Alcance Sagrado: Bajo\n|fr   = Domaine sacré - Souterrain\n|de   = Helliger Reliktort: Untergrund\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

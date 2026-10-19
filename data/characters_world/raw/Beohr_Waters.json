@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:44Z",
+  "title": "Beohr Waters",
+  "pageid": 28698,
+  "wikitext": "{{stub}}\n{{Location_Infobox\n|title  = Beohr Waters\n|image  = Beohr Waters.png\n|map    = Solaris-3\n|type   = Region\n|nation = Rinascita\n}}\n{{Intro/Location|Beohr Waters}} \n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Beohr Trench\"\n|[[Beohr Trench]]\n|[[File:Beohr Waters.png|180px]] \u003cbr /\u003e\n|Beohr Trench spans throughout the islands located in the Beohr Waters. A railcar and rails designed by the Fisalia Family also run through the trench, leading to Avinoleum: Ground Remains.\n|- id=\"Avinoleum: Ground Remains\"\n|[[Avinoleum: Ground Remains]]\n|[[file:Avinoleum_Ground_Remains.png|180px]] \u003cbr /\u003e\n|A large tower that is sealed with a power. \n|}\n\n==Quests==\n{{Quest by Category List|Beohr Waters}}\n\n== Exploration Report ==\n\n=== '''The Fisalia Family Journal I''' ===\n* Unlocked by reaching 50% exploration.\n\n{{Transclude|The Fisalia Family Journal I|Text|main=1}}\n\n=== '''The Fisalia Family Journal II''' ===\n* Unlocked by reaching 100% exploration.\n\n{{Transclude|The Fisalia Family Journal II|Text|main=1}}\n\n==Notable Features==\n===Tacet Fields===\n*[[Tacet Field: Beohr Waters]]\n===Bosses===\n*{{Enemy|Nightmare: Lampylumen Myriad}}\n===Resources===\n\n==Other Languages==\n{{Other Languages\n|en   = Beohr Waters\n|zhs  = 贝奥海域\n|zht  = 貝奧海域\n|ja   = ベオ海域\n|ko   = 베오 해역\n|es   = Aguas Beo\n|fr   = Eaux de Beohr\n|de   = Beo-Gewässer\n|th   = \n}}\n\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eThe Fisalia Family Journal I\u003c/b\u003e",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eThe Fisalia Family Journal II\u003c/b\u003e",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tacet Fields",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.3",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "12"
+    }
+  ]
+}

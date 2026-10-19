@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:13Z",
+  "title": "Young Soldier",
+  "pageid": 4251,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Young Soldier.png\n|type             = Quest\n|region           = \n|location         = Huanglong\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Young Soldier''' is an NPC in [[Huanglong]].\n\n==Other Languages==\n{{Other Languages\n|en   = Young Soldier\n|zhs  = 年轻的士兵\n|zht  = 年輕的士兵\n|ja   = 若い兵士\n|ko   = 젊은 병사\n|es   = Soldado Joven\n|fr   = Jeune soldat\n|de   = Junger Soldat\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

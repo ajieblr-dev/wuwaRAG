@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:51Z",
+  "title": "Nightmare: Lampylumen Myriad",
+  "pageid": 31836,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Nightmare Enemy Infobox\n|name      = Nightmare: Lampylumen Myriad\n|image     = Nightmare Lampylumen Myriad Icon.png\n|dmgtype   = Glacio\n|nation    = Rinascita\n|variants  = Lampylumen Myriad\n|class     = Overlord\n}}\n==Other Languages==\n{{Other Languages\n|en   = Nightmare: Lampylumen Myriad\n|zhs  = 梦魇・辉萤军势\n|zht  = 夢魘・輝螢軍勢\n|ja   = ナイトメア・輝き蛍の軍勢\n|ko   = 악몽 ・ 반디의 군세\n|es   = Pesadilla: Engendro de Lampilumen\n|fr   = Cauchemar : Myriade de Lampylumen\n|de   = Albtraum: Lampylumen-Multitude\n}}\n\n==Change History==\n{{Change History|2.2}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

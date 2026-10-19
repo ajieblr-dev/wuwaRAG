@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:32Z",
+  "title": "Mae",
+  "pageid": 27113,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Mae.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Montelli Quarter\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Mae''' is an NPC who appears at the bar in [[Montelli Quarter]], [[Ragunna]]. She can only be seen there from 6:00 AM to 5:59 PM.\n\nAfter you interact with her, you will get a bottle of [[Nectarwine]]\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Mae:''' We've some really interesting options in the new wine list.\n:'''Mae:''' \"The Montelli Lounge draws inspiration from the Carnevale for its cocktails...\"\n:'''Mae:''' But honestly, isn't it a bit too lonely to drink alone...?\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Mae:''' The ball doesn't start for another three hours.\n:'''Mae:''' Say, why don't you come to sit with me? Don't be so stiff.\n:'''Mae:''' This round is on me, don't worry—I won't get you drunk.\n:'''Mae:''' It's best to feel a bit tipsy at a time like this...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Mae\n|zhs  = 梅\n|zht  = 梅\n|ja   = メイ\n|ko   = 매화\n|es   = Mae\n|fr   = Mae\n|de   = Mae\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

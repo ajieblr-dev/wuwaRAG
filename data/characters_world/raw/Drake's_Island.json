@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:14Z",
+  "title": "Drake's Island",
+  "pageid": 36513,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Drake's Island\n|image     = Drake's Island.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Rinascita\n|region    = Riccioli Islands\n}}\n\n'''Drake's Island''' is an area of [[Riccioli Islands]], [[Rinascita]]. \n\n==NPCs==\n{{NPCs by Location List|Drake's Island}}\n\n==Trivia==\n* You can find the [[Assistance Rare Pact|Assistance: Rare Pact]] [[Token]] in a [[Supply Chest]] on Drake's Island.\n\n==Other Languages==\n{{Other Languages\n|en   = Drake's Island\n|zhs  = 德雷克岛\n|zht  = 德雷克島\n|ja   = ドラコ島\n|ko   = 드레이크 섬\n|es   = Isla de Drake\n|fr   = L'Île de Drake\n|de   = Drake-Insel\n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

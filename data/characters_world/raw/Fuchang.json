@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:39Z",
+  "title": "Fuchang",
+  "pageid": 77315,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Xuanfang Huaxu Academy\n|affiliation      = Xuanfang Huaxu Academy\n|affiliationNote  = Physician\n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a NPC Physician for [[Xuanfang Huaxu Academy]] who is first seen treating a Xuanfang Warden.\n\n{{Dialogue Start}}\n==Dialogue==\n;(One time interaction)\n:'''Zhengzhuang:''' Doctor, what should I do!? I think I've got a terminal illness!!\n\n:'''[[Fuchang]]:''' Don't panic. Take deep breaths. What symptoms are you experiencing?\n\n:'''Zhengzhuang:''' Every time I go on shift at the Censure Court, I get so dizzy I see spots! My heart pounds like a drum! The air grows heavy, like an invisible hand is choking me!\n\n:'''Zhengzhuang:''' I've looked through so many medical texts and don't see anything matching it! It must be a rare disease. There's a nine in ten chance i-it's a terminal illness!\n\n:'''Fuchang:''' Let me check your pulse... take off your mask and stick out your tongue.\n\n:'''Fuchang:''' ...\n\n:'''Fuchang:''' Hmm... Your illness. I believe I know what it is.\n\n:'''Zhengzhuang:''' What? So I am sick? I knew it! Is there a cure, doctor? Give it to me straight. I-I can take it.\n\n:'''Fuchang:''' There is a cure. I'll write you a prescription, but this prescription isn't for your eyes. Take it to your captain.\n\n:'''Fuchang:''' The next time you go on shift at the Censure Court, do whatever your captain tells you. Understand?\n\n:'''Zhengzhuang:''' Of course! I'll do exactly as you say!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==See Also==\n* [[Jin]] - Co-Worker\n* [[Chong]] - Co-Worker\n\n==Other Languages==\n{{Other Languages\n|en   = Fuchang\n|zhs  = 甫怅\n|zht  = 甫悵\n|ja   = 甫悵\n|ko   = 포창\n|fr   = Fuchang\n|de   = Fuchang\n|es   = Fuchang\n|th   = Fuchang\n|pt   = Fuchang\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

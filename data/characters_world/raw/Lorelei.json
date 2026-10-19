@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:29Z",
+  "title": "Lorelei",
+  "pageid": 25672,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Lorelei\n|title     = Queen of the Night\n|image     = Lorelei Icon.png\n|dmgtype   = Havoc\n|echo      = Yes\n|class     = Overlord\n|family    = Remnant Creature\n|group     = \n|nation    = Rinascita\n|region    = Nimbus Sanctum\n|subregion = Atrium of Reflections\n|drops     = Cleansing Conch\n|variants  = Tactical Hologram: Lorelei\n}}{{Description|Once a remnant creature in Nimbus Sanctum, Lorelei gained intelligence through Sentinel Imperator's power, entrusted to purify corrupted frequencies drifting in the clouds.}}\n{{Lang|'''Lorelei'''|zh=罗蕾莱}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in the {{Location|Nimbus Sanctum|nocat=1}}.\n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Cleansing Conch}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Abilities== \n\n==Trophies==\n{{Trophies|Lorelei|customheader=Lorelei}}\n\n==Tutorial==\n{{Tutorial|Lorelei}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Havoc damage}}.\u003cbr/\u003eOnce a remnant creature in Nimbus Sanctum, Lorelei gained intelligence through Sentinel Imperator's power, entrusted to purify corrupted frequencies drifting in the clouds.\u003cbr/\u003eYet wicked desires have transformed her into the \"Queen of the Night,\" seeking to cloak the Sanctum in endless darkness to clear all sins.\u003cbr/\u003eWith her final grasp on reason, Lorelei sealed herself within the atrium, where she sings a haunting lament, awaiting one who can awaken her from this dismal slumber.|Description When Discovered}}\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=combat}}\n\n==Trivia==\n===Etymology=== \n*\"Lorelei\" is the name of a siren that lures fishermen to their deaths in German mythology, inspired by an infamous real life maritime disaster site of the same name.\n*The \"Queen of the Night\" is a character from Wolfgang Amadeus Mozart's 1791 opera ''[https://en.wikipedia.org/wiki/The_Magic_Flute The Magic Flute]''.\n\n==Other Languages==\n{{Other Languages\n|en   = Lorelei\n|zhs  = 罗蕾莱\n|zht  = 羅蕾萊\n|ja   = ローレライ\n|ko   = 로렐라이\n|es   = Lorelei\n|fr   = Lorelei\n|de   = Lorelei\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "8.1",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "9",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "10",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "11",
+      "index": "12"
+    }
+  ]
+}

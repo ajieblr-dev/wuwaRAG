@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:18Z",
+  "title": "Lane",
+  "pageid": 36364,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Lane.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Septimont\n|location2        = Capitoline Hill\n|group            = \n|affiliation      = Lollo Logistics\n}}\n__NOTOC__\n'''{{PAGENAME}}''' is a male Lollo Logistic NPC stationed in Septimont, struggling to maintain his evaluation score from backlog of works.\n\n==Idle==\n{{Dialogue Start}}\n;'''Lane''' Ugh, the jobs this Order System keeps throwing at me are getting crazier by the day...\n;'''Lane''' What even is this? Room 301, Ragunna Bay Annexe, Old District...\n;'''Lane''' Old District? Hasn't that place been underwater for ages?\n\n==Dialogue==\n:'''Lollo Logistics Terminal:''' Beep! Lollo Logistics—We Promise, We Deliver! You have a new mail order to deliver! A friendly reminder: we currently have a backlog of work orders. Please complete your current deliveries as soon as possible. Any delays could affect your performance evaluation!\n:'''Lane:''' No, wait! Docking my performance again? That's brutal! Ever since I came to Septimont, scoring an A has been completely out of reach!\n:'''Lane:''' Yeah, just a few hundred meters on paper, but getting to the Hilltop means taking the cable car and climbing forever! Who even makes these performance metrics?!\n:'''Lollo Logistics Terminal:''' Courier, please get yourself together! When facing challenges, we encourage self-reflection over complaints about the system!\n:'''Lane:''' Right, self-reflection... but how am I supposed to deliver this anyway? Turn into a merfolk and swim there?\n:{{DIcon}} What's going on?\n::'''Lane:''' Oh, you must be {{Rover}} that Chief Advisor [[Maji|Ma]] mentioned, right? I can really use your help now. This bloody system seems to be acting up again.\n::'''Lane:''' Been asking every local in Septimont for hours. Turns out the address is in the Old District, which is flooded already. How exactly am I supposed to deliver there? Even if I could swim down, it's not like there's anyone waiting underwater for this package! \n::'''Rover:''' Can you find the recipient?\n::'''Lane:''' It's not really a person, just some company's official address. Let's see... The recipient is \"New Federation Black Beach Virtual Resonance Chain Technology Leasing Corp, Ltd.\"\n::'''Lane:''' What a convoluted name. How does a New Federation company even end up registered in Septimont? Is it one of those shell companies?\n:{{DIcon}} How about you row over and check out those ruins on the water?\n::'''Lane:''' No thanks. I'm not getting in a boat in Rinascita. You know what happens to boats around here? They're cursed!\n::'''Rover:''' Cursed?\n::'''Lane:''' Haven't you heard? There was this white-haired merchant with this fancy new ship. Custom-built luxury job. Twin engines, wind-resistant, the whole \"unsinkable\" deal. First voyage near Rinascita? Boom. A giant whale comes out of nowhere and launches the thing into orbit.\n::'''Lane:''' Rumor has it that whale still won't come to the bargaining table. And since insurance won't touch international waters, the poor guy almost lost his shirt.\n::'''Rover:''' ...\n----\n;\u003cnowiki\u003e18:00-03:00\u003c/nowiki\u003e by a Resonance Beacon in Capitoline Hill City\n:;'''Lane''' Don't worry, I'm doing great here!\n:;'''Lane''' Work's been a breeze every day, like I'm on vacation. I even took a dip in the sea today! The project's coming along great...\n:;'''Lane''' Colleagues? Oh, oh, yeah, I get along just fine with my coworkers, no worries.\n:;'''Lane''' Our team leader even promised us a promotion and a raise just a few days ago...\n\n:Courier Lane is in the middle of a call and doesn't notice your arrival.\n:'''Lane:''' Tired? Not really. Sometimes, yeah, a bit, but how should I put it? You know how our company is, right?\n:'''Lane:''' Lollo Logistics goes global now! We've made a real name for ourselves. Brand new equipment, contracts with huge international clients. We're not just some small-time delivery crew anymore.\n:'''Lane:''' Don't worry... Once I've earned enough credits, I'll head back to Huanglong and take all of you to [[Mingting]]. That way, my little sis can go to school there.\n:'''Lane:''' Alright, love you, Mom. See you tomorrow.\n{{Dialogue End}}\n\n==Trivia==\n*A shell company is a legally incorporated business entity that exists mainly on paper and conducts little to no actual business activity. Often, shell companies have no physical office, few or no employees, and may hold only financial assets. \n*The cursed boat refers to Rover first entry to Rinascita during {{Quest|Through the Sea Thou Break}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lane\n|zhs  = 莱恩\n|zht  = 萊恩\n|ja   = ライオン\n|ko   = 라네\n|es   = Lane\n|fr   = Lane\n|de   = Lane\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

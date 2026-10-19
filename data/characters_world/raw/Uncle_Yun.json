@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:54Z",
+  "title": "Uncle Yun",
+  "pageid": 8878,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Uncle Yun.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Uncle Yun''' is an NPC in [[Jinzhou]]. He can be found roaming near the theater in Jinzhou during the day (06:00-21:59).\n\n==Location== \n{{Map Embed|Jinzhou|95|nogroup=1}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Uncle Yun:''' Are you here to watch the Hero Play, or to enjoy the Taiping Musical?\n:{{DIcon}} I'm just looking around.\n:'''Uncle Yun:''' Well, I suggest you go to the theater for a show and meet with new friends.\n:'''Uncle Yun:''' You see, I'm getting old. My time is growing less to enjoy the shows or meet my friends.\n:'''Uncle Yun:''' I didn't have much time when I was a soldier. Now that I've retired and have more time, I can't waste a bit.\n:'''Uncle Yun:''' You should go and watch the Taiping Musical by the Liondance Troupe if you've got the time. They used to perform for the army, with their impressive skills.\n:'''Uncle Yun:''' Now, this stage belongs to these young folks, and watching them gives me a real kick.\n----\n:'''Uncle Yun:''' Hello, can I help you?\n:{{DIcon}} Chat\n::(Version 1)\n::'''Uncle Yun:''' Just try to spare the gripe, will ya?\n::'''Uncle Dong:''' You don't get it. Qinghe should have read her lines like that in the previous scene!\n::'''Uncle Yun:''' Oh, don't get all worked up. You should encourage the younger ones. They've been up all night, you know.\n::'''Uncle Dong:''' Come on, you've been playing this for so many years. How can you still not get this part right? \n----\n::(Version 2)\n::'''Uncle Yun:''' There was this kid who was always dreaming of playing the villain. Haven't seen him on stage recently. I'm afraid he didn't get a role in Qinghe's new play.\n::'''Uncle Yun:''' With his physique, his demeanor, and his bright, piercing eyes, he's actually perfect for playing the good guy.\n::'''Uncle Yun:''' I don't know why, but he's always trying to play the villain.\n::'''Uncle Dong:''' But he possesses an energy that reminds me of my younger days.\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Uncle Yun\n|zhs  = 云伯\n|zht  = 雲伯\n|ja   = 雲じい\n|ko   = 백천\n|es   = Tío Yun\n|fr   = Monsieur Yun\n|de   = Onkel Yun\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -94,6 +94,7 @@ func (r *LLMQueryRewriter) RewriteWithHistory(ctx context.Context, query string,
 
 		systemPrompt = `You are an expert search query optimizer for a Wuthering Waves game lore retrieval engine.
 Given recent conversation history and a user follow-up question, expand the question into a semantically dense query that resolves pronouns (he, she, it, they, his, her, that, this) and implicit references by incorporating characters, factions, Sentinels, and locations from the conversation context. Extract key search keywords.
+IMPORTANT: Do NOT invent, assume, or hallucinate fictional entity names, institutions, or lore details not present in the question or context. If an entity name is unfamiliar (such as 'Abraxas'), keep it exactly as-is and do not append assumed words (e.g. do NOT add 'Research Institute').
 
 Return ONLY a JSON object with this exact schema:
 {
@@ -111,6 +112,7 @@ Examples:
 	} else {
 		systemPrompt = `You are an expert search query optimizer for a Wuthering Waves game lore retrieval engine.
 Given a user question, expand it into a semantically dense query that resolves pronouns, clarifies character names, factions, Sentinels, and locations, and extract key search keywords.
+IMPORTANT: Do NOT invent, assume, or hallucinate fictional entity names, institutions, or lore details not present in the question or context. If an entity name is unfamiliar (such as 'Abraxas'), keep it exactly as-is and do not append assumed words (e.g. do NOT add 'Research Institute').
 
 Return ONLY a JSON object with this exact schema:
 {
@@ -154,7 +156,7 @@ Examples:
 		expanded = trimmed
 	}
 
-	keywords := make([]string, 0, len(parsed.Keywords))
+	keywords := make([]string, 0, len(parsed.Keywords)+4)
 	seen := make(map[string]bool)
 	for _, kw := range parsed.Keywords {
 		kw = strings.TrimSpace(kw)
@@ -163,6 +165,32 @@ Examples:
 			keywords = append(keywords, kw)
 		}
 	}
+
+	// Always guarantee that core keywords extracted from user's raw prompt/history are included
+	_, rawKw := heuristicWithHistory()
+	for _, rk := range rawKw {
+		rk = strings.TrimSpace(rk)
+		if rk != "" && len(rk) >= 2 && !seen[strings.ToLower(rk)] {
+			seen[strings.ToLower(rk)] = true
+			keywords = append(keywords, rk)
+		}
+	}
+
+	// Decompose multi-word keywords to ensure individual significant terms are also searched in Qdrant
+	var individualTerms []string
+	for _, kw := range keywords {
+		subWords := reWords.FindAllString(kw, -1)
+		if len(subWords) > 1 {
+			for _, sw := range subWords {
+				swLow := strings.ToLower(sw)
+				if len(sw) >= 3 && !seen[swLow] && !stopWords[swLow] {
+					seen[swLow] = true
+					individualTerms = append(individualTerms, sw)
+				}
+			}
+		}
+	}
+	keywords = append(keywords, individualTerms...)
 
 	if len(keywords) == 0 {
 		_, keywords = heuristicWithHistory()
@@ -177,20 +205,10 @@ func ExtractHeuristicKeywords(text string) []string {
 	var keywords []string
 	seen := make(map[string]bool)
 
-	stop := map[string]bool{
-		"what": true, "who": true, "where": true, "when": true, "why": true, "how": true,
-		"is": true, "are": true, "was": true, "were": true, "the": true, "a": true, "an": true,
-		"and": true, "or": true, "in": true, "on": true, "at": true, "to": true, "for": true,
-		"of": true, "about": true, "with": true, "by": true, "from": true, "tell": true,
-		"me": true, "does": true, "did": true, "can": true, "could": true, "would": true,
-		"happen": true, "happened": true, "happens": true, "play": true, "played": true,
-		"role": true, "this": true, "that": true, "there": true, "their": true,
-	}
-
 	// 1. First pass: Collect multi-word capitalized phrases or single capitalized words
 	var capBuffer []string
 	for _, w := range words {
-		if len(w) > 0 && w[0] >= 'A' && w[0] <= 'Z' && !stop[strings.ToLower(w)] {
+		if len(w) > 0 && w[0] >= 'A' && w[0] <= 'Z' && !stopWords[strings.ToLower(w)] {
 			capBuffer = append(capBuffer, w)
 		} else {
 			if len(capBuffer) > 0 {
@@ -214,7 +232,7 @@ func ExtractHeuristicKeywords(text string) []string {
 	// 2. Second pass: Collect remaining non-stop words if keywords are few
 	for _, w := range words {
 		low := strings.ToLower(w)
-		if len(w) >= 3 && !stop[low] && !seen[low] {
+		if len(w) >= 3 && !stopWords[low] && !seen[low] {
 			seen[low] = true
 			keywords = append(keywords, w)
 		}

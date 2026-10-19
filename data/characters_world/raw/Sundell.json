@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:38Z",
+  "title": "Sundell",
+  "pageid": 39652,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Sundell.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n}}\n\n{{PAGENAME}} is a NPC male professor who is talking with a Preparatory Student about dangers of taking too much classes. \n\n{{Dialogue Start}}\n==Idle==\n:'''Sundell:''' Prep courses lay the groundwork, so choose them wisely. History has proven that many times. If you don't believe me, I'll bet you a TARD-E Unit on it.\n\n==Dialogue==\n:'''Sundell:''' If you don't believe me, I'll bet you a TARD-E Unit on it. We had a student who ended up in the infirmary just three days into the Prep Program.\n:'''Sundell:''' Tried to hop between senior-level lectures. Slammed straight into a trash can and broke two ribs.\n:'''Sundell:''' ...Might even get held back a year for missing elective credit.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n{{Other Languages\n|en   = Sundell\n|zhs  = 杉德尔\n|zht  = 杉德爾\n|ja   = サントール\n|ko   = 선델\n|fr   = Sundell\n|de   = Sundell\n|es   = Sundell\n|th   = Sundell\n}}\n\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

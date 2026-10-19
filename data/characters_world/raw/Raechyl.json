@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:08Z",
+  "title": "Raechyl",
+  "pageid": 36530,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Raechyl.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont\n|group            = \n|affiliation      = Averardo Bank\n|title            = Averardo Bank Teller\n}}\n{{quote|Come do business anytime! Happy to be of service!}}\n'''Raechyl''' is a female NPC bank teller stationed in Septimont. She can be found next to [[Katvia]] and a Common Echo Mercurio in {{Location|Capitoline Hill}}. \u003cbr\u003e\u003cbr\u003eHer stocks is shared with [[Mercurio]] in Ragunna City.\n\n==Location==\n\u003cgallery\u003eLocation Raechyl Shop.png\u003c/gallery\u003e\n\n{{Dialogue Start}}\n==Dialogue==\n;(First interaction) \n:'''Raechyl''' Hello, are you here on business?\n:{{DIcon}} I want to buy some gifts.\n:'''Raechyl''' Oh, thank you so much! I can finally meet my sales quota for this month. And I thought my goose was cooked, haha...\n:'''Raechyl''' Sorry, I said too much, didn't I? Anyway, I'm happy to be of service!\n:{{DIcon}} Well, let's see some items.\n;(Open shops)\n----\n:'''Raechyl''' We meet again! Are you here on business again today? Welcome, welcome! Happy to be of service!\n----\n;(Open shop)\n:'''Raechyl''' How is it? Is there something I can help with?\n;(Purchase)\n:'''Raechyl''' Come do business anytime! Happy to be of service!\n{{Dialogue End}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Raechyl\n|zhs  = 芮秋儿\n|zht  = 芮秋兒\n|ja   = レイチェル\n|ko   = 레이첼\n|es   = Raechyl\n|fr   = Raechyl\n|de   = Raechyl\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

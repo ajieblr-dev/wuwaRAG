@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:04Z",
+  "title": "Ji Liubai",
+  "pageid": 62887,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=Roya Frostlands\n|location=Exostrider Observation Station\n|location2= Everfrost Cavern\n|affiliation=Startorch Academy\n|group=\n}}\n{{PAGENAME}} and '''Changshui''' can be found near a bunch of [[Moss Amber]] outside the [[Everfrost Cavern]]. Appears after {{Quest|The Star That Voyages Far}}.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Ji Liubai:''' Professor, is this Moss Amber? It's beautiful...\n:'''Ji Liubai:''' Is it all moss inside?\n:'''Changshui:''' Mostly. Some specimens preserve other plants as well.\n:'''Changshui:''' This species of moss still exists in Lahai-Roi, but it has evolved into a form that no longer resembles what's encased in the amber.\n:'''Ji Liubai:''' The forests prior to the frostlands becoming the pole must have been incredible. Even the moss in here looks like tiny flowers.\n:'''Ji Liubai:''' I’ve seen reconstructed simulations in class, but the real forests must have been more breathtaking and vibrant.\n:'''Ji Liubai:''' It’s a shame we can only imagine them through slivers of time preserved in amber. Just thinking about it makes me a little sad...\n:'''Changshui:''' Instead of getting sentimental, why not join the Upphaf Forest Restoration Project? I'd be happy to approve you.\n:'''Changshui:''' But if this is just empty talk, then forget about it. Don't be someone who only dreams and never acts, Liubai\n:'''Ji Liubai:''' ...Understood, Professor. I'll give it serious thought.\n{{Dialogue End}} \n\n==Other Language==\n{{Other Languages\n|en   = Ji Liubai\n|zhs  = 季六白\n|zht  = 季六白\n|ja   = 季六白\n|ko   = 계육백\n|fr   = Ji Liubai\n|de   = Ji Liubai\n|es   = Ji Liubai\n|th   = Ji Liubai\n}}\n==Change History==\n{{Change History|3.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Language",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

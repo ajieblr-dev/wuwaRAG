@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:43Z",
+  "title": "Tempest Mephis",
+  "pageid": 8327,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n |name=Tempest Mephis\n |title=Mourning Thunder\n |image=Enemy Tempest Mephis (Boss).png\n |dmgtype=Electro\n |weakpoint=Unknown\n |echo=Yes\n |class=Overlord\n |family=Tacet Discord\n |group=Murmurin\n |nation=Huanglong\n |region=Central Plains\n |drops=Hidden Thunder Tacet Core\n |variants=Tactical Hologram: Tempest Mephis\n}}\n{{Description|An Overlord Class Murmurin TD hidden in Central Plains. It demonstrates combat abilities similar to those of a human.}} \n{{Lang|Tempest Mephis|zh=朔雷之鳞}} is a [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in {{Location|Central Plains}}. \n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Hidden Thunder Tacet Core}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Abilities== \n\n==Trophies==\n{{Trophies}}\n\n==Tutorial==\n{{Tutorial|Tempest Mephis}} \n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Electro damage}}.\u003cbr/\u003eA powerful TD that roams the Central Plains. With the aid of thunderstorms, it keeps devouring human sounds of protection. Regarded as a vanguard of the [[Crownless]].|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Tempest Mephis\n|zhs  = 朔雷之鳞\n|zht  = 朔雷之鱗\n|ja   = 雷刹のウロコ\n|ko   = 천둥의 비늘\n|es   = Mephis Tempestad\n|fr   = Mephis tonerre\n|de   = Sturm Mephis\n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "9",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "10",
+      "index": "10"
+    }
+  ]
+}

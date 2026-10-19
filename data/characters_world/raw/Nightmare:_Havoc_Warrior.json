@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:47Z",
+  "title": "Nightmare: Havoc Warrior",
+  "pageid": 32770,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Stub}}\n{{Nightmare Enemy Infobox\n|name          = Nightmare: Havoc Warrior\n|image         = Nightmare Havoc Warrior Icon.png\n|dmgtype       = Havoc\n|class         = Common\n|echo          = Yes\n|drops         = Nightmare: Havoc Warrior/Echo\n|family        = Tacet Discord\n|group         =\n|group2        = \n|nation        = Rinascita\n|location      = Fabricatorium of the Deep\n|variants      = Havoc Warrior\n}}{{Description|A special Tacet Discord that lurks in the intricate network of the Dreamscape Nodes.}}\n{{Intro/Echo}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} against {{Color|Havoc damage}}.\u003cbr/\u003e \u003cbr/\u003eA special Tacet Discord that lurks in the intricate network of the Dreamscape Nodes. It gathers frequencies of a particular negative emotion emanating from across all of Ragunna.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en  = Nightmare: Havoc Warrior\n|zhs = 梦魇·审判战士\n|zht = 夢魘·審判戰士\n|ja  = ナイトメア・審判の戦士\n|ko  = 악몽 · 심판하는 전사\n|es  = Pesadilla: Guerrero de Destrucción\n|fr  = Cauchemar : Combattant Havoc\n|de  = Albtraum: Chaos-Krieger\n}}\n\n==Change History==\n{{Change History|2.5}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

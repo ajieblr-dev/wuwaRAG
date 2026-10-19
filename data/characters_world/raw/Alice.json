@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:33Z",
+  "title": "Alice",
+  "pageid": 36529,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Alice.png\n|type             = NPC\n|type2            = \n|nation           = Rinascita\n|location         = Order of the Deep (Area)\n|affiliation      = Order of the Deep\n|affiliation2     = \n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Alice''' is a female Acolyte NPC found at the [[Order of the Deep (Area)|Order of the Deep]] found with a young girl named [[Juno]] during the day.  \n\n{{Dialogue Start}}\n==Dialogue==\n;(Day)\n:'''Juno:''' Alice, when will [[Phoebe]] bring the Echoes back here?\n:'''Juno:''' Since she and the Echoes left, even the little  sea anemones here have been looking a bit droopy.\n:'''Alice:''' Phoebe?\n:'''Juno:''' Yeah! Every time Phoebe comes here, she tells us new stories.\n:'''Juno:''' Our elders always say the other side is dangerous, full of bad people. But the new stories Phoebe brings back are always exciting!\n:'''Juno:''' Whenever she tells us a story, a bunch of Echoes would join in and perform with her, like a little play—it's incredible!\n:'''Juno:''' I haven't seen her in ages... Do you know when she'll come back?\n:'''Alice:''' I'll pass your message on to her. Knowing her, I'm sure she'll come as soon as she has a moment.\n:'''Juno:''' Really? That's wonderful!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}} \n\n==Mentions==\n{{Character Mentions}} \n==Other Languages==\n{{Other Languages\n|en   = Alice\n|zhs  = 阿莉切\n|zht  = 阿莉切\n|ja   = アリーチェ\n|ko   = 앨리스\n|es   = Alice\n|fr   = Alice\n|de   = Alice\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

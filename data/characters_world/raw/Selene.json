@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:22Z",
+  "title": "Selene",
+  "pageid": 38544,
+  "wikitext": "{{NPC Infobox\n|image=NPC Selene and Sura.png\n|type=Open-World\n|nation=\n|location=Septimont\n}}\n'''{{PAGENAME}}''' is a female NPC traveling with '''\"Sura\"''' and can be found at the Septimont in {{Location|Titanbone Expanse}} docks custom counter during the morning arguing with '''Varinia'''. \u003cbr\u003e\u003cbr\u003eIt is unknown what \"Sura\" is, but she appears human.\n==Location==\n\u003cgallery\u003eNPC Selene and Sura Location.png\u003c/gallery\u003e\n\n{{Dialogue Start}}\n==Idle==\n;(Morning)\n:'''Varinia:''' Welcome to Septimont, may I see you and your compan... I mean, your passport please.\n:'''Selene:''' No, no, you were right. Here are two passports.\n\n==Dialogue==\n;(Morning)\n:'''Varinia''' The extra passport isn't required, but you do need to fill out a form for your doll.\n:'''Selene:''' Sura is my friend. Please register us as travel partners.\n:'''Varinia''' Your  friend, eh? Well, please fill out a customs clearance form for your friend.\n:'''Selene:''' But I have two passports right here—\n:'''Varinia''' Fill out the form, please.\n----\n;(Night)\n:'''Selene:''' Don't be sad, Sura. They may consider you an object, but in my heart, you'll always be my best friend.\n:'''\"Sura\":''' ......\n:'''Selene:''' Mm-hmm, I know, I know.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Selene\n|zhs  = 塞琳\n|zht  = 塞琳\n|ja   = セリン\n|ko   = 셀레네\n|fr   = Selene\n|de   = Selene\n|es   = Selene\n|th   = เซลีน\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

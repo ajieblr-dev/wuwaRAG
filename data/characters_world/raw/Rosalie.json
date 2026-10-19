@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:13Z",
+  "title": "Rosalie",
+  "pageid": 29076,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = NPC Rosalie.png\n|type             = Open-World\n|nation           = Ragunna\n|location         = Rinascita\n|group            = \n|affiliation      = Order of the Deep\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = Andrea\n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n'''Rosalie Seneca''' is a deceased female NPC who appears during the quest [[Avinoleum Footsteps]]. She was an Acolyte on a seminary in [[Avinoleum]] before dying during the Second [[Dark Tide]].\n\n==Other Languages==\n{{Other Languages\n|en   = Rosalie Seneca\n|zhs  = 罗萨莉・塞内卡\n|zht  = 羅薩莉・塞內卡\n|ja   = ロザリー・セネカ\n|ko   = 로자리아 ・ 세네카\n|es   = Rosalie Seneca\n|fr   = Rosalie Seneca\n|de   = Rosalie Seneca\n}}\n\n==Change History==\n{{Change History|2.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

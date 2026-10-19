@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:22Z",
+  "title": "Serene Bay",
+  "pageid": 27869,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Serene Bay\n|image=Serene Bay.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Riccioli Islands\n}}\n\n'''Serene Bay''' is an area of [[Riccioli Islands]], [[Rinascita]]. \n\n==NPCs==\n{{NPCs by Location List|Serene Bay}}\n\n==Other Languages==\n{{Other Languages\n|en   = Serene Bay\n|zhs  = 沉静湾\n|zht  = 沉靜灣\n|ja   = セリーン湾\n|ko   = 고요한 만\n|es   = Bahía Serena\n|fr   = Baie de sérénité\n|de   = Gelassene Bucht\n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

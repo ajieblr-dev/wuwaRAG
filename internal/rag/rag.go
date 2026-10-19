@@ -143,13 +143,27 @@ func (s *Service) SearchOnlyWithHistory(ctx context.Context, query string, histo
 	if s.queryRewriteEnabled && s.queryRewriter != nil {
 		expanded, kw, err := s.queryRewriter.RewriteWithHistory(ctx, query, history)
 		if err == nil && expanded != "" {
-			searchQuery = expanded
+			if !strings.Contains(strings.ToLower(expanded), strings.ToLower(query)) {
+				searchQuery = strings.TrimSpace(query + " " + expanded)
+			} else {
+				searchQuery = expanded
+			}
 			keywords = kw
 		}
 	}
 
-	if len(keywords) == 0 {
-		keywords = ExtractHeuristicKeywords(query)
+	rawKeywords := ExtractHeuristicKeywords(query)
+	for _, rk := range rawKeywords {
+		found := false
+		for _, kw := range keywords {
+			if strings.EqualFold(kw, rk) {
+				found = true
+				break
+			}
+		}
+		if !found {
+			keywords = append(keywords, rk)
+		}
 	}
 
 	// 2. Retrieval: Hybrid Search or Pure Vector

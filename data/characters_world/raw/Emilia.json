@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:18Z",
+  "title": "Emilia",
+  "pageid": 38262,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Emilia.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont}}\n'''Emilia''' is a female [[NPC]] from [[Lilyland]], touring [[Septimont]]. She can be found in front of the [[Leonidas Hotel]] in [[Capitoline Hill City]] with [[Silvanus]] during the day.\n\n==Dialogue==\n{{Dialogue Start}}\n;(Day)\n:;'''Silvanus''' And with that, we Beasts Beneath are invincible! \n:;'''Emilia''' Oh, yes... You truly get really excited when it comes to topics about gladiating.\n\n:'''Emilia''' Where on earth is the entrance...?\n:'''Silvanus''' Greetings, madam! May applause greet you! What seems to be the trouble? Just let me know and I'll have it taken care of right away!\n:'''Emilia''' Thank you, kind sir. I am from Lilyland. This is my first time visiting the Agon, and I don't know where to entrance is...\n:'''Silvanus''' Ah, I see! Then please allow me to escort you inside. I can also give you an introduction to the tournament, especially my favorite team, Beasts Beneath!\n:'''Emilia''' Wonderful! You're too kind!\n----\n;(Night)\n:'''Emilia''' You see, Septimont is truly a beautiful city.\n:'''Emilia''' This fervency reminds me of the theater back home.\n:'''Emilia''' Did you know that in my hometown of Lilyland, there is a huge stage surrounded by a field of flowers?\n:'''Emilia''' At the end of each performance, the crowd showers the actors with flower petals to show their appreciation.\n:'''Emilia''' I get the same feeling from Septimont as well. When a match concludes, the audience cheers and applauds. The energy. The excitement.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Emilia\n|zhs  = 艾米莉亚\n|zht  = 艾米莉亞\n|ja   = エミリア\n|ko   = 에밀리아\n|fr   = Emilia\n|de   = Emilia\n|es   = Emilia\n|th   = เอมิเลีย\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

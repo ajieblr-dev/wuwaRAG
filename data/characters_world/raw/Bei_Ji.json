@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:43Z",
+  "title": "Bei Ji",
+  "pageid": 8894,
+  "wikitext": "{{NPC Infobox\n|name             = Bei Ji\n|image            = NPC Bei Ji.png\n|type             = Open-World\n|type2            = Quest \n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = Bei Shi\n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Bei Ji''' is the older brother of [[Bei Shi]], who is a member of the [[Pioneer Association]]. He is overly protective of his sister, that he'd forgo his own safety. \n\u003c!--\n==Shop==\n{{Shop/Wrapper|\n{{Shop|Item|cost|stock|total=1}}\n|total=|vendor={{subst:#titleparts:{{subst:PAGENAME}}}}}}\n\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n--\u003e\n==Quests and Events==\n{{Quests and Events|Bei Ji}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Bei Ji:''' What should I do now...\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Bei Ji:''' I've been worrying about my sister lately. Not sure what to do to lift her spirits...\n:'''Bei Ji:''' Tried everything to make her happy, but nothing seemed to work...\n:'''Bei Ji:''' Looks like there's only one way left... Bring back the \"Jingle Beast\" by any means necessary!\n:'''Bei Ji:''' Though it may be a bit dangerous, I'll do whatever it takes to cheer my little sister up!\n----\n;(After completing Wild Heart's Return)\n:'''Bei Ji:''' Thanks. You and [[Lingyang]] helped me see what the \"Jingle Beast\" truly is.\n:'''Bei Ji:''' Being a \"Jingle Beast\" doesn't require one to be physically strong or do risky things...\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Bei Ji\n|zhs  = 贝济\n|zht  = 貝濟\n|ja   = 貝済（カイサイ）\n|ko   = 패지\n|es   = Bei Ji\n|fr   = Bei Ji\n|de   = Bei Ji\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

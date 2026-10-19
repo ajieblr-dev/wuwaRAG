@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:27Z",
+  "title": "Firus",
+  "pageid": 26077,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Firus.png\n|fullname         = Firus Ferrini\n|type             = Open-World\n|nation           = Rinascita\n|location         = Whisperwind Haven\n|affiliation      = \n\n\u003c!-- Family --\u003e\n|child            = Unnamed\n|childNote        = daughter\n}}\n'''Firus''' is a merchant working for the [[Montelli Family]], found in {{Location|Whisperwind Haven|nocat=1}}. He can be seen standing next to [[Marcello]].\n\n==Quests and Events==\n{{Quests and Events}}\n''(To be added)''\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Marcello:''' Firus Ferrini, your actions have brought shame upon your family.\n:'''Marcello:''' Within a week, all of Ragunna will mock the Montellis for entrusting the trade routes to a coward.\n:'''Firus:''' Please forgive me, Signor Marcello, I beg of you—\n:'''Firus:''' I'm just a humble merchant, and my daughter is waiting for me at home... I...\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Firus:''' By the Sentinel... What should I do to find the goods? If I don't recover them soon, Signor Marcello will surely \"settle the accounts\" with me...\n:'''Firus:''' But how could I ever stand a chance against the Mad Knight?\n:{{DIcon}} Have you lost anything?\n::'''Firus:''' I lost the goods Signor Marcello entrusted to me, and it's all because of that Mad Knight... What kind of knight attacks a merchant caravan anyway?\n:{{DIcon}} How will you know if you don't try?\n::'''Firus:''' Surely you jest—one wrong move and I'm toast!\n----\n;(After fighting the Mad Knight)\n:'''Firus:''' Sentinel above, I truly wish to know which noble hero drove away the Mad Knight. Now all the lost goods have been recovered!\n:{{DIcon}} ...\n::'''Firus:''' The Mad Knight didn't damage the goods at all... Could it be that he wasn't after credits?\n:{{DIcon}} I am the one!\n::'''Firus:''' Praise you! Without your help, I would have been forced into that labor contract...\n:{{DIcon}} Maybe just a knight passing by.\n::'''Firus:''' A knight! Could it be... that the legendary knight truly resides here in Egla Town?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Firus\n|zhs  = 费鲁斯\n|zht  = 費魯斯\n|ja   = フェルス\n|ko   = 페루스\n|es   = Firus\n|fr   = Firus\n|de   = Firus\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

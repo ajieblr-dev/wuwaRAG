@@ -1,0 +1,107 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:49Z",
+  "title": "Buling",
+  "pageid": 31556,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}}\n\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 4\n|class            = Natural\n|weapon           = Rectifier\n|role             = Support and Healer; DMG Amplification; Electro Flare\n|attribute        = Electro\n|releaseDate      = 2025-12-11\n\n\u003c!-- Info --\u003e\n|name             = Buling\n|title            = Divine Hearing\n|title2           = Spiritchaser Taoist\n|title3           = Earthly Immortal\n|gender           = Female\n|age              = \n|birthday         = \n|birthplace       = Huanglong\n|nation           = The Black Shores\n|affiliation      = Black Shores\n|affiliation2     = Mengzhou\n|sigil            = \n|dish             = Shredded Fish Soup\n|obtain           = \n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm13298431|Elizabeth Chu]]\u003cref\u003eX: [https://x.com/A_lizard_beth/status/1987140013323145634 EN VA Self Announcement]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/张晔 Zhang Ye ({{Lang|mini=1|zh=张晔}})]\u003cref name=\"Buling-Bili\"\u003eBilibili: [https://t.bilibili.com/1237739180243550264 《鸣潮》共鸣者「清宵」PV | 修行]\u003c/ref\u003e\n|voiceJP          = {{w|Sayaka Senbongi|Senbongi Sayaka ({{Lang|mini=1|ja=千本木彩花}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/1989574084448108985 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/이이로 Lee I-ro ({{Lang|mini=1|ko=이이로}})]\u003cref name=\"Buling-Bili /\u003e\n}}\n{{Quote|Exorcism, talisman divination, fortune-telling... you name it, I 'bling' it!|Buling}}\n{{Intro/Resonator|Buling|lang=zh=卜灵}} She is a [[Black Shores]] Consultant, known as the \"Spiritchaser Taoist,\" who wanders far and wide investigating and sharing the strange and mysterious. She is a master of fortune-telling, feng shui, and other arts of divination. To cover the expenses in her travels, she sells talismans and offers her divination services, which she thinks of as a sort of guidance for those in need.\n\n==Combat Overview==\n{{Main|Buling/Combat}}\n\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Buling|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Buling\n|zhs     = 卜灵\n|zht     = 卜靈\n|ja      = {{Rubi|卜霊|ボクレイ}}\n|ko      = 복링\n|fr      = Buling\n|de      = Buling\n|es      = Buling\n}} \n\n==Trivia==\n* In Chinese voice-overs in the main story, a part of Buling's line are spoken in {{w|Shanghainese}}.\n* (Chinese: 卜 ''bǔ'') is a Chinese surname. When used as a noun, it means \"prophecy or prediction.\"  When used as a verb, it means \"to divine, to predict.\"\n** During the Shang and Zhou dynasties, the Chinese referred to divination using tortoise shells as \"卜\" Later, this term became a general term for various forms of divination, although tortoise shells are not always necessary for divination.\n* (Simplified Chinese: 灵 ''líng'') is the simplified form of (Traditional Chinese: 靈 ''líng'') meaning \"supernatural beings, roughly equivalent to gods or spirits.\"\n* Because \"卜\" and \"不\" (meaning \"not\") are homophones in Chinese, the name \"Buling\" has a wordplay in Chinese, which can be humorously expressed as \"不灵\" (bù líng), meaning that the diviner's divination did not work, or it can be extended to mean that a specific thing is ineffective. This is related to the setting in the game where her ability sometimes causes her to be struck by lightning.\n\n==Change History==\n{{Change History|2.8|introduced=2.4}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[zh:卜灵]]\n[[fr:Buling]]\n[[ru:Бу Лин]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "3.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

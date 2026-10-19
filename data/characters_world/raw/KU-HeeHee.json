@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:10Z",
+  "title": "KU-HeeHee",
+  "pageid": 22083,
+  "wikitext": "{{NPC Infobox\n|image            = KU-HeeHee.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Energy Hub\n|group            = \n|affiliation      = Black Shores\n|title            = \n|species          = KU-Roro\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''KU-HeeHee''' is an NPC at [[Energy Hub]], [[The Black Shores]].\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events|KU-HeeHee}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n;(After telling KU-HeeHee to charge)\n:'''KU-HeeHee:''' Ku, this charging station… It won't explode, right?\n:'''KU-HeeHee:''' Okay, deep breath. What happened that day was just an accident. It won't happen again today.\n{{Dialogue End}}\n\n==Note==\n*Ku-Heehee experienced an accident caused by [[KU-Hehe]] and [[KU-Haha]] arguments that led to them being traumatized with charging stations.\n\n== Other Languages ==\n{{Other Languages\n|en   = KU-HeeHee\n|zhs  = 库嘻嘻\n|zht  = 庫嘻嘻\n|ja   = クヒヒ\n|ko   = 쿠 ・ 희희\n|es   = KU-HeeHee\n|fr   = KU-HeeHee\n|de   = KU-HeeHee\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Note",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

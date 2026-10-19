@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:56Z",
+  "title": "Hoyer",
+  "pageid": 39050,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Hoyer.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = Department of Exostrider Engineering\n|affiliation      = Department of Exostrider Engineering\n|title            = \n}}\n'''Hoyer''' is a NPC female student found in the Exostrider Engineering classroom in the morning at \u003cnowiki\u003e06:00-11:59\u003c/nowiki\u003e, talking with [[Ashtika]]. \n\n{{Dialogue Start}}\n==Idle==\n:'''Hoyer:''' Hey, that's not fair.\n:'''Hoyer:''' How come te guys at Rabelle College get to hog the proving grounds all the time?\n\n==Dialogue==\n:'''Hoyer:''' I don't care what anyone says, the Department of Engineering IS foundational!\n:'''Hoyer:''' What are they gonna train with if we don't build their gear and weapons?\n:'''Ashtika:''' Forget it. Access to the proving grounds is split between Rabelle College and... well, the rest of us.\n:'''Ashtika:''' That's what happens when you're directly funded by the New Federation.\n:'''Ashtika:''' We should try tag-teaming with Energy Science the next time we apply.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Hoyer\n|zhs  = 霍伊尔\n|zht  = 霍伊爾\n|ja   = ホイル\n|ko   = 호야\n|fr   = Hoyer\n|de   = Hoyer\n|es   = Hoyer\n|th   = Hoyer\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

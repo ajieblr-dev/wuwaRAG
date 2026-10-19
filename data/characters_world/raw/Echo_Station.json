@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:18Z",
+  "title": "Echo Station",
+  "pageid": 31935,
+  "wikitext": "{{Stub}}\n{{Location_Infobox\n|title  = Echo Station\n|image  = Echo Station.png\n|map    = Solaris-3\n|type   = Area\n|region = Vault Underground\n|nation = Rinascita\n}}\n\n'''Echo Station''' is an area located in [[Vault Underground]], [[Rinascita]]. \n\n==NPCs==\n{{NPCs by Location List|Echo Station}}\n\n==Quests==\n{{Quest by Category List|Vault Underground Quests}}\n\n==Notable Features==\n\n\n\n==Other Languages==\n{{Other Languages\n|en   = Echo Station\n|zhs  = 声骸站台\n|zht  = 聲骸月台\n|ja   = 音骸乗り場\n|ko   = 에코 승강장\n|es   = Estación de Eco\n|fr   = Station du train d'Écho\n|de   = Echo-Station\n}}\n\n==Change History==\n{{Change History|2.1}}\n==Navigation==\n{{Location Navbox|Rinascita}}\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

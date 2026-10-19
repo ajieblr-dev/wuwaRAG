@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:18Z",
+  "title": "Sakura Pedway",
+  "pageid": 38146,
+  "wikitext": "{{Location Infobox\n|image        = Sakura Pedway.png\n|type         = Area\n|nation       = The Black Shores\n|region       = Chronorift Metropolis\n}}\n'''Sakura Pedway''' is an [[Area]] located in [[Chronorift Metropolis]]. It is accessible via [[Stranger Things in Honami]].\n\n==NPCs==\n{{NPCs by Location List|Sakura Pedway}} \n\n==Other Languages==\n{{Other Languages\n|en   = Sakura Pedway\n|zhs  = 浮樱步行桥\n|zht  = 浮櫻步行橋\n|ja   = サクラデッキ\n|ko   = 사쿠라 보행교\n|fr   = Passerelle Sakura\n|de   = Sakura-Plattform\n|es   = Paso Elevado Sakura\n|th   = สะพานลอยฟ้าซากุระ\n}} \n\n==Change History==\n{{Change History|2.8}} \n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

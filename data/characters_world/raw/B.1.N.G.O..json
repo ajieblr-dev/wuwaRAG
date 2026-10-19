@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:40Z",
+  "title": "B.1.N.G.O.",
+  "pageid": 38986,
+  "wikitext": "{{stub}}\n{{NPC Infobox\n|name         = B.1.N.G.O.\n|image        = NPC B1NGO.png\n|title        = Battle Interface for Next-Gen Operations\n|type         = Open-World\n|type2        = Quest\n|nation       = Lahai-Roi\n|location     = Startorch Academy - Square\n|species      = Automaton\n|affiliation  = Spacetrek Collective\n|affiliation2 = Startorch Academy\n\n\u003c!-- VAs --\u003e\n|voiceEN      = [[imdb:nm10907178|Jack Ayres]]\u003cref\u003eX: [https://x.com/jackayres71/status/2007478657330139283 EN VA Self Announcement]\u003c/ref\u003e}}\n{{Quote|Hey, wait! You're not thinking of dumping trash in me, are you?!}}\n'''B.1.N.G.O.''' is an Automaton that offers [[Simulation Training]] at [[Startorch Academy - Square]] in [[Lahai-Roi]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''B.1.N.G.O.''' Listen up! I'm the Battle Interface for the Next-Gen Operations, not a trash can! ...Ahem, well, not just a trash can.\n{{Dialogue End}}\n\n==Trivia==\n* B.1.N.G.O.'s current body was supposed to be temporary but it refused to transfer over to its new body.\u003cref\u003e[[Boltzmann#Dialogue|Boltzmann's Dialogue]]\u003c/ref\u003e\n\n==Other Languages==\n{{Other Languages\n|1_en   = B.1.N.G.O.\n|1_zhs  = B.1.N.G.O.\n|1_zht  = B.1.N.G.O.\n|1_ja   = B.1.N.G.O.\n|1_ko   = B.1.N.G.O.\n|1_fr   = B.1.N.G.O.\n|1_de   = B.1.N.G.O.\n|1_es   = B.1.N.G.O.\n|1_th   = B.1.N.G.O.\n\n|2_en   = Battle Interface for Next-Gen Operations\n|2_zhs  = 次世代战斗操作接口\n|2_zht  = \n|2_ja   = \n|2_ko   = \n|2_fr   = \n|2_de   = \n|2_es   = \n|2_th   = \n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "B.1.N.G.O.",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Battle Interface for Next-Gen Operations",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

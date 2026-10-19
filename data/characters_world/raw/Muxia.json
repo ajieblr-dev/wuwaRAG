@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:42Z",
+  "title": "Muxia",
+  "pageid": 74690,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Xuanfang Ministry of Development\n|affiliation      = Xuan Triad\n|affiliationNote  = \n|status           = Alive\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a [[NPC]] Xuanfang Warden.\n\n==Quests and Events==\n{{Quests and Events}}\n\n{{Dialogue Start}}\n==Idle==\n\n\n==Dialogue==\n:'''Muxia:''' This feels amazing. I could just hold it in my arms while I sleep tonight.\n\n:{{DIcon}} Are you here to pick up weapons?\n\n:'''Muxia:''' That's right. Master [[Leitao]] works fast and makes quality products. Lots of my colleagues come here when their weapons break.\n\n:'''Muxia:''' peaking of which, you should've already met his [[Leijia|daughter]], right?\n\n:{{DIcon}} I have.\n\n::'''Muxia:''' Quite the personality, doesn't she? The other day, I saw Master Leitao calling her over for dinner.\n\n:{{DIcon}} I haven't.\n\n::'''Muxia:''' Oh, then you should keep a lookout for a giant mechanical bird. Maybe bring her some fun little Automatons sometime.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Muxia\n|zhs  = 慕霞\n|zht  = 慕霞\n|ja   = 慕霞\n|ko   = 모하\n|fr   = Muxia\n|de   = Muxia\n|es   = Muxia\n|th   = Muxia\n|pt   = Muxia\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:24Z",
+  "title": "Liru",
+  "pageid": 38268,
+  "wikitext": "{{NPC Infobox\n|image=NPC Biao and Liru.png\n|type=Open-World\n|nation=Huanglong\n|location=Septimont\n|location2=Capitoline Hill\n|affiliation= Lollo Logistics\n}}\n__NOTOC__\n'''{{PAGENAME}}''' is a female Lollo Logistic NPC stationed in Septimont in {{Location|Capitoline Hill}}. She can be found with '''[[Biao]]''', talking about [[Maji]] and work.\n\n==Idle==\n{{Dialogue Start}}\n;(Day)\n:;Oh, hello, Chief Advisor Ma? Sorry to bother.\n:;It's us—Biao and Li! We joined [[Lollo Logistics]] together, remember?\n:;Uh, you don't really remember? Hmm... I...\n:;We used to have staff meals together, remember? Like that time you got so sick after eating we had to drag you to the clinic?\n\n==Dialogue==\n;(Night)\n:;'''Biao''' Have you heard? Maji just got promoted again.\n:;'''Biao''' He's already up to Tier 8 now, with some mouthful of a title, \"Senior Expert Regional Business Chief Advisor\" or something...\n:;'''Liru''' How many Shell Credits does he make a year with that rank?\n:;'''Biao''' You don't get it, it's not just about Shell Credits for him anymore.\n\n:'''Liru:''' \"Strategy,\" the approach you take to accomplish a task... \"Segmentation,\" grouping users or functionalities... \"Track,\" a particular field or industry...\n:{{DIcon}} What are you muttering about?\n::'''Liru:''' Haha, I've been cramming all these corporate buzzwords. Gotta keep up. Everyone's parroting Chief Advisor Ma's favorite phrases these days!\n::'''Liru:''' Honestly, they all mean the same thing in the end, but that's how the bosses talk in meetings now. This kind of lingo at least makes us sound professional, and maybe even well-educated.\n::'''Rover:''' ...\n:{{DIcon|Exit}} Leave.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Liru\n|zhs  = 丽茹\n|zht  = 麗茹\n|ja   = 麗茹（リールー）\n|ko   = 여진\n|fr   = Liru\n|de   = Liru\n|es   = Liru\n|th   = ลิรุ\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

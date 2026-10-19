@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:03Z",
+  "title": "Xian'ge",
+  "pageid": 10171,
+  "wikitext": "{{Stub}}\n{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = no\n|missing_NPC_location = no\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = no\n}}{{NPC Infobox\n|image            = Npc_xian'ge.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = Windchimer Store\n}}\n{{Lang|'''Xian'ge'''|zh=弦歌}} is an NPC in {{Location|Mt. Firmament}}. \nXian'ge is collecting [[Windchimer]]s to repair the broken Guqin. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Stub Dialogue}}\n{{Dialogue Start}}\n:{{DIcon}} I'd like to hand in Windchimer\n::'''Xian'ge:''' It's you! Good to meet you again. Did you collect any Windchimers recently? If so, I'd be happy to take them.\n:{{DIcon}} Chat\n::'''Xian'ge:''' Nice to see you again.\n::'''Xian'ge:''' Once the Guqin is repaired, I wonder what melodies and stories it may present.\n::'''Xian'ge:''' Haha, anticipating the unknown is also one of life's many joys.\n:{{DIcon|Exit}}\n\n----\n:''After handing in all Windchimers and repairing the Guqin''\n:(close the Delivery Completed screen quickly to see this dialogue)\n:'''Xian'ge:''' The broken Guqin is finally repaired! Thank you for your help!\n:'''Xian'ge:''' Can you feel the stories now? They are all woven into the melody it plays.\n:'''Xian'ge:''' I'll transcribe them to text later. Feel free to read them if you like.\n:'''Xian'ge:''' I'll stay here, playing the Guqin from now on. If you revisit, you'll always be greeted with my music.\n:'''Xian'ge:''' Please take good care of yourself, my friend. Until next time.\n----\n:''Chat after repairing Guqin''\n\n:{{DIcon}} I'd like to hand in Windchimer\n:'''Xian'ge:''' Hello again. Are you here for the music as usual?\n\n:{{DIcon}} Chat\n:'''Xian'ge:''' Did you hear it?\n:'''Xian'ge:''' People meet each other, say goodbyes, and depart with regrets... All these stories are encapsulated within the music.\n:'''Xian'ge:''' Yet, a story is just a story. Be it happy or sad, it has been told, and the end has been set.\n:'''Xian'ge:''' What I can do is to unveil and tell these stories concealed within the notes.\n:'''Xian'ge:''' After all, a story is meant to be told and to be heard. \n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xian'ge\n|zhs  = 弦歌\n|zht  = 弦歌\n|ja   = 弦歌（ゲンカ）\n|ko   = 현가\n|es   = Xian'ge\n|fr   = Xian'ge\n|de   = Xuange\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

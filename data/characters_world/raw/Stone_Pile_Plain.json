@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:36Z",
+  "title": "Stone Pile Plain",
+  "pageid": 6007,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1    = Stone Pile Plain\n|image     = Stone Pile Plain.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Central Plains\n}}\n'''Stone Pile Plain''' is an area of [[Central Plains]], [[Huanglong]]. \n\n==Other Languages==\n{{Other Languages\n|en   = Stone Pile Plain\n|zhs  = 叠石坪\n|zht  = 疊石坪\n|ja   = 重ね石の平地\n|ko   = 첩석 평지\n|es   = Llanura Pedregosa\n|fr   = Pile de Pierre\n|de   = Steinhaufenebene\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:52Z",
+  "title": "Capitoline Hill",
+  "pageid": 31640,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Capitoline Hill\n|image     = Capitoline hill.webp\n|world_map = Solaris-3\n|type      = Area\n|nation    = Rinascita\n|region    = Septimont}}\n{{Quote|An area at the base of Capitoline Hill, near the Borderline Fort. Herds graze in peace throughout lush pastures, and scattered villages nestle among ancient ruins. Yet even in such tranquility, small arenas remain a vital part of life.| [https://wutheringwaves.kurogames.com/en/main#regions ''Wuthering Waves Official Website'']}}\n\n'''Capitoline Hill''' is an area located in {{Location|Septimont|nocat=1}} and where the [[Capitoline Hill City|capital city]] of the region is located.\n\n== NPCs ==\n{{NPCs by Location List|Capitoline Hill}} \n\n==Trivia==\n* '''Capitoline Hill''' (''Mons Capitolinus; Campidoglio'') or '''Capitolium''' is one of the {{w|Seven Hills of Rome}}, earlier known as ''Mons Saturnius'' and dedicated to Roman god {{w|Saturn (mythology)|Saturn}}.\n=== Etymology ===\n* \"''Capitoline''\" is a precursor to the English word ''capitol'' and borrowed from the Latin word ''capitulum''.\n** ''Capitulum'' is formed from the Latin word ''caput'' (\"head\") and the diminutive suffix ''-ulum''. \n\n== Other Languages ==\n{{Other Languages\n|en   = Capitoline Hill\n|zhs  = 卡庇托山\n|zht  = 卡庇托山\n|ja   = カンピドーノの丘\n|ko   = 카피톨리누스 언덕\n|es   = Colina Capitolina\n|fr   = Colline Capitoline\n|de   = Kapitol\n}} \n\n== Change History ==\n{{Change History|2.4}} \n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

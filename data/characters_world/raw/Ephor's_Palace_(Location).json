@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:21Z",
+  "title": "Ephor's Palace (Location)",
+  "pageid": 40152,
+  "wikitext": "{{About|the location|the [[Factions|faction]]|Ephor's Palace}}\n{{Location Infobox\n|title     = Ephor's Palace\n|image     = Ephor's Palace.png\n|world_map = Solaris-3\n|type      = Point of Interest\n|type2     = Instance\n|nation    = Rinascita\n|region    = Septimont\n|area      = Capitoline Hill\n}}\n{{Description|An ancient marvel built by master artisans, the Ephor's Palace stands solemnly as a silent witness to the shifts of Septimont through the ages. As the administrative center of Septimont, it upholds the city's order and cohesion. Here, Septimont's leaders convene daily with the Ephor to chart the course of the land's future.}} \n{{Intro/Location}} \n\n==NPCs==\n{{NPCs by Location List|Ephor's Palace (Location)}} \n\n==Other Languages==\n{{Other Languages|Transclude=Ephor's Palace}}\n\n\n==Change History==\n{{Change History|2.4}} \n\n==Navigation==\n{{PoI Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

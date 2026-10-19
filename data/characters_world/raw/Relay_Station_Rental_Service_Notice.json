@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:10Z",
+  "title": "Relay Station Rental Service Notice",
+  "pageid": 39520,
+  "wikitext": "{{Terminology Infobox\n|image        = \n|type         = Lore\n|nation       = Lahai-Roi\n}}'''{{PAGENAME}}''' is a note found during [[Operation: Frontier Renewal]] and is added to its Archives, Spacetrek Observatory Files.\n\n==Text==\n\"The Relay Station combines garage, warehouse, rest areas, and basic laboratory facilities in a single complex, providing support for arduous field research and logistics operations. One of its key services is vehicle rental.\n\nThe station primarily offers three types of vehicles:\n- Hauler: A large vehicle designed for transporting heavy cargo.\n- Pathfinder: A medium-sized vehicle for personnel transfer, with limited cargo capacity.\n- Sprinter: A small vehicle optimized for rapid, solo transport.\n\nDue to limited vehicle availability, all applicants must submit a formal request. The staff will review each application and assign vehicles based on demonstrated need.\n\n'Lately, it seems like all the Haulers in Lahai-Roi are heading to the Spacetrek Observatory. Just how massive is that project?'\"\n\n==Other Languages==\n{{Other Languages\n|en   = Relay Station Rental Service Notice\n|zhs  = 关于整流车站的租车服务\n|zht  = 關於整流車站的租車服務\n|ja   = 統合支援デポが提供する乗り物レンタルサービスについて\n|ko   = 차량 종합 지원 센터의 렌터카 서비스에 관하여\n|fr   = Avis de service de location de la Station Relais\n|de   = Mitteilung über Mietservice der Übertragungsstation\n|es   = Nota del alquiler de la Estación de Enlace\n|th   = เกี่ยวกับบริการเช่ารถที่สถานีปรับกระแส\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Text",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

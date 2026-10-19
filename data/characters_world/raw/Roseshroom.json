@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:16Z",
+  "title": "Roseshroom",
+  "pageid": 23056,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Roseshroom\n|title=\n|image=Roseshroom Icon.png\n|dmgtype=Havoc\n|weakpoint=\n|echo=Yes\n|class=Elite\n|family=Tacet Discord\n|group=Tranquilite\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|An Elite Class Tranquilite TD distributed in the wetlands. No records have documented voluntary moving attempts of this TD.}}\n{{Intro/Enemy}}\n==Drops== \n{{Drops|Elite Tranquilite}}\n\n==Stats==\n{{Enemy Stats|Roseshroom}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Roseshroom|customheader=Roseshrooms}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Havoc damage}}.\u003cbr/\u003eRoseshrooms are fungus-like creatures inhabiting wetlands, whose caps are like the petals of a rose when fully bloomed, hence the name.\nWhile they are stationary, the core on their caps can gather and release light rays to attacked passing by creatures.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Roseshroom\n|zhs  = 刺玫菇\n|zht  = 刺玫菇\n|ja   = トゲバラタケ\n|ko   = 가시장미버섯\n|es   = Champirosa\n|fr   = Champirose\n|de   = Rosenpilz\n}}\n\n==Change History==\n{{Change History|1.0}} \n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

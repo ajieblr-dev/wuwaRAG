@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:09Z",
+  "title": "David Martinez",
+  "pageid": 41370,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|name             = David\n|realname         = David Martinez\n|image            = NPC David Martinez.png\n|title            = \n|type             = Quest\n|nation           = Night City\n|location         = \n|status           = Deceased\u003cbr\u003eKilled by Adam Smasher prior to the game's events.\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = {{w|Zach Aguilar}}\n|voiceCN          = \n|voiceJP          = {{w|Kenn (actor)|KENN}}\n|voiceKR          =  \n}}\n'''David Martinez''' is a quest-exclusive [[NPC]] that appears in [[At Dream's Edge]]. He is a part of the collaboration with {{w|Cyberpunk: Edgerunners}}.\n\n==Other Languages==\n{{Other Languages\n|en      = David\n|zhs     = \n|zht     = \n|ja      = \n|ko      = \n|es      = David\n|fr      = David\n|de      = David\n|th      = David\n}}\n\n==Change History==\n{{Change History|3.4}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

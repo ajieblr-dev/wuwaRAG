@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:58Z",
+  "title": "Hubert",
+  "pageid": 41375,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Ragunna City\n|location2 = \n|group            = \n|affiliation      = Black Alley\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''{{PAGENAME}}''' is an NPC that first appears in {{Quest|A Blaze in the Dark}}. He can be found sitting by the pool table at the [[Black Alley]] afterwards.\n\n{{Dialogue Start}}\n==Dialogue==\n:'''Hubert:''' Colleen is still out selling things. She'd be so happy to see you back in Black Alley.\n:{{DIcon}} Have things gotten better in Black Alley?\n:'''Hubert:''' Oh, I almost forgot. After Talos was apprehended, the Chamber of Discipline conducted a thorough search and confiscated everything.\n:'''Hubert:''' Their original plan was to destroy the Street's entrance to prevent it from becoming a base for criminals again...\n:'''Hubert:''' But an acolyte convinced them against it. And I heard the Montelli family also played a part.\n:'''Hubert:''' They had people come over for a clean-up and repurposed the \"assets\" Talos left behind. The things you see right here.\n:'''Hubert:''' And old people like us are also given jobs. Sharing the old stories about the Black Alley with anyone who visits here.\n:'''Hubert:''' Stories about Talos, the people that came before her, and the dark times under their rule\n:'''Rover:''' Remembering the past is important for Ragunna.\n:'''Hubert:''' Indeed, the Montellis who came here also said the same. \"Forgetting the past will only allow past mistakes to repeat themselves.\"\n:{{DIcon}} Everything will be better.\n:'''Hubert:''' A belief that I share as well, {{Rover}}.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Hubert\n|zhs  = 胡伯\n|zht  = 胡伯\n|ja   = ヒューバート\n|ko   = 후 할아버지\n|fr   = Hubert\n|de   = Hubert\n|es   = Hubert\n|th   = Hubert\n}}\n\n==Change History==\n{{Change History|2.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

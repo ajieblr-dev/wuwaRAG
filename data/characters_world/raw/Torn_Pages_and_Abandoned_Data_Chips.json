@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:50Z",
+  "title": "Torn Pages and Abandoned Data Chips",
+  "pageid": 27028,
+  "wikitext": "{{Terminology Infobox\n|title         = Torn Pages and Abandoned Data Chips\n|image         =\u003cgallery\u003e\nFile:Item Torn Pages.png|Torn Pages\nFile:Item Abandoned Data Chip.png|Data Chip\n\u003c/gallery\u003e\n|type          = Item Groups\n|type2         = Quest Items\n|type3         = Lore\n|rarity        = 3\n|source1       = [[Huanglong]] Exploration\n|source2       = [[Rinascita]] Exploration\n}}\n{{Description|Torn pages and Data Chips collected from around Solaris-3}}\n==Description==\n'''Torn pages''' and '''Abandoned Data Chips''' are [[Quest Items]] in ''[[Wuthering Waves]]''. Collecting a full set of them will unlock a  ''Tales of the Past and Present'' [[Side Quests|Side Quest]].\n\n==List of Items in this Group==\n{{#DPL:\n|namespace=\n|category=Items by ID\u0026Torn Pages and Abandoned Data Chips\n|uses=Template:Item Infobox\n|include={Item Infobox}:title:source1:quest:otherRelation\n|table=class=\"article-table sortable alternating-colors-table\",-,style=\"width: 200px;\"¦Name,How to Obtain,Quest,Completed book/data\n|tablerow=²{Item¦%%}²,%%,[[%%]],[[%%]],[[%%]]\n|ordermethod=sortkey\n|noresultsfooter=No Results\n}}\n\n==Other Languages==\n{{Other Languages\n|1_en  = Abandoned Data Chip\n|1_zhs = 旧数据集\n|1_zht = 舊數據集\n|1_ja  = 古いデータセット\n|1_ko  = 낡은 데이터집\n|1_es  = Chip de Datos abandonado \n|1_fr  = Données trouvées\n|1_de  = Verlassener Datenspeicherchip\n|2_en  = Torn pages\n|2_zhs = 散佚书页\n|2_zht = 散佚書頁\n|2_ja  = 散逸したページ\n|2_ko  = 흩어진 책장\n|2_es  = Páginas perdidas\n|2_fr  = Pages retrouvées\n|2_de  = Zerrissene Seiten\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Quest Items Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "List of Items in this Group",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Abandoned Data Chip",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Torn pages",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:57Z",
+  "title": "Patrizia",
+  "pageid": 36628,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Riccioli Islands\n|group            = \n|affiliation      = \n|title            = \n}}\n\n'''Patrizia''' is a male fishermen NPC found at Helm Village in [[Riccioli Islands]]. \n\n==Quests and Events==\n{{Quests and Events}}\n\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Patrizia''': Fresh octopus clams! Just pulled from the water!\n:'''Patrizia''': Care for a taste, hungry traveler?\n:{{DIcon}} Octopus clams?\n:'''Patrizia''': Absolutely fresh! Look at this one's siphons, still glistening with seawater!\n:'''Patrizia''': Just pop them open with a knife, squeeze on some lemon, and you're all set!\n:{{DIcon}} Eat them raw!?\n:'''Patrizia''': Oh, they're delicious, you've got to try them!\n:'''Patrizia''': If you're interested in buying, I've got the freshest stock around, no doubt about it.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Patrizia\n|zhs  = 帕特拉\n|zht  = 帕特拉\n|ja   = パトラ\n|ko   = 파트라\n|es   = Patrizia\n|fr   = Patrizia\n|de   = Patrizia\n}}\n==Change History==\n{{Change History|2.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

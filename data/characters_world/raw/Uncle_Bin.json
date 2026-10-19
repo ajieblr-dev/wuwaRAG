@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:53Z",
+  "title": "Uncle Bin",
+  "pageid": 10296,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|name             = Uncle Bin\n|image            = NPC Uncle Bin.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Port Gunchao\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Uncle Bin''' is an NPC in {{Location|Port Gunchao}}.\n\u003c!--\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n\n==Quests and Events==\n{{Quests and Events|{{subst:#titleparts:{{subst:PAGENAME}}}}}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Uncle Bin:''' If only Port Gunchao could always stay peaceful like this...\n:{{DIcon}} How long have you been a Patroller?\n:'''Uncle Bin:''' It's been many years since this port completed when I joined the Patrollers.\n:'''Uncle Bin:''' After that, I stayed here every day, handling immigration issues while guarding the port.\n:{{DIcon}} Don't you feel lonely?\n::'''Uncle Bin:''' No. I've got Port Gunchao with me. It's always there, quiet and peaceful.\n:{{DIcon}} Don't you feel bored?\n::'''Uncle Bin:''' No. Seeing the calm and peaceful Port Gunchao, it just puts my mind at ease.\n:'''Uncle Bin:''' Even if my legs grow old and weak, I'll still hold it dear in my heart.\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Uncle Bin\n|zhs  = 彬叔\n|zht  = 彬叔\n|ja   = 彬さん\n|ko   = 원빈\n|es   = Tío Bin\n|fr   = Monsieur Bin\n|de   = Onkel Bin\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

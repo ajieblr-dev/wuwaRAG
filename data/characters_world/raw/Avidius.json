@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:39Z",
+  "title": "Avidius",
+  "pageid": 35915,
+  "wikitext": "{{NPC Infobox\n|name             = Avidius\n|title            = \n|image            = Avidius In-game.png\n|type             = Quest\n|type2            = Resonator\n|nation           = Rinascita\n|location         = \n|group            = Gladiator\n|affiliation      = Septimont\n|affiliationNote  = Gladiator\n|affiliation2     = \n|status           = Deceased\u003cbr\u003eSacrified himself to stop the [[Dark Tide]] outbreak in [[Ragunna]].\u003cref\u003e{{Quest|The Bygone Shall Always Return}}\u003c/ref\u003e\n\n\u003c!-- Family --\u003e\n|relative         = Atilius\n|relativeNote     = ancestor \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = [[imdb:nm2968655|Harry McEntire]]\u003cref\u003eX: [https://x.com/HarryMcentire/status/1980572325037932973 EN VA Self Announcement]\u003c/ref\u003e\n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}{{Description|{{A|Vo main rinascita 2 11 18 5.ogg}} ''Then perhaps here in Ragunna, I am free to write my own story. Free to define my own \"existence.\" Free to create a reality of my own.''|Avidius, [[The Bygone Shall Always Return]]}}\n'''Avidius''' is a quest-exclusive [[NPC]] that first appears in {{Quest|By Sun's Burning Hand}}. \n\n==Profile==\nHe is a gladiator of Septimont, who is greatly favored by the Senate into becoming the Heroes of Hero and next Ephor. \n\nAfter noticing the inconsistency and gaps in his life, he realized he was one of the [[Cristoforo|Quillbearer's]] creations, causing him to have a tragic existential crisis. \n\n==Quests and Events==\n{{Quests and Events}} \n\n== Mentions ==\n{{Character Mentions}} \n\n==Trivia==\n===Etymology===\n* Avidius's name is likely a reference to ''Gaius Avidius Cassius'', a Syrian Roman general and usurper who attempted to take the title of emperor after hearing false news of the current emperor at the time succumbing to his illness. \n\n==Other Languages ==\n{{Other Languages\n|en   = Avidius\n|zhs  = 阿维狄亚\n|zht  = 阿維狄亞\n|ja   = アウィディウス\n|ko   = 아비디우스\n|es   = Avidius\n|fr   = Avidius\n|de   = Avidius\n}} \n\n==Change History==\n{{Change History|introduced=2.6}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Voicelines",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "4.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "8"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:36Z",
+  "title": "Franciscus",
+  "pageid": 27324,
+  "wikitext": "{{Meta|missing_NPC_dialogue=yes}}\n{{stub}}\n{{NPC Infobox\n|image            = NPC Franciscus.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Order of the Deep (Area)\n|group            = \n|affiliation      = Fisalia Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Franciscus''' is a prideful Fisalia member and Chief Musician for the [[Order of the Deep]] who appears outside of the [[Cathedral of Mercury]]. It is later revealed his haughty behavior is a guise to hide his insecurity and guilt. After confessing to Rover, he is now more calm and polite. \n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}''\n\n==Idle Quotes==\n{{Dialogue Start}}\n;(Near a [[Vox Sancti]] during the Day)\n:{{DIcon}} Nah. The tuning is flat... Might as well send it back to the \"dock\" for remodeling.\n\n;(Near the Confession Room at Night)\n:'''Franciscus:''' [[Levito]], oh... Levito...\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Near the Vox Sancti during the Day)\n:'''Franciscus:''' Nah. The tuning is flat... Might as well send it back to the \"dock\" for remodeling.\n:'''Franciscus:''' Huh? Who's there listening in? Are you trying to steal my tuning (Echo tuning) skills?\n:{{DIcon}} Who are you?\n:{{DIcon}} Woah, am I being blackmailed?\n:'''Franciscus:''' Do you not know who I am?\n:'''Franciscus:''' Franciscus of Fisalia, chief musician of the Order, a one-in-a-million musical genius, with all Vox Sancti under my command!\n:{{DIcon}} Oh.\n:{{DIcon}} Oh, wow.\n:'''Franciscus:''' You little uncultured- Oh, calm yourself Franciscus. Must keep it together for the honor of the Fisalia family...\n----\n;(Near the Confession Room at Night)\n:'''Franciscus:''' Levito, oh... Levito...\n:'''Franciscus:''' You were a true genius. And me? A mere mediocrity... a petty person even. I betrayed you...\n:'''Franciscus:''' Huh? Who's there?\n:{{DIcon}} How much did you drink?\n:{{DIcon}} I didn't hear anything...\n:'''Franciscus:''' ...Never mind. Friend, if you have a moment, could you indulge me in a brief confession?\n:'''Franciscus:''' Do you know Levito? He was once the Order's lead musician.\n:'''Franciscus:''' I saw him as my primary rival for the chief musician position and went head to head against him on every matter.\n:'''Franciscus:''' To ensure I got the spot, I publicly disparaged his work. I stooped so low as to spread rumors that his work broke the Order's doctrines. All the slandering I did... They worked. Led to his downfall.\n:'''Franciscus:''' I did these things because I was simply jealous of his talent. I couldn't compose such beautiful pieces, nor conduct the Vox Sancti to perform in such perfect unity...\n:'''Franciscus:''' To this day, I still cannot surpass him.\n:'''Franciscus:''' Then words came suddenly one day that he boarded the Pilgrim's Sail. I never heard from him again... only later did I learn the appalling truth of the pilgrimage.\n:'''Franciscus:''' If anything happened to Levito during his pilgrimage, my part in this shall not be pardoned...\n:{{DIcon}} You should say these words to Levito yourself.\n:'''Franciscus:''' If I could, I would tell him in person of my remorse...\n:'''Franciscus:''' Every night, I repent and punish myself with unbearable guilt. But when daylight comes, I put on my mask again.\n:'''Franciscus:''' Thank you for listening. As you can see, my arrogance... is just a facet of my self-loathing and guilt...\n:'''Franciscus:''' I fear my secret being revealed, yet my heart can't stop whispering it in the night...\n:'''Franciscus:''' This guilt... it's nearly crushing me...\n----\n;(After confession Near the Vox Sancti during the Day)\n:'''Franciscus:''' It's you. I'm  currently tuning these Vox Sancti.\n:'''Franciscus:''' Composing hymns, tuning the Echoes, and conducting the Vox Sancti ensemble to perform the piece flawlessly-these are the duties of the chief musician.\n:'''Franciscus:''' Vox Sancti are sacred species. Only the most pure and solemn hymns are worthy of their divine sounds.\n:'''Franciscus:''' But I still can't fully command them... only Levito could manage that.\n:'''Franciscus:''' Why is it... where lies the difference between us?\n----\n;(After Confession Near the Confession Room at Night)\n:'''Franciscus:''' Thank you for listening. This guilt... it's nearly crushing me...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Franciscus\n|zhs  = 弗兰切斯卡\n|zht  = 弗蘭切斯卡\n|ja   = フランキスクス\n|ko   = 프란체스카\n|es   = Franciscus\n|fr   = Franciscus\n|de   = Franciscus\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

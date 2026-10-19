@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:31Z",
+  "title": "Fleurdelys",
+  "pageid": 27001,
+  "wikitext": "{{CustomTabs\n|subpages=0\n|tab1=Fleurdelys\n|tab1name=Enemy\n|tab2=Reminiscence: Fleurdelys\n|tab2name=Echo}}\n{{About|the Weekly Boss|the Resonator|Cartethyia}}\n{{Enemy Infobox\n|displaytitle  = Fleurdelys (Boss)\n|name          = Fleurdelys\n|title         = \n|image         = Fleurdelys Icon.png\n|dmgtype       = Aero\n|dmgtype2      = \n|weakpoint     = Unknown\n|echo          = Yes\n|class         = Calamity\n|family        = \n|group         = \n|location      = [[The Wheel of Broken Fate]]\n|drops         = When Irises Bloom\n|variants      = Tactical Hologram: Fleurdelys\n|voiceEN       = \n|voiceCN       = \n|voiceJP       = \n|voiceKR       = \n}}\n{{Description|The otherworldly being that slumbers atop Avinoleum, a prophecy bestowed upon the mortal realm by the Divinity.}}\n{{Lang|Fleurdelys|zh=芙露德莉斯}} is a [[Calamity Class]] [[Weekly Challenge|Weekly]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in [[The Wheel of Broken Fate]].\n\n==Drops==\n{{Boss Rewards\n|weekly=1\n|exclusive=When Irises Bloom}} \n\n==Stats==\n{{Enemy Stats}}\n\n\u003c!--==Abilities== \n--\u003e\n==Trophies==\n{{Trophies|customheader=Fleurdelys}}\n\n==Description==\n{{Description|The fabricated Maiden, a vessel forged by divine hands.\u003cbr/\u003eHer birth was but a carefully orchestrated plot. Her life is but a marionette's dance upon the threads of fate.\u003cbr/\u003eYet, as she gazes into the designed past and yearns for the future she has longed for, the sword she wields shall cleave the very shackles of destiny.\u003cbr/\u003eAnd now, she craves an {{Rubi|End|Rebirth}}.|Description When Discovered}}\n\n==Other Languages ==\n{{Other Languages\n|en      = Fleurdelys\n|zhs     = 芙露德莉斯\n|zht     = 芙露德莉斯\n|ja      = フルールドリス\n|ko      = 플뢰르 드 리스\n|fr      = Fleurdelys\n|de      = Fleurdelys\n|es      = Fleurdelys\n}} \n\n==Change History==\n{{Change History|2.2}} \n\n==Navigation==\n{{Enemy Navbox}}\n[[Category:Characters]]\n\n[[zh:芙露德莉斯]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

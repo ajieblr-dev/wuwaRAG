@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:07Z",
+  "title": "Jinzhou (Area)",
+  "pageid": 6045,
+  "wikitext": "{{Stub}}\n{{Location Tabs|Map:Jinzhou|Interactive Map}}\n{{About|the area|the region|Jinzhou}}\n{{Location Infobox\n|image=Jinzhou.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Jinzhou\n}}\n'''Jinzhou (Area)''' is an area of [[Jinzhou]] (Region), [[Huanglong]]. \n\n==NPCs==\n{{NPCs by Location List|Jinzhou}}\n\n==Interactables==\n{{#dpl:|category = Jinzhou (Area) Terminology|ordermethod= title}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jinzhou\n|zhs  = 今州城界\n|zht  = 今州城界\n|ja   = {{Rubi|今州城|こんしゅうじょう}}\n|ko   = 금주성\n|es   = Jinzhou\n|fr   = Jinzhou\n|de   = Jinzhou\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Interactables",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

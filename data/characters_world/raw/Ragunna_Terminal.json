@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:09Z",
+  "title": "Ragunna Terminal",
+  "pageid": 25181,
+  "wikitext": "{{Terminology Infobox\n|image        = Ragunna Terminal.png\n|title        = Ragunna Terminal\n|type        = Lore\n}}\nA '''Ragunna Terminal''' is a lantern-shaped [[Terminal]]. In [[Ragunna]], Reserved Terminals are a rare sight, most Ragunnesi only being allowed to use Common Terminals.\n\nOwning a private Terminal requires registration at [[Order of the Deep|The Order]].\n\n==Other Languages==\n{{Other Languages\n|en   = Ragunna Terminal\n|zhs  = 拉古那的終端\n|zht  = 拉古那的終端\n|ja   = ラグーナのデバイス\n|ko   = 라군나의 단말기\n|es   = Terminal de Ragunna\n|fr   = Borne Ragunna\n|de   = Ragunna Terminal\n|th   = \n|pt   = \n}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

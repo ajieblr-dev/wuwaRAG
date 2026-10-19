@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:32Z",
+  "title": "Maccus",
+  "pageid": 36536,
+  "wikitext": "{{NPC Infobox\n|image            = Maccus.png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Septimont\n|group            = \n|affiliation      = \n|title            = \n}}\n'''Maccus''' is a male NPC located in [[Capitoline Hill City]] down in the arena hallway. \n\n==Dialogue==\n{{Dialogue Start}}\n:'''Maccus:''' Welcome to Colosseum Olymdos. Is there anything you'd wish to learn about this place?\n:{{DIcon}} About the Colosseum...\n::'''Maccus:''' Colosseum Olymdos is the most renowned arena in the city, and the hosting ground of the largest Echo tournament ever to exist—the Great Agon.\n::'''Maccus:''' Though the oval-shaped arena was built six hundred years ago, we apply the most advanced and modern technologies within every match.\n::'''Maccus:''' One can even say that the Colosseum is a microcosm of the city of Septimont.\n:{{DIcon}} About the Great Agon...\n::'''Maccus:''' The Great Agon, held every four years, is the grandest event there is in Septimont!\n::'''Maccus:''' Gladiators gear up for battle, with their dreams and passion at their shoulders as they march into the arena!\n::'''Maccus:''' You can feel everyone's anticipation brewing as we wait for the reveal of this year's champion!\n:{{DIcon}} About the teams...\n::'''Maccus:''' We've got quite a big competition this year... The most popular ones so far are Beasts Beneath, Vulcan Mining, Blue Furies...\n::'''Maccus:''' And of course, the team led by {{Rover}} and [[Lupa]]!\n::'''Maccus:''' Which teams will contend for the championship? Let's find out!\n{{Dialogue End}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Maccus\n|zhs  = 玛卡\n|zht  = 瑪卡\n|ja   = マーカ\n|ko   = 마쿠스\n|es   = Maccus\n|fr   = Maccus\n|de   = Maccus\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

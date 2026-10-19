@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:01Z",
+  "title": "Hurriclaw",
+  "pageid": 27284,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Hurriclaw\n|image         = Hurriclaw Icon.png\n|dmgtype       = Aero\n|weakpoint     = \n|class         = Elite\n|echo          = Yes\n|family        = Tacet Discord\n|group         = Howler\n|nation        = Rinascita\n|region        =\n|subregion     =\n|drops         =\n}}{{Description|A ferocious bear-mimic TD with great strength, swinging with hurricane-like force.}}\n{{Intro/Enemy}}\n==Drops==\n{{Drops|Elite Howler}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies|Hurriclaw|customheader=Hurriclaws}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES|nobold=1}} against {{Color|Aero|Aero DMG|nobold=1}}. A ferocious bear-mimic TD with Tacetite spikes on its head, neck, and shoulders. Its swings strike like a hurricane.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en  = Hurriclaw\n|zhs = 飓力熊\n|zht = 颶力熊\n|ja  = ハリケーン熊\n|ko  = 소용돌이 곰\n|es  = Ciclógarra\n|fr  = Tempours\n|de  = Hurriklaue\n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

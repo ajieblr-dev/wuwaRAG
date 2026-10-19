@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:07Z",
+  "title": "Qixian",
+  "pageid": 5988,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Qixian.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Qixian''' is an NPC in {{Location|Jinzhou}}.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Qixian:''' What a lovely day...\n:'''Qixian:''' Such a beautiful night. It would be a waste not to spend it with you, [[Lulu]].\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Qixian\n|zhs  = 齐贤\n|zht  = 齊賢\n|ja   = 斉賢（セイケン）\n|ko   = 제현\n|es   = Qixian\n|fr   = Qixian\n|de   = Qixian\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:40Z",
+  "title": "Baiju",
+  "pageid": 35593,
+  "wikitext": "{{NPC Infobox\n|name             = Baiju\n|image            = NPC Baiju.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n}}\nBaiju is a researcher for the [[Huaxu Academy]]. He can be found talking to [[Qinru]] during 07:00 to 18:00 and alone between 18:00 to 06:00.\n\n==Location==\n(-270,1319,7)\n\n==Quests and Events==\n{{Quests and Events|Baiju}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Day)\n:'''Baiju:'''  A quantitative change leading to a qualitative change is not just about the quantity. Have you factored in the weight?\n:'''Baiju:'''  The weight distribution of the weapon will affect the accuracy, speed, and even the effective range of the attack.\n:'''Baiju:'''  The current designs have an even weight distribution compatible with most wielder's habits, which was approximated by the Ordance Division through rounds of trials and modeling.\n:'''Baiju:'''  Instead of strategizing on paper out of pure imagination.\n:'''Baiju:'''  It's normal for ordinary people to be curious about the unknown Tacetite weapon, but if you're  serious about studying it—\n:'''Baiju:'''  –you should master the basics of Tacetite before you get ahead of yourself.\n:'''Baiju:'''  Like this, asking me every day, the work in my hands is almost too busy.\n\n;(Night)\n:'''Baiju:''' Ah, peace at last. Finally, I can have some time for me to think about the iteration of the [[Tacetite]] weapons.\n:'''Baiju:''' The most important in research is to block out frequent external disruptions. As a rookie researcher, I had the opportunity to collaborate with [[Mortefi]] before.\n:'''Baiju:''' He said that the research process is like playing a musical piece, the melody should be coherent and uninterrupted by any distractions from the audience.\n:'''Baiju:''' Though the grand tower of Tacetite studies is almost established, there are still two clouds obscuring the sky above it.\n:'''Baiju:''' Not far away, you can vaguely see a few small dark clouds drifting. What we have to do is to clear the clouds and let the sun shines through.\n:'''Baiju:''' After hearing this, it's like I was awakened from a daze and suddenly I found a path forward.\n:'''Baiju:''' Isn't it the reason why I set foot on this path to see the views behind those dark clouds? At the very least, I need to try to keep up.\n:'''Baiju:''' So that I can reach the highest point of the Tacetite building with everyone.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Baiju\n|zhs  = 白驹\n|zht  = 白駒\n|ja   = 白駒（ハクク）\n|ko   = 정렬\n|es   = Baiju\n|fr   = Baiju\n|de   = Baiju\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

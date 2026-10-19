@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:56Z",
+  "title": "Vida",
+  "pageid": 26079,
+  "wikitext": "{{Stub|Languages}}{{NPC Infobox\n|name             = Vida\n|title            = Stillwind Sundries\n|image            = NPC Vida.png\n|type             = Shop\n|nation           = Rinascita\n|location         = Egla Town\n|group            = \n|affiliation      = Pioneer Association\n|affiliationNote  = Former\n}}'''Marcello''' is an NPC in {{Location|Egla Town|nocat=1}}. She is the owner of [[Stillwind Sundries]], which is unlocked by the [[Tutorial Quest]]: [[When Colors Fade]].\n\n==Shop==\n{{Shop/Wrapper|currency = Resonant Calcite|note=Unlock Conditions|total=1,450+|vendor=Vida|\n{{Shop|Poetry and Paean Weapon Chest|150|1|total=1|note=}}\n{{Shop|MF Whisperin Core|x =5|5|50|total=1|note=}}\n{{Shop|MF Howler Core|x =5|5|50|total=1|note=}}\n{{Shop|Basic Ring|x =5|5|50|total=1|note=}}\n{{Shop|Shell Credit|x =10,000|5|30|total=1|note=}}\n{{Shop|Malleable Elite Class Echo I|x=1|100|1|total=1|note=Unlocks after using {{Item|Resonant Calcite|30|x=50}}}}\n{{Shop|Malleable Elite Class Echo II|x=1|100|1|total=1|note=Unlocks after using {{Item|Resonant Calcite|30|x=50}}}}\n{{Shop|Morphable Overlord Class Echo|x=1|10|50|total=1|note=Unlocks after using {{Item|Resonant Calcite|30|x=50}}}}\n{{Shop|Morphable Elite Class Echo|x=1|10|50|total=1|note=Unlocks after using {{Item|Resonant Calcite|30|x=50}}}}\n{{Shop|Morphable Common Class Echo|x=1|10|50|total=1|note=Unlocks after using {{Item|Resonant Calcite|30|x=50}}}}\n{{Shop|Shell Credit|x=10,000|5|30|total=1|note=Unlocks after using {{Item|Resonant Calcite|30|x=50}}}}\n{{Shop|Malleable Elite Class Echo I|x=1|100|??|total=1|note=Unlocks after using {{Item|Resonant Calcite|30|x=2,000}}}}\n{{Shop|Malleable Elite Class Echo II|x=1|100|??|total=1|note=Unlocks after using {{Item|Resonant Calcite|30|x=2,000}}}}\n{{Shop|MF Polygon Core|x=5|5|50|total=1|note=Unlocks after using {{Item|Resonant Calcite|30|x=2,000}}}}\n{{Shop|MF Tidal Residuum|x=5|5|50|total=1|note=Unlocks after using {{Item|Resonant Calcite|30|x=2,000}}}}\n{{Shop|Morphable Overlord Class Echo|x=1|10|??|total=1|note=Unlocks after using {{Item|Resonant Calcite|30|x=2,000}}}}\n{{Shop|Morphable Elite Class Echo|x=1|10|??|total=1|note=Unlocks after using {{Item|Resonant Calcite|30|x=2,000}}}}\n{{Shop|Morphable Common Class Echo|x=1|10|??|total=1|note=Unlocks after using {{Item|Resonant Calcite|30|x=2,000}}}}\n{{Shop|Shell Credit|x=10,000|5|30|total=1|note=Unlocks after using {{Item|Resonant Calcite|30|x=2,000}}}}\n}}\n\n\n==Dialogue==\n{{Dialogue Start}}\n;(First Interaction)\n:'''Vida:''' You're here at last! I was just wondering how much longer I'd have to wait.\n:{{DIcon}} Why did you suddenly reach out to me?\n:'''Vida:''' Because... 'Here's to a world of discoveries and wonders.'\n:'''Abby:''' Hmm, sounds familiar. Isn't that the slogan of the Pioneer Association?\n:{{DIcon}} Are you with the Pioneer Association?\n:'''Vida:''' I used to be. Back when I was a traveling merchant, I also worked briefly as a contract photographer for the Pioneer Association, capturing landscapes along the trade routes to earn some travel expenses.\n:'''Vida:''' Now... as you can see, those strange phenomena have drained the color from many places, making it harder to capture great photos. I've settled down and opened my own shop, so I haven't renewed my contract.\n:'''Vida:''' But deep down, I am still unable to move past the faded landscapes.\n:{{DIcon}} Do you want me to restore those areas?\n:'''Vida:''' Always feels like a breeze to chat with a sharp mind like yours. That is exactly why I got your contact from a former colleague. After all, no one wants the places in their memories to be covered in dull patches, right?\n:'''Vida:''' If we can only see those familiar landscapes in photos from now on... it's a depressing thought, isn't it?\n:{{DIcon}} Let's talk terms first.\n:{{DIcon}} How about a little something to sweeten the deal?\n:'''Vida:''' Certainly, I wouldn't expect you to help for free. The Faded Zones often hold abundant mineral deposits and resources. But they can't be accessed due to the influence of the Overflowing Palettes.\n:'''Vida:''' Restoring the zones will not only bring back the colors but also the resources. You can trade them with me for some... rare items on the market.\n:'''Abby:''' Sounds like this is her true intention...\n:'''Vida:''' As a merchant, it's my fundamental skill. So, what do you think? Those goods and offers are exclusively for partners.\n:{{DIcon}} Understood, let's seal the deal.\n:'''Vida:''' Alright, take a look at what's on the shelves. The resources are just what you need right now.\n----\n:{{DIcon}} Stillwind Sundries\n:;(Opens [[shop]])\n:{{DIcon}} Chat\n::'''Vida:''' {{Rover}}, Welcome! Would you like to see what's on the shelves?\n::{{DIcon}} Where did these rare items come from?\n:::'''Vida:''' I used to travel across different regions of Rinascita and built numerous business connections. Many of my goods come through their channels.\n:::'''Vida:''' Some items, however, have yet to hit the market for various reasons, such as master chef's secret recipes or practical medicine crafted by local artisans...\n:::{{DIcon}} Isn't that... a kind of black market?\n:::'''Vida:''' Hah, don't worry. Feel free to use whatever you buy here. No one's going to cause you any trouble. And even if they do... I'm sure you can handle it, right?\n::{{DIcon}} Ask about the special shop in Ragunna.\n:::'''Vida:''' Ragunna has a shop called \"[[Rosemary's Apothecary]].\" Perhaps you've visited it already. Its owner, Miss [[Rosemary]], is an odd client of mine. I wonder if you've noticed—\n:::'''Vida:''' She sometimes acts like a different person.\n::{{DIcon}} I'm good now.\n:::'''Vida:''' Some of the items on the shelves are limited in supply, but they will be restocked periodically. Be sure to check back often!\n{{Dialogue End}}\n==Other Languages==\n{{Other Languages\n|1_en   = Vida\n|1_zhs  = 薇达\n|1_zht  = 薇達\n|1_ja   = ビダ\n|1_ko   = 베다\n|1_es   = Vida\n|1_fr   = Vida\n|1_de   = Vita\n\n|2_en   = Stillwind Sundries\n|2_zhs  = 静风杂货\n|2_zht  = 靜風雜貨\n|2_ja   = スティルウインドストア\n|2_ko   = 무풍 잡화점\n|2_es   = Tienda Ventosereno\n|2_fr   = Magasin de la Brise\n|2_de   = Stillwind Laden\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Vida",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Stillwind Sundries",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

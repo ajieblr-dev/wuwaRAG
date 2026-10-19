@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:46Z",
+  "title": "Thus Says the Moon",
+  "pageid": 20599,
+  "wikitext": "{{Location Infobox\n|image        = \u003cgallery\u003e\nThus Says the Moon Context.png | In-Game\nThus Says the Moon Art.png | Art\n\u003c/gallery\u003e\n|type         = Point of Interest\n|icon         = Icon Thus Says the Moon.png\n|event        = By Moon's Grace\n|area         = Taoyuan Vale\n|region       = Central Plains\n|nation       = Huanglong\n}}\n{{Quote|Reading fortunes... Heh, let me check my master's notes first.\u003cbr/\u003e\u003cbr/\u003e\u003chr\u003e\u003cbr/\u003e\"Great Fortune Upon Us.\" That's the divination stall's blessing to the moon for our fair preparations. This is an\nauspicious moment!|[[Jianxin]]}}\n'''Thus Says the Moon''' is an event-exclusive [[Point of Interest|point of interest]] located in [[Taoyuan Vale]], [[Central Plains]], [[Huanglong]] during the [[By Moon's Grace]] event.\n\nPlayers can visit every day during the event for a buff that lasts until the [[Reset|daily reset]].\n\n==NPCs==\n* [[Uncle Dong]]\n\n==Descriptions==\n{{Description|\"Thus Says the Moon\" is where you get a taste of Huanglong's traditional fortune-telling. What wonders does the moon's reflection in the water predict for you? If you're not really into that, other divination methods such as reading fortune are also available.\u003cbr /\u003e{{Color|#a5a19d|Build or Upgrade this stall to gain more Popularity. Visit the stall to experience the mini-games for daily buffs.}}|[[Map]] description}}\n\u003cgallery\u003e\nThus Says the Moon Location.png|Location\n\u003c/gallery\u003e\n\n===Possible Buffs===\n{|class=\"article-table\"\n! Buff !! Effect\n|-\n|Horn|| Reduces stamina consumption by 15%\n|-\n|Neck|| Increases attack by 12%\n|-\n|Root|| Increases energy regen by 15%\n|-\n|Room|| Increases crit. rate by 8%\n|-\n|Heart|| Increases crit. damage by 16%\n|-\n|Tail|| Reduces the cooldown of Grapple by 25%\n|-\n|Winnowing Basket|| Increases the drop rate of Echoes by 20%\n|}\n\n==Dialogue==\n{{Transclude|Uncle Dong|By Moon's Grace}}\n\n==Trivia==\n*The daily buffs' names correlate to the seven mansions of the Azure Dragon: Horn (角), Neck (亢), Root (氐), Room (房), Heart (心), Tail (尾), and the Winnowing Basket (箕). Sentinel Jué represents Horn, and Sentinel Hsin represents Heart.\n\n==Other Languages==\n{{Other Languages\n|en   = Thus Says the Moon\n|zhs  = 卜问月\n|zht  = 卜問月\n|ja   = 問月占い\n|ko   = 달점\n|es   = Adivinación lunar\n|fr   = Ainsi parlait la Lune\n|de   = Mond-Weissagung\n}}\n\n==Change History==\n{{Change History|1.2}}\n\n==Navigation==\n{{PoI Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Possible Buffs",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "8"
+    }
+  ]
+}

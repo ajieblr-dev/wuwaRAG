@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:28Z",
+  "title": "\"Eris\"",
+  "pageid": 39788,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|name             = \"Eris\"\n|image            = \n|type             = Mentioned\n|affiliation      = Fractsidus\n}}'''\"Eris\"''' is an Overseer and Vice Architect of the [[Fractsidus]] who is first mentioned during [[All That Sunlight Touches]]. Their identity remains unknown and \"Eris\" is a codename, although [[Luuk Herssen]] was able to discover that they run the Fractsidus' critical monetary operations in the [[New Federation]].\n\n==Trivia==\n===Etymology===\n*[[wp:Eris (mythology)|Eris]] {{Lang|grc=Ἔρις}} is the Greek goddess of strife and discord. It is also the name of a [[wp:Eris (dwarf planet)|dwarf planet]].\n\n==Other Languages==\n{{Other Languages\n|en   = \"Eris\"\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n}}\n\n==Change History==\n{{Change History|introduced=3.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "4"
+    }
+  ]
+}

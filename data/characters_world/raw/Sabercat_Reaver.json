@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:19Z",
+  "title": "Sabercat Reaver",
+  "pageid": 39007,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Sabercat Reaver\n|image         = Sabercat Reaver Icon.png\n|dmgtype       = Fusion\n|echo          = Yes\n|class         = Elite\n|family        = Tacet Discord\n|group         = Clamorling\n|nation        = Lahai-Roi\n}}\n{{Description|A highly aggressive predatory machine that prowls the wilderness of Lahai-Roi, hunting any sign of movement.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Elite Lahai-Roi Clamorling}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Trophies==\n{{Trophies|Sabercat Reaver}} \n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES|nobold=1}} to {{Color|[[Fusion]] DMG|nobold=1}}.\u003cbr /\u003e\u003cbr /\u003eWhen Sabercat Reaver is under Tune Rupture - Shifting and hit by [[Tune Break]], it takes additional DMG equal to 25% of its Max [[HP]], triggered only once.\u003cbr /\u003e\u003cbr /\u003eThis predatory machine has a single purpose: to shred everything in its path. It prowls the wilderness of Lahai-Roi, hunting any sign of movement. With the relentless buzz of its tail-mounted chainsaw, it seeks to execute its targets with cruel efficiency.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sabercat Reaver\n|zhs  = 锯袭铁影\n|zht  = 鋸襲鐵影\n|ja   = リッパーシェード\n|ko   = 세이버캣 리버\n|fr   = Saccageur à dents de sabre\n|de   = Säbelzahnpanther\n|es   = Saqueador Félido\n|th   = Sabercat Reaver\n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

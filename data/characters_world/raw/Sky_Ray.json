@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:29Z",
+  "title": "Sky Ray",
+  "pageid": 6037,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Sky Ray\n|image=Sky Ray.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Jinzhou\n}}\n'''Sky Ray''' is an area of [[Jinzhou]], [[Huanglong]]. \n\n==Other Languages==\n{{Other Languages\n|en   = Sky Ray\n|zhs  = 泷垂川\n|zht  = 瀧垂川\n|ja   = {{Rubi|滝垂川|たきたれかわ}}\n|ko   = 급류 하천\n|es   = Rayo del cielo\n|fr   = Rivière du Ciel\n|de   = Himmelsstrahl\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

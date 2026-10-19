@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:37Z",
+  "title": "Suan'ni",
+  "pageid": 900,
+  "wikitext": "{{Stub}}{{Terminology Infobox\n|image        = LingYangProfileReveal.jpg\n|type         = Lore\n}}\n'''Suan'nis''' are mythical beasts, possessing Resonance Abilities akin to those of human [[Resonators]]. \n\nHaving been driven to near extinction, [[Lingyang]], going by the alias \"Jingle Beast,\" is believed to be the last living Suan'ni.\n\n== History==\nThe Suan'nis used to live under the giant [[Violet Banyan]] tree in the [[Dim Forest]], far from human civilization. It is believed that Moon Lanterns on the Violet Banyan tree were hung by the Suan'nis, who yearned for light in the dark forest, even if it was only artificial.\u003cref\u003eSide Quest: [[When Moonlight Shines in the Forest]]\u003c/ref\u003e\u003cref\u003eSide Quest: [[Under the Moonlit Banyan]]\u003c/ref\u003e\n\nLegends suggest that humans and Suan'ni used to have a closer relationship. The Suan'ni once led human troops in their battles against [[Tacet Discord]]s, and were honored as an auspicious beast and a loyal friend by humans. This inspired the Liondance, which continues to be practiced in [[Huanglong]]. This relationship was strained when the [[Waveworn Phenomenon]] began to flourish and [[Tacet Field]]s devoured their jungles.\u003cref\u003e[[Study on Mythical Beasts in Huanglong]]\u003c/ref\u003e\n\nThe Suan'nis were forced into human territories, causing significant conflicts due to their formidable powers and wild nature. This led to their reputation as dangerous and evil beings, as well as their near extinction.\u003cref\u003eCompanion Story: [[Wild Heart's Return]]\u003c/ref\u003e\n\n==Trivia==\n*According to Fang Yizhi, Suan'ni are one of the {{w|Nine sons of the dragon}}, a set of mythological creatures whose imagery is used in certain types of decorations. Suan'ni are associated with incense burners and are fond of smoke and fire. They are often lion-like, sometimes with manes of fire or bodies of dragons.\n\n==Other Languages==\n{{Other Languages\n|en      = Suan'ni\n|zhs     = 狻猊\n|zht     = 狻猊\n|ja      = {{Rubi|狻猊|さんげい}}\n|ko      = 산예(狻猊)\n|es      = Suan'ni\n|fr      = Suan Ni\n|de      = Suan'ni\n|th      = \n|pt      = \n}}\n\n==References==\n{{Reflist}}\n==Navigation==\n{{Lore Navbox|Terminology}}\n\n[[Category:Lore]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

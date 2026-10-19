@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:58Z",
+  "title": "Hoochief Menace",
+  "pageid": 23084,
+  "wikitext": "{{Stub}}\n{{Enemy Infobox\n|name          = Hoochief Menace\n|title         =\n|image         = Hoochief Menace Icon.png\n|dmgtype       = Aero\n|weakpoint     =\n|echo          = No\n|class         = Elite\n|family        = Tacet Discord\n|group         = Howler\n|nation        = Huanglong\n|region        = Dim Forest\n|subregion=\n|drops=\n}}{{Description|An Elite Class Howler TD living nomadically across Dim Forest. Individuals live in packs. Records show that this TD is fractious and prone to stealing human objects.}}\n'''Hoochief Menace''' can leave behind an [[Echo]]. However, this Echo turns into a [[Hoochief/Echo|Hoochief's Echo]] when absorbed.\n\n==Drops==\n{{Drops|Elite Howler}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies|Hoochief Menace|customheader=Hoochief Menaces}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES|nobold=1}} to {{Color|Aero DMG|nobold=1}}. \nMimetic apes that appear in areas of dense forest seem to make a statement by stealing human objects as trophies.\nThe Hoochief Menace is particularly manic compared to other mimic apes, and its fists can unleash a blistering barrage of attacks.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en  = Hoochief Menace\n|zhs = 躁乱戏猿\n|zht = 躁亂戲猿\n|ja  = 狂撃の猿\n|ko  = 조급한 까부는 원숭이\n|es  = Jefemico Problemático\n|fr  = Houlice frappeur\n|de  = Hoochief Menace\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

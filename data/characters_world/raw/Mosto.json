@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:40Z",
+  "title": "Mosto",
+  "pageid": 37329,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Averardo Vault\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Ludvika''' is a male [[NPC]] merchant visiting the [[Averardo Vault (Instance)]]. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Mosto:''' Hello, my dear friend. Are you here for business too?\n:{{DIcon}} Yeah.\n:{{DIcon}} Just having a look around.\n:'''Mosto:''' You're not from [[Rinascita]], right? Where are you from?\n:{{DIcon}} [[Huanglong]].\n:{{DIcon}} [[The Black Shores]].\n:{{DIcon}} The lands beyond the sea.\n:'''Mosto:''' Ah, such bravery cross those vast seas, facing the storms and the lurking [[Tacet Discord]]s...\n:'''Mosto:''' Haha, reminds me of the [[Montelli Family|Montelli family]]'s motto. I'm not one of them, but as a [[Ragunna]] native, I respect their courage.\n:'''Mosto:''' They sailed far and wide bringing back [[Terminal]]s, [[Shell Credit]]s, and mountains of wealth to Rinascita.\n:'''Mosto:''' The [[Order of the Deep|Order]] wasn't too happy about it, and I doubt the Primus would want people lured by wealth, straying from the path of the Sentinel.\n:{{DIcon}} What do you think about it?\n:'''Mosto:''' Me? I'm not leaving Rinascita. Wealth or legends, none of that matters to me.\n:'''Mosto:''' Even if I wanted to \"fall from grace,\" there's very little chance of that happening. So I don't think about it much.\n:'''Mosto:''' As a humble merchant with no great lineage, I'm content with what I have.\n{{Dialogue End}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Mosto\n|zhs  = 莫斯托\n|zht  = 莫斯托\n|ja   = モースト\n|ko   = 모스토\n|fr   = Mosto\n|de   = Mosto\n|es   = Mosto\n|th   = Mosto\n|pt   = \n}}\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

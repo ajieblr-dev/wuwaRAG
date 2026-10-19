@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:47Z",
+  "title": "Thundercrest \u0026 Galecrest",
+  "pageid": 42174,
+  "wikitext": "{{Stub|location}}\n{{Enemy Infobox\n|name       = Thundercrest \u0026 Galecrest\n|image      = Thundercrest Gladiator Icon.png\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Human\n|nation     = Rinascita\n|region     = Titanbone Expanse\n|level      = 120\n}}\n'''Thundercrest \u0026 Galecrest''' are a [[Special Enemies|special enemy]] found in {{Location|Septimont|nocat=1}}.\n\n==Location==\n{{Map Embed|Septimont|Thundercrest \u0026 Galecrest}}\n\n==Trophies==\n{{Trophies|Thundercrest \u0026 Galecrest|customheader=Thundercrest \u0026 Galecrest}} \n\n==Other Languages==\n{{Other Languages\n|en  = Thundercrest \u0026 Galecrest\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n|pt  = \n}} \n\n==Change History==\n{{Change History|2.4}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

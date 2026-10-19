@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:44Z",
+  "title": "Biao",
+  "pageid": 38267,
+  "wikitext": "{{NPC Infobox\n|image=NPC Biao and Liru.png\n|type=Open-World\n|nation=Huanglong\n|location=Septimont\n|location2=Capitoline Hill\n|affiliation= Lollo Logistics}}\n__NOTOC__\n'''{{PAGENAME}}''' is a male Lollo Logistic NPC stationed in Septimont. He can be found with '''[[Liru]]''', talking about [[Maji]] and the ranking system.\n\n==Idle==\n{{Dialogue Start}}\n;(Day)\n:;Oh, hello, Chief Advisor Ma? Sorry to bother.\n:;It's us—Biao and Li! We joined [[Lollo Logistics]] together, remember?\n:;Uh, you don't really remember? Hmm... I...\n:;We used to have staff meals together, remember? Like that time you got so sick after eating we had to drag you to the clinic?\n\n==Dialogue==\n;(Night)\n:;'''Biao''' Have you heard? Maji just got promoted again.\n:;'''Biao''' He's already up to Tier 8 now, with some mouthful of a title, \"Senior Expert Regional Business Chief Advisor\" or something...\n:;'''Liru''' How many Shell Credits does he make a year with that rank?\n:;'''Biao''' You don't get it, it's not just about Shell Credits for him anymore.\n\n:'''Biao:''' We Septimont branch was named Most Valuable Department last month, but someone anonymously called our team a bunch of freeloaders on the company forum...\n:'''Biao:''' I mean, why are people making such a big deal out of this rating system? We're all part of the same company, right? Sure, they get the flashy road shows while we handle the grunt work, but we're still on the same team!\n:{{DIcon}} That makes sense.\n::'''Biao:''' Sure, we promise, we deliver! But none of that happens unless every single one of us does our part. That's what matters.\n::'''Biao:''' This new rating system? It just turns all our hard work into cold numbers.\n:{{DIcon|Exit}} Leave.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Biao\n|zhs  = 阿彪\n|zht  = 阿彪\n|ja   = 彪（ビャオ）\n|ko   = 현표\n|fr   = Biao\n|de   = Biao\n|es   = Biao\n|th   = เปียว\n}}\n\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

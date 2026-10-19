@@ -1,0 +1,114 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:37Z",
+  "title": "Augusta",
+  "pageid": 31310,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}} \n\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 5\n|class            = Congenital\n|weapon           = Broadblade\n|role             = Main Damage Dealer; Heavy Attack Damage; DMG Amplification\n|attribute        = Electro\n|releaseDate      = 2025-08-28\n\n\u003c!-- Info --\u003e\n|name             = \n|title            = Magnetism Before Light\n|title2           = Ephor of Septimont\n|title3           = Champion of the Great Agon\u003cref\u003e{{Quest|Shadow of Glory}} — (\"Ephor Augusta's are the most popular. Four years ago, she became the champion and a household name by crushing every single opponent. From there, she worked her way up into the Ephor's seat.\")\u003c/ref\u003e\n|title4           = Hero of Heroes \u003csmall\u003e(shared with Rover)\u003c/small\u003e\n|gender           = Female\n|age              = \n|birthday         = \n|birthplace       = \n|nation           = Rinascita\n|affiliation      = Septimont\n|affiliation2     = Ephor's Palace\n|affiliation3     = Fabianum\n|sigil            = \n|dish             = Sweetleaf Blooming Bread\n|obtain           = Eternal Radiance on the Crown\n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm2542896|Alix Wilton Regan]]\u003cref name=\"Augusta Bilibili\"/\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/zh-hans/穆雪婷 Mu Xueting ({{Lang|mini=1|zh=穆雪婷}})]\u003cref name=\"Augusta Bilibili\"\u003eBilibili: [https://www.bilibili.com/video/BV1FaeLzjE3L/ 《鸣潮》共鸣者战斗演示 | 奥古斯塔]\u003c/ref\u003e\n|voiceJP          = {{w|Yoko Hikasa|Hikasa Yōko ({{Lang|mini=1|ja=日笠陽子}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/1933402738492387500 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/이지현(성우) Lee Ji-hyun ({{Lang|mini=1|ko=이지현}})]\u003cref name=\"Augusta Bilibili\"/\u003e\n}}\n{{Quote|With the blazing sun as witness... Glory, bow before us.|Augusta}}\n{{Intro/Resonator|Augusta}} The fearless Ephor of [[Septimont]] with a will of iron, she remains a fiercely resilient yet humble leader despite the immeasurable hardships of her childhood and tenure as a Gladiator. Though a mere mortal, she has mastered the arts of combat, strategy, and her Forte through countless conflicts, reaching heights few others like her have ever attempted to reach.\n\n==Official Introduction==\n{{Quote|Augusta is the undefeated gladiator in the arena and a fearless leader with a will of iron.\u003cbr /\u003eShe is a mere mortal, but has reached heights of glory attempted by only a few, and her blade speaks her power loud and clear.|[https://wutheringwaves.kurogames.com/en/main#resonators Introduction from the Official Website.]\n}}\n\n==Combat Overview==\n{{Main|Augusta/Combat}}\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Augusta|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Trivia== \n===Etymology=== \n*Augusta may be a reference to [[wikipedia:Augustus|Gaius Julius Caesar Augustus]], the founder of the Roman Empire and the first Roman Emperor.\n\n==Other Languages==\n{{Other Languages\n|en   = Augusta\n|zhs  = 奥古斯塔\n|zht  = 奧古斯塔\n|ja   = オーガスタ\n|ko   = 아우구스타\n|es   = Augusta\n|fr   = Augusta\n|de   = Augusta\n}}\n==Change History==\n{{Change History|2.6|introduced=2.4}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[zh:奥古斯塔]]\n[[ru:Августа]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "5.1",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "14"
+    }
+  ]
+}

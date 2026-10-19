@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:41Z",
+  "title": "Mr. Millkeeper",
+  "pageid": 39920,
+  "wikitext": "{{stub|location}}\n{{NPC Infobox\n|name=Whisperwind Knight\n|image=Whisperwind Knight.png\n|realname=Conrad\n|nation=Rinascita\n|location=Whisperwind Haven\n|title2=Wandering Knight Conrad}}\n'''{{PAGENAME}}''' is an male NPC located at [[Polyphemos Windmills]] in [[Whisperwind Haven]].\n\nIn the quest, {{Quest|The Last Knight}}, it is revealed he and the other Windmill Keepers pretended to be knights in their youth, which created the knight's legend in [[Egla Town]]. Later on, he was dubbed as '''Whisperwind Knight''' by {{Rover}}. \n\nWhen spoken to again after {{Quest|The Last Knight}}, he reveals his real name is Conrad and how the Windmill Keepers became fugitives from the Order for being accomplices to the knights who wished to seek out the Blessed Maiden. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Location==\n\n==Dialogue==\n{{Dialogue Start}}\n;(After completing [[The Last Knight]])\n:'''Whisperwind Knight:''' Great to see you, {{Rover}}.\n:'''Whisperwind Knight:''' Thank you for helping young [[Carlow]] last time, hehe... The Whisperwind Knight Conrad salutes you.\n:{{DIcon}} So you remember your own name now?\n::'''Whisperwind Knight:''' Yes, my name's Conrad, once known as the Wandering Knight Conrad, or Conrad who was never recognized as a true knight.\n::'''Whisperwind Knight:''' Before the Order had me marked as a fugitive, I was once a farmer, a fisherman, a carpenter, and a soldier guarding Ragunna against the Dark Tide.\n::'''Whisperwind Knight:''' Now just an old man bestowed with the title of Whisperwind Knight.\n:{{DIcon}} Are you happy with this title?\n::'''Whisperwind Knight:''' I'm quite satisfied.\n::'''Whisperwind Knight:''' Even if the knights fade from the future of history of Ragunna, the wind by the water will remember that we were here.\n:{{DIcon|Option}} Tell me about the past of the Whisperwind Knight.\n::'''Whisperwind Knight:''' Twenty years ago, we were just a bunch of country folk inspired by the tales of the Blessed Maiden and the Knights fighting against the Dark Tide. We dreamt of becoming knights ourselves.\n::'''Whisperwind Knight:''' We were soldiers, craftsmen, and farmers. While we may not stand beside the knights in battle, we hold our positions steadfastly, inspired by their tales. \n::'''Whisperwind Knight:''' After the Dark Tide, we arrived in Ragunna, expecting to see triumphant knights. Instead, in the city square, we found the knights on their knees. The Order condemned them for blasphemy, simply because they suggested a journey to the seminary to seek the Blessed Maiden.\n::'''Whisperwind Knight:''' The valiant knights stood tall, shouting defiantly against the sharp blade of the Echoes, invoking the name of Imperator... And some people rushed to save them.\n::'''Whisperwind Knight:''' ... In the end, we were all deemed accomplices and faced retribution. Those who survived banded together and left Ragunna, becoming the first of the wandering knights.\n:{{DIcon}} Good to see you. Gotta leave.\n::'''Whisperwind Knight:''' Goodbye, may glory and courage always light your path.\n----\n;(After completing {{Quest|Dawn Breaks on Dark Tides}})\n:'''Whisperwind Knight:''' When we're young, we yearn to grow up. When we're old, we grieve the years we've lost.\n:'''Whisperwind Knight:''' The battle from two decades past still feels as if it happened yesterday.\n:'''Whisperwind Knight:''' I thought I'd forgotten most of it... but the moment I heard the Blessed Maiden's call, I knew I'd been wrong. Completely wrong. That battle had never left me.\n:'''Whisperwind Knight:''' So once more, I raised my weapon high and advanced into the Dark Tide, her voice guiding my every step.\n:'''Whisperwind Knight:''' I never imagined I'd live to see the day the wandering knights fought for glory again.\n:'''Whisperwind Knight:''' If this were to be the final chapter before history ends, we met it with contentment.\n:'''Whisperwind Knight:''' May glory and courage, as ever, light your path.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|1_en   = Mr. Millkeeper\n|1_zhs  = 风车爷爷\n|1_zht  = 風車爺爺\n|1_ja   = 風車おじいさん\n|1_ko   = 풍차 할아버지\n|1_fr   = Monsieur Meunier\n|1_de   = Herr Mühlenhüter\n|1_es   = Señor Guardamolino\n|1_th   = Mr. Millkeeper\n\n|2_en   = Whisperwind Knight\n|2_zhs  = 拂风骑士\n|2_zht  = 拂風騎士\n|2_ja   = そよ風の騎士\n|2_ko   = 바람의 기사\n|2_fr   = Chevalier des murmures\n|2_de   = Flüsterwind-Ritter\n|2_es   = Caballero Cantabrisa\n|2_th   = อัศวินลมกระซิบ\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Mr. Millkeeper",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Whisperwind Knight",
+      "number": "4.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

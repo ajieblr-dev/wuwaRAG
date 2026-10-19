@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:33Z",
+  "title": "Major Forbidden Archive",
+  "pageid": 77311,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title       = Major Forbidden Archive\n|image       = Major Forbidden Archive.png\n|icon        = Instance Map Marker.png\n|world_map   = Solaris-3\n|type        = Point of Interest\n|type2       = Instance\n|nation      = Rinascita\n|region      = Nimbus Sanctum\n|description = An institution where the Order sealed all forbidden books and records, now lost beneath the depths of the lake during the Dark Tide.\n}}\nThe '''Major Forbidden Archive''' is a [[Point of Interest]] located in {{Location|Nimbus Sanctum}}. It's only unlocked after completing {{Quest|Hymn of the Sea of Clouds: Storm}}.\n\n==Overview==\nEntered during {{Quest|Hymn of the Sea of Clouds: Storm}}, the Major Forbidden Archive is the ''former'' Major Forbidden Archive that belonged to the [[Order of the Deep]] before the [[Dark Tide]] of [[Nimbus Sanctum]] swallowed it whole. The Major Forbidden Archive is where the Order stored the books, tales, and ideologies that were deemed dangerous.\u003cref name=\"QUEST\"\u003e{{Quest|Hymn of the Sea of Clouds: Storm}}\n:'''Lenore:''' It's called the Minor Forbidden Archive. We have two: one big, one small. The Major Forbidden Archive is where we store all the really dangerous books, tales, and ideologies. Only the most devout servants of the Sentinel are permitted to serve there!\n:[...]\n:'''Lenore:''' This is the site of the Order of the Deep's Major Forbidden Archive—well, the former site.\n:'''Lenore:''' After the Dark Tide, it was buried beneath Nimbus Sanctum along with all of its secrets.\u003c/ref\u003e\n\nOnly the most devout servants of the [[Sentinel]], [[Imperator]], were permitted to serve the Major Forbidden Archive.\u003cref name=\"QUEST\" /\u003e\n\n==NPCs==\n{{NPCs by Location List|Major Forbidden Archive}}\n\n==Other Languages==\n{{Other Languages\n|en   = Major Forbidden Archive\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{PoI Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

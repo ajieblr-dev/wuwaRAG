@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:48Z",
+  "title": "Graham",
+  "pageid": 27314,
+  "wikitext": "{{Meta\n|missing_NPC_dialogue = yes\n}}{{stub}}{{NPC Infobox\n|image            = NPC Graham.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = Lollo Logistics\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Graham''' is a male NPC who appears in [[Ragunna]], [[Rinascita]].\n\nDuring the daytime, he can be seen talking to [[Orrin]]. Meanwhile at night, he can be seen talking to [[Nara]], [[Hamm]], and [[Bill]].\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n;(during the daytime)\n:'''Orrin:''' Some of your business jargon confuses me.\n:'''Graham:''' Feel free to ask me anything!\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(during the daytime)\n:'''Orrin:''' Some of your business jargon confuses me.\n:'''Graham:''' Feel free to ask me anything!\n:'''Orrin:''' For example, what does \"combination moves\" mean? Does it refer to a self-defense technique used by your staff?\n:'''Graham:''' Uh... here it refers to various measures working together to achieve a common goal.\n:'''Orrin:''' I see! And what about \"granularity\"?\n:'''Graham:''' You can think of it as the level of detail... How do I put this... Right! Just like ground pepper—you can grind it to coarse or fine!\n:'''Orrin:''' Got it. Thank you for explaining. This \"Maggie\" fellow has a rather interesting way of putting things.\n:'''Graham:''' Maggie...? Oh, oh! You mean my colleague, Maji!\n:'''Orrin:''' I'm quite interested in his work. I'd appreciate it if you could introduce me sometime.\n:'''Graham:''' It would be my pleasure. I'll let him know.\n----\n;(at Night)\n:'''Graham:''' ...Lollo Logistics' motto is \"We Promise, We Deliver!\"\n:'''Graham:''' No matter where, we'll be at your service, fully committed to guarding your shipments!\n:'''Graham:''' Look at these freeze dried jerkies—fresh from Rinascita to Huanglong. Kitties in Jinzhou love it!\n:'''Hamm:''' Huh? Isn't that a Hound? Why would a Hound be called \"Kitty\"?\n:'''Graham:''' Uh... well... that's not the point here!\n:'''Hamm:''' The point is, how can a Hound be called Kitty? Kitty is clearly a name for a cat—it must be a misdelivery.\n:'''Nara:''' Right! This goes against common sense. Is Lollo Logistics really reliable?\n:'''Bill:''' Exactly! By this logic, Lollo Logistics should be renamed to \"Chichi Logistics.\"\n:'''Hamm:''' What do you mean?\n:'''Bill:''' See, the Lollo Logistics mascot is a hamster! Hamsters don't go \"lo-lo-lo,\" they go \"chi-chi-chi\"!\n:'''Graham:''' Well... I can explain! Everyone, let me explain!\n:'''Graham:''' When a hamster's cheeks are full of food, it makes a \"lo-lo\" sound.\n:'''Graham:''' And do you see the deep pockets on our vests? They're super spacious, and super efficient!\n:'''Graham:''' No matter how oddly shaped the shipment, Lollo Logistics can \"swallow it whole!\"\n:'''Graham:''' So, in summary, if you need courier services, Lollo Logistics is the way to go!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Graham\n|zhs  = 格兰姆\n|zht  = 格蘭姆\n|ja   = グランム\n|ko   = 그렌\n|es   = Graham\n|fr   = Graham\n|de   = Graham\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

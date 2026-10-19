@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:53Z",
+  "title": "Caroline",
+  "pageid": 38405,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Caroline.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Caroline''' is a staff for Startorch Academy, found near the Academy [[Resonance Nexus]], talking with her colleague, '''Ristina'''.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Caroline:''' KU-Tata from the Black Shores HR... applying for a campus visitation pass?\n:'''Caroline:''' Did the Black Shores change their recruiters? I thought it was Ms. [[Paranora]] and Mr. [[Aalto]].\n:'''Ristina:''' Yeah. Mr. Aalto got sent to the [[New Federation]] for urgent marine insurance issues, so the application changed at the last minute.\n:'''Caroline:''' But biometic scans and frequency checks don't work on a [[KU-Roro]]... How am I supposed to approve this?\n:'''Ristina:''' Good point... Has a KU-Roro ever entered Lahai-Roi before? How did they handle it?\n:'''Caroline:''' Let me check... Oh, the Black Shores just shipped it here... Shipped it?\n:'''Caroline:''' Sender: Mr. Aalto. Courier: Mr. Wei from Lollo Logistics.\n:'''Ristina:''' E-economy shipping? Well, I guess that works...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Caroline\n|zhs  = 卡洛莉娜\n|zht  = 卡洛莉娜\n|ja   = カロリーナ\n|ko   = 칼로리네\n|fr   = Caroline\n|de   = Caroline\n|es   = Caroline\n|th   = Caroline\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

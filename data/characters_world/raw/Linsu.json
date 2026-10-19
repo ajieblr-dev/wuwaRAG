@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:24Z",
+  "title": "Linsu",
+  "pageid": 4422,
+  "wikitext": "{{NPC Infobox\n|image            = Linsu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Bogu's Arbor\n|title            = Bogu's Arbor Owner\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = [[Linling]]\n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Linsu''', also called Grandma Lin, is an NPC in [[Jinzhou]]. \n\n==Profile==\nShe is the fourth and current owner of Bogu's Arbor, a penjing shop. [[Verina]] and [[Rongqing]] help her with the store.\n\nShe is the mother of [[Linling]].\n\n==Quests and Events==\n{{Quests and Events|Linsu}}\n\n==Location==\n{{Map Embed|Jinzhou|79|nogroup=1}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Oh, how I love these stories...\n\u003c!--::{{A|VO Siqi 01.ogg}} \"{{tx}}\"--\u003e\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Linsu:''' Welcome to Bogu's Arbor. Take your time to look around.\n:{{DIcon}} Chat\n::'''Linsu:''' Hello dear, come choose a {{Rubi|penjing|bonsai}} for yourself. Not only do they add a touch of green to your space, but they also freshen up the air!\n::'''Linsu:''' Don't worry, even if you're not buying anything, I'm always happy to have company.\n:{{DIcon}} About the Arbor\n::'''Linsu:''' This penjing shop? It's been around for ages. I'm actually the fourth owner.\n::'''Linsu:''' My daughter Linling, well, she's got her own dreams and doesn't seem to be interested in taking over the shop.\n::'''Linsu:''' Let her be. I'm still feeling fine. I'm still going strong. As long as I can keep moving around, this shop won't close.\n:{{DIcon}} About Ronqing\n::'''Linsu:''' Rongqing? Oh, he's been a regular at my shop since before he started helping out here.\n::'''Linsu:''' He's studying penjing design and thought interning here would be a good fit.\n::'''Linsu:''' I agreed because I could tell by the way he looked at the penjings.... Such passion and sincerity in his eyes.\n::'''Linsu:''' It's great to see that kind of dedication. Though, he does tend to go a bit overboard with decorations sometimes. Miniature models, amber pebbles... you name it.\n::'''Linsu:''' But aiming for perfection isn't a bad thing. Hopefully, he'll refine his style as he learns more about penjing design.\n:{{DIcon}} About Verina\n::'''Linsu:''' Little Verina? She is such a sweet child. Her smiles always make me happy. She reminds me of the lovely Starflowers.\n::'''Linsu:''' She has been a great help. She knows a lot about everything plant-related.\n::'''Linsu:''' All her penjings are something else! So vibrant and enchanting.\n::'''Linsu:''' If only she were my granddaughter...\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Trivia==\n* Penjing, also known as penzai, is the ancient Chinese art of depicting artistically formed trees, other plants, and landscapes in miniature. It is the similar practice of Bonsai, but aims for a more natural and landscape sense in design. \n\n==Other Languages==\n{{Other Languages\n|en   = Linsu\n|zhs  = 林素\n|zht  = 林素\n|ja   = 林素（リンソ）\n|ko   = 린수\n|es   = Linsu\n|fr   = Linsu\n|de   = Linsu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

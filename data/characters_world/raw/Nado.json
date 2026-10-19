@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:42Z",
+  "title": "Nado",
+  "pageid": 30584,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Nado.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Fool's Elysium\n|group            = \n|affiliation      = Troupe of Fools\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Nado''' is a male NPC who appears in {{Location|Fool's Elysium|nocat=1}}.\n\n==Quests and Events==\n''(Not in any quest or event yet)'' \u003c!-- Remove if the NPC appears in any quest/events --\u003e\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Nado:''' I'm done. Inspiration's as elusive as the moon in the sky, and I'm just a headless seaweed adrift in the ocean...\n:{{DIcon}} What's wrong?\n:'''Nado:''' I'm... I'm the traveler without shoes, stumbling down a path to inspiration that's nothing but thorns... cough!\n:'''Nado:''' Alright, I'll confess. The truth is I just can't seem to write a thing.\n:'''Nado:''' I've got a handful of half-baked manuscripts, but none of them capture the life of the Blessed Maiden.\n:'''Nado:''' How did she grow up, and what aspirations did she set for herself? How were her studies in the seminary, and how did she pursue her dreams?\n:'''Nado:''' I'm at a loss. I can't even figure out the ending for this script. I talked with the captain about it earlier, and he's just as stumped.\n:'''Nado:''' Recently, I received a mysterious package. The captain says it's a private collection from the Fisalia family. No idea who sent it, but they must have had a soft spot for me...\n:'''Nado:''' After reading, I felt like I was on the verge of piecing it all together. But inspiration's like a shooting star. Every time I reach for it... poof! It slips through my fingers.\n:'''Nado:''' I don't know what to do! Perhaps I am just a seaweed. Brainless, drifting with the tide...\n----\n;(After {{Quest|Dawn Breaks on Dark Tides}})\n:'''Nado:''' I'm done. Inspiration's as elusive as Cetus the Tidebreaker, and I'm just a headless jellyfish adrift in the ocean...\n:{{DIcon}} What's wrong?\n:'''Nado:''' It's like the traces of Cetus the Tidebreaker are all over these waters, yet all I can do is chase their wake, never glimpsing the grand, graceful form itself.\n:'''Nado:''' Alright, truth is, there are too many ideas swirling in my head. I can't pin one down to begin the story. \n:'''Nado:''' You know, lately, reality has outstripped even the boldest plays I could dream up.\n:'''Nado:''' How is that even possible? I feel like a starving sailor locked in a room full of fish.\n:{{DIcon}} What if you wrote them all down?\n::'''Nado:''' Race against my own inspirations? I'd just end up stuck here, staring at a blank page.\n:{{DIcon}} Then throw them all out and find new ones.\n::'''Nado:''' Can a jellyfish turn into a human? Alas, that's about as likely as me doing what you said.\n:{{DIcon}} I've got some first-hand material for you.\n::'''Nado:''' What? Out with it! I'll write as you speak, though I might add a touch of polish here and there...\n:'''Nado:''' Well then, I'll start. I just need to get something on paper before I worry about whether it's beautifully written.\n:'''Nado:''' Ahh, my brain's running dry again! O fleeting inspirations, bless me with another kiss!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Nado\n|zhs  = 纳多\n|zht  = 納多\n|ja   = ナルド\n|ko   = 날토\n|es   = Nado\n|fr   = Nado\n|de   = Nado\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

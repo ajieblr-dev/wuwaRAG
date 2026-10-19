@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:12Z",
+  "title": "Yoh",
+  "pageid": 8356,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Yoh.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n'''Yoh''' is a Midnight Ranger NPC. She can be found in {{Location|Jinzhou}}, nearby [[Yhan]], during daytime.\n\n==Location==\n{{Map Embed|Jinzhou|Yoh}}\n\n==Idle==\n{{Dialogue Start}}\n:'''Yoh:''' The numbers don't add up... Hmm, I should count again.\n----\n;(After one day past in-game)\n:'''Yoh:''' What an ingenious way to use this thing! Those years of service in logistics certainly taught you a few things... I'd take notes.\n\n==Dialogue==\n:'''Yoh:''' Forty-six... Forty-eight... Fifty... What's the matter? Are you looking for me?\n:{{DIcon}} You look very busy.\n:'''Yoh:''' Yes, the inventories won't do themselves.\n:'''Yoh:''' Phew... If only I could go to the front line like the seniors of Vanguard... All I do now is count these stupid boxes every day. There's no end to this job...\n:{{DIcon}} You are the buttress that supports the battles on the front line.\n::'''Yoh:''' You're right, [[Qingxi]] says this to me as well. I was too being short-sighted.\n::'''Yoh:''' Even the simplest logistic duties concern the safety of Jinzhou and the livelihood of the comrades on the frontline. There's no room for mistakes.\n:{{DIcon}} I believe you can become the Vanguard.\n::'''Yoh:''' Thank you, I will try my best. But, enough with my whining. If I can't even handle these trivial matters, I won't make it to the front line.\n::'''Yoh:''' Although the Rearguard is in charge of logistics and defense on the back, I heard many of the former Rearguard members earned honors no inferior to those of the Vanguard. Perhaps my mundane task is a form of training. I can't beat myself up anymore.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yoh\n|zhs  = 阿游\n|zht  = 阿遊\n|ja   = 遊\n|ko   = 아유\n|es   = Yoh\n|fr   = Yoh\n|de   = Yoh\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

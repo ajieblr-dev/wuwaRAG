@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:33Z",
+  "title": "Aleksander",
+  "pageid": 27292,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Aleksander.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Bank Street\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Aleksander''' is a male NPC who works as a tour guide in [[Rinascita]]. \n\nFrom 6:00 AM to 5:59 PM he can be seen talking with [[Lian]] in front of the hotel near [[Trattoria Margherita]]. \n\nMeanwhile, around 6:00 PM to 10:59 PM, he can be seen with his cat, haggling with [[Bellano]] at the [[Montelli Quarter]] marketplace.\n\n==Quests and Events==\n{{Quests and Events}}\n''(To be Added)''\n\n==Dialogue==\n{{Dialogue Start}}\n;\u003cnowiki\u003e(6:00 AM to 5:59 PM)\u003c/nowiki\u003e\n:'''Aleksander:''' Is your luggage all set up in your room? As your guide, let me share some important travel tips for Ragunna.\n:'''Lian:''' Alright... Is this going to be about the [[Order of the Deep|Order]] and the Sentinel again?\n:'''Aleksander:''' I won't cover that topic since you should already know it. This time, I'll focus on dining customs.\n:'''Aleksander:''' Don't add ice to your espresso, don't use scissors to cut your pasta at the table, and definitely don't order cappuccino at dinner...\n:'''Lian:''' Uh, okay...\n:'''Aleksander:''' And for Sentinel's sake, don't just eat the center of the pizza and leave the precious crust! The last person who did that ended up on the [[Pilgrim's Sail]].\n:{{DIcon}} ...?\n:'''Lian:''' I would never do that! Besides, is the consequence really that severe?\n:'''Aleksander:''' There's a dish at the trattoria on the first floor of this hotel called [[Pizza Tropicale]]. Just remember, \u003cspan style=\"color: red\"\u003eit's called pizza, but it's definitely not one.\u003c/span\u003e\n:'''Aleksander:''' Once you leave that trattoria, don't mention it to any local. Even if someone asks, don't answer.\n:'''Lian:''' Now you're making me scared...\n----\n;\u003cnowiki\u003e(6:00 PM to 10:59 PM)\u003c/nowiki\u003e\n:'''Aleksander:''' Mister Bellano, you leave me no choice—\n:'''Bellano:''' You again! How many times must I tell you, no discounts!\n:'''Bellano:''' Keep it up, and I'll call in the Order Tribunal's Acolytes!\n:'''Aleksander:''' This is my cat, Aleksander II—come on! Say hello to the shopkeeper!\n:'''Aleksander II:''' Me-ow!\n:'''Bellano:''' ...\n:'''Aleksander II:''' Purrrrrr...\n:'''Bellano:''' ...Alright, fine, 20% off. No more.\n:'''Aleksander:''' Hooray!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Aleksander\n|zhs  = 亚历山大\n|zht  = 亞歷山大\n|ja   = アレクサンダー\n|ko   = 알렉산더\n|es   = Aleksander\n|fr   = Aleksander\n|de   = Aleksander\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

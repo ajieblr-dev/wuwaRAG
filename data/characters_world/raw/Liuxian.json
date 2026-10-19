@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:25Z",
+  "title": "Liuxian",
+  "pageid": 3333,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Liuxian Teahouse\n|title            = Liuxian Teahouse Keeper\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Liuxian''' is an NPC in {{Location|Jinzhou}}.\n\nLiuxian is the keeper of '''Liuxian Teahouse''', who calls [[Yuanwu]] \"Master\".\n\nLiuxian notes that:\n\n* [[Chenpi]] likes Pu'er tea\n* [[Pianyu]] prefers white tea\n* [[Yuanwu]] drinks fresh Trine Tea, \"a blend Master Yuanwu devised himself\"\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Liuxuan:''' Thanks to the patronage from my lovely neighbors, Liuxian Teahouse is still driving after all these years.\n:'''Liuxuan:''' When a regular customer enters the teahouse and sit down with their teacup ready, I would know exactly what tea they want to have.\n:'''Liuxuan:''' Chenpi likes to have Pu'er, Pianyu prefers white tea, and as for Master Yuanwu...\n:'''Liuxuan:''' I'd roast some fresh Trine Tea myself every day, wrap it in oil paper, and then bring it over to his boxing gym.\n:'''Liuxuan:''' It's a blend Master Yuanwu devised himself. I usually pick the tea leaves and roast them here at the teahouse.\n:'''Liuxuan:''' Sometimes I feel that relationships between people are like tea leaves. The more they are encompassed in warmth, the more fragrant they become.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|1_en   = Liuxian\n|1_zhs  = 六羡\n|1_zht  = 六羨\n|1_ja   = 六羨（ロクセン）\n|1_ko   = 육선\n|1_es   = Liuxian\n|1_fr   = Liuxian\n|1_de   = Liuxian\n\n|2_en   = Liuxian Teahouse\n|2_zhs  = 六羡茶馆\n|2_zht  = 六羨茶館\n|2_ja   = 六羨茶屋\n|2_ko   = 육선찻집\n|2_es   = Tienda del té Liuxian\n|2_fr   = Salon de thé Liuxian\n|2_de   = Teehaus Liuxian\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Liuxian",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Liuxian Teahouse",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

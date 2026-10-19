@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:34Z",
+  "title": "Marvin",
+  "pageid": 38436,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Marvin.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Rabelle College\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Marvin''' is a male student NPC found outside of the Infirmary, who is part of the Debate Fan Club.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Marvin:''' Hey there, interested in debating? You're welcome to join our Debate Fan Club!\n:{{DIcon}} (Listen to the debate topics.)\n:'''Marvin:''' Let's see… the hottest topic right now is—\n:'''Marvin:''' \"Does falling in love with a virtual character count as real love?\"\n:'''Marvin:''' Ahem… Gotta keep up with the times! But don't worry, we've got classics too!\n:'''Marvin:''' \"Does preserving civilization sometimes hold back its progress?\"\n:'''Marvin:''' \"If Solaris is a simulated world, does it still have meaning?\"\n:'''Marvin:''' Most topics aren't about right or wrong. Debating is really about thinking and learning to speak your mind.\n:'''Marvin:''' Plus, it's great practice for building up the nerve to face your thesis committee!\n:{{DIcon}} \"I choose to improve my thesis quality.\n:{{DIcon}} This actually sounds helpful.\n:'''Marvin:''' Then feel free to join anytime!\n{{Dialogue End}}\n\n==See Also==\n*[[Vera]] is also part of the Debate Club\n*[[Lucretia]] who wishes to attend a Debate with her friend, Patricia\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Marvin\n|zhs  = 马文\n|zht  = 馬文\n|ja   = 馬文\n|ko   = 말웬\n|fr   = Marvin\n|de   = Marvin\n|es   = Marvin\n|th   = Marvin\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

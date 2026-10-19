@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:35Z",
+  "title": "Stanik",
+  "pageid": 39044,
+  "wikitext": "{{stub}}\n{{NPC Infobox\n|name=Stanik\n|type= Open-World\n|image=NPC Silins.png\n|nation=Lahai-Roi\n|location=Startorch Academy - Teaching Zone\n|affiliation=Roya Tribe\n|affiliation2=Rabelle College}}\n\n'''Stanik''' is a NPC male Roya student, found giving an presentation in Rabelle College classroom about Royan culture with Professor '''[[Pepys]]'''. \n\n{{color|help|Players can attend Professor Pepys class at \u003cnowiki\u003e12:00-18:00\u003c/nowiki\u003e in the Rabelle College Classroom.}}\n\n==Locations==\n\n==Idle==\n:'''Pepys:''' The calender used by the Roya shares similarities with the solar calender.\n:'''Pepys:''' But the \"sun\" in their calender isn't the one in the sky. It's actually the Reactor Drive.\n:'''Pepys:''' The Sacred Reactor Calender has been used by the Roya for generations, with the Solisylum calculating and publishing a new version each year.\n:'''Pepys:''' Now, I'll hand it over to Stanik to walk us through how the calender has changed over the years...\n:'''Stanik:''' Before we begin this discussion, there's something I need to clarify.\n:'''Stanik:''' Roya customs devloped gradually around our mission here at Startorch.\n:'''Stanik:''' The sun gives us day, night, and seasons. The Void Storms eat away at the world.\n:'''Stanik:''' Shepherds help the Exoswarm migrate, and in doing so, gather data on the Reactor Drive and the Void Storms for the Solisylum.\n:'''Stanik:''' In that way, you can say the calender is a custom that grew directly from our mission to tend to the Exoswarm and monitor Void Storms.\n\n==Dialogue==\n{{Dialogue Start}}\n;Sit Down\n:'''Rover:''' I know this class...\n:{{DIcon}} (Pay close attention.)\n::'''Stanik:''' Before we begin this discussion, there's something I need to clarify.\n::'''Stanik:''' Roya customs devloped gradually around our mission here at Startorch.\n::'''Stanik:''' The sun gives us day, night, and seasons. The Void Storms eat away at the world.\n::'''Stanik:''' Shepherds help the Exoswarm migrate, and in doing so, gather data on the Reactor Drive and the Void Storms for the Solisylum.\n::'''Stanik:''' In that way, you can say the calender is a custom that grew directly from our mission to tend to the Exoswarm and monitor Void Storms.\n:{{DIcon}} (Doze off.)\n;(Time will be \u003cnowiki\u003e18:00\u003c/nowiki\u003e afterwards)\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n{{Other Languages\n|en   = Stanik\n|zhs  = 斯塔尼克\n|zht  = 斯塔尼克\n|ja   = スタニク\n|ko   = 스타니크\n|fr   = Stanik\n|de   = Stanik\n|es   = Stanik\n|th   = Stanik\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Locations",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

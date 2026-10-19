@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:41Z",
+  "title": "Mr. Xiangli",
+  "pageid": 42764,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Mi'zhi.png\n|type             = Mentioned\n|nation           = \n|location         = \n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          =\n|child            = Xiangli Yao\n|relative         = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Mr. Xiangli''' is [[Xiangli Yao]]'s father, a [[Court of Savantae]] researcher who disappeared without a trace.\n\n==Quests and Events==\n{{Quests and Events|Mr. Xiangli}}\n\n==Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Mr. Xiangli\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|1.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Cherished Items",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

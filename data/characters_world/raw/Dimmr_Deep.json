@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:12Z",
+  "title": "Dimmr Deep",
+  "pageid": 40786,
+  "wikitext": "{{Location Infobox\n|title  = Dimmr Deep\n|image  = Dimmr Deep.png\n|type   = Region\n|map    = Solaris-3\n|nation = Roya Frostlands\n}}\n{{Intro/Location|Dimmr Deep}}\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Frostseize Isle\"\n|[[Frostseize Isle]]\n|[[File:Frostseize Isle.png|180px]]\n|\n|- id=\"Endreach Barrens\"\n|[[Endreach Barrens]]\n|[[File:Endreach Barrens.png|180px]]\n|\n|- id=\"Tomorrow's Horizon\"\n|[[Tomorrow's Horizon]]\n|[[File:Tomorrow's Horizon.png|180px]]\n|\n|- id=\"Keystone\"\n|[[Keystone]]\n|[[File:Keystone.png|180px]]\n|\n|- id=\"Solvein Heartwood\"\n|[[Solvein Heartwood]]\n|[[File:Solvein Heartwood.png|180px]]\n|\n|}\n\n==Quests==\n{{Quest by Category List|Dimmr Deep Quests}}\n\n==Exploration Report==\n===Mr. Chase's Speech Following the Stridergate Incident (Excerpt One)===\n* Achieve 50% Area Exploration Progress to unlock the full report.\n\n{{Transclude|Mr. Chase's Speech Following the Stridergate Incident (Excerpt One)|Text|main=1}}\n\n===Mr. Chase's Speech Following the Stridergate Incident (Excerpt Two)===\n* Achieve 100% Area Exploration Progress to unlock the full report.\n\n{{Transclude|Mr. Chase's Speech Following the Stridergate Incident (Excerpt Two)|Text|main=1}}\n\n==Notable Features==\n\n===Enemies===\u003c!--\n====Common Class====\n* {{Enemy|Abyssal Gunmaster}} \u003cexample\u003e\n--\u003e\n====Elite Class====\n* {{Enemy|Kronaclaw}}\n\n===Resources===\n* {{Item|Dream of Stars}}\n* {{Item|Cradle Lichen}}\n* {{Item|Foxtail Kelp}}\n* {{Item|Luxite}}\n* {{Item|Meteoric Iron}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dimmr Deep\n|zhs  = 恒黯之原\n|zht  = 恆黯之原\n|ja   = ディマー・ディープ\n|ko   = 영원한 어둠의 평원\n|fr   = Tréfonds de Dimmr\n|de   = Dimmr-Tiefe\n|es   = Profundidades de Dimmr\n|th   = ทุ่งอนธการนิรันดร์\n|pt   = \n}}\n\n==Change History==\n{{Change History|3.3}} \n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Mr. Chase's Speech Following the Stridergate Incident (Excerpt One)",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Mr. Chase's Speech Following the Stridergate Incident (Excerpt Two)",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Enemies",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Elite Class",
+      "number": "4.1.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.2",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "12"
+    }
+  ]
+}

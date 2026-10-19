@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:08Z",
+  "title": "Cruisewing",
+  "pageid": 23152,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Cruisewing\n|title=\n|image=Cruisewing Icon.png\n|dmgtype=Spectro\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Howler\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A Common Class Howler TD often found floating in the wild. Its power is puny.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Howler}}\n\n==Stats==\n{{Enemy Stats|Cruisewing}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Cruisewing|customheader=Cruisewings}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Spectro damage}}.\u003cbr/\u003eMayfly-like animals with a light body. They have wings like those of butterflies. Good at circling their enemies with flexible moves.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Cruisewing\n|zhs  = 游弋蝶\n|zht  = 游弋蝶\n|ja   = 遊弋蝶\n|ko   = 순회나비\n|es   = Alitaveloz\n|fr   = Fiçaile\n|de   = Cruisewing\n}}\n\n==Change History==\n{{Change History|1.0}} \n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

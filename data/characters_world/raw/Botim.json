@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:46Z",
+  "title": "Botim",
+  "pageid": 26177,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Botim.png\n|type             = Event\n|nation           = Rinascita\n|affiliation      = Fisalia Family\n|affiliation2     =\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Botim''' is a male NPC. He is the heir of the [[Fisalia Family]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Botim\n|zhs  = 波提姆\n|zht  = 波提姆\n|ja   = ボティム\n|ko   = 포팀\n|es   = Botim\n|fr   = Botim\n|de   = Botim\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

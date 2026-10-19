@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:08Z",
+  "title": "Joanne",
+  "pageid": 26178,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_dialogue = yes\n}}\n{{NPC Infobox\n|image            = NPC Joanne.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n\n\u003c!-- Clan/family --\u003e\n|relative         = Hector\n|relativeNote     = Nephew\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Joanne''' is an NPC located in {{Location|City Square|nobold=1}}.\n\nDuring the daytime (6:00 AM - 5:59 PM), she can be seen standing alone, and when interact with her, she will start talking about the shipping documents for the merchant ship. \n\nWhile at night (6:00 PM - 05:59 AM), she can be seen talking with [[Hector]] about granting him two days of free time in the [[Septimont]].\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the daytime)\n:'''Joanne:''' How did the shipping documents for the merchant ship to Septimont end up getting held up? Ugh, looks like I'll have to work overtime.\n:{{DIcon}} Is the process for merchant ships really that strict?\n:'''Joanne:''' Oh, not at all! I think the issue is with the documents I submitted.\n:'''Joanne:''' Like Ragunna, Septimont is an autonomous city-state under Rinascita, and the shipping routes between the two aren't tightly regulated.\n:'''Joanne:''' Sorry, I should have explained that more clearly. You might not know this, but Rinascita is a nation of a thousand islands, composed of several city-states.\n:'''Joanne:''' So usually, travel between city-states is pretty smooth and frequent.\n:'''Joanne:''' If you've ever been to the Ragunna port, you'd see lots of cargo ships getting ready to set sail.\n:{{DIcon}} What kinds of goods do they trade between city-states?\n:'''Joanne:''' It varies, depending on what resources each area has to offer.\n:'''Joanne:''' For example, Ragunna's ships are mainly loaded with local spices and sulfur, as well as medicines made from rare deep-sea plants.\n:'''Joanne:''' These goods are sent to Septimont in exchange for large amounts of Tacetite that Ragunna needs.\n----\n;(At night)\n:'''Joanne:''' Hector, I'll grant you two days of free time in the Septimont.\n:'''Joanne:''' Return to Ragunna on time in two days and report to me at the bank.\n:'''Hector:''' Aunt Joanne... you're drilling this into my ears...\n:'''Joanne:''' That's not how you address me! Mr. Hector.\n:'''Hector:''' Yes, ma'am... Lady Joanne.\n:'''Joanne:''' Before we set sail, you swore to Imperator.\n:'''Hector:''' Hail Imperator. I, Hector, swear I'll never again bet on gladiator fights in the Septimont's underground casinos—\n:'''Hector:''' Or let me perish at sea, never to return home!\n:'''Joanne:''' If you're going to perish, fine. But don't drag down your colleagues or the cargo; they've done nothing wrong.\n:'''Joanne:''' You can watch matches, but if I find you at the betting tables again—\",\n:'''Hector:''' —you'll fire me on the spot, freeze all my accounts, and have me sent to Averardo Vault's underground worksite.\n:'''Joanne:''' I promised your mother I'd take care of you. Don't make her shed any more tears.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Joanne\n|zhs  = 乔安\n|zht  = 喬安\n|ja   = ジョアン\n|ko   = 조안\n|es   = Joanne\n|fr   = Joanne\n|de   = Joanne\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

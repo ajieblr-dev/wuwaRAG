@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:26Z",
+  "title": "Loong's Rest",
+  "pageid": 9058,
+  "wikitext": "{{Location Infobox\n|title1=Loong\u0026#39;s Rest\n|image=Loong\u0026#39;s Rest.png\n|world_map=Solaris-3\n|type = Area\n|description = The dormant ground for Sentinel \"Jué\". In relentless winds and year-round snow, scarce traces of humanity can be found here. Rumor has it that formidable obstacles are set to hinder steps from whom dare to trespass its domain.\u003cref\u003e[https://wutheringwaves.kurogames.com/m/en/main/news/detail/921 '' Wuthering Waves Official Website '']\u003c/ref\u003e\n|nation = Huanglong\n|region = Mt. Firmament\n}}\n\n'''Loong\u0026#39;s Rest''' is an area of {{Location|Mt. Firmament}}\n\n==Description==\n{{Stub}}\n\n==Features==\nOne of the the [[Traces of Mt. Firmament]] is located here - \"Mianloong Chamber.\"\n\n===Interactables===\n{{#dpl:|category= Loong's Rest Terminology|ordermethod= title}}\n\n==NPCs==\n{{NPCs by Location List|Loong's Rest}}\n\n==Gallery==\n\u003cgallery\u003e\nTraces of Mt. Firmament VII.png|Mianloong Chamber\n\u003c/gallery\u003e\n\n==References==\n{{Reflist}}\n\n==Other Languages==\n{{Other Languages\n|en   = Loong's Rest\n|zhs  = 卧龙冈\n|zht  = 臥龍岡\n|ja   = {{Rubi|臥龍|がりゅう}}の丘\n|ko   = 용의 언덕\n|es   = Montículo Loong\n|fr   = Colline de Loong\n|de   = Loongs Ruhe\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Features",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Interactables",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "9"
+    }
+  ]
+}

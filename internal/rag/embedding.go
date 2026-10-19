@@ -184,6 +184,11 @@ var stopWords = map[string]bool{
 	"do": true, "does": true, "did": true, "what": true, "which": true, "who": true,
 	"whom": true, "this": true, "that": true, "these": true, "those": true, "am": true,
 	"it": true, "its": true, "as": true, "if": true, "so": true, "then": true,
+	"tell": true, "me": true, "can": true, "could": true, "would": true, "happen": true,
+	"happened": true, "happens": true, "play": true, "played": true, "role": true,
+	"there": true, "their": true, "siapa": true, "apa": true, "dimana": true,
+	"kapan": true, "kenapa": true, "mengapa": true, "bagaimana": true, "tentang": true,
+	"adalah": true, "itu": true, "ini": true, "yang": true,
 }
 
 func generateDeterministicVector(text string, dim int) []float32 {

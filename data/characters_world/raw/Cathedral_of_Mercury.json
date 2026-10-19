@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:55Z",
+  "title": "Cathedral of Mercury",
+  "pageid": 27168,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Cathedral of Mercury\n|image     = Cathedral of Mercury.png\n|icon      = Cathedral of Mercury Map Marker.png\n|world_map = Solaris-3\n|type      = Point of Interest\n|type2     = Instance\n|nation    = Rinascita\n|region    = Ragunna City\n|area      = Order of the Deep (Area)\n}}\n{{Description|A two-tiered holy edifice in Ragunna City, devoted to the worship of the Sentinel's statue. It also serves as the seat of the Order of the Deep. The upper water chapel connects to the sea that flows through Ragunna City, with its waters rising and falling with the tides as if breathing in time with the Sentinel. Thus, it is known as the Tidal Sanctuary.}} \n{{Intro/Location|Cathedral of Mercury}}\n\nIt is the seat of the [[Order of the Deep]].\n\n==NPCs==\n{{NPCs by Location List|Cathedral of Mercury}}\n\n==Other Languages==\n{{Other Languages\n|en   = Cathedral of Mercury\n|zhs  = 水星天教堂\n|zht  = 水星天教堂\n|ja   = マーキュリー礼拝堂\n|ko   = 머큐리 성당\n|es   = Catedral de Mercurio\n|fr   = Cathédrale du Mercure\n|de   = Kathedrale des Merkurs\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{PoI Navbox|Rinascita}}\n[[zh:水星天教堂]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:15Z",
+  "title": "Yukari",
+  "pageid": 39195,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Yukari.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Square\n|group            = \n|affiliation      = Department of Voidmatters\n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC female student found at night north of the {{Rubi|Solis Lens Array|Lahai-Roi Resonance Nexus}}, talking about \"The Academy's 100 Great Mysteries\" with her classmate, '''Ketahe'''.\n\n{{Dialogue Start}}\n==Idle==\n:'''Yukai:''' Supernatural stories are just \"unexplained phenomena!\"\n:'''Yukai:''' Aren't you curious?\n\n==Dialogue==\n:'''Yukai:''' This is the forum! The home of campus ghost stories and urban legends!\n:'''Ketahe:''' Wait, the Academy follows materialism, right? Why do we even have a supernatural forum?\n:'''Yukai:''' They're just \"unexplained phenomena!\" Aren't you curious?\n:'''Ketahe:''' You dragged me along because you were too scared to browse alone, didn't you...\n:'''Yukai:''' Ahaha, well, it's more fun together!\n:'''Ketahe:''' \"Now in active production!!! The Academy's 100 Great Mysteries!\" You can just tell this is from some [[Ashinohara]] students...\n:'''Yukai:''' \"The Creepy Traffic Illuminator Chasing Students on the Highway\"?\n:{{DIcon}} (Sounds like [[S.I.G.M.A.]]...)\n:'''Yukai:''' \"The Moving Nurse Mannequin in the Infirmary\"?\n:{{DIcon}} (That's definitely [[N.A.N.A.]]...)\n:'''Yukai:''' \"The Cyber-Ghost Girl Crawling Out of Screens\"?\n:{{DIcon}} ([[I.R.I.S.]] would lose it.)\n:'''Yukai:''' \"The Mindbending Herder\"?\n:{{DIcon}} ([[Zahira]]...)\n:'''Yukai:''' \"The Midnight Phantom Shuttle Bus\" ...? Is this Academy really safe?\n:{{DIcon}} And there are still 95 mysteries left, remember?\n:'''Yukai:''' AHHHHHH—Don't sneak up on me like that!\n:'''Ketahe:''' Why are you screaming that loud?! You scared me too!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yukari\n|zhs  = 由加莉\n|zht  = 由加莉\n|ja   = ユカリ\n|ko   = 유카리\n|fr   = Yukari\n|de   = Yukari\n|es   = Yukari\n|th   = Yukari\n}}\n{{Other Languages\n|en   = Ketahe\n|zhs  = 卡塔赫\n|zht  = 卡塔赫\n|ja   = カタヘ\n|ko   = 케타헤\n|fr   = Ketahe\n|de   = Ketahe\n|es   = Ketahe\n|th   = Ketahe\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

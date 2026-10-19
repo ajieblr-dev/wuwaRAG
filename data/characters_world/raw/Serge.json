@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:22Z",
+  "title": "Serge",
+  "pageid": 27106,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Serge.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Montelli Quarter\n|group            = \n|affiliation      = Montelli Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =   \n}}\n'''Serge''' is an NPC that appears at a bridge on the border of [[City Square]] and [[Montelli Quarter]].\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Serge:''' Maybe adding a bit more crimson here will make it look fancier. But... would it still perfectly highlight my style?\n:'''Serge:''' Hmm... what can I do to make it more interesting?\n:{{DIcon}} What's bothering you?\n:'''Serge:''' My costume and mask designs were rejected by the Masked Reverie. Nyarla is so harsh...\n:'''Serge:''' You see, it's utterly disrespectful to attend the Carnevale without the perfect outfit.\n:'''Serge:''' Besides, I have to dress to impress so that my handsome face leaves a lasting impression on everyone.\n:{{DIcon}} ...Why did Nyarla reject your design?\n:'''Serge:''' She said that simply having Shell Credits isn't enough to make someone a customer at her shop.\n:'''Serge:''' She requires an engaging character and extraordinary artistic vision to spark her creative passion.\n:'''Serge:''' My my... all those harsh words. She was implying that I was too ordinary for her taste!\n:{{DIcon}} Why don't you try another shop?\n:'''Serge:''' No way! Nyarla is the best, and no one has her eye for detail! If I go to someone else for a custom design, I'd be at a disadvantage before the Carnevale even begins!\n:'''Serge:''' She gave me a ton of feedback on the character designs and style guides. Just wait and see—I'll find a way to impress her!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Serge\n|zhs  = 塞尔日\n|zht  = 塞爾日\n|ja   = セルジュ\n|ko   = 세르쥬\n|es   = Serge\n|fr   = Serge\n|de   = Serge\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

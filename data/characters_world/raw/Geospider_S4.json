@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:44Z",
+  "title": "Geospider S4",
+  "pageid": 39013,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Geospider S4\n|image         = Geospider S4 Icon.png\n|dmgtype       = Spectro\n|echo          = Yes\n|class         = Common\n|family        = Tacet Discord\n|group         = Clamorling\n|nation        = Lahai-Roi\n}}{{Description|An exploration robot developed by the Spacetrek Collective. Agile and nimble, it perfectly suits Lahai-Roi's rugged terrain.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Common Lahai-Roi Clamorling}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Trophies==\n{{Trophies|Geospider S4}} \n\n==Description==\n{{Description|This enemy has a higher RES to {{Color|[[Spectro]] DMG|nobold=1}}.\u003cbr /\u003e\u003cbr /\u003eTo explore Lahai-Roi with greater efficiency, the Research Institute deployed Geospider robots. Now in its S4 iteration, the Geospider's mobility and intel-gathering capabilities are unmatched. They are frequently taken on scientific expeditions and equipped with a high-precision sensor suite to defend both themselves and personnel.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Geospider S4\n|zhs  = 岩蛛S4型\n|zht  = 岩蛛S4型\n|ja   = イワグモS4型\n|ko   = 바위거미 S4형\n|fr   = Araignée de la Terre S4\n|de   = S4-Geospinne\n|es   = Geoaraña S4\n|th   = Geospider S4\n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

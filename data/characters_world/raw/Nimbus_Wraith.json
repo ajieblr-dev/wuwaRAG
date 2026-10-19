@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:52Z",
+  "title": "Nimbus Wraith",
+  "pageid": 25534,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Nimbus Wraith\n|image=Nimbus Wraith Icon.png\n|dmgtype=Spectro\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Dark Tide Influenced\n|nation=Rinascita\n}}{{Description|Once a remnant creature in Nimbus Sanctum, it decayed into a Tacet Discord as its frequency wanes, leaving it wandering in perpetual sorrow.}}\n{{Intro/Enemy}}\n==Drops==\n{{Drops|Common Dark Tide Influenced}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies|Nimbus Wraith}}\n==Description==\n{{Description|This enemy has '''higher RES''' against {{Color|Spectro DMG}}.\u003cbr\u003e\u003cbr\u003eOnce a remnant creature in Nimbus Sanctum, it decayed into a Tacet Discord as its frequency wanes, leaving it wandering in perpetual sorrow.\u003cbr\u003e\u003cbr\u003eEver since [[Lorelei]] secluded herself in the Atrium of Reflections and ceased her song, the Nimbus Wraiths that once thrived under her presence have been left unsettled, aimlessly drifting through the area.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Nimbus Wraith\n|zhs  = 云海妖精\n|zht  = 雲海妖精\n|ja   = 雲の妖精\n|ko   = 구름 바다 요정\n|es   = Espectro de Nimbo\n|fr   = Spectre de Nimbus\n|de   = Nimbus Geist\n}}\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

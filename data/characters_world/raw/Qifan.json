@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:05Z",
+  "title": "Qifan",
+  "pageid": 5900,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Qifan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Distribution Center\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Qifan''' is an NPC in {{Location|Distribution Center}}.\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events|Qifan}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Talk to Qifan)\n:'''Qifan:''' Before placing an order... Ask yourself, why would anyone sell you such flawless ores at such a low price?\n:'''Qifan:''' The- the streets aren't p- paved with gold... They're lined with traps laid up by ill-intent people. D- Don't fall for the tricks. Let's stay alert to frauds.\n:'''Qifan:''' Hello, can I bother you for a moment?\n:{{DIcon}} Don't be nervous.\n:{{DIcon}} You have a lot of sweat on your forehead.\n:'''Qifan:''' Ah, I'm sorry. I'm just a little scared to talk to strangers. Actually... I'm doing anti-fraud publicity.\n:'''Qifan:''' Recently, near the [[Tiger's Maw]]. There have been Exiles posing as ore merchants, selling fake ores. It's just one of their many cunning scams.\n:'''Qifan:''' Some male exiles even dress up as females with fake sweet voices to swoon the customers into buying goods. But you can easily see pass it as long as you don't believe in becoming rich overnight.\n:'''Qifan:''' And their scam will fail... Phew... Thank you for listening to me. Don't forget to share this with your family and friends.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Qifan\n|zhs  = 奇帆\n|zht  = 奇帆\n|ja   = 奇帆（キハン）\n|ko   = 규영\n|es   = Qifan\n|fr   = Qifan\n|de   = Qifan\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

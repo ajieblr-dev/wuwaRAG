@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:16Z",
+  "title": "Zakarias",
+  "pageid": 49090,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=Lahai-Roi\n|location=Etching Plains\n|group = Roya Tribe\n}}\n'''{{PAGENAME}}''' is a former Roya Outcast found at a former Outcast's camp in Etching Plains Resonance Beacon. He granted forgiveness by the Solsworn, but opted to remain at the camp to help reform other Outcasts. \n\n==Dialogue==\n{{Dialogue Start}} \n\n:'''Peder:''' Professor Zakarias, you were once accepted by the Solsworn, and they even invited you to return to Bjartr Woods.\n:'''Peder:''' Why come back?\n:'''Zakarias:''' I believe the question you really meant to ask is why I came back, Peder? Or... how was I accepted by the Solsworn in the first place?\n:'''Peder:''' I-I admit, what I really wanted to know is what I should do to justify my return to Bjartr Woods.\n:'''Peder:''' This is no means my act of weakness, nor do I expect my past mistakes to just be wiped away. It's just that... this path of atonement, with seemingly no end in sight, scares me.\n:'''Zakarias:''' Hmm... Once, there was a Roya who committed a crime so unspeakable that if I tried to put it into words alone, it would probably chill you to the bone.\n:'''Zakarias:''' The Solsworn, in a rare act of punishment, cast judgment upon him, drove him out of Bjartr Woods, and left the sinner to roam the wilderness.\n:'''Zakarias:''' Though he should have been utterly alone, he suddenly found himself bathing in the warmth of the Reactor's glow, the river soothing his parched throat, and the fruit filling his empty belly.\n:'''Zakarias:''' Realizing that even bearing such sin, he was still sheltered by Lahai-Roi and the Exostriders, he broke down in tears.\n:'''Zakarias:''' From then on, he walked the lands of Lahai-Roi. For every ounce of malice in his past, he would repay it with an equal share of kindness. Whether to every blade of grass and every tree, to outsiders, to the Roya, or even to the Exoswarm.\n:'''Zakarias:''' At last, one day, when his hair had turned completely white and he was leading a lost mech reindeer back to Bjartr Woods, a Soliskin appeared and took his hand.\n:'''Peder:''' A Soliskin... I've only ever seen them when I was a child. Only those with a pure heart can see them...\n:'''Peder:''' I understand now, Professor Zakarias. I know what I need to do. But I still wish to know... Why have you not returned to Bjartr Woods?\n:'''Zakarias:''' Heh, because there are still plenty of lost people like you out there.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Zakarias\n|zhs  = 扎卡里\n|zht  = 扎卡里\n|ja   = ザカリ\n|ko   = 자카리아스\n|fr   = Zakarias\n|de   = Zakarias\n|es   = Zakarias\n|th   = Zakarias\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

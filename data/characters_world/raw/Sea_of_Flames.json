@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:21Z",
+  "title": "Sea of Flames",
+  "pageid": 6039,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Sea of Flames\n|image=Sea of Flames.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Port City of Guixu\n}}\n'''Sea of Flames''' is an area of [[Port City of Guixu]], [[Huanglong]]. \n\nWhen [[Resonator]]s enter the Sea of Flames, they become eroded by the Incinero Petal pollens, causing a steady decline in their [[HP]]. This effect will gradually disappear within seconds after the exposure stops. Completing the [[Exploration Quest]] [[We Promise, We Deliver]] will permanently remove this effect from the area.\n\n==Quests and Events==\n{{Quests and Events}}\n==Features==\n===Exploration ===\n*[[Incinero Petal]]\n\n===Enemies===\n====Overlord Class====\n*[[Inferno Rider]]\n====Elite Class====\n*[[Carapace]]\n*[[Chasm Guardian]]\n*[[Flautist]]\n*[[Fractsidus Executioner]]\n*[[Rocksteady Guardian]]\n*[[Tambourinist]]\n====Common Class ====\n*[[Aero Predator]] \n*[[Electro Predator]]\n*[[Excarat]]\n*[[Glacio Predator]]\n*[[Havoc Warrior]]\n*[[Snip Snap]]\n*[[Tick Tack]]\n*[[Whiff Whaff]]\n*[[Zig Zag]]\n\n===Resources===\n*{{Item|Belle Poppy}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sea of Flames\n|zhs  = 焚焰海\n|zht  = 焚焰海\n|ja   = {{Rubi|焚焔海|ふんえんかい}}\n|ko   = 화염해\n|es   = Mar de llamas\n|fr   = Mer enflammante\n|de   = Flammenmeer\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Features",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Enemies",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Overlord Class",
+      "number": "2.2.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Elite Class",
+      "number": "2.2.2",
+      "index": "6"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Common Class",
+      "number": "2.2.3",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "2.3",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "11"
+    }
+  ]
+}

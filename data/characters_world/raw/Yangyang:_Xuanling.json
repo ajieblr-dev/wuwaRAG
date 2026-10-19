@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:10Z",
+  "title": "Yangyang: Xuanling",
+  "pageid": 41346,
+  "wikitext": "{{Resonator Tabs}}\n{{About|Yangyang's 5-star variant|her 4-star variant|Yangyang}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery|Yangyang Xuanling}} \u003c!--image files don't have the : found in the page title, so the template needs this extra argument--\u003e\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|deceased         = \n|rarity           = 5\n|class            = Natural\n|weapon           = Sword\n|role             = Main Damage Dealer;Heavy Attack Damage;Havoc Bane;Traction\n|attribute        = Havoc\n|releaseDate      = 2026-07-10\n\n\u003c!-- Info --\u003e\n|name             = Yangyang: Xuanling\n|title            = Voices of Azure Plume\n|title2           = Votary of the Voice\n|gender           = Female\n|birthday         = October 11th\n|birthplace       = Huanglong\n|nation           = Huanglong\n|affiliation      = Ministry of War\n|affiliation2     = Xuanfang Wardens\n|affiliation3     = Xuan Triad\n|affiliation4     = Midnight Rangers\n|affiliationNote4 = formerly\n|sigil            = \n|dish             = The Secret of Delicacy\n|obtain           = Voices on Azure Feathers\n\n\u003c!-- Family --\u003e\n|father           = Unnamed\n|fatherRef        = \u003cref name=\"fav food\"\u003eYangyang: Xuanling's Voicelines: [[Yangyang: Xuanling/Voicelines|Favorite Food]]\u003c/ref\u003e\n|mother           = Unnamed\n|motherRef        = \u003cref name=\"fav food\"/\u003e\n|sibling          = Suisui\n|siblingNote      = older sister\n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm5476333|Rebecca Yeo]]\u003cref\u003eX: [https://x.com/rebeccagyeo/status/2066497945990582577 EN VA Self Announcement]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/虫虫 Chongchong ({{Lang|mini=1|zh=虫虫}})]\u003cref name=\"YX-Bili\"\u003eBilibili: [https://www.bilibili.com/opus/1221783874965602307 《鸣潮》共鸣者战斗演示 | 秧秧·玄翎]\u003c/ref\u003e\n|voiceJP          = {{w|Yui Ishikawa|Ishikawa Yui ({{Lang|mini=1|ja=石川由依}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/2070492274417340790 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/이유리(성우) Lee Yu-ri ({{Lang|mini=1|ko=이유리}})]\u003cref name=\"YX-Bili\"/\u003e\n}}\n{{Quote|...Long time no see, Rover.|Yangyang: Xuanling}}\n{{Intro/Resonator|Yangyang: Xuanling}}\n\nOnce an Outrider for the Midnight Rangers, she's now an acting {{Extra Effect|Xuan Watcher|Xuan Watchers|The members of Xuan Triad are also known as Xuan Watchers.}} of Xuanfang Hold.\n\n==Combat Overview==\n{{Main|Yangyang: Xuanling/Combat}}\n\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Yangyang: Xuanling|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yangyang: Xuanling\n|zhs  = 秧秧·玄翎\n|zht  = 秧秧·玄翎\n|ja   = 秧秧玄翎\n|ko   = 양양·현령\n|fr   = Yangyang: Xuanling\n|de   = Yangyang: Xuanling\n|es   = Yangyang: Xuanling\n|th   = หยางหยาง: ซวนหลิง\n|pt   = Yangyang: Xuanling\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==References==\n{{Reflist|2}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[ru:Ян Ян: Сюаньлин]]\n[[zh:秧秧·玄翎]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "3.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

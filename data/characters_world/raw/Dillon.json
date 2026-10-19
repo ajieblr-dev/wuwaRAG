@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:11Z",
+  "title": "Dillon",
+  "pageid": 36627,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Riccioli Islands\n|group            = \n|affiliation      = \n|title            = \n}}\n\n'''Dillon''' is a male NPC found by the broken ship, Pequod, at the Port of Riccioli  in [[Riccioli Islands]].\u003cbr\u003eHis dialogue changes throughout the progression of [[Old Man and the Whale]] Interlude Quest.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Help fix the Pequod for the first time)\n:;'''Dillon''' That weird guy hasn't noticed us yet, right?\n:;'''Dillon''' Ah, I'm sure this ship would be magnificent when it's all fixed-up.\n:;'''Dillon''' Too bad it's haunted.\n\n:'''Dillon''': Are you curious about this old ship too? Hmm, seems like I'm not the only one who thinks there's something wrong with it.\n:'''Dillon''': See, we've always fished close to shore, that's why we Riccioli fishermen use Gondolas when we head out.\n:'''Dillon''': But word is, years ago Captain Ahab and his crew pulled out a wreck of a ship outta the sea, then left it with a strange fella to guard it.\n:{{DIcon}} That's not so strange, is it?\n:'''Dillon''': You think that's it? Now, don't go getting all scared on me... This ship... it's a ''ghost''ship!\n:{{DIcon}} Come again?\n:'''Dillon''': There's a fella, Queequeg's his name, who's always mumbling something to the ship. And the damn wreck... it answers him! Mentions a \"Flash\" an awful lot...\n:'''Dillon''': Eh, enough of this! I'm not saying a word more. Get going, quick!\n:'''Dillon''': Otherwise, that crazy ol' bastard is gonna be back any minute, mark my words!\n----\n;(Help fix the Pequod for a second time)\n:;'''Dillon''' What in the world? How  did this ship get fixed up all of a sudden?!\n:;'''Dillon''' It's gotta be haunted! There's no other explanation!\n:;'''Dillon''' Impossible. That's not possible! I've been keeping my eyes on it for days!\n:;'''Dillon''' How could it get fixed so fast?\n\n:'''Dillon''': Strange... So strange!\n:{{DIcon}} Got something else to make a fuss about?\n:'''Dillon''': My old man used to tell me that Queequeg had been working on this ship for years, fixin' it up with nary a single change!\n:'''Dillon''': Now, all of a sudden, the mast is fixed and soon the canvas will be patched up too!\n:{{DIcon}} I helped him with the repairs!\n:{{DIcon}} That's all thanks to me.\n:'''Dillon''': Oh, it was you? Well, that's  bit odd, isn't it?\n:'''Dillon''': That fella's been at it for as long as anyone could remember, never seemed to age a day. The ship never got any better either... So what are you, some kind of magician?\n----\n;(Complete repairing Pequod)\n:;'''Dillon''' What a great ship;...\n\n:'''Dillon''': This ship's huge, isn't it? But, something about it feels familiar.\n:{{DIcon}} It reminds me of the Fool's Sail...\n:'''Dillon''': Yes! That's it, it looks like the Fool's Sails used by the Order!\n:'''Dillon''': I wonder what this ship looked like before. With all the new parts patched on, and its new shape, can it still be called the same ship?\n:'''Dillon''': Speaking of, do you know how to sail this thing?\n:{{DIcon}} It's too big, I don't think I could.\n:{{DIcon}} I know someone who could sail her out of here.\n:'''Dillon''': Imagine sailing a ship of this size... You'd look mighty impressive out there.\n:'''Dillon''': Abyssal sea serpants, hell, even a big ol' whale would be a walk in the park.\n:{{DIcon}} Maybe that's what it was made for in the first place.\n:{{DIcon}} You can take Cetus the Tidebreaker off that trophy list.\n:'''Dillon''': Sure, but even though boarding the Fool's Sail isn't exactly something to celebrate... I'd still love to give it a try. Never been anywhere beyond the Stormy Sea myself...\n----\n;(Complete the Interlude Quest)\n:'''Dillon''': Ah, back already?\n:'''Dillon''': I heard the news. The ship has ended up broke again, right?\n:'''Dillon''': Ahab has disappeared, and even that Queequeg who's always fixing the ship is nowhere to be found.\n:'''Dillon''': Funny. Kind of miss him now.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dillon\n|zhs  = 狄伦\n|zht  = 狄倫\n|ja   = ディラン\n|ko   = 딜런\n|es   = Dillon\n|fr   = Dillon\n|de   = Dillon\n}}\n==Change History==\n{{Change History|2.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:26Z",
+  "title": "Fae Ignis",
+  "pageid": 25674,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name= Fae Ignis\n|image=Fae Ignis Icon.png\n|dmgtype       = Havoc\n|class         = Common\n|echo          = Yes\n|family        = Tacet Discord\n|group         = Influenced by the Dark Tide\n|group2        = \n|nation        = Rinascita}}{{Description|An avian Tacet Discord prowling the Penitent's End. In darkness, its form blends into shadow, leaving only its mask flickering like ignis fatuus.}}\n{{Intro/Enemy}}\n==Drops==\n{{Drops|Common Dark Tide Influenced}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies|Fae Ignis|customheader=Fae Ignis}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} against {{Color|Havoc damage}}.\u003cbr/\u003e \u003cbr/\u003eAn avian Tacet Discord prowling the Penitent's End. In darkness, its form blends into shadow, leaving only its mask flickering like ignis fatuus.\u003cbr/\u003e \u003cbr/\u003eThe Fae Ignis uses its spectral flames to set the surroundings ablaze, delighting in the chaos it creates. This mischief often provokes other Tacet Discords into a frenzy, while also damaging the belongings of any unfortunate passersby.|Description when discovered}}\n\n==Gallery==\n\u003cgallery\u003e\nRinascita Echo Fiesta Fae Ignis.png\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en  = Fae Ignis\n|zhs = 幽翎火\n|zht = 幽翎火\n|ja  = フェイイグニス\n|ko  = 페이 이그니스\n|es  = Fae Ígneo\n|fr  = Fae igné\n|de  = Fee Ignis\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

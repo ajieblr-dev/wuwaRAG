@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:04Z",
+  "title": "Wuming Bay",
+  "pageid": 2194,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title  = Wuming Bay\n|image  = Wuming Bay.png\n|map    = Solaris-3\n|type   = Region\n|nation = Huanglong\n}}\n'''Wuming Bay''' is a region of [[Huanglong]]. It is a coastal area, southeast of [[Jinzhou]] city.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n! Image\n! Description\n|- id=\"Corroded Ruins\"\n|[[Corroded Ruins]]\n|[[File:Corroded Ruins.png|180px]]\u003cbr /\u003e\n|\n|- id=\"Shattered Blocks\"\n|[[Shattered Blocks]]\n|[[File:Shattered Blocks.png|180px]]\u003cbr /\u003e\n|\n|- id=\"Remnant Residence\"\n|[[Remnant Residence]]\n|[[File:Remnant Residence.png|180px]]\u003cbr /\u003e\n|\n|- id=\"Hermit Settlement\"\n|[[Hermit Settlement]]\n|[[File:Hermit Settlement.png|180px]]\u003cbr /\u003e\n|\n|}\n==Quests==\n{{Quest by Category List|Wuming Bay}}\n\n==Exploration Report==\n===Criminal Sociology: The Exiles I===\n\n*Unlocked by reaching 50% exploration.\n\n{{Transclude|Criminal Sociology: The Exiles I|Text|main=1}}\n\n===Criminal Sociology: The Exiles II===\n\n*Unlocked by reaching 100% exploration.\n\n{{Transclude|Criminal Sociology: The Exiles II|Text|main=1}}\n\n==Notable Features==\n===Challenges===\n*[[Forgery Challenge: Eroded Ruins]]\n*[[Forgery Challenge: Moonlit Groves]]\n*[[Tacet Field: Tiger's Maw]]\n\n===Enemies===\n*{{Enemy|Autopuppet Scout}}\n*{{Enemy|Spearback}}\n*{{Enemy|Stonewall Bracer}}\n*{{Enemy|Havoc Dreadmane}}\n*{{Enemy|Gulpuff}}\n*{{Enemy|Chirpuff}}\n*{{Enemy|Fusion Dreadmane}}\n*{{Enemy|Vanguard Junrock}}\n*{{Enemy|Whiff Whaff}}\n*{{Enemy|Fission Junrock}}\n*{{Enemy|Excarat}}\n\n===Resources===\n*{{Item|Violet Coral}}\n*{{Item|Erodorchid}}\n*{{Item|Lanternberry}}\n*{{Item|Noctemint}}\n*{{Item|Caltrop}}\n*{{Item|Chromeshell}}\n*{{Item|Waterlamp}}\n*{{Item|Pearl Leaf}}\n*{{Item|Floramber}}\n*{{Item|Indigoite}}\n*{{Item|Azure Lizard}}\n*{{Item|Green Pit Lizard}}\n\u003c!--\n==Gallery==\n==Trivia==\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Wuming Bay\n|zhs  = 无明湾\n|zht  = 無明灣\n|ja   = {{Rubi|無明|むみょう}}の{{Rubi|湾岸|わんがん}}\n|ko   = 어둠의 만\n|es   = Bahía Wuming\n|fr   = Baie Wuming\n|de   = Bucht Wuming\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Criminal Sociology: The Exiles I",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Criminal Sociology: The Exiles II",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Enemies",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.3",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "12"
+    }
+  ]
+}

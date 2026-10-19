@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:26Z",
+  "title": "Sica",
+  "pageid": 27032,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Sica.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Sica''' is an NPC that appears in [[City Square]], [[Ragunna]]. She can only be seen from 6:00 PM to 5:59 AM.\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Sica:''' Underground troupes put on such amazing performances... it's just a shame that I can't catch them every time...\n:{{DIcon}} What are the underground troupes?\n:'''Sica:''' Curious? Shh... Can't let the Order hear this.\n:'''Sica:''' Ever since the current Primus, Fenrico, took over the Order, many plays have been banned. All performances must be approved, or else you risk being arrested.\n:'''Sica:''' In response, the dissatisfied have secretly formed underground troupes to perform classic plays and create new ones freely, as they did in the past.\n:'''Sica:''' Liberty Square serves as the stage for these impromptu performances; they often start without warning and quickly pack up before the Acolytes arrive.\n:{{DIcon}} Are there many of these troupes?\n:'''Sica:''' Oh, there are plenty of them of all kinds, to the point where rumors say that the Montelli family sponsors them.\n:{{DIcon}} Are there any particularly interesting troupes?\n:'''Sica:''' Absolutely! Among these underground troupes, my favorite—and the one I want to join—is the Mourning Theater, whose motto is \"Chasing Romance and Love in Ordinary Life.\"\n:'''Sica:''' There's also a mysterious underground troupe called \"Avon,\" whose members can create projections with their words. However, it's rumored that they've been banished for breaking the taboo.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sica\n|zhs  = 西卡\n|zht  = 西卡\n|ja   = シーカ\n|ko   = 시카\n|es   = Sica\n|fr   = Sica\n|de   = Sica\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

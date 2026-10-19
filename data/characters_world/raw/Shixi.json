@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:24Z",
+  "title": "Shixi",
+  "pageid": 74676,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Xuanfang Ministry of Development\n|affiliation      = Ministry of Development\n|affiliationNote  = Artisan\n|status           = \n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a NPC Artisan found with [[Gongjiang]] in [[Xuanfang Hold]], [[Mengzhou]] region. \n\n==Quests and Events==\n{{Quests and Events}}\n\n{{Dialogue Start}}\n==Idle==\n;(Daytime)\n:'''Gongjiang:''' Have you found enough parts for our mentor?\n:'''Shixi:''' Not yet. I'll probably be done by evening. \n:'''Gongjiang:''' I don't know if I'll have enough... This could be bad...\n\n;(Nightime)\n:'''Shixi:''' Finally! It took the whole day, but I've collected all the parts for our mentor.\n:'''Gongjiang:''' Ugh, I'm still not done! I'm so gonna get an earful from him...\n\n==Dialogue==\n;(Day)\n:'''Gongjiang:''' Have you found enough parts for our mentor?\n\n:'''Shixi:''' Not yet. I'll probably be done by evening. \n\n:'''Gongjiang:''' I don't know if I'll have enough... This could be bad...\n\n:'''Gongjiang:''' Our mentor really knows how to put us in a bind. What does he want all these parts for? Are we supposed to build a pair of Autopuppets from scratch? \n\n;(Night)\n:'''Shixi:''' Finally! It took the whole day, but I've collected all the parts for our mentor.\n\n:'''Gongjiang:''' Ugh, I'm still not done! I'm so gonna get an earful from him...\n\n:'''Shixi:''' Huh? What will you do?\n\n:'''Shixi:''' I've barely got enough. I don't think I can help you...\n\n:'''Gongjiang:''' So that's my only end? Just get chewed out?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Shixi\n|zhs  = 石席\n|zht  = 石席\n|ja   = 石席\n|ko   = 이석\n|fr   = Shixi\n|de   = Shixi\n|es   = Shixi\n|th   = Shixi\n|pt   = Shixi\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

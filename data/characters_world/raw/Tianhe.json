@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:46Z",
+  "title": "Tianhe",
+  "pageid": 10405,
+  "wikitext": "{{Meta\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|name             = Tianhe\n|image            = NPC Tianhe.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Camp Overwatch\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Tianhe''' is an NPC in {{Location|Camp Overwatch}}.\n\n==Location==\n{{Map Embed|Desorock Highland|Tianhe}}\n\u003c!--\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n\n==Quests and Events==\n{{Quests and Events|{{subst:#titleparts:{{subst:PAGENAME}}}}}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Tianhe:''' It seems like my leg really doesn't hurt anymore...\n:'''Tianhe:''' Huh? I'm sorry, is there anything I can help you with?\n:{{DIcon}} Are you injured?\n:'''Tianhe:''' Uh... Yes, the [[Tacet Discord]] in [[Norfall Barrens]] is active and the attacks are intense. It's inevitable to get injured.\n:'''Tianhe:''' Last week, we, the defenders, successfully repelled ten attacks from the Tacet Discord. It's already good that I only have these minor injuries.\n:'''Tianhe:''' But luckily, General [[Jiyan]] is here. That's why I was able to recover from my injuries so quickly.\",\n:{{DIcon}} Jiyan?\n:'''Tianhe:''' Yes, that day he noticed that my legs seemed a bit strange after standing for a long time, and he quickly brought me ointment.\n:'''Tianhe:''' I don't know how he could see the symptoms at a glance, and I didn't expect him to pay attention to such small details...\n:'''Tianhe:''' He took the time to personally deliver the medicine and told me how to take care of myself. Look, I'm already jumping around now. It's amazing, isn't it?!\n:'''Tianhe:''' Hehe, I didn't expect him to be such a caring person.\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Tianhe\n|zhs  = 田合\n|zht  = 田合\n|ja   = 田合（テンコウ）\n|ko   = 전허\n|es   = Tianhe\n|fr   = Tianhe\n|de   = Tianhe\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

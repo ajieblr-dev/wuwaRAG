@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:10Z",
+  "title": "Deasmund",
+  "pageid": 73554,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=Lahai-Roi\n|location=Etching Plains\n|group = Roya Tribe\n}}\n'''{{PAGENAME}}''' is a former Roya Outcast found at a former Outcast's camp in Etching Plains Resonance Beacon. \n\n==Dialogue==\n{{Dialogue Start}} \n:'''Deasmund:''' Hmm... what can we offer the outsiders in exchange for supplies?\n:'''Rover:''' You're not thinking of hunting Exoswarm for parts, are you?\n:'''Deasmund:''' Heh, I gave that up a long time ago. Everyone who's gathered here has decided we're never going back to the life of the Roya tribe again.\n:'''Deasmund:''' We've come to feel just how grave our past sins are, so we went to the Solisylum of our own will to seek forgiveness... or punishment.\n:'''Deasmund:''' But the Solsworn did not take us in, nor did they cast us out with harsh words.\n:'''Deasmund:''' We'd more or less expected them to react the way they did. The past can't be changed. Begging for forgiveness is just running away, and accepting punishment wouldn't mean anything either.\n:'''Deasmund:''' We're too ashamed to face our families, and with the Exoswarm's spiritual senses, they could never stand with the likes of us. So we had no choice but to leave Bjartr Woods and become the rootless, forsaken souls we are now.\n:'''Deasmund:''' Let's leave it at that, stranger. I'm not someone worth your time talking about something this deep.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Deasmund\n|zhs  = 德斯蒙德\n|zht  = 德斯蒙德\n|ja   = デスモンド\n|ko   = 데스먼드\n|fr   = Deasmund\n|de   = Deasmund\n|es   = Deasmund\n|th   = Deasmund\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

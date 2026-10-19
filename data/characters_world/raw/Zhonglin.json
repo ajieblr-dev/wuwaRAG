@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:18Z",
+  "title": "Zhonglin",
+  "pageid": 9100,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n}}{{Stub}}{{NPC Infobox\n|image            = Zhonglin.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n'''Zhonglin''' is an NPC in {{Location|Hongzhen}}.\n\n==Profile==\nHe is the owner of Tongchuan Pharmacy.\n\n==Quest and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Description|''My elbow is a bit sore... Ow...''\u003cbr\u003e''Should I get some salve for it?''\u003cbr\u003e''Never mind, let me get through this first.''\u003cbr\u003e\u003cbr\u003e''It seems a lot of visitors have been getting sick lately.''\u003cbr\u003e''Hope there's enough medicine to go around.''\u003cbr/\u003e}}\n{{Dialogue Start}}\n:'''Zhonglin:'''  Yes, it's nice to have someone to chat with. This is relaxing for me. \n:'''Zhonglin:'''  To be honest, I still feel a lingering fear whenever I think about the Temporal Disruption in Mt. Firmament. Even though it's in the past now, I'm still tense as a tightrope.\n:{{DIcon}} Why is that?\n:'''Zhonglin:'''  It's just that I'm worried I won't be able to manage everything or that the supplies in my shop might run short.\n:'''Zhonglin:'''  Things were dire at the time. It was inevitable that people would get hurt even with [[Jinhsi|the Magistrate]] and Lady [[Xinyi]] holding down the fort. \n:'''Zhonglin:'''  That's why I've seen a lot of patients lately. Some have injuries that could cause complications later if not treated correctly.\n:{{DIcon}} Your hard work is appreciated. \n:'''Zhonglin:'''  I can't deny it's hard work, but it's also my duty as a healer to treat patients. I chose to do it, so no complaints.\n:'''Zhonglin:'''  Sigh, I just hope everyone will get well soon.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Zhonglin\n|zhs  = 仲林\n|zht  = 仲林\n|ja   = 仲林（チュウリン）\n|ko   = 중림\n|es   = Zhonglin\n|fr   = Zhonglin\n|de   = Zhonglin\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quest and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Daily Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

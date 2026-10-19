@@ -1,0 +1,114 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:48Z",
+  "title": "Brant",
+  "pageid": 24786,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery|Brant}}\n|type             = Playable\n|role             = Support and Healer;Basic Attack Damage;Fusion DMG Amplification;Resonance Skill DMG Amplification\n|rarity           = 5\n|realname         = Tern Brant\u003cref\u003e{{Quest|Dawn Breaks on Dark Tides}}\u003c/ref\u003e\n|class            = Natural\n|title            = Flamebound Compass\n|attribute        = Fusion\n|weapon           = Sword\n|gender           = Male\n|birthplace       = Rinascita\n|affiliation      = Ragunna\n|affiliation2     = Troupe of Fools\n|dish             = Purity Strength\n|obtain           = Blaze Across the Deep\n|releaseDate      = 2025-03-06\n\u003c!--VAs--\u003e\n|voiceEN          = [[imdb:nm11144144|Hyoie O'Grady]]\u003cref name=\"Brant Bilibili\"/\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/zh-tw/莫然 Moran ({{Lang|mini=1|zh=莫然}})]\u003cref name=\"Brant Bilibili\"\u003eBilibili: [https://www.bilibili.com/opus/1040323164516646915 《鸣潮》共鸣者「布兰特」PV | 一出好戏]\u003c/ref\u003e\n|voiceJP          = {{w|Daisuke Kishio|Kishio Daisuke ({{Lang|mini=1|ja=岸尾だいすけ}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/1870650464624373914 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/이주승(성우) Lee Ju-seung ({{Lang|mini=1|ko=이주승}})]\u003cref name=\"Brant Bilibili\"/\u003e\n}}\n{{Quote|The curtains pull back and I'm here to hunt for every laugh! Brant, at your service. A pleasure to make your acquaintance.|Brant}}\n{{Intro/Resonator|Brant}} He is the captain of the [[Troupe of Fools]], exuding a carefree, easygoing charm and charisma, unbound by convention. However, beneath his flamboyant persona lies a kind heart deeply devoted to ensuring his crew's safety and freedom. He views the world as one of unlimited possibilities and encourages this same optimism in the public through his spectacular performances.\n\n==Official Introduction==\n{{Quote|As captain of the Fool's Troupe, Brant exudes a carefree, easygoing charm, unbound by convention.\u003cbr\u003e\u003cbr\u003e\nBeneath his flamboyant persona lies a genuine heart, deeply devoted to his family and companions. His life is dedicated to securing a safe haven for the Troupe's members|[https://wutheringwaves.kurogames.com/en/main#resonators Introduction on the Official Website.]}}\n\n==Combat Overview==\n{{Main|Brant/Combat}}\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Brant|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Brant\n|zhs     = 布兰特\n|zht     = 布蘭特\n|ja      = ブラント\n|ko      = 브렌트\n|es      = Brant\n|fr      = Brant\n|de      = Brant\n}}\n\n==Change History==\n{{Change History|2.1|introduced=2.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[zh:布兰特]]\n[[ru:Брант]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

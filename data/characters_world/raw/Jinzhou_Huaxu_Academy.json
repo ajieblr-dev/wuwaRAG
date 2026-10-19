@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:08Z",
+  "title": "Jinzhou Huaxu Academy",
+  "pageid": 69524,
+  "wikitext": "{{About|location in Jinzhou|the faction|Huaxu Academy}}\n{{Location Infobox\n|title     = Jinzhou Huaxu Academy\n|image     = Huaxu Academy.png\n|world_map = Solaris-3\n|type      = Point of Interest\n|type2     = Instance\n|nation    = Huanglong\n|region    = Jinzhou\n}}{{Description|Huaxu Academy serves as the principal research arm under Haunglong.\u003cbr\u003eIn the Jinzhou territory, \"Huaxu Academy\" specially donotes its Jinzhou Campus. Specializing in Wutherology, Ecoacoustics, and Resonology, the Jinzhou Campus has significantly advanced through achievements such as the development of Pangu Terminal and the construction of regional Resonance Beacons.}}\n'''Jinzhou Huaxu Academy''' is a point of interest in [[Jinzhou]], [[Huanglong]]. \n\n==Members==\n====Notable Personnel====\n{| class=\"article-table\"\n!Icon!!Name!!Department!!Role\n|-\n|[[File:Resonator Xiangli Yao.png|50px]]\n|[[Xiangli Yao]]\n|Unknown\n|Principal Investigator\u003cbr\u003eAutomata Mechanics Researcher\n|-\n|[[File:Resonator Baizhi.png|50px]]\n|[[Baizhi]]\n|Anomaly Studies\n|Remnant Ecoacoustics Researcher\n|-\n|[[File:Resonator Mortefi.png|50px]]\n|[[Mortefi]]\n|Safety\n|Tacetite Weapons Researcher\n|} \n\n====Other Personnel====\n{{column|2|\n*[[Guowei]]\n*[[Jiuyue]]\n*[[Liuqin]]\n*[[Lizhu]]\n*[[Mingjing]]\n*[[Siqi]]\n*[[Yeyhe]]\n*[[Yuancai]]\n*[[Zhanghua]]\n*[[Zhixiu]]\n}} \n\n==Gallery==\n\u003cgallery\u003e\nHuaxu Academy - Xiangli Yao, Mortefi, Baizhi.jpg|Promo Art\nJinzhou Huaxu Academy Interior.png|Jinzhou Huaxu Academy Interior\nJinzhou Huaxu Academy Interior2.png|Library\nJinzhou Huaxu Academy Interior3.png|Xiangli Yao room\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages|Huaxu Academy}} \n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{PoI Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "Notable Personnel",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "Other Personnel",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "7"
+    }
+  ]
+}

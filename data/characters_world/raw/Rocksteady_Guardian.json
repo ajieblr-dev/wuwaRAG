@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:15Z",
+  "title": "Rocksteady Guardian",
+  "pageid": 23068,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Rocksteady Guardian\n|title=\n|image=Rocksteady Guardian Icon.png\n|dmgtype=Spectro\n|weakpoint=\n|echo=Yes\n|class=Elite\n|family=Tacet Discord\n|group=Whisperin\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|An Elite Class Whisperin TD with a humanoid appearance. With a colossal size like a monolith, it is usually spotted in the wild.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Elite Whisperin}}\n\n==Stats==\n{{Enemy Stats|Rocksteady Guardian}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Rocksteady Guardian|customheader=Rocksteady Guardian}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Spectro damage}}.\u003cbr/\u003eA tall TD guardian. Its figure resembles monolithic rocks from the mountains.\u003cbr/\u003e\n\u003cbr/\u003eDespite its appearance of an indestructible fortification, the nature of Rocksteady Guardian is never to protect, but to crush any obstacle that blocks its advance.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Rocksteady Guardian\n|zhs  = 磐石守卫\n|zht  = 磐石守衛\n|ja   = 磐石の守り手\n|ko   = 불굴의 호위\n|es   = Guardián Rocafirme\n|fr   = Gardien rocheux\n|de   = Rocksteady-Wächter\n}}\n\n==Change History==\n{{Change History|1.0}} \n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

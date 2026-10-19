@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:08Z",
+  "title": "Yangquan",
+  "pageid": 65811,
+  "wikitext": "{{NPC Infobox\n|image=.png\n|type=Open-World\n|nation=Lahai-Roi\n|location=Roya Frostlands\n|affiliation=Startorch Academy\n|group=\n}}\n'''{{PAGENAME}}''' is a researcher located at a Roya camp in the Roya Frostlands.\n\n{{Dialogue Start}}\n==Idle==\n:;'''Joonas''' Look at all this beautiful [[Meteoric Iron]]!\n:;'''Yangquan''' I'll take the whole lot!\n\n==Dialogue==\n:'''Yangquan:''' Meteoric Iron... here? And such fine quality.\n:'''Joonas:''' From the edge of a Void Storm I dug it. A risk, but look! Beautiful, no?\n:'''Yangquan:''' I'll take the whole lot!\n:'''Joonas:''' Done. Many come to trade, but rocks that make your eyes shine? You're the first. You aim to research it?\n:'''Yangquan:''' Its structure is dense. Exceptionally hard. Makes for an excellent forging material. But I'm interested in its thermal conductivity.\n:'''Joonas:''' Ah! Knives and pots we make from it. Cuts the cooking time clean in half.\n:'''Yangquan:''' Do you? Then you must know the legend that a full set of Meteoric Iron cookware can spark a... \"legendary culinary chain reaction.\"\n:'''Joonas:''' Such a thing? Never heard it. But if you forge a set, you must let me see!\n:'''Yangquan:''' Of course, it would also require legendary cooking skills. Now, where could I find such a person?\n:'''Yangquan:''' Um... Hold on. I find myself short on funds...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = \n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n}}\n==Change History==\n{{Change History|3.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

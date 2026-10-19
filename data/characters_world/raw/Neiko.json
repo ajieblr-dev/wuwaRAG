@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:43Z",
+  "title": "Neiko",
+  "pageid": 42228,
+  "wikitext": "{{NPC Infobox\n|image    =\n|type=Open-World\n|nation=\n|location=Chronorift Metropolis\n|group = Left Behind\n}}\n'''{{PAGENAME}}''' is a {{Extra Effect|Left Behind|Left Behind|Citizens of Honami City who perished during the Lament and who now \"live\" inside the Sonoro Sphere in the form of Human Reverberations. Faint iridescent light flows around their bodies, and they don't seem to be aware of what really happened to them.}} that can be found near the [[Black Cat Sensei|Strange Black Cat]] across from [[Shashou Cafe]].\n\n==Location==\n{{Map Embed|Chronorift Metropolis|Neiko}}\n\n==Dialogue==\n{{Dialogue Start}}\n:{{DIcon}} Meow?\n:'''Wild Cats:''' Meow— Meow—\n:'''Neiko:''' How did you do that? That's amazing! All the nearby cats came running!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Neiko\n|zhs  = 宁子\n|zht  = 寧子\n|ja   = 寧子\n|ko   = 네코\n|fr   = Neiko\n|de   = Neiko\n|es   = Neiko\n|th   = Neiko\n}}\n\n==Change History==\n{{Change History|2.8}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

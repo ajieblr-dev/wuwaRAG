@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:21Z",
+  "title": "Lianke",
+  "pageid": 10511,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|name             = Lianke\n|image            = NPC Lianke.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Tiger's Maw Mine\n|group            = \n|affiliation      = \n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Lianke''' is an NPC in {{Location|Tiger's Maw Mine}}.\n\u003c!--\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n\n==Quests and Events==\n{{Quests and Events|{{subst:#titleparts:{{subst:PAGENAME}}}}}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Lianke:''' Oh, the [[Moon-chasing Festival]] is coming up, and last year was too swamped to get the chance to see the lanterns with my [[Xiaobao]].\n:'''Lianke:''' This year is my chance to make up for it. I wonder what kind of gift would be good for the child?\n:{{DIcon}} Fun toys.\n::'''Lianke:''' Toys? I don't really understand the likes of children. I have to ask that kid, [[Chixia]], for help.\n::'''Lianke:''' She often helps me babysit my Xiaobao, who treats her like a real sister and tells her everything.\n:{{DIcon}} Delicious food.\n::'''Lianke:''' Food? I work down in the mine all year round. To be honest, my knowledge of food in [[Jinzhou]] is as good as yours. So I should ask you for recommendations.\n:{{DIcon}} Spend quality time with him.\n::'''Lianke:''' Quality time with Xiaobao... Yes, I haven't been able to spend time with the child because of work.\n::'''Lianke:''' Last year the child had a huge tantrum because he didn't see the lanterns with me, and it took a long time to calm him down.\n:'''Lianke:''' Moon-chasing Festival, the festival that children are always talking about... I'm actually quite looking forward to it. To be honest, I was once one of the [[Exiles]].\n:'''Lianke:''' In the past, even on the day of the Moon-chasing Festival, we had to worry about the supplies needed for survival.\n:'''Lianke:''' It was only after we were accepted by Jinzhou that we started to enjoy the Moon-chasing Festival like everyone else.\n:'''Lianke:''' Thank you for your suggestion. I will think about it after work...\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Lianke\n|zhs  = 连珂\n|zht  = 連珂\n|ja   = 連珂（レンカ）\n|ko   = 연가\n|es   = Lianke\n|fr   = Lianke\n|de   = Lianke\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

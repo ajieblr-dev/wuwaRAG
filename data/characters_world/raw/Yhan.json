@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:10Z",
+  "title": "Yhan",
+  "pageid": 2140,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|name             = Yhan\n|image            = Yhan Game.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou (Area)\n|group            = \n|affiliation      = Jinzhou\n|affiliation2     = Midnight Rangers\n|title            = Simulation Training Instructor\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = [[imdb:nm3516054|Joseph Capp]] \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Yhan''' {{lang|zh=严彦|zh_rm=Yán Yàn}} is the [[Simulation Training]] instructor, located in {{Location|Jinzhou (Area)}}.\n\n==Location==\n{{Map Embed|Jinzhou|Yhan}}\n\n==Quests and Events==\n{{Quests and Events|Yhan}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Get in teams of two and we'll do another simulation battle.\n:{{DIcon}} Perseverance is not the same as recklessness. Do you hear me?\n\n:{{DIcon}} First, about weapon damage-\n:{{DIcon}} Break time is over. All stand up! The training resumes. Attention!\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction)\n:'''Yhan:''' Hey, new guy. Care for some sparring? Necessary training will keep your mind sharp. Remember, you have no chance for mistakes out there.\n----\n:'''Yhan:''' Combat isn't just about strength. You need skills and wisdom too when facing enemies on the battlefield.\n:{{DIcon|Attack}} Enter Simulation Training\n::'''Yhan:''' You there, looking to put on some training? Good training keeps you sharp. The enemies won't go easy on you out there.\n:{{DIcon}} Chat\n::'''Yhan:''' Greetings.\n::{{DIcon}} What can you teach me?\n::'''Yhan:''' Combat skills and tactics. Or anything you're willing to learn, as long as I have it.\n::'''Yhan:''' Practicality is key on the battlefield. Years of combat have taught me that. If you want fancy tricks, go elsewhere.\n::'''Yhan:''' I'll teach you how to surive, and how to win.\n::{{DIcon}} Is surviving more important?\n:::'''Yhan:''' Absolutely. But let me be clear, I am not condoning cowardice.\n:::'''Yhan:''' I will give my life for Huanglong anytime, but I've also witnessed too many pointless deaths.\n:::'''Yhan:''' I do not want to see our new recruits make the same mistakes. My purpose is to teach you how to avoid them and give you a better chance at life.\n:::'''Yhan:''' Do not rush blindly into battle like those before you. You deserve more than that.\n::{{DIcon}} Is winning more important?\n:::'''Yhan:''' While winning is important, the battlefield is constantly changing.\n:::'''Yhan:''' Avoid rushing for success and making costly mistakes. Focus on improving your skills and knowing what actions to take.\n::'''Yhan:''' Remember, you have many years ahead of you. You should prioritize staying alive.\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yhan\n|zhs  = 严彦\n|zht  = 嚴彥\n|ja   = 厳彦（ゴンゲン）\n|ko   = 엄언\n|es   = Yhan\n|fr   = Yhan\n|de   = Yhan\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:15Z",
+  "title": "Kossimus",
+  "pageid": 38403,
+  "wikitext": "{{Stub|dialogue}}\n{{NPC Infobox\n|image            = NPC Kossimus.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Starward Riseway\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Kossimus''' is a male researcher found at the '''Research Institute''' above Starward Riseway.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Kossimus:'''  Whenever my mind hits a wall, I come stand here for a while.\n\n:'''Kossimus:'''  I once read that humans look up at the stars to contemplate our place in the vast cosmos.\n\n:{{DIcon}} Our place in the vast cosmos?\n\n:'''Kossimus:'''  Yes, our place. Like instinctively pulling up a map on your Terminal. Consciousness is always asking three big questions: Where did we start? Where are we now? And... just how far can we go?\n\n:'''Kossimus:''' That's where all science begins.\n\n:'''Kossimus:''' Hah.. But now that humanity's right to explore outer space has been taken from us, all we can do is literally \"dig deeper.\"\n\n:{{DIcon}} What is your research about?\n\n:'''Kossimus:'''  My study focuses on the domain construction mechanisms of the [[Etheric Sea]] and its blockade effect on near-ground space flight.\n:{{DIcon}} Sounds interesting.\n::'''Kossimus:''' Haha, you think? Are you... a student from Rabelle College? I'm counting on your generation to finally reach outer space. I'd love to be around to see it.\n:{{DIcon}} Sounds really complicated...\n::'''Kossimus:''' Hehe. It's like trying to negotiate with an ocean that makes all the rules but follows none. Still, someone has to learn how to talk to it.\n\n:'''Kossimus:'''  Thank you for the conversation. Talking with the young always shakes the dust off my thoughts.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Kossimus\n|zhs  = 科斯马斯\n|zht  = 科斯馬斯\n|ja   = コスマス\n|ko   = 코스마스\n|fr   = Kossimus\n|de   = Kossimus\n|es   = Kossimus\n|th   = Kossimus\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

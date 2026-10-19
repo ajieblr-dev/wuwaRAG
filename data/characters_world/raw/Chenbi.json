@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:56Z",
+  "title": "Chenbi",
+  "pageid": 4270,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Chenbi.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Chenbi''' is an NPC in {{Location|Jinzhou}}.\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the day)\n:'''Chenbi:''' On top of patrolling during the day, there's still...\n:'''Chenbi:''' Ah, hello, is there something I can help you with?\n:{{DIcon}} I heard you talking to yourself.\n:'''Chenbi:''' There's a lot on our plate as City Hall guards, so please don't get in the way of our duties!\n----\n;(During the evening)\n:'''Chenbi:''' What time is it now? Hmm... Almost time to switch shifts?\n:{{DIcon}} Are you going to rest?\n:'''Chenbi:''' There'll always be another shift after this one.\n:{{DIcon}} ...I wonder if it takes a toll on their health?\n:'''Chenbi:''' My father always said, \"If we protect Jinzhou with all our might, Jinzhou will protect us just as fiercely.\"\n:'''Chenbi:''' A single overlooked detail could spell disaster, especially under the cover of night...\n{{Dialogue End}}\n\n==Trivia==\nAt night around 18:00, [[Yingda]] calls over [[Shuhe]] and [[Chenbi]] from their post to talk. The two will return to their post at 21:00.\n{{Description|Yingda: The number of applications for meetings at City Hall is on the rise.\u003cbr\u003eYingda:I'm not sure if Chenbi and Shuhe are up for this challenge...\u003cbr\u003eYingda: Chenbi, Shuhe, come here.\u003cbr\u003eChenbi: Captain...\u003cbr\u003eYingda: Anything unusual?\u003cbr\u003eShuhe: Not really.\u003cbr\u003eShuhe: But those rejected by Lady Sanhua just won't leave.\u003cbr\u003eChenbi: Maybe they really have important causes... \u003cbr\u003eChenbi: But no matter what, our first duty is to  do our jobs well.\u003cbr\u003eYingda: Very well, our main goal is to maintain order in City Hall, no matter the circumstances.\u003cbr\u003eYingda: Please report any issues immediately.}}\n\n\n==Other Languages==\n{{Other Languages\n|en     = Chenbi\n|zhs    = 沉碧\n|zht    = 沉碧\n|de     = Chenbi\n|es     = Chenbi\n|fr     = Chenbi\n|ja     = 沈碧（チンヘキ）\n|ko     = 수연\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

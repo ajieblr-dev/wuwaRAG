@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:36Z",
+  "title": "Arsenio",
+  "pageid": 38336,
+  "wikitext": "{{Stub|image}}\n{{NPC Infobox\n|image            = NPC Arsenio.png\n|title            = [[Lahai-Roi Tape of Last Words Collector]]\n|title2           = Mech Solsworn\n|type             = Open-World\n|species          = Automaton\n|nation           = Lahai-Roi\n|location         = Etching Plains\n|affiliation      = Spacetrek Collective\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Arsenio''' is an NPC located in {{Location|Etching Plains|nocat=1}} who will accept [[Tape of Last Words|Tapes of Last Words]] in exchange for various rewards.\n\n==Location==\n{{Map Embed|Etching Plains|Arsenio}}\n\n==Quests and Events==\n{{Quests and Events|Arsenio}} \n{{Dialogue start}}\n==WavesLine==\n:'''Arsenio:''' The Exostrider's fall was no silent affair. The Reactor Drive's glow pierced the darkness, and the warm frequency echoes in the air to this day.\n:'''Arsenio:''' Your Terminal has captured a warm afterglow—this is no coincidence. After all, similar frequencies are known to be drawn to each other.\n:'''Arsenio:''' Fellow bearer of an identical frequency, my name is Arsenio. Would you be willing to accept my invitation to our camp?\n:{{DIcon}} Sure, I'll head over right away.\n::'''Arsenio:''' Thank you for accepting my invitation. I'll send you the coordinates shortly. \n:{{DIcon}} I'm a little busy right now. I'll head over when I have the time.\n::'''Arsenio:''' I appreciate the response. Perhaps I could send the coordinates to you in advance, and you may visit anytime as you please.\n:;Quest Accepted - {{Quest|Purify the Tapes of Last Words}}\n\n==Dialogue==\n:{{DIcon}} I want to deliver Tapes of Last Words\n:;(Opens Tape of Last Words delivery interface)\n:'''Arsenio:''' I cleanse the contamination from the Tape of Last Words to restore the unfinished whispers of those lost to the winds... Such is the burden I carry.\n:;(Deliver Tapes of Last Words)\n:'''Arsenio:''' \n:;(If the player tries to deliver Tapes of Last Words without any in their backpack)\n:'''Arsenio:''' Fear not. My spirit and body are one, and they will carry me through this task... until the final moment.\n----\n;(Collecting a certain threshold of Tapes)\n:'''Abby:''' We've collected plenty of Tapes of Last Words. Ohhh... I can't watch Arsenio keep hurting itself like that, but the way it's determined to fulfill it's duties... Let's bring them over quick!\n{{Dialogue end}}\n\n==Gallery==\n\u003cgallery\u003e\nNPC Arsenio Icon.png\nNPC Arsenio Full Body.png\nNPC Arsenio Illust.png\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Arsenio\n|zhs  = 阿尔塞尼\n|zht  = 阿爾塞尼\n|ja   = アルセニー\n|ko   = 아르세니\n|fr   = Arsenio\n|de   = Arsenio\n|es   = Arsenio\n|th   = Arsenio\n}} \n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tutorial Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "WavesLine",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

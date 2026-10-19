@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:23Z",
+  "title": "Shengying",
+  "pageid": 20641,
+  "wikitext": "{{NPC Infobox\n|image            = Shengying .png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Central Plains\n|group            = \n|affiliation      = Exiles\n|title = Exile Minion\n}}\n'''Shengying''' is an NPC in {{location|Taoyuan Vale}} across the road from the Resonance Beacon.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Shengying:''' I lost again, ugh... I just can't beat her!\n:{{DIcon}} Who?\n:'''Shengying:''' Shh... Can't afford to let her hear my words... I'm talking about that courier, [[Pijin]]g.\n:'''Shengying:''' The [[Kumu|boss]] asked me to rob [[Lollo Logistics]]' supplies, but I always run into her.\n:'''Shengying:''' She could knock me out in just a couple of moves, easier than beating a [[Gulpuff]]! She's just too strong...\n:{{DIcon}} Sounds like you admire her...\n:'''Shengying:''' What are you talking about? Of course not! No one enjoy getting hit!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Shengying\n|zhs  = 绳蝇\n|zht  = 繩蠅\n|ja   = 縄蝿（ジョウヨウ）\n|ko   = 승영\n|es   = Shengying\n|fr   = Shengying\n|de   = Shengying\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:56Z",
+  "title": "Chanxue",
+  "pageid": 4269,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Chanxue.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Chanxue''' is an NPC in {{Location|Jinzhou}}. Appears in morning next to [[Dingfeng]] in front of City Hall.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Chanxue:''' Shh, someone is coming.\n:'''Chanxue:''' Hello, is there anything I can help you with?\n:{{DIcon}} What's up with Lady [[Sanhua]]?\n::'''Chanxue:''' ...\n::'''Dingfeng:''' ...\n::'''Chanxue:''' We... Well, I-I feel like Lady Sanhua is not just looking at the person when she looks at someone.\n::'''Chanxue:''' How should I put it, it's like she's looking at something deeper.\n::'''Chanxue:''' But the thought of this always makes me feel weird.\n::'''Chanxue:''' Lady Sanhua is a good person. You can trust her with anything.\n::'''Chanxue:''' Still... Please don't tell her I said this...\n::'''Dingfeng:''' Hahaha, I can see that you're overthinking.\n:{{DIcon}} I'm just passing by.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en     = Chanxue\n|zhs    = 婵雪\n|zht    = 嬋雪\n|de     = Chanxue\n|es     = Chanxue\n|fr     = Chanxue\n|ja     = 嬋雪（センセツ）\n|ko     = 참설\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

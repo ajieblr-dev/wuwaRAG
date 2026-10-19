@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:38Z",
+  "title": "Averardo Bank",
+  "pageid": 26948,
+  "wikitext": "{{Location Infobox\n|image        = Averado Bank.png\n|type         = Point of Interest\n|type2        = Souvenir Store\n|icon         = Souvenir Store Map Marker.png\n|region       = Rinascita\n|area         = Whisperwind Haven\n|description  = In Ragunna, the old Monnaies have long been replaced by Shell Credits. At Averardo Bank, the dedicated teller Mercurio is always on the lookout to recover any remaining pieces of this historic currency.\n}}\n'''Averado Bank''' is a [[Souvenir Store]] run by [[Mercurio]].\n\n==Shop==\n{{Vendor|Mercurio}}\n\n==Other Languages==\n{{Other Languages\n|en  = Averardo Bank\n|zhs = 埃弗拉德银行\n|zht = 埃弗拉德銀行\n|ja  = アヴェラルド銀行\n|ko  = 아베라르도 은행\n|es  = Banco Averardo\n|fr  = Banque d'Averardo\n|de  = Averardo Bank\n|th  = \n|pt  = \n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{PoI Navbox|Rinascita}}\n[[zh:埃弗拉德银行]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

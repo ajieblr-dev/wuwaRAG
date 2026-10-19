@@ -1,0 +1,107 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:07Z",
+  "title": "Jinhsi",
+  "pageid": 936,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}}\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 5\n|class            = Congenital\n|weapon           = Broadblade\n|role             = Main Damage Dealer;Resonance Skill Damage\n|attribute        = Spectro\n|releaseDate      = 2024-06-28 \n\n\u003c!-- Info --\u003e\n|name             = Jinhsi\n|realname         = Hsi\n|title            = Thawborn Renewal\n|title2           = Madam Magistrate\n|gender           = Female\n|age              = \n|birthday         = March 6th\n|birthplace       = Huanglong\n|nation           = Huanglong\n|affiliation      = Jinzhou\n|affiliation2     = Jinzhou City Hall\n|affiliation3     = Mt. Firmament\n|sigil            = \n|dish             = Spring Pastry\n|obtain           = Thawborn Renewal\n|mother           = Unnamed\n|motherRef        = \u003cref\u003eJinhsi's biological mother died on Mt. Firmament protecting her\u003c/ref\u003e\n|relative         = Changli\n|relativeNote     = Teacher, mother figure\n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:m1683988|Anna Devlin]]\u003cref\u003eBilibili: [https://www.bilibili.com/video/BV1Nb421n7Kh 《鸣潮》共鸣者「今汐」展示PV丨清平之愿]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/zh-hans/江月 Jiang Yue ({{Lang|mini=1|zh=江月}})]\u003cref name=\"Public_Beta_Livestream_ZH-Hans\"\u003eBilibili: [https://www.bilibili.com/video/BV1Qr42157ut/ 《鸣潮》公测前瞻特别通讯 | 回顾影像]\u003c/ref\u003e\n|voiceJP          = {{w|Yoshino Aoyama|Aoyama Yoshino ({{Lang|mini=1|ja=青山吉能}})}}\u003cref name=\"JP-VA_TWJinhsi\"\u003eTwitter: [https://x.com/WW_JP_Official/status/1791408326351196509 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/박하진(성우) Park Ha-jin ({{Lang|mini=1|ko=박하진}}))]\u003cref name=\"KR-VA_TWJinhsi\"\u003eTwitter: [https://x.com/WW_KR_Official/status/1791393228500922847 KR VA Announcement]\u003c/ref\u003e\n}}\n{{Quote|As the Sentinel foretold, you and I were meant to cross paths.|Jinhsi}}\n{{Intro/Resonator|lang=zh=今汐}} She is the young Magistrate of [[Jinzhou]] with a resolute and altruistic nature and an unbreakable dedication to defending her city and countrymen to her last breath. She is also the appointed [[Resonator]] of Sentinel [[Jué]], manifesting in the shape of a {{Rubi|Loong|Dragon}}, since birth, and with it the responsibility to safeguard Jinzhou's past and guide its future.\n\n==Official Introduction==\n{{Quote|Being the Magistrate of Jinzhou, Jinhsi bears her noble and weighty share of duties.\u003cbr\u003e\u003cbr\u003eThrough repeated ages, the Lament has preyed upon mankind's vulnerable hope.\u003cbr\u003e\u003cbr\u003eYet, grasping the nettle, she strives with all her might to forge a path toward tomorrow.|[https://wutheringwaves.kurogames.com/en/main#resonators Her introduction on the Official Website.]}}\n\n== Combat Overview ==\n{{Main|Jinhsi/Combat}}\n===Ascension Material===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Jinhsi|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Jinhsi\n|zhs     = 今汐\n|zht     = 今汐\n|ja      = {{Rubi|今|コン|汐|シ}}\n|ko      = 금희\n|de      = Jinhsi\n|es      = Jinhsi\n|fr      = Jinhsi\n}}\n\n==Change History==\n{{Change History|1.1|introduced=1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n[[zh:今汐]]\n[[ru:Цзинь Си]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Material",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

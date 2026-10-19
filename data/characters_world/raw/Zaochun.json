@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:16Z",
+  "title": "Zaochun",
+  "pageid": 74671,
+  "wikitext": "{{Stub|Remove if no further Dialogues after Quest}}\n{{NPC Infobox\n|type=Open-World\n|nation=Huanglong\n|location=Xianling Village\n|affiliation=Xuan Triad\n|affiliationNote=\n|status=\n}}\n__NOTOC__\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a quest-exclusive NPC that first appears with '''[[Zaochun]]''' in {{Quest|The Wind Before the Storm}}.{{Dialogue Start}}\n==Idle==\n:'''Zaochun:''' What about those from the Ministry of Foreign Affairs?\n:'''Qilu:''' With the lockdown lately, there was only a small crew left...\n\n==Dialogue==\n:'''Zaochun:''' What about those from the Ministry of Foreign Affairs? I thought we put out a notice for everyone to pull back?\n\n:'''Qilu:''' With the lockdown lately, there was only a small crew left on duty to keep the Skywatch Rings running.\n\n:'''Qilu:''' Honestly, if they hadn't switched the monitors to safety mode, we wouldn't even be able to see the data right now with the comms jammed.\n\n:'''Qilu:''' But... because they stayed behind to do that, a few of them missed their chance to evacuate.\n\n:'''Qilu:''' By the time we got there... it was already too late.\n{{Dialogue End}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Zaochun\n|zhs  = 凿春\n|zht  = 鑿春\n|ja   = 鑿春\n|ko   = 착춘\n|fr   = Zaochun\n|de   = Zaochun\n|es   = Zaochun\n|th   = Zaochun\n|pt   = Zaochun\n}}\n\n== Change History ==\n{{Change History|3.5}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

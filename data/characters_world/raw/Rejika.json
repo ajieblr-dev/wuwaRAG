@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:10Z",
+  "title": "Rejika",
+  "pageid": 62895,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = no\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = no\n|missing_NPC_dialogue = no\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Rejika.png\n|type             = Open-World\n|nation           = Roya Frostlands\n|location         = Teaching Zone\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Rejika''' is an [[NPC]] who appears during the daytime at {{Location|Teaching Zone}}.\n\n{{Dialogue Start}}\n==Idle==\n:'''Rejika:''' Should I change my research focus...?\n:'''Rejika:''' Professor [[Mornye]] has pretty much picked [[Exostrider]] Transitional Dynamics clean. There's nothing original left to write.\n\n==Dialogue==\n:'''Rejika:''' I-I can't even get a single paper published!\n:'''Rejika:''' Maybe... I'll just apply to work with Professor Mornye.\n:'''Rejika:''' If I can't publish on my own, I'll just do it under her.\n:'''Rejika:''' Yeah, that's it! So now the issue is...\"\n:'''Rejika:''' If I remember right, the requirement to join Professor Mornye's team is to have published a paper on Transitional Dynamics.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Rejika\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

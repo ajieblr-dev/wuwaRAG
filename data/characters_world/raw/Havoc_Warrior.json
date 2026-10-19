@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:52Z",
+  "title": "Havoc Warrior",
+  "pageid": 23080,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Havoc Warrior\n|title=\n|image=Havoc Warrior Icon.png\n|dmgtype=Havoc\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Whisperin\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A Common Class Whisperin TD commonly found in the wild. Records show that a giant scythe is grown from its arm.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Whisperin}}\n\n==Stats==\n{{Enemy Stats|Havoc Warrior}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Havoc Warrior|customheader=Havoc Warriors}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Havoc damage}}.\u003cbr/\u003eA humanoid Tacet Discord with scythes grown from its arms. It favors opponents less powerful, for only the weak are at the mercy of its trials and sentences.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Havoc Warrior\n|zhs  = 审判战士\n|zht  = 審判戰士\n|ja   = 審判の戦士\n|ko   = 심판하는 전사\n|es   = Guerrero de Destrucción\n|fr   = Combattant Havoc\n|de   = Chaos-Krieger\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

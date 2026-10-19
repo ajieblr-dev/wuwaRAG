@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:57Z",
+  "title": "Hoochief Cyclone",
+  "pageid": 23085,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Hoochief Cyclone\n|title         =\n|image         = Echo Hoochief.png\n|dmgtype       = Aero\n|weakpoint     =\n|echo          = Yes\n|class         = Elite\n|family        = Tacet Discord\n|group         = Howler\n|nation        = Huanglong\n|region        = Dim Forest\n|subregion     =\n|drops         =\n}}{{Description|An Elite Class Howler TD living nomadically across Dim Forest. Individuals live in packs. Records show that this TD can bend the power of the wind to their will and attack with it.}}\n{{Intro/Enemy}}\n==Drops==\n{{Drops|Elite Howler}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies|Hoochief Cyclone|customheader=Hoochief Cyclones}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES|nobold=1}} to {{Color|Aero|Aero DMG|nobold=1}}.\nGibbon-like lifeforms primarily gathered in deep woodlands, Hoochiefs have the tendency to show off their supremacy by stealing human belongings.\nUnlike other Hoochiefs, Hoochief Cyclones can conjure air currents to not only launch long-range attacks but also restrict the movement of its targets.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en  = Hoochief Cyclone\n|zhs = 嚣风戏猿\n|zht = 囂風戲猿\n|ja  = 風使いの猿\n|ko  = 시끄러운 원숭이\n|es  = Jefemico Ciclón\n|fr  = Houlice éolien\n|de  = Hoochief-Zyklon\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

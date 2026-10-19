@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:04Z",
+  "title": "Corrosaurus",
+  "pageid": 35844,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Corrosaurus\n|title     = \n|image     = Corrosaurus Icon.png\n|dmgtype   = Fusion\n|weakpoint = \n|echo      = Yes\n|class     = Elite\n|family    = Tacet Discord\n|group     = Dark Tide Creation\n|nation    = Rinascita\n|region    = Sanguis Plateaus\n|subregion = \n|drops     = \n}}{{Description|The apex predator in the Sanguis Plateaus. It rises with the surging Dark Tide, heralding the start of the hunt.}}\n{{Intro/Enemy|Corrosaurus|a=1|lang=zh=蚀脊龙}}\n\n==Drops== \n{{Drops|Elite Dark Tide Influenced}}\n\n==Stats==\n{{Enemy Stats|Corrosaurus}}\n\u003c!--\n==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Corrosaurus|customheader=Corrosaurus}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Fusion DMG|nobold=1}}.\u003cbr/\u003eA rare, giant Tacet Discord that inhabits the Sanguis Plateaus, armored in scales and spewing molten rock. Its jagged crest lifts high, a mark of its dominion.\u003cbr/\u003e\nAppearing alongside the Dark Tide, the Corrosaurus's roar declares the start of a glorious hunt to the Gladiators of Septimont.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Corrosaurus\n|zhs  = 蚀脊龙\n|zht  = 蝕脊龍\n|ja   = コロサウルス\n|ko   = 코로사우루스\n|es   = Corrosaurio\n|fr   = Corrosaurus\n|de   = Korrosaurus\n}}\n\n==Change History==\n{{Change History|2.6}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

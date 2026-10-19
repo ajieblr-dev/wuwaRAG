@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:58Z",
+  "title": "Penitent's End",
+  "pageid": 25640,
+  "wikitext": "{{Location Tabs|Penitent's End|Interactive Map}}{{Location_Infobox\n|title   = Penitent's End\n|image   = \u003cgallery\u003e\nPenitent's End.png|In-Game\nPenitent's End Map.png|Map\n\u003c/gallery\u003e\n|map     = Solaris-3\n|type    = Region\n|nation  = Rinascita\n}}\n{{Intro/Location|Penitent's End}} This forsaken island, shrouded in dense sea mist, is dominated by steep cliffs with giant ringed structures. Ships caught in the currents often end up stranded on the island's treacherous shores. For those lucky enough to survive the wreck, even greater horrors await...\n\nIt is the destination of the [[Pilgrim's Sail]], as well as the home of the [[Troupe of Fools]].\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Wailing Ascent\"\n|[[Wailing Ascent]]\n|[[File:Wailing Ascent.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Fool's Elysium\"\n|[[Fool's Elysium]]\n|[[File:Fool's Elysium.png|180px]] \u003cbr /\u003e\n|The Fool's Troupe travels across all of Rinascita, but their base sits in a vast cavern on Penitent's End. Their creed is freedom, their treasure is laughter, and their gift to every city they visit is a new tale.\n|- id=\"Figurehead's Shrine\"\n|[[Figurehead's Shrine]]\n|[[File:Figurehead's Shrine.png|180px]] \u003cbr /\u003e\n|\n|- id=\"The Strand\"\n|[[The Strand]]\n|[[File:The Strand.png|180px]] \u003cbr /\u003e\n|}\n\n==Quests==\n{{Quest by Category List|Penitent's End Quests}}\n\n==Exploration Report==\n\n==='''Ragunna: A Minority Report I'''===\n* Unlocked by reaching 50% exploration.\n\n{{Transclude|Ragunna: A Minority Report I|Text|main=1}}\n\n=== '''Ragunna: A Minority Report II''' ===\n* Unlocked by reaching 100% exploration.\n\n{{Transclude|Ragunna: A Minority Report II|Text|main=1}}\n\n==Notable Features==\n===Tacet Fields===\n* [[Tacet Field: Penitent's End]]\n===Bosses===\n* {{Enemy|Dragon of Dirge}}\n* {{Enemy|Nightmare: Crownless}}\n===Resources===\n\n==Other Languages==\n{{Other Languages\n|en   = Penitent's End\n|zhs  = 悲叹墓岛\n|zht  = 悲嘆墓島\n|ja   = ペニテントの吹き溜まり\n|ko   = 탄식 무덤의 섬\n|es   = Fin del Penitente\n|fr   = Trépas du pénitent\n|de   = Ende des Büßers\n|th   = \n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eRagunna: A Minority Report I\u003c/b\u003e",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eRagunna: A Minority Report II\u003c/b\u003e",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tacet Fields",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.3",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "12"
+    }
+  ]
+}

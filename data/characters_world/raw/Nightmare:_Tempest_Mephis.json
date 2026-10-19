@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:52Z",
+  "title": "Nightmare: Tempest Mephis",
+  "pageid": 31831,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Nightmare Enemy Infobox\n|name      = Nightmare: Tempest Mephis\n|image     = Nightmare Tempest Mephis Icon.png\n|dmgtype   = Electro\n|nation    = Rinascita\n|variants  = Tempest Mephis; Tactical Hologram: Tempest Mephis\n|class     = Overlord\n}}\n==Other Languages==\n{{Other Languages\n|en   = Nightmare: Tempest Mephis\n|zhs  = 梦魇・朔雷之鳞\n|zht  = 夢魘・朔雷之鱗\n|ja   = ナイトメア・雷刹のウロコ\n|ko   = 악몽 ・ 천둥의 비늘\n|es   = Pesadilla: Mephis Tempestad\n|fr   = Cauchemar : Mephis tonerre\n|de   = Albtraum: Sturm Mephis\n}}\n\n==Change History==\n{{Change History|2.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

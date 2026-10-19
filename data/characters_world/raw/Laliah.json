@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:17Z",
+  "title": "Laliah",
+  "pageid": 38398,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Laliah.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy (Region)\n|affiliation      = Startorch Academy\n|affiliation2     = Roya Tribe\n}}\n'''Laliah''' is an NPC in {{Location|Startorch Academy (Region)|nocat=1}}.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Laliah:''' Hey, want a hug?\n:{{DIcon}} A hug?\n:'''Laliah:''' Yeah, a hug.\n:'''Laliah:''' Haha, don't take it the wrong way. For us Roya, a hug is a kind of greeting. It means warmth, care...\n:'''Laliah:''' Maybe it's because the frostlands are so bitterly cold that everyone's come to love hudddling together for warmth.\n:'''Laliah:''' So if you're ever lonely, tired, or down... come find me. I've got a hug for you.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Laliah\n|zhs  = 菈莉娅\n|zht  = 菈莉婭\n|ja   = ラリア\n|ko   = 랄리야\n|fr   = Laliah\n|de   = Laliah\n|es   = Laliah\n|th   = Laliah\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

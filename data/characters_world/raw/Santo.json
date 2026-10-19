@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:20Z",
+  "title": "Santo",
+  "pageid": 28235,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Santo.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Averardo Vault\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Santo''' is a male NPC who appears in Avarardo Vault. He can be seen talking with [[Naldo]].\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Santo:''' Septimont is importing large quantities of Ragunna spices and alabaster. It seems we've chosen the perfect time to enter the market.\n:'''Naldo:''' Lucky for us, the Order relaxed trade restrictions around the Carnevale. Without that, this deal might've been a gamble.\n:'''Naldo:''' Who knows how long these good days will last...\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Santo:''' Hello, are you here to do business with the Montelli family as well?\n:{{DIcon}} Something like that.\n:{{DIcon}} I'm actually a member of the family.\n:'''Santo:''' The Montelli are sharp with coin, but they honor their word. Good business partners, if you can trust them.\n:'''Santo:''' Is that so? Guess that means you're a high rank. Most of the staff are stuck in those drab uniforms.\n:'''Santo:''' We're brothers traveling between Ragunna and Septimont. We deal in commodities, art auctions, and, of course, high-stakes competitions.\n:'''Santo:''' Perhaps one day, we'll find ourselves working together on a venture.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Santo\n|zhs  = 桑托\n|zht  = 桑托\n|ja   = サント\n|ko   = 산토\n|es   = Santo\n|fr   = Santo\n|de   = Santo\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

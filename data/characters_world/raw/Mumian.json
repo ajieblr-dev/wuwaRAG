@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:42Z",
+  "title": "Mumian",
+  "pageid": 5312,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Mumian.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Lollo Warehouse\n|group            = \n|affiliation      = Lollo Logistics\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Mumian''' is an NPC in {{Location|Lollo Warehouse}}.\n\n==Dialogue==\n{{Dialogue Start}}\n;(Talk to Mumian)\n:'''Mumian:''' Oh, these dehumidifiers are quite effective!\n:{{DIcon}} Dehumidifiers?\n:'''Mumian:''' Yeah. It's a must-have when delivering packages in [[Whining Aix's Mire]].\n:'''Mumian:''' Without it, even the delivery box can't shelter packages from the penetrating fog.\n:'''Mumian:''' I have a stellar reputation for making dehumidifiers. I can assure that!\n:'''Mumian:''' Look! I made these dehumidifier from [[Violet Coral]] ground into powder, mixed with [[Angelica]]!\n:'''Mumian:''' Angelica repels insects, and Violet Coral powder absorbs water... With these, we don't have to fear the heavy fog anymore.\n{{Dialogue End}}\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Mumian\n|zhs  = 木棉\n|zht  = 木棉\n|ja   = 木綿（モクメン）\n|ko   = 목면\n|es   = Mumian\n|fr   = Mumian\n|de   = Mumian\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

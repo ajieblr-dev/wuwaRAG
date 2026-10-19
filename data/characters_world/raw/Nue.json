@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:54Z",
+  "title": "Nue",
+  "pageid": 73571,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = \n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is a student found near the Synth Armament in Startorch Academy. \n\n{{Dialogue Start}}\n==Dialogue==\n:'''Althea:''' Nue, you're from... Ashinohara, right?\n:'''Althea:''' I heard that card dueling games have been popular there for a long time.\n:'''Nue:''' That's right. Before I came to the Academy, it was the go-to activity between classes.\n:'''Althea:''' So that missing girl... Chisa. She's probably really good at this too, huh?\n:'''Nue:''' You know what... it could be? Honami City is a major hub after all...\n:'''Nue:''' I'll ask her about it next time I see her.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Nue\n|zhs  = 鵺\n|zht  = 鵺\n|ja   = 鵺\n|ko   = 누에\n|fr   = Nuhé\n|de   = Nue\n|es   = Nue\n|th   = Nue\n}}\n==Change History==\n{{Change History}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

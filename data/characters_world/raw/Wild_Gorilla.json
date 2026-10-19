@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:04Z",
+  "title": "Wild Gorilla",
+  "pageid": 42111,
+  "wikitext": "{{Enemy Infobox\n|name       = Wild Scarlet\n|image      = Echo Hoochief.png\n|dmgtype    = Aero\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|group      = Howler\n|nation     = Huanglong\n|region     = Dim Forest\n|level      = 120\n}}\n'''Wild Scarlet''' is a [[Special Enemies|special enemy]] found in {{Location|Dim Forest|nocat=1}}.\n\n\n==Location==\n\u003cgallery\u003e\nTrophy Gorilla Gazer Location.png|Location\nTrophy Gorilla Gazer Location Context.png|Location Context\n\u003c/gallery\u003e\n\n==Trophies==\n{{Trophies|Wild Gorrila|customheader=Wild Scarlet}} \n\n==Other Languages==\n{{Other Languages\n|en  = Wild Scarlet\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

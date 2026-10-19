@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:12Z",
+  "title": "Dindo",
+  "pageid": 27257,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Dindo.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = Order of the Deep\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Dindo''' is a male NPC who appears in [[City Square]], [[Ragunna]].\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Rosselini:''' Thief! Pickpocket! You should be ashamed of what you did!\n:'''Rosselini:''' Ah, an Acolyte from the Order Penitentiary! You are just in time—take this urchin and throw her onto the Pilgrim's Sail! She tried to steal my pocket watch!\n:'''Dindo:''' Sir, please, calm down. The Pilgrim's Sail is for people of false faith to seek repentance.\n:'''Dindo:''' This child is no heretic, so she can't be banished.\n:'''Rosselini:''' Is the Order covering for criminals now?!\n:'''Dindo:''' No, you misunderstood. Theft falls under the jurisdiction of the Chamber of Discipline, but since she is a minor, I believe it would be more appropriate for the Chamber of Enlightenment to handle her case.\n:'''Dindo:''' Child, tell me why you stole. Do you need help?\n:'''Pepe:''' No! I want to go on the Pilgrim's Sail! I'm a heretic! I'm a bad kid who stole for no good reason! Mr. Acolyte, please arrest me!\n:'''Dindo:''' But child... do you really understand what it means to be a heretic?\n:'''Pepe:''' I...\n:'''Dindo:''' See? I know you are not one.\n:'''Pepe:''' Wait! I have to board the Pilgrim's Sail to find my brother! He was banished!\n:'''Dindo:''' Banished? You've misunderstood the purpose of the Pilgrim's Sail... Listen, you will be rewarded for your patience.\n:'''Dindo:''' Just stay home and wait, and stop making poor choices. If you behave... he may return safely from his pilgrimage.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dindo\n|zhs  = 丁度\n|zht  = 丁度\n|ja   = ティント\n|ko   = 틴토\n|es   = Dindo\n|fr   = Dindo\n|de   = Dindo\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

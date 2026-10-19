@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:45Z",
+  "title": "Gliese",
+  "pageid": 22079,
+  "wikitext": "{{NPC Infobox\n|image            = Gliese.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Error Cell\n|group            = \n|affiliation      = Black Shores\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Gliese''' is an NPC in {{Location|Error Cell}}.\n\n==Quests and Events==\n{{Quests and Events|Gliese}}\n==Dialogue==\n{{Dialogue Start}}\n:{{DIcon}} What are you doing?\n:'''Gliese:''' Me? I'm picking a [[Tethys_System#Stellar_Matrix|Stellar Matrix]] for the new recruits' training session, as the basis of projection.\n:{{DIcon}} Projection?\n:'''Gliese:''' Yes, it's what we do with the Infinite Reality Sandbox here are the [[Black Shores]]. It projects data from the Stellar Matrix into reality.\n:'''Gliese:''' Using digital samples of the Tacet Discords, the [[Tethys System]] can analyze and predict their possible evolutionary models.\n:'''Gliese:''' But some of the models that evolved from errors are just too out-there to show.\n:'''Gliese:''' Can't have anything too hideous or messed up... It's challenging to choose a decent one...\n{{Dialogue End}}\n==Other Languages==\n{{Other Languages\n|en   = Gliese\n|zhs  = 格利泽\n|zht  = 格利澤\n|ja   = グリーゼ\n|ko   = 글리제\n|es   = Gliese\n|fr   = Gliese\n|de   = Gliese\n}}\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

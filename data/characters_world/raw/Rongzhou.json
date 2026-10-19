@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:13Z",
+  "title": "Rongzhou",
+  "pageid": 26493,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title        = Rongzhou\n|image        =\n|type         = City\n|type3        = Huanglong City{{!}}Huanglong Cities\n|map          = Solaris-3\n|event        = \n|nation       = Huanglong\n}} '''Rongzhou''' is a mentioned city in [[Huanglong]]. \n\n==Trivia==\n*[[Lo, Lo, Lollo Logistics!]] mistakenly calls the province \"Shuzhou\" in English. The mistake comes from the similarity between the characters \"戎\"(Róng) and \"戍\"(Shù).\n==Other Languages==\n{{Other Languages\n|en      = Rongzhou\n|zhs     = 戎州\n}}\n\n==Change History==\n{{Change History|introduced=1.0|}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n\n[[Category:Cities]]\n[[Category:Huanglong Cities]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

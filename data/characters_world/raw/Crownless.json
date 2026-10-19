@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:08Z",
+  "title": "Crownless",
+  "pageid": 5886,
+  "wikitext": "{{Enemy Echo Tabs}}{{Enemy Infobox\n|name=Crownless\n|title=Newborn Desires\n|image=Crownless Icon.png\n|dmgtype=Havoc\n|weakpoint=Unknown\n|echo=Yes\n|class=Overlord\n|family=Tacet Discord\n|group=Whisperin\n|nation=Huanglong\n|region=Central Plains\n|subregion=Stone Pile Plain\n|drops=Strife Tacet Core\n|variants=Tactical Hologram: Crownless\n}}\n{{Description|An Overlord Class Murmurin TD found outside [[Gorges of Spirits]]. Known to be bellicose, malevolent, and aggressive. Further observation is needed to better picture this creature.}}\n\n{{Lang|Crownless|zh=无冠者}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in {{Location|Stone Pile Plain|nocat=1}}.\n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Strife Tacet Core}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Abilities==\n\n==Trophies==\n{{Trophies|Crownless|customheader=Crownless}}\n\n==Tutorial==\n{{Tutorial|Crownless}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Havoc damage}}.\u003cbr/\u003eCrownless is a Whisperin Tacet Discord born outside Gorges of Spirits along with the eruption of the strange Tacet Field. A vast mixture of human frequencies is detected within its physical form. For instance, the exhilaration and thirst for victory, the fear and resentment for casualty... Humans' long-suppressed barbarism is reified in Crownless and antagonized against themselves.\nThis creature is a pawn dispatched by the enemy in disguise, as well as a harbinger of the scourge of war.|Description When Discovered}}\n\n== Trivia ==\n* [[Baizhi]] discovered and named the Crownless.\u003cref\u003e[[Lizhu#Dialogue|Lizhu's Dialogue]]\u003c/ref\u003e\n\n==Other Languages==\n{{Other Languages\n|en      = Crownless\n|zhs     = 无冠者\n|zht     = 無冠者\n|ja      = 無冠者\n|ko      = 크라운리스\n|es      = Sincorona\n|fr      = Le Sans-couronne\n|de      = Ungekrönt\n}}\n\n==Change History==\n{{Change History|1.0}}\n==References==\n\u003creferences /\u003e\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "9",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "10",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "11",
+      "index": "11"
+    }
+  ]
+}

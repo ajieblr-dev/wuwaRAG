@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:55Z",
+  "title": "Cauchy",
+  "pageid": 39052,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Cauchy.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = \n|affiliation      = Startorch Academy\n|title            = \n}}\n'''Cauchy''' is a NPC male professor with impressive memory for students actually enrolled in class. He can be found in the Exostrider Engineering classroom during the afternoon. \n\n'''Gabriel''', a student from the Department of Light Energy, is caught sitting in for another student.\n\n{{Dialogue Start}}\n==Idle==\n;(From another professor)\n:Your Physical Conditioning teacher is out sick today, so we're doing Neuroresonance Topology instead.\n:({{tt|Walla|A sound effect imitating the murmur of a crowd in the background}}: Students groaning in disappointment.){{sic}}\n\n;(From another professor)\n:\"The biological characteristics of the Exostrider and Exoswarms show they are nothing like ordinary machines.\"\n:\"They  don't run on any programming. They can learn, adapt, and produce results we never predicted.\"\n:\"They also display a certain degree of self awareness...\"\n:No sleeping in class!\n\n==Dialogue==\n:'''Cauchy:''' We have five out of twenty-five students here today.\n:'''Cauchy:''' No need to check attendance. Any student not here will be marked absent.\n:'''Cauchy:''' Are you here to sit in? Please sit somewhere in the back.\n:{{DIcon}} Sir, aren't there a lot more than just five students present?\n:'''Cauchy:''' If you are not a person enrolled in this course, you are absent.\n:'''Cauchy:''' And while we're at it, let's have a quiz at the end of today's lecture.\n:'''Cauchy:''' It will count towards 30% of your final grade this semester.\n----\n:'''Gabriel:''' Ugh, what is this professor? How does he remember every single student's face?\n:'''Gabriel:''' I didn't have any issues standing in for other classes. This is the only one where I got caught.\n:{{DIcon}} Oh. You're standing in for another student?\n:'''Gabriel:''' Yeah, and now I'm screwed.\n:'''Gabriel:''' I've never taken any Material Science courses before... I'm from the Agronomy Wing.\n:'''Gabriel:''' I need to find the guy who's supposed to be here. If there's a quiz coming, I'm not facing a test I know nothing about...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Cauchy\n|zhs  = 柯西\n|zht  = 柯西\n|ja   = コーシー\n|ko   = 카우시\n|fr   = Cauchy\n|de   = Cauchy\n|es   = Cauchy\n|th   = Cauchy\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

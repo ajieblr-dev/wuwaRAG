@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:46Z",
+  "title": "Bowtie Butler",
+  "pageid": 37480,
+  "wikitext": "{{NPC Infobox\n|image       = Bowtie Butler In-game.png\n|name        = Bowtie Butler\n|title       = Maid [[Namipon]]\n|type        = Quest\n|type2       = Open-World\n|location    = Shashou Cafe\n|species     = Remnant Creature\n|affiliation = Shashou Cafe\n\n\u003c!-- VAs --\u003e\n|voiceEN     = \n|voiceCN     = \n|voiceJP     = \n|voiceKR     = \n}}\n'''Bowtie Butler''' {{Lang|zh=蝴蝶结管家}} is an [[NPC]] in [[Chronorift Metropolis]] and can be found in [[Shashou Cafe]].\n\n==Quests and Events==\n{{Quests and Events|Bowtie Butler}}\n\n==Gallery==\n===Game Assets===\n\u003cgallery\u003e\nBowtie Butler Icon.png|[[Stranger Things in Honami]] Icon\n\u003c/gallery\u003e\n\n===Official Artwork===\n{{Files by Character Gallery|not1=Bowtie Butler Videos|not2=Comics|not3=Secret Tunes}}\n\n===Stickers===\n====Slice of Life====\n{{Slice of Life Images|Bowtie Butler}} \n\n===Comics===\n{{Files by Character Gallery|Comics|character=Bowtie Butler}}\n====Secret Tunes====\n{{Files by Character Gallery|Secret Tunes|character=Bowtie Butler}} \n\n===Videos===\n{{Files by Character Gallery|Bowtie Butler Videos}} \n\n==Other Languages==\n{{Other Languages\n|en   = Bowtie Butler\n|zhs  = 蝴蝶结管家\n|zht  = 蝴蝶結管家\n|ja   = 蝶結びエプロン執事\n|ko   = 리본 집사\n|fr   = Majordome à nœud papillon noir\n|de   = Querbinder-Butler\n|es   = Mayordomo con Pajarita\n|th   = พนักงานดูแลร้าน\n}} \n\n==Change History==\n{{Change History|2.8}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Game Assets",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Official Artwork",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Stickers",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Slice of Life",
+      "number": "2.3.1",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Comics",
+      "number": "2.4",
+      "index": "7"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Secret Tunes",
+      "number": "2.4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "2.5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "11"
+    }
+  ]
+}

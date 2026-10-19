@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:09Z",
+  "title": "Juno",
+  "pageid": 36528,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Juno.png\n|type             = NPC\n|type2            = \n|nation           = Rinascita\n|location         = Order of the Deep (Area)\n|affiliation      = \n|affiliation2     = \n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Juno''' is a young girl NPC found at the [[Order of the Deep (Area)|Order of the Deep]] with Acolyte [[Alice]]. At night, she is caught by her father, '''Molvan''', for wandering the garden and digging up a treasure left behind by [[Phoebe]]. Afterwards, she no longer wanders at night and her father strictly watches her during the day nearby.\n\n{{Dialogue Start}}\n==Dialogue==\n;(Day)\n:'''Juno:''' Alice, when will Phoebe bring the Echoes back here?\n:'''Juno:''' Since she and the Echoes left, even the little  sea anemones here have been looking a bit droopy.\n:'''Alice:''' Phoebe?\n:'''Juno:''' Yeah! Every time Phoebe comes here, she tells us new stories.\n:'''Juno:''' Our elders always say the other side is dangerous, full of bad people. But the new stories Phoebe brings back are always exciting!\n:'''Juno:''' Whenever she tells us a story, a bunch of Echoes would join in and perform with her, like a little play—it's incredible!\n:'''Juno:''' I haven't seen her in ages... Do you know when she'll come back?\n:'''Alice:''' I'll pass your message on to her. Knowing her, I'm sure she'll come as soon as she has a moment.\n:'''Juno:''' Really? That's wonderful!\n----\n;\u003cnowiki\u003e17:00-05:59\u003c/nowiki\u003e, Juno starts wandering around the garden.\n:'''Juno:''' Little Sea Anemone's first outing... it's a bit nerve wracking.\n:'''Juno:''' Oh, right! Sister Phoebe gave me a little gift, and said she hid it in the garden!\n:'''Juno:''' Where could it be... could it be here?\n:'''Juno:''' Damn! It's a telescope! That's amazing! Now I can see the bustling Ragunna!\n:'''Juno:''' Maybe I'll even spot Little Sea Anemone and Sister Phoebe!\n----\n;Following morning, Juno is being interrogated by her father.\n:'''Molvan:''' Juno, hold out your hand.\n:'''Juno:''' Father... I...\n:'''Molvan:''' A telescope? Who gave this to you?\n:'''Juno:''' ...\n:'''Molvan:''' That little Acolyte with a group of Echoes again?\n:'''Juno:''' No... no! I... I found it... on my own...\n:'''Molvan:''' Did she teach you to lie like this?\n:'''Juno:''' I...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}} \n\n==Mentions==\n{{Character Mentions}} \n\n==Other Languages==\n{{Other Languages\n|en   = Juno\n|zhs  = 朱诺\n|zht  = 朱諾\n|ja   = ジュノ\n|ko   = 주노\n|es   = Juno\n|fr   = Juno\n|de   = Juno\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

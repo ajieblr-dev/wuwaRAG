@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:46Z",
+  "title": "Border Mountains",
+  "pageid": 31638,
+  "wikitext": "{{Stub}}\n\n{{Location Infobox\n|title=Border Mountains\n|image=Border Mountains.webp\n|world_map=Solaris-3\n|type=Area\n|nation=Rinascita\n|region=Septimont}}\n\n{{Quote|A precipitous mountain range that marks the border of Septimont. The craggy peaks form a natural barrier between Septimont and the outside world. During the first outbreak of the Dark Tide, the Border Mountains bore the brunt, leaving them forever scarred by ashen traces and Tidal Blight calcification.| [https://wutheringwaves.kurogames.com/en/main#regions ''Wuthering Waves Official Website'']}}\n\n'''Border Mountains''' is an area of [[Septimont]], [[Rinascita]].\n\n== NPCs ==\n{{NPCs by Location List|Border Mountains}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Border Mountains\n|zhs  = 分界山\n|zht  = 分界山\n|ja   = モンテ・デリミト\n|ko   = 경계의 산\n|es   = Montañas Fronterizas\n|fr   = Montagnes frontalières\n|de   = Grenzberge\n}}\n\n== Change History ==\n{{Change History|2.4}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:28Z",
+  "title": "Fenrico/Boss",
+  "pageid": 32816,
+  "wikitext": "{{CustomTabs\n|subpages=0\n|tab1=Fenrico\n|tab1name=Overview\n|tab2=Fenrico/Boss\n|tab2name=Boss\n|tab3=Reminiscence: Fenrico\n|tab3name=Echo}}{{Enemy Infobox\n|displaytitle  = Fenrico (Boss)\n|name          = Fenrico\n|title         = Deliverance in the Deep\n|image         = Fenrico Icon.png\n|dmgtype       = Aero\n|dmgtype2      = \n|weakpoint     = Unknown\n|echo          = Yes\n|class         = Overlord\n|family        = Human\n|group         = \n|location      = {{Location|Lumen Tower}}\n|drops         = Truth in Lies\n|voiceEN          = [[imdb:nm3899669| Rich Keeble]]\u003cref\u003eTwitter (X): [https://x.com/RichKeeble/status/1874751879328227796 EN VA Self Announcement]\u003c/ref\u003e \n|voiceCN          = Huang Yichuan ({{Lang|mini=1|zh=黄艺川}})\u003cref name=\"Carnevale Prologue Bilibili\u003eBilibili:[https://www.bilibili.com/video/BV1uMk1YWEAd 《鸣潮》2.0动画短片 | 狂欢序章]\u003c/ref\u003e\n|voiceJP          = {{w|Hideo Ishikawa|Ishikawa Hideo ({{Lang|mini=1|ja=石川 英郎}})}}\u003cref name=\"Carnevale Prologue Bilibili/\u003e\n|voiceKR          = [https://namu.wiki/w/정성훈(성우) Jeong Seong-hun ({{Lang|mini=1|ko=정성훈}})]\u003cref name=\"Carnevale Prologue Bilibili/\u003e\n}}\n{{Description|Their grace and divine prophecy have descended, and the faceless Harbinger now stands before the gate.}}{{Lang|Fenrico|zh=}} is a [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in the {{Location|Lumen Tower}}, and is unlocked after completing {{Quest|Dreamcatchers in the Secret Gardens}}.\n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Truth in Lies}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies|Fenrico|customheader=Fenrico}}\n\n==Tutorial==\n{{Tutorial|Holy Summon: Retribution}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Aero damage}}.\u003cbr/\u003eA despair devotee, a fallen soul devoured by an illusory paradise.\u003cbr\u003eWhen the mask of Dark Tide was dropped, he found clarity at the end of his path—hope and redemption traded with a perished form.\u003cbr\u003eHe will forever sleep at the bottom of the dark sea, for there too lies the way home.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fenrico\n|zhs  = 芬莱克\n|zht  = 芬萊克\n|ja   = フェンリコ\n|ko   = 펜리코\n|es   = Fenrico\n|fr   = Fenrico\n|de   = Fenrico\n}}\n\n==Change History==\n{{Change History|2.5}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

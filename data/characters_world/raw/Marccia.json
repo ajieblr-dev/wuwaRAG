@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:33Z",
+  "title": "Marccia",
+  "pageid": 41373,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont\n|group            = Gladiator\n}}\n'''{{PAGENAME}}''' is a female NPC found talking to '''Marcos''' and '''Numerik''' discussing about [[Lupa]]. They appear during {{Color|help|06:00-03:00}} by the elevator to enter [[Capitoline Hill City]]. \n\nAfter the event of {{Quest|Flames of Heart}}, Marccia is seen wearing a Gladiator outfit. \n\n{{Dialogue Start}}\n==Dialogue==\n:;'''Marccia''' You got this, Lupa! No matter how you do in the finals, I'll always support you!\n:;'''Numerik''' With her capabilities, the win's in the bag for sure! I want to get stronger too... Wish I could be in the same training room with Lupa...\n:;'''Marcos''' Is she really as tough as they say she is? I mean... could there be a chance she's cheating?\n\n:{{DIcon}} Are you talking about Lupa?\n:'''Marccia''' hat's right. I'm a Lupa superfan! I've watched replays of every single one of her matches at least a million times now!\n:'''Numerik''' Same here! Every time I watch those replays, I learn something new. How to handle a spear, tactics, small techniques... Feels like there's so much to learn, and they are all so practical, too.\n:'''Numerik''' She's guaranteed to snatch that championship, given how much more powerful she is than everyone else.\n:'''Marcos:''' I wouldn't underestimate the other contenders, though. Also, don't you find it a bit fishy how easily she wins literally every match?\n:'''Numerik''' What's there to be fishy about? It's pure Lupa roflstomp! Besides, Lupa's not the cheating type!\n:'''Marccia''' My thoughts as well! You watch what you say about my idol!\n:'''Marcos:''' I'm just raising an educated suspicion... Don't get all worked up about it!\n----\n;After completing {{Quest|Flames of Heart}}\n:;'''Marccia''' See? I told you all Lupa was going to win the championship!\n:;'''Numerik''' Did you see her moves during the finals? I've watched the replays over and over, trying to recreate her moves.\n:;'''Marcos''' I guess I was wrong about Lupa... It's all pure strength, plain and simple\n\n:'''Marccia:''' Hey! Aren't you one of Lupa's teammates? I didn't recognize you last time. Congrats on winning the championship!\n:{{DIcon}} Thanks.\n::'''Marccia:''' Can't wait to see more of you guys in the future!\n:{{DIcon}} Want an autograph?\n::'''Marccia:''' Really?!\n:'''Marccia:''' You guys were so amazing in the finals... Could you teach us some of your techniques? We wanna be great just like you!\n:'''Numerik:'''Can you give me some pointers first? I've got tons of questions about that combo move you did...\n:'''Marccia:''' Hey, back of the line! I was here first!\n:'''Marcos:''' Can you help me tell Lupa that I'm sorry for accusing her of cheating earlier?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Marccia\n|zhs  = 玛尔西娅\n|zht  = 瑪爾西婭\n|ja   = マルシア\n|ko   = 마르시아\n|fr   = Marccia\n|de   = Marccia\n|es   = Marccia\n|th   = Marccia\n}}\n\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

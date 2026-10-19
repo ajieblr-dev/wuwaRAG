@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:05Z",
+  "title": "Qilu",
+  "pageid": 74670,
+  "wikitext": "{{Stub|Remove if no further Dialogues after Quest}}\n{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xianling Village\n|affiliation      = Xuan Triad\n|affiliationNote  = \n|status           = \n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a quest-exclusive NPC that first appears with '''[[Zaochun]]''' in {{Quest|The Wind Before the Storm}}. \n__NOTOC__\n{{Dialogue Start}}\n==Idle==\n:'''Zaochun:''' What about those from the Ministry of Foreign Affairs?\n:'''Qilu:''' With the lockdown lately, there was only a small crew left...\n\n==Dialogue==\n:'''Zaochun:''' What about those from the Ministry of Foreign Affairs? I thought we put out a notice for everyone to pull back?\n\n:'''Qilu:''' With the lockdown lately, there was only a small crew left on duty to keep the Skywatch Rings running.\n\n:'''Qilu:''' Honestly, if they hadn't switched the monitors to safety mode, we wouldn't even be able to see the data right now with the comms jammed.\n\n:'''Qilu:''' But... because they stayed behind to do that, a few of them missed their chance to evacuate.\n\n:'''Qilu:''' By the time we got there... it was already too late.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Qilu\n|zhs  = 齐露\n|zht  = 齊露\n|ja   = 斉露\n|ko   = 제로\n|fr   = Qilu\n|de   = Qilu\n|es   = Qilu\n|th   = Qilu\n|pt   = Qilu\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

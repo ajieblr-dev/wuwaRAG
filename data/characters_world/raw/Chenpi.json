@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:57Z",
+  "title": "Chenpi",
+  "pageid": 2193,
+  "wikitext": "{{NPC Infobox\n|image            =20241130205654.png \n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou (Area)\n|group            = \n|affiliation      = \n|title            = Relic Merchant\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n{{Lang|Chenpi|zh= 陈皮}} is an NPC located in {{Location|Jinzhou (Area)}}. \n\nAs a [[Relic Merchant]], Chenpi accepts and exchanges [[Sonance Casket]]s with the player through the [[Relic Merchant#Casket Delivery|Casket Delivery]] process.\n\n==Location==\n{{Map Embed|Jinzhou|Chenpi}}\n\n==Quests and Events==\n{{Quests and Events|Chenpi}}\n\n==Dialogue==\n{{Dialogue start}}\n:'''Chenpi''': Time flies by, anything can change, yet the Sonance Caskets shall endure...\n:{{DIcon|Sonance Casket Delivery}} I want to deliver Sonance Caskets.\n::'''Chenpi''': Remember to stop and look around as you explore. Maybe there are ancient relics on those faraway mountains. Who knows?\n::''(Opens Casket Delivery)''\n:{{DIcon}} Gourmet Rumors.\n::'''Chenpi''': Though I've tasted a lot of food during my journey, when it comes to cooking. I'm a bit of a... what's the word...\n::'''Chenpi''': Ah, \"TERRIBLE\".\n::'''Chenpi''': But salt is the ultimate seasoning for every dish. Add some salt, you can't go wrong.\n:{{DIcon}} Chat.\n::'''Chenpi''': Thanks to my kind patrons, this small relic business of mine has been thriving despite having no storefront.\n::'''Chenpi''': Well, if it isn't the insightful Rover? Here to support my business with more Sonance Caskets again?\n::{{DIcon}} Are Sonance Caskets valuable?\n::'''Chenpi''': Value is a complex term. In the business world, money talks. But once it becomes the sole measure of worth, we must proceed with caution.\n::'''Chenpi''': A mutually beneficial agreement is what I strive for.\n::'''Chenpi''': One's discarded items can hold great value for another, especially in my line of work as a collector of relics.\n::'''Chenpi''': Should you come across any Sonance Caskets in your travels, I'd gladly take them off your hands for a price that'll make it worth your while.\n:{{DIcon|Exit}} Leave.\n{{Dialogue end}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Chenpi\n|zhs  = 陈皮\n|zht  = 陳皮\n|ja   = 陳皮（チンピ）\n|ko   = 진피\n|es   = Chenpi\n|fr   = Chenpi\n|de   = Chenpi\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tutorial Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

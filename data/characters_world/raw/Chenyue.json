@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:57Z",
+  "title": "Chenyue",
+  "pageid": 39041,
+  "wikitext": "{{NPC Infobox\n|name=Chenyue\n|type= Open-World/Event\n|image=NPC Chenyue.png\n|nation=Lahai-Roi\n|location=Startorch Academy - Teaching Zone\n|affiliation=Startorch Academy}}\n{{Quote|Alright, it's getting late. The only hazard now is you running low on sleep. Go get some rest.}}\n'''Chenyue''' is a NPC male professor from Huanglong who is found at night in the office rooms.\n\n{{Dialogue Start}}\n==Idle==\n;\u003cnowiki\u003e18:00-23:59\u003c/nowiki\u003e\n:'''Chenyue:''' To survive the extreme cold of the frostlands, you've got to eat up.\n:'''Chenyue:''' Don't complain about the energy gel tasting bad. It's caloric density is off the charts.\n\n;\u003cnowiki\u003e02:00-05:59\u003c/nowiki\u003e\n:'''Chenyue:''' Despite upgrading the safety equipment, some students have become even more careless.\n:'''Chenyue:''' There's a saying in Huanglong: \"The strongest swimmers can still be weak.\" I really worry that something might happen to them out in the frostlands.\n:Next time there's an expedition, let them join my team. I'll make sure to train them right.\n\n==Dialogue==\n;At \u003cnowiki\u003e02:00-05:59\u003c/nowiki\u003e\n:'''Chenyue:''' It's late. Why aren't you in bed? Go back to the dormitory. Youngsters shouldn't all be night owls.\n:{{DIcon}} Are the frostlands really that dangerous?\n:{{DIcon}} What should you look out for in the frostlands?\n:'''Chenyue:''' The key is to follow all the Safety Protocols and listen to your expedition leader and the other pros. They know the safe routes inside and out and won't lead you anywhere risky.\n:'''Chenyue:''' As for the Void Storms, the protective suits will help keep contamination at bay, and every research team is geared up with top-notch monitors. They usually catch the warning signs early.\n:'''Chenyue:''' Other than that... If you want my two cents, I always say never skip a meal. You need calories if you want to keep a clear head out there.\n:'''Chenyue:''' Anyway, as long as you're following the survival protocols, there's really no need to worry too much.\n:'''Chenyue:''' And if you run into any trouble, the Roya are your best bet for help. They're the real locals.\n:{{DIcon}} I have no further questions.\n:'''Chenyue:''' Alright, it's getting late. The only hazard now is you running low on sleep. Go get some rest.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n{{Other Languages\n|en      = Chenyue\n|zhs     = 沉岳\n|zht     = 沉岳\n|ja      = 沈岳\n|ko      = 침악\n|fr      = Chenyue\n|de      = Chenyue\n|es      = Chenyue\n|th      = Chenyue\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

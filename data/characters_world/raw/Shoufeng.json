@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:25Z",
+  "title": "Shoufeng",
+  "pageid": 9488,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Shoufeng.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Shoufeng''' is an NPC in {{Location|Hongzhen}}.\n\n==Location==\nShoufeng is located on the second story of Hongzhen.\n\n==Profile==\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Shoufeng''' What are you doing here, {{Rover}}?\n:'''Shoufeng''' Did you come back to visit or see Lady [[Xinyi]]?\n:{{DIcon}} And you are...?\n::'''Shoufeng''' Well, we met each other briefly in the secret chamber during the Temporal Disruption, though we never got to talk much.\n::'''Shoufeng''' But I remember you very well, hero of Hongzhen.\n:{{DIcon}} I know you, you are Shoufeng.\n::'''Shoufeng''' I knew you'd recognize me!\n::{{DIcon}} What have you been up to lately?\n:'''Shoufeng''' Standing guard, working my shift... The usual.\n:'''Shoufeng''' Of course, that used to be my and [[Bing'ge|Bingge's]] duty, but now that the [[Midnight Rangers]] are here, I'm not needed as much.\n:{{DIcon}} You know Mt. Firmament better than the Midnight Rangers.\n::'''Shoufeng''' Well, I'm a local, after all, so of course I know more than the rangers. Lady Xinyi sent me and Bingge to assist them probably for the same reason.\n::'''Shoufeng''' But I'm not the talker Bingge is. The rangers are all right, but we just can't seem to find any common interest. \n:{{DIcon}} The arrival of Midnight Rangers should make things easier for you.\n::'''Shoufeng''' That should be the case, but I'm not the talker Bingge is. The rangers are all right, but we just can't seem to find any common interest.\n:'''Shoufeng''' In Bingge's words, it's a style clash... and that frustrates me.\n:{{DIcon}} Embrace the differences and stay true to your own style.\n:{{DIcon}} Just take it easy, they'll understand.\n:'''Shoufeng''' You're right. I'm a country bumpkin and don't know much, but I know the ancestors came here from all over because of the due to TD Outbreak, yet they all got along in the end.\n:'''Shoufeng''' Maybe Bingge did hit it on the nail. You can't rush friendship.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Shoufeng\n|zhs  = 守峰\n|zht  = 守峰\n|ja   = 守峰（シュホウ）\n|ko   = 수봉\n|es   = Shoufeng\n|fr   = Shoufeng\n|de   = Shoufeng\n}}\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

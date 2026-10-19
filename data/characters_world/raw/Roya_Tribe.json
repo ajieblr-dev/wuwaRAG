@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:15Z",
+  "title": "Roya Tribe",
+  "pageid": 37646,
+  "wikitext": "{{Stub}}\n{{Faction Infobox\n|title        = Roya Tribe\n|image        = Roya Tribe Emblem.png\n|leader       = [[Heliodic Six]]\n|base         = Bjartr Woods\n|nation       = Lahai-Roi\n|region       = \n}}\nThe '''Roya Tribe''' are the indigenous people of Lahai-Roi. They inhabited the country before the planetary shifts occurred which froze the surface, causing them to relocate underground. They built the [[Solisylum]] and consider it their calling to guide the growth and migration of [[Exoswarm]] by using a calendar created after observing the behaviour of the [[Exostrider]]'s Reactor Drive.\n\n==Members==\n===Notable Roya===\n{| class=\"article-table\"\n!Icon!!Name!!Information\n|-\n|[[File:Resonator Aemeath.png|50px]]\n|[[Aemeath]]\n|Exostrider Resonator\n|-\n|[[File:Resonator Sigrika.png|50px]]\n|[[Sigrika]]\n|Solsworn\n|}\n===Other Roya===\n{{Column|2|\n* [[Aksel]]\n* [[Aluna]]\n* [[Alviss]] (Shepherd)\n* [[Asa]]\n* [[Astrid]] (Shepherdess)\n* [[Beyza]]\n* [[Bjorn]]\n* [[Dhalifa]]\n* [[Effye]]\n* [[Eloni]]\n* [[Euginn]] (Shepherd)\n* [[Inga]]\n* [[Inger]]\n* [[Jorgen]]\n* [[Knut]]\n* [[Laliah]]\n* [[Liv]]\n* [[Lyosroth]] (Shepherd)\n* [[Maja]]\n* [[Minna]]\n* [[Rasmus]]\n* [[Serra]]\n* [[Siana]]\n* [[Vilmr]]\n* [[Yngvar]]\n* [[Zahira]]\n}}\n\n==Terminology==\n===Shepherds===\nRoya chosen by the [[Soliskin]] for their pure nature become shepherds. Their duty is to guide and care for the Soliskin. They lead the Soliskin to the best sunlit areas of Bjatr Woods and keep them safe.\n\n===Solsworn===\nRoyan individuals gifted in calendrical calculation and a degree of resonance with the Exostrider and Soliskin are permitted into the Solisylum. There, they serve the Heliodic Six as aides and the tribe as healers and teachers, all while being groomed as the Six's eventual successors.\n\n===The Heliodic Six===\n{{Main|Heliodic Six}}\nRoya Elders such as the Eye, the Binder, and the Shaper. Each pair in the Six is entrusted with the roles of observation, archival, and extrapolation. They reside within the Solislyum, tracing the Reactor Drive's trajectories and forecasting Void Storms.\n\n==Descriptions==\n{{Description|The indigenous inhabitants of Lahai-Roi. They have lived in the underground cavern long before the Spacetrek Collective's arrival. They now maintain a cooperative relationship with it.\u003cbr\u003eBy observing the Reactor Drive's operational cycles, the Roya devised their own calendar. They guide the growth and migration of the Exoswarm, a sacred duty they regard as their tribe's calling.|Glossary Excerpt}}\n\n==Trivia==\n===Etymology===\n* Roya is likely derived from ru'yā / ro'yâ {{Lang|fa=رؤیا|lit=dream}}, borrowed from ruʔyā {{Lang|ar=رُؤْيَا|lit=something seen in sleep, a dream; a vision}}\n\n==Other Languages==\n{{Other Languages\n|en      = Roya Tribe\n|zhs     = 罗伊族\n|zht     = 羅伊族\n|ja      = ロイ人\n|ko      = 로야족\n|fr      = Tribu royanne\n|de      = Der Stamm der Roya\n|es      = Tribu Roya\n|th      = เผ่าโรญา\n}}\n\n==Navigation==\n{{Faction Navbox}}\n[[zh:罗伊人]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Notable Roya",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Other Roya",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Terminology",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Shepherds",
+      "number": "2.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Solsworn",
+      "number": "2.2",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "The Heliodic Six",
+      "number": "2.3",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "3",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "4.1",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "12"
+    }
+  ]
+}

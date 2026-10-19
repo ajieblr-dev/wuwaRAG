@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:15Z",
+  "title": "Rover-Havoc",
+  "pageid": 2262,
+  "wikitext": "{{Rover Infobox\n|attribute = Havoc\n|role = Main Damage Dealer\n|order = 2\n|releaseDate = 2024-05-23\n}}\n{{Main|Rover}}\n==Combat Overview==\n===Forte===\n{{Skill Navbox|Rover-Havoc}}\n{{Skill Upgrade|Rover-Havoc|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox|Rover-Havoc}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Rover Navbox}}\n\n[[ru:Ровер-Хаос]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "5"
+    }
+  ]
+}

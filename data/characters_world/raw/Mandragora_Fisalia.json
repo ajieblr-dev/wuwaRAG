@@ -1,0 +1,16 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:33Z",
+  "title": "Mandragora Fisalia",
+  "pageid": 36016,
+  "wikitext": "{{NPC Infobox\n|affiliation = Fisalia Family\n|status = deceased/MIA\n}}\n{{Spoiler}}\n\nMandragora Fisalia was the eldest daughter of the main line of the Fisalia family. She was the older sister of [[Hebenon Fisalia]] and the older cousin of [[Cantarella Fisalia]]. She disappeared during the Divine Trials, alongside Hebenon.\n\u003cbr\u003e\n\nAfter resolving the mystery in {{Quest|A Fleeting Night's Dream}}, the truth of what happened to the missing girls are revealed. \n\n==Dialogue==\n{{Dialogue Start}}\n;(Found at Port Riccioli amongst [[Riccioli Islands]])\n:'''\"Mandra\":''' I never imagined life could feel this carefree.\n:'''\"Mandra\":''' Just look at this vast scenery... It brings much calm to my heart.\n:'''\"Hebe\": Yeah, I feel the same way. A simple and quiet life. There's a beauty in it.\n:'''\"Hebe\": We have Cantarella to thank for this peace.\n:'''\"Mandra\":''' I feel reassured with her as the head of our family.\n:'''\"Mandra\":''' She's... she's everything a Maiden should be, more so than I could ever be. And as the head of Fisalia? She's unmatched.\n:'''\"Mandra\":''' For us, I think it's our turn to make the most of the world she saved for us. Let's live every day to its fullest.\n:'''\"Hebe\": Yes, and let's capture the beauty we find along the way! I'm sure she'll be happy to receive these photos!\n{{Dialogue End}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    }
+  ]
+}

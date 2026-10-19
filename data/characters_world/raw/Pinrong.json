@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:01Z",
+  "title": "Pinrong",
+  "pageid": 10239,
+  "wikitext": "{{Meta\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|name             = Pinrong\n|image            = NPC Pinrong.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Jewel Boba\n|title            = Jewel Boba Owner\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = Pinwen\n|relativeNote     = Granddaughter\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Pinrong''' is an NPC in {{Location|Jinzhou}}.\n\u003c!--\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n\n==Quests and Events==\n{{Quests and Events|{{subst:#titleparts:{{subst:PAGENAME}}}}}}\n--\u003e\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} New release! Freshly brewed and suitable for all ages! Come in and give it a taste! You won't be disappointed!\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Pinrong:''' Welcome to Jewel Boba!\n:{{DIcon}} Chat\n::'''Pinrong:''' Welcome, dear. Fancy trying our latest dessert soup? We call it Chewy-... Gummy-Yummy SweeTEA?\n::'''Pinrong:''' Quite the mouthful, isn't it? My granddaughter tells me it's all the rage with the youngsters these days. I tried it myself, and goodness, it's tasty!\n:{{DIcon}} About Pinwen\n::'''Pinrong:''' Pinwen... She's really my granddaughter.\n::'''Pinrong:''' Thirty years ago, when I first opened this shop, I was just like her, nose buried in recipes, trying to perfect my dessert soups.\n::'''Pinrong:''' My heart was warmed seeing my customers' smiles back then.\n::'''Pinrong:''' Perhaps she feels the same way now, right?\n:{{DIcon}} About Jewel Boba\n::'''Pinrong:''' Jewel Boba is now the pride and joy of both me and my granddaughter.\n::'''Pinrong:''' With her new recipes, we've been welcoming new faces every day.\n::'''Pinrong:''' The first time I tasted the dessert soup my granddaughter made... It flooded me with the same joy I felt when I first made a dessert soup of my own.\n::'''Pinrong:''' After all these years, those newly introduced dessert soups back then have become classics, and now we've added another batch of new ones. You know, I believe all these new creations will eventually stand the test of time and become classics themselves, don't you think?\n::'''Pinrong:''' Whether it's an old classic or a new creation, as long as it brings a smile to my customers' faces, it's a success in my book.\n:{{DIcon|Exit}} Leave\n\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Pinrong\n|zhs  = 品融\n|zht  = 品融\n|ja   = 品融（ヒンユウ）\n|ko   = 문희\n|es   = Pinrong\n|fr   = Pinrong\n|de   = Pinrong\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:51Z",
+  "title": "Calamity Effigy",
+  "pageid": 74775,
+  "wikitext": "{{stub}}\n{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name     = Calamity Effigy\n|title    = Immaculate End\n|image    = Calamity Effigy Icon.png\n|echo     = Yes\n|dmgtype  = Aero\n|class    = Overlord\n|family   = Tacet Discord\n|group    = Autopuppet\n|nation   = Huanglong\n|region   = Xuanfang Hold\n|subregion    = Verdant Court\n|drops    = Forged Empyrean's Sigh\n|variants = \n}}\n{{Description|A mystic Autopuppet that strolls in the sky. An epitome of mechanist arts at their peak.}}\n{{Lang|Calamity Effigy|zh=}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]''. \n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Forged Empyrean's Sigh}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Abilities== \n\n==Trophies==\n{{Trophies|Calamity Effigy|customheader=Calamity Effigy}} \n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Aero DMG}}.\u003cbr\u003eThe total DMG taken by this enemy is increased by 20% for 6s when affected by Negative Status.\u003cbr\u003eThis enemy takes 100% more total Electro Flare DMG.\u003cbr\u003e\u003cbr\u003eHe cast his consciousness into a mechanical vessel, fueled by the Reverberations of lost souls, all for the obsession to become a \"perfect Celestial.\" Though the mechanist arts beyond mortal comprehension could emulate heavenly might, it could never transcend its own shackles.\u003cbr\u003e\u003cbr\u003eIt walked to the end of its road, and this forged body became a calamity unto itself.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Calamity Effigy\n|zhs  = 天傀劫煞\n|zht  = \n|ja   = \n|ko   = \n|fr   = \n|de   = \n|es   = \n|th   = \n}} \n\n==Change History==\n{{Change History|3.6}}\n\n==Navigation==\n{{Enemy Navbox}}\n[[zh:天傀劫煞]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

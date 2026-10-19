@@ -1,0 +1,107 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:05Z",
+  "title": "Xiangli Yao",
+  "pageid": 1567,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery|Xiangli Yao}}\n|title            = Matter Weaver\n|type             = Playable\n|role             = Main Damage Dealer;Resonance Liberation Damage\n|rarity           = 5\n|attribute        = Electro\n|weapon           = Gauntlets\n|gender           = Male\n|class            = Mutant\n|birthday         = Unknown\n|birthplace       = Huanglong\n|nation           = Huanglong\n|affiliation      = Jinzhou\n|affiliation2     = Huaxu Academy\n|dish             = Vege Omelette\n|obtain           = Celestial Revelation\n|releaseDate      = 2024-09-07\n\n\u003c!-- Family --\u003e\n|mother           = Xiangli Yan\n|motherNote       = deceased\n|motherRef        = \u003cref\u003e[[Archive:_Sugar_Pearl_Vaccine_and_Tacet_Discord_Outbreak]]\u003c/ref\u003e\n|father           = Mr. Xiangli\n|fatherNote       = deceased\n|fatherRef        = \u003cref\u003e[[Xiangli_Yao/Backstory#A_Smile]]\u003c/ref\u003e\n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm7471114|Shaun Mendum]]\u003cref name=\"Xiangli Yao Bilibili\"/\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/斑马 Banma ({{Lang|mini=1|zh=斑马}})]\u003cref name=\"Xiangli Yao Bilibili\"\u003eBilibili: [https://www.bilibili.com/opus/973157795974086660 《鸣潮》共鸣者「相里要」展示PV丨求索]\u003c/ref\u003e\n|voiceJP          = {{w|Chiaki Kobayashi|Kobayashi Chiaki ({{Lang|mini=1|ja=小林千晃}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/1830916146918297687 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = {{w|ko:정의진|Jung Eui-jin ({{Lang|mini=1|ko=정의진}})}}\u003cref\u003eX: [https://x.com/WW_KR_Official/status/1831633377696608739 KR VA Announcement]\u003c/ref\u003e\n}}{{Quote|As truthseekers, we gauge the universe from within a nutshell. I'd love to hear your insights.|Xiangli Yao\n}}\n{{Intro/Resonator|lang=zh=相里要}}\n\nHe is the Principal Investigator in charge of the academics at [[Huaxu Academy|Huaxu Academy's]] [[Jinzhou]] Campus. He is the Academy's youngest multi-disciplinary scientist, and an expert in the research of Automata Mechanics.\n\n==Official Introduction==\nHuaxu Academy's Principal Investigator, Xiangli Yao, displays exceptional expertise in various research fields despite his young age.\nHe is a gentle yet rational soul, embracing unique insights and commitment to the research of Automata Mechanics.\u003cref\u003eOfficial ''Wuthering Waves'' Website: [https://wutheringwaves.kurogames.com/m/en/main/news/detail/1255 Profile Reveal: Matter Weaver — Xiangli Yao]\u003c/ref\u003e\n\n==Combat Overview==\n{{Main|Xiangli Yao/Combat}}\n===Ascension Material===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox|Xiangli Yao}}\n{{Skill Upgrade|Xiangli Yao|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox|Xiangli Yao}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n* [[Converging Paths]] event (September 4, 2024 - September 28, 2024)\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Xiangli Yao\n|zhs     = 相里要\n|zht     = 相里要\n|ja      = {{Rubi|相|ソウ|里|リ|要|ヨウ}}\n|ko      = 상리요\n|de      = Xiangli Yao\n|es      = Xiangli Yao\n|fr      = Xiangli Yao\n}}\n\n==Change History==\n{{Change History|1.2|introduced=1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[ru:Сянли Яо]]\n[[Category:Browse]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Material",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

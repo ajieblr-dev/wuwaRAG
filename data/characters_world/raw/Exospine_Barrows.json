@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:22Z",
+  "title": "Exospine Barrows",
+  "pageid": 39573,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Exospine Barrows\n|image     = Exospine Barrows.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Roya Frostlands\n|region    = Fangspire Chasm\n}}\n\n'''Exospine Barrows''' is an area of [[Fangspire Chasm]], [[Roya Frostlands]]. It is renamed to '''Emberfall Barrows''' after the [[Ode to the Second Sunrise|launch of Helios]].\n\n==NPCs==\n{{NPCs by Location List|Exospine Barrows}}\n\n==Other Languages==\n{{Other Languages\n|1_en   = Exospine Barrows\n|1_zhs  = \n|1_zht  = \n|1_ja   = \n|1_ko   = \n|1_es   = \n|1_fr   = \n|1_de   = \n|1_th   = \n\n|2_en   = Emberfall Barrows\n|2_zhs  = \n|2_zht  = \n|2_ja   = \n|2_ko   = \n|2_es   = \n|2_fr   = \n|2_de   = \n|2_th   = \n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exospine Barrows",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Emberfall Barrows",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

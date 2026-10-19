@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:12Z",
+  "title": "Kastelton",
+  "pageid": 73556,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=Lahai-Roi\n|location=Etching Plains\n|group = Roya Tribe\n}}\n'''{{PAGENAME}}''' is a young Roya man who almost became an Outcast, not knowing the severity of the crimes they commit. \n\nHe can be found being scolded by former Outcast, '''Quinones''' at a camp near Etching Plains Resonance Beacon. \n\n==Dialogue==\n{{Dialogue Start}} \n:'''Kastelton:''' I didn't know the Outcasts would do something that awful... If I'd known sooner, I—\n:'''Quinones:''' Well, what were you expecting?\n:'''Kastelton:''' I just wanted to see what the world outside Lahai-Roi looks like. I even tried applying for Startorch Academy, which turned out to be nothing...\n:'''Kastelton:''' My mind went blank and I... stole my sister's staff, thinking I could prove myself and join those Outcasts who all look so free.\n:'''Kastelton:''' But I never thought they'd actually go rob people... or even try to hurt the Exoswarm!\n:'''Quinones:''' You really are an idiot, you know that? Stealing from your own family to prove what, exactly? Go home. And don't ever come back.\n:'''Quinones:''' We're not the ones you think that can get you out of Lahai-Roi. And the Outcasts sure aren't either. I suggest you go home before they come after your Exoswarm.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Kastelton\n|zhs  = 卡斯尔顿\n|zht  = 卡斯爾頓\n|ja   = カスルトン\n|ko   = 캐슬턴\n|fr   = Kastelton\n|de   = Kastelton\n|es   = Kastelton\n|th   = Kastelton\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

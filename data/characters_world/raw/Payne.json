@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:58Z",
+  "title": "Payne",
+  "pageid": 36532,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = Payne.png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Septimont\n|group            = \n|affiliation      = \n|title            = \n}}\n'''Payne''' is a male tourist NPC from Ragunna in [[Capitoline Hill City]].\n\n{{Dialogue Start}}\n==Dialogue==\n;A gladiatorial fight is in progress. Please watch out and keep your distance.\n;They seem to have gotten into an argument over whether sparkling water tastes good and challenged each other to a fight.\n;But, please, don't worry. These two Gladiators submitted a duel application through the proper channels.\n;We will ensure the fight proceeds smoothly and everyone stays safe. \n\n;You sunless cur! Do you have the guts to fight me?\n\n;Alright! Draw your weapon. Ten, nine, eight... three, two, one!\n\n;Now? Fine! The patrol guard's here to officiate. Come at me!\n\n;'''Payne''' Fight! Fight! Fight! Fight!\n\n;(Day)\n:'''Payne''' \n:Fight! Fight! Woohoo! Did you see that? Amazing!\n:They can say exactly what's on their minds, then stand their ground and duke it out!\n:It's so cool! This is way more fun than Ragunna!\n:I've already made my mind. I'm staying here to watch the next Agon of Champions.\n:I'm going to really take in this city of honor and enjoy each contest of bravery!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Payne\n|zhs  = 佩恩\n|zht  = 佩恩\n|ja   = ぺオン\n|ko   = 페인\n|es   = Payne\n|fr   = Payne\n|de   = Payne\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

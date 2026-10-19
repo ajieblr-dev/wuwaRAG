@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:31Z",
+  "title": "Fogveil Pagoda",
+  "pageid": 43097,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Fogveil Pagoda\n|image     = Fogveil Pagoda.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Eastern Xuan Peaks\n}}\n\n'''Fogveil Pagoda''' is an area of [[Eastern Xuan Peaks]], [[Huanglong]]. \n\n==NPCs==\n{{NPCs by Location List|Fogveil Pagoda}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fogveil Pagoda\n|zhs  = 雾隐阁\n|zht  = 霧隱閣\n|ja   = {{Rubi|霧隠閣|むいんかく}}\n|ko   = 무은각\n|fr   = Pagode de Brumevoile\n|de   = Nebelschleier-Pagode\n|es   = Pagoda Velobrumoso\n|th   = ตำหนักม่านหมอก\n|pt   = Pavilhão da Névoa Velada\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

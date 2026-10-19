@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:18Z",
+  "title": "Zhiyu",
+  "pageid": 10252,
+  "wikitext": "{{NPC Infobox\n|name             = Zhiyu\n|image            = NPC Zhiyu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Memento Square\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n}}\n{{Lang|Zhiyu|zh=知雨|zh_rm=Zhīyǔ}} is an NPC in {{Location|Memento Square}}.\n\n==Location==\nZhiyu can be found in Memento Square after completing the quest [[Utterance of Marvels: II]].\n\n\u003cgallery\u003e\nNPC Location Zhiyu.png|Zhiyu's location\nNPC Location Zhiyu Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\nZhiyu is a [[Midnight Rangers|Midnight Ranger]] with the ability to sense incoming rainfall. Though he once believed his [[Forte]] was useless, serving on an exploratory team has given him increased confidence. \n\n==Quests and Events==\n{{Quests and Events|Zhiyu}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Zhiyu:''' Did you know water can speak?\n:{{DIcon}} Sure, like \"Splish, splash\" or \"Drip, drop\"?\n:'''Zhiyu:''' Haha, very funny. No, I mean...\n:'''Zhiyu:''' It's more like... the raindrops in the clouds are talking to me, telling me when they're coming and how long they'll stay.\n:{{DIcon}} You're saying the rain talks to you?\n:'''Zhiyu:''' Nah, I can only hear regular rain. When it's that Retroact stuff? Nothing.\n:{{DIcon}} [[Retroact Rain]]?\n::'''Zhiyu:''' Technically, Retroact Rain isn't even real rain. It's more like... [[Remnant]] Energy.\n::'''Zhiyu:''' Remnant Energy replays old events. When the rain flows up, you get these mirages of the past showing up in it.\n::'''Zhiyu:''' If you can't tell what's real and what's not, those mirages can mess with your head. I guess everyone's got someone they can't let go of...\n::'''Zhiyu:''' So if you run into Retroact Rain, stay sharp. Don't let your emotions get the better of you.\n::'''Zhiyu:''' I can't hear the Retroact Rain, only the ordinary kind... Do you think my Resonance Ability is weak?\n:{{DIcon}} Makes sense.\n::'''Zhiyu:''' You won't hurt my feelings if you tell me that this kind of Resonance Ability... is kind of useless.\n:'''Zhiyu:''' I used to feel insecure about it, but since I started working on the Exploration Canal, my skills have been super helpful.\n:'''Zhiyu:''' I realized that there is no such thing as a strong or weak ability, it's how you use it that matters.\n{{Dialogue End}}\n\u003c!--\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Zhiyu\n|zhs  = 知雨\n|zht  = 知雨\n|ja   = 知雨（チウ）\n|ko   = 지우\n|es   = Zhiyu\n|fr   = Zhiyu\n|de   = Zhiyu\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

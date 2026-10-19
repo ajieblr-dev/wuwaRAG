@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:18Z",
+  "title": "Langsheng",
+  "pageid": 4629,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Langsheng.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Langsheng''' is an NPC in [[Jinzhou]], patrolling the Commercial District.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Langsheng:''' There's nothing quite like being on duty in a bustling commercial area. All that time I spent applying for this job feels worth it.\n:{{DIcon}} You volunteered to come here?\n:'''Langsheng:''' Yeah. I'm not someone with great ambitions. Just wanna live a peaceful life.\n:'''Langsheng:''' Look around. The business's booming here and it's all thanks to the best Patrollers like us!\n:{{DIcon}} Indeed, that's true.\n:'''Langsheng:''' Haha, thanks. If you ever run into trouble, no need to argue.\n:'''Langsheng:''' Just say my name and everything will be smoothed over.\n:'''Langsheng:''' Don't worry. I'm a man of connections.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Langsheng\n|zhs  = 琅生\n|zht  = 琅生\n|ja   = 琅生（ロウセイ）\n|ko   = 준호\n|es   = Langsheng\n|fr   = Langsheng\n|de   = Langsheng\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Daily Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

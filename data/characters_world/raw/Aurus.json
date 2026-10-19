@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:37Z",
+  "title": "Aurus",
+  "pageid": 36612,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Ragunna\n|location         = Septimont\n|location2        = Capitoline Hill\n|group            = \n|affiliation      = Septimont\n|affiliationNote  = Arena Staff\n|title            = \n}}\n'''{{PAGENAME}}''' is a male Septimontian officer who is accompanied by a [[Ta-da]]. He is involved in the Trophy: ''[[DIY Instructions]]''. \n__NOTOC__\nAfterwards, he can be found down the stars from [[Solis Tavern]] at night.\n\n==Location==\n\u003cgallery widths=\"200\"\u003e\nFile:Trophy Map DIY Instructions.png|Aurus's location in the corridor leading into the arena\n\u003c/gallery\u003e\n\n==Dialogue==\n{{Dialogue Start}}\n;'''Aurus''' What's gotten into this Ta-da...?\n\n:'''Aurus''' What's gotten into this Ta-da...?\n:{{DIcon}} What's wrong?\n:'''Aurus''' This Ta-da here only goes \"ta-da\" every time it hears someone sigh... It's driving me mad!\n:'''Aurus''' It's supposed to be cheering every time a Gladiator lands a spectacular blow... I have no idea what to do now...\n:{{DIcon}} Make the most out of its talents.\n:{{DIcon}} Have it \"ta-da\" in an environment where it feels comfortable.\n:'''Aurus''' ...! I see! You're a genius!\n:'''Aurus''' I've got an idea. I'll have it encourage Gladiators that are beaten down and help cheer them up.\n:'''Aurus''' It'll become the best Ta-da cheerleader ever!\n----\n;(Night)\n;:'''Excited Child''' It's so cute!\n\n:'''Excited Child''': Can you make this Ta-da do more \"ta-da\", Mr. Aurus?\n:'''Aurus''': More \"ta-da\"? I can maybe try... Like this?\n:'''Excited Child''': Woah! That's amazing!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Aurus\n|zhs  = 奥拉\n|zht  = 奧拉\n|ja   = オウラ\n|ko   = 아우라\n|es   = Aurus\n|fr   = Aura\n|de   = Aurus\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

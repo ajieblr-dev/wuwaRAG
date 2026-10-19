@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:37Z",
+  "title": "Aunt Qiu",
+  "pageid": 9639,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Aunt Qiu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Aunt Qiu''' is an NPC in {{Location|Hongzhen}}, {{Location|Mt. Firmament}}. A dried fruit maker whose left alone after her son left Mt. Firmament. \n\n==Dialogue==\n{{Dialogue Start}}\n;(During Day)\n:'''Aunt Qiu:''' Come, try my freshly dried fruit.\n:{{DIcon}} (Wave and decline.)\n::'''Aunt Qiu:''' Come on, don't be shy. Take it!\n::''Mrs. Qiu stuffs a handful of dried fruit in your hand.''\n:{{DIcon}} (Take the dried fruit.)\n::'''Aunt Qiu:''' Give it a try. How is it? Do you like it?\n::{{DIcon}} Yes.\n:::'''Aunt Qiu:''' Grab more if you like it. I was worried it wouldn't suit your foreign taste buds!\n:::{{DIcon}} How do you make these?\n:::'''Aunt Qiu:''' That's easy. Let me show you.\n:::'''Aunt Qiu:''' You get some berries in advance and wash them in cold mountain spring water.\n:::'''Aunt Qiu:''' Then you cut them up, marinate them in a jar of sugar overnight, sun-dry them on a warm day, and they're guranteed to be a treat.\n:::{{DIcon}} That sounds simple.\n::::'''Aunt Qiu:''' It does sound simple, but my child still can't manage it for the sake of his life. Sometimes he tries to help me, but usually, he just ends up causing more trouble than it's worth.\n::::'''Aunt Qiu:''' Sigh. He's no longer in town now. I have no clue how he's doing outside Mt. Firmament...\n:::{{DIcon}} That sounds complicated.\n::::'''Aunt Qiu:''' Hehe, you are just like my child. He thought it was hard, too. Though he still tries to help me sometimes, usually he just ends up causing more trouble than it's worth.\n::::'''Aunt Qiu:''' Sigh. He's no longer in town now. I have no clue how he's doing outside Mt. Firmament...\n::{{DIcon}} No.\n:::'''Aunt Qiu:''' Not your taste, huh? Well, I have no clue whwat you foreign kids like or dislike. Guess I'll try something else when I return home.\n----\n;(During Night, at [[Danhua]] Souvenir Shop)\n:'''Aunt Qiu:'''\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Aunt Qiu\n|zhs  = 秋姨\n|zht  = 秋姨\n|ja   = 秋さん\n|ko   = 추 이모\n|es   = Tía Qiu\n|fr   = Tante Qiu\n|de   = Tante Qiu\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

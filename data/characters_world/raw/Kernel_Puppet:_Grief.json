@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:15Z",
+  "title": "Kernel Puppet: Grief",
+  "pageid": 42388,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n |name=Kernel Puppet: Grief\n |title=\n |image=Kernel Puppet Grief Icon.png\n |dmgtype=Spectro\n |weakpoint=Unknown\n |echo=Yes\n |class=Common\n |family=Tacet Discord\n |group=Autopuppet\n |nation=Huanglong\n |region=Mengzhou\n |subregion=\n |drops=\n |nightmare=No\n}}\n{{Description|A versatile Autopuppet that carries an abundance of emotions. It traverses the Land of Xuanfang in ever-changing forms, carrying out the command to wipe out Tacet Discords.}} \n{{Intro/Enemy}} \n\n==Drops== \n{{Drops|Common Autopuppet}}\n\n==Stats==\n{{Enemy Stats|Kernel Puppet: Grief}}\n\n==Trophies==\n{{Trophies|Kernel Puppet: Grief|customheader=Kernel Puppet: Griefs}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Spectro DMG}}.\u003cbr\u003e\u003cbr\u003eAs the Kernel Puppet is the most widely produced and versatile Autopuppet across Xuanfang, it is said that [[Hsin]] the Moon Fox was directly involved in its development.\u003cbr\u003eAs a result, the Kernel Puppets are heavily influenced by Hsin's abundant emotions, giving rise to six separate forms of Autopuppets, thus enabling them to deal with all sorts of Tacet Discords.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en  = Kernel Puppet: Grief\n|zhs = 心傀·悲\n|zht = 心傀·悲\n|ja  = 心傀・悲\n|ko  = 심월 인형 · 비(悲)\n|fr  = Automate à noyau - Chagrin\n|de  = Kernpuppe: Traurigkeit\n|es  = Títere Anímico: Tristeza\n|th  = Kernel Puppet: Grief\n|pt  = Fantoche da Alma: Tristeza\n}}\n\n==Change History==\n{{Change History|3.5}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

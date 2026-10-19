@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:21Z",
+  "title": "Levito",
+  "pageid": 28013,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Levito.png\n|type             = Open-World\n|nation           = Rinascita\n|affiliation      = Troupe of Fools\n|affiliation2     = \n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}'''Levito''' is a quest-exclusive NPC.\n\nBefore becoming a composer for the [[Troupe of Fools]], he was once the former Chief Musician of the [[Order of the Deep]] before volunteering to board the [[Pilgrim's Sail]] to seek musical inspirations and freedom. He is the brother of [[Message in a Bottle|Nannerl]] and former co-worker of [[Franciscus]]. It is unknown if both party is aware of his survival. \n\nAfter completing [[What Yesterday Wept, Today Doth Sing]], he will request Rover's aid which unlocks [[Whimpering Wastes]]. \n\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Levito\n|zhs  = 拉维特\n|zht  = 拉維特\n|ja   = レヴィト\n|ko   = 레비토\n|es   = Levito\n|fr   = Levito\n|de   = Levito\n}}\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tutorial Quests",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

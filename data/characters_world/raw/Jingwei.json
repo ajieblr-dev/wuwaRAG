@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:06Z",
+  "title": "Jingwei",
+  "pageid": 74773,
+  "wikitext": "{{Stub|better image (png; wider shot with more of her body if possible), profile, status}}\n{{NPC Infobox\n|image            = NPC Jingwei.jpg \u003c!--NPC Jingwei.png--\u003e\n|type             = Quest\n|type2            = \n|nation           = Huanglong\n|affiliation      = \n|status           = Unknown\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = [[imdb:nm9236906|Kowaka Wakana ({{lang|mini=1|ja=小若 和郁那}})]]\u003cref\u003eX: [https://x.com/muchiri1120/status/2098308741896851739 JP VA Self Announcement]\u003c/ref\u003e\n|voiceKR          = \n}}\n\n'''{{PAGENAME}}''' {{Lang|zh=静微}} is a quest-exclusive NPC who makes her first appearance during the {{Quest|Song of the Heart Sword}}.\n\n==Profile==\nJingwei was [[Qingxiao]]'s master who taught her about [[wp:Xianxia#Cultivation|cultivation]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jingwei\n|zhs  = 静微\n|zht  = 靜微\n|ja   = 静微（セイビ）\n|ko   = 정미\n|fr   = Jingwei\n|de   = Jingwei\n|es   = Jingwei\n|th   = Jingwei\n|pt   = Jingwei\n}}\n\n==Change History==\n{{Change History|3.6}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

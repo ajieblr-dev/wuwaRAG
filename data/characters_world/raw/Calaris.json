@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:48Z",
+  "title": "Calaris",
+  "pageid": 26219,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Calaris.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Cathedral of Mercury\n|group            = \n|affiliation      = Order of the Deep\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Calaris''' is an open-world [[NPC]] who appears inside the [[Order of the Deep]]'s [[Cathedral of Mercury]], [[Ragunna]]. She's a novice Acolyte and currecntly she's studying Order doctrines.\u003c!--\n\n==Quests and Events==\n{{Quests and Events}}--\u003e\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Calaris:''' O water... O ocean, you are all water...\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(First Interaction)\n:'''Calaris:''' O water... O ocean, you are all water...\n:{{DIcon}} What are you reciting?\n::'''Calaris:''' It's from the Order scripture, Codex of the Deep. Though, that verse I quoted just now... I made it up; it's not in the codex...\n:{{DIcon}} O Sentinel, O Sentinel, you—\n::'''Calaris:''' Wait! I made up that verse! It's not actually in Codex of the Deep.\n:'''Calaris:''' My name is Calaris. I recently joined the Order as a novice Acolyte and am studying Order doctrines...\n:'''Calaris:''' The doctrines hold that our world was once an immense ocean, separated by the Sentinel to provide a dwelling for humanity.\n:'''Calaris:''' The earthly world was once an immensely deep, boundless ocean where we drifted. Guided by the Sentinel's will, we strive to ascend... hence, the Order's name, Order of the Deep.\n:'''Calaris:''' Look, the teachings of the Order are mostly related to water—this is quite understandable.\n:'''Calaris:''' The people of Ragunna City live alongside the water, resting upon it as they sleep, yet often needing to confront the threat of the tides.\n:'''Calaris:''' Therefore, whether out of love or fear, the people of Ragunna ultimately hold an attitude of reverence towards water.\n:'''Calaris:''' But this The Final Tide... what does it mean, exactly...\n:'''Calaris:''' People performed rituals, praying to the Sentinel—not only to calm the raging tides but to lead humanity across The Final Tide...\n:'''Calaris:''' And some of the stories about the Blessed Maiden... They don't match what I've heard from older folks...\n:'''Calaris:''' Oh, so much to learn. I must not have trained enough...\n----\n;(Second Interaction)\n:'''Calaris:''' The Final Tide... what does it mean... and these records about the Blessed Maiden...\n:'''Calaris:''' Oh, so much to learn. I must not have trained enough...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Calaris\n|zhs  = 卡拉丽思\n|zht  = 卡拉麗思\n|ja   = カラリス\n|ko   = 칼라리스\n|es   = Calaris\n|fr   = Calaris\n|de   = Calaris\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Reference==\n{{reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Reference",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

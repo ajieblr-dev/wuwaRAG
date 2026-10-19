@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:13Z",
+  "title": "Dionysia",
+  "pageid": 26195,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Dionysia.png\n|title            = \n|type             = Open-World\n|nation           = Rinascita\n|location         = Fool's Elysium\n|group            = \n|affiliation      = Troupe of Fools\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Dionysia''' is an [[NPC]] in {{Location|Fool's Elysium|nocat=1}} and a member of the [[Troupe of Fools]]. \n\n==Quests and Events==\n''(Not in any quest or event yet)'' \u003c!-- Remove if the NPC appears in any quest/events --\u003e\n{{Quests and Events|Dionysia}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Dionysia:''' {{Rover}}, care for a one-of-a-kind glass of [[Troupe Strength]]?\n:{{DIcon}} One-of-a-kind?\n:'''Dionysia:''' Yes! Feast your eyes, this bottle is a special edition personally signed by the [[Brant|captain]]. It's rich and sweet, bold on the tongue, with a finish that's as invigorating as the captain's own presence on stage.\n:'''Dionysia:''' And here's another! This one's signed by our soprano, [[Tina]]. Care to give it a try?\n:{{DIcon}} Is there one signed by [[Roccia]]?\n::'''Dionysia:''' The first mate is still a child! She doesn't drink this stuff.\n:{{DIcon}} Ah, you're a collector, then?\n::'''Dionysia:''' These are my treasures.\n:'''Dionysia:''' At every performance, the troupe's actors bring out their own brews and sell them to the audience.\n:'''Dionysia:''' When the performance ends, the audience rushes to catch their favorite actors for an autograph. It's all part of the charm!\n:'''Dionysia:''' How about a bottle?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dionysia\n|zhs  = 狄俄妮索\n|zht  = 狄俄妮索\n|ja   = ディオニソ\n|ko   = 디오니소\n|es   = Dionysia\n|fr   = Dionysia\n|de   = Dionysia\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

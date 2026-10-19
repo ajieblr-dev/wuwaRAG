@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:18Z",
+  "title": "Zhixing",
+  "pageid": 9199,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Zhixing.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         = [[Sihong]] (Great-Great-Grandfather)\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n{{Lang|Zhixing|zh=致行}} is an NPC that appears in {{Location|Hongzhen}}. \n\n==Location==\nZhixing can be found talking to his Great-Great-Granpa, [[Sihong]] at  06:00 AM - 05:59 PM (After completing the Main Quest '[[Thaw of Eons]]').\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Transclude|Sihong|Dialogue}}\n\n==Other Languages==\n{{Other Languages\n|en   = Zhixing\n|zhs  = 致行\n|zht  = 致行\n|ja   = 致行（チコウ）\n|ko   = 치형\n|es   = Zhixing\n|fr   = Zhixing\n|de   = Zhixing\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

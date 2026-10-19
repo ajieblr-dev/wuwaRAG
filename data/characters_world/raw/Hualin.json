@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:58Z",
+  "title": "Hualin",
+  "pageid": 5999,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Hualin.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Lake Heights\n|group            = \n|affiliation      = \n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = Yangming\n|relativeNote     = Grandson\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Hualin''' is an NPC in {{Location|Lake Heights}}.\n\n==Quests and Events==\n{{Quests and Events|Hualin}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the day)\n:'''Hualin:''' Hello? Can I help you?\n:{{DIcon}} What are you doing here?\n:'''Hualin:''' Nothing really. Just keeping my daughter company.\n:'''Hualin:''' Just like everyone else here, being here makes me feel closer to her.\n\n;(During the night)\n:'''Hualin:''' Hello... You must be a thoughtful person to come here this late.\n:{{DIcon}} You look very sad.\n:'''Hualin:''' It's okay. Having [[Yangming]] with me at night makes it a bit easier than the day.\n:{{DIcon}} Is Yangming your grandson?\n:'''Hualin:''' Yes, he comes here almost every day to talk to his mother.\n:'''Hualin:''' I stay with him too. Sometimes we spend the whole night here...\n:{{DIcon}} Are you all right?\n:'''Hualin:''' It'd be a sleepless night at home anyway... might as well stay here a bit longer with them.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Hualin\n|zhs  = 桦林\n|zht  = 樺林\n|ja   = 樺林（カリン）\n|ko   = 화림\n|es   = Hualin\n|fr   = Hualin\n|de   = Hualin\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

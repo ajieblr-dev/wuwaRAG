@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:10Z",
+  "title": "Denia/Boss",
+  "pageid": 40754,
+  "wikitext": "{{CustomTabs\n|subpages=0\n|tab1=Denia/Boss\n|tab1name=Enemy\n|tab2=Reminiscence: Denia\n|tab2name=Denia's Echo\n|tab3=Reminiscence: Threnodian - Voidborne Construct\n|tab3name=Threnodian's Echo}}\n{{About|the Weekly Boss|the Resonator|Denia}}\n{{Enemy Infobox\n|name      = Denia\n|title     = Illusory Descent\n|image     = Denia Icon.png\n|dmgtype   = Fusion\n|weakpoint = Unknown\n|echo      = Yes\n|class     = Calamity\n|family    = Human\n|group     = Fractsidus\n|location  = [[Seed of Illusory Origin]]\n|drops     = We Who Question\n|variants  = Tactical Hologram: Denia\n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm18098720|Jodie Bell Cortez]]\u003cref name=\"Denia-Bili\" /\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/戈昕宇 Ge Zinyu ({{Lang|mini=1|zh=戈昕宇}})]\u003cref name=\"Denia-Bili\"\u003eBilibili: [https://t.bilibili.com/1203228490966499352 《鸣潮》共鸣者战斗演示 | 达妮娅]\u003c/ref\u003e\n|voiceJP          = {{w|Miku Itō|Itō Miku ({{Lang|mini=1|ja=伊藤 美来}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/2045125132314649063 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/박시윤(성우) Park Si-yoon ({{Lang|mini=1|ko=박시윤}})]\u003cref name=\"Denia-Bili\" /\u003e\n}}\n{{Description|\"A Department of Voidmatters student at Startorch Academy. Always there to flash her 'gentle' smile to one and all.\"}} \n{{Lang|Denia|zh=达妮娅}} is a [[Calamity Class]] [[Weekly Challenge|Weekly]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in [[Seed of Illusory Origin]].\n\n==Drops==\n{{Boss Rewards|weekly=1|exclusive=We Who Question}}\n\n==Stats==\n{{Enemy Stats}}\u003c!--\n\n==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Denia (Boss)|customheader=Denia}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Fusion DMG}}.\u003cbr\u003eDenia takes 25% more DMG from all Negative Statuses.\u003cbr\u003eShe takes 30% more total DMG for 15s under Frostbind.\u003cbr\u003e\u003cbr\u003e\"A Department of Voidmatters student at Startorch Academy. Also, a professional slacker who has mastered the art of dozing through courses. Still, she hardly misses any campus event, always there to flash her 'gentle' smile to one and all.\"\u003cbr\u003eAnd yet her name, her identity, her Resonance Ability, even the ties she claimed to others... all of it was a lie.\u003cbr\u003e\u003cbr\u003eBetween you and the Keystone stands nothing more but a puppet who came into existence only because of Aleph-1.|Description When Discovered}}\n\n==Soundtracks==\n{{Soundtracks by Category Table|Seed of Illusory Origin Soundtracks|type=combat}}\n\n==Other Languages==\n{{Other Languages|Denia}}\n\n==Change History==\n{{Change History|3.3}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "9"
+    }
+  ]
+}

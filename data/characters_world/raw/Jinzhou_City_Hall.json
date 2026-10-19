@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:07Z",
+  "title": "Jinzhou City Hall",
+  "pageid": 5860,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=City Hall\n|image=City Hall.png\n|world_map=Solaris-3\n|type = Point of Interest\n|nation=Huanglong\n|region=Jinzhou\n|area = Jinzhou (Area)\n}}\nLocated in the highest position in Jinzhou, the '''City Hall''' stands as the paramount political hub, housing the vital data repository — the Grand Library. Since the establishment of [[Jinzhou]], it has served as the residence of every Jinzhou Magistrate. The current Magistrate of Jinzhou is [[Jinhsi]].\n==Governmental Figures==\n{| class=\"article-table\"\n!Icon!!Name!!Position\n|-\n|[[File:Resonator Jinhsi.png|50px]]\n|[[Jinhsi]]\n|Magistrate (Highest Official)\n|-\n|[[File:Resonator Changli.png|50px]]\n|[[Changli]]\n|Magistrate's Counselor\n|-\n|[[File:Resonator Sanhua.png|50px]]\n|[[Sanhua]]\n|Magistrate's Bodyguard\nActs as Magistrate's Assistant\n|}\n\n==Gallery==\n\u003cgallery\u003e\nCity Hall Promo.png|Promo Art\nCity Hall Interior.png|City Hall Lobby\nCity Hall Interior2.png|City Hall Hallway\nCity Hall Interior3.png|City Hall Office\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en      = City Hall\n|zhs     = 边庭\n|zht     = 邊庭\n|ja      = 辺庭\n|ko      = 변정\n|es      = Ayuntamiento\n|fr      = l'Hôtel de Ville\n|de      = Rathaus\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Faction Navbox}}\n{{Location Navbox}}\n[[Category:Huanglong Factions]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Governmental Figures",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

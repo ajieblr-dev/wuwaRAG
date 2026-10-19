@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:12Z",
+  "title": "Dimmr Plains",
+  "pageid": 40777,
+  "wikitext": "{{Location Infobox\n|title        = Dimmr Plains\n|image        = Dimmr Plains.png\n|type         = Province\n|map          = Solaris-3\n|event        = \n|nation       = Roya Frostlands\n|demonym      = \n}}\n'''Dimmr Plains''' is in the deepest depths of [[Lahai-Roi]], the final resting place before the [[Stridergate]] and the insanity of [[Voidspace]]. It contains the great [[Solvein Heartwood]] and [[Keystone]], which serves as a seal on the [[Threnodian]] [[Aleph-1]] preventing it from entering [[Solaris-3]]. The plains contain sparse settlement by the Roya and [[Spacetrek Collective]], as they are frequently the target of Voidmatter outbursts which harm the lands of the plains more severely than Lahai-Roi above.\n\nDimmr Plains can be reached during {{Quest|Starlights from Yesterdays}}.\n\n==Regions==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Description\n|- id=\"Solisia Landing\"\n|[[File:Solisia Landing.png|180px]]\u003cbr\u003e[[Solisia Landing]]\n|The final landing place for the Soliskin, before they return to the Heartwood.\n|- id=\"Sealed Fissure\"\n|[[File:Sealed Fissure.png|180px]]\u003cbr\u003e[[Sealed Fissure]]\n|The site of a past Voidmatter breach, sealed by the Miko of Flaming Sakura.\n|- id=\"Silent Crag\"\n|[[File:Silent Crag.png|180px]]\u003cbr\u003e[[Silent Crag]]\n|A land where even sound is swallowed up and brought to silence.\n|- id=\"Dimmr Deep\"\n|[[File:Dimmr Deep.png|180px]]\u003cbr\u003e[[Dimmr Deep]]\n|The bottom of the plains, where the Solvein Heartwood holds up Lahai-Roi from below.\n|}\n\n==Quests==\n{{Quest by Category List|Dimmr Plains Quests}}\n\n==Trivia==\n===Etymology===\n*The word \"dimmr\" comes from Proto-Germanic \"dimmaz\", meaning \"dark\". It also derives from Proto-Indo-European \"dʰem-\", meaning \"to whisk, smoke, or blow; dust, haze, cloud; obscure\".\n\n==Other Languages==\n{{Other Languages\n|en   = Dimmr Plains\n|zhs  = 黯原\n|zht  = 黯原\n|ja   = ディマー・プレーンズ\n|ko   = 어둠의 평원\n|fr   = Plaines de Dimmr\n|de   = Dimmr-Ebene\n|es   = Llanuras Dimmr\n|th   = ที่ราบดิมร์\n|pt   = \n}}\n\n==Change History==\n{{Change History|3.3}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}\n[[zh:黯原]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Regions",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "8"
+    }
+  ]
+}

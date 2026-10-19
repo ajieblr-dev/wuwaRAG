@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:54Z",
+  "title": "Cassini",
+  "pageid": 39176,
+  "wikitext": "{{stub|she says multiple idle lines, I may have missed some}}\n\n{{NPC Infobox\n|image            = NPC Cassini.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = \n|affiliation      = Startorch Academy\n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC female professor teaching about the Waveworn Phenomena, Void Storm. \n\n{{color|help|Players can attend Professor Cassini class at \u003cnowiki\u003e12:00-15:59\u003c/nowiki\u003e in the Voidmatters Classroom.}}\n\n{{Dialogue Start}}\n==Idle==\n:'''Cassini:''' The more frequent the Void Storm activity in an area, the greater the threat from Voidworms.\n:'''Cassini:''' Such terrifying creatures... were once Exoswarm. But the Void Storm turned them into something else entirely. \n\n:'''Cassini:''' And this is exatly the pattern the Roya have recognized for generations.\n:'''Cassini:''' If they see the Shimmer from a distant Void Storm, they immediately guide the Exoswarms to safety.\n:'''Cassini:''' It's a pattern born from experience, and it's one we should be paying very close attention to.\n\n:'''Cassini:''' Here in the Department of Voidmatters, our research on Waveworn Phenomena is about dissecting its true nature.\n:'''Cassini:''' We've had a lot of transfer students coming in lately, recommended by the Black Shores. You should try interacting with them.\n:'''Cassini:''' When it comes to Waveworn research, the Black Shores has tons of field experience.\n:'''Cassini:''' If the right opportunity comes up and you seize it, landing an internship there isn't out of the question.\n:'''Cassini:''' At the very least, you wouldn't have to worry about your graduation internship...\n\n==Dialogue==\n;Sit down\n:'''Rover:''' I know this class...\n:{{DIcon}} (Pay close attention.)\n::'''Cassini:''' Here in the Department of Voidmatters, our research on {{Extra Effect|Waveworn Phenomena|Waveworn Phenomena|The Lament's power causes destructive waves across the land of Solaris. Manifestations like the \"Tacet Fields,\" \"Tacet Discord Outbreaks,\" and the enigmatic \"Tacetite\" are part of what is collectively known as the \"Waveworn Phenomena.\"}} is about dissecting its true nature.\n::'''Cassini:''' We've had a lot of transfer students coming in lately, recommended by the Black Shores. You should try interacting with them.\n::'''Cassini:''' When it comes to Waveworn research, the Black Shores has tons of field experience.\n::'''Cassini:''' If the right opportunity comes up and you seize it, landing an internship there isn't out of the question.\n::'''Cassini:''' At the very least, you wouldn't have to worry about your graduation internship...\n::Time flies as the professors give their lecture. The bell rings before you even realize...\n:{{DIcon}} (Doze off.)\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Cassini\n|zhs  = 卡西尼\n|zht  = 卡西尼\n|ja   = カッシーニ\n|ko   = 카시니\n|fr   = Cassini\n|de   = Cassini\n|es   = Cassini\n|th   = Cassini\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

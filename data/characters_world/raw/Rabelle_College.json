@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:08Z",
+  "title": "Rabelle College",
+  "pageid": 42211,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Rabelle College\n|image     = Rabelle College.png\n|type      = Point of Interest\n|type2     = Instance\n|nation    = Roya Frostlands\n|region    = Startorch Academy (Region)\n}}\n{{Description|Named after Scott Rabelle, the founder of Resonance Curve Theory and inventor of the Rabelle's Curve, this college—also known as the Synchronist Department—identifies and trains Synchronists through uncompromisingly rigorous, data-driven methods.\u003cbr\u003eAccess to Rabelle College requires special authorization and is ordinarily closed to students from other departments.}}\n'''{{PAGENAME}}''' is is a [[Point of Interest]] located in [[Startorch Academy (Region)|Startorch Academy]].  You can invite companions to listen to music on the second floor after the completion of {{Quest|Gold Suspended in Shadows}}.\n\n==NPCs==\n{{NPCs by Location List}}\n\n==Navigation==\n{{PoI Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

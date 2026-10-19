@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:09Z",
+  "title": "Danhua",
+  "pageid": 9931,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Danhua.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}'''Danhua''' is a Shop NPC in {{Location|Hongzhen}}. He is the receptionist of the Souvenir Shop in Hongzhen.\n\n==Shop==\n{{Shop/Wrapper|currency=Wood-texured Shard|\n{{Shop|Advanced Resonance Potion|6|30|total=1}}\n{{Shop|Advanced Energy Core|6|30|total=1}}\n{{Shop|Advanced Sealed Tube|6|30|total=1}}\n{{Shop|Premium Tuner|x=10|20|25|total=1}}\n{{Shop|Lotus Pastry Recipe|10|1|total=1}}\n{{Shop|Spicy Meat with Pavo Plum Recipe|10|1|total=1}}\n{{Shop|Lemon-Braised Pork Recipe|15|1|total=1}}\n{{Shop|Stuffed Tofu Recipe|20|1|total=1}}\n{{Shop|Shell Credit|x=500|1|∞|total=1}}\n|total=1,095+|vendor=Danhua|type=Souvenir}}\n\n==Quests and Events==\n{{Quests and Events|Danhua}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Danhua:''' Come one, come all... That's the phrase I learned from foreign customers. What do you think?\n:{{DIcon}} I want some Souvenirs.\n:{{DIcon}} Chat\n::'''Danhua:''' Excuse me, would you mind lending me a hand...\n::{{DIcon}} What is it?\n:::'''Danhua:''' Hehe, it's nothing really, just that Hongzhen has gotten a lot busier now that it's easier to come to Mt. Firmament.\n:::'''Danhua:''' But my bussiness is still the same as always, neither good nor bad. Most of my customers are regulars from the town.\n:::'''Danhua:''' The visitors just come in, browse, and leave without buying anything.\n:::'''Danhua:''' So I thought maybe I should get something new in, stuff I've never sold before.\n:::{{DIcon}} Are you looking for advice from me?\n:::'''Danhua:''' Yes. You're not from here, so you probably their preferences more than I do. So please, give me some suggestions.\n:::{{DIcon}} Daily necessities from Jinzhou\n::::'''Danhua:''' That makes sense. People from other parts of Jinzhou aren't used to our stuff, anyway.\n::::'''Danhua:''' Besides... if I could bring in some goods from Jinzhou, the regulars here in Hongzhen could also try something new.\n::::'''Danhua:''' Thanks a lot. You've been a great help.\n:::{{DIcon}} Local specialty of Mt. Firmament\n::::'''Danhua:''' True, the things we're used to seeing in Mt. Firmament might be interesting to outsiders.\n::::'''Danhua:''' Thanks a lot. You've been a great help.\n:::{{DIcon}} Hand-crafted souvenirs\n::::'''Danhua:''' Not a bad idea. Artisans aren't in short supply here. Throw some local flair on the souvenirs and they should sell like hotcakes.\n::::'''Danhua:''' Thanks a lot. You've been a great help.\n::{{DIcon}} Sorry, but I don't have the time.\n::'''Danhua:''' You're busy? Sigh. It's okay, then.\n::'''Danhua:''' Feel free to look around. Let me know if you see anything you like.\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Danhua\n|zhs  = 丹华\n|zht  = 丹華\n|ja   = 丹華（タンカ）\n|ko   = 단화\n|es   = Danhua\n|fr   = Danhua\n|de   = Danhua\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Daily Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

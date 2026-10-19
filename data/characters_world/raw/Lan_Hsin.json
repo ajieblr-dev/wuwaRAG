@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:17Z",
+  "title": "Lan Hsin",
+  "pageid": 36537,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Lan Hsin.png\n|type             = Open-World/Event\n|nation           = Huanglong\n|location         = Septimont\n|location2        = Capitoline Hill\n}}\n'''{{PAGENAME}}''' is a NPC female Huanglong tourist in [[Capitoline Hill City]]. \n__NOTOC__\n{{Dialogue Start}}\n==Dialogue==\n;(Day)\n;'''Lan Hsin''' Grand without sacrificing beauty. Truly the work of a genius...\n\n:'''Lan Hsin:''' Look. Grand without sacrificing beauty. Truly the work of a genius... I've never seen such works before coming to Septimont.\n:'''Lan Hsin:''' I've noticed that a lot of art in Septimont depicts muscular people as the subject. There's a beauty inherent in the physical form.\n:'''Lan Hsin:''' Seeing these great works, I'm a bit moved... These paintings and sculptures sing praises to the glory of being human... It's truly beautiful.\n:'''Lan Hsin:''' Last time I saw a Gladiator's portrait called \"Tiny Mirin.\" But unlike the name, he was painted to be towering and powerful.\n----\n;(Night)\n;'''Lan Hsin''' Grand without sacrificing beauty. Truly the work of a genius...\n\n:'''Lan Hsin:''' I can't believe... Mirin's actually...\n:{{DIcon}} Actually what?\n:'''Lan Hsin:''' Oh... I saw a Gladiator's portrait called \"Tiny Mirin.\" But unlike the name, he was painted to be towering and powerful.\n:'''Lan Hsin:''' Today, I met him and realized that he really is like his name.\n:'''Lan Hsin:''' He even said he wanted to promote himself as \"small and super-agile,\" but to his surprise, the artist insisted on giving him muscles and making him buff. It ended up being the total opposite of what he intended...\n:'''Lan Hsin:''' Although, I can understand what these works are trying to convey... After all, in the arena, he really is a sight to behold! Truly the work of a genius...\n{{Dialogue End}}\n\n==Trivia== \n* The Hanzi characters in her name translate to to Orchid Heart\n* The name Mirin has its roots in the Gaelic language, specifically deriving from the word \"muirinn,\" which means \"sea-born\" or \"of the sea.\"\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lan Hsin\n|zhs  = 兰心\n|zht  = 蘭心\n|ja   = 蘭心（ランシン）\n|ko   = 난심\n|es   = Lan Hsin\n|fr   = Lan Hsin\n|de   = Lan Hsin\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

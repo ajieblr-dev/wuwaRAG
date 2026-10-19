@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:49Z",
+  "title": "Calliope",
+  "pageid": 38545,
+  "wikitext": "{{NPC Infobox\n|image=NPC Calliope.png\n|type=Open-World\n|nation=Rinascita\n|location=Septimont\n}}\n'''Calliope''' is an arrogant female Septimont noble seen arguing with [[Daphne]] at the bathhouse during the morning.\n\n{{Dialogue Start}}\n==Idle==\n:;'''Calliope''' What the hell is a peasant doing in the VIP baths?\n:;'''Calliope''' Excuse me! Where's the staff? There's been a mistake.\n:;'''Daphne''' What about commoners? They paid to get in, you know!\n\n==Dialogue==\n:'''Calliope:''' This is the VIP area, peasant. You're in the wrong place. Your baths are on the floor below.\n:'''Daphne:''' Aren't they all just public baths. What's so special about this one?\n:{{DIcon}} Listen in.\n::'''Calliope:''' Heh. How dare you say they're the same? If you want to enjoy the service here, you need to have matching qualifications. Just ask yourself, what are your contributions to Septimont?\n::'''Daphne:''' I-I work hard in my job! What do you mean contributions? Wasn't it we commoners who built this bathhouse to begin with, brick by brick? What right do you have to think you're above anyone else, sitting back and enjoying everything you never lifted a finger for?\n::'''Calliope:''' Hmph. Your perception defines your perspective. How dare a lowly peasant like you speak about the contributions of us nobles? Know your place.\n::'''Daphne:''' So what? Being a noble doesn't mean you can do whatever you want.\n::'''Calliope:''' Heh. I'm sorry, but being nobles, we really can do whatever we want.\n:{{DIcon}} Leave.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Calliope\n|zhs  = 卡里奥佩\n|zht  = 卡里奧佩\n|ja   = カリオッペ\n|ko   = 칼리오페\n|fr   = Calliope\n|de   = Calliope\n|es   = Calliope\n|th   = คัลลิโอเป\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

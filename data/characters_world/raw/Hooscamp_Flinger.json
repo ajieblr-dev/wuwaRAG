@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:58Z",
+  "title": "Hooscamp Flinger",
+  "pageid": 23134,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Hooscamp Flinger\n|title=\n|image=Hooscamp Flinger Icon.png\n|dmgtype=Physical\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Howler\n|nation=Huanglong\n|region=Dim Forest\n|subregion=\n|drops=\n}}\n{{Description|A Common Class Howler TD living nomadically across Dim Forest. Individuals live in packs and follow a leader. Able to imitate the way human use simple tools.}}\n{{Intro/Enemy}}\n==Drops==\n{{Drops|Common Howler}}\n==Stats==\n{{Enemy Stats}}\n==Trophies==\n{{Trophies|Hooscamp Flinger|customheader=Hooscamp Flingers}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES|nobold=1}} to {{Color|Aero|Aero DMG|nobold=1}}.\nGibbon-like lifeforms primarily gathered in deep woodlands, Hoochiefs have the tendency to show off their supremacy by stealing human belongings.\u003cbr\u003eThey are TDs within Huanglong borders found to manifest relatively sophisticated cognitive abilities, capable of emulating humans in the use of certain rudimentary weapons and tools. In this case flinging rocks.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Hooscamp Flinger\n|zhs  = 抛石幼猿\n|zht  = 拋石幼猿\n|ja   = 石投げの猿\n|ko   = 돌을 투척하는 원숭이\n|es   = Campemico Lanzador\n|fr   = Houlice lanceur\n|de   = Hooscamp Flinger\n}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:06Z",
+  "title": "Xinle",
+  "pageid": 7327,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Xinle.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou (Area)\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\u003c!-- Clan/family --\u003e\n|sibling          = Jinyue\n|siblingNote      = Younger Brother\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Xinle''' is male Midnight Ranger NPC located in {{Location|Jinzhou (Area)}}, found nearby [[Yhan]] and [[Qingxi]]. He is the older brother of [[Jinyue]].\n\n==Location==\n{{Map Embed|Jinzhou|Xinle}}\n\n==Quests and Events==\n{{Quests and Events|Xinle}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Xinle:''' Is there anything I can help with?\n:{{DIcon}} It's nothing, I'm just wandering around.\n:'''Xinle:''' I see... If you're requesting a visit, please register here... and go through the security search. Hmm... You're all set. Please remember, \"Keep quite while you're in the military facility.\"\n----\n;(Exhaust all of Jinyue dialogues)\n:'''Xinle:''' Excuse me, ar you the... Rover? The one who helped Jinyue find that \"treasure\" a while ago?\n:'''Xinle:''' Jinyue told me everything. I'm so sorry for the troubles my younger brother has caused you.\n:{{DIcon}} No trouble at all, just a piece of cake.\n::'''Xinle:''' For you've helped out Jinyue, as his older brother, I should show my gratitude. Feel free to come to me if you have any difficulties in the future.\n:{{DIcon}} It's quite a hassle...\n::'''Xinle:''' Oh, allow me to apologize on he behalf. For you've helped out Jinyue, as his older brother, I should show my gratitude. Feel free to come to me if you have any difficulties in the future.\n:'''Xinle:''' But let me tell you in advance, if it's about the military base, I'm afraid I can't help...\n:'''Xinle:''' As long as I'm a Midnight Ranger, I'll guard the base with my life for it's my duty, after all. I hope you can understand. \n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xinle\n|zhs  = 鑫乐\n|zht  = 鑫樂\n|ja   = 鑫楽（キンラク）\n|ko   = 도현\n|es   = Xinle\n|fr   = Xinle\n|de   = Xinle\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

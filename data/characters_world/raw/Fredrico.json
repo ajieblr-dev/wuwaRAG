@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:37Z",
+  "title": "Fredrico",
+  "pageid": 37962,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Fredrico.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Sanguis Plateaus\n|location2        = Tetragon Temple (Area)\n|affiliation      = Septimont\n|affiliationNote  = Gladiator\n|group            = Gladiator\n|father         = Goffredo\n}}\n__NOTOC__\n'''{{PAGENAME}}''' is a fledgling male Gladiator participating in the Hunt for the first time. He is seen with the Blacksmith, [[Baptiste]].\n\u003cbr\u003eHis father is '''Goffredo''', makes an exclusive appearance in the Ephor's Palace during {{Quest|By Sun's Burning Hand}}.\n\n{{Dialogue Start}}\n==Dialogue==\n:'''Baptiste''': This is the best blade I've forged in a long while.\n:'''Baptiste''': To face the Dark Tide creations, steel and soul must fight as one. Sadly, I've seen far more blades make it home than men...\n:'''Baptiste''': Hope this blade bring you luck, lad!\n:'''Fredrico''': Does this sword have a name, sir?\n:'''Baptiste''': No, not yet. Tell me, lad, what's your name?\n:'''Fredrico''': Fredrico, sir.\n:'''Baptiste''': Fredrico... A fine name. Return with this blade, and you can name it after you.\n:'''Fredrico''': ...I will earn that honor, sir.\n:'''Fredrico''': For the glory of my House, I'll prove myself worthy of this sword.\n----\n;(Afterward [[By Sun's Burning Hand]])\n:'''Baptiste''': You made it back, lad!\n:'''Fredrico''': Barely... This hunt was beyond anything I imagined. Just staying alive took all I had. If it weren't for Ephor Augusta and the others...\n:'''Baptiste''': Survival is an honor in itself. Don't be too hard on yourself.\n:'''Fredrico''': Also... the sword you gave me, I lost it in the battle...\n:'''Fredrico''': A Gladiator should never let go of their blade. I guess I'm not ready yet...\n:'''Baptiste''': Haha! A sword's a sword. I can always forge another.\n:'''Baptiste''': But you, you are the real blade of Septimont. This hunt only whets your edge.\n:'''Baptiste''': Shame, though. The sword with your name will have to wait for another day.\n:'''Fredrico''' Until then, I'll keep sharpening myself.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fredrico\n|zhs  = 费德里科\n|zht  = 費德里科\n|ja   = フェデリコ\n|ko   = 프레데리코\n|fr   = Fredrico\n|de   = Fredrico\n|es   = Fredrico\n|th   = เฟรดริโก\n}}\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

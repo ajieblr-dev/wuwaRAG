@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:21Z",
+  "title": "Eskri",
+  "pageid": 38259,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Eskri.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont}}\n'''Eskri''' is a NPC male vendor selling shaved ice at the Caracalla Market in [[Capitoline Hill]].\n\n==Dialogue==\n{{Dialogue Start}}\n;'''Eskri''' Snow cones! Come get your snow cones! The best in Septimont!\n:'''Eskri:''' Sigh... Misery with a dash of sweetness...\n:{{DIcon}} What's the matter?\n:'''Eskri:''' My snow cones are selling like crazy with the finals up and running recently. After all, who doesn't want to have a sweet and icy treat after a hot matchup?\n:'''Eskri:''' But at the same time, I've been getting a lot of complaints. People say they get headaches and stomachaches after eating my snow cones.\n:{{DIcon}} Is something wrong with your snow cones?\n:'''Eskri:''' There's no way! Every single one of my snow cones is made with love!\n:'''Eskri:''' I've actually done some investigating myself? Turns out, it's because those Gladiators are gobbling down snow cones like animals! It's no wonder! They're getting brain freeze and everything...\n:'''Eskri:''' I'll be sure to tell them to take it slow next time...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Eskri\n|zhs  = 艾斯克瑞\n|zht  = 艾斯克瑞\n|ja   = エスケリ\n|ko   = 에스크리\n|fr   = Eskri\n|de   = Eskri\n|es   = Eskri\n|th   = เอสครี\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

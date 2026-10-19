@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:28Z",
+  "title": "Siqi",
+  "pageid": 4416,
+  "wikitext": "\n{{NPC Infobox\n|image            = NPC Siqi.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Huaxu Academy\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Siqi''' is an NPC in {{Location|Jinzhou}}, [[Huaxu Academy]]. There are two Siqi with different appearances with the exact same name at the Huaxu Academy. Their dialogues implies they're the same person, but make no references of each other.\n\n==Idle (Spectacles)==\n{{Dialogue Start}}\n;(Outdoor at night, but they also appear during the day)\n:{{DIcon}} Why is it not morning yet...\n:{{DIcon}} So sleepy...\n:{{DIcon}} No, I'm about to fall asleep...\n\n;(When hit)\n:{{DIcon}} Am I awake? Or is this a dream!?\n:{{DIcon}} It hurts, but it's effective!\n:{{DIcon}} Uh! It's not enough!\n\n;(Indoor during Day, being scolded by their Director)\n:{{DIcon}} Director, I'll for sure have the investigation report ready tomorrow!\n:{{DIcon}} You'd better hand it in by then... Otherwise not even I can help you!\n{{Dialogue End}}\n\n==Dialogue (Spectacles)==\n{{Dialogue Start}}\n;(Indoor, at Day)\n:'''Siqi:''' Ugh, I finally convinced them to extend the report deadline to tomorrow after some serious convincing.\n:'''Siqi:''' Hey, you're the Rover, right? Got important business here?\n:{{DIcon}} Yes, it's important.\n::'''Siqi:''' Wow, that's impressive... You've been given a big responsibility...\n:{{DIcon}} No, just wandering.\n::'''Siqi:''' That sounds cool... If you're chilling like that, you must have finished everything ages ago.\n:'''Siqi:''' Ugh, I can barely get a research report done.\n:'''Siqi:''' Honestly, everyone here at the institute is a genius... The pressure working here is insane.\n:'''Siqi:''' My stomach... it hurts again, no, I can't afford this now... I still have to finish this report.\n----\n;(Outside, At Night)\n:'''Siqi:''' Zzz... Huh!? What am I doing? No, can't sleep yet!\n:{{DIcon}} Are you okay?\n:'''Siqi:''' I'm trying to stay awake, enjoying the evening breeze. Otherwise, I'll... zzz..\n:{{DIcon}} Hey! Siqi!\n:'''Siqi:''' Ah! Did I just nod off again!? Oh no...\n:'''Siqi:''' Could you please, like, hit me when I start dozing off?\n:{{DIcon}} Is this okay?\n:'''Siqi:''' Please!\n{{Dialogue End}}\n----\n==Idle (Blonde)==\n{{Dialogue Start}}\n;(Indoor at night, surrounded by other researchers)\n:{{DIcon}} Hey, Siqi! This data's for me, right?\n:{{DIcon}} Siqi, bro, how do I use this gadget?\n:{{DIcon}} Eh? Okay, okay... one at a time...\n\n==Dialogue (Blonde)==\n;(Indoor, at Night)\n:'''Siqi:''' Ugh... I really wish I could create a clone of myself when things get this hectic.\n:{{DIcon}} Splitting myself in half wouldn't be enough.\n:'''Siqi:''' I heard Resonators can create clones. I'm so jealous...\n:'''Siqi:''' If I could figure that out, my stomachache would be cut in half.\n:{{DIcon}} Why not ask for help?\n:'''Siqi:''' People will think I'm useless if I ask for help, won't they?\n:'''Siqi:''' I'm not as smart as everyone else, so I need to work harder if I want to stand out.\n:'''Siqi:''' I'm okay, just need a short break... The real work happens at night.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Siqi\n|zhs  = 斯奇\n|zht  = 斯奇\n|ja   = 斯奇（シキ）\n|ko   = 스키\n|es   = Siqi\n|fr   = Siqi\n|de   = Siqi\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle (Spectacles)",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue (Spectacles)",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle (Blonde)",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue (Blonde)",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

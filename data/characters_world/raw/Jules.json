@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:08Z",
+  "title": "Jules",
+  "pageid": 41372,
+  "wikitext": "{{Stub|Dialogue}}\n{{NPC Infobox\n|image            = NPC Jules.png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Septimont\n|affiliation      = Gladiator\n|affiliationNote  = Medic\n}}\n'''{{PAGENAME}}''' is a male NPC medic found at the Colosseum Olymdos halls in [[Capitoline Hill City]].\n\n{{Dialogue Start}}\n==Dialogue==\n\n----\n;\u003cnowiki\u003e \u003c/nowiki\u003e\n\n{{Dialogue End}}\n\n\n==Other Languages==\n{{Other Languages\n|en   = Jules\n|zhs  = 阿利兹\n|zht  = 阿利茲\n|ja   = アリズ\n|ko   = 쥘\n|fr   = Jules\n|de   = Jules\n|es   = Jules\n|th   = Jules\n}}\n\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

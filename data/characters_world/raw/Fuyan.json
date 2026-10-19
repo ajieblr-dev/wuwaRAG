@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:40Z",
+  "title": "Fuyan",
+  "pageid": 2646,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Fuyan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Huaipu Mining Firm\n|title            = Huaipu Mining Firm Owner\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = Fujian\n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Fuyan''' is the owner of [[Huaipu Mining Firm]] and father of [[Fujian]]. He can be found in his store across from [[Linsu]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle==\n:'''Fuyan:''' Can't store different mineral colors together...\n:'''Fuyan:''' Hmm... Why's there petrolatum mixed in with these minerals...\n\n==Dialogue==\n{{Dialogue Start}}\n;(In the store)\n:'''Fuyan:''' Mineral colors here, mineral salts here, and petrolatum over there...\n:'''Fuyan:''' Sorry for the mess, just sorting out the minerals. Feel free to take a look around.\n----\n;(Outside the store, with [[Fujian]])\n\u003c!-- This dialogue is transcluded from [[Fujian]]'s page. Please update the script on that page. --\u003e\n{{Transclude|Fujian|Dialogue}}\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fuyan\n|zhs  = 扶岩\n|zht  = 扶岩\n|ja   = 扶岩（フガン）\n|ko   = 부용\n|es   = Fuyan\n|fr   = Fuyan\n|de   = Fuyan\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Daily Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

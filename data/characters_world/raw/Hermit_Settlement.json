@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:53Z",
+  "title": "Hermit Settlement",
+  "pageid": 22108,
+  "wikitext": "{{Stub}}{{Location Infobox\n|title     = Hermit Settlement\n|image     = Hermit Settlement.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Wuming Bay\n}}\n\n'''Hermit Settlement''' is an area of [[Wuming Bay]], [[Huanglong]]. \n\n==Other Languages==\n{{Other Languages\n|en      = Hermit Settlement\n|zhs     = 漱石原\n|zht     = 漱石原\n|ja      = 石洗いの原\n|ko      = 수석 평야\n|es      = Acuerdo del Ermitaño\n|fr      = Colonie de l'Ermite\n|de      = Einsiedler Siedlung\n|th      = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

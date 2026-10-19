@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:35Z",
+  "title": "Annis",
+  "pageid": 36015,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Annis.png\n|name             = Annis\n|title            = Ghost Girl A\n|type             = Quest\n|realname         = Annis Fisalia\u003cref\u003eInteraction Point: ''\"Mandragora Fisalia, Hebenon Fisalia, Cantarella Fisalia... Annis Fisalia… The above candidates have passed the trial of poison.\"''\u003c/ref\u003e\n|affiliation      = Fisalia Family\n}}\n'''Annis''' is an [[NPC]] that appears in {{Quest|A Fleeting Night's Dream}}.\n\nAnnis was a hallucination conjured by Cantarella to cope with the horrors of the Divine Trials. The backstory that Cantarella created for Annis was that despite not being of the Fisalia bloodline, Annis took part in the Divine Trials during which she, alongside Cantarella, made it past the second trial. At some point during the trials, she lost her voice permanently due to exposure to various poisons.\n\n==Quests and Events==\n{{Quests and Events}} \n\n==Gallery==\n{{Files by Character Gallery}}\n\n==Other Languages ==\n{{Other Languages\n|en   = Annis\n|zhs  = 安妮斯\n|zht  = 安妮斯\n|ja   = アンニス\n|ko   = 아녜스\n|fr   = Annis\n|de   = Annis\n|es   = Annis\n|th   = Annis\n}}\n\n==Change History==\n{{Change History|2.2}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

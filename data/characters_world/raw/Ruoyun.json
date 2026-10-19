@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:17Z",
+  "title": "Ruoyun",
+  "pageid": 74697,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Ruoyun.png\n|alias            = Jadie\n|type             = Quest\n|nation           = Huanglong\n|affiliation      = Court of Savantae\n|affiliation2     = Celestials\n|status           = Alive\u003cbr\u003eAccepted Hsin's deal to cast aside her mortal body and become a Celestial. She helps Rover's group through an Autopuppet called Jadie to hide her identity.\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n{{Description|{{A|Vo main mengzhou 3 6 372 4.ogg}} ''I love this land. I love the people here. I want to use my mechanisms to give everyone the strength to protect themselves.''|Ruoyun, [[Song of the Heart Sword]]}}\n'''{{PAGENAME}}''' {{Lang|zh=若云}}, also known as '''Jadie''', is a quest-exclusive NPC who makes her first appearance during the {{Quest|Song of the Heart Sword}}. \nShe is from [[Xianling Village]] and a [[Celestial]] mechanist from the [[Court of Savantae]].\n\n==Profile==\nShe was one of the artisans among the other soldiers and artisans who sacrificed themselves by detonating the [[Yuan Fortress]] to stop the [[Tacet Discord|Tacet Discords]] from overrunning [[Mengzhou]]. \n\nA letter from her can be encountered during {{Quest|Xuanling Sings, Storm Quelled}} as a hidden interaction. There she wrote to Ling to have them move to [[Mengzhou]] with Liang.\n\nIt is revealed that alongside other Court of Savantae artisans, she signed a contract with the Sentinel when she joined its construction project to help build the Xuanfang Hold into becoming a [[Celestial]] once construction was complete. While she lay dying in the midst of Yuan Fortress' self-destruction, she was personally visited and consoled in her dying moments by [[Sentinel]] [[Hsin]], and agreed to become a [[Celestial]] after being offered the duty.\n\nAs a Celestial, she was restricted from disclosing certain information or revealing her identity to Rover's group, thus she took the form of an owl Autopuppet called Jadie.\n\nAfter completing [[Song of the Heart Sword]], she can be found at the gazebo near the entrance of the recreated [[Yuan Fortress]] in Xuanyuan Domain.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Letter==\nEncountered during {{Quest|Xuanling Sings, Storm Quelled}}\n:{{Description|Ling,\u003cbr\u003e\u003cbr\u003eThis latest Tacet Discord outbreak is coming on strong. It's hard to say if the defenses at Yuan Fortress will hold.\u003cbr\u003e\u003cbr\u003eLiang is still young, and it really would be best for you to take him to Mengzhou, where it's safe. Please don't worry about me. I am, after all, a genius mechanist from the Court of Savantae. If worst comes to worst, I can always ask a Xuanling Bird to find the Sword Transcendent.\u003cbr\u003e\u003cbr\u003ePlease start your journey to Mengzhou soon. Keep moving forward, and don't look back.\u003cbr\u003e\u003cbr\u003eRuoyun|title=A Note With Delicate Handwriting}}\n\nNote: Ling is implied to be [[Lingfang]] and Liang may be the daughter mentioned during [[Xuanling Sings, Storm Quelled]] quest. However, the note incorrectly translates Liang as \"him\" due to Chinese original text not containing gender pronouns and him pronouns being the default in machine translations. \n\n==Character Mentions==\nFrom other NPC's during {{Quest|Xuanling Sings, Storm Quelled}}\n{{Dialogue Start}}\n:'''Xuanfang Warden:''' Those Court of Savantae Artisans also went to Yuan Fortress...\n:'''Other Xuanfang Warden:''' There's a girl named Ruoyun, right? I remember she's also from Xianling Village...\n{{Dialogue End}}\n\n==Dialogue==\n\n==Gallery==\n\u003cgallery\u003e\nFile:NPC Ruoyun Fullbody.png|Full Body\nFile:NPC Jadie.png|Autopuppet Jadie\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Ruoyun\n|zhs  = 若云\n|zht  = 若雲\n|ja   = 若雲（ジャクウン）\n|ko   = 약운\n|fr   = Ruoyun\n|de   = Ruoyun\n|es   = Ruoyun\n|th   = Ruoyun\n|pt   = Ruoyun\n}}\n\n==Change History==\n{{Change History|3.6}}\n\n==References==\n{{Reflist}}\n[[Category:Celestials]]\n[[Category:NPCs Located in Yuan Fortress]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Letter",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "9",
+      "index": "9"
+    }
+  ]
+}

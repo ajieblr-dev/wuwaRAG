@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:44Z",
+  "title": "Bellata",
+  "pageid": 27251,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Bellata.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = \n|title            = \n|dialoguereward   = Astrites and some items\n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Bellata''' is a girl NPC who appears near a large fountain in [[City Square]], [[Rinascita]], at night.\n\nAfter you interact with her, you will get some astrites and items.\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Bellata:''' I wonder... when will Dad return from the pilgrimage?\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Bellata:''' {{MC|m=Mister|f=Miss}}, take it. I don't need it anymore.\n:{{DIcon}} What is this coin for?\n:'''Bellata:''' Toss it into the well, it'll tell you if things will go well or not.\n:'''Bellata:''' I've tried many times, but the results about Dad are always bad... When will he come home?\n:{{DIcon}} What happened to your dad?\n:'''Bellata:''' A few months ago, he boarded the great pilgrim ship to visit the Sentinel at sea.\n:'''Bellata:''' Isn't this something to be proud of? Why does Mom always look so sad whenever she mentions it?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Bellata\n|zhs  = 贝拉塔尔\n|zht  = 貝拉塔爾\n|ja   = ベーラタル\n|ko   = 벨라타르\n|es   = Bellata\n|fr   = Bellata\n|de   = Bellata\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

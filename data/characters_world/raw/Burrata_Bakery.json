@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:48Z",
+  "title": "Burrata Bakery",
+  "pageid": 26907,
+  "wikitext": "{{Location Infobox\n|image        = Burrata Bakery.png\n|type         = Point of Interest\n|type2        = Restaurant\n|icon         = Icon Dialogue Restaurant.png\n|region       = Rinascita\n|area         = Whisperwind Haven\n|description  = For a taste of classic Ragunna, this century-old bakery in Egla Town is undoubtedly the best choice. Loyal to tradition, it serves Ragunna's most beloved recipes. Just be sure to respect the local culinary culture when you meet the owner...\n}}\n'''Burrata Bakery''' is a restaurant run by [[Giovanetta]].\n\n==Shop==\n{{Vendor|Giovanetta}}\n\n==Other Languages==\n{{Other Languages\n|en   = Burrata Bakery\n|zhs  = 布拉塔烘焙坊\n|zht  = 布拉塔烘焙坊\n|ja   = ブラッターベーカリー\n|ko   = 브라타 베이커리\n|es   = Panadería Burrata\n|fr   = Viennoiserie de Burrata\n|de   = Burrata Bäckerei\n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{PoI Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

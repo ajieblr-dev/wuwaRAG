@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:58Z",
+  "title": "Voidworm",
+  "pageid": 38567,
+  "wikitext": "{{stub}}\n{{NPC Infobox\n|name             = Voidworm\n|image            = \n|type             = Lore\n|nation           = Lahai-Roi\n|group            = \n|affiliation      = Aleph-1\n}}\n{{Description|An amalgamated horror that often emerges alongside Void Storms. During lulls between Storms, it primarily inhabits the highly concentrated Voidmatter environment of the Mawburrow Desert. The Voidmatter Regulators on its head serve as both its power source and its weakness.|Glossary}}\n'''Voidworm''' are higher-dimensional beings originating from [[Aleph-1]], which shaped its body with [[Exoswarm]] devoured by the [[Void Storm]] and forged its spine with the [[Exostrider]] remnants. To the inhabitants of [[Lahai-Roi]], Voidworm and Voids Storms are equally terrifying. Both are unpredictable natural disasters that devour everything in their path. During the lulls between Storms, it primarily inhabits the  of the [[Mawburrow Desert]]. \n\n==Archive Entry==\n{{Description|A terrifying creature born from the Threnodian's influence, found primarily in the hinterland of Lahai-Roi known as the \"Mawburrow Dessert.\" Its source of power and its fatal weakness are the Voidmatter Regulators on its head. Wherever it passes, life is extinguished, leaving only the void in its wake.|Loading Tip — Voidworm}}\n\n==Overview==\nThe Voidworm is a being created from the Exoswarm components, reshaped by the [[Threnodian]]'s power, reconstitute into the dreadful forms known as Voidworms. To Lahai-Roi, the Voidworm is an amalgamated horror that often emerges alongside Void Storms; wherever it passes, life is extinguished, leaving only the void in its wake. Normally, it resides in Mawburrow Dessert due to the environment containing a high concentration of Voidmatter, usually staring their in lull between Void Storm. \n\nIn general, the creatures usually stay clear of the institute ([[Spacetrek Collective]]) due to the [[Exostrider]]'s Greatsword in [[Sundermere]] repelling the Void Storms At the same time, the Institute has developed anti-Voidworm defense, such as the three Defense Arrays that once activated, must be calibrated for all three until they sync and trigger the Voidworm's containment.\n\n==Abilities==\nAs an agent of Aleph-1, the Voidworm was designed and made with abilities similar to the Threnodian itself. Having the same capability of erasing one's existence where those caught will find themselves erased from the world with none having any memories of those who fell victim to it, barring those who had Cassettes to verify their existence. Up until the Rover's arrival, [[Mornye]] states no one has ever survived having their frequency devoured by the Voidworm, and even upon escape an individual who loses their frequencies, even some, won’t recover what they lost unless the Voidworm is defeated.  The source of its power comes from the Voidmatter Regulators on its head which serve as both its power source and its weakness. Through the regulators, alongside its erasure ability, the Voidworm can fire numerous lasers that bend from either its mouth or across it's body and can also launch spherical energy orbs that chase after an enemy or settle on the ground, acting as a land-mine that explodes on contact. \n\nDue to its size and durability, defeating it in normal combat is ill-advised with specialized equipment needed to take it down or restrain it before battling it. One method in harming it is the gathering of the Voidmatter Orbs that spawn when the Voidmatter burrows and surfaces from the ground. They can be taken and used to charge and increase the Energy Pulse of the motorbike to empower the vehicle's weapons, firing a Photonic Beam when fully charged that can damage the Voidworm.\n\nThe Voidworm is also capable of tracking a target if needed through those whose frequencies it has devoured and locate them, as it does with the Rover. Although, it is suggested the Voidworm only contained the Rover's frequencies due to Aleph-1 transferring said frequencies into it, as it had never met the Rover before until their arrival in Lahai-Roi.\n\n===Immortality===\nVoidworms spawn under the influence of Aleph-1’s energy, where so long as the Void Storm and the Threnodian exist, they can’t really be destroyed. The closest to stopping one from reviving is by recycling the Voidworm’s debris whenever one is destroyed, where by dismantling it the risk of a Void Storm engulfing it and resurrecting it will decrease. Otherwise, upon a Void Storm enveloping a deactivated Voidworm, it will reactivate and resume its normal duties. \n\n===Artificial Void Storms===\nBy capturing the frequency of the Voidworm with high-precision and storing the data, a device that utilizes it can make itself the epicenter to spread Voidmatter, which creates an artificial Void Storm. \n\n==Other Languages==\n{{Other Languages\n|en      = Voidspace\n|zhs     = 虚诞虫\n|zht     = \n|ja      = \n|ko      = \n|es      = \n|fr      = \n|de      = \n|th      = \n|pt      = \n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}\n[[zh:虚诞虫]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Archive Entry",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Immortality",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Artificial Void Storms",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "8"
+    }
+  ]
+}

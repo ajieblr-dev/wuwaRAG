@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:14Z",
+  "title": "Dreaming Cavern",
+  "pageid": 42650,
+  "wikitext": "{{Location_Infobox\n|title1    = Dreaming Cavern\n|image     =Dreaming Cavern.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Gorges of Spirits\n}}\n'''Dreaming Cavern''' is an area  of {{Location|Gorges of Spirits}}. It connects [[Jinzhou (Province)|Jinzhou]] to [[Mengzhou]].\n\n==NPCs==\n{{NPCs by Location List|Dreaming Cavern}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dreaming Cavern\n|zhs  = 梦窟\n|zht  = 夢窟\n|ja   = {{Rubi|夢窟|むくつ}}\n|ko   = 몽굴\n|fr   = Caverne des rêves\n|de   = Traumhöhle\n|es   = Caverna de los Sueños\n|th   = ถ้ำนิมิต\n|pt   = Caverna dos Sonhos\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

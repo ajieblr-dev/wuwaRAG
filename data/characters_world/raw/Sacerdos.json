@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:19Z",
+  "title": "Sacerdos",
+  "pageid": 30498,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Sacerdos\n|image         = Sacerdos Icon.png\n|dmgtype       = Aero\n|weakpoint     = \n|class         = Common\n|echo          = Yes\n|family        = Echo\n|group         = Dark Tide Influenced\n|nation        = Rinascita\n|region        =\n|subregion     =\n|drops         =\n}}{{Description|A statue-like Echo that symbolizes mercy and compassion, always listening to Ragunnesi's prayers and praises to the Order.}}\n==Drops==\n{{Drops|Common Dark Tide Influenced}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES|nobold=1}} to {{Color|Aero DMG|nobold=1}}.\nA statue-like Echo that symbolizes mercy and compassion, always listening to Ragunnesi's prayers and praises to the Order.\nUnder its watch, any suspicious individuals or Echoes shall be immediately arrested and brought to the Chamber of Discipline to ensure the city's security.|Description When Discovered}}\n\n==Trivia==\n\n* ''Sacerdōs'' is Latin for a priest, priestess, or cleric.\u003cref\u003eWiktionary: [https://en.wiktionary.org/wiki/sacerdos sacerdos]\u003c/ref\u003e\n\n==Other Languages==\n{{Other Languages\n|en  = Sacerdos\n|zhs = 慈悲节使\n|zht = 慈悲節使\n|ja  = サケルドス\n|ko  = 사체르도스\n|es  = Sacerdos\n|fr  = Sacerdos\n|de  = Sacerdos\n}}\n\n\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

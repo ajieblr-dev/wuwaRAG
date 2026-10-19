@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:21Z",
+  "title": "Error Cell",
+  "pageid": 23205,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Error Cell\n|image=Error Cell.png\n|world_map=Solaris-3\n|type = Area\n|nation=The Black Shores\n|region=Tethys' Deep\n}}\nThe '''Error Cell''' is an area of [[Tethys' Deep]], [[The Black Shores]]. \n\nThe Stellar Matrices' orbital dance represents the execution of complex, high-dimensional code. As these celestial bodies collide, merge, and collapse, the code evolves through countless iterations. Occasionally, this process spawns errant code within some Stellar Matrices. To avoid contamination, the Black Shores contains these Stellar Matrices in special Tacetite vessels. The Error Cell then analyzes the aberrant data, deploying specialized probes to isolate the rogue code segments.\u003cref\u003e[https://wutheringwaves.kurogames.com/en/main/news/detail/1474 Wutherium Geographic: Lands and Waters — The Black Shores Vol. 2]\u003c/ref\u003e \n\n==Resources==\n*{{Item|Nova}}\n*{{Item|Sea Flytrap}}\n*{{Item|Violet Coral}}\n\n==NPCs==\n{{NPCs by Location List|Error Cell}}\n\n==Gallery==\n\u003cgallery\u003e\nError Cell Floor 1.png|Error Cell Floor 1\nError Cell Sublevel 1.png|Error Cell Sublevel 1\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Error Cell\n|zhs  = 谬误收容所\n|zht  = 謬誤收容所\n|ja   = エラー{{Rubi|収容所|しゅうようじょ}}\n|ko   = 오류수용소\n|es   = Celda de Error\n|fr   = Cellule d'erreurs\n|de   = Fehlerzelle\n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==Navigation==\n{{Location Navbox|Black Shores}}\n\n\u003creferences /\u003e",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resources",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

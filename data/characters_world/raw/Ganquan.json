@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:43Z",
+  "title": "Ganquan",
+  "pageid": 7607,
+  "wikitext": "{{NPC Infobox\n|name             = Ganquan\n|image            = NPC Ganquan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Rearguard Base\n|group            = \n|affiliation      = Jinzhou\n|affiliation2     = Midnight Rangers\n|title            = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Ganquan''' is an NPC in {{Location|Rearguard Base}}. A Midnight Ranger who is in the same squad as [[Lingyan]]. \n\n==Location==\n{{Map Embed|Desorock Highland|Ganquan}}\n\u003c!--\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n--\u003e\n==Quests and Events==\n{{Quests and Events|Ganquan}}\n\u003c!--\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:; (Appears after completing [[Daybreak at Last]])\n:'''Ganquan:''' Hi, {{Rover}}!\n:'''Ganquan:''' You know what!\n:'''Ganquan:''' I finally managed to borrow the recording of the Riverside Games from ten years ago!\n:{{DIcon}} Wasn't it checked out by someone else?\n:'''Ganquan:''' Yeah, and they just returned it to the archives recently.\n:'''Ganquan:''' Since they're holding the Riverside Games again soon, I wanted to see if the recording was returned.\n:'''Ganquan:''' And surprise! It was!\n:'''Ganquan:''' But man, gotta say the video quality sucks... All backs and no faces at all. Thought I could finally admire how cool they looked.\n:{{DIcon}} You've already met [[Jiyan|one of them]].\n:'''Ganquan:''' What? When? How?\n:{{DIcon}} That's a secret.\n:'''Ganquan:''' Come on, {{Rover}}, just tell me!\n:'''Ganquan:''' I could really use some advice from them...\n:{{DIcon}} The injured soldiers... Are they alright?\n:'''Ganquan:''' Yes they are! They're all fully recovered. Thank you for asking.\n:'''Ganquan:''' And... There's another thing, {{Rover}}...\n:'''Ganquan:''' Erm, you know they're gonna hold another Riverside Games, right? Lingyan and I want to join the race with our original teammates this time.\n:{{DIcon}} Sure. I understand.\n:'''Ganquan:''' Thank you, {{Rover}}! Promise you'll come cheer for us, alright?\n:{{DIcon}} I promise.\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Ganquan\n|zhs  = 甘泉\n|zht  = 甘泉\n|ja   = 甘泉（カンセン）\n|ko   = 감천\n|es   = Ganquan\n|fr   = Ganquan\n|de   = Ganquan\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\nN/A{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

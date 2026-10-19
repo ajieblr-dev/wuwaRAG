@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:32Z",
+  "title": "Magnus",
+  "pageid": 41180,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont\n|group            = Gladiator\n|mother           = Lucilla (NPC)\n}}\n'''{{PAGENAME}}''' is a male NPC Gladiator found North of the Colosseum, speaking to '''Celia'''. He wishes to become a singer, but fears disappointing his family who looks down on painters and musicians as most Septimontians do. \n\n{{Dialogue Start}}\n==Dialogue==\n:;'''Magnus''' Such alluring melodies, but my family...\n:;'''Celia''' Share with me your troubles.\n:'''Magnus:''' Such beauty, your melody moves my soul, piercing the sorrows of my heart.\n:'''Celia:''' Thank you for the compliment. In return, please share with me your troubles.\n:'''Magnus:''' I, too, wish to pursue the path of music and create such enchanting melodies as you have. But as you can see, my family expects me to be a Gladiator.\n:'''Magnus:''' And I don't wish to... disappoint them.\n:'''Celia:''' Just as my melodies reached out to your heart, I believe you can also reach out to your family for approval.\n----\n:;'''Magnus''' What am I supposed to do? Is my life gonna be in this tangled mess forever?\n:;'''Celia''' Easy, Magnus. You've had enough drinks for one night. You should rest...\n----\n;(After completing {{Quest|Flames of Heart}})\n:;'''Magnus''' Did I reach the high note, Celia?\n:;'''Celia''' You did, but I think you can go even higher!\n:'''Magnus:''' Speaking to you that day may have been the best decision of my life. I've spoken to my parents and gained their approval.\n:'''Celia:''' No, the best decision you made was to listen to your heart. I am truly happy for you.\n:'''Celia:''' Come, now that you're free to pursue your dreams,  let's unleash our love of music together.\n:'''Magnus:''' Of course, Celia. There's so much I want to learn from you.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Magnus\n|zhs  = 马格努斯\n|zht  = 馬格努斯\n|ja   = マグヌス\n|ko   = 마그누스\n|fr   = Magnus\n|de   = Magnus\n|es   = Magnus\n|th   = Magnus\n}}\n\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:13Z",
+  "title": "Rongqing",
+  "pageid": 5316,
+  "wikitext": "{{stub|Set 1 requirement}}\n{{NPC Infobox\n|image            = Rongqing.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Bogu's Arbor\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Rongqing''' is an NPC in {{location|Jinzhou}}. He is studying penjing design, and currently interns at [[Bogu's Arbor]]. He can be found at the building above the Jinhzou Theater stage and Bogu's Arbor at night.\n\n==Idle==\n{{Dialogue Start}}\n:'''Rongqing''' Ms. Verina's designs are truly enchanting. If only I could be her...\n:'''Rongqing''' What sets her apart from me...\n\n==Dialogue==\n;(Set 1)\n:'''Rongqing:''' It feels like something's missing here. So strange. I've incorporated all the decorations I could think of...\n:'''Rongqing:''' Miniature models, amber pebbles, moss... I've used them all, so what could be lacking?\n:'''Rongqing:''' Looks like I'll have to ask Ms. Verina to come and take a look. Her designs always emit a vibrant energy that's simply unmatched.\n----\n;\u003cnowiki\u003e18:00-05:59 at Bogu's Arbor\u003c/nowiki\u003e\n:'''Rongqing:''' Hmm... how can I make this penjing more alive...\n:'''Rongqing:''' Maybe I can put a pebble here, some moss there, and then add a miniature penjing...?\n:'''Rongqing:''' Darn it. No matter how I craft it, it still looks so artificial.\n:'''Rongqing:''' How does Ms. [[Verina]] manage to make her penjings look so naturally dynamic? What's her secret?\n:'''Rongqing:''' The next time she swings by, I'll have to figure it out.\n----\n;\u003cnowiki\u003e06:00-17:59 by upstairs, Jinzhou Institute\u003c/nowiki\u003e\n;(Gather flower during daytime)\n:'''Rongqing:''' Please stop!\n:'''Rongqing:''' The penjing here is meticulously crafted to blend in with the Institute's surroundings. Plucking any of these flowers would throw off the entire aesthetic.\n:'''Rongqing:''' If you love these flowers, feel free to come and enjoy their beauty, but please don't destroy my design.\n----\n;\u003cnowiki\u003e06:00-17:59 at Bogu's Arbor\u003c/nowiki\u003e\n;(Gather flower at night when Rongqing isn't around)\n:'''Beneath the night sky, the flowers exude an enchanting allure. Unconsciously, you reach your hand out...'''\n:'''As you snap out of your daze, a soft touch envelopes your fingers. Nestled in your palm lies a little flower, adorned with dewdrops, its presence serene yet captivating.\n----\n;\u003cnowiki\u003e06:00-17:59 by upstairs, Jinzhou Institute\u003c/nowiki\u003e\n;(Talk to Rongqin during day after picking flower)\n:;'''Rongqing''' Hmm... That's strange...\n:'''Rongqing:''' Huh? Who picked a Dewvetch? Now the entire penjing is ruined! I've invested so much time into this graduation project.\n:'''Rongqing:''' *Sobbing* The defense is just around the corner. Where am I supposed to find another Dewvetch now?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Rongqing\n|zhs  = 荣青\n|zht  = 榮青\n|ja   = 栄青（エイセイ）\n|ko   = 윤식\n|es   = Rongqing\n|fr   = Rongqing\n|de   = Rongqing\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

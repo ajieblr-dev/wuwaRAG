@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:58Z",
+  "title": "Chongwang",
+  "pageid": 5311,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Chongwang.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Chongwang''' is an NPC in [[Jinzhou]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Congwang:''' Huh? What happened to \"We always deliver\"? Why not accept my order?!\n:{{DIcon}} What order?\n:'''Congwang:''' I heard stories of a city in the clouds, with buildings floating and connected by skywalks... I want them to express deliver me there!\n:'''Congwang:''' Their ads claimed, \"Where you desire, our packages never tire!\" But I came all this way only for them to tell me they can't transport living people...\n:'''Congwang:''' I just want to see it with my own eyes. What's so wrong with that?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Chongwang\n|zhs  = 崇妄\n|zht  = 崇妄\n|ja   = 祟妄\n|ko   = 수만\n|es   = Congwang\n|fr   = Congwang\n|de   = Congwang\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

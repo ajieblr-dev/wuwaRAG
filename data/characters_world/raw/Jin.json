@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:05Z",
+  "title": "Jin",
+  "pageid": 74681,
+  "wikitext": "{{stub}}\n{{NPC Infobox\n|image            = NPC Jin.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Xuanfang Huaxu Academy\n|affiliation      = Xuanfang Huaxu Academy\n|affiliationNote  = Physician\n|title = Huaxu Academy Medic\n|status           = \n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a NPC Physician found managing the [[Pharmacies|Huaxu Apothecary]].\n\n==Shop==\n\n{{Dialogue Start}}\n==Dialogue==\n:{{Icon/Quest|Pharmacy Store|20px}} I want some medicines.\n\n:;(Open Shop)\n::'''Jin:''' Welcome to Huaxu Academy. I'm Jin, the physician on call.\n\n:;(Purchase)\n::'''Jin:''' If you start feeling unwell again, you may come find me anytime.\n\n:;(If not amount of [[Shell Credit]]s)\n::''(I'm running low on Shell Credits. Maybe I'll come back another time.)''\n\n:{{DIcon}} Chat\n\n::'''Jin:''' They call me the physician on call, but in truth, most of my time is spent taking inventory of the Hold's medicine supplies.\n\n::'''Jin:''' As with many other provisions, the Land of Xuanfang depends on outside delivery for its medicines. A shortage here is not easily corrected...\n\n::'''Jin:''' For that reason, I have to guess ahead. What will the Wardens need, and how much? I send the list to the Ministry of Foreign Affairs before it becomes an emergency.\n\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jin\n|zhs  = 矜\n|zht  = 矜\n|ja   = 矜\n|ko   = 근아\n|fr   = Jin\n|de   = Jin\n|es   = Jin\n|th   = Jin\n|pt   = Jin\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

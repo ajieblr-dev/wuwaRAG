@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:41Z",
+  "title": "Teensy Weensy",
+  "pageid": 36874,
+  "wikitext": "{{NPC Infobox\n|image            = Teensy Weensy In-game.jpg\n|title            = Rinascita Sonance Casket Collector \n|type             = Open-World\n|species          = Common Echo\n|nation           = Rinascita\n|location         = Garden of the Lost\n|location2        = Border Mountains\n|affiliation      = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Teensy Weensy''' is an NPC located in {{Location|Garden of the Lost|nocat=1}} and {{Location|Border Mountains|nocat=1}}.\n\nIt is a [[Lottie Lost]] [[Common Echoes|Common Echo]] and collects [[Sonance Casket: Ragunna|Sonance]] [[Sonance Casket: Septimont|Caskets]] from Rinascita.\n\n==Location==\n{{Map Embed|Thessaleo Fells|Teensy Weensy}}\n{{Map Embed|Septimont|Teensy Weensy}} \n\n==Quests and Events==\n{{Quests and Events|Teensy Weensy}} \n\n==Dialogue==\n{{Dialogue start}}\n:{{DIcon|Teensy Weensy}} I want to deliver Sonance Caskets: (Ragunna/Septimont)\n:;(Opens Sonance Casket delivery interface)\n:'''Lottie Lost:''' (It gives you an expectant look.)\n:;(Deliver Sonance Caskets)\n:'''Lottie Lost:''' (It chirps happily!)\n:;(If the player tries to deliver Sonance Caskets without any in their backpack)\n:'''Lottie Lost:''' (It seems to be cheering you on!)\n{{Dialogue end}} \n\n==Other Languages==\n{{Other Languages\n|en   = Teensy Weensy\n|zhs  = 小小\n|zht  = 小小\n|ja   = タイニー\n|ko   = 땡이\n|es   = Chiki Piki\n|fr   = Chouchou-Lapinou\n|de   = Püppi Klüppi\n}} \n\n==Trivia==\n* Despite having its own unique name that shows above their in-game model, Teensy Weensy is often referred to as just \"Lottie Lost\" in the dialogue logs. One exception is {{Quest|Plushie Squad's Clean Return}}, where it is directly referred to as Teensy Weensy. \n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tutorial Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

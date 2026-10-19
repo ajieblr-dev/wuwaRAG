@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:24Z",
+  "title": "Exile (Enemy)",
+  "pageid": 23137,
+  "wikitext": "{{Enemy Infobox\n|name=Exile\n|image=Exile Icon.png\n|dmgtype=Fusion\n|dmgtype2=Physical\n|echo=No\n|class=Common\n|family=Human\n|group=Exile\n}}{{Description|Common Exiles roaming the wilderness of various nations. Mostly taking actions in groups.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Exile}}\n\n==Stats==\n{{Enemy Stats|Exile}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Exiles|customheader=Exiles}}\n\n==Description==\n{{Description|Non-Resonators of Exile groups. They engage in a series of ordinary tasks such as combat, patrol, and item gathering for the team.\nThough they often bow to opponents more powerful than themselves, they are experts at dealing with other Exile groups.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Exile\n|zhs  = 流放者\n|zht  = 流放者\n|ja   = 追放者\n|ko   = 추방자\n|es   = Exiliado\n|fr   = Exilé\n|de   = Exil\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

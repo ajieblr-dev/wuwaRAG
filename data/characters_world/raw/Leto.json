@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:20Z",
+  "title": "Leto",
+  "pageid": 26228,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Leto.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = Angry Father\n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Leto''' is an NPC who appears in [[Ragunna]], [[Rinascita]] \n\nfrom 8:00 AM to 3:59 PM, he can be seen standing on a table in front of a Tubpup. Meanwhile, from 5:00 PM to 6:59 PM, he can be seen talking to a girl named [[Batti]] next to a Tubpup.\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n;\u003cnowiki\u003e(8:00 AM - 3:59 PM)\u003c/nowiki\u003e\n:'''Leto:''' Hey, have you heard of the [[Troupe of Fools|Fools' Troupe]] that sails across the sea? Haha, well, that's us!\n:'''Leto:''' We're not after treasure—we're here to steal... your joyful laughter!\n:'''Leto:''' Set sail, Admiral Tubpup!\n:'''Tubpup:''' Woof... woof woof!\n{{Dialogue Start}}\n\n==Dialogue==\n{{Dialogue Start}}\n;\u003cnowiki\u003e(5:00 PM - 6:59 PM)\u003c/nowiki\u003e\n:'''Leto:''' I feel like I've seen that \"Drama Maniac\" from Egla Town somewhere before...\n:'''Batti:''' He's a bit odd... but his stories about the Fool's Troupe are rather captivating!\n:'''Batti:''' [[Roccia|Eccentric Roccia]] the First Mate, free-spirited [[Brant|Captain Brant]]...\n:'''Leto:''' Batti, don't you think the \"Drama Maniac\" looks a lot like [[Lorenzo|Uncle Lorenzo]]?\n:'''Leto:''' But his hair color is different, his clothes have a different style, and he wears a mask, so you can't see his face...\n:'''Leto:''' But when he performs, his gaze always drifts toward us.\n:'''Leto:''' Almost as if he's telling the story for our sake...\n:'''Batti:''' Uncle Lorenzo went on a pilgrimage, didn't he... The adults looked so strange when he left.\n:'''Leto:''' So I haven't dared mention this to Gisle—just hearing Uncle Lorenzo's name makes him sad.\n:'''Batti:''' How about... we investigate it ourselves!\n:'''Admiral Tubpup:''' Bark bark!\n:'''Batti:''' I bet a Monnaie he's not Uncle Lorenzo!\n:'''Leto:''' It's a bet!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Leto\n|zhs  = 莱托\n|zht  = 萊托\n|ja   = レート―\n|ko   = 레토\n|es   = Leto\n|fr   = Leto\n|de   = Leto\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

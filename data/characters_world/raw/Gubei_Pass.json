@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:48Z",
+  "title": "Gubei Pass",
+  "pageid": 6010,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1    = Gubei Pass\n|image     = Gubei Pass.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Central Plains\n}}\n'''Gubei Pass''' is an area of {{Location|Central Plains}}. It is a large, open area that is mainly home to [[Exiles]]. \n\n==Interactables==\n{{#dpl:|category = Gubei Pass Terminology\n|noresultsheader = There are no interactables in this area.\n|ordermethod= title}}\n\n==NPCs==\n{{NPCs by Location List|Gubei Pass}}\n\n==Other Languages==\n{{Other Languages\n|en   = Gubei Pass\n|zhs  = 谷北地\n|zht  = 谷北地\n|ja   = 谷北部\n|ko   = 고북 지역\n|es   = Paso de Gubei\n|fr   = Nord Vallée\n|de   = Gubei-Pass\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Interactables",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

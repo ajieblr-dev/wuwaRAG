@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:43Z",
+  "title": "Becker",
+  "pageid": 38992,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Becker.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = \n|affiliation      = Rabelle College\n|title            = \n}}\n'''Becker''' is a NPC male [[Startorch Academy#Rabelle College|Syncronist]] found at night nearby the [[Tactical Hologram: Synchronization]]. \n\n==Dialogue==\n{{Dialogue Start}}\n:'''Becker:''' Phew... finally...\n:'''Emmie:''' You okay? I saw your sync rate spike by a whole new percentage point at the end there.\n:'''Becker:''' I... What happened...? Did you help me?\n:'''Emmie:''' No, I didn't touch anything. What happened?\n:'''Becker:''' Just now, I felt like I'd hit my limit... I could barely hold on.\n:'''Becker:''' And right then, it felt like [[Aemeath|someone]] stepped in to help me. Just enough so I pulled through.\n:'''Becker:''' Who could it have been...?\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Becker\n|zhs  = 贝克朗\n|zht  = 貝克朗\n|ja   = ベイクロウ\n|ko   = 베클랑\n|fr   = Becker\n|de   = Becker\n|es   = Becker\n|th   = Becker\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

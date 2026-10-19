@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:17Z",
+  "title": "Knight of Sorrowful Aria",
+  "pageid": 42126,
+  "wikitext": "{{Enemy Infobox\n|name       = Knight of Sorrowful Aria\n|image      = Questless Knight Icon.png\n|dmgtype    = Electro\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|group      = Whisperin\n|group2     = Influenced by the Dark Tide\n|nation     = Rinascita\n|region     = Averardo Vault\n|level      = 120\n}}\n'''Knight of Sorrowful Aria''' is a [[Special Enemies|special enemy]] found in {{Location|Averardo Vault|nocat=1}}.\n\n==Location==\n\u003cgallery\u003e\nTrophy Symphony of the Night Location.png|Knight of Sorrowful Aria's Location\nTrophy Symphony of the Night Location Context.png|Location Context\n\u003c/gallery\u003e\n\n==Trophies==\n{{Trophies|Knight of Sorrowful Aria|customheader=Knight of Sorrowful Aria}} \n\n==Other Languages==\n{{Other Languages\n|en  = Knight of Sorrowful Aria\n|zhs = 晓月骑士\n|zht = 曉月騎士\n|ja  = 暁月の騎士\n|ko  = 새벽 달의 기사\n|es  = Caballero de la Aria Dolorosa\n|fr  = Chevalier d'Aria\n|de  = Ritter der traurigen Arie\n|th  = อัศวินแห่งท่วงทำนองโศกอาเรีย\n|pt  = Cavaleiro da Ária Dolorosa\n}}\n\n==Change History==\n{{Change History|2.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:27Z",
+  "title": "Fiona",
+  "pageid": 38258,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Precious Metals and Artworks Depository\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Fiona''' is a female NPC working at the [[Vault Underground]]. She can be found gossiping with a male NPC employee, '''Titus'''.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Fiona''': Heard the latest? Another one's tried to make off with the \"secret cache.\"\n:'''Titus''': After all these years, you'd think one of them would actually succeed. Honestly, I'm a bit curious myself about what it actually is.\n:'''Titus''': The Montelli family's most scandalous secret? Something like... Lady Carlotta was actually born to a Fisalia, but her Resonance abilities got her sent to the Montellis!\n:'''Fiona''': Ugh... you imagination is something else.\n:'''Fiona''': But you reminded me of a tale. Years ago, the Vault had a legendary employee. The loan manager pulled the funding on his family business and ruined him. The man vowed vengeance against the Vault itself after that. \n:'''Fiona''': I heard he vowed to pay back the man who did that to him a hundredfold, come hell or high water.\n:'''Fiona''': Maybe the \"secret cache\" is his way of finally getting even?\n{{Dialogue End}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fiona\n|zhs  = 福斯蒂娜\n|zht  = 福斯蒂娜\n|ja   = ファウスティーナ\n|ko   = 포스티나\n|fr   = Fiona\n|de   = Fiona\n|es   = Fiona\n|th   = ฟิโอน่า\n}}\n==Change History==\n{{Change History|2.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

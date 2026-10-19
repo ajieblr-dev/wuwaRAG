@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:14Z",
+  "title": "Rossini",
+  "pageid": 28018,
+  "wikitext": "{{Meta|missing_NPC_location=yes}}{{stub|missing condition for dialogue and maybe also location(?)}}\n{{NPC Infobox\n|image            = NPC Rossini.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Fool's Elysium\n|group            =\n|affiliation      = Order of the Deep\n|affiliationNote  = Former\n|affiliation2     = Troupe of Fools\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Rossini''' is a male [[NPC]] who was once an Acolyte, but then became the \"chef\" for the Troupe of Fools. He creates eccentric dishes based off performances.\n\n==Quests and Events==\n''(Not in any quest or event yet)'' \u003c!-- Remove if the NPC appears in any quest/events --\u003e\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Rossini:'''  Hmm... These botched recreations. But I guess I'll have to finish them off anyway.\n:'''Rossini:''' The taste and presentation might be lacking, but it's still edible!\n:'''Rossini:''' Oh my! This one is... Poached Egg with Slug Relish, from \"The Merchant of Ragunna.\"\n:'''Rossini:''' Seems the slug meat got overcooked. No wonder Gisle's jaw started twitching halfway through his lines...\n:'''Rossini:''' And here we have the Layered Yak Short Rib Bake... Must be the family feast main course from Act 3, Scene 6 of \"The Lady of Cammellya.\"\n:'''Rossini:''' Ugh, this yak meat is far too fatty. No wonder Heather's aria sounded like it was dripping in butter...\n----\n;(Unknown prompt and conversation)\n:'''{{DIcon}}''' (Narrator: A mere infatuation is far from enough. What Chappell, now fallen to mortality, needs is a heart consumed by desire. Without it, anyone's love is nothing but a delusion!\n:'''{{DIcon}}''' (Narrator: The doctrines that sever human desires and the silence, the tasteless laws and divine meals, now only provoke her instinctive revulsion--)\n:'''{{DIcon}}''' I don't need a sermon, Acolyte Bugatti. Either shut up or join me in enjoying this delicious Golden Crab Pie.\n:'''{{DIcon}}''' Don't look at me like that, Bugatti. I'm not the Acolyte you once knew.\n:'''{{DIcon}}''' Call me Chappel... My name is Chappel-Romanya, Lord Bugatti.\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Rossini:''' Hello there, {{Rover}}! I'm testing out some new recipes, but I won't invite you to sample them just yet.\n:{{DIcon}} All these dishes are...\n:'''Rossini:''' Yes, inspired by the plays, you see. Though recreating them has proven to be a bit more troublesome than I anticipated.\n:'''Rossini:''' Golden Crab Pie is one of my few triumphant creations!\n:'''Rossini:''' I'm Rossini. I didn't get the chance to introduce myself during today's rehearsal. I used to work in the kitchens of the Order of the Deep, preparing meals for the council members.\n:{{DIcon}} Why did the Order exile you?\n:'''Rossini:''' I merely enhanced the council's meals—naturally, in the best way possible.\n:'''Rossini:''' The head chef accused me of using sinister methods to incite the Acolytes' appetites, corrupting their piety and undermining the Order.\n:'''Rossini:''' Heretic, he called me... a laughable but effective accusation.\n----\n:'''Rossini:''' Hey! Want to try my first latest dish?\n:'''{{DIcon}}''' Your first dish?\n:'''{{DIcon}}''' Your latest dish?\n:'''Rossini:''' Ah, yes! This is inspired by a performance I saw. A true Rinascita culinary creation, born from the stage!\n:'''Rossini:''' Place a [[Goldcrest Scarab]] into a pie, baked with [[Mastic Nuvola]] and [[Viscum Berry]]... then nestle it in a [[Bell Crab]] shell, arranging it just so, to mimic the playful movements of the scarab...\n:'''{{DIcon}}''' Goldcrest Scarab?\n:'''{{DIcon}}''' Bell Crab's shell?\n:'''Rossini:''' Yes, exactly! Isn't it fascinating? To help the actors truly feel their roles, I've gone all in to recreate these legendary dishes!\n:'''Rossini:''' So, what do you think? Want to try this dish- the one that brings \"Chappell Romanya\" back to the mortal realm, but leaves \"Acolyte Bugatti\" with the most perplexed expression?\n:'''{{DIcon}}''' Sure!\n::'''Abby:''' No, no, no! No way! There's just no way!! You eat it, I'm not eating it!\n::'''Rover:''' Scared you enough to jolt you awake?\n:'''{{DIcon}}''' Maybe not...\n:'''Rossini:''' Hey! Are you sure you don't want to give it a try? I can guarantee this dish has a flavor like no other!\n\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Rossini\n|zhs  = 罗西尼\n|zht  = 羅西尼\n|ja   = ロッシーニ\n|ko   = 로시니\n|es   = Rossini\n|fr   = Rossini\n|de   = Rossini\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

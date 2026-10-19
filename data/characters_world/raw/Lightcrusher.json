@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:24Z",
+  "title": "Lightcrusher",
+  "pageid": 23040,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Lightcrusher\n|title=\n|image=Lightcrusher Icon.png\n|dmgtype=Spectro\n|weakpoint=\n|echo=Yes\n|class=Elite\n|family=Tacet Discord\n|group=Howler\n|nation=Huanglong\n|region=Mt. Firmament\n|subregion=\n|drops=\n}}\n{{Description|An Elite Class Howler TD. It is solitary and leaves behind luminous traces as it moves.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Elite Howler}}\n\n\n{{Enemy Stats|Lightcrusher}}\n\u003c!--==Stats==\n==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|customheader=Lightcrushers}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Spectro damage}}.\u003cbr/\u003eAn enormous feline-mimic TD, only sighted in Mt. Firmament in Huanglong.\u003cbr\u003e\u003cbr/\u003e\nAccording to the Hongzhen Chronicle, it is a solitary TD with four claws and a scaly back. It is called \"Lightcrusher\" because of the glowing tracks left in its wake.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lightcrusher\n|zhs  = 踏光兽\n|zht  = 踏光獸\n|ja   = 光踏獣\n|ko   = 흑월의 야수\n|es   = Correluces\n|fr   = Casseur de lumière\n|de   = Lichtbrecher\n}}\n\n==Change History==\n{{Change History|1.1}} \n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

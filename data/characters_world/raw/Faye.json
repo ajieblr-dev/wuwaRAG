@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:25Z",
+  "title": "Faye",
+  "pageid": 31711,
+  "wikitext": "{{NPC Infobox\n|image            = Faye In-game.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont\n|child            = [[Linnea]]\n|childNote        = daughter \n}}\n'''Faye''' is a female [[NPC]] in {{Location|Capitoline Hill}}, talking with her daughter '''Linnea'''. \n\n==Idle==\n{{Dialogue Start}}\n:;'''Faye''' This place has changed so much over the last twenty years... The last time your father and I visited was to watch the Agon.\n:;'''Linnea''' The Agon? Who was the champion, Mom?\n:;'''Faye''' Her name goes something like My... Strange, what was that girl's name again?\n:;'''Faye''' I'm sorry, I can't remember all of a sudden. I just remember it was a young lady. \n{{Dialogue End}} \n\n==Dialogue==\n{{Dialogue Start}}\n:'''Linnea:''' \n:Hmm? What's on your mind, Mom?\n\n:'''Faye:''' \n:Just thinking about the news I saw last night. Something about that champion Gladiator everyone's talking about... Her name's [[Lupa]], right? She looks quite the warrior!\n:I think so, too.\n\n:{{DIcon}} Yep. Lupa's the best!\n::'''Faye:''' \n::Wow, she even gets your seal of approval? Seems like there's a lot to look forward to, then.\n\n:{{DIcon}} I'm stronger than she is.\n::'''Faye:''' \n::Really? Well, I can't wait to see you in the finals, then!\n\n:'''Faye:''' \n:I once visited Septimont to watch the [[Great Agon|Agon]] about twenty years ago. I don't remember most of the details, but I'll never forget the amazement I felt watching them compete.\n\n:'''Linnea:''' \n:Mom, who was the champion twenty years ago? Was she as great as Lupa?\n\n:'''Faye:''' \n:Hehe, I'd like to know as much as you do. I remember her name goes something like... My... My... Hmm? Strange, what was [[Mya|that girl's]] name? I can't remember all of a sudden..?\n\n:'''Linnea:''' \n:...Mom?\n\n:'''Faye:''' \n:Ah. Forgive me. I felt a bit light headed there for a moment. I need a bit of rest. I'll be better in no time.\n{{Dialogue End}} \n\n==Other Languages==\n{{Other Languages\n|en   = Faye\n|zhs  = 费伊\n|zht  = 費伊\n|ja   = フェイ\n|ko   = 파예\n|es   = Faye\n|fr   = Faye\n|de   = Faye\n}} \n\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

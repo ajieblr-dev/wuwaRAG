@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:11Z",
+  "title": "KU-Shosho",
+  "pageid": 38731,
+  "wikitext": "{{NPC Infobox\n|image            = KU-Shosho.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Black Shores Archipelago\n|group            = \n|affiliation      = Black Shores\n|title            = \n|species          = KU-Roro\n}}\n'''KU-Shosho''' is a Quest Exclusive KU-Roro for {{Quest|Flowing Starlight in the Iris}}, assigned to Chisa during her rehabilitation. \n\n==Quests and Events==\n{{Quests and Events}}\n\n{{Other Languages\n|en   = KU-Shosho\n|zhs  = 库休休\n|zht  = 庫休休\n|ja   = クリープ\n|ko   = 쿠 ・ 슈슈\n|es   = KU-Shosho\n|fr   = KU-Shosho\n|de   = KU-Shosho\n}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    }
+  ]
+}

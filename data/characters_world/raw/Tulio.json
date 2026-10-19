@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:51Z",
+  "title": "Tulio",
+  "pageid": 26090,
+  "wikitext": "{{NPC Infobox\n|name             = Tulio\n|image            = NPC Tulio.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|location2        = Fool's Elysium\n|affiliation      = Order of the Deep\n|status           = Unknown\u003cbr\u003eIt is unknown what happen to him after leaving the Fool's Elysium, but he appears for a moment in Morning Star I. This may be during a different timeline. \n}}\n'''Tulio''' is an NPC located in {{Location|City Square|nocat=1}}. He is a member of the Servitude Hall in the [[Order of the Deep]]. After the third interaction with him, he can be found in [[Fool's Elysium]] until talked to, after which he leaves the Fool's Elysium by boat.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction)\n:'''Tulio:''' Light of Genesis, please purify these lost souls...\n:{{DIcon}} Lost souls?\n:'''Tulio:''' Hello, I am Tulio, a member of the Servitude Hall of the Order of the Deep.\n:'''Tulio:''' Within the realm of Rinascita, once the frequency of [[Tacet Discord]] is dispersed, the remaining Reverberation, if not collected over time, will gradually be absorbed by the Data Bank of the [[Genesis Nexus]], subsequently becoming a frequency sample for [[Common Echoes]].\n:'''Tulio:''' Therefore, we believe Tacet Discords and [[Echoes]] are essentially the same. Tacet Discords are simply wayward, fallen \"\u003cruby\u003eDivine Envoys\u003crt style=\"text-align: center;\u003eCommon Echoes\u003c/rt\u003e\u003c/ruby\u003e\".\n:'''Tulio:''' The function of the Servitude Hall is to regularly purge the Tacet Discords around Ragunna City, maintain the surrounding safety, and expand the frequency reserves within the Genesis Nexus Data Bank.\n:'''Tulio:''' We also believe this will allow Tacet Discords to receive the Sentinel's \"initiation and purification,\" enabling them to return to the embrace of the divine, once again becoming \u003cruby\u003eDivine Envoys\u003crt style=\"text-align: center;\u003eCommon Echoes\u003c/rt\u003e\u003c/ruby\u003e to assist humanity.\n:'''Tulio:''' The gourd you're wearing is a Reserved Terminal, correct? Oh, don't worry. I'm not here to inspect your Terminal.\n:'''Tulio:''' The Servitude Hall oversees the distribution of Reserved Terminals within the region and manages foreign Reserved Terminals.\n:'''Tulio:''' Your Terminal has passed approval and certification, but its unique appearance made it particularly memorable among the applications.\n:'''Tulio:''' I want to remind you that recent Tacet Discord activities outside Ragunna City have increased. If you plan to venture into the wild to collect Echoes, please be careful.\n:'''Tulio:''' May the [[Imperator|Sentinel]] bless you.\n----\n;(Second interaction)\n:'''Tulio:''' Hello again. I'm placing some frequency samples from [[Vitreum Dancer|Vitreum Dancers]].\n:'''Tulio:''' Vitreum Dancer's frequency originates from the stained glass windows in the ruins. Some scholars believe that their frequencies contain a portion of history related to the Sentinel.\n:'''Tulio:''' Recently, some questions regarding the history of Rinascita—specifically a prophecy concerning Napoli the Second, the first Primus—have surfaced, sparking considerable debate among scholars.\n:'''Tulio:''' Scholars want more frequency samples for analysis. And with the sea of clouds... things have been unsteady, so the Servitude Hall has extended \"operations\" to [[Nimbus Sanctum]].\n:{{DIcon}} You look a bit tired.\n:{{DIcon}} The workload at the Servitude Hall isn't easy.\n:'''Tulio:''' While undertaking tasks in Nimbus Sanctum, we often have to ascend and descend through the cloud tunnels of the sea of clouds. That sense of weightlessness is not a pleasant experience.\n:'''Tulio:''' But every time I see these Vitreum Dancers, I can't help but marvel at the Sentinel's power over all creation... to bring such wonders to the people, to show His miracles—that is my mission.\n:'''Tulio:''' Their every move reflects a mesmerizing radiance, exuding a beauty of resilience and grace that emerges from transformation.\n:'''Tulio:''' And with its elegant yet agile demeanor, it's no wonder the Montelli family favors them as personal guards.\n:'''Tulio:''' If you're planning to travel to Nimbus Sanctum soon, it's safer to set sail during the day.\n:'''Tulio:''' May the Sentinel bless you.\n----\n;(Third Interaction)\n:'''Tulio:''' Ah, it's you. How many times have we met now? Truly a sign of fate.\n:'''Tulio:''' This time, I'm introducing some frequency samples of the [[Fae Ignis]].\n:'''Tulio:''' Fae Ignis... it's supposed to only appear around Penitent's End, yet lately, sightings report them gathering at the Hallowed Reach.\n:'''Tulio:''' The Servitude Hall members have been dispatched to handle this matter, but so far, we haven't reached any solid conclusions...\n:{{DIcon}} You seem to have a lot on your mind.\n:{{DIcon}} You look like you've got dark circles under your eyes.\n:'''Tulio:''' Fae Ignis is particularly drawn to fiery frequencies. The candles on the Isle burn constantly; with their nature, there's no way they'd leave for no reason.\n:'''Tulio:''' Perhaps... something secretive is happening in Penitent's End... I worry that this anomaly might impact all Common Echoes, even threatening the safety of the people.\n:'''Tulio:''' ...If large-scale Fae Ignis migrations happen again, I'll have to go to the Isle to investigate.\n:'''Tulio:''' When you're out in the wild, be cautious. There are strange currents beneath the sea... Ragunna's high tide season is coming early this year.\n:'''Tulio:''' May the Sentinel bless you.\n----\n;(Found at Troupe of Fools)\n:'''Tulio:''' Sigh, what should we do...\n:{{DIcon}} Acolyte Tulio, you're still alive!\n:{{DIcon}} Acolyte Tulio, what are you doing here?\n:'''Tulio:''' It's truly fortunate to encounter you here.\n:'''Tulio:''' Earlier, I went alone to the Grave Isle to investigate the truth behind the migration of the Fae Ignis, only to unexpectedly encounter an attack by a dragon on the island.\n:'''Tulio:''' In a moment of crisis, it was the members of the Troupe of Fools who saved me and brought me back to life.\n:{{DIcon}} You should be grateful to them.\n:{{DIcon}} You should feel happy about that.\n:'''Tulio:''' I understand... but did you know, everyone here... they're all... lost souls...\n:{{DIcon}} But you, too, were saved by those lost souls.\n:{{DIcon}} What do you mean? Please be clear.\n:'''Tulio:''' Pilgrimage... Fools... it all aligns. I merely went from purgatory to hell...\n:'''Tulio:''' I may know much about Tacet Discords and Echoes but about people... I know nothing...\n:'''Tulio:''' Do you  think... they saved me to eat me? Judging by their food quality, it wouldn't be surprising...\n:'''Tulio:''' No, no... I mustn't keep talking. If they realize I know their secret...\n:'''Tulio:''' I must come up with a plan... to escape from here...\n----\n;(Where Tulio was last seen in Fool's Elysium)\n:'''Claudio''': Ah... of all days, why'd he pick such awful weather...\n:'''{{DIcon}}:''' Acolyte Tulio, what are you doing here? {{sic}}\n:'''Claudio''': A member witnessed the Acolyte secretly sailing away from the stronghold alone at night.\n:'''Claudio''': We can understand why Order members don't recognize us... it's understandable if they leave.\n:'''Claudio''': But... ah, with this weather... fog all around, and the storm is closing in.\n:'''Claudio''': I hope the Sentinel's blessings see him safely ashore...\n{{Dialogue End}}\n\n==See Also==\n* [[Figaro]] \n\n==Other Languages==\n{{Other Languages\n|en   = Tulio\n|zhs  = 图里奥\n|zht  = 圖里奧\n|ja   = トゥリオ\n|ko   = 툴리오\n|es   = Tulio\n|fr   = Tulio\n|de   = Tulio\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

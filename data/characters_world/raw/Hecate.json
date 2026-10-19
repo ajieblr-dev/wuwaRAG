@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:54Z",
+  "title": "Hecate",
+  "pageid": 25671,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name     = Hecate\n|title    = Limbo Rondo\n|image    = Hecate Icon.png\n|echo     = Yes\n|dmgtype  = Havoc\n|class    = Calamity\n|family   = Tacet Discord\n|location = [[Beyond the Crimson Curtain]]\n|drops    = The Netherworld's Stare\n|variants = Nightmare: Hecate; Tactical Hologram: Hecate}}\n{{Description|A special Tacet Discord summoned by Phrolova from a Sonoro Sphere where all decaying frequencies converge, known as the \"Beyond\". It manifests as a three-faced Witch of the Underworld.}}\n{{Lang|Hecate|zh=赫卡忒}} is a [[Calamity Class]] [[Weekly Challenge|Weekly Boss]] in ''[[Wuthering Waves]]'' that can be found in [[Beyond the Crimson Curtain]].\n\n==Drops==\n{{Boss Rewards|weekly=1|exclusive=The Netherworld's Stare;Molded Echo - Crimson Curtain Call I;Molded Echo - Crimson Curtain Call II}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Abilities== \n\n==Trophies==\n{{Trophies|Hecate|customheader=Hecate}}\n\n==Tutorial==\n{{Tutorial|Hecate}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} against {{Color|Havoc damage}}.\u003cbr/\u003eA special Tacet Discord summoned by Phrolova from a Sonoro Sphere where all decaying frequencies converge, known as the \"Beyond\". It manifests as a three-faced Witch of the Underworld.\u003cbr/\u003eMortals are nothing more than captives of fate, their struggles mere fleeting illusions. As the phases of the moon wax and wane, only death and oblivion remain unchanged.\u003cbr/\u003eOn a stage woven from crimson Lycorises, she performs in harmony with Phrolova's orchestration, together crafting a \"perfect\" symphony of despair.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en  = Hecate\n|zhs = 赫卡忒\n|zht = 赫卡忒\n|ja  = ヘカテー\n|ko  = 헤카테\n|es  = Hécate\n|fr  = Hecate\n|de  = Hekate\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "9"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:02Z",
+  "title": "Woodveil Hall",
+  "pageid": 36423,
+  "wikitext": "{{Stub}}\n{{Location_Infobox\n|title1    = Woodveil Hall\n|image     = Woodveil Hall.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Mt. Firmament\n}}\n\n'''Woodveil Hall''' is an area of [[Mt. Firmament]], [[Huanglong]]. It has lower, middle, and upper levels on the [[map]].\n\n==Other Languages==\n{{Other Languages\n|en   = Woodveil Hall\n|zhs  = 环木阙\n|zht  = 環木闕\n|ja   = 環木宮\n|ko   = 환목\n|es   = Salón de Maderavelo\n|fr   = Arc de bois\n|de   = Woodveil Hall\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

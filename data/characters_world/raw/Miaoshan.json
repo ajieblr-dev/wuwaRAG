@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:35Z",
+  "title": "Miaoshan",
+  "pageid": 5994,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Miaoshan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Lake Heights\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Miaoshan''' is an NPC in {{Location|Lake Heights}}.\n\n==Dialogue==\n{{Dialogue Start}}\n;(Idle)\n:'''Yetian:''' Would you stop coming around here all the time? You're making us all nervous.\n:'''Miaoshan:''' When is Heming coming back?\n:'''Yetian:''' Well, you don't miss people by doing this. What kind of man stares at a list of fallen soldiers every day, looking for his sweetheart's name?\n:'''Yetian:''' And the list hasn't even been updated for so long... If you carry on like this, your life is over!\n:'''Miaoshan:''' I'm worried about her! She hasn't responded to my calls for over thirty-six hours!\n:'''Yetian:''' They're fighting on the front lines. What do you think they're doing, camping?\n:'''Miaoshan:''' You're right... I'll go back to Mr. [[Yhan]] later and sign up for ten more training sessions!\n:'''Miaoshan:''' If I train hard, maybe I'll get a chance to join her on the frontlines.\n:'''Yetian:''' This is getting to sappy for us. We won't tag along again!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Miaoshan\n|zhs  = 淼杉\n|zht  = 淼杉\n|ja   = ビョウサン\n|ko   = 삼영\n|es   = Miaoshan\n|fr   = Miaoshan\n|de   = Miaoshan\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

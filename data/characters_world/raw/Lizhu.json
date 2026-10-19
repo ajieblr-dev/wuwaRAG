@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:26Z",
+  "title": "Lizhu",
+  "pageid": 8813,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Lizhu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Huaxu Academy\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Lizhu''' is an NPC in {{Location|Jinzhou}}.\n\n==Quests and Events==\n{{Quests and Events|Lizhu}}\n* [[Pincer Maneuver Warriors (Quest)]]\n\n==Dialogue==\n{{Dialogue Start}}\n;(Indoor, at Morning)\n:'''Lizhu:''' Phew... Everyone else is working, but I'm here slacking off and loving it... Haha!\n:{{DIcon}} Here you are...\n:'''Lizhu:''' Hang on, you're not planning to snitch to Mr. [[Mortefi]], right...?\n:{{DIcon}} Are you scared?\n:'''Lizhu:''' Mr. Mortefi is scarier than my own mentor.\n:'''Lizhu:''' His words can be brutal... If he sees me slacking off, he'll probably say something like...\n:'''Lizhu:''' \"Taking a little break, I see. You must enlighten me about your vast knowledge of avoiding work.\"\n:'''Lizhu:''' Just so you know, that's the 17th most brutal line from Mr. Mortefi, as per our rankings on the Huaxu Hive.\n:{{DIcon}} That's only ranked the 17th?\n:'''Lizhu:''' Oddly enough, some people don't mind his scolding... In fact, they seem to provoke him on purpose.\n:'''Lizhu:''' I really can't understand what those people are thinking...\n----\n;(Outdoor, at Afternoon)\n:'''Lizhu:''' The war in the [[Norfall Barrens]] has finally ended.\n:'''Lizhu:''' That [[Retroact Rain]] was horrible, wasn't it?\n:'''Lizhu:''' The Retroact Rain was already scary as an illusion... but then actual \"ghosts\" appeared!\n:{{DIcon}} It could be caused by the [[Threnodian]]'s awakening.\n:'''Lizhu:''' Yeah, we thought so too. The Threnodian seemed on the brink of awakening... and its recent activities have already had such a terrible impact.\n:'''Lizhu:''' Can you believe the [[Fractsidus]] wanted to hatch such a terrifying creature...\n:'''Lizhu:''' I heard Fractsidus members were part of this Threnodian revival too. Rover, any insights?\n:{{DIcon}} I'm not quite sure either.\n:'''Lizhu:''' Ah, too bad. I was hoping to get more information from you...\n:{{DIcon}} Where did you hear all these rumors, anyway?\n:'''Lizhu:''' Of course, it's all online!\n----\n;(Indoor, at Night)\n:'''Lizhu:''' [[Crownless]]... No way, the progress on the frequency calculations is only at 7%...\n:{{DIcon}} What are you doing?\n:'''Lizhu:''' I'm analyzing the Crownless data. I've never seen such a complex Tacet Discord before.\n:'''Lizhu:''' By the way, did you know? Miss [[Baizhi]] actually came up with the term \"Crownless.\" What a pity.\n:{{DIcon}} Why is it a pity?\n:'''Lizhu:''' Don't you think the name is a bit... uninspired? Miss Baizhi is a genius at everything, except naming Tacet Discords.\n:'''Lizhu:''' Everyone on the forums wants a more memorable name. They even held a virtual contest for suggestions.\n:{{DIcon}} For example?\n:'''Lizhu:''' My favorite is \"Savage God of Torn Wings.\" What do you think, Rover?\n:{{DIcon}} I think \"Crownless\" is a better name...\n::'''Lizhu:''' No way... Did Miss Baizhi blackmail you??\n:{{DIcon}} \"Savage God of Torn Wings\" is the better name.\n::'''Lizhu:''' Haha, Rover, you've got great taste!\n:{{DIcon}} I don't really care.\n::'''Lizhu:''' In the end, Miss Baizhi, as the discoverer, has the final say.\n----\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lizhu\n|zhs  = 骊珠\n|zht  = 驪珠\n|ja   = リシュ\n|ko   = 려주\n|es   = Lizhu\n|fr   = Lizhu\n|de   = Lizhu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

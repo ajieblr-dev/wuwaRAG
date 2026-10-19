@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:27Z",
+  "title": "Fallacy of No Return",
+  "pageid": 20679,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name = Fallacy of No Return\n|title = Tethys' System\n|image = Enemy Fallacy of No Return (Boss).png\n|dmgtype = Spectro\n|weakpoint = Unknown\n|echo = Yes\n|class = Overlord\n|family = Tacet Discord\n|group =\n|nation = The Black Shores\n|region = Tethys' Deep\n|subregion = Data Torrent\n|variants  = Tactical Hologram: Fallacy of No Return\n|drops = Topological Confinement\n}}\n{{Description|The last line of defense built by the Tethys System, roaming between the boundaries of reality and data space.}}\nThe {{Lang|'''Fallacy of No Return'''|zh=无归的谬误}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in the {{Location|Data Torrent}}, and is unlocked after completing {{Quest|To the Shore's End}}.\n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Topological Confinement}} \n\n==Stats==\n{{Enemy Stats}} \n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Fallacy of No Return|customheader=Fallacy of No Return}}\n\u003c!-- ==Tutorial==\n{{Tutorial|Fallacy of No Return}}--\u003e\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Spectro damage}}.\u003cbr/\u003eIt is the last line of defense built by the Tethys System, roaming between the boundaries of reality and data space.\u003cbr/\u003eThe absolute safety and stability of this system must be preserved at all costs, even if it means exhausting the computing power of the stars, or seizing the power to modulate—\u003cbr/\u003eThis is the core logic of the system, the foundation to continue the observation, and the unwavering protocol of Tethys.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en      = Fallacy of No Return\n|zhs     = 无归的谬误\n|zht     = 無歸的謬誤\n|ja      = フェイタルエラー\n|ko      = 돌아갈 곳이 없는 오류\n|es      = Falacia sin Regresión\n|fr      = Erreur intarissable\n|de      = Irrtum der Irreversibilität\n}}\n\n==Change History==\n{{Change History|1.3}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:49Z",
+  "title": "Hamm",
+  "pageid": 27319,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Hamm.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Hamm''' is a male NPC who appears in [[Ragunna]], [[Rinascita]] at night. He can be seen talking to [[Nara]], [[Graham]], and [[Bill]].\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Graham:''' ...Lollo Logistics' motto is \"We Promise, We Deliver!\"\n:'''Graham:''' No matter where, we'll be at your service, fully committed to guarding your shipments!\n:'''Graham:''' Look at these freeze dried jerkies—fresh from Rinascita to Huanglong. Kitties in Jinzhou love it!\n:'''Hamm:''' Huh? Isn't that a Hound? Why would a Hound be called \"Kitty\"?\n:'''Graham:''' Uh... well... that's not the point here!\n:'''Hamm:''' The point is, how can a Hound be called Kitty? Kitty is clearly a name for a cat—it must be a misdelivery.\n:'''Nara:''' Right! This goes against common sense. Is Lollo Logistics really reliable?\n:'''Bill:''' Exactly! By this logic, Lollo Logistics should be renamed to \"Chichi Logistics.\"\n:'''Hamm:''' What do you mean?\n:'''Bill:''' See, the Lollo Logistics mascot is a hamster! Hamsters don't go \"lo-lo-lo,\" they go \"chi-chi-chi\"!\n:'''Graham:''' Well... I can explain! Everyone, let me explain!\n:'''Graham:''' When a hamster's cheeks are full of food, it makes a \"lo-lo\" sound.\n:'''Graham:''' And do you see the deep pockets on our vests? They're super spacious, and super efficient!\n:'''Graham:''' No matter how oddly shaped the shipment, Lollo Logistics can \"swallow it whole!\"\n:'''Graham:''' So, in summary, if you need courier services, Lollo Logistics is the way to go!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Hamm\n|zhs  = 汉姆\n|zht  = 漢姆\n|ja   = ハム\n|ko   = 한모\n|es   = Hamm\n|fr   = Hamm\n|de   = Hamm\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

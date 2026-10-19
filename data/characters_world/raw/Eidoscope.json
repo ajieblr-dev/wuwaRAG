@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:18Z",
+  "title": "Eidoscope",
+  "pageid": 23203,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Eidoscope\n|image=Eidoscope.png\n|world_map=Solaris-3\n|type = Area\n|nation=The Black Shores\n|region=Tethys' Deep\n}}\n{{Quote\n| speaker = Eidoscope loading screen\n| quote = The garden, nestled within the depths of the subterranean galaxy, serves as both the lens to observe its great expanse and the [[Shorekeeper]]'s dwelling during her confinement by the Tethys System. It is said that the garden existed well before the founding of the Black Shores, functioning as the eye that gazes upon the stars. However, what the eye perceives may remain unknown to the heart. What truths lie behind these supreme concepts?\n}}\nThe '''Eidoscope''' is an area of [[Tethys' Deep]], [[The Black Shores]].\n\n==Resources==\n*{{Item|Nova}}\n\n==NPCs==\n{{NPCs by Location List|Eidoscope}}\n\n==Other Languages==\n{{Other Languages\n|en   = Eidoscope\n|zhs  = 艾多斯之镜\n|zht  = 艾多斯之鏡\n|ja   = エイドスの鏡\n|ko   = 에이도스 가든\n|es   = Eidoscopio\n|fr   = Eidoscope\n|de   = Eidoscape\n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resources",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

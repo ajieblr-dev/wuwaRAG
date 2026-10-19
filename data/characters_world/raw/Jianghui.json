@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:04Z",
+  "title": "Jianghui",
+  "pageid": 65818,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=Lahai-Roi\n|location=Startorch Academy\n|affiliation=Department of Light Energy Sciences\n|group=\n}}\n'''{{PAGENAME}}''' can be seen next to his classmate, '''Magnus''' and Magnus mother, enjoying a meal.\n\n{{Dialogue Start}}\n==Dialogue==\n:'''Jianghui:''' Yum! Bro, you Roya grew up eating this [[Fruit Crackle]]? You guys are spoiled!\n:'''Magnus:''' Ugh, slow down... You're gonna get juice all over your shirt.\n:'''Magnus's Mother:''' \"Hiccup\" used to love it too! I told him to bring some for you, but he thought you wouldn't like it. If you do, I'll have him bring more next time he comes home.\n:'''Magnus:''' Ma! I've told you a hundred times, don't call me that in public!\n:'''Jianghui:''' Bro, how can you talk to your mom like... no, \u003ci\u003eour\u003c/i\u003e mom like that? Mom! Over here! I'll give you a campus tour!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jianghui\n|zhs  = 将晖\n|zht  = 將暉\n|ja   = 将暉\n|ko   = 장휘\n|fr   = Jianghui\n|de   = Jianghui\n|es   = Jianghui\n|th   = Jianghui\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

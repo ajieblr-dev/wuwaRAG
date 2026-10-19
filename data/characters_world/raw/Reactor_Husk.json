@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:11Z",
+  "title": "Reactor Husk",
+  "pageid": 38441,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name     = Reactor Husk\n|title    =Duskfall's Blaze \n|image    = Reactor Husk Icon.png\n|echo     = Yes\n|dmgtype  = Fusion\n|class    = Overlord\n|family   = \n|nation   = Roya Frostlands\n|region   = Fangspire Chasm\n|drops    = Burning Judgment\n|variants = Tactical Hologram: Reactor Husk}}\n{{Description|After the Reactor Drive was set above Lahai-Roi by the Exostrider, it remained on high alert to the activities of Aleph-1.}}\n{{Lang|Reactor Husk|zh=}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]''. \n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Burning Judgment}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Abilities== \n\n==Trophies==\n{{Trophies|Reactor Husk|customheader=Reactor Husk}} \n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Fusion DMG}}.\u003cbr\u003e\u003cbr\u003eReactor Husk's special ranged attack, Cinder Cut, can be deflected back, dealing damage to the Reactor Husk in return and reducing its Vibration Strength.\u003cbr\u003e\u003cbr\u003eAfter attacking or taking Counterattacks several times, a Vulnerable Core will be exposed on Reactor Husk's left arm. Attacking the exposed core will destroy Reactor Husk's armor, rendering it unable to attack.\u003cbr\u003e\u003cbr\u003eInflicting Negative Statuses on Reactor Husk immediately exposes the Vulnerable Core. If Reactor Husk's armor is destroyed while it is inflicted with Negative Statuses, then it takes 100% more total DMG from Negative Statuses for 30s. During this effect's period, the core will no longer be exposed.\u003cbr\u003e\u003cbr\u003eAfter the Reactor Drive was set above Lahai-Roi by the Exostrider, it remained on high alert to the activities of Aleph-1.\u003cbr\u003e\u003cbr\u003eWhen the Drive's immune response is triggered, a mechanized \"Reactor Husk\" will arise from the depths of the energy well, with the sole purpose of eliminating intruders at all costs.\u003cbr\u003e\u003cbr\u003eResearch by Spacetrek Collective shows that Reactor Husk was once part of the Exostrider. Both share a mission to resist the Threnodian threat and safeguard civilization.|Description when discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Reactor Husk\n|zhs  = 炉芯机骸\n|zht  = 爐芯機骸\n|ja   = ドライブの機骸\n|ko   = 리액터 허스크\n|fr   = Coque du réacteur\n|de   = Reaktor-Mecha-Wächter\n|es   = Coraza del Reactor\n|th   = Reactor Husk\n}} \n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{Enemy Navbox}}\n\n[[zh:炉芯机骸]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

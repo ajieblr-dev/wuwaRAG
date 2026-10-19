@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:56Z",
+  "title": "Hsin the Moon Fox",
+  "pageid": 79532,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = no\n|missing_NPC_context  = no\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = no\n|missing_NPC_dialogue = no\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Hsin The Moon Fox.png\n|type             = Quest\n|nation           = Huanglong\n|location         = \n|group            = \n|affiliation      = Sentinels\n|title            = Moon Fox\n|status           = Deceased\n\n\u003c!--Voice Actors--\u003e\n\u003c!--Same as Hsin's--\u003e\n|voiceEN          = {{w|Suzie Yeung}}\u003cref name=\"Hsin-Bili\" /\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/菊花花 Ju Huahua ({{Lang|mini=1|zh=菊花花}})]\u003cref name=\"Hsin-Bili\"\u003eBilibili: [https://t.bilibili.com/1248500650294116370 《鸣潮》动画短片 | 寻心]\u003c/ref\u003e\n|voiceJP          = {{w|Mamiko Noto|Noto Mamiko ({{Lang|mini=1|ja=能登 麻美子}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/2101287693925617819 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/소연(성우) So Yeon ({{Lang|mini=1|ko=소연}})]\u003cref name=\"Hsin-Bili\" /\u003e\n}}\n'''Hsin the Moon Fox''' is one of [[Huanglong]]'s seven [[Sentinel]]s.\u003cref\u003e{{Quest|Utterance of Marvels: I}}\n:'''Yangyang:''' Yes, the one we built this statue for. The {{rubi|Sentinel|Oracle Engine}} in Jinzhou. There is one capital and six cities in Huanglong, with each city having its own Sentinel. While they share some similarities in appearance, there are also differences.\u003c/ref\u003e It is the original Sentinel of [[Mengzhou]]\u003cref name=\"MENGZHOU\"\u003e{{Quest|Simulacrum of the Heart}}\n:'''Wenshu:''' Sentinel Jué has long shielded Mt. Firmament, just as Mengzhou relies on Lady Hsin the Moon Fox. If Jinzhou is to be our first step toward reclaiming our lands, we cannot simply leave the entire burden to the Sentinels.\u003c/ref\u003e who was assassinated by [[Balanophora]] 200 years ago, right after the end of the [[Fortress and Gorges War]]. It was succeeded by [[Hsin]], a clone It created using Its powers of fractal proliferation.\u003cref\u003e{{Quest|Simulacrum of the Heart}}\n:'''{{Rover}}:''' If you are a fractal form of Hsin the Moon Fox, then what of the real Sentinel...?\u003c/ref\u003e\n\n==Quests and Events==\n{{Quests and Events|Hsin the Moon Fox}}\n\n==Other Languages==\n{{Other Languages\n|en   = Hsin the Moon Fox\n|zhs  = 心月狐\n|zht  = 心月狐\n|ja   = 心月狐（シンゲツコ）\n|ko   = 심월 여우\n|fr   = Hsin la Renarde Lunaire\n|de   = Hsin der Mondfuchs\n|es   = Hsin, la Vulpina Lunar\n|th   = Hsin จิ้งจอกจันทรา\n|pt   = Hsin, a Raposa Lunar\n}}\n\n==Change History==\n{{Change History|introduced=3.7}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:03Z",
+  "title": "Wulü",
+  "pageid": 10314,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|name             = Wulü\n|image            = NPC Wulü.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = Doudou\n|childNote        = Daughter\n|child2           = Mingming\n|childNote2       = Son\n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Wulü''' is a public security guard for {{Location|Jinzhou}} and the father of [[Mingming]] and [[Doudou]]. He works 6AM to 11PM, with his kids waiting by his side by 6PM.\n\u003c!--\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n--\u003e\n==Quests and Events==\n{{Quests and Events|Wulü}}\n\u003c!--\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n;(During the day)\n:'''Wulü:''' Hi there! You don't seem like a local. If you need any help, just let me know, and I'll be happy to assist!\n:{{DIcon}} I'm looking for food...\n::'''Wulü:''' What do you like to eat? Stir-fry, hot pot, or something fried?\n::'''Wulü:''' In that case, I recommend [[Panhua]]'s Restaurant. Miss Panhua's dishes never disappoint!\n:{{DIcon}} I'm looking for souvenirs...\n::'''Wulü:''' Looking for souvenirs? Check with [[Ganxue]]. The [[Pioneer Association]] has a lot of new merchandise!\n::'''Wulü:''' They have all sorts of badges, cards, tickets, and more. My daughter loves them!\n:{{DIcon}} I have some little boxes with me...\n::'''Wulü:''' Little box? Oh, you mean a [[Sonance Casket]], right?\n::'''Wulü:''' I understand that [[Chenpi]] likes these gadgets. You should ask him. Maybe he will buy them!\n:{{DIcon}} I want to buy some medicine...\n::'''Wulü:''' Did you get hurt? You don't need to tough it out, why don't you go see [[Koko]] for some medicine?\n::'''Wulü:''' Her pharmacy is on the shopping street. Whatever your issue might be, you can always check with her first.\n:{{DIcon|Exit}} Nothing else.\n::'''Wulü:''' Oh, I see. Take your time to explore! We have so many delicious treats and fun activities in Jinzhou. Enjoy your stay!\n----\n;(During the evening)\n:;(Idle)\n::'''Doudou:''' Dad, today I also practiced hide-and-seek with Mingming!\n::'''Wulü:''' Good, I knew Doudou and Mingming were good kids.\n::'''Mingming:''' Do you have any new hiding techniques to teach us?\n::'''Wulü:''' Er... I'm still at work. Can you be patient for a little longer?\n::'''Doudou:''' Of course! We'll wait patiently for you here, Dad!\n\n:'''Wulü:''' Okay, okay, I'll teach you after work... Oh, sorry, how can I help you?\n:{{DIcon}} I'm looking for food...\n::'''Wulü:''' If you want a hot meal at this time, Panhua's Restaurant is the place to go!\n::'''Wulü:''' After work, I take my kids there too. They love Miss Panhua's dishes and always finish everything!\n:{{DIcon}} I'm looking for souvenirs...\n::'''Wulü:''' Souvenirs? My kids love that stuff, too. They often visit Ganxue to buy Pioneer Association merchandise.\n::'''Wulü:''' Badges, cards, and tickets, and so much more... It never fails to blow me away!\n:{{DIcon}} I have some little boxes with me...\n::'''Wulü:''' Little box? Oh, you mean a Sonance Casket, right?\n::'''Wulü:''' My son mentioned that Uncle Chenpi loves collecting these. If you have any, you can take them to him. He'd love to have them!\n:{{DIcon}} I want to buy some medicine...\n::'''Wulü:''' Did you get hurt? You don't need to tough it out, why don't you go see Koko for some medicine?\n::'''Wulü:''' Her pharmacy is on the shopping street. Whatever your issue might be, you can always check with her first.\n:{{DIcon|Exit}} Nothing else.\n::'''Wulü:''' Oh, I see. Take your time to explore! We have so many delicious treats and fun activities in Jinzhou. Enjoy your stay!\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Wulü\n|zhs  = 无旅\n|zht  = 無旅\n|ja   = 無旅（ムリョ）\n|ko   = 민혁\n|es   = Wulü\n|fr   = Wulü\n|de   = Wulü\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

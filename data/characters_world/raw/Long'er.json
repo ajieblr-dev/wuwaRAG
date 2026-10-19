@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:26Z",
+  "title": "Long'er",
+  "pageid": 8899,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{NPC Infobox\n|name             = Long'er\n|image            = NPC Long'er.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = \n|group            = \n|affiliation      = Exiles\n|title            = \n}}\n'''Long'er''' is an NPC within the cave that was cleared during A Free Meal - II.\n\u003c!--\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n\n==Quests and Events==\n{{Quests and Events|Long'er}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Long'er:''' Hey, you're the Rover, right? I'm the boss of [[Maosan]] and [[Gousi]]. They told me you've saved them from some kind of mess.\n:{{DIcon}} It's me.\n::'''Long'er:''' I know you're some expert!\n:{{DIcon}} You have interesting names.\n::'''Long'er:''' Betcha! We've gone through a lot together. Names are the representations!\n:'''Long'er:''' Thank you for saving them. They were crying lightning just like some naughty kids. Can't deal with them, right?\n:'''Long'er:''' I should be nice to them. We live our lives, no more dirty jobs!\n{{Dialogue End}}\n\n==Trivia==\n* Long'er name means Dragon Two\n\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Long'er\n|zhs  = 龙二\n|zht  = 龍二\n|ja   = 龍二（リュウジ）\n|ko   = 류지\n|es   = Long'er\n|fr   = Long'er\n|de   = Long'er\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:49Z",
+  "title": "Hammel",
+  "pageid": 38589,
+  "wikitext": "{{Stub|dialogue}}\n{{NPC Infobox\n|image            = NPC Edward.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Hammel''' is a male Security NPC found at [[Startorch Academy (Region)|Startorch Academy - Square]], regaling the tale of [[Zahira]] misdemeanors to deliver lunch to her sister, [[Aluna]]. \n\n{{Dialogue Start}}\n==Dialogue==\n:'''Hammel:''' ...Last time, she crossed the back gate on a reindeer, charging toward the cafeteria like a bat out of hell.\n:'''Sarafina:''' W-what on earth was she doing?!\n:'''Hammel:''' Just dropping off lunch for her sister, Aluna. Then  she left like it was the most normal thing in the world.\n:'''Sarafina:''' That's... one way to make a delivery.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Hammel\n|zhs  = 汉莫\n|zht  = 漢莫\n|ja   = ハマー\n|ko   = 해머\n|fr   = Hammel\n|de   = Hammel\n|es   = Hammel\n|th   = Hammel\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

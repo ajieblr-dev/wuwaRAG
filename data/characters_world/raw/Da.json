@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:07Z",
+  "title": "Da",
+  "pageid": 5315,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Da.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Lollo Logistics\n|title            = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Da''' is an NPC in {{Location|Jinzhou}}.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Da:''' Ah, what a nice day. It's perfect for soaking up some sun\n:{{DIcon}} Don't you have to work?\n:'''Da:''' Yeah, yeah, I'll get to it in a bit. Absolutely. You bet. No rush here. Why the worry, {{MC|m=Mr.|f=Ms.}} Not-My-Boss?\n:'''Da:''' [[Peipei]] never seems to run out of energy... Hard to say what keeps her so busy.\n:'''Da:''' Watching her go is exhausting. That's it, I definitely need a break now...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Da\n|zhs  = 阿达\n|zht  = 阿達\n|ja   = 阿達（アタツ）\n|ko   = 아준\n|es   = Da\n|fr   = Da\n|de   = Da\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

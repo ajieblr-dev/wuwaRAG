@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:42Z",
+  "title": "Tetragon Temple",
+  "pageid": 36127,
+  "wikitext": "{{stub|infocheck}}\n{{About|the [[Factions|faction]]|the location|Tetragon Temple (Area)}}\n{{Faction Infobox\n|title        = Tetragon Temple\n|image        = Tetragon Temple.jpg\n|nation       = Rinascita\n|base         = Tetragon Temple (Area)\n|leader       = [[Lillibet]]\n|ally         = [[Ephor's Palace]]\n|enemy        = \n}}\n'''Tetragon Temple''', more commonly known as '''The Tetragon''', is a faction consisting of the Priestesses of [[Septimont]]. It is founded by the Head Priestess Lillibet and currently led by Iuno. The Temple is responsible for handling and delivering prophecies (one of the most notable being the \"Hero of Heroes\" prophecy) typically through the Book of Prophecies or murals within the temple.\n\n==Prominent Members==\n* [[Lillibet]] (Head Priestess)\n* [[Iuno]] (127th Priestess\u003cref\u003e[[Iuno/Backstory#Forte Examination Report|Iuno's Forte Examination Report]]\u003c/ref\u003e)\n\n==Glossary==\n* Hero of Heroes - The legendary ruler of Septimont. The legend traces its roots to an ancient prophecy that only the one who becomes the Hero of Heroes can save Septimont from falling into ruin.\n* Book of Prophecies - A scroll Lillibet carries, recording visions glimpsed in the flame light. Both this book and the murals within Tetragon Temple are media through which the Priestesses of Septimont convey prophecies to the people.\n\n== Other Languages ==\n{{Other Languages\n|en   = Tetragon Temple\n|zhs  = 四方殿\n|zht  = 四方殿\n|ja   = テトラゴン真殿\n|ko   = 테트라고노 성전\n|fr   = Temple tétragone\n|de   = Vierecktempel\n|es   = Templo Tetrágono\n|th   = วิหารเธทรากอน\n}}\n\n==References==\n{{Reflist}}\n\n== Navigation==\n{{Faction Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Prominent Members",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Glossary",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

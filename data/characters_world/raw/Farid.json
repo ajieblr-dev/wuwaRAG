@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:24Z",
+  "title": "Farid",
+  "pageid": 39659,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Farrid.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = Rabelle College\n|affiliation      = Rabelle College\n|title            = \n}}\n'''{{PAGENAME}}''' is a male NPC Professor wearing a Synchronist uniform, giving lessons about a catastrophe that caused the [[Solaris-3|Solaris]] axial tilt to shift near the [[Tactical Hologram: Synchronization]] pod during the day.\n\nThis axis tilt is the reason for the existence of Roya Frostlands, which was known as the First Epoch by the Royan's\u003cref\u003e[[\"A Study of Royan Mythology\" (Excerpt)]]\u003c/ref\u003e\u003cref\u003e[[Ivar]]\u003c/ref\u003e. \n\n==Location==\n\n{{Dialogue Start}}\n==Idle==\n:'''Farid:'''  Solaris once experienced a catastrophic shift of both its axis and its magnetic poles.\n\n==Dialogue==\n:'''Farid:'''  Alright everyone, our analysis of the ice-core samples from the Roya Frostlands has given us some crucial data—\n:'''Farid:'''  It supports a daring hypothesis: Solaris once experienced a catastrophic shift of both its axis and its magnetic poles.\n:'''Farid:'''  Think about the force required to shake an entire planet in an instant, far beyond just tectonic activity. \n:{{DIcon}} ...Only a global [[The Lament|Lament]] could cause that.\n:'''Farid:'''  Exactly. Ah, you're a freshman from Rabelle College, aren't you? Sharp insight.\n:{{DIcon}} I'm flattered. Just following your reasoning, Professor.\n:'''Farid:'''  ...Very well. Moving on.\n:'''Farid:'''  In the aftermath, the [[Etheric Sea]] spread, engulfing Solaris and completely transforming its ecology.\n:'''Farid:'''  The cascade of effects that followed triggered the largest mass extinction in recorded history.\n:'''Farid:'''  We even suspect the Etheric Sea didn't just physically separate Solaris from the rest of the universe. It may have isolated its very laws.\n:'''Farid:'''  Could the new order reshaping Solaris have originated from that mysterious floating sea itself?\n:{{DIcon}} ...So you're saying Solaris's physics just stopped working?\n:'''Farid:'''  Hehe, that's a bit of academic hyperbole. The laws of physics still exist, there are just far too many new variables for our models to handle.\n:'''Farid:'''  Anyway, the key to all of this likely lies where the planet's axis and magnetic poles now converge.\n:'''Farid:'''  It's the leading theory in the field right now.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Reference==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Reference",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

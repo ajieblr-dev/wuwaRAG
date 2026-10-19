@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:25Z",
+  "title": "Fangspire Chasm",
+  "pageid": 38236,
+  "wikitext": "{{Location Infobox\n|title  = Fangspire Chasm\n|image  = Fangspire Chasm.png\n|type   = Region\n|map    = Solaris-3\n|nation = Roya Frostlands\n}}\n{{Intro/Location|Fangspire Chasm}}\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Exospine Barrows\"\n|[[Exospine Barrows]]\n|[[File:Exospine Barrows.png|180px]]\n|\n|- id=\"Dawnsip Fjord\"\n|[[Dawnsip Fjord]]\n|[[File:Dawnsip Fjord.png|180px]]\n|\n|- id=\"Riseway-Sundermere Corridor\"\n|[[Riseway-Sundermere Corridor]]\n|[[File:Riseway-Sundermere Corridor.png|180px]]\n|\n|}\n\n==Quests==\n{{Quest by Category List|Fangspire Chasm Quests}}\n\n==Exploration Report==\n===Royan Formulae Transcripts - Preface I===\n* Achieve 50% Area Exploration Progress to unlock the full report. \n\n{{Transclude|Royan Formulae Transcripts - Preface I|Text|main=1}}\n\n===Royan Formulae Transcripts - Preface II===\n* Achieve 100% Area Exploration Progress to unlock the full report. \n\n{{Transclude|Royan Formulae Transcripts - Preface II|Text|main=1}}\n\n==Notable Features==\n===Challenges===\n* [[Forgery Challenge: Stricken Sanctum]]\n* [[Void Storm Zone II]]\n\n===Bosses===\n* {{Enemy|Reactor Husk}}\n\u003c!--\n===Enemies===\n====Common Class====\n* {{Enemy|Abyssal Gunmaster}} \u003cexample\u003e\n\n====Elite Class====\n* \n\n===Resources===\n* {{Item|\"Afterlife\"}} \u003cexample\u003e\n--\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Fangspire Chasm\n|zhs  = 牙列石壑\n|zht  = 牙列石壑\n|ja   = {{Rubi|巨歯|きょし}}の{{Rubi|峡谷|きょうこく}}\n|ko   = 팡스파이어 골짜기\n|fr   = Ravine des Canines\n|de   = Zahnspitzenkluft\n|es   = Garganta del Colmillo\n|th   = หุบเขาเขี้ยวศิลา\n}} \n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Royan Formulae Transcripts - Preface I",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Royan Formulae Transcripts - Preface II",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:24Z",
+  "title": "Exile Technician",
+  "pageid": 23026,
+  "wikitext": "{{Enemy Infobox\n|name=Exile Technician\n|title=\n|image=Exile Technician Icon.png\n|dmgtype=Spectro\n|weakpoint=\n|echo=No\n|class=Elite\n|family=Human\n|group=Exile\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n\n{{Description|Technician members of the Exiles, commonly found in Exile Campgrounds. They are in charge of the repairing and making of weapons and equipment.}}\n\n'''Exile Technician''' is an [[Elite]] human enemy. She is a {{color|Spectro}} type [[Resonator]] with an ability to create shields around herself and her allies. Exile Technicians gave a {{Color|help|higher RES}} to {{color|Spectro damage}}.\n\n==Drops== \n{{Drops|Elite Exile}}\n\n==Stats==\n{{Enemy Stats|Exile Technician}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Exile Technician|customheader='''Exile Technicians'''}}\u003cbr/\u003e\n{{Trophies|Exiles|customheader=Exiles}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Spectro damage}}.\u003cbr/\u003eFemale Resonators of Exile groups. As mechanics, Exile Technicians are in charge of the repair and making of weapons and other equipment.\u003cbr/\u003e\nEffective craftwork can significantly boost the group's survival probability, while deadly weapons can guarantee wins for the group in battle for resources|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Exile Technician\n|zhs  = 流放者工匠\n|zht  = 流放者工匠\n|ja   = 追放者テクニシャン\n|ko   = 추방자 장인\n|es   = Técnico del Exiliado\n|fr   = Artisan exilé\n|de   = Exiltechniker\n}}\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

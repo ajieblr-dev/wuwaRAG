@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:10Z",
+  "title": "KU-Goodie",
+  "pageid": 38708,
+  "wikitext": "{{NPC Infobox\n|image            = KU-Goodie.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = \n|group            = \n|affiliation      = Black Shores\n|title            = \n|species          = KU-Roro\n}}\n'''KU-HeeHee''' is a KU-Roro found below the cliff side of the Tethys Hub. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''KU-Goodie:''' You may keep your concern! The weak version of me has already died! Call me KU-Goodie the Treasure Hunter now!\n:'''KU-Goodie:''' Well... it's easier said than done... How do I find that portal?\n:{{DIcon}} What are you doing here?\n::'''KU-Goodie:''' Wahhh! It's {{Rover}}! Hi there! Are you also interested in the legend of the Shore's treasure?\n::{{DIcon}} What is this legend about?\n:{{DIcon}} (Turn around to leave.)\n:'''KU-Goodie:''' You must have seen those special portals around the Black Shores, I guess?\n:'''KU-Goodie:''' They may look like ordinary doors, but when you open one, it's actually connected to another door somewhere else!\n:'''KU-Goodie:''' Though we don't know exactly how these portals work, they save us a lot of commuting time.\n:{{DIcon}} I've seen them before.\n:{{DIcon}} I've never seen them before.\n:'''KU-Goodie:''' There's an urban legend going around on the Black Shores' internal forum, claiming that these portals are actually bugs caused by some glitch. \n:'''KU-Goodie:''' Supposedly, a \"secret maze\" is hidden deep within the Black Shores, accessible by triggering these bugs in a certain way.\n:'''KU-Goodie:''' And... there are treasures hidden inside!\n:'''KU-Goodie:''' I'm linked to the Tethys System as the Black Shores' cleaning robot, but I don't have access to the information for every room here.\n:'''KU-Goodie:'''Come to think of it, is it even possible for the Black Shores' system to have bugs...\n:'''KU-Goodie:'''Anyway, I really want to see that \"secret maze\" and those \"hidden treasures\" for myself if I can.\n{{Dialogue End}}\n\n==Note==\n*Ku-Goodie may be referring to the [[The Hidden Treasure of the Black Shores]].\n\n== Other Languages ==\n{{Other Languages\n|en   = KU-Goodie\n|zhs  = 库赫蒂\n|zht  = 庫赫蒂\n|ja   = クーヘティ\n|ko   = 쿠 ・ 헤티\n|es   = KU-Goodie\n|fr   = KU-Goodie\n|de   = KU-Geschenk\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Note",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

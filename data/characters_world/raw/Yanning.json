@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:09Z",
+  "title": "Yanning",
+  "pageid": 32812,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_context  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Yanning.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Yanning''' is an NPC located in {{Location|Hongzhen}}.\n\n==Location==\nYanning is found at the northern entry to Hongzhen, near [[Gulan]].\n\n==Profile==\nA lonely girl, Yanning was climbing in dangerous places because her parents were always away. To keep her safe, Gulan asked Rover to borrow a self-moving suitcase as a toy. The plan worked, keeping Yanning safe. However, Gulan knew this was just a temporary solution, and that what Yanning truly needed was not a distraction, but the companionship of her parents.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(1st Interaction)\n:'''Gulan:''' Hey, kid. Where are your parents?\n:'''Yanning:''' It's dangerous there. Get down now!\n:'''Yanning:''' My parents are working.\n:'''Yanning:''' I always play here.\n:'''Yanning:''' Or else I'd be bored out of my mind since I don't have anyone to play with...\n:'''Gulan:''' Then why don't we build a snowman together? Come down first. Let's build a big one.\n:'''Yanning:''' Well... I guess it has been a while since I last built a snowman... Okay then.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Gulan\n|zhs  = 谷岚\n|zht  = 谷嵐\n|ja   = 谷嵐（コクラン）\n|ko   = 라미\n|es   = Gulan\n|fr   = Gulan\n|de   = Gulan\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

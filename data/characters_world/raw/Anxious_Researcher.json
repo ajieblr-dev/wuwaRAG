@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:35Z",
+  "title": "Anxious Researcher",
+  "pageid": 5896,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Anxious Researcher.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Wenye Beach\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Anxious Researcher''' is an NPC in {{Location|Wenye Beach}}.\n\n==Quest and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Anxious Researcher\n|zhs  = 焦急的研究员\n|zht  = 焦急的研究員\n|ja   = 焦っている研究員\n|ko   = 애타는 연구원\n|es   = Investigador ansioso\n|fr   = Chercheur anxieux\n|de   = Besorgter Forscher\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quest and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

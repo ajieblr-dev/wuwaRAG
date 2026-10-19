@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:26Z",
+  "title": "Shuhe",
+  "pageid": 2638,
+  "wikitext": "\n{{NPC Infobox\n|image            = NPC Shuhe.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Shuhe''' is an NPC in {{Location|Jinzhou}}.\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the day)\n:'''Shuhe:''' Permission is required for an audience with Madam Magistrate.\n:{{DIcon}} I must see Madam Magistrate now. It's urgent.\n::'''Shuhe:''' No, you need approval or permission from [[Sanhua]] before you can see the Magistrate.\n::'''Shuhe:''' Alright, fine. Walk right in, by all means! Make my... Oh, wait, you've got your papers in order?\n::'''Shuhe:''' If you have the right paperwork, you're good to go.\n:{{DIcon}} I'm just having a walk.\n::'''Shuhe:''' This is the City Hall of Jinzhou, it's not a playground.\n::'''Shuhe:''' According to the Magistrate's rules, it's not against the law to hang around here.\n::'''Shuhe:''' But I will keep an eye on you.\n----\n;(During the evening)\n:'''Shuhe:''' What should be done here...\n:'''Shuhe:''' Hey, what are you doing here?\n:{{DIcon}} You don't sleep at all?\n:'''Shuhe:''' Always need to match your effort to the task at hand.\n:'''Shuhe:''' Guarding City Hall is a duty given to us by the Magistrate and Sanhua, and we take it seriously.\n:'''Shuhe:''' Ahem, okay, please don't interfere with the duties of personnel on duty!\n{{Dialogue End}}\n\n==Trivia==\n*At night around 18:00, [[Yingda]] calls over [[Shuhe]] and [[Chenbi]] from their post to talk. The two will return to their post at 21:00.\n{{Description|Yingda: The number of applications for meetings at City Hall is on the rise.\u003cbr\u003eYingda:I'm not sure if Chenbi and Shuhe are up for this challenge...\u003cbr\u003eYingda: Chenbi, Shuhe, come here.\u003cbr\u003eChenbi: Captain...\u003cbr\u003eYingda: Anything unusual?\u003cbr\u003eShuhe: Not really.\u003cbr\u003eShuhe: But those rejected by Lady Sanhua just won't leave.\u003cbr\u003eChenbi: Maybe they really have important causes... \u003cbr\u003eChenbi: But no matter what, our first duty is to  do our jobs well.\u003cbr\u003eYingda: Very well, our main goal is to maintain order in City Hall, no matter the circumstances.\u003cbr\u003eYingda: Please report any issues immediately.}}\n\n==Other Languages==\n{{Other Languages\n|en   = Shuhe\n|zhs  = 树赫\n|zht  = 樹赫\n|ja   = 樹赫（ジュカク）\n|ko   = 수혁\n|es   = Shuhe\n|fr   = Shuhe\n|de   = Shuhe\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

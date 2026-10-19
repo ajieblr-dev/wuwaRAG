@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:07Z",
+  "title": "Xiuyi",
+  "pageid": 9918,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Xiuyi.png\n|type             = Quest\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Liondance Troupe\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Xiuyi''' is an NPC Liondance Troupe member in {{Location|Jinzhou}}, found at the Commercial District.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle==\n{{Dialogue Start}}\n:'''Xiuyi:''' Give it a try if you're interested in lion dance!\n:'''Xiuyi:''' Those who complete the step challenge can get the Liondance Troupe's merchandise!\n{{Dialogue End}}\n==Other Languages==\n{{Other Languages\n|en   = Xiuyi\n|zhs  = 修义\n|zht  = 修義\n|ja   = 修義（シュウギ）\n|ko   = 슈이\n|es   = Xiuyi\n|fr   = Xiuyi\n|de   = Xiuyi\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

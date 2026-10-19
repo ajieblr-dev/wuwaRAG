@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:20Z",
+  "title": "Ephor's Palace",
+  "pageid": 35947,
+  "wikitext": "{{Stub}}\n{{About|the [[Factions|faction]]|the location|Ephor's Palace (Location)}}\n{{Faction Infobox\n|title        = Ephor's Palace\n|image        = Ephors Palace of Septimont.jpg\n|nation       = Rinascita\n|base         = [[Ephor's Palace (Location)]]\n|founder      = \n|leader       = [[Augusta]]\n|ally         = [[Black Shores]];[[Tetragon Temple]]\n|enemy        = [[Leviathan]];[[Fractsidus]]\n}}\n\nThe '''Ephor's Palace of Septimont''', or simply the '''Ephor's Palace''', is the ruling government faction of the city-state of [[Septimont]].\n\nIt is composed of a Senate of counselors and politicians overseen and guided by an Ephor, whose position is attained through a form of combat merit gained from prevailing over the [[Great Agon]] that occurs once every four years.\n\n==Known Members==\n===Playable Resonators===\n{| class=\"article-table\"\n!Icon!!Member!!Position\n|-\n|[[File:Resonator Augusta.png|50px]]\n|[[Augusta]]\n|Ephor\n|}\n\n===Former Members===\n* [[Magno]] (former Ephor)\n\n==Other Languages ==\n{{Other Languages\n|en   = Ephor's Palace\n|zhs  = 总督宫\n|zht  = 總督宮\n|ja   = 総督府\n|ko   = 장관부\n|fr   = Palais de l'éphore\n|de   = Palast des Ephors\n|es   = Palacio de la Éforo\n}}\n\n==Navigation==\n{{Faction Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Known Members",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Playable Resonators",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Former Members",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "5"
+    }
+  ]
+}

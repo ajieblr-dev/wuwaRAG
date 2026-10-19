@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:40Z",
+  "title": "Autopuppet Scout",
+  "pageid": 23050,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name        = Autopuppet Scout\n|title       =\n|image       = Autopuppet Scout Icon.png\n|dmgtype     = Glacio\n|weakpoint   =\n|echo        = Yes\n|class       = Elite\n|family      = Tacet Discord\n|group       = Clamorling\n|nation=\n|region=\n|subregion=\n|drops= \n}}\n{{Lang|Autopuppet Scout|zh=巡哨机傀}} is an [[Elite Class]] [[Enemy]] in ''[[Wuthering Waves]]''. \n\n{{Description|An Elite Class Howler TD\u003cref\u003eAccording to the Chinese description Autotpuppet Scout is a Clamorling TD. The English translation classifies it as Howler, but the items it drops suggest that it's either a Tranquilite or a Clamorling type.\u003c/ref\u003e hiding in city ruins and often camouflaging itself with discarded fighting vehicles.}} \n\n==Drops==\n{{Drops|Elite Clamorling}}\n\n==Stats==\n{{Enemy Stats|Autopuppet Scout}}\n\n==Abilities== \n\n==Trophies== \n{{Trophies|Autopuppet Scout|customheader=Autopuppet Scouts}}\n\n==Description==\n{{Description|This Enemy has a {{Color|help|higher RES}} to {{Color|Glacio damage}}\u003cbr\u003eThe TD is a parasite of the Sentry Vehicle, camouflaging itself with a rusted and damaged armor shell. It serves as a \"sentinel\", monitoring all movements within the city and removing any potential threats.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Autopuppet Scout\n|zhs  = 巡哨机傀\n|zht  = 巡哨機傀\n|ja   = 巡回のカラクリ\n|ko   = 경전차 로봇\n|es   = Explorador Autómata\n|fr   = Imiteur : Véhicule de combat\n|de   = Autopuppen-Späher\n}}\n==Change History==\n{{Change History|1.0}}\n\n\u003creferences /\u003e\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

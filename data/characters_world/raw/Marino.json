@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:34Z",
+  "title": "Marino",
+  "pageid": 26173,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = NPC Marino.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Garden of the Lost\n|affiliation      = Pioneer Association\n|affiliation2     =\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}'''Marino''' is an NPC in {{Location|Garden of the Lost}}. He is an intern photographer at the Pioneer Association.\n==Quests and Events==\n{{Quests and Events}}\n==Other Languages==\n{{Other Languages\n|en   = Marino\n|zhs  = 马利诺\n|zht  = 馬利諾\n|ja   = マリーノ\n|ko   = 말리노\n|es   = Marino\n|fr   = Marino\n|de   = Marino\n}}\n==Change History==\n{{Change History|2.0}}\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tutorial Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

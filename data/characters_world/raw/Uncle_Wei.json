@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:54Z",
+  "title": "Uncle Wei",
+  "pageid": 2112,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|name             = Uncle Wei\n|image            = Uncle Wei NPC.png \n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = Weapon Forger\n\n\u003c!--Family--\u003e\n|spouse           = Unknown Wife\n|child            = Unknown Son\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n'''Uncle Wei''' is a [[shop|weapon forger]] NPC located in {{location|Jinzhou}}. He has a wife and son.\n\n==Shop==\n{{Shop/Wrapper|\n{{Shop|LF Whisperin Core|1,500|60|total=1}}\n{{Shop|LF Howler Core|1,500|60|total=1}}\n{{Shop|Crude Ring|1,500|60|total=1}}\n{{Shop|MF Whisperin Core|4,500|20|total=1}}\n{{Shop|MF Howler Core|4,500|20|total=1}}\n{{Shop|Basic Ring|4,500|20|total=1}}\n{{Shop|Inert Metallic Drip|2,400|20|total=1}}\n{{Shop|Impure Phlogiston|2,400|20|total=1}}\n{{Shop|Lento Helix|2,400|20|total=1}}\n{{Shop|Waveworn Residue 210|2,400|20|total=1}}\n{{Shop|Cadence Seed|2,400|20|total=1}}\n{{Shop|Training Broadblade|20,000|78|total=1}}\n{{Shop|Training Sword|20,000|78|total=1}}\n{{Shop|Training Pistols|20,000|78|total=1}}\n{{Shop|Training Gauntlets|20,000|78|total=1}}\n{{Shop|Training Rectifier|20,000|78|total=1}}\n{{Shop|Tyro Broadblade|40,000|39|total=1}}\n{{Shop|Tyro Sword|40,000|39|total=1}}\n{{Shop|Tyro Pistols|40,000|39|total=1}}\n{{Shop|Tyro Gauntlets|40,000|39|total=1}}\n{{Shop|Tyro Rectifier|40,000|39|total=1}}\n|total=780,000+|vendor=Uncle Wei|type=Weapon}}\n\n==Location==\n{{Map Embed|Jinzhou|Weapon Crafting}}\n\u003c!--\n==Profile==\n\n--\u003e\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue start}}\n:'''Uncle Wei:''' I repair and make Tacetite Weapons here. Everyone likes to call me Uncle Wei.\n:{{DIcon|Weapon Shop}} I want to rearm.\n:{{DIcon}} Gourmet Rumors\n::'''Uncle Wei:''' Interested in weapon crafting, are you?\n::{{DIcon}} Oh, no. That's not why we're here today.\n::'''Uncle Wei:''' Oh? Besides my skills, what else could you possibly want from an old-timer like me?\n::{{DIcon}} Do you know how to make the marinade?\n::'''Uncle Wei:''' ...\n::'''Uncle Wei:''' I'm a Crafting expert, and you're asking me about cooktops? What's going on in that young head of yours?\n::{{DIcon}} ...Apologies for the inconvenience.\n::'''Uncle Wei:''' Wait, hold on, I never said I didn't know.\n::'''Uncle Wei:''' I'm not sure about the specifics, but my wife always puts Fowl in the pot before she makes the marinade.\n::'''Uncle Wei:''' She says it makes everything taste meaty, and our son loves it... hmm.\n:{{DIcon|Exit}} Leave\n----\n:'''Uncle Wei:''' That weapon on you seems well maintained. You must be a Resonator.\n:{{DIcon}} Indeed, I am.\n:'''Uncle Wei:''' Yeah, I can tell. You're holding a Tacetite Weapon, after all.\n:'''Uncle Wei:''' You've probably used it countless times by now, but I'm sure you're not familiar with how it's made.\n:'''Uncle Wei:''' The more you understand, the handier it will be. If you're curious about Tacetite weapons, feel free to ask me anything. \n:{{DIcon}} What are Tacetite Weapons?\n::'''Uncle Wei:''' Tacetite Weapons are designed for Resonators to combat Tacet Discords.\n::'''Uncle Wei:''' These weapons are adaptable in form and size for different needs. They're all essentially the same thing.\n:{{DIcon|Arrow}} Tell me about different types of Tacetite Weapons. \n::'''Uncle Wei:''' There are five main types of Tacetite Weapons. Pistols, Gauntlets, Rectifiers, Swords, and Broadblades. \n::'''Uncle Wei:''' Which one piques your interest?\n::{{DIcon}} [[Pistols]].\n:::'''Uncle Wei:''' Pistols are compact firearms that use Resonance Energy to create powerful bullet projectiles.\n:::'''Uncle Wei:''' The amount of energy used determines the bullets' effects. You'll understand once you try it yourself.\n:::'''Uncle Wei:''' Compared to traditional guns, these Tacetite pistols have low recoil and do not require frequent reloading. Perfect for ranged combat.\n::{{DIcon}} [[Gauntlets]].\n:::'''Uncle Wei:''' Gauntlets are arm-mounted combat gear, commonly worn as gloves or vambraces.\n:::'''Uncle Wei:''' With a limited range, their design priortizes both offense and defense capabilities.\n:::'''Uncle Wei:''' This makes them highly selective in terms of material and the physical abilities of their wielders.\n::{{DIcon}} [[Rectifier]]s.\n:::'''Uncle Wei:''' Rectifiers capture and amplify specific frequencies. I'd say they work more like musical instruments.\n:::'''Uncle Wei:''' While not as lethal, they have the strongest amplification effect on Resonance Abilities, or Fortes as we call it.\n:::'''Uncle Wei:''' Additionally, Rectifiers can scan and interfere with the unique frequencies of Tacet Discords. As a type of Tacetite Weapon, Rectifiers test the user's skills.\n::{{DIcon}} [[Sword]]s.\n:::'''Uncle Wei:''' Swords are a stable weapon for Resonators like you, with their balanced and agile design.\n:::'''Uncle Wei:''' They're versatile and efficient in combat, making them a popular choice for dealing with different enemies.\n:::'''Uncle Wei:''' That being said. Swords are also the hardest to master among of all Tacetite Weapons. They may seem simple, but there's more to them than meets the eye.\n::{{DIcon}} [[Broadblade]]s.\n:::'''Uncle Wei:''' Need a weapon to take down tough Tacet Discords? Then the Broadblade is your choice. It does a lot of damage.\n:{{DIcon|Exit}} \n{{Dialogue end}}\n\n==Other Languages==\n{{Other Languages\n|1_en   = Uncle Wei\n|1_zhs  = 伟叔\n|1_zht  = 偉叔\n|1_ja   = 偉じい\n|1_ko   = 위숙\n|1_es   = Tío Wei\n|1_fr   = Oncle Wei\n|1_de   = Onkel Wei\n\n|2_en   = Weapon Forger\n|2_zhs  = 武器锻造师\n|2_zht  = 武器鍛造師\n|2_ja   = 武器鍛冶屋\n|2_ko   = 무기 단조사\n|2_es   = Forjador de armas\n|2_fr   = Forgeur d'armes\n|2_de   = Waffenschmiede\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Uncle Wei",
+      "number": "5.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Weapon Forger",
+      "number": "5.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

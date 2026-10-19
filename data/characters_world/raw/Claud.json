@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:03Z",
+  "title": "Claud",
+  "pageid": 62898,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = \n|affiliation      = Department of Exostrider Engineering\n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC male student who quickly tells you to you're late to class and tries to help you sneak in. Regardless if you say you're in for lecture or sitting in, he still rushes you.\n\n{{Dialogue Start}}\n==Idle==\n;(From another professor)\n:Your Physical Conditioning teacher is out sick today, so we're doing Neuroresonance Topology instead.\n:({{tt|Walla|A sound effect imitating the murmur of a crowd in the background}}: Students groaning in disappointment.){{sic}}\n\n;(From another professor)\n:\"The biological characteristics of the Exostrider and Exoswarms show they are nothing like ordinary machines.\"\n:\"They  don't run on any programming. They can learn, adapt, and produce results we never predicted.\"\n:\"They also display a certain degree of self awareness...\"\n:No sleeping in class!\n\n;(After {{Quest|Starlights from Yesterdays}}\n;Now that Void Storms are gone, Lahai-Roi's ecosystem will gradually recover.\n;Can anyone tell me how many stages this recovery process is divided into?\n;Pink hair in the back. The one sleeping. Would you please answer the question?\n;...Oh. [[Denia]]'s absent again?\n\n==Dialogue==\n:'''Claud''' Shh! Keep it down!\n:'''Claud''' Are you late? Or just sitting in?\n:{{DIcon}} I'm here for the lecture.\n:{{DIcon}} I'm here to sit in.\n:'''Claud''' Well, you sure took your time!\n:'''Claud''' Over here, quick, sit down. This professor is a total hawk about attendance.\n:'''Claud''' Open your textbook. We're on page 97.\n:'''Claud''' Act like you've been here this whole time, got it?\n{{Dialogue End}}\n\n==See Also==\n* [[Cauchy]] \n\n== Trivia ==\n* Sit In is an academic term attending a class or lecture as an observer without taking tests or getting official credit.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Claud\n|zhs  = 克劳\n|zht  = 克勞\n|ja   = クロウ\n|ko   = 클라우드\n|fr   = Claud\n|de   = Claud\n|es   = Claud\n|th   = Claud\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

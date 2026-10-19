@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:31Z",
+  "title": "Lynae (Fractsidus)",
+  "pageid": 38659,
+  "wikitext": "{{About|the [[Fractsidus]] operative|the playable [[Resonator]] by the same name|Lynae}}\n{{NPC Infobox\n|image            = NPC Lynae.jpg\n|name             = Lynae\n|type             = Mentioned\n|affiliation      = Fractsidus\n|status           = Deceased\u003cbr\u003eKilled by mercenaries.\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Lynae''' is a deceased, mentioned only [[NPC]] and was a [[Fractsidus]] operative prior to her death. Her voice is heard briefly during [[What Burns Beneath Frostlands]] via a recording.\n\n==History==\nLynae was a Fractsidus operative set to infiltrate [[Startorch Academy]] in [[Lahai-Roi]] as a spy. At some point before the events of the [[Main Quest]] ''[[When the Unknown Thrums]]'' Lynae was killed by government mercenaries after being deemed a threat by the [[New Federation]]. Her corpse was found by one of the [[Lynae|mercenaries]] targeting her, with said mercenary then taking on her identity and attending Startorch Academy in her place.\n\n==Mentions==\n{{Character Mentions}} \n\n==Other Languages==\n{{Other Languages|Lynae}} \n\n==Change History==\n{{Change History|introduced=3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

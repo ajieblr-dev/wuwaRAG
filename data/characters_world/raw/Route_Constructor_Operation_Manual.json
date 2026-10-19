@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:14Z",
+  "title": "Route Constructor Operation Manual",
+  "pageid": 39522,
+  "wikitext": "{{Terminology Infobox\n|image        = \n|type         = Lore\n|nation       = Lahai-Roi\n}}'''{{PAGENAME}}''' is a note found during [[Operation: Frontier Renewal]] and is added to its Archives, Spacetrek Observatory Files.\n\n==Text==\n\"Operators must follow the steps below with strict attention to operate Route Constructors.\n\nStep 1: Put in the required amount of Compressed Bedrock.\nNote: Compressed Bedrock is processed material made of natural minerals. After refining native Lahai-Roi stone, the Spacetrek Collective produces a high-density construction medium. Once parsed and separated by the Route Constructor, it can be combined with other resources to form structural baseplates for various building types.\n\nStep 2: Put in the required amount of Mechanite.\nNote: Mechanite is a native Lahai-Roi mineral. After the arrival of the Exostrider, mechanical patterns and structures started to grow on it under the influence. The Collective has found that electronic devices made with this mineral exhibit increased computational performance, as if the Mechanite itself has processing capability.\n\nStep 3: Put in the required amount of Constructor Cores.\nNote: Constructor Cores are artificial power units designed for the equipment's operation. Since the Route Constructor's immense energy demands, remote deployment, and single-use nature make stable energy lines impractical, the Collective developed these cores to serve as portable, reusable \"batteries.\" They are charged by focusing the Reactor's light through a Solis Lens Array.\n\nStep 4: Verify the construction blueprint.\nNote: Blueprints are usually pre-loaded during setup. Only a simple confirmation is required.\n\nStep 5: Ensure the construction area is fully cleared of any personnel, animals, or Exoswarm units.\n\nStep 6: Activate the Route Constructor.\"\n\n==Other Languages==\n{{Other Languages\n|en   = Route Constructor Operation Manual\n|zhs  = 造路悬仪操作指南\n|zht  = 造路懸儀操作指南\n|ja   = 浮遊式ロードビルダー操作マニュアル\n|ko   = 공중 건설 기계 작동 가이드\n|fr   = Manuel d'utilisation du constructeur routier\n|de   = Betriebsanleitung für Straßenkonstruktor\n|es   = Manual de operaciones para Constructores de rutas\n|th   = คู่มือการใช้งานเครื่องสร้างเส้นทาง\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Text",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:56Z",
+  "title": "Overdash Researcher",
+  "pageid": 22101,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = Overdash Researcher.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Tethys' Deep\n|group            = \n|affiliation      = Black Shores\n|title            = \n}}\n'''Overdash Researcher''' is an NPC.\n==Quests and Events==\n{{Quests and Events|Overdash Researcher}}\n==Dialogue==\n{{Dialogue Start}}\n{{Dialogue End}}\n==Other Languages==\n{{Other Languages\n|en   = Overdash Researcher\n|zhs  = 飞檐研究员\n|zht  = 飛簷研究員\n|ja   = 天翔け研究員\n|ko   = 비첨 연구원\n|es   = Investigadora de datos\n|fr   = Chercheuse en Parkour\n|de   = Overdash-Forscher\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

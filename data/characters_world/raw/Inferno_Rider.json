@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:03Z",
+  "title": "Inferno Rider",
+  "pageid": 9369,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Inferno Rider\n|title=Blazing Guardian\n|image=Enemy Inferno Rider (Boss).png\n|dmgtype=Fusion\n|weakpoint=Unknown\n|echo=Yes\n|class=Overlord\n|family=Tacet Discord\n|group=Whisperin\n|nation=Huanglong\n|region=Port City of Guixu\n|subregion=Sea of Flames\n|drops=Rage Tacet Core\n|variants = Tactical Hologram: Inferno Rider; Nightmare: Inferno Rider\n}}\n{{Description|An Overlord Class Whisperin TD located in the [[Port City of Guixu]]. The only existing records noted a unique movement method of it among other Tacet Discords.}}\n{{Lang|Inferno Rider|zh=燎照之骑}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in {{Location|Sea of Flames}}. \n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Rage Tacet Core}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies|Inferno Rider|customheader=Inferno Rider}}\n\n==Tutorial==\n{{Tutorial|Inferno Rider}} \n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Fusion damage}}.\u003cbr/\u003eA fiery \"biker\" born in the [[Port City of Guixu]]. It sets forth trials of courage with its unyielding flame for those who dare to trespass.\u003cbr\u003eThroughout the long years, the truth of history gradually burns to ashes, and the knight who once sang boldly toward death becomes a harbinger of fear in the word of mouth among humanity.\u003cbr\u003e\"That is the rider who turns fear into fuel and brings calamity.\"\u003cbr\u003eHowever, amidst the idle talk of the indigenous people in the Port City of Guixu, another version quietly spreads.\u003cbr\u003e\"When you face that mighty rider, set aside your fear and respond with your utmost reverence. Prove to him your courage to be the last one standing.\"|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n |en     = Inferno Rider\n |zhs    = 燎照之骑\n |zht    = 燎照之騎\n |ja     = 燎原の炎騎\n |ko     = 지옥불 기사\n |es     = Jinete Infiernal\n |fr     = Chevalier d'Inferno\n |de     = Höllischer Reiter\n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

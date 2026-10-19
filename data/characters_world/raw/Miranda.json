@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:37Z",
+  "title": "Miranda",
+  "pageid": 38438,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Miranda.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Department of Voidmatters\n|affiliation2     = UNICODE\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Miranda''' is a [[NPC]] female student from Department of Voidmatters who can be found at the Academy facility, {{Extra Effect|UNICODE|Uniform Consult \u0026 Design|UNICODE is the Academy's uniform store, where students and staff visit for bespoke uniform tailoring services.\u003cbr\u003eThe store's intelligent fitting systems ensure each uniform is measured and tailored to the customer. The measurement data is encrypted and accessible only with authorisation, ensuring full protection of customer privacy.}}\n\n==Location==\n\n{{Dialogue Start}}\n==Idle==\n:;Why can't we get white expedition suits to wear in the frostlands?\n:;You expect me to find someone in a white suit against a backdrop of white ice?\n\n:;My uniform got scorched again during the experiment...\n:;Just to be safe, I'm ordering a hundred replacements this time! We'll put it in the lab's budget!\n:;That's your solution?! Maybe if we follow lab protocol, you wouldn't be literally burning through our funds!\n\n:;Excuse me, do you do uniform alterations here?\n:;Is there a problem with the fit?\n:;Oh, I just wanted to incorporate some [[Huanglong]]-style embroidery, with a bit of [[Ragunna]]'s latest tailoring trends, and a subtle nod to the [[New Federation]]'s techwear...\n:;...We issue uniforms, not haute couture!\n\n==Dialogue==\n:'''Miranda:''' We're rushing production on the new batch of uniforms. Please wait for the Academy's official notice.\n:{{DIcon}} Excuse me, about my uniform...\n:{{DIcon}} Is it possible to get mine custom-made?\n:'''Miranda:''' Hello, {{Rover}}. We've actually already prioritized your order.\n:'''Miranda:''' But with so many new students this semester, we're completely swamped. Your uniform's been pushed to the next batch.\n:'''Miranda:''' Don't worry though, the Academy will make sure every student gets their uniform!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Miranda\n|zhs  = 米兰达\n|zht  = 米蘭達\n|ja   = ミレンダ\n|ko   = 미란다\n|fr   = Miranda\n|de   = Miranda\n|es   = Miranda\n|th   = Miranda\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

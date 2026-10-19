@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:00Z",
+  "title": "Ignatius",
+  "pageid": 41382,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Ignatius.png\n|type             = Open-World/Event\n|nation           = New Federation\n|location         = Startorch Academy\n|location2 = Rabelle College\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''{{PAGENAME}}''' is a female{{verify}} [[NPC]] found inside the Rabelle College building, hiding inside a cardboard box. She's incredibly shy and wishes to make friends. She is only available during the day.\n\nTalking through her dialogues unlocks the ''[[World in All Its Variety II]]'' [[trophy]], ''[[Knock Knock]]''.\n\n{{Dialogue Start}}\n==Idle==\n:;'''Strange Cardboard Box''' (Whispering) Hi nice to meet you I'm Ignatius I'm from the New Federation. \n:;'''Strange Cardboard Box''' I like Voidmatters Science would you like to be friends I could treat you to eat some s-s-s-s-s-saaalad!\n:;'''Strange Cardboard Box''' (Whispering) Aaargh I forgot my lines again I can't even introduce myself I'll never have any friends!\n\n==Dialogue==\n:'''Person in the Box:''' (Whispering) Hi nice to meet you I'm Ignatius I'm from the New Federation I like Voidmatters Science would you like to be friends I could treat you to eat some s-s-s-s-s-saaalad!\n:{{DIcon}} (Knock lightly on the side of the cardboard box.)\n:'''Person in the Box:''' …!\n\n:{{DIcon}} (Knock lightly on the top of the cardboard box.)\n:'''Person in the Box:'''  … …!!\n:{{DIcon}} Nice to meet you! I'm {{Rover}}!\n:{{DIcon|Exit}} (Knock forcefully on the cardboard box.)\n::'''Person in the Box:''' ...?!\"\n::{{DIcon}} (Pound on the cardboard box from all sides.)\n::'''Person in the Box:''' P-p-p-please don't hit my box.\n::{{DIcon}} Nice to meet you! I'm {{Rover}}!\n::{{DIcon}} (Loudly) Hi, I’m {{Rover}}!\n::{{DIcon}} Just an ordinary student.\n:'''Ignatius:''' (Whispering) Hi nice to meet you I'm Ignatius I'm from the New Federation I like Voidmatters Science would you like to be friends I could treat you to eat some s-s-s-s-s-saaalad!\n:{{DIcon}} Talk about a mouthful...\n:{{DIcon}} What are you stammering on about?\n:'''Ignatius:''' (Whispering) I get so nervous around people I literally can't talk. I've been enrolled for ages but I just lurk in the shadows and try to be invisible besides nobody notices me even if I hide in a trash can.\n:'''Ignatius:''' (Whispering) I thought if I could just manage to introduce myself then I'd finally be able to make friends that's why I've been practicing in here I wanted to try to talk to people during the celebration but I failed again.\n:'''Ignatius:''' (Whispering) I-I-I think I need more practice in here and I was here first so could you please leave me alone for a while of course if you don't want to I can find another place no problem!\n:{{DIcon}} Alright, I'll leave you be.\n:{{DIcon}} When you practice, try speaking a bit slower and louder.\n:{{DIcon}} Let's go get a salad together sometime.\n:'''Ignatius:''' (Loudly) Thanks I'll try!\n----\n:{{DIcon}} (Knock once.)\n:'''Ignatius:''' (Whispering) Is that you, {{Rover}}}?\n:'''Ignatius:''' (Whispering) I-I'm still not ready. I need more time!\n----\n;Night time\n:{{DIcon}} (Knock once.)\n:'''Narration:''' The box sways a bit, but there's nobody inside.\n\n==Related Dialogue Near-by==\n;Only available during the {{Quest|Gold Suspended in Shadows}}\n:'''Kato:''' There's no sound. You're just hearing things.\n:'''Spencer:''' Impossible! I heard it! It was this long hissing sound, like \"s-s-s-s-s-s\"! But there's [[Ignatius|nobody there]]!\n:'''Spencer:''' It must be one of those campus urban legends! \"Slain for a Late Submission,\" maybe?\n:'''Kato:''' You're just paranoid cuz you didn't turn in your paper. Maybe... post on the forum? Someone might actually know what's going on.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Trivia==\n*Ignatius likely references the character '''Bocchi''' from a Japanese manga and animated series, '''[[wikipedia:Bocchi the Rock!|Bocchi the Rock!]]'''.\n\n==Other Languages==\n{{Other Languages\n|en   = Ignatius\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Related Dialogue Near-by",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:13Z",
+  "title": "Yuan Fortress",
+  "pageid": 79632,
+  "wikitext": "{{Spoiler}}\n{{Stub}}\n{{Location Infobox\n|title     = Yuan Fortress\n|image     = Yuan Fortress.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Xuanfang Hold \n}}\n\n'''Yuan Fortress''' was an area of [[Xuanfang]], [[Huanglong]], whose ruins lie under what is now [[Xuanfang Hold]]. A preserved recreation of it exists in the Xuanyuan Domain inside of the core of [[Xuanfang Hold]], at the base of the Ren Realm. \n\nAfter completing [[Song of the Heart Sword]], it becomes accessible via a portal outside of the Sanctum. [[Ruoyun]] can be found and interacted with at a gazebo near the entrance of the fortress. The rest of Xuanyuan Domain is not accessible.\n\n\n==Description==\nYuan Fortress was originally built by the [[Zhuojun Atelier]]'s Jiangshui Branch over 200 years ago, under the tutelage of [[Muyu]]. It was the former operational stronghold of [[Xuanfang]] that preceded Xuanfang Hold, and was the base of the [[Xuanfang Wardens]]. It was destroyed during the [[Fortress and Gorges War]] when a coalition of [[Court of Savantae]] artisans and [[Xuanfang Wardens]] banded together to sacrifice themselves to trigger the self-destruction of its core, pushing out [[Ovathrax]]'s [[Tacet Discord]] forces in the ensuing explosion. \n\n===History===\nXuanfang Hold, having already been in the middle of construction, was initially forced to prematurely wield its artillery systems and newly-built Autopuppet armada against the Tacet Discords by [[Hsin|Sentinel Hsin]] in an attempt to safeguard the fortress and Xuanfang's people from being overwhelmed by [[Ovathrax]]. Hsin directly oversaw the regional war effort with the aid of a [[Xuanling Bird]] messenger, delivering orders to the troops on the ground to prioritize the evacuation of civilians, before being ordered to prioritize their own survival once most civilians were safely escorted out of the region. \n\nHowever, a coalition of devout Court of Savantae personnel and [[Xuanfang Wardens]] remained in Yuan Fortress to Hsin's shock, who refused her order to evacuate. Instead, they chose to take their fate into their own hands by voluntarily sacrificing themselves to detonate Yuan Fortress in order to protect [[Hsin]], while also ensuring the survival of Xuanfang Hold by protecting its [[Resonance Nexus|Lexicon Axis.]] A team of artisans and soldiers that included [[Ruoyun]] mounted a brave effort to reach the core, before detonating the entire Fortress and wiping out the surrounding hordes in a fell swoop. The coalition's sacrifice was not be in vain, as Xuanfang Hold's construction was successfully completed in the aftermath, ultimately taking the Fortress' place as the new capital stronghold of the region.\u003cref\u003e{{Quest|Simulacrum of the Heart}}\u003c/ref\u003e\n\nIn place of employing the traditional [[Xuanfang Wardens|manpower]] that safeguarded the Fortress for generations, Hsin opted to replace them with Autopuppets, while installing the Censure Court system to restructure Xuanfang's local defense around a trap-and-kill system. Rather than being deterred by Xuanfang Wardens from the Yuan Fortress, [[Tacet Discord]]s were lured into Censure Court traps via the use of Disorienting Fog fields, before being caught and taken to the Sunken Warren underneath [[Fogveil Pagoda]] to be destroyed.\n\nHsin later recreated an idealistic, preserved version of the Fortress inside of the Manifold Sanctum of Xuanfang Hold, within the Xuanyuan Domain. It was encountered by [[Rover]] and [[Qingxiao]] upon their arrival after being forcibly transported into the Domain while in pursuit of Muyu, who had taken over the Domain as a base of operations for his Reverberation experiments. The duo met [[Ruoyun]] there, who had been piloting an owl Autopuppet under the alias of Jadie to mask her identity.\u003cref\u003e{{Quest|Song of the Heart Sword}}\u003c/ref\u003e\n\n==NPCs== \n{{NPCs by Location List|Yuan Fortress}} \n\n==Other Languages==\n{{Other Languages\n|en   = Yuan Fortress\n|zhs  = 元城\n|zht  = 元城\n|ja   = 元城\n|ko   = 원요새\n|fr   = Forteresse Yuan\n|de   = Yuan-Festung\n|es   = Fortaleza Yuan\n|th   = ป้อมปราการหยวน\n|pt   = Fortaleza Yuan\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "History",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "7"
+    }
+  ]
+}

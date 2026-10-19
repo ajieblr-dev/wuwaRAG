@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:54Z",
+  "title": "Valerius",
+  "pageid": 30489,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = NPC Valerius.png\n|type             = Open-World\n|nation           = Ragunna\n|location         = Vault Underground\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n'''Valerius''' is the surveyor at the Echo Depository in [[Averardo Vault]]. He is fascinated by Echoes, unlike his co-worker, [[Aurelius]]. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Valerius:''' Same as always today. No irregularities in the Echoes' frequencies.\n:{{DIcon}}: Hello. What are you doing?\n:'''Valerius:''' Greetings, my name is Valerius. I am the surveyor here at the Echo Depository. \n:'''Valerius:''' This area of the depository uses cutting-edge technology developed by the [[Montelli Family|Montelli family]]. Echoes are secured on mountings, allowing them to be preserved without requiring dedicated Terminals.\n:'''Valerius:''' That said, it's still new technology. We still need to be monitoring their resting frequencies around the clock so any anomalies can be dealt with swiftly.\n:{{DIcon}}: Hold on, you're saying...\n:{{DIcon}}: These Echoes could hypothetically escape?\n:'''Valerius:''' Haha, well, from what I know of the Montellis, the chances of that happening are about as likely as the entire population of Ragunna suddenly developing a taste for [[Pizza Tropicale]]!\n:'''Valerius:''' Still, imagine if all these magnificent specimens―frozen in place―suddenly came to life. Now that would be a sight to see.\n:'''Valerius:''' Many of the Echoes here are types I could never hope to see in my lifetime. Some of them are extinct, officially declared as such by the outside world.\n:'''Valerius:''' To witness them move, even once... That's all I could ever ask for as a researcher in the field of Echoes.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Valerius\n|zhs  = 维塔利斯\n|zht  = 維塔利斯\n|ja   = ウィターリス\n|ko   = 비탈리스\n|es   = Valerius\n|fr   = Valerius\n|de   = Valerius\n}}\n\n==Change History==\n{{Change History|2.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

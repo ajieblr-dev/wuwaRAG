@@ -1,0 +1,121 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:42Z",
+  "title": "Mortefi",
+  "pageid": 594,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}}\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 4\n|class            = Mutant\n|weapon           = Pistols\n|role             = Concerto Efficiency;Resonance Liberation Damage;Coordinated Attack;Heavy Attack DMG Amplification\n|attribute        = Fusion\n|releaseDate      = 2024-05-23 \n\n\u003c!-- Info --\u003e\n|name             = Mortefi\n|title            = Dragon's Breath\n|gender           = Male\n|birthday         = November 6th\n|birthplace       = New Federation\n|affiliation      = Jinzhou\n|affiliation2     = Huaxu Academy\n|sigil            = Crimson Fury\n|dish             = Smoked Pigeon \n\n\u003c!-- VAs --\u003e\n|voiceEN          = {{w|Joseph May}}\n|voiceCN          = [https://zh.moegirl.org.cn/zh/刘以嘉 Liu Yijia ({{Lang|mini=1|zh=刘以嘉}})]\u003cref name=\"CN-VA_KGMortefi\"\u003eOfficial Website: [https://mc.kurogames.com/main#resonators 共鸣者 瑝珑 丹瑾]\u003c/ref\u003e\n|voiceJP          = [[imdb:nm13656686|Miura Katsuyuki ({{Lang|mini=1|ja=三浦勝之}})]]\n|voiceKR          = [https://namu.wiki/w/김다올 Kim Da-ol ({{Lang|mini=1|ko=김다올}})]\n}}\n{{Quote|Quit the chit-chat. Tell me what you need and I’ll make it for you, provided your descriptions are reasonable.|Mortefi}}\n{{Intro/Resonator|Mortefi}}\n\nHe hails from the [[New Federation]] and is the head of the Branch of Tacetite Weaponry within the Department of Safety in [[Huaxu Academy]] at [[Jinzhou]].\n\n==Official Introduction==\n{{Quote|Born into the upper class, Mortefi is a lofty man with an erudite look.\u003cbr\u003eRenowned for his exceptional talent in scientific research, Mortefi was once famed as the youngest genius in the New Federation.\u003cbr\u003eDriven by a thirst for knowledge, Mortefi later abandoned his privileged life to work as an International Research Fellow at the Huaxu Academy.\u003cbr\u003eIt's not hard to win Mortefi's favor: Just remember to talk nicely, and always shower him with ample praise.|[https://wutheringwaves.kurogames.com/en/main#resonators His introduction on the Official Website.]\n}}\n\n==Combat Overview==\n{{Main|Mortefi/Combat}}\n===Ascension Material===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Mortefi|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en   = Mortefi\n|zhs  = 莫特斐\n|zht  = 莫特斐\n|ja   = モルトフィー\n|ko   = 모르테피\n|es   = Mortefi\n|fr   = Mortefi\n|de   = Mortefi\n}}\n\n==Change History ==\n{{Change History|1.0}}\n\n== References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[ru:Мортефи]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Material",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "3.3",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Daily Quests",
+      "number": "3.4",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

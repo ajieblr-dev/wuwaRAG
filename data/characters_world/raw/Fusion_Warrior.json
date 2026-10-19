@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:42Z",
+  "title": "Fusion Warrior",
+  "pageid": 23162,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Fusion Warrior\n|title=\n|image=Fusion Warrior Icon.png\n|dmgtype=Fusion\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Whisperin\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A Common Class Whisperin TD commonly found in the wild. Records show that a sharp blade is grown from its arm.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Whisperin}}\n\n==Stats==\n{{Enemy Stats|Fusion Warrior}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Fusion Warrior|customheader=Fusion Warriors}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Fusion damage}}.\u003cbr/\u003eA humanoid Tacet Discord with blades grown from its arms. Yearning for powerful opponents, it burns with a fighting spirit as surging as the blades at the end of its limbs.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Fusion Warrior\n|zhs  = 鸣泣战士\n|zht  = 鳴泣戰士\n|ja   = 慟哭の戦士\n|ko   = 오열하는 전사\n|es   = Guerrero de Fusión\n|fr   = Combattant Fusion\n|de   = Fusionskrieger\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:10Z",
+  "title": "KU-Boku",
+  "pageid": 39201,
+  "wikitext": "{{NPC Infobox\n|image            = NPC KU-Boku.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Haven of Sprouts\n|group            = \n|affiliation      = Black Shores\n|title            = \n|species          = KU-Roro\n}}{{Quote|Ku... Ku... Feels bad... Ku...}}\n'''{{PAGENAME}}''' is an KU-Roro bot found lying on the ground next to [[Adrian]].\n\n==Dialogue==\n{{Dialogue Start}}\n;(In Thetys Hub at afternoon)\n:'''Adrian:''' Update failed? Why is this the only robot that's incompatible?\n:{{DIcon}} What's wrong with this robot?\n:'''Adrian:''' The components of its control system got an error. I'm repairing it and updating the system.\n:'''KU-Boku:''' Ku... Ku... Feels bad... Ku...\n:{{DIcon}} It looks uncomfortable.\n:'''Adrian:''' It can't be. These robots don't feel pain. What you're hearing is just the language module reacting to the repairs.\n:'''Adrian:''' Their personalities are also functions added by the Tethys System, something that needs regular maintenance.\n:'''Adrian:''' Upgrading their systems and chips is the best way to improve them.\n:'''Adrian:''' Trust me, I'm the best engineer here. This robot will be better than ever when I'm done.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n== Other Languages ==\n{{Other Languages\n|en   = KU-Boku\n|zhs  = 库博库\n|zht  = 庫博庫\n|ja   = クーハク\n|ko   = 쿠 ・ 보쿠\n|fr   = KU-Boku\n|de   = KU-Boku\n|es   = KU-Boku\n|th   = KU-Boku\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

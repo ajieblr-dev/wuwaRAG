@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:37Z",
+  "title": "Suhsin the Inevitable",
+  "pageid": 79457,
+  "wikitext": "{{Stub}}\n{{CustomTabs\n|subpages=0\n|tab1=Suhsin the Inevitable\n|tab1name=Enemy\n|tab2=Reminiscence: Suhsin the Inevitable\n|tab2name=Suhsin the Inevitable's Echo\n}}\n{{About|the Weekly Boss|the Resonator|Hsin}}\n{{Enemy Infobox\n|displaytitle  = Suhsin the Inevitable\n|name          = Suhsin the Inevitable: Fractal Form\n|title         = Fractal Form\n|image         = Suhsin the Inevitable Fractal Form Icon.png\n|dmgtype       = Electro\n|weakpoint     = Unknown\n|echo          = No\n|class         = Calamity\n|family        = Sentinel\n|group         = Menzhou\n|location      = [[Ordinance of the Inevitable]]\n|drops         = Remnant of the Wheel\n|variants      = Tactical Hologram: Suhsin the Inevitable\n\n\u003c!-- VAs --\u003e\n|voiceEN          = {{w|Suzie Yeung}}\u003cref name=\"Hsin-Bili\" /\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/菊花花 Ju Huahua ({{Lang|mini=1|zh=菊花花}})]\u003cref name=\"Hsin-Bili\"\u003eBilibili: [https://t.bilibili.com/1248500650294116370 《鸣潮》动画短片 | 寻心]\u003c/ref\u003e\n|voiceJP          = {{w|Mamiko Noto|Noto Mamiko ({{Lang|mini=1|ja=能登 麻美子}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/2101287693925617819 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/소연(성우) So Yeon ({{Lang|mini=1|ko=소연}})]\u003cref name=\"Hsin-Bili\" /\u003e\n}}\n{{Enemy Infobox\n|displaytitle  = Suhsin the Inevitable\n|name          = Suhsin the Inevitable: Law Incarnate\n|title         = Law Incarnate\n|image         = Suhsin the Inevitable Icon.png\n|dmgtype       = Electro\n|weakpoint     = Unknown\n|echo          = Yes\n|class         = Calamity\n|family        = Sentinel\n|group         = Menzhou\n|location      = [[Ordinance of the Inevitable]]\n|drops         = Remnant of the Wheel\n|variants      = Tactical Hologram: Suhsin the Inevitable\n\n\u003c!-- VAs --\u003e\n|voiceEN          = {{w|Suzie Yeung}}\u003cref name=\"Hsin-Bili\" /\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/菊花花 Ju Huahua ({{Lang|mini=1|zh=菊花花}})]\u003cref name=\"Hsin-Bili\"\u003eBilibili: [https://t.bilibili.com/1248500650294116370 《鸣潮》动画短片 | 寻心]\u003c/ref\u003e\n|voiceJP          = {{w|Mamiko Noto|Noto Mamiko ({{Lang|mini=1|ja=能登 麻美子}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/2101287693925617819 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/소연(성우) So Yeon ({{Lang|mini=1|ko=소연}})]\u003cref name=\"Hsin-Bili\" /\u003e\n}}\n{{Description|Reckoner of fate, revealer of one true path. The fox shadow at the deepest reach of the Civilization Capsule.}} \n{{Lang|Suhsin the Inevitable|zh=天演溯心}} is a [[Calamity Class]] [[Weekly Challenge|Weekly]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in [[Ordinance of the Inevitable]].\n\n==Drops==\n{{Boss Rewards|weekly=1|exclusive=Remnant of the Wheel}}\n\n==Stats==\n{{Enemy Stats}}\u003c!--\n\n==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Suhsin the Inevitable}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Electro DMG}}.\u003cbr\u003eWhen a nearby Resonator triggers Union Response, Suhsin the Inevitable gains 1 stack of Paradox, stacking up to 2 times:\u003cbr\u003eEach stack of Paradox makes Suhsin the Inevitable take 15% more total DMG, up to 30%.\u003cbr\u003eAt 2 stacks of Paradox, Suhsin the Inevitable's RES to all Attributes is reduced to 0.\u003cbr\u003e\u003cbr\u003eIt began as the underlying logic that ensured Xuanfang Hold would collapse according to schedule. When Hsin moved to overwrite that logic, it fought back and broke free, and the data it tore from the Civilization Capsule's lowest strata gave it a form close to the Sentinel as Hsin remembered. That likeness made Hsin waver, and in the deadlock that ensued, Hsin gave ground step by step. In the end it broke the last of Hsin's hold, and Suhsin the Inevitable descended into the world.\u003cbr\u003e\u003cbr\u003eThe Wheel of Prediction turns about it, the Kernel set deep in its chest, and its form is meant to be the flawless Sentinel Mengzhou has prayed for—every flicker of expression, every gesture, enough to shake heaven and earth.|Description When Discovered}}\n\n==Soundtracks==\n{{Soundtracks by Category Table|Ordinance of the Inevitable Soundtracks|type=combat}}\n\n==Other Languages==\n{{Other Languages\n|en   = Suhsin the Inevitable\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|fr   = \n|de   = \n|es   = \n|th   = \n|pt   =\n}}\n\n==Change History==\n{{Change History|3.7}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "9"
+    }
+  ]
+}

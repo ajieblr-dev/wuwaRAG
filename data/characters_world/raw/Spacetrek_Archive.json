@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:33Z",
+  "title": "Spacetrek Archive",
+  "pageid": 38591,
+  "wikitext": "{{stub|image}}\n{{Location Infobox\n|image        = Spacetrek Archive.png\n|icon         = Souvenir Store Map Marker.png\n|type         = Point of Interest\n|type2        = \n|nation       = Roya Frostlands\n|region       = Startorch Academy \n|area         = Square\n}}\n{{Description|One of the comprehensive journal databases that requires the highest level of access clearance in Solaris. It serves as the portal to the academic resources of the Spacetreck Collective and Startorch Academy. The archive is managed by the Intelligent Retrieval \u0026 Indexing System, known as I.R.I.S.}}\nThe '''Spacetreck Archive''' is Startorch Academy's Archive located at the [[Square|Startorch Academy Square]]. It is managed by [[I.R.I.S.]].\n\n==Shop==\n{{Vendor|I.R.I.S.}} \n\n==Other Languages==\n{{Other Languages\n|en   = Spacetrek Archive\n|zhs  = 深空文献中心\n|zht  = 深空文獻中心\n|ja   = スペーストレック文献センター\n|ko   = 스페이스트렉 아카이브\n|fr   = Archives Trek-spatial\n|de   = Spacetrek-Archiv\n|es   = Archivo Intergaláctico\n|th   = ศูนย์ข้อมูลสเปซเทรค\n}} \n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{PoI Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

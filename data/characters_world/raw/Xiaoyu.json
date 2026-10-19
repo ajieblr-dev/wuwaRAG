@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:06Z",
+  "title": "Xiaoyu",
+  "pageid": 3847,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = no\n|missing_NPC_context  = no\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Xiaoyu.png\n|type             = Quest\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Ministry of Development\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Xiaoyu''' is a quest-exclusive [[NPC]] in {{Location|Jinzhou}}. She first appears in the {{Quest|Hidden Dangers in Peaceful Life}}.\n\n==Profile==\n\n==Quests and Events==\n{{Quests and Events|Xiaoyu}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xiaoyu\n|zhs  = 小钰\n|zht  = 小鈺\n|ja   = 鈺（ギョク）\n|ko   = 소옥\n|es   = Xiaoyu\n|fr   = Xiaoyu\n|de   = Xiaoyu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

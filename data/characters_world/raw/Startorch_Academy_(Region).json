@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:36Z",
+  "title": "Startorch Academy (Region)",
+  "pageid": 38235,
+  "wikitext": "{{About|the region|the institution|Startorch Academy}}\n{{Location Infobox\n|title  = Startorch Academy\n|image  = Startorch Academy.png\n|type   = Region\n|map    = Solaris-3\n|nation = Roya Frostlands\n}}\n'''Startorch Academy''' is a [[Region]] located in [[Roya Frostlands]]. It contains the primary settlement and education institute of Lahai-Roi, [[Startorch Academy]].\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Square\"\n|[[Square]]\n|[[File:Startorch Academy - Square.png|180px]]\n|The grand square of the Academy, its grand arches welcoming students to the world of discovery and enlightenment.\n|- id=\"Teaching Zone\"\n|[[Teaching Zone]]\n|[[File:Startorch Academy - Teaching Zone.png|180px]]\n|The rooms where educational prowess is grown, nurtured, and tested.\n|- id=\"Freight Zone\"\n|[[Freight Zone]]\n|[[File:Startorch Academy - Freight Zone.png|180px]]\n|The Academy's logistics gate to the outside world, for biking students or those taking the train to the frostlands.\n|- id=\"Spacetrek Archive - Recreational Zone\"\n|[[Spacetrek Archive - Recreational Zone]]\n|[[File:Startorch Academy - Recreational Zone.png|180px]]\n|A place for rest and relaxation, or inquiry with the resourceful I.R.I.S.\n|}\n\n==Quests==\n{{Quest by Category List|Startorch Academy (Region) Quests}}\n\n==Exploration Report==\n===Startorch Academy Student Handbook: Orientation Guide (Excerpt)===\n* Achieve 50% Exploration Progress to unlock the full report.\n\n{{Transclude|Startorch Academy Student Handbook: Orientation Guide (Excerpt)|Text|main=1}}\n\n===Dr. Scott Rabelle's Address on the Founding of Startorch Academy===\n* Achieve 100% Exploration Progress to unlock the full report.\n\n{{Transclude|Dr. Scott Rabelle's Address on the Founding of Startorch Academy|Text|main=1}}\n\n==Notable Features==\n* [[Academy Dormitory]]\n* [[Academy's Dark Side]]\n* [[Auditorium]]\n* [[Auto Parking \u0026 Engineering Xpertise]]\n* [[Culinary Station]]\n* [[Rabelle College]]\n* [[Resonator Nursing Unit]]\n* [[Royan Market]]\n* [[Spacetrek Archive]]\n* [[Synth Armament Crafting Bay]]\n\n===Challenges===\n* [[Simulation Training#Lahai-Roi|B.1.N.G.O.]]\n* [[Tactical Hologram: Synchronization]]\n\n===Resources===\n* {{Item|Past Reveries}}\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=location}}\n\n==Other Languages==\n{{Other Languages\n|en   = Startorch Academy\n|zhs  = 星炬学院\n|zht  = 星炬學院\n|ja   = スタートーチ学園\n|ko   = 스타토치 아카데미\n|fr   = Académie Brandétoile\n|de   = Sternenfackel-Akademie\n|es   = Academia Fuegostelar\n|th   = สถาบันสตาร์ทอร์ช\n|pt   = \n}} \n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Startorch Academy Student Handbook: Orientation Guide (Excerpt)",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Dr. Scott Rabelle's Address on the Founding of Startorch Academy",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

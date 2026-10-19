@@ -1,0 +1,114 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:28Z",
+  "title": "Lumi",
+  "pageid": 20501,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}}\n|title            = Kaleido Refraction\n|type             = Playable\n|modelType        = \n|gender           = Female\n|rarity           = 4\n|attribute        = Electro\n|weapon           = Broadblade\n|role             = Main Damage Dealer; Basic Attack Damage; Resonance Skill DMG Amplification\n|birthplace       = Huanglong\n|nation           = Huanglong\n|affiliation      = Yuezhou\n|affiliation2     = Lollo Logistics\n|releaseDate      = 2024-12-12\n|class            = Congenital\n|dish             = Yuezhou Spicy Meat Noodles\n\u003c!--VAs--\u003e\n|voiceEN          = [[imdb:nm12853763|Emily Cass]]\n|voiceCN          = [https://zh.moegirl.org.cn/zh-hans/静宸 Jing Chen ({{Lang|mini=1|zh=静宸}})]\n|voiceJP          = {{w|Minori Suzuki|Suzuki Minori ({{Lang|mini=1|ja=鈴木みのり}})}}\n|voiceKR          = [https://namu.wiki/w/정해은(성우) Jeong Ha-eun ({{Lang|mini=1|ko=정해은}})]\n}}\n{{Quote|Don't worry, my light's got you!|Lumi}}\n{{Intro/Resonator|lang=zh=灯灯 Dēngdēng}} She is a navigator at [[Lollo Logistics]] and leader of a transport squad team.\n\n==Official Introduction==\n{{Quote|\nFrom dense forests to vast wilderness, places where navigator of Lollo Logistics Lumi has traveled bear witness to her charming personality, like a shaft of sunlight.\n\nBorn disciplined, she is now enjoying her daily tasks as a diligent courier, honoring her duty of punctual delivery.|[https://wutheringwaves.kurogames.com/en/main#resonators Her introduction on the Official Website.]}}\n\n==Combat Overview==\n{{Main|Lumi/Combat}}\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Lumi|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Lumi\n|zhs     = 灯灯\n|zht     = 燈燈\n|ja      = {{Rubi|灯|トウ|灯|トウ}}\n|ko      = 루미\n|es      = Lumi\n|fr      = Lumi\n|de      = Lumi\n}}\n\n==Trivia==\n===Etymology===\n* Her name is derived from the Latin word ''[https://en.wiktionary.org/wiki/lumen#Latin lumen]'', meaning \"light\".\n\n==Change History==\n{{Change History|1.4|introduced=1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[ru:Люми]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "6.1",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "14"
+    }
+  ]
+}

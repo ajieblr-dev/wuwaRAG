@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:54Z",
+  "title": "Hervey",
+  "pageid": 62885,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=Lahai-Roi\n|location=Exostrider Observation Station\n|location2=Everfrost Cavern\n|affiliation=Roya Tribe\n|group=Roya Tribe\n}}\n'''Hervey''' and '''Lagatha''' are NPC Royan's found inside the [[Everfrost Cavern]] at 06:00-21:59.\n\nAppears after {{Quest|The Star That Voyages Far}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Hervey:''' Found any new Royan runes around here?\n\n:'''Lagatha:''' Not yet… but since a Void Storm passed through this area, we should come across some sooner or later.\n\n:'''Lagatha:''' Once we're done here, let's first head back to Bjartr Woods.\n\n:'''Hervey:''' Should we send the recorded patterns to the Solisylum?\n\n:'''Lagatha:''' Yes. The Shaper will want to see them.\n\n:'''Lagatha:''' Wherever Void Storms pass, Royan runes are left behind. In a way, they bring both the unknown and blessings with them. This place is no exception.\n\n:'''Hervey:''' If only there were more runes we could actually interpret...\n\n:'''Lagatha:''' Time will reveal the answers, Hervey. Besides, we do have a genius when it comes to rune deciphering.\n\n:'''Hervey:''' Oh, you mean Sigrika?\n\n:'''Lagatha:''' Exactly. She'll be thrilled to see new runes. Let's call it a little gift for her.\n\n:'''Hervey:''' Hehe, Sigrika's always up late studying runes. You can see the passion written all over her face.\n\n:'''Lagatha:''' If only my son were that brilliant! Ha… these days he just keeps talking about taking a ship and seeing the world.\n{{Dialogue End}} \n\n==Other Language==\n\n==Change History==\n{{Change History|3.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Language",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

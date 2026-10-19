@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:21Z",
+  "title": "Leonidas Hotel",
+  "pageid": 74620,
+  "wikitext": "{{stub|gallery}}\n{{Location Infobox\n|name         = Leonidas Hotel\n|image        = Leonidas Hotel.png\n|type         = Point of Interest\n|type2        = Instance\n|icon         = Leonidas Hotel Icon.png\n|nation       = Rinascita\n|region       = Septimont\n|area         = Capitoline Hill\n|description  = A grand hotel offering luxurious decor and a cosy stay. The go-to choice for travelers.\n}}\n{{Quote|Ta-da! Welcome to your new spot! It's a lifetime suite, and it's yours anytime you need it during your stay in Septimont.|Lupa during {{Quest|Shadow of Glory}} }}\n'''Leonidas Hotel''' is a [[Point of Interest]] located in {{Location|Capitoline Hill}}.\n\n==Overview==\nLeonidas Hotel is a popular hotel with front view and elevator access to the arena of Colosseum Olymdos. It difficult to book a room without reservations done months in advance, especially during the [[Great Agon]] season.\u003cbr /\u003e\nIt is adorned with rotating gold plates, a mechanic scarab on-top of the entranceway, and a rooftop greenhouse.\n\n[[Lupa]] obtained a life-time suite for herself and [[Rover]]. \n\n==Related Dialogues==\n{{Dialogue Start}}\n;During {{Quest|Shadow of Glory}}\n:'''Tourist:''' If we'd booked tickets six months ago, we wouldn't be stuck camping out here!\n:'''Another Tourist:''' Who knew the Leonidas Hotel would be this packed? I can't even call in to book a room… Wasn't this hard last year.\n:'''Another Tourist:''' And those prices… Let 'em stay if they want to, but I'm not paying that. What's wrong with a tent, anyway?\n:'''Tourist:''' This is the Great Agon, after all! Ugh, fine. It is what it is this time, but next time, you'll follow my lead.\n----\n:'''Worker in a Butler Suit:''' These outfits are so different from what we normally wear...\n:'''Worker in a Maid Dress:''' I can't agree more. Although, I still prefer our normal ones. They're more comfortable to wear.\n{{Dialogue End}}\n\n==NPCs==\n{{NPCs by Location List|Leonidas Hotel}}\n\n==Notable Interactions==\n* [[The Great Agon Schedule]]\n* [[Daily Scoop]]\n* [[A Traveler's Guide to Septimont]]\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=location}}\n\n==Gallery==\n\u003cgallery\u003e\nLeonidas Hotel Interior.png|Leonidas Hotel Suite\nLeonidas Hotel Interior2.png|Leonidas Hotel Coliseum View\n\u003c/gallery\u003e\n\n==Trivia==\n* Gladiator Leonidas was the King of Sparta and a legendary warrior of ancient Greece. \n* There is also a chocolate confectionery called Leonidas Chocolate Gold Coin with an embossed image of a Spartan Gladiator. It was created by Leonidas Kestekides.\n\n==Other Languages==\n{{Other Languages\n|en   = Leonidas Hotel\n|zhs  = 列奥尼达酒店\n|zht  = 列奧尼達酒店\n|ja   = ホテル・レオニダス\n|ko   = 레오니다스 호텔\n|fr   = Hôtel Léonidas\n|de   = Hotel Leonidas\n|es   = Hotel Leónidas\n|th   = โรงแรมเลโอไนดัส\n|pt   = Hotel Leônidas\n}}\n\n==Change History==\n{{Change History|2.4}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{PoI Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Related Dialogues",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Interactions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "9",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "10",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "11",
+      "index": "11"
+    }
+  ]
+}

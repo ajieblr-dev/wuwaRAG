@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:57Z",
+  "title": "Panoram",
+  "pageid": 22087,
+  "wikitext": "{{NPC Infobox\n|image            = Panoram.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Energy Hub\n|group            = \n|affiliation      = Black Shores\n|title            = \n}}\n'''Panoram''' is an NPC at [[Energy Hub]], [[The Black Shores]]. He's a Gardener from the Black Shores alongside with his sister, [[Paranora]].\n\n==Quests and Events==\n{{Quests and Events|Panoram}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Panoram''': Hello there. Can I help you with something?\n:{{DIcon}} You and that Gardener I just met…\n:{{DIcon}} Para... Pano...?\n:'''Panoram''': Haha, that's my sister, Paranora. We're both Gardeners.\n:'''Panoram''': People often mix up our names, so sometimes her documents end up with me.\n:'''Panoram''': My sister handles the talent pool, and I focus on finding the right people from that pool to form the support teams.\n:{{DIcon}} Support teams?\n:'''Panoram''': Exactly. The support teams monitor the Waveworn, issue alerts, and then dispatch pre-organized action teams to assist various countries in preventing potential disasters.\n:'''Panoram''': Of course, this requires cooperation from those countries. We need to be granted the right to collect and analyze Reverberations in their local disaster zones.\n:'''Panoram''': Good cooperation is crucial for our work's success and will be a huge benefit to them as well.\n:'''Panoram''': After all, disaster prevention is just as important as disaster relief.\n----\n:;(During the quest [[To the Shore's End]]; [[Advance toward the Future from Today]])\n:'''Panoram''': Are we really challenging Tethys when it's on locked down?\n:'''Panoram''': It'll be a miracle if we can even pull it off, but...\n:'''Panoram''': With the Shorekeeper helping us within Tethys and our comrades fighting bravely on the frontlines...\n:'''Panoram''': It's a gamble, but losing isn't an option.\n\n{{Dialogue End}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Panoram\n|zhs  = 帕侬拉玛\n|zht  = 帕儂拉瑪\n|ja   = パノラマ\n|ko   = 파노라마\n|es   = Panoram\n|fr   = Panoram\n|de   = Panoram\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:10Z",
+  "title": "Reilynn",
+  "pageid": 39699,
+  "wikitext": "{{NPC Infobox\n|type= Open-World\n|image=NPC Reilynn.png\n|nation=Lahai-Roi\n|location=Startorch Academy - Teaching Zone\n|affiliation=Startorch Academy}}\n'''{{PAGENAME}}''' is a volunteer advisor who can be found during the morning, giving advises on curriculum to study in.\n\n==Location==\n\n{{Dialogue Start}}\n==Idle==\n:'''Reilynn:''' You have a knack for bionic materials. Why don't you come to the Engineering Department?\n:'''Student:''' Professor... Truth be told... I want to go to the Agronomy Wing... I want to farm...\n:'''Reilynn:''' That's fine as well. Whatever suits your interest.\n\n==Dialogue==\n;\u003cnowiki\u003e06:00-11:59\u003c/nowiki\u003e\n:'''Reilynn:''' Are you new to Rabelle College? My name is Reilynn. I'm a volunteer advisor in charge of sorting evaluations. Is there anything you'd like to ask me?\n:{{DIcon}} What are sorting evaluations?\n::'''Reilynn:''' You're already a Synchronist at Rabelle College. This assessment isn't for you. Let me explain...\n:{{DIcon}} Do I have to be assessed? I'm a bit nervous...\n::'''Reilynn:''' Nervous? But you're already a Synchronist! You were qualified during enrollment. There's no need for you to do this assessment.\n:'''Reilynn:''' To help new students adapt to academic life, the Academy has updated its curriculum to include a two-year Preparatory Program that provides generalized learning.\n:'''Reilynn:''' It gives everyone a chance to scope out the different departments and really think about what interests them.\n:{{DIcon}} What if their scores are mediocre?\n:'''Reilynn:''' Oh, don't worry. The sorting evaluation is just there to point you in a direction. What really matters is your overall performance and your own potential.\n:'''Reilynn:''' Of course, if you've already got your eye on a department, going the extra mile in their related courses is a surefire way to boost your odds.\n:{{DIcon}} Naturally.\n:'''Reilynn:''' No need to worry. Look, everyone at Startorch Academy is... let's just say \"special\" in their own way. But anyone who makes the cut is built for a science career.\n:'''Reilynn:''' We're all here because we chose this path, and we're all ready for the grind. Have a little faith in your peers.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n{{Other Languages\n|en   = Reilynn\n|zhs  = 瑞霖\n|zht  = 瑞霖\n|ja   = 瑞霖\n|ko   = 서림\n|fr   = Reilynn\n|de   = Reilynn\n|es   = Reilynn\n|th   = Ruilin\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

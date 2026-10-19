@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:02Z",
+  "title": "Isabella",
+  "pageid": 42155,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Event\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|location2        = Rabelle College\n|group            = Roya Tribe\n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is an event-exclusive NPC for the {{Quest|Gold Suspended in Shadows}} during the {{Extra Effect|New Solar Celebration|New Solar Celebration|The Exostrider poured forth light and heat from its Reactor Drive, sheltering life from the killing frost. Grateful for this gift, the Roya revered the Reactor Drive as their sun. They took it upon themselves to gather the Exostrider's \"cells,\" making this quiet labor the duty of their tribe.\u003cbr\u003eNow, their ancient vow is complete. As the new sun rises, they hold the New Solar Celebration, both to mark the renewal and to remind their kin of the purpose that set them on this path.}}.\n\nMember of the Student Council, she appears throughout the interior of Rabelle College at different times.\n\n==Dialogue==\n{{Dialogue Start}}\n:{{color|help|\u003cnowiki\u003e06:00-11:59\u003c/nowiki\u003e}} \n:'''Isabella:''' Two grand prizes, ten first prizes... Ten... Ten...\n:'''Isabella:''' Ten parts Cradle Lichen polymer extract, light ice, medium-sweetness. Three parts freeze-dried Fern Spore powder, zero sugar, zero calories... Centrifugal mixing may reduce symptoms of dissociation caused by operating Mr. S.I.G.M.A...\n:{{DIcon}} Wake up.\n:{{DIcon}} You seem to be sleeptalking...\n:'''Isabella:''' Slurp—! Oh, sorry! Where was I... Two grand prizes... Ten first prizes... Lucky there aren't a lot of people yet. Better wrap this up.\n----\n:{{color|help|\u003cnowiki\u003e12:00-19:59\u003c/nowiki\u003e}}\n:'''Isabella:''' Hi, {{Rover}}! Welcome to the New Solar Celebration!\n:'''Isabella:''' All exhibition areas are open. There's a movie playing, too. If you're interested, slip in. But keep it down, yeah? Cinema rules.\n:'''Isabella:''' Oh, and feel free to display photos publicly on the Commemoration Wall. Share your most spectacular moments!\n----\n:{{color|help|\u003cnowiki\u003e20:00-05:59\u003c/nowiki\u003e}} Upstairs\n:'''Isabella:''' Snore... Snore...\n:'''Isabella:''' Caesar shift... Atbash cipher... Sig-Sigrika... Help me...\n:{{DIcon}} Wake up.\n:{{DIcon}} You were dreaming of Sigrika?\n:'''Isabella:''' Huh? Was I talking in my sleep? Sorry, don't remember.\n:{{DIcon}} You should head back to the dorm and rest.\n:'''Isabella:''' Right, okay. Thanks.\n----\n:{{color|help|\u003cnowiki\u003e06:00-08:59\u003c/nowiki\u003e}} Upstairs \n:;She's calling... Oh no!\n:;I-I'm on my way! Be there soon!\n:'''Toka:''' Not at the exhibition hall, Bella?\n:'''Isabella:''' I-I'm on my way! Be there soon!\n:'''Toka:''' On your way? I figured you were snoring in the storage closet like a Flufftail Fox in winter. Took three calls to jolt you awake!\n:'''Isabella:''' Ah... Right... I'm sorry. I fell asleep.\n:'''Toka:''' No worries. I got Yvonne to cover your shift at the prize booth. Your job now? Rest, rest, and rest some more.\n:'''Toka:''' I heard that lots of students who participated in \"Minerva's Treasure\" this year are having sleep issues. If you're not feeling right, go see a doc, okay?\n:'''Toka:''' And if Student Council gets too much? Just say so. I don't need you becoming some new urban legend—\"the Student Council Member Who Vanished Mid-Celebration\".\n:'''Isabella:''' Thanks Toka... Yvonne, too. I owe you both.\n:'''Toka:''' Don't mention it. Once you're feeling better, I'm sure you'll return the favor!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events|Isabella}}\n\n==Other Languages==\n{{Other Languages\n|en   = Isabella\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

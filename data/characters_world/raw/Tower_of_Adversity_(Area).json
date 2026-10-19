@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:49Z",
+  "title": "Tower of Adversity (Area)",
+  "pageid": 7659,
+  "wikitext": "{{Stub}}\n{{About|the area|the challenge|Tower of Adversity}}\n{{Location Infobox\n|title1=Tower of Adversity\n|image=Tower of Adversity.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Central Plains\n}}\n'''Tower of Adversity''' is an area of [[Central Plains]], [[Huanglong]]. \n\n==Other Languages==\n{{Other Languages\n|en   = Tower of Adversity\n|zhs  = 原点科考站\n|zht  = 原點科考站\n|ja   = 原点研究所\n|ko   = 원점 과학기지\n|es   = Torre de la Adversidad\n|fr   = Tour éprouvante\n|de   = Turm der Widrigkeiten\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[Category:Browse]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

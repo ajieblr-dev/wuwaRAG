@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:58Z",
+  "title": "Huating",
+  "pageid": 78869,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title        = Huating\n|image        =\n|type         = City\n|type2        = Huanglong City{{!}}Huanglong Cities\n|map          = Solaris-3\n|event        = \n|nation       = Huanglong\n}}\n'''Huating''' is a mentioned location in [[Huanglong]]. It is [[Suoming]]'s hometown that once suffered under a calamity known as Evil Miasma.\u003cref name=\"LIVE\"\u003e[https://www.youtube.com/live/nMa_e5ChL6w|Wuthering Waves Version 3.7 Preview Special Broadcast]\u003c/ref\u003e\n\n==Resonators==\n===Playable===\n{{Resonators by Category Table|Playable Resonators\u0026Huating}}\n===Upcoming===\n{{Resonators by Category Table|Upcoming Resonators\u0026Huating}}\n\n==Other Languages==\n{{Other Languages\n|en      = Huating\n|zhs     = \n|zht     = \n|ja      = \n|ko      = \n|es      = \n|fr      = \n|de      = \n|th      = \n|pt      = \n}}\n\n==Change History==\n{{Change History|introduced=3.7|}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[Category:Mentioned Only]]\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resonators",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Playable",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Upcoming",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:58Z",
+  "title": "Huanzhen",
+  "pageid": 10302,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|name             = Huanzhen\n|image            = NPC Huanzhen.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Distribution Center\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Huanzhen''' is an NPC in {{Location|Distribution Center}}.\n\u003c!--\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n\n==Quests and Events==\n{{Quests and Events|{{subst:#titleparts:{{subst:PAGENAME}}}}}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Huanzhen:''' Stop right there. I can sense the pulsating restless energy emanating from you.\n:'''Huanzhen:''' That is something more dazzling than the morning sun, more profound than the sea- You must my alley in justice!\n:{{DIcon}} How did you sense it?\n:'''Huanzhen:''' Of course... I heard it from [[Chixia]]. She said she recently became friends with someone with a stern cold face and dresses all in black.\n:{{DIcon}} That Ma Xiaofang!\n:'''Huanzhen:''' Haha, actually it's Xiaofang... Ahem, Chixia is my senior from the previous year.\n:'''Huanzhen:''' At that time, I was quite a lone kid. She would often come to the backyard of my home to play games with me.\n:'''Huanzhen:''' Later, under her influence, I gradually opened up and we began to talk about fantasies of us saving the world.\n:'''Huanzhen:''' However, after becoming a Patroller, I realized that everything was not quite as I imagined. Not all Patrollers has the cool and commanding air.\n:'''Huanzhen:''' Personal disputes, [[Exiles]]'s scams, petty thefts... every day is just the same... These are the norm of the work.\n:'''Huanzhen:''' Sometimes, you forget the birthdays of the important ones in your life while you still remember container sorting numbers at the logistics center.\n:'''Huanzhen:''' I'd get tired of these trivial matters, but...\n:'''Huanzhen:''' On weekends, when I take off the Patroller's uniform and see the ordinary people passing by while wandering around.\n:'''Huanzhen:''' I see busy couriers rushing on the road, [[Pioneer Association]] members going on expeditions, and workers returning to [[Jinzhou]] to visit their families...\n:'''Huanzhen:''' At moments like this, I'd see how our efforts have maintained the peace and order of this city.\n:'''Huanzhen:''' It makes me feel cool.\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Huanzhen\n|zhs  = 幻真\n|zht  = 幻真\n|ja   = 幻真（ゲンシン）\n|ko   = 환진\n|es   = Huanzhen\n|fr   = Huanzhen\n|de   = Huanzhen\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

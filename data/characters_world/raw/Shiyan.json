@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:25Z",
+  "title": "Shiyan",
+  "pageid": 4414,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Shiyan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Shiyan''' is an NPC in {{location|Jinzhou}}.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Shiyan:''' I see many listeners today. Thank you for joining us! But before we begin, let us begin a new subject.\n:'''Shiyan:''' It's not about the [[Jiyan|Teal General]] or the Battle of [[Norfall Barrens]]...\n:'''Shiyan:''' Today, let's talk about Jinzhou, the fortress city we call home. Huanglong boasts one capital and six cities, and Jinzhou is the gatekeeper.\n:'''Shiyan:''' The name \"Jinzhou\" itself is rather special. Its spoken and written form have layers of meaning.\n:'''Shiyan:''' It sounds like the word for \"gateway,\" and when its written, resembles the shape of a dragon's roar. Hence, we call this place \"Jinzhou.\"\n:'''Shiyan:''' And as for what \"Jin\" really means, it also signifies the beginning, where every journey starts. That's why Jinzhou is always ready to welcome travelers from far and wide.\n:'''Shiyan:''' It's a fitting name, isn't it?\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Shiyan\n|zhs  = 矢言\n|zht  = 矢言\n|ja   = 矢言（シゲン）\n|ko   = 맹언\n|es   = Shiyan\n|fr   = Yiyan\n|de   = Shiyan\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

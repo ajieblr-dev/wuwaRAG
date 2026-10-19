@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:10Z",
+  "title": "Debiao",
+  "pageid": 4254,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Debiao.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Debiao''' is an NPC in {{Location|Jinzhou}}.\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Debiao:''' The battle in Norfall Barrens was so intense...\n:'''Debiao:''' I also want to fight on the front lines!\n:'''Debiao:''' Why am I stuck behind with these logistic duties...\n:'''Lingfeng:''' The jobs done behind the city walls are also important. Just imagine if troubles stir up in the city...\n:'''Lingfeng:''' Come on. Let's train more while we can. We need to be on duty afterward.\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Debiao:''' It's been so long. Why can't I beat [[Lingfeng]]?\n(Version 1)\n:'''Debiao:''' I remember back in the days I had a period when I was very down and out. It was Lingfeng who pulled me out of it.\n:'''Debiao:''' Since then, I have been training hard on my combat skills, but I haven't yet bested Lingfeng.\n:'''Debiao:''' The scoreline has reached 0:20 and I want another go.\n:'''Lingfeng:''' Haha, keep it up. After training, we have to go on duty.\n:'''Debiao:''' Alright. Let's hit it!\n(Version 2)\n:'''Debiao:''' The legendary battle between General [[Jiyan]] and the [[Ovathrax]] up in the [[Norfall Barrens]] was brutal and ferocious...\n:'''Debiao:''' At that time, my mind was so set on going to the battlefield. But Lingfeng said that I was ready to be on the battlefield if I couldn't even beat him.\n:'''Debiao:''' The scoreline has reached 0:40 and I want another go.\n:'''Lingfeng:''' You need more training. Besides, it's not like you can't make your contribution outside of the battlefield.\n:'''Lingfeng:''' Do your logistic duties and the tasks assigned to you by the city government. It is only when the city is stable that those on the frontline can focus on their jobs.\n:'''Debiao:''' Yeah... Alright. Whatever you say. Lingfeng, let's go again, I need more training!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en      = Debiao\n|zhs     = 德彪\n|zht     = 德彪\n|de      = Debiao\n|es      = Debiao\n|fr      = Debiao\n|ja      = 德彪\n|ko      = 덕표\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

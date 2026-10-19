@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:11Z",
+  "title": "KU-Rio",
+  "pageid": 25957,
+  "wikitext": "{{NPC Infobox\n|image            = NPC KU-Rio.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Tethys Hub\n|group            = \n|affiliation      = Black Shores\n|species          = KU-Roro\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Ku-Rio''' is a KU-Roro that can be found in [[Energy Hub]], [[Tethys' Deep]], near charging stations.\n\n==Quests and Events==\n{{Quests and Events|KU-Rio}}\n\n==Idle Dialogue==\n{{Dialogue Start}}\n:'''KU-Rio:''' Rest! I need rest!\n:'''KU-Rio:''' Wake up! It's my turn to charge now\u0026mdash;\n:'''KU:''' Ku... Just five more minutes... I worked overtime yesterday.\n:'''KU-Rio:''' Adrian updated my hardware yesterday, and now I only have access to this charging station.\n:'''KU:''' Alright, we can share. Just leave me some space.\n:'''KU-Rio:''' W-why are you blushing!? Somebody come fix this guy! ADRIAN\u0026mdash;\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = KU-Rio\n|zhs  = 库里欧\n|zht  = 庫里歐\n|ja   = クリオ\n|ko   = 쿠 ・ 리오\n|es   = KU-Rio\n|fr   = KU-Rio\n|de   = KU-Rio\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

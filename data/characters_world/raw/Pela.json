@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:58Z",
+  "title": "Pela",
+  "pageid": 27401,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Pela.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Whisperwind Haven\n|group            = \n|affiliation      = Jamie Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = Lucio\n|mother           = Julia\n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Pela''' is a girl NPC who appears at Jamie's Farm in [[Whisperwind Haven]]. She's part of the Jamie Family.\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Pela:''' Hello, welcome to Jamie's Farm. If you're looking for Lucio, he should be herding near Egla Town.\n:{{DIcon}} Could you tell me about your family?\n::'''Pela:''' As you can see, the Jamie family is just an ordinary herding family living outside Egla Town. They lack noble status, background with The Order, or any accumulated wealth.\n::'''Pela:''' These are Lucio, Julia, and Pela. Their primary business partners are the merchants and the bakery in Egla Town.\n::{{DIcon}} Your way of speaking is quite particular.\n::'''Pela:''' Pela exhibits certain cognitive impairments, according to Acolyte Wicktorio's analysis.\n::'''Pela:''' Julia and Lucio suffered an incident twenty years ago that left a lasting impact on their minds.\n:: Their offspring, Pela, possesses excellent logical abilities but lacks emotional understanding and self-awareness.\n:{{DIcon}} What's your birthday wish?\n::'''Pela:''' Every year on that day, Lucio and Julia would spend a fortune to prepare storybooks for Pela.\n::'''Pela:''' The works they are preparing are poised for commercial success. Thus, Pela surmises that Julia and Lucio expect her to write scripts that will generate profit.\n::'''Pela:''' Unfortunately, without empathy, Pela can't become a great author.\n:{{DIcon}} Thank you. See you then.\n::'''Pela:''' Goodbye.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en  = Pela\n|zhs = 佩拉\n|zht = 佩拉\n|ja  = ペーラ\n|ko  = 페라\n|es  = Pela\n|fr  = Pela\n|de  = Pela\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

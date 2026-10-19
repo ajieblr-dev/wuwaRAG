@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:11Z",
+  "title": "Yizhu",
+  "pageid": 26852,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Yizhu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Yizhu''' is an NPC in [[Jinzhou]]. Appears at night in front of City Hall.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Yizhu:''' Those cases from yesterday are almost out of time, can't be prosecuted anymore...\n:'''Yizhu:''' Hi. What can I help you with?\n:{{DIcon}}: Are you a lawyer?\n:'''Yizhu:''' I'm sorry, I'm not a lawyer. Generally speaking, the Justice Commission doesn't appoint lawyers for people.\n:'''Yizhu:''' And here I am, just a clerk...\n:'''Yizhu:''' If you need help with any legal matters, we're here to assist. \n:'''Yizhu:''' What can I assist you with today?\n:{{DIcon}}: I'm good, actually. I'll be on my way.\n:'''Yizhu:''' Everything's alright? Good to hear.\n:'''Yizhu:''' For some reason, things are picking up again.\n:'''Yizhu:''' All these case files from the Midnight Rangers need prompt attention...\n\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yizhu\n|zhs  = 逸竹\n|zht  = 逸竹\n|ja   = 逸竹（イツチク）\n|ko   = 예준\n|es   = Yizhu\n|fr   = Yizhu\n|de   = Yizhu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:17Z",
+  "title": "Dragon of Dirge",
+  "pageid": 25673,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Dragon of Dirge\n|title     = Gehinnom\n|image     = Dragon of Dirge Icon.png\n|dmgtype   = Fusion\n|weakpoint = Unknown\n|echo      = Yes\n|class     = Overlord\n|family    = Tacet Discord\n|group     = \n|nation    = Rinascita\n|region    = Penitent's End\n|subregion = Figurehead's Shrine\n|drops     = Blazing Bone\n|variants  = Tactical Hologram: Dragon of Dirge\n}}{{Description|A dragon-like [[Tacet Discord]] that haunts the peak of [[Penitent's End]] for an unknown reason, devouring all frequencies indiscriminately.}}\nThe '''{{PAGENAME}}''' is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in {{Location|Penitent's End|nocat=1}}.\n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Blazing Bone}}\n\n==Stats==\n{{Enemy Stats}}\n\n== History ==\nThe Dragon of Dirge was previously know as Gehinnom, The King of Dragons in Avinoleum. Later becoming Fleurdelys's dragon echo.\n\n==Abilities== \n\n==Trophies==\n{{Trophies|Dragon of Dirge|customheader=Dragon of Dirge}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Fusion DMG}}.\u003cbr/\u003eA dragon-like Tacet Discord that haunts the peak of Penitent's End for an unknown reason, devouring all frequencies indiscriminately. Twisted by the frequencies of decay and death it consumes, it now appears as a dreadful, skeletal beast.\u003cbr/\u003eOnce a sacred place, this island is now a grave of sorrow, and anyone who comes for redemption must face its fire of judgment.\u003cbr/\u003eSuch is Gehinnom, the Dragon of Dirge, whose flames burn to the bone, whose pain echoes, yearning for a final release.}}\n\n==Trivia==\n===Etymology===\n*\"Gehinnom\", the Dragon of Dirge's original name, is associated with divine punishment in Jewish and Christian theology, considered the destination of the wicked for the atonement of their sins. \n**It originally was a historic valley west and south of Jerusalem where a cult burned children as sacrifices.\n\n==Other Languages==\n{{Other Languages\n|en   = Dragon of Dirge\n|zhs  = 叹息古龙\n|zht  = 嘆息古龍\n|ja   = 嘆きのドレイク\n|ko   = 탄식의 고룡\n|es   = Dragón de Elegía\n|fr   = Dragon de chagrin\n|de   = Klagedrache\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "7.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "8",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "9",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "10",
+      "index": "11"
+    }
+  ]
+}

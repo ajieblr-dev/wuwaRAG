@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:03Z",
+  "title": "Clouded Cliffs",
+  "pageid": 7660,
+  "wikitext": "{{Location_Infobox\n|title1=Clouded Cliffs\n|image=Clouded Cliffs.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Gorges of Spirits\n}}\n'''Clouded Cliffs''' is an area of [[Gorges of Spirits]], [[Huanglong]]. \n\n==Description==\n{{Stub}}\n\n==Features==\n===Interactables===\n{{#dpl:|category = Clouded Cliffs Terminology|ordermethod= title}}\n\n==NPCs==\n{{NPCs by Location List|Clouded Cliffs}}\n\n==Other Languages==\n{{Other Languages\n|en   = Clouded Cliffs\n|zhs  = 夜明坡\n|zht  = 夜明坡\n|ja   = 夜明けの坂\n|ko   = 야명 언덕\n|es   = Acantilados Nublados\n|fr   = La Colline de l'aube\n|de   = Wolkige Klippen\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Features",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Interactables",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:43Z",
+  "title": "Gauss",
+  "pageid": 39177,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Gauss.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = \n|affiliation      = Startorch Academy\n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC male professor who teaches in a very fast pace.\n\n{{color|help|Players can attend Professor Gauss class at \u003cnowiki\u003e06:00-12:00\u003c/nowiki\u003e in the Voidmatters Classroom.}}\n\n{{Dialogue Start}}\n==Idle==\n:'''Gauss:''' On the left of page 77, look at the waveform equation for the Voidmatter signal in the \"y\" channel. You only need to define the constant \"a\"...\n:'''Plott:''' Mr. Gauss! Mr. Gauss! Wait!\n\n==Dialogue==\n;Sit down\n:'''Rover:''' I know this class...\n:{{DIcon}} (Pay close attention.)\n::'''Gauss:''' From here, the process is simple, and I'm sure you've all deduced that for \"F,\" considering the two initial factors...\n::'''Plott:''' Mr. Gauss! You haven't explained what the \"a\" range is yet...\n::'''Gauss:''' So, as you can plainly see, this equation determines the Voidmatter signal's damping threshold for the \"y\" channel within the Exostrider's neural Resonance...\n::'''Gauss:''' Your task is to find me a general solution for it in the next half hour.\n::'''Amodeo:''' Half an hour!\n::'''Plott:''' But, Mr. Gauss! The equation alone takes up at least half a page!\n::'''Gauss:''' It only took me ten minutes to write this part...\n::Time flies as the professors give their lecture. The bell rings before you even realize...\n:;\u003cnowiki\u003e(Time becomes 12:00)\u003c/nowiki\u003e\n:{{DIcon}} (Doze off.)\n:;\u003cnowiki\u003eTime becomes 16:00)\u003c/nowiki\u003e\n{{Dialogue End}}\n\n{{Other Languages\n|en   = Gauss\n|zhs  = 高斯\n|zht  = 高斯\n|ja   = ガウス\n|ko   = 가우스\n|fr   = Gauss\n|de   = Gauss\n|es   = Gauss\n|th   = Gauss\n}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

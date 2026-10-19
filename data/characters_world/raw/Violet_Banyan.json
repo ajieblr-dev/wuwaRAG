@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:56Z",
+  "title": "Violet Banyan",
+  "pageid": 5996,
+  "wikitext": "{{Location_Infobox\n|title1    = Violet Banyan\n|image     = Violet Banyan.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Dim Forest\n}}\nThe '''Violet Banyan''' is an area of [[Dim Forest]], [[Huanglong]], slightly north of the [[Giant Banyan]]. It is a large purple tree, reminiscent of a {{w|Salix_babylonica|Weeping Willow}}, with crescent moon shaped lamps hung throughout. The [[Jingle Beast]] is thought to live here.\u003cref\u003eLingyang's Companion Story: [[Wild Heart's Return]]\u003c/ref\u003e\n\n==Features==\n===Interactables===\n{{#dpl:|category= Violet Banyan Terminology|ordermethod= title}}\n\n==NPCs==\n{{NPCs by Location List|Violet Banyan}}\n\n==Other Languages==\n{{Other Languages\n|en   = Violet Banyan\n|zhs  = 紫月榕\n|zht  = 紫月榕\n|ja   = {{Rubi|紫月|しげつ}}のガジュマル\n|ko   = 자색 반얀나무\n|es   = Baniano morado\n|fr   = Banyan violet\n|de   = Violetter Banyanbaum\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Features",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Interactables",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "7"
+    }
+  ]
+}

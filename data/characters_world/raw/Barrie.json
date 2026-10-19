@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:42Z",
+  "title": "Barrie",
+  "pageid": 65812,
+  "wikitext": "{{NPC Infobox\n|image=.png\n|type=Open-World\n|nation=Lahai-Roi\n|location=Roya Frostlands\n|affiliation=Startorch Academy\n|group=\n}}\n'''{{PAGENAME}}''' is a researcher located at a Roya camp in the Roya Frostlands.\n\n{{Dialogue Start}}\n==Idle==\n:;'''Barrie''' Sir, what were the frostlands like before the Lament? Could you tell the story again?\n:;'''Orson''' Back then, the water was clear, and the air was full of peace.\n\n==Dialogue==\n:'''Barrie''' Sir, what were the frostlands like before the Lament? Could you tell the story again?\n:'''Orson''' Before the Lament... Ah. Back then, the Roya Frostlands were all fjords and vast forests. Peaceful. Serene. Endless...\n:'''Orson''' We roamed the forests and fjords, living off the land, guided by our deer. We drove our sleds through glacial valleys... \n:'''Orson''' Back then, the water was clear, and the air was full of peace... The white moon shone on the earth, holding the memories of our people...\n:'''Orson''' Then… they fell. Those \"giants.\" Like stars, crashing down upon the frostlands.\n:'''Barrie''' The Lament shifted Solaris's axis and magnetic poles. Roya forests became the new south pole. Then came the first wave of extinctions.\n:'''Barrie''' The geomagnetic chaos that followed caused satellites and space stations orbiting Solaris to fall.\n:'''Orson''' These giant wrecks became shelters from the cold for the Roya, allowing one tribe to survive.\n:'''Orson''' But as for the others... They were not so lucky... Sigh.\n:'''Barrie''' I'm sorry. I shouldn't have asked... It must be hard to talk about.\n:'''Orson''' Oh, it's all right, young man. It's just a story passed down from my great-great-grandfather...\n:'''Orson''' I've spent most of my life trudging through ice and snow. What do you think? Will I ever have a chance to see the Roya forests again?\n:'''Barrie''' Of course!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = \n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n}}\n==Change History==\n{{Change History|3.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

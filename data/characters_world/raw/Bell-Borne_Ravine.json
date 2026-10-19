@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:43Z",
+  "title": "Bell-Borne Ravine",
+  "pageid": 7661,
+  "wikitext": "{{Location_Infobox\n|title1=Bell-Borne Ravine\n|image=Bell-Borne Ravine.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Gorges of Spirits\n}}\n'''Bell-Borne Ravine''' is an area of [[Gorges of Spirits]], [[Huanglong]]. \n\n==Description==\n{{Stub}}\n\n==Features==\n===Calamity Class Enemies===\n*{{Enemy|Bell-Borne Geochelone}}\n\n===Resources=== \n*{{Item|Wintry Bell}}\n\n===Interactables===\n{{#dpl:|category = Bell-Borne Ravine Terminology|ordermethod= title}}\n\n==NPCs==\n{{NPCs by Location List|Bell-Borne Ravine}}\n\n==Other Languages==\n{{Other Languages\n|en   = Bell-Borne Ravine\n|zhs  = 鸣钟涧\n|zht  = 鳴鐘澗\n|ja   = {{Rubi|鳴鐘渓|めいしょうたに}}\n|ko   = 타종 계곡\n|es   = Barranco de la Campana\n|fr   = Etang de la clochette\n|de   = Mautstrom\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[zh:鸣钟涧]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Features",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Calamity Class Enemies",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Interactables",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "9"
+    }
+  ]
+}

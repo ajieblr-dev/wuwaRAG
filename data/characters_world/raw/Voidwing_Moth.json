@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:00Z",
+  "title": "Voidwing Moth",
+  "pageid": 40767,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Voidwing Moth\n|image         = Voidwing Moth Icon.png\n|dmgtype       = Spectro\n|echo          = Yes\n|class         = Elite\n|family        = Tacet Discord\n|group         = Threnodian Creation\n|nation        = Lahai-Roi\n}}\n{{Description|A unique, moth-like TD endemic to the Dimmr Plains, often seen in areas heavily contaminated by Voidmatter.\n}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Elite Exoswarm}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Trophies==\n{{Trophies|Voidwing Moth}} \n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES|nobold=1}} to {{Color|[[Spectro]] DMG|nobold=1}}.\u003cbr /\u003e\u003cbr /\u003eWhen the Voidwing Moth recovers from Immobilization, it cycles between the Wings Spread, Wings Folded, and Curled Up states.\u003cbr\u003eWhile in the Wings Spread state, its Vibration Strength reduces faster.\u003cbr\u003eWhile in the Wings Folded State, it takes less Vibration Strength reduction, and 30% less total DMG.\u003cbr\u003eWhile in the Curled Up state, it takes 50% more total DMG.\u003cbr\u003e\u003cbr\u003eA unique TD endemic to the Dimmr Plains, often seen in areas heavily contaminated by Voidmatter. it assumes a moth-like form with wings that shed Voidmatter particles.\u003cbr\u003eMoving with instinct under the influence of Voidmatter, these creatures were once the vanguard of Aleph-1's incursion.\u003cbr\u003eThough naturally passive, it will stop at nothing to annihilate its target once aggravated.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Voidwing Moth\n|zhs  = 迷胧幻蛾\n|zht  = 迷朧幻蛾\n|ja   = ファントムモス\n|ko   = 보이드 모스\n|fr   = Phalène du néant\n|de   = Leerenmotte\n|es   = Polilla de Vacío\n|th   = Voidwing Moth\n}}\n\n==Change History==\n{{Change History|3.3}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

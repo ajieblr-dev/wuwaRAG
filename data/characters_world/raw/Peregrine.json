@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:58Z",
+  "title": "Peregrine",
+  "pageid": 73557,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Lahai-Roi\n|location         = Solisia Landing\n|group            = \n|affiliation      = Spacetrek Collective\n|title            = \n}}\n'''{{PAGENAME}}''' is a male NPC Startorch Academy staff assisting the Dimmr Plains survey team and [[Into the Land of Paradox! (Quest)|Lumen Initiative]].\n\nHis dialogue and location changes based on the players progression of the Base Camp.\n\n==Dialogue==\n{{Dialogue Start}}\nLevel 1 Base Camp\n:;Set aside an additional 20% reserve for the Crystallized Energy Core... Water circulatory system... Normal.\n:;Comprehensive laboratory... Preliminary requirements for multi-disciplinary research met.\n:;Positioning reference station, seismographs... Calibrated.\n:{{DIcon}} What are you doing?\n:'''Peregrine:''' Oh, a student from Rabelle College... Hello there, I'm Peregrine, base station construction supervisor. You're with the expedition, right? Mind if I ask you a couple of questions?\n:'''Peregrine:''' How's the base station shaping up? Meeting your research needs? Anything we should improve?\n:{{DIcon}} Not bad. Things are really coming together.\n::'''Peregrine:''' That means a lot coming from you. Thank you for appreciating our work.\n:{{DIcon}} I'm a little disappointed in you, actually...\n::'''Peregrine:''' Uh, I'm sorry. Sucks to hear we didn't meet your expectations. We'll fix it, don't worry. Construction and logistics will be our top priority.\n:'''Peregrine:''' Frankly speaking, the Academy's throwing plenty of budget at this. But the timeline is insane. So we had to split the build to prioritize everyone's basic research needs first.\n:'''Peregrine:''' But we're already rushing to tally equipment and resource requests from all departments. I've already put in a request for more support staff and mechs to help with construction.\n:'''Peregrine:''' For the next phase, we'll definitely be making improvements to the research and accommodation experience.\n----\n;Level 2 Base Camp\n:;Thermal suits, 30 sets. Sterilized sampling kits, 128 sets...\n:;Scientific divination mechs... TWO?! Who in the void submitted this request??\n:{{DIcon}} \n:{{DIcon}} What are you doing?\n:'''Peregrine:''' Oh, it's {{Rover}}! Hello, hello! Thank you for your contributions to the Lumen Initiative!\n:'''Peregrine:''' To better meet everyone's research needs, we opened another round of supply requests. I'm going through all the applications now.\n:'''Peregrine:''' But some of these are just nonsense. Check this one out—five boxes of Midnight Wonder Cup Noodles. \"Hypothermia setting in at the Sealed Fissure. Requesting noodles to keep our research passion from freezing solid.\"\n:'''Peregrine:''' And this one: \"Need to calculate the most auspicious startup time for ideal data results. Requesting two scientific divination mechs\"... There's no way I'm approving that!\n----\n;Level 3 Base Camp\n:;5, 4, 3, 2, 1... Hahahaha! TWO HOURS!\n:;Two whole hours without any new equipment applications or feedback submissions!\n:;I can finally launch my autonomous optimization project!\n:{{DIcon}} You seem very happy.\n:'''Peregrine:''' Hahaha, you noticed! Today's been a fantastic day. After all the effort, we finally wrapped up equipment allocation and research area construction!\n:'''Peregrine:''' Now the base station and all the research teams in the field can work fully equipped and with full focus.\n:'''Peregrine:''' Experiments can start the moment they're ready. Data rolls in fast. No more waiting in line for equipment. No more hauling analysis samples all the way back to the Academy.\n:'''Peregrine:''' Before today, we could only prioritize the main control cabin's construction and keep things limping along at each research site. Manpower and resource limitations, you know? People were just making do. Not exactly inspiring...\n:'''Peregrine:''' Now everyone's research needs are met. Call me sappy, but that makes me happy! Next up, I'll be looking into improving the quality of life here at the base!\n:'''Peregrine:''' Midnight Wonder Cup Noodles, \"Munchie-More\" Noodle Buns, and new Squeezy Jelly flavors. I'm on it!\n----\n;Level 4 Base Camp\n:;Thank the heavens, I finally got this done before the deadline!\n:'''Peregrine:''' Oh, it's you, {{Rover}}. Haven't seen you in a while. Really nice to catch you before I head out.\n:{{DIcon}} Long time no see.\n:{{DIcon}} You're leaving?\n:'''Peregrine:''' Yep. Research equipment is in. Living quarters are set. Base station construction is wrapping up, too. My work here is almost done.\n:'''Peregrine:''' Don't get me wrong, watching this place go from nothing to fully operational in record time felt like one hell of an accomplishment. And seeing everyone's work and life finally on track...\n:'''Peregrine:''' But the project's timeline was ridiculous. They had us on the tightest schedule. Rush orders nonstop. I've even got gray hairs now... I think I've earned myself a proper vacation.\n:'''Peregrine:''' Once the inspection clears and I settle the remaining materials and funds, I'LL BE A FREE MAN BABY, OH YEAAAAH!\n----\n;Leve 5 Base Camp\n:;This layout. These circuit lines. The construction quality... God, I do good work. Best supervisor around.\n:{{DIcon}} What's up?\n:'''Peregrine:''' We meet again, {{Rover}}! Figured I'd take one last look around before I go, make sure nothing's missing. Also grabbing some inspiration. I plan to write up a project review during my vacation!\n:{{DIcon}} Wait, you're spending your vacation to do what?\n::'''Peregrine:''' Haha, I won't be spending all my time on the review. It'll just be a summary of some lessons learned and methodologies that can be reused for future projects.\n:{{DIcon}} You really do love your job, huh?\n::'''Peregrine:''' Of course! Doing construction in Lahai-Roi, especially in an extreme environment like the Dimmr Plains, is genuinely fascinating.\n:'''Peregrine:''' Environmental protection has to come first. Always. Gotta protect the local ecosystem...\n:'''Peregrine:''' The Dimmr Plains have been isolated for so long. It's a closed ecosystem. Outside personnel and building materials could have a huge impact on local life.\n:'''Peregrine:''' So we utilized \"trace-free construction.\" Prefabricated components wherever possible. Helped us cut down on on-site concrete work...\n:'''Peregrine:''' Anyway, applying this experience to future projects will save me a ton of time and effort down the road.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = \n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n}}\n==Change History==\n{{Change History}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

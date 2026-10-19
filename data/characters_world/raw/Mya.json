@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:42Z",
+  "title": "Mya",
+  "pageid": 31472,
+  "wikitext": "{{About|the [[NPC]]|the [[Boss]]|Lady of the Sea}}\n{{NPC Infobox\n|name             = Mya\n|title            = Bloody Agon\n|image            = Mya In-game.png\n|type             = Quest\n|type2            = Resonator\n|nation           = Rinascita\n|location         = \n|group            = Gladiator\n|affiliation      = Septimont\n|affiliation2     = \n|relative         = Leviathan\n|relativeNote     = Creator\n|sibling          = Cartethyia\n|siblingNote      = \"Sister\"/Fellow creation of Leviathan \n|status           = Deceased\u003cbr\u003eStabbed herself to resist [[Leviathan]]'s corruption 20 years ago.\n|title2           = [[Lady of the Sea]]\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = [[imdb:nm3997487|Holly-Marie Michael]]\u003cref\u003eInstagram: [https://www.instagram.com/p/DSkwvraDF_g/ EN VA Self Announcement]\u003c/ref\u003e\n|voiceCN          = \n|voiceJP          = {{w|ja:折原くるみ|Orihara Kurumi ({{Lang|mini=1|ja=折原くるみ}})}}\u003cref\u003eX: [https://x.com/orihara_963/status/1935285274038387179 JP VA Self Announcement]\u003c/ref\u003e\n|voiceKR          = \n}}{{Description|{{A|Vo main ryam 50 8.ogg}} ''And... I want to be seen! To hear them cheer for me! Their laughter, their cheers... I wanna win! I wanna win so, so bad!''|Mya, [[Shadow of Glory]]}}\n'''Mya''' {{Lang|zh=蜜芽}} is a quest-exclusive [[NPC]] that first appears in {{Quest|Shadow of Glory}}. \n\nShe participated in a past [[Great Agon]] held prior to the implementation of the two-on-two match style, but did not claim her title despite being victorious, leaving that year without an official champion. Before her disappearance, however, she did claim the title of \"Bloody Agon\".\n\n==Profile==\nShe was created by [[Leviathan]], who sought a [[Threnodian]] [[Resonator]], but deemed her as a failure.\n\nImplanted with memories of being originally born in [[Ragunna]], Mya had travelled to Septimont at a young age and became a gladiator there. To avoid drawing attention to her faith as a follower of the [[Order of the Deep]], she had the gem from her jewelry removed and melted down the gold to reforge it into a gladiator helmet. It was further elaborated on that, at the end of {{Quest|Flames of Heart}}, this gem contained the remaining energy of the [[Threnodian]] [[Leviathan]], causing it to become sought after by [[Rover]], [[Phrolova]], and the [[Order of the Deep]]. However, it eventually fell under the possession of [[Cristoforo]] during the conclusion of {{Quest|Dreamcatchers in the Secret Gardens}}.\n\nAs a gladiator, Mya faced great hardship and mistreatment from people in Septimont, with the Senate distracting the masses by shifting their attention and anger towards her, as well as having an exploitative manager, but she never turned against the people, despite Leviathan's attempts at manipulating her.  \n\n===Resonance===\nMya was a [[Resonator]], with her [[Tacet Mark]] being located on the right side of her face, on her forehead above her right eyebrow. Despite being the creation of [[Leviathan]], her resonance abilities are described as having been very weak, and as a gladiator, she had to train excessively in order to perform well.\n\n==History==\nRoughly twenty years prior to the main story, she would go on to win the [[Great Agon]] as a gladiator. [[Leviathan]], who wished to find Septimont's Central Hub and corrupt the Beacon system, set its sights on Mya and began taking over her body and mind. \n\nIn order to resist the Threnodian and its attempts to take over her mind, Mya stabbed herself with her sword and subsequently leapt into the ocean around Septimont – her body being lost to the sea and marking the end of her life. Her body was later recovered by [[Julia Silva]], head of [[House Silva]], who handed her over to [[Cristoforo]] and the [[Fractsidus]] as part of a deal. The Fractsidus then preserved her corpse and began to run experiments until, eventually, the Threnodian's essence that was still lingering within her body reawakened with the [[Avinoleum|tower's]] resurgence in the world following Cartethyia breaking free after the events of {{Quest|The Maiden, The Defier, The Death Crier}}.\n\nThis caused her corpse to become possessed by the Threnodian and transform into the [[Lady of the Sea]].\n\nIn the present, Cartethyia first encounters the Lady of the Sea in a flashback sequence after destroying the incubator containing her. As Rover discovers more about Mya's fate, the Lady of the Sea momentarily appears to them in place of [[Lupa]] while traveling with her to the [[Vale of Glory]]. \n\nUpon entering the Central Hub, Lupa is revealed to be possessed by the Lady of the Sea and was planned to have been corrupted by Leviathan in the same way, but is freed from its control with Rover's Aero abilities. Rover then separates Lupa from the time loop created by Cristoforo's Resonance ability to fend off the Lady of the Sea. Afterwards, Lupa drains the flooded regions of [[Capitoline Hill City]] to access Minos Sewers, where the Lady of the Sea's incubator was located. Lupa and Rover then slay the Lady of the Sea at the same time in both the real world and in Cristoforo's time loop, finally freeing Mya's Reverberation from Leviathan's control.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Gallery== \n{{Files by Character Gallery|not1=Mya Videos}}\n===Videos===\n{{Files by Character Gallery|Mya Videos}}\n\n==Mentions==\n{{Character Mentions}}\n\n==Other Languages ==\n{{Other Languages\n|en   = Mya\n|zhs  = 蜜芽\n|zht  = 蜜芽\n|ja   = ミア\n|ko   = 미아\n|fr   = Mya\n|de   = Mya\n|es   = Mya\n}} \n\n==Change History==\n{{Change History|2.4}}\n\n==References==\n{{Reflist}}\n[[zh:蜜芽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "4.1",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Voicelines",
+      "number": "5.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "10"
+    }
+  ]
+}

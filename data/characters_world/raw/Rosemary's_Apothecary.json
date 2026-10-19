@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:14Z",
+  "title": "Rosemary's Apothecary",
+  "pageid": 26395,
+  "wikitext": "{{Location Infobox\n|image        = Rosemary's Apothecary.png\n|icon         = Pharmacy Map Marker.png\n|type         = Point of Interest\n|type2        = Pharmacies\n|nation       = Rinascita\n|region       = Ragunna City\n|area         = City Square\n|description  = Rosemary's Apothecary is known for its artful blending of medicine and poison. The owner, Rosemary, is a skilled Fisalia pharmacist, yet whispers surrounding the Fisalia family have kept many Ragunnesi wary, leaving her shop paricularly lack of customers.\n}}\n'''Rosemary's Apothecary''' is a pharmacy owned by [[Rosemary]].\n==Shop==\n{{Vendor|Rosemary}}\n==Other Languages==\n{{Other Languages\n|en   = Rosemary's Apothecary\n|zhs  = 药剂商店「迷迭香」\n|zht  = 藥劑商店「迷迭香」\n|ja   = 薬屋「ローズマリー」\n|ko   = 약제점 「로즈메리」\n|es   = Botica Romero\n|fr   = Pharmacie de Romarin\n|de   = Rosmarin Apotheke\n|th   = \n|pt   = \n}}\n==Change History==\n{{Change History|2.0}}\n==References==\n{{Reflist}}\n==Navigation==\n{{PoI Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:24Z",
+  "title": "Fagaceae Peninsula",
+  "pageid": 25641,
+  "wikitext": "{{stub}}\n{{Location_Infobox\n|title  = Fagaceae Peninsula\n|image  = Fagaceae Peninsula.png\n|map    = Solaris-3\n|type   = Region\n|nation = Rinascita\n}}\n{{Intro/Location|Fagaceae Peninsula}} This peninsula thick with oak trees was once where Rinascita's rulers gathered for secret councils. The Oracles carved into the stone and trees have withstood the passage of time, though their messages are now nearly impossible to distinguish.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Oakheart Highcourt\"\n|[[Oakheart Highcourt]]\n|[[File:Oakheart Highcourt.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Oakheart Highcourt: Lower Tier\"\n|[[Oakheart Highcourt: Lower Tier]]\n|[[File:Oakheart Highcourt Lower Tier.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Coast of Anticipation\"\n|[[Coast of Anticipation]]\n|[[File:Coast of Anticipation.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Shores of Last Breath\"\n|[[Shores of Last Breath]]\n|[[File:Shores of Last Breath.png|180px]] \u003cbr /\u003e\n|}\n\n==Quests==\n{{Quest by Category List|Fagaceae Peninsula Quests}}\n\n== Exploration Report ==\n\n=== '''May the Sentinel Bless Rinascita I''' ===\n* Unlocked by reaching 50% exploration.\n\n{{Transclude|May the Sentinel Bless Rinascita I|Text|main=1}}\n\n=== '''May the Sentinel Bless Rinascita II''' ===\n* Unlocked by reaching 100% exploration.\n\n{{Transclude|May the Sentinel Bless Rinascita II|Text|main=1}}\n\n==Notable Features==\n===Tacet Fields===\n* [[Tacet Field: Fagaceae Peninsula]]\n===Bosses===\n* {{Enemy|Nightmare: Tempest Mephis}}\n===Resources===\n\n==Other Languages==\n{{Other Languages\n|en   = Fagaceae Peninsula\n|zhs  = 槲生半岛\n|zht  = 槲生半島\n|ja   = ブナ半島\n|ko   = 미슬토 반도\n|es   = Península Fagaceae\n|fr   = Péninsule des Fagacées\n|de   = Halbinsel Fagaceae\n|th   = \n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eMay the Sentinel Bless Rinascita I\u003c/b\u003e",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eMay the Sentinel Bless Rinascita II\u003c/b\u003e",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tacet Fields",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.3",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "12"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:22Z",
+  "title": "Lil. Ling",
+  "pageid": 5907,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Lil ling.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Lil. Ling''' is an NPC in {{Location|Jinzhou}}.\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the day)\n:'''Lil. Ling:''' Hmm... Mr. [[Baisong|Bosong]] always tells me to play with everyone more.\n:'''Lil. Ling:''' But I really like to play with Ms. Yuyi...\n:'''Lil. Ling:''' But I haven't seen Ms. Yuyi for a long time. I wonder how she's doing... Ms. Yuyi is a very good teacher.\n:'''Lil. Ling:''' But- but Mr. Bosong is also very kind! Alright, I guess I can join [[Xinxin]] and her friends next time if it can keep Mr. Bosong from worrying.\n----\n;(During the evening)\n:'''Lil. Ling:''' Mr. Bosong, you look unhappy.\n:{{DIcon}} What's wrong?\n:'''Lil. Ling:''' Look, Mr. Bosong is over there. He always alone at night.\n:'''Lil. Ling:''' Though I'm used to this solitude, it feels different now.\n:'''Lil. Ling:''' Did we make him angry? But recently, Ling'er has been a good girl. Or is it because Ms. Yuyi hasn't come back yet?\n:'''Lil. Ling:''' But Mr. Bosong said that Ms. Yuyi had gone on an official trip.\n:'''Lil. Ling:''' Then Ms. Yuyi will come back in a while, right? Why is Mr. Bosong still sad?\n:'''Lil. Ling:''' Is the reason why Mr. Bosong is sad because Mr. Bosong is actually afraid of being alone? I see it now!\n:'''Lil. Ling:''' Ms. Yuyi, Ms. Yuyi, please come back soon, so Mr. Bosong won't be sad when he's alone.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lil. Ling\n|zhs  = 铃儿\n|zht  = 鈴兒\n|ja   = 鈴\n|ko   = 하나\n|es   = Lil. Ling\n|fr   = Lil. Ling\n|de   = Kleiner Ling\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

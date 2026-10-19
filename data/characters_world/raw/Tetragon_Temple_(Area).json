@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:43Z",
+  "title": "Tetragon Temple (Area)",
+  "pageid": 36353,
+  "wikitext": "{{About|the [[Area]]|the Faction|Tetragon Temple}}\n{{Location Infobox\n|title     = Tetragon Temple\n|image     = Tetragon Temple Area.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Rinascita\n|region    = Sanguis Plateaus}}\n{{Description|Tetragon Temple, home to Septimont's Priestesses, serves as a santurary for observing fates and transcribing oracles. Legends tell of their eyes, which can trace trails through fire to reveal the threads of the future. Blessed with this innate sight, the Priestesses' revelations carry unshakable authority. They may not perceive all, but what they do see is always true.}}\n\n'''Tetragon Temple''' is an area of [[Sanguis Plateaus]], [[Rinascita]].\n\n== NPCs ==\n{{NPCs by Location List|Tetragon Temple (Area)}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Tetragon Temple\n|zhs  = 四方殿\n|zht  = 四方殿\n|ja   = テトラゴン{{Rubi|真殿|しんでん}}\n|ko   = 테트라고노 성전\n|es   = Templo Tetrágono\n|fr   = Temple tétragone\n|de   = Vierecktempel\n}}\n\n== Change History ==\n{{Change History|2.6}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

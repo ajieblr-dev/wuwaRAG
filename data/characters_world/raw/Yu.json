@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:13Z",
+  "title": "Yu",
+  "pageid": 5324,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Yu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Yu''' is an NPC in [[Huanglong]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Yu:''' Grandma's always trying to have me to sign up for the Rangers. Telling me how I should look up to my older sister more.\n:'''Yu:''' But I want to stay home. Where I can be there for her if something happens.\n:{{DIcon}} Mrs. Jué really has it thought out.\n::'''Yu:''' I know. Grandma always talks about how, \"only when a nation is at peace, can families be at peace\". But I can't just leave her by herself.\n:{{DIcon}} Good point.\n:'''Yu:''' That's right. I've been learning boxing from Mister [[Yuanwu]] lately. I've got enough skills to protect Grandma against anything!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yu\n|zhs  = 阿宇\n|zht  = 阿宇\n|ja   = 宇\n|ko   = 아유\n|es   = Yu\n|fr   = Yu\n|de   = Yu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

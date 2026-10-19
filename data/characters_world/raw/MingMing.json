@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:36Z",
+  "title": "MingMing",
+  "pageid": 35745,
+  "wikitext": "{{For|the child Mingming (铭铭)|Mingming}}\n{{NPC Infobox\n|image            = NPC Mingming.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Jinzhou\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|siblingNote      = \n|child            = \n|relative         = \n|relativeNote     = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Mingming''' a male NPC who is part of the [[Ministry of Development|Defense Division]] that [[Taoqi]] works in. He can be found at the loading dock below [[Jinzhou City Hall]] during the day.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Mingming:''' You know- if the Midnight Rangers protect the city from the outside, then we at the Defense Division support the city by maintaining its stability from the inside.\n:'''Mingming:''' Everything you see, from the shield over our heads to the high-precision instruments deployed on every street, are the work of the people who came before us.\n:'''Mingming:''' I wonder when I will be able to catch up with them, especially Senior Taoqi!\n:'''Mingming:''' Although She has a nonchalant air around her like she's trying to slack off, she always notices the things that everyone else overlooks.\n:'''Mingming:''' I am wondering if Taoqi's \"slow response\" is deliberate. \n:'''Mingming:''' This way, there is more time to see what is happening around you. Should I also try to learn it?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Mingming\n|zhs  = 明明\n|zht  = 明明\n|ja   = 明明（メイメイ）\n|ko   = 명진\n|es   = Mingming\n|fr   = Mingming\n|de   = Mingming\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

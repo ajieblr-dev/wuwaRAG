@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:55Z",
+  "title": "Ceres",
+  "pageid": 36702,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Septimont\n|group            = \n|affiliation      = \n|title            = \n}}\n'''Ceres''' is a female NPC found talking to a former priestess, '''Séraphine''' in [[Capitoline Hill City]].\n\n{{Dialogue Start}}\n==Dialogue==\n;(Talk to Ceres)\n:'''Ceres''': Séraphine, please... I've gone to great lengths just to find you and ask you to interpret this prophecy for me.\n:'''Ceres''': Please offer me revelation, show me the answer, and help me find the way...\n:'''Séraphine''': I'm sorry, Ceres. But I'm afraid you've got the wrong person.\n:'''Ceres''': Impossible. Your every expression and gesture tells me that you're a Priestess!\n:'''Séraphine''': That's all in the past now, Ceres. I sacrificed my light to peer into fate, but now, I've grown afraid of it. I've seen too much, and can no longer perceive the revelations... I'm not the person you're looking for.\n:'''Ceres''': B-But what am I...\n:'''Séraphine''': If revelation is what you seek, then travel to where the moonlight shines the brightess—Priestess [[Iuno]].\n:'''Ceres''': Iuno...\n:'''Séraphine''': Yes, she bears the gift. She sees everything...\n----\n==Spoiler for Act VIII: [[By Moon's Fated Light]]==\n;(After completing [[By Sun's Burning Hand]])\n:'''Ceres''': Séraphine, please... I've gone to great lengths just to find you and ask you to interpret this prophecy for me.\n:'''Ceres''': Please offer me revelation, show me the answer, and help me find the way...\n:'''Séraphine''': I'm sorry, Ceres. But I'm afraid you've got the wrong person.\n:'''Ceres''': Impossible. Your every expression and gesture tells me that you're a Priestess!\n:'''Séraphine''': That's all in the past now, Ceres. I sacrificed my light to peer into fate, but now, I've grown afraid of it. I've seen too much, and can no longer perceive the revelations... I'm not the person you're looking for.\n:'''Ceres''': B-But what am I...\n:'''Séraphine''': If revelation is what you seek, than you should consult with  Grandmother [[Lillibet]].\n:'''Séraphine''': But... Strange. Why is...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ceres\n|zhs  = 克瑞斯\n|zht  = 克瑞斯\n|ja   = クリス\n|ko   = 케레스\n|es   = Ceres\n|fr   = Ceres\n|de   = Ceres\n}}\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Spoiler for Act VIII: By Moon's Fated Light",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

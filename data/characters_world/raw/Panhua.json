@@ -1,0 +1,100 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:57Z",
+  "title": "Panhua",
+  "pageid": 2143,
+  "wikitext": "{{NPC Infobox\n|image            = Panhua Game.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = Panhua's Restaurant Owner\n\n\u003c!-- Family --\u003e\n|relative         = [[Chixia]]\n|relativeNote     = niece\n|relativeRef      = \u003cref\u003eBuling's Character Story: [[Buling/Backstory#Character Stories|The Patroller and the Taoist]]\u003c/ref\u003e\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Panhua''' is a shop NPC in [[Jinzhou]]. She is the owner of [[Panhua's Restaurant]].\n\n==Shop==\n{{Shop/Wrapper|\n{{Shop|Jinzhou Skewers|3,000|∞|total=1}}\n{{Shop|Stuffed Flatbread|3,000|∞|total=1}}\n{{Shop|Perilla Salad|3,000|5|total=1}}\n{{Shop|Spicy Pulled Chicken|3,000|5|total=1}}\n{{Shop|Loong Whiskers Crisp|6,000|5|total=1}}\n{{Shop|Loong Bun|6,000|5|total=1}}\n{{Shop|Jinzhou Stew|6,000|5|total=1}}\n{{Shop|Loong Whiskers Crisp Recipe|10,000|1|total=1}}\n{{Shop|Loong Bun Recipe|10,000|1|total=1}}\n{{Shop|Jinzhou Stew Recipe|10,000|1|total=1}}\n{{Shop|Star Flakes Recipe|15,000|1|total=1}}\n|total=165,000+|vendor=Panhua|type=Restaurant}}\n\n==Quests and Events==\n{{Quests and Events|Panhua}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Panhua:''' You're here for some grub? Finally found the time to drop by today, huh?\n:{{DIcon}} Let me check the menu first\n:{{DIcon}} Gourmet Rumors\n::'''Panhua:''' Clear soup? Oh, you mean broth, right?\n::'''Panhua:''' You've asked the right person. The secret is just one thing: [[salt]]!\n::'''Panhua:''' Without salt, even the best ingredients won't make tasty broth.\n::'''Panhua:''' If the salt is right, the soup is perfect!\n:{{DIcon}} Chat\n::'''Panhua:''' Hmm, I've been trying out a new recipe lately. Well, somewhat new-ish.\n::'''Panhua:''' Life used to be tough for us before coming to Jinzhou. We had to do whatever we could to feed ourselves.\n::'''Panhua:''' Our Ma Xiaofang was just a child then, but she was always so kind and selfless. She gave as much of her food to the elderly as she could.\n::'''Panhua:''' It broke my heart to see her go hungry at times. But one day, I managed to catch a wild rabbit and made a stew with some fresh greens for her. I still remember that smile on her face to this day.\n::'''Panhua:''' And now, our Xiaofang... Should I call her [[Chixia]] now? She's all grown up and even works as a Patroller! She dropped by recently and told me how she missed that stew.\n::'''Panhua:''' So I thought it would be nice to recreate it and relive those flavors together.\n----\n::'''Panhua:''' How to make food taste better? Well, buckle up, you're in for a treat. \n::'''Panhua:''' Heat control, choice of spices, when you should turn up the heat for stir-fry, when to slow cook your stew... Every detail matters.\n::'''Panhua:''' Mahe would say it's important to get fresh ingredients, and he's right on that, but seasoning is even more important. \n::'''Panhua:''' At my restaurant, nothing less than perfection is acceptable. Seasoning is crucial for a good dish! Mahe... He just won't get it.\n::'''Panhua:'''Well, he does make some good fish soup, though...\n:{{DIcon|Exit}} Leave \n{{Dialogue End}}\n\n==Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|1_en   = Panhua\n|1_zhs  = 攀花\n|1_zht  = 攀花\n|1_ja   = 攀花（パンファ）\n|1_ko   = 판화\n|1_es   = Panhua\n|1_fr   = Panhua\n|1_de   = Panhua\n\n|2_en   = Panhua's Restaurant Owner\n|2_zhs  = 「攀花饭馆」店主\n|2_zht  = 「攀花飯館」店主\n|2_ja   = 「攀花食堂」店主\n|2_ko   = 「판화반점」 사장\n|2_es   = Dueña del Restaurante de Panhua\n|2_fr   = La gérante du Restaurant de Panhua\n|2_de   = Besitzerin von Restaurant Panhua\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tutorial Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Panhua",
+      "number": "5.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Panhua's Restaurant Owner",
+      "number": "5.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

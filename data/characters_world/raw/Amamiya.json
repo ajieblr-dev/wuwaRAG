@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:34Z",
+  "title": "Amamiya",
+  "pageid": 22075,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = Amamiya.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Black Shores Archipelago\n|group            = \n|affiliation      = Black Shores\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Amamiya''' is an NPC.\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events|Amamiya}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''KU-Clinic:''' How many moons are there in the sky?\n:'''Amamiya:''' One... Can you stop asking me these weird questions? My head hurts...\n:'''KU-Clinic:''' Is water toxic or non-toxic?\n:'''Amamiya:''' Are you serious? Non-toxic.\n:'''KU-Clinic:''' Is the [[Shorekeeper]] male or female?\n:'''Amamiya:''' How am I supposed to know? I've never met them before!\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Amamiya:''' W-wait a second... Is this person here real or simulated?\n:{{DIcon}} Of course I'm real.\n:{{DIcon}} Yeah, I'm totally fake.\n::'''Amamiya:''' Ahhhhh!\n:'''KU-Clinic:''' Don't worry, (he's/she's) real.\n:'''KU-Clinic:''' Your treatment isn't finished yet. Please stay still.\n:{{DIcon}} What happened to him?\n:'''KU-Clinic:''' Amamiya, field agent. The preliminary diagnosis is mild reality perception disorder. In other words, the patient may feel like their surroundings aren't real.\n:'''KU-Clinic:''' Most of our members are experiencing this because the Tethys' reality Anchors are unstable.\n:'''Amamiya:''' No wonder I've had a stomachache and headache ever since I got out of the underground area.\n:'''KU-Clinic:''' Wait... Is this pain even real, or...?\n:'''KU-Clinic:''' It's real, trust me.\n:'''Amamiya:''' Darn it! I've only been to the [[Black Shores]] for a few days... Useless me!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Amamiya\n|zhs  = 雨宫\n|zht  = 雨宮\n|ja   = 雨宮\n|ko   = 우궁\n|es   = Amamiya\n|fr   = Amamiya\n|de   = Amamiya\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

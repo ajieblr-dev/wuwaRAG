@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:44Z",
+  "title": "Ginnungamere",
+  "pageid": 39799,
+  "wikitext": "{{Location Infobox\n|title     = Ginnungamere\n|image     = Ginnungamere.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Roya Frostlands\n|region    = Mount Gjallar\n}}\n{{Quote|\"The second was a great lake—the largest in ancient Lahai-Roi and the most vital source of fresh water for the people. It was called Ginnungamere, meaning \"the boundless waters.\"\"|[[An Introduction to Lahai-Roi Historical Geography - Excerpt I]]}}\n'''Ginnungamere''' is an area of [[Mount Gjallar]], [[Roya Frostlands]]. \n\n==NPCs==\n[[Aemeath]] NPC is located here after completing a special interaction in the frost-land beach.\n\n==Other Languages==\n{{Other Languages\n|en   = Ginnungamere\n|zhs  = 渐湖\n|zht  = 漸湖\n|ja   = ギンヌンガミール\n|ko   = 긴눙가미어\n|fr   = Ginnungamere\n|de   = Ginnungamere\n|es   = Ginnungamere\n|th   = ทะเลสาบกินนุงกาเมียร์\n|pt   = Ginnungamere\n}}\n\n==Change History==\n{{Change History|3.1}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

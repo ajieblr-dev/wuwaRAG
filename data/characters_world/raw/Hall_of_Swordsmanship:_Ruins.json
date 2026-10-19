@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:49Z",
+  "title": "Hall of Swordsmanship: Ruins",
+  "pageid": 31934,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Hall of Swordsmanship: Ruins\n|image     = Hall of Swordsmanship Ruins.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Rinascita\n|region    = Avinoleum}}\n'''Hall of Swordsmanship: Ruins''' is an area of [[Avinoleum]], [[Rinascita]].\n\n\n== Other Languages ==\n{{Other Languages\n|en   = Hall of Swordsmanship: Ruins\n|zhs  = 剑授大厅・遗址\n|zht  = 劍授大廳・遺址\n|ja   = {{rubi|剣授|けんじゅ}}ホール・遺跡\n|ko   = 영예의 방 ・ 유적\n|es   = Salón de la Esgrima: Ruinas\n|fr   = Ruines de la Salle d'adoubement\n|de   = Relikte: Halle der Schwertkunst\n}}\n\n== Change History ==\n{{Change History|2.2}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

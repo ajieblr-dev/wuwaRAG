@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:13Z",
+  "title": "Diamondclaw",
+  "pageid": 23151,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Diamondclaw\n|title=\n|image=Diamondclaw Icon.png\n|dmgtype=Physical\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Howler\n|nation=Huanglong\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A Common Class Howler TD living in obscured environments. Records show that it possesses an impressive counterattack ability.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Howler}}\n\n==Stats==\n{{Enemy Stats|Diamondclaw}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Diamondclaw|customheader=Diamondclaw}}\n\n==Description==\n{{Description|Scorpion-like animals found mostly in dim areas. Their thick, hard crystal claws are deadly weapons against enemies.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Diamondclaw\n|zhs  = 晶螯蝎\n|zht  = 晶螯蠍\n|ja   = 結晶化サソリ\n|ko   = 결정화 전갈\n|es   = Garra de Diamante\n|fr   = Scorpion cristallin\n|de   = Diamondclaw\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

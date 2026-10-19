@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:46Z",
+  "title": "Gondola Market",
+  "pageid": 26318,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|title            = Grocery Store\n|image            = NPC Gondola Market.png\n|type             = Open-World\n|type2            = Echo\n|nation           = Rinascita\n|location         = City Square\n|affiliation      = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}'''Gondola Market''' is an [[Echo]] [[Shop]] NPC in {{Location|Ragunna}}.\n==Shop==\n{{Shop/Wrapper|currency=Shell Credit|note=Unlock Conditions|\n{{Shop|Flour|500|50|total=1}}\n{{Shop|Cooking Oil|500|50|total=1}}\n{{Shop|Sugar|500|50|total=1}}\n{{Shop|Milk|500|50|total=1}}\n{{Shop|Salt|500|50|total=1}}\n{{Shop|Vinegar|500|50|total=1}}\n{{Shop|Chili|500|50|total=1}}\n{{Shop|Beans|500|50|total=1}}\n{{Shop|Animal Fat|500|50|total=1}}\n{{Shop|Sea Bunny Meat|500|50|total=1}}\n{{Shop|Bell Crab|500|50|total=1}}\n{{Shop|Sunflare Everlasting|500|50|total=1}}\n{{Shop|Viscum Berry|500|50|total=1}}\n{{Shop|Heliobane Fungia|500|50|total=1}}\n{{Shop|Felicitous Olives|500|50|total=1}}\n|total=4,730+|vendor=Gondola Market|type=grocery}}\n==Dialogue==\n{{Dialogue Start}}\n:{{DIcon}} Gondola Market\n:;(Opens [[shop]])\n:;The Gondola lowers itself slightly, making it easier for you to browse the wide array of goods on its back.\n{{Dialogue End}} \n==Quests and Events==\n{{Quests and Events|Gondola Market}}\n==Location==\n==Other Languages==\n{{Other Languages\n|1_en   = Gondola Market\n|1_zhs  = 贡多拉水市\n|1_zht  = 貢多拉水市\n|1_ja   = ゴンドラ水上市場\n|1_ko   = 곤돌라 수상 시장\n|1_es   = Mercado Góndola\n|1_fr   = Marché de la Gondole\n|1_de   = Gondel-Markt\n\n|2_en   = Grocery Store\n|2_zhs  = 食材商店\n|2_zht  = 食材商店\n|2_ja   = 食材ショップ\n|2_ko   = 식자재 상점\n|2_es   = Tienda de comida\n|2_fr   = Boutique d'Ingrédients\n|2_de   = Lebensmittelgeschäft\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Gondola Market",
+      "number": "5.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Grocery Store",
+      "number": "5.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

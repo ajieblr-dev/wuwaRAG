@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:05Z",
+  "title": "Jingran",
+  "pageid": 41349,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}} \n\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|status           = Alive\n|rarity           = 5\n|class            = Natural\n|weapon           = Broadblade\n|role             = Main Damage Dealer;Heavy Attack Damage\n|resonancemode    = \n|attribute        = Fusion\n|releaseDate      = 2026-09-10\n\n\u003c!-- Info --\u003e\n|name             = Jingran\n|title            = Nether Qi Art\n|gender           = Male\n|birthday         = \n|birthplace       = Huanglong\n|nation           = Huanglong\n|affiliation      = Nethermancer\n|affiliation2     = Zhuojun Atelier \n|affiliationNote2 = formerly\n|affiliation3     = Mengzhou\n|sigil            = \n|dish             = Moonlit Splendor\n|obtain           = Where Santu Beckons \n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm9201280|Vincent Lai]]\u003cref name=\"Jingran-Bili\" /\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/秦且歌 Qin Qiege ({{Lang|mini=1|zh=秦且歌}})]\u003cref name=\"Jingran-Bili\"\u003eBilibili: [https://t.bilibili.com/1244789798513672265 《鸣潮》共鸣者战斗演示 | 景燃 ]\u003c/ref\u003e\n|voiceJP          = {{w|Kengo Kawanishi|Kawanishi Kengo ({{Lang|mini=1|ja=河西 健吾}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/2085673555648508357 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/이경태(성우) Lee Kyungtae ({{Lang|mini=1|zh=이경태}})]\u003cref name=\"Jingran-Bili\" /\u003e\n}}\n{{Quote|Straight to the underworld... Couldn't have asked for better.|Jingran}}\n{{Intro/Resonator|Jingran|lang=zh=景燃}}\n\n==Combat Overview==\n{{Main|Jingran/Combat}}\n\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Jingran|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jingran\n|zhs  = 景燃\n|zht  = 景燃\n|ja   = 景燃（ジンラン）\n|ko   = 경연\n|fr   = Jingran\n|de   = Jingran\n|es   = Jingran\n|th   = Jingran\n|pt   = Jingran\n}}\n\n==Change History==\n{{Change History|introduced=3.5|3.6}}\n\n==References==\n{{Reflist|2}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[ru:Цзин Жань]]\n[[zh:景燃]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "3.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

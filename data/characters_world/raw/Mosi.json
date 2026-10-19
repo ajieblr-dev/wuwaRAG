@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:40Z",
+  "title": "Mosi",
+  "pageid": 26194,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Mosi.png\n|title            = \n|type             = Open-World\n|nation           = Rinascita\n|location         = Fool's Elysium\n|group            = \n|affiliation      = Troupe of Fools\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Mosi''' is an [[NPC]] in {{Location|Fool's Elysium|nocat=1}} and a member of the [[Troupe of Fools]]. He can be seen talking with [[Barton]] during the day.\n\n==Quests and Events==\n''(Not in any quest or event yet)'' \u003c!-- Remove if the NPC appears in any quest/events --\u003e\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Mosi:''' Have you finished reading the Order's new play? What do you think?\n:'''Barton''' Same tired themes again. Praising the doctrine, dictating morality... Always painting those sent on the Pilgrim's Sail as the scum of the earth.\n:'''Mosi:''' Exactly! By the end of it, I almost felt like marching straight back to the city and slapping every one of them, just to show them how ridiculous their little play really is.\n:'''Barton''' If all we're after is revenge, might as well join Aldric and become pirates. Go after Ragunna's merchant ships, raid the Order's Acolytes, take whatever we want.\n:'''Barton''' But that'd make us no better than the heretics they love to write about in their dramas.\n:'''Barton''' There would be no turning back. We'd have no voice left, no way to clear our names or expose Fenrico's lies.\n:'''Barton''' We'd just have to watch everyone we love become tools used by the Order.\n:'''Mosi:''' ...That's not the life I want.\n:'''Mosi:''' I still want our story to be seen. The real story. Let the world see who we truly are.\n:'''Barton''' Alright then, Mask up. Let's run through another scene.\n:'''Barton''' This Carnevale, we aren't who we used to be in Ragunna—we're the Fools who fight for equality, for freedom. That's who we must become.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Mosi\n|zhs  = 莫西\n|zht  = 莫西\n|ja   = モシ\n|ko   = 모시\n|es   = Mosi\n|fr   = Mosi\n|de   = Mosi\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

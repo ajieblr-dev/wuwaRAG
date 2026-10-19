@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:37Z",
+  "title": "Ministry of War",
+  "pageid": 37605,
+  "wikitext": "{{Stub}}\n{{Faction Infobox\n|title    = Ministry of War\n|image    = Ministry of War Emblem.png\n|leader   = \n|base     = \n|nation   = Huanglong\n|region   =\n}}\n\nThe Ministry of War is one of the governing bodies of the nation of [[Huanglong]]. Its highest official, the Minister of War, has the honorary title of Grand Marshal. The current Grand Marshal, who put the execution order out on [[Scar]], is a woman.\n==Resonators==\n===Playable===\n{{Resonators by Category Table|Playable Resonators\u0026Ministry of War}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ministry of War\n|zhs  = 军策府\n|zht  = 軍策府\n|ja   = 軍策府\n|ko   = 군책부\n|fr   = Ministère de l'Armée\n|de   = Kriegsministerium\n|es   = Ministerio de Guerra\n|th   = กระทรวงการสงคราม\n}} \n\n==Navigation==\n{{Faction Navbox}}\n[[zh:军策府]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resonators",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Playable",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "4"
+    }
+  ]
+}

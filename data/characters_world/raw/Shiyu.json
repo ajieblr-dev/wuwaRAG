@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:25Z",
+  "title": "Shiyu",
+  "pageid": 4255,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Shiyu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          = [[Shixia]]\n|child            = \n|relative         =\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Shiyu''' is an NPC resonator in {{Location|Jinzhou}}. \n\n==Profile==\nShe is first introduced by her sister [[Shixia]] in \"The Past is the Future: Introduction\" side quest. Unlike her sister, she is born with a gift as a resonator. While her sister lives as a normal [[Jinzhou]] kid, studies hard, gets the best grade, achieves her goals, and gets the best job, Shiyu lives as a resonator and walked a different path. She's already quite skilled and further trained her martial arts. Traveling through [[Huanglong]] is also one of her paths. Now, she became one of the [[Midnight Rangers]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Shiyu:''' I don't recall Liondance Troupe putting on a show for a while. What a pity...\n:'''Shiyu:''' Ah, someone's coming.\n:{{DIcon}} You want to see the Liondance Troupe's peformance?\n::'''Shiyu:''' Yes, yes! Do you also like the Liondance Troupe?\n::'''Shiyu:''' My wish is that, one day, I can just get off work, stroll into this theater, and kick back and watch a performance by the Liondance Troupe without distruptions.\n::'''Shiyu:''' That would be great! But I have to finish my work first, everyone is still waiting for me!\n:{{DIcon}} I'm just passing by.\n::'''Shiyu:''' Sure! But perhaps it's better that you don't run around or make a lot of noise.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Shiyu\n|zhs  = 诗雨\n|zht  = 詩雨\n|ja   = 詩雨（シウ）\n|ko   = 시우\n|es   = Shiyu\n|fr   = Shiyu\n|de   = Shiyu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

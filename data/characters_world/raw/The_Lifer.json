@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:43Z",
+  "title": "The Lifer",
+  "pageid": 34729,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC The Lifer.png\n|type             = Exploration\n|nation           = Rinascita\n|location         = Oakheart Highcourt\n|group            = Echoes\n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''The Lifer''' is an NPC that can be found in [[Oakheart Highcourt]], [[Fagaceae Peninsula]], [[Huanglong]]. It is a [[Chop Chop]] [[Echoes|Echo]] trapped to play a board game eternally.\n\nAfter defeating it for the first time, The Lifer can be fought again any time. Some of its buffs may be disabled by submitting a [[Stake of Imbalance]] at various Terminals around the maze. These buffs may be re-enabled at any time.\n\n==Tutorials==\n{{Tutorial|The Lifer's Game;The Lifer's Buffs}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Enter the designated area)\n:'''Abby:''' Wow! It's a massive board game!\n:'''Abby:''' But there are only nine circles. Doesn't look like the kind of game you played with Changli.\n:'''Rover:''' Yeah, it's more like... some kind of puzzle.\n----\n;(Talk with the Lifer)\n:'''???:''' Leave...\n:{{DIcon}}: Are you the \"Lifer?\"\n:{{DIcon}}: What is this place?\n:'''The Lifer:''' Leave... here...\n:{{DIcon}}: Did someone trap you here?\n:{{DIcon}}: How can I get you out of here?\n:'''The Lifer:''' Leave... Leave...\n:'''The Lifer:''' Leave!\n:{{DIcon}}: (Looks like it wants me to go there.)\n:'''The Lifer:''' Leave! Here!\n----\n;(Inspect the device by the Lifer)\n:'''Abby:''' What are these scribbles...\n:'''Rover:''' Sounds like this big guy is pretty tough to beat.\n:'''Abby:''' It says \"the shackles that hold the prisoner\"... Could they be something to weaken its power?\n:'''Abby:''' Maybe you should use your Sensor to check around.\n----\n;(Lose board game)\n:'''The Lifer:''' Ahahaha!\n----\n;(Win board game)\n:'''The Lifer:''' Arraaaagh! Darn it!\n:'''The Lifer:''' Stop... leave!\n:'''Abby:''' Finally! Time to battle!\n:'''Abby:''' Those moving pieces got me so confused... Let's get this over with!\n----\n;(Defeat The Lifer)\n:'''Abby:''' Seems like this Echo has been locked up here since forever...\n:'''Abby:''' According to those inscriptions, it doesn't matter who wins or loses the game. It's stuck here guarding this board forever either way.\n:'''Rover:''' Maybe it never wanted this at all.\n:'''Abby:''' I wonder what kind of life it had before being trapped here...\n----\n;(Fight the Lifer again)\n:'''The Lifer:''' Want... to leave...\n:'''The Lifer:''' Leave here... Leave!\n{{Dialogue End}}\n\n==Trophies==\n{{Trophies|The Lifer}}\n\n==Other Languages==\n{{Other Languages\n|en   = The Lifer\n|zhs  = 深囚者\n|zht  = 深囚者\n|ja   = 囚われし者\n|ko   = 죄수자\n|es   = El Condenado\n|fr   = Condamné\n|de   = Lebenslängliche\n}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorials",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

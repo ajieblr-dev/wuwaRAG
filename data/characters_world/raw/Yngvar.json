@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:12Z",
+  "title": "Yngvar",
+  "pageid": 38985,
+  "wikitext": "{{NPC Infobox\n|image        = Yngvar.png\n|type         = Quest\n|type2        = Resonator\n|title        = Foreseer\n|nation       = Lahai-Roi\n|affiliation  = Roya Tribe\n|status       = Alive\u003cbr\u003eInjured from Mornye self-defense. It is unknown his status after his punishment from the Solisyum.\n|voiceEN      = \n|voiceCN      = \n|voiceJP      = \n|voiceKR      = \n|nation2=}}\n{{Quote|Where is Foreseer Yngvar? Isn't he the Eye's successor?\u003cbr\u003e\u003cbr\u003e\nHush... That is not something we should speak of.}}\n'''Yngvar''' is a quest-exclusive [[NPC]] that first appears in [[Ode to the Second Sunrise]]. He is the successor for the title of \"The Eye\" in the [[Heliodic Six]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Profile==\nOften skipping ceremonies and neglecting his duties as a Foreseer to the Heliodic Six, Yngyar's qualification to being a successor is often questioned by other Roya members. \n\nIt is later revealed he did not wish to succeed \"The Eye\" and become a member of the [[Heliodic Six]], chosen only for his Resonance Ability. To escape his fate, he aligns himself with the [[Fractsidus]] to destroy the Heliogyre in exchange for a pass to [[New Federation]].\n\n==Character Mentions==\n{{Character Mentions}}\n{{Dialogue Start}}\n;(Down the stairs of Solisylum)\n:'''Angry Shepard:''' Yngvar never even bothered to care about the Soliskin. And he never joins the ceremonies. How was he chosen as one of the Heliodic Six's future successors?\n:'''Nervous Roya:''' Let's not talk about this here...\n:'''Angry Shepard:''' Why is that? Are you afraid? I'm simply stating the facts. Among all the candidates, [[Sigrika]] is clearly the one who meets the necessary qualifications!\n----\n;(After completion of {{Quest|Ode to the Second Sunrise}})\n:;Did you hear Yngvar is subject to disciplinary action by the Solisylum?\n:;Serves him right! I told you he never deserved to be a successor in the first place!\n\n:;I knew it! Yngvar walks a crooked path.\n:;To think, even one named a successor to the Heliodic Six could fall to treachery...\n\n:;'''Herja''' To think it was Yngvar who did such a thing...\n:;'''Aksel''' Sigh...\n:'''Herja:''' Ah. I felt it in my gut, but to think it was Yngvar who did such a thing...\n:'''Aksel:''' From the Void Storm we pulled him, Herja. And now by our own hands, to judgement he goes. It is a closed circle.\n:{{DIcon}} Hello.\n:'''Aksel:''' Ah, the Predicted One? We meet again. Welcome to Haldarheim.\n:{{DIcon}} So what happened to Yngvar in the end?\n:'''Aksel:''' Sigh...\n:'''Aksel:''' Everything changed the day of that Void Storm. When the sky brightenened again, a Soliskin found us. We followed it into Bjartr Woods, and there, Yngvar we found, unconcious.\n:'''Aksel:''' He had no fatal wounds, only signs of scorching. We brought him back to Haldarheim to recover.\n:{{DIcon}}  (Sounds like Mornye gave Yngvar a good thrashing.)\n:'''Aksel:''' When he woke, silence he kept. But then, those from the Solisylum came. The truth of his deeds they laid bare, and he broke down and wept, confessing everything.\n:'''Aksel:''' To the Solisylum's custody, he has been given. His punishment will not be pleasant.\n:{{DIcon}} And the world rejoices.\n:{{DIcon}} A bitter end, at any rate.\n:'''Herja:''' Outcasts, both his parents were. Aksel and I brought him out of the Void Storm and raised him to manhood in our tribe. We thought... we had saved him...\n:'''Aksel:''' No matter how it ends, he chose this path. The consequences he must now carry.\n{{Dialogue End}}\n\n==Gallery==\n\u003cgallery\u003e\nFile:Yngvar.png\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Yngvar\n|zhs  = 伊摩尔\n|zht  = 伊摩爾\n|ja   = イングヴァール\n|ko   = 윙바르\n|fr   = Yngvar\n|de   = Yngvar\n|es   = Yngvar\n|th   = Yngvar\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

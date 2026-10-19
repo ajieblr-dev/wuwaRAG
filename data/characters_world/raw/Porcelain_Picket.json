@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:04Z",
+  "title": "Porcelain Picket",
+  "pageid": 42381,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n |name=Porcelain Picket\n |title=\n |image=Porcelain Picket Icon.png\n |dmgtype=Aero\n |weakpoint=Unknown\n |echo=Yes\n |class=Common\n |family=Tacet Discord\n |group=Autopuppet\n |nation=Huanglong\n |region=Mengzhou\n |subregion=\n |drops=\n |nightmare=No\n}}\n{{Description|Within the Censure Court, there seems to be an Autopuppet that is relatively small in size, tasked with surveillance and patrol.}} \n{{Intro/Enemy}} \n\n==Drops== \n{{Drops|Common Autopuppet}}\n\n==Stats==\n{{Enemy Stats|Porcelain Picket}}\n\n==Trophies==\n{{Trophies|Porcelain Picket|customheader=Porcelain Pickets}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Aero DMG}}.\u003cbr/\u003ePorcelain Picket takes 60% more total Heavy Attack DMG.\u003cbr\u003e\u003cbr\u003eEvery brick and tile in the Censure Court is made of modular parts. It is both an elegant garden and a prison for holding and purging Tacet Discords.\u003cbr\u003eWithin the Censure Court, there is a type of scout Autopuppet specialized in investigation and patrol. It usually conceals itself in the form of door rings, relief sculptures, and the like, surveying within the Censure Court. At critical moments, it transforms into an Autopuppet and reaches corners that larger Autopuppets cannot to fulfill its duty.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en  = Porcelain Picket\n|zhs = 瓷庭候\n|zht = 瓷庭候\n|ja  = 磁器の庭候\n|ko  = 자정후\n|fr  = Piquet de porcelaine\n|de  = Porzellan-Hofposten\n|es  = Guardián de Porcelana\n|th  = Porcelain Picket\n|pt  = Marquês de Porcelana\n}}\n\n==Change History==\n{{Change History|3.5}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

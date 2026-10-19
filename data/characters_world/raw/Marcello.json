@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:33Z",
+  "title": "Marcello",
+  "pageid": 26075,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Marcello.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Whisperwind Haven\n|group            = \n|affiliation      = Montelli Family\n}}\n'''Marcello''' is a Montelli merchant found in {{Location|Whisperwind Haven|nocat=1}}. He can be seen next to [[Firus]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Marcello:''' Firus Ferrini, your actions have brought shame upon your family.\n:'''Marcello:''' Within a week, all of Ragunna will mock the Montellis for entrusting the trade routes to a coward.\n:'''Firus:''' Please forgive me, Signor Marcello, I beg of you—\n:'''Firus:''' I'm just a humble merchant, and my daughter is waiting for me at home... I...\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Marcello:''' Firus is truly unreliable. I'll probably have to find the shipment myself.\n:'''Marcello:''' Mad Knight... Hmph, if he was truly a knight, how could he possibly rob the civilians?\n:{{DIcon}} Is losing the goods a big problem?\n:'''Marcello:''' Yes, quite serious. The Order is watching us closely. Losing the goods will lead to financial deficits, and we'll have to address the shortfall in the accounts.\n:'''Marcello:''' We can't afford to keep showing over 50% depreciation rate on the ledgers. The tax officials will undoubtedly seize the opportunity to scrutinize the family's cash flow. With the pressure being amplified through the ranks, our accountant might just end up being packed off on a Pilgrim's Sail...\n:''Marcello starts muttering some strange phrases.\n----\n;(After defeating the Mad Knight)\n:'''Marcello:''' Making choices driven by short-term convenience, taking high risks... Why did we entrust such a person with the significant tasks?\n:'''Marcello:''' I'm sorry for the farce you just witnessed.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Marcello\n|zhs  = 马切洛\n|zht  = 馬切洛\n|ja   = マッチェロ\n|ko   = 마르첼로\n|es   = Marcello\n|fr   = Marcello\n|de   = Marcello\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

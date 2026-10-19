@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:53Z",
+  "title": "Niu",
+  "pageid": 5320,
+  "wikitext": "{{NPC Infobox\n|image            = Niu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Niu''' is male miner who works at [[Tiger's Maw Mine]]. \nHe can be found located outside of [[Huaxu Academy]] around 9AM to 12:59AM.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Day)\n:'''Niu:''' [[Huaxu Academy]] is filled with talented people... I'm so jealous.\n:{{DIcon}} Do you want to join the Academy too?\n:'''Niu:''' Who wouldn't be jealous of working in a nice, bright office, doing research that shapes the future?\n:'''Niu:''' And the pay must be great! I want that kind of life too...\n:'''Niu:''' I've actually been using my free time to study Imperial Academy courses, and I'm almost done.\n:'''Niu:''' As soon as I graduate, I'm leaving that filthy mine and getting a decent job.\n:{{DIcon}} Actually, it's not that bad.\n:'''Niu:''' Yeah, it's pretty far from the life I dreamed of. Definitely don't want to be a miner though.\n----\n;(Night before completing [[Shadow of the Past]].) \n:'''Niu:''' So cold... So cold...\n:{{DIcon}} Are you okay?!\n:'''Niu:''' Even though it's not cold out, I feel like I'm freezing every night.\n:'''Niu:''' I've been to many doctors, but no one can figure it out, so I had to turn to Liuqing for help.\n:'''Niu:''' He thinks my symptoms might be caused by Tacet Discords, which can make you hallucinate... but I haven't been near any recently.\n:'''Niu:''' I wonder if it's related to the weird stuff going on in the mine lately...\n:{{DIcon}} What strange things happened?\n:'''Niu:''' Not sure, but if you're free, you could check out the Tiger's Maw.\n----\n;(Night after completing [[Shadow of the Past]].) \n:'''Niu:''' I didn't expect such a terrifying Tacet Discord to be hidden under the mine...\n:'''Niu:''' Thanks for getting rid of them all, otherwise I wouldn't know when my hallucinations would go away.\n:'''Niu:''' But [[Liuqin|Liuqing]] told me to come here for his inspection tonight.\n:'''Niu:''' He's worried about any side effects I might have, but also really curious about what happened.\n:'''Niu:''' Ah, the spirit of a true researcher, I get it.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Niu\n|zhs  = 阿牛\n|zht  = 阿牛\n|ja   = 牛さん\n|ko   = 아누\n|es   = Niu\n|fr   = Niu\n|de   = Niu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:35Z",
+  "title": "Mengxuan Vale",
+  "pageid": 79465,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Mengxuan Vale\n|image     = Mengxuan Vale.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Simulacrum Nexus of Mengzhou\n}}\n\n'''Mengxuan Vale''' is an area of [[Simulacrum Nexus of Mengzhou]], [[Huanglong]]. It can be found in the [[Heart of Stillness]].\n\n==Description==\nMengxuan Vale is a village that is home to the [[Celestials]] who live in the Simulacrum Nexus of Mengzhou. Centered in the region between the [[Heart of Flames]], [[Heart of Frost]], [[Heart of Bloom]], and [[Heart of Ruin]], it is a bustling village populated by Celestials and lingering remnant frequencies of [[Mengzhou]]'s populace formed from [[Hsin]]'s memories. \n\nThe village also brims with Autopuppet units throughout. A towering astrolabe-like Celestial mechanism floats at the center, overlooking a portal to Hsin's Heart Realm recreation of Mengzhou's capital.\n\n==NPCs== \u003c!--I have manually added a tab for the NPCs as we don't have pages for them for the template to accurately reflect the NPC list. If we ever make a page for each NPC, replace this with the {{NPCs by Location List|Mengxuan Vale}} template.--\u003e\nThere are '''12''' NPCs located in Mengxuan Vale:\n* Huaiqi\n* Yiwen\n* Yunwu\n* Qing Yan\n* Yanqiu\n* Xitong\n* Yu'an\n* Yujue\n* Elder Yujue\n* Yuyue\n* Qinglan\n* Changyuan\n\n==Other Languages==\n{{Other Languages\n|en   = Mengxuan Vale\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   =\n}}\n\n==Change History==\n{{Change History|3.7}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

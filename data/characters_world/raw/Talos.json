@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:40Z",
+  "title": "Talos",
+  "pageid": 40261,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|name             = Talos\n|title            = Leader of the Black Alley\n|realname         = Unknown\u003cref\u003e{{Quest|A Blaze in the Dark}} — (Zani: Word is, Talos might not even be a single person. Whoever is on top gets the title of \"Talos.\")\u003c/ref\u003e\n|image            = Talos.png\n|type             = Quest\n|nation           = Rinascita\n|affiliation      = Black Alley\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          =  \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Talos''' is a quest-exclusive [[NPC]] and the most recent leader of the [[Black Alley]] gang.\n\n==Quests and Events==\n{{Quests and Events|Talos}}\n\n==Gallery== \n{{Files by Character Gallery|not1=Talos Videos}}\n===Videos===\n{{Files by Character Gallery|Talos Videos}}\n\n==Other Languages==\n{{Other Languages\n|en   = Talos\n|zhs  = 塔洛斯\n|zht  = 塔洛斯\n|ja   = タロース\n|ko   = 타를로스\n|fr   = Talos\n|de   = Talos\n|es   = Talos\n|th   = Talos\n}}\n\n==Change History==\n{{Change History|2.3}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

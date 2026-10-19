@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:48Z",
+  "title": "Glommoth",
+  "pageid": 39831,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Glommoth\n|title     = \n|image     = Glommoth Icon.png\n|dmgtype   = Glacio\n|weakpoint = \n|echo      = Yes\n|class     = Elite\n|family    = Tacet Discord\n|group     = Exoswarm\n|nation    = Roya Frostlands\n|region    = Frostlands Surface\n|subregion = \n|drops     = \n}}{{Description|}}\n{{Intro/Enemy|Glommoth}}\n\n==Drops== \n{{Drops|Elite Exoswarm}}\n\n==Stats==\n{{Enemy Stats|Glommoth}}\n\u003c!--\n==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Glommoth|customheader=Glommoth}}\n\n==Description==\n{{Description|This enemy has a higher RES to {{Color|Glacio DMG|nobold=1}}.\u003cbr /\u003eWhile in combat, Glommoth gains Frost Armor, which increases its All-Attribute RES.\u003cbr /\u003eThe Frost Armor is removed when the Fusion Burst on it reaches 3 stacks.\n\nWeakness: Breaking Glommoth's left tusk causes it to lose part of its skill set.\n\nAmong the Exoswarm, none stand taller nor command greater reverence than these towering figures. Shaped in the likeness of the long-extinct mammoth, they are seen as reliable guides in leading their kin back to the Exostrider.\u003cbr\u003eGlommoth, the male, advances with ferocity, often carving paths through frozen earth with its long, jagged tusks.\u003cbr\u003eWhile Glommotha, the female, moves with care, guiding and healing the Exoswarm with its trunk as they return along the paths to the Exostrider.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Glommoth\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|fr   = \n|de   = \n|es   = \n|th   = \n}}\n\n==Change History==\n{{Change History|3.1}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

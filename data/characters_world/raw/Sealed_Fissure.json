@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:21Z",
+  "title": "Sealed Fissure",
+  "pageid": 40784,
+  "wikitext": "{{Location Infobox\n|title  = Sealed Fissure\n|image  = Sealed Fissure.png\n|type   = Region\n|map    = Solaris-3\n|nation = Roya Frostlands\n}}\n{{Intro/Location|Sealed Fissure}}\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Petalfold Recess\"\n|[[Petalfold Recess]]\n|[[File:Petalfold Recess.png|180px]]\n|\n|- id=\"Ceased Court\"\n|[[Ceased Court]]\n|[[File:Ceased Court.png|180px]]\n|\n|- id=\"Nevermore Halls\"\n|[[Nevermore Halls]]\n|[[File:Nevermore Halls.png|180px]]\n|\n|}\n\n==Quests==\n{{Quest by Category List|Sealed Fissure Quests}}\n\n==Exploration Report==\n===Report on Recent Conditions at the Sealed Fissure in the Dimmr Plains===\n* Achieve 50% Area Exploration Progress to unlock the full report.\n\n{{Transclude|Report on Recent Conditions at the Sealed Fissure in the Dimmr Plains|Text|main=1}}\n\n===Chat History of Shashou Cafe Official (Excerpt)===\n* Achieve 100% Area Exploration Progress to unlock the full report.\n\n{{Transclude|Chat History of Shashou Cafe Official (Excerpt)|Text|main=1}}\n\n==Notable Features==\n\u003c!--\n===Enemies===\n====Common Class====\n* {{Enemy|Abyssal Gunmaster}} \u003cexample\u003e\n\n====Elite Class====\n* \n--\u003e\n===Resources===\n* {{Item|Redbell}}\n* {{Item|Forget-Me-Not}}\n* {{Item|Frostwort}}\n* {{Item|Meteoric Iron}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sealed Fissure\n|zhs  = 封存地\n|zht  = 封存地\n|ja   = 封印の地\n|ko   = 봉인된 땅\n|fr   = Fissure scellée\n|de   = Versiegelungsstätte\n|es   = Fisura Sellada\n|th   = เขตผนึกรอยแยก\n|pt   = \n}}\n\n==Change History==\n{{Change History|3.3}} \n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Report on Recent Conditions at the Sealed Fissure in the Dimmr Plains",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Chat History of Shashou Cafe Official (Excerpt)",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "10"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:39Z",
+  "title": "Tae",
+  "pageid": 74509,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Department of Exostrider Engineering\n|title            = \n}}\n'''{{PAGENAME}}''' and '''Damascius''' are students seen messing with a [[TARD-E Unit]] using [[Stargram]]s. \n\n==Dialogue==\n{{Dialogue Start}}\n:'''Tae:''' Watch this. Get one of the Stargrams, stick it on the head of an Academy robot...\n\n:'''Tae:''' And… voila! Now the robot copies everything I do.\n\n:'''Damascius:''' What if I put it on a TARD-E Unit's head?\n\n:'''Tae:''' Wait! Don't—\n\n:'''TARD-E Unit:''' ♪ Is my thesis late? Then sleep must wait! ♪\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n{{Quests and Events|Damascius}}\n\n==Other Languages==\n{{Other Languages\n|en   = Tae\n|zhs  = 妙\n|zht  = 妙\n|ja   = 妙\n|ko   = 타에\n|fr   = Tae\n|de   = Tae\n|es   = Tae\n|th   = Tae\n}}\n{{Other Languages\n|en   = Damascius\n|zhs  = 达马斯克\n|zht  = 達馬斯克\n|ja   = ダマスク\n|ko   = 다마스크\n|fr   = Damascius\n|de   = Damascius\n|es   = Damascius\n|th   = Damascius\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

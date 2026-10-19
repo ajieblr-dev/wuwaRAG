@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:10Z",
+  "title": "KU-Kelar",
+  "pageid": 42651,
+  "wikitext": "{{stub|Did these dialogue disappear after the completion of Chapter 1 Act VIII or Chapter 2 Act Act XI}}\n{{NPC Infobox\n|image            = KU-Kelar.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Tethys' Deep\n|group            = \n|affiliation      = Black Shores\n|species          = KU-Roro\n|title            = \n}}\n'''KU-Kelar''' is a Quest Exclusive KU-Roro stationed at the [[Modulation Hall]] during the [[Chapter II]].\n\n==Quests and Events==\n{{Quests and Events|KU-Kelar}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''KU-Kelar:''' The currents of time are shifting once more...\n:'''KU-Kelar:''' My records reveal that the Shorekeeper has always surfaced with the tides of change.\n:{{DIcon}} Isn't this a sign of crisis?\n:'''KU-Kelar:''' Indeed, crisis often heralds progress. A stagnant shore is merely a pool of dead water.\n:'''KU-Kelar:''' The Black Shores will endure, as history has foretold.\"\n----\n:'''KU-Kelar:''' The result of the Third Contingency Protocol is...\n:{{DIcon}} Hmm?\n:'''KU-Kelar:''' The time reading is negative...\n:'''KU-Kelar:''' Too distant... too distant... our reference frame is out of reach...\n:'''KU-Kelar:''' Points, lines, and planes... beyond the light cone... constrained by the four fundamental rules...\n:'''KU-Kelar:''' The multiplier is imaginary, compounding continuously... recall... our parameters...\n:'''KU-Kelar:''' 6571756f206e652063726564697465……\n:'''KU-Kelar:''' 506173742069732066757475726520616e64206675747572652069732070617374……\n:{{DIcon}}  This robot seems to struggle with the concept...\n:'''KU-Kelar:''' Ah, I understand now...\n:'''KU-Kelar:''' I've been analyzing a theoretical problem.\n:{{DIcon}} What problem?\n:'''KU-Kelar:''' With enough data...\n:'''KU-Kelar:''' Tethys might contain Lament data that we've never recorded but are certain has occurred, including the current Lament unfolding before us.\n:'''KU-Kelar:''' Though the likelihood is small, it's theoretically possible with sufficient data.\n:'''KU-Kelar:''' Imagine a drop of ink falling into the ocean, eventually reforming into the original drop...\n:'''KU-Kelar:''' If that drop of ink, that Lament, does exist... maybe we just haven't detected it yet.\n{{Dialogue End}}\n\n==Trivia==\n*The first hex code translate to: \"equo ne credite\", which translate to \"Don't trust the horse\" in Latin.\n**This possibly references the [[Imperator|Sentinel]] of [[Rinascita]], who appears in the form of a horse.\n*The second hex code translates to \"Past is Future and Future is Past\"\n\n== Other Languages ==\n{{Other Languages\n|en   = KU-Kelar\n|zhs  = 库卡尔\n|zht  = 庫卡爾\n|ja   = クーカルト\n|ko   = 쿠 ・ 카르트\n|fr   = KU-Kelar\n|de   = KU-Kelar\n|es   = KU-Kelar\n|th   = KU-Kelar\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

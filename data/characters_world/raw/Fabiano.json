@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:23Z",
+  "title": "Fabiano",
+  "pageid": 65815,
+  "wikitext": "{{NPC Infobox\n|image=.png\n|type=Open-World\n|nation=Lahai-Roi\n|location=Startorch Academy\n|affiliation=Department of Light Energy Sciences\n|group=\n}}{{Description|This station is located within Exo Genesis Labs, an experimental field that uses lunar soil samples to create a microgravity environment. Here, prehistoric plants are induced to undergo mutation, enhancing their nutritional value and functional traits. The resulting ingredients are processed at this station to produce convenient \"space food\" designed to boost intellect, stamina, and Forte, suitable for consumption in any environment.|Culinary Station}}\n\n'''{{PAGENAME}}''' is a professor NPC that can be found at the building for the Department of Light Energy Sciences building, Exo Genesis Labs.\n\n{{Dialogue Start}}\n==Dialogue==\n:'''Fabiano:''' ...Behold, a strategic upgrade launched by our Microgravity Agricultural Engineering research group for the Complete Nutrition Squeeze Jelly!\n:'''Fabiano:''' Featuring customizable nutrition ratios, expanded preset flavor options, and added seasonal limited-edition recipes!\n:'''Fabiano:''' Future Synchronists will remember this flavor revolution as the... Tactical Jellogram!\n:'''Frigga:''' ...I'm seriously starting to think you set up this entire research group just for that dumb pun.\n:'''Gracia:''' Hey, boss, do you have any idea how we're supposed to roll this out in multiple languages? Cut us academic translators some slack, will you?\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fabiano\n|zhs  = 法比纳\n|zht  = 法比納\n|ja   = ファビナ\n|ko   = 파비나\n|fr   = Fabiano\n|de   = Fabiano\n|es   = Fabiano\n|th   = Fabiano\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

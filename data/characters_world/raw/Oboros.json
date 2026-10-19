@@ -1,0 +1,16 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:54Z",
+  "title": "Oboros",
+  "pageid": 28010,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Oboros.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = Order of the Deep\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\nOboros is an Acolyte from the [[Order of the Deep]] followed by a [[La Guardia]]. \u003cbr\u003eHe appears at nighttime, between the [[Trattoria Margherita]] and [[City Square|Bar]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Oboros:''' Hello, young one. Is there something you need help with?\n:'''{{DIcon}}:''' Is this Echo following you?\n:'''Oboros:''' Thanks to the Order and Imperator's grace, La Guardia is here to protect us when needed.\n:'''Oboros:''' I'm headed to Whisperwind Haven to help the Order distribute supplies to poor villagers, which is why this one is with me.\n:'''Oboros:''' If you need help from the Order in Ragunna or seek Imperator's guidance, just look for La Guardia like this one.\n:'''Oboros:''' They also bear Imperator's blessings, as indicated by the halo above their heads, which is a mark of the Order.\n----\n{{Spoiler}}\n;(After {{Quest|Dawn Breaks on Dark Tides}})\n:'''Oboros:''' Hello, young one. Is there something you need help with?\n:'''{{DIcon}}:''' Is this Echo following you?\n:'''Oboros:''' Thanks to the Order and Imperator's grace, La Guardia is here to protect us when needed.\n:'''Oboros:''' I'm headed to Whisperwind Haven to help the Order distribute supplies to poor villagers, which is why this one is with me.\n:'''Oboros:''' Even though the Sentinel is gone, La Guardia still bears the halo, standing by our side.\n:'''Oboros:''' Perhaps this is the final revelation They left us, entrusting us to uphold Rinascita's order together with the Echoes.\n:'''Oboros:''' Every blessed soul must keep their vow and contribute to the safe and peaceful Rinascita.\n{{Dialogue End}}\n\n{{Other Languages\n|en   = Oboros\n|zhs  = 欧博若司\n|zht  = 歐博若司\n|ja   = オルバス\n|ko   = 오로바스\n|es   = Oboros\n|fr   = Oboros\n|de   = Oboros\n}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    }
+  ]
+}

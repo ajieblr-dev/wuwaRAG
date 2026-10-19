@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:35Z",
+  "title": "Spacetrek Explorer",
+  "pageid": 39006,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Spacetrek Explorer\n|image         = Spacetrek Explorer Icon.png\n|dmgtype       = Electro\n|echo          = Yes\n|class         = Elite\n|family        = Tacet Discord\n|group         = Clamorling\n|nation        = Lahai-Roi\n}}\n{{Description|A large, fast-moving mech developed by the Spacetrek Collective for both transport and defense.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Elite Lahai-Roi Clamorling}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Trophies==\n{{Trophies|Spacetrek Explorer}} \n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES|nobold=1}} to {{Color|[[Electro]] DMG|nobold=1}}.\u003cbr /\u003e\u003cbr /\u003eThe Spacetrek Explorer has sturdy armor and exceptional mobility. It is equipped with an electromagnetic gun and has a shield generator that can extend protection to allies.\u003cbr /\u003e\u003cbr /\u003eHitting Spacetrek Explorer with Tune Break disables its shield generator, removing its active Shield and preventing new ones from generating.\u003cbr /\u003e\u003cbr /\u003eIn the face of the vast unknown lands in Lahai-Roi, the Spacetrek Collective developed the multi-purpose Spacetrek Explorer to serve in transport, storage, and defense roles. Its wheeled legs and heavy-duty tires allow it to race along vertical surfaces, making it suitable for both urban and off-road terrain. The onboard storage compartments are designed to support long-term scientific expeditions.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Spacetrek Explorer\n|zhs  = 探隧重机\n|zht  = 探隧重機\n|ja   = スペーストレック重機\n|ko   = 스페이스트렉 탐색기\n|fr   = Explorateur du Trek-spatial\n|de   = Spacetrek-Explorer\n|es   = Explorador Intergaláctico\n|th   = Spacetrek Explorer\n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

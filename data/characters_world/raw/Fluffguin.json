@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:30Z",
+  "title": "Fluffguin",
+  "pageid": 42446,
+  "wikitext": "{{Terminology Infobox\n|title        = Fluffguin\n|image        = Fluffguin.png\n|type         = Lore\n|nation       = Lahai-Roi\n}}{{Quote|\"Goo-goo, ga-ga! Unclaimed, unknowable, and belonging to none!\"|-Fluffguin Stone}}\nA native bird of Lahai-Roi, it's believed they originally came from the Roya Frostlands.\n\n==Scenery Record - Fluffguin Stone==\n{{Dialogue Start}} \n:'''Abby:''' Abby doesn't know either...\n:'''Rover:''' What's wrong? What are they arguing about?\n:'''Abby:''' They're arguing over that round, chubby thing... trying to decide who actually laid the egg.\n{{Dialogue End}} \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n\n==Trivia==\n*Their appearance seems to matches Fiordland Crested Penquin.\n*[https://evangelion.fandom.com/wiki/Pen_Pen Pen Pen] from Evangelion is a Fiordland Crested Penquin.\n\n==Other Languages==\n\n==Change History==\n{{Change History|3.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Scenery Record - Fluffguin Stone",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

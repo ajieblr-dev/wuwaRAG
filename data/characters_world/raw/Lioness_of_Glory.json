@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:24Z",
+  "title": "Lioness of Glory",
+  "pageid": 31459,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Lioness of Glory\n|title     = Arsinosa\n|image     = Lioness of Glory Icon.png\n|dmgtype   = Fusion\n|class     = Overlord\n|echo      = Yes\n|weakpoint = Unknown\n|family    = \n|group     = \n|nation    = Rinascita\n|region    = Septimont\n|subregion = Titanbone Expanse\n|drops     = Unfading Glory\n|variants  = Tactical Hologram: Lioness of Glory\n}}\n{{Description|She guards the [[Capitoline Hill City|City of Glory]], a valiant lioness of the arena.\u003cbr\u003e\u003cbr\u003eBuilt with the pristine white stones that Gryphons are carved out of and tempered in the echoes of the battle cries and the laughter of heroes.\u003cbr\u003e\u003cbr\u003eThis is Arsinosa, ever steadfast, watching over [[Septimont]]'s glory for all time.}}\nThe '''{{PAGENAME}}''' is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in the [[Titanbone Expanse]].\n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Unfading Glory}}\n\u003c!--\n==Stats==\n{{Enemy Stats}}\n--\u003e\n==Abilities== \n\n==Trophies==\n{{Trophies|Lioness of Glory|customheader=Lioness of Glory}}\n\u003c!--\n==Tutorial==\n{{Tutorial|Lioness of Glory}}\n--\u003e\n==Description==\n{{Description|This enemy has {{Color|help|higher RES|nobold=1}} against {{Color|Fusion DMG|nobold=1}}.\u003cbr\u003e\u003cbr\u003eShe guards the [[Capitoline Hill City|City of Glory]], a valiant lioness of the arena.\u003cbr\u003e\u003cbr\u003eBuilt with the pristine white stones that Gryphons are carved out of and tempered in the echoes of the battle cries and the laughter of heroes.\u003cbr\u003e\u003cbr\u003eThis is Arsinosa, ever steadfast, watching over [[Septimont]]'s glory for all time.}}\n\n==Gallery==\n\u003cgallery\u003e\nFile:Lion of glory.jpg\nFile:Lioness of glory preview.jpg\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Lioness of Glory\n|zhs  = 荣耀狮像\n|zht  = 榮耀獅像\n|ja   = 誉れのライオネス\n|ko   = 영광의 사자\n|es   = Leona de Gloria\n|fr   = Lionne glorieuse\n|de   = Glorreiche Löwin\n}}\n\n==Change History==\n{{Change History|2.4}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

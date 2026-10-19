@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:03Z",
+  "title": "Claudia",
+  "pageid": 26958,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Claudia.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Whisperwind Haven\n|group            = \n|affiliation      = Fisalia Family\n|title            = \n|realname         = Claudia V. Fisalia\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Claudia''' is a painter from the Fisalia family found during the day at Egla Town, {{Location|Whisperwind Haven}}.\n\u003c!---==Location==\n{{Map Embed|Whisperwind Haven|Claudia}}---\u003e\n\n==Quests and Events==\n{{Quests and Events|Claudia}}\n\n==Idle==\n{{Dialogue Start}}\n:Hmmm, this blue seems a bit too saturated...\n:Cobalt blue and deep purple are the classical colors for deep sea, but is it truly the right choice for Fisalia?\n\n==Dialogue==\n;(First time interaction)\n:'''Claudia:''' Nice to meet you, traveler from afar. I'm Claudia V. Fisalia, a traveling painter currently working on my landscape paintings.\n:'''Claudia:''' I hope your time in Ragunna leaves you with beautiful memories.\n:'''{{DIcon}}:''' Thank you.\n:'''Claudia:''' Your eyes shine with a brilliance akin to the Sentinel's radiance... If you don't mind, would you accept this painting?\n:'''{{DIcon}}:'''Oh, thank you. But maybe it's a bit too much...\n:'''Claudia:''' No worries, it's just my personal creation and not something for sale.\n:'''Claudia:''' I wish to paint the history within my heart and share it with those I feel are destined to connect with the Sentinel.\n----\n:'''Claudia:''' I'm curious, though it's a bit embarrassing to ask... What do you think of my artwork, {{Rover}}?\n:'''{{DIcon}}:''' I'm curious about the towers in the painting.\n::'''Claudia:''' Are you referring to the [[Thorncrown Rises]]? Once engraved with the history of Fisalia, they are now merely three abandoned structures on the sea ridge. \n::'''Claudia:''' In my childhood, I heard stories that the hidden main tower was the resting place for my family's first honors. \n::'''Claudia:''' What does that truly mean? Does the Fisalia family really have any honor left to speak now?\n:'''{{DIcon}}:''' The use of color is truly distinctive.\n::'''Claudia:''' Distinctive use of color, you say? They're actually my attempts to depict the legacy of the Fisalia family through color.\n::'''Claudia:''' Why has the Fisalia family become like this? As someone not of the senior line, I can only speculate in this way now.\n----\n;(After {{Quest|Dawn Breaks on Dark Tides}})\n{{Spoiler}}\n:'''Claudia:''' I'm curious, though it's a bit embarrassing to ask... What do you think of my artwork, {{Rover}}?\n:'''{{DIcon}}:''' Is that the Thorncrown Rises in the painting?\n::'''Claudia:''' Indeed. The Thorncrown Rises that bear the history of Fisalia.\n::'''Claudia:''' Though they are now merely three abandoned structures on the sea ridge, they carry the Fisalias' true honor.\n::'''Claudia:''' As a member of the Fisalia family, I've heard the truth from our head... I want to capture the glory we once had with my brush.\n:'''{{DIcon}}:''' The use of color is truly distinctive.\n::'''Claudia:''' Distinctive use of color, you say? They're actually my attempts to depict the legacy of the Fisalia family through color.\n::'''Claudia:''' Our history is marred and stained by the Dark Tide. Perhaps that's why these colors feel so fitting.\n\n==Event Dialogue==\n====[[Although Colors Have No Form]]====\n:;'''Claudia''' These magical morph paintings... Are they really created with just brushes and paints?\n:;'''Claudia''' If so, what was going through the creators' minds when they painted them?\n:'''Claudia:''' That color... I want to learn more about it, no matter what... Thank you for the help.\n{{Dialogue End}}\n\n\n==Other Languages==\n{{Other Languages\n|en      = Claudia\n|zhs     = 克劳迪亚\n|zht     = 克勞迪亞\n|ja      = クラウディア\n|ko      = 클라우디아\n|es      = Claudia\n|fr      = Claudia\n|de      = Claudia\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Event Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "4",
+      "line": "Although Colors Have No Form",
+      "number": "4.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "7"
+    }
+  ]
+}

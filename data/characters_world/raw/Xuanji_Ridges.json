@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:07Z",
+  "title": "Xuanji Ridges",
+  "pageid": 9052,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Xuanji Ridges\n|image=Xuanji Ridges.png\n|world_map=Solaris-3\n|type = Area\n|nation = Huanglong\n|region = Mt. Firmament\n}}\n{{Description|When \"Jué\" first appeared in Mt. Firmament, it left giant and strange rings interspersed among lofty cliffs. No one can perceive their meanings, except \" Jué\".|[https://wutheringwaves.kurogames.com/m/en/main/news/detail/921 '' Wuthering Waves Official Website '']\n}}\n'''Xuanji Ridges''' is an area of {{Location|Mt. Firmament}}.\n\n==Description==\n{{Stub}}\n\n==Features==\nThree of the the [[Traces of Mt. Firmament]] are located here - \"The 'Peak' and the 'True Loong,'\" \"The 'skyglow' and the 'suspended rocks,'\" and \"The Sunset.\"\n\n===Interactables===\n{{#dpl:|category= Xuanji Ridges Terminology|ordermethod= title}}\n\n==NPCs==\n{{NPCs by Location List|Xuanji Ridges}}\n\n==Gallery==\n\u003cgallery\u003e\nTraces of Mt. Firmament V.png|The \"Peak\" and the \"True Loong\"\nTraces of Mt. Firmament VI.png|The \"Skyglow\" and the \"Suspended Rocks\"\nTraces of Mt. Firmament VIII.png|\"The Sunset\"\n\u003c/gallery\u003e\n\n== Other Languages==\n{{Other Languages\n|en   = Xuanji Ridges\n|zhs  = 璇玑岭\n|zht  = 璇璣嶺\n|ja   = {{Rubi|星転嶺|せいてんれい}}\n|ko   = 선기령\n|es   = Cordillera Xuanji\n|fr   = Crête Xuanji\n|de   = Grate Xuanji\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Features",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Interactables",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "8"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:20Z",
+  "title": "Lenore",
+  "pageid": 26826,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Lenore.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Order of the Deep (Area)\n|group            = \n|affiliation      = Order of the Deep\n|title            = \n|status           = Alive\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Lenore''' is an [[NPC]] in {{Location|Ragunna City}}. She was the dean of the Minor Forbidden Archive. After completing {{Quest|Hymn of the Sea of Clouds: Storm}}, she can be seen around the [[Order of the Deep]]. Later, after completing {{Quest|Flames in the Deep}}, she can be found on the outer walls of [[Septimont]] for a one-time conversation.\n\n==Quests and Events==\n{{Quests and Events|Lenore}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Lenore:''' {{MC|m=Mr.|f=Ms.}} {{Rover}}! What a surprise to see you again so soon!\n:'''Rover:''' Is this little pavilion the Minor Forbidden Archive?\n:'''Lenore:''' Haha, you always have such a way with words. The Minor Forbidden Archive is underground, you won't see views like this down there. No, I'm actually at the Tidal Sanctuary to finalize my transfer.\n:'''Rover:''' You're leaving the Minor Forbidden Archive?\n:'''Lenore:''' Yes... well...\n:'''Lenore:''' {{MC|m=Mr.|f=Ms.}} {{Rover}}, I owe you an apology for how I acted that day... I was stubborn.\n:'''Lenore:''' Rinascita's civilization was planted by our ancestors, and the Order is just one of its many fruits. I shouldn't have been frightened by the ancient music; I shouldv' been delighted!\n:'''Lenore:''' In that moment, I felt the spirit of my ancestors resonate within me, didn't I?\n:{{DIcon}} I'm glad you've found some peace within yourself.\n::'''Lenore:''' Hehe...\n:{{DIcon}} Do the Tenets permit you to speak so freely?\n::'''Lenore:''' Of course it's... Ahem! {{MC|m=Mr.|f=Ms.}} {{Rover}}, let's keep this conversation our little secret!\n:'''Rover:''' Where are you going next?\n:'''Lenore:''' Maybe I'll go find [[Phoebe]]. She hasn't visited in some time, and I wonder what she's busy with.\n:'''Lenore:''' Or perhaps I should go further... to the Montelli vault, or even to [[Septimont]]? Hmm, I suppose I wouldn't need to wear my uniform...\n:'''Lenore:''' {{MC|m=Mr.|f=Ms.}} {{Rover}}, do you have any suggestions?\n:{{DIcon}} I say you should go wherever you like.\n:{{DIcon}} I say you should meet the people you want to meet.\n:'''Lenore:''' Ah, I aspire to have your confidence one day!\n:'''Lenore:''' \"True faith is born from the heart, and Sentinel's guidance speaks through my voice.\" From the bottom of my heart, I thank you for your help, {{MC|m=Mr.|f=Ms.}} {{Rover}}.\n:'''Rover:''' Which chapter of the Tenets is that from?\n:'''Lenore:''' Hahaha! I said that. I am quoting myself!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lenore\n|zhs  = 伊诺尔\n|zht  = 伊諾爾\n|ja   = エノル\n|ko   = 일노르\n|es   = Lenore\n|fr   = Lenore\n|de   = Lenore\n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:12Z",
+  "title": "Katvia",
+  "pageid": 36531,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Katvia.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont\n|location2        = Capitoline Hill\n|group            = \n|affiliation      = Averado Bank\n|affiliationNote  = Banker\n|title            = \n}}\n'''{{PAGENAME}}''' is a female NPC employee for the [[Averado Bank]] stationed in Septimont, {{Location|Capitoline Hill}}. She can be found next to [[Raechyl]] and a Common Echo Mercurio.\n__NOTOC__\n==Location==\n\u003cgallery\u003eLocation Raechyl Shop.png|Located near by Averardo Bank Counter\u003c/gallery\u003e\n\n==Idle==\n{{Dialogue Start}}\n;(Day)\n:'''Galby:''' I want to deposit this!\n:'''Katvia:''' Seriously...? We can't do that!\n\n==Dialogue==\n;(Day)\n:'''Galby:''' I want to deposit this. Katvia, deposit this for me!\n:'''Katvia:''' All this meat...? This is a bank, not a meat locker!\n----\n;(Night)\n:'''Katvia:''' What on earth is going on... What  did we do wrong?\n:{{DIcon}} What's wrong?\n:'''Katvia:''' Sigh... The Averardo Vault is opening a branch in Septimont, but it hasn't been going too well for us.\n:'''Katvia:''' Everyone feels safe depositing their money with us, and they're happy to do business...\n:'''Katvia:''' ...but some people want to store weird stuff, like fighting gear, poetry collections, random sculptures...\n:'''Katvia:''' Someone even brought a bunch of meat here! I just... Why on earth would they do that?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Katvia\n|zhs  = 科特薇娅\n|zht  = 科特薇婭\n|ja   = カトヴィア\n|ko   = 카트비아\n|es   = Katvia\n|fr   = Katvia\n|de   = Katvia\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

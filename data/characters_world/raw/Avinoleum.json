@@ -1,0 +1,100 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:40Z",
+  "title": "Avinoleum",
+  "pageid": 28697,
+  "wikitext": "{{Spoiler}}\n{{Location_Infobox\n|title = Avinoleum\n|image = \u003cgallery\u003e\nAvinoleum.png|In-Game\nAvinoleum Map.png|Map\n\u003c/gallery\u003e\n|map = Solaris-3\n|type = Region\n|nation = Rinascita\n}}{{Quote|Once a theological seminary of Rinascita, it now rests in the boundless expanse of clouds. It once recorded Rinascita's glory and grandeur, along with countless unspeakable secrets.}}\n{{Intro/Location|Avinoleum}} A seminary faintly visible through a thin veil of clouds. Suspended upside down in the sky, it stands solemn and silent, as though carrying the weight of the Blessed Maiden's life.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n! Image\n! Description\n|- id=\"Tower of Ascension\"\n|[[Tower of Ascension]]\n|[[File:Tower of Ascension.png|180px]]\n|\n|- id=\"Titular Repository: Ruins\"\n|[[Titular Repository: Ruins]]\n|[[File:Titular Repository Ruins.png|180px]]\n|\n|- id=\"Tower of Salvation\"\n|[[Tower of Salvation]]\n|[[File:Tower of Salvation.png|180px]]\n|\"The mortal world is a vast and mysterious ocean, wherein all souls are doomed to drown and sink to the depths. Those who refuse to be swallowed must learn to rise, climbing upward until their heads break the surface. Only then shall they glimpse the realm of the divine.\"\n|- id=\"Zargon Garden\"\n|[[Zargon Garden: Ruins|Zargon Garden]]\n|[[File:Zargon Garden.png|180px]]\n|Once the dwelling of dragons, this place witnessed those ancient, mighty beings soaring through the sky.\nNow, wild vines and flowers steadily consume the garden's former glory while the buried history of dragons slumbers in cursed lairs.\n|- id=\"Tower of Unity\"\n|[[Tower of Unity]]\n|[[File:Tower of Unity.png|180px]]\n|\n|- id=\"Hall of Swordsmanship: Ruins\"\n|[[Hall of Swordsmanship: Ruins]]\n|[[File:Hall of Swordsmanship Ruins.png|180px]]\n|\n|- id=\"Path of Bestowal\"\n|[[Path of Bestowal]]\n|[[File:Path of Bestowal.png|180px]]\n|Majestic and serene, ancient yet still sacred. This is the coronation platform prepared for the Blessed Maiden, though an aura of control lingers above. When the heavy weight of \"divine right\" falls upon one's head, it feels as if all choices have already been made.\n|- id=\"Holy Spire of Confluence\"\n|[[Holy Spire of Confluence]]\n|[[File:Holy Spire of Confluence.png|180px]]\n|\n|}\n\n==Quests==\n{{Quest by Category List|Avinoleum}}\n\n==Exploration Report==\n\n==='''Avinoleum Code I'''===\n* Unlocked by reaching 50% exploration.\n\n{{Transclude|Avinoleum Code I|Text|main=1}}\n\n==='''Seminary Code II'''===\n* Unlocked by reaching 100% exploration.\n\n{{Transclude|Seminary Code II|Text|main=1}}\n\n==Notable Features==\n===Bosses===\n====Calamity Class====\n* {{Enemy|Fleurdelys}}\n===Resources===\n* {{Item|Seaside Cendrelis}}\n\n==Soundtracks==\n{{Soundtracks by Category Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Avinoleum\n|zhs  = 阿维纽林\n|zht  = 阿維紐林\n|ja   = アヴィノレーム\n|ko   = 아비놀륨\n|fr   = Avinoleum\n|de   = Avinoleum\n|es   = Avinoleum\n|th   = \n}}\n\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}\n[[zh:阿维纽林]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eAvinoleum Code I\u003c/b\u003e",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eSeminary Code II\u003c/b\u003e",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Calamity Class",
+      "number": "4.1.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.2",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "13"
+    }
+  ]
+}

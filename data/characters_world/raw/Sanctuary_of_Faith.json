@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:19Z",
+  "title": "Sanctuary of Faith",
+  "pageid": 36348,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Sanctuary of Faith\n|image     = Sanctuary of Faith.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Rinascita\n|region    = Fabricatorium of the Deep\n}}\n\n'''Sanctuary of Faith''' is an area of [[Fabricatorium of the Deep]], [[Rinascita]]. \n==NPCs==\n{{NPCs by Location List|Sanctuary of Faith}}\n==Other Languages==\n{{Other Languages\n|en   = Sanctuary of Faith\n|zhs  = 朝拜圣所\n|zht  = 朝拜聖所\n|ja   = サンクチュアリ\n|ko   = 순례의 땅\n|es   = Santuario de la Fe\n|fr   = Sanctuaire de la Foi\n|de   = Heiligtum des Glaubens\n}}\n\n==Change History==\n{{Change History|2.5}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

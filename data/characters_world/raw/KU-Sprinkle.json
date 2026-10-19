@@ -1,0 +1,16 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:11Z",
+  "title": "KU-Sprinkle",
+  "pageid": 38709,
+  "wikitext": "{{NPC Infobox\n|image            = KU-Sprinkle.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = \n|group            = \n|affiliation      = Black Shores\n|title            = \n|species          = KU-Roro\n}}\n'''KU-Sprinkle''' is a KU-Roro gardener that can be found at night listening to a lecture, down at the corner of [[Tethys Hub]] area.\n{{Dialogue Start}}\n==Idle==\n:'''Black Shores Member:''' As you can see, we've detected a small amount of [[Remnant|Remnant Energy]] in plant sample No. 3.\n:'''Black Shores Member:''' We can't confirm yet if it's from external sources or absorbed from the [[Tacetite]].\n:'''Black Shores Member:''' If it's the latter, it would be a significant discovery.\n:'''Black Shores Member:''' Speaking of which, bioenergy has been in use in some regions for a while. Take the [[New Federation]], for instance—\n:'''KU-Sprinkle:''' Ku! I know it!\n:'''KU-Sprinkle:''' I used to think watering these plants every day was pointless, but then [[Aalto]] told me:\n:'''KU-Sprinkle:''' \"Don't underestimate your job, KU-Sprinkle! You're helping make the world a better place!\"\n:'''KU-Sprinkle:''' \"Did you know there are terminals made of apples and servers made of potatoes? Pretty amazing, right?\"\n:'''KU-Sprinkle:''' \"You should be proud of yourself, pal. Everything you do here is important!\"\n:'''Listening Black Shores Member:''' ...?\n:'''Listening Black Shores Member:''' ...?\n{{Dialogue End}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    }
+  ]
+}

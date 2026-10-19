@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:21Z",
+  "title": "Lianhua",
+  "pageid": 79071,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=Huanglong\n|location=Xuanfang Hold\n|affiliation=Ministry of Development\n|group=\n}}\n'''Lianhua''' is an NPC artisan seen at Xuanfang Hold [[Resonance Nexus|Lexicon Axis]], checking on a Rafter Kite.\n__NOTOC__\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Lianhua:''' Good, it's not broken... Just a jammed drive shaft.\n:'''Lianhua:''' You know what? This Rafter Kite was commissioned by a couple from Jinzhou...\n:'''Lianhua:''' Said they wanted to have a full experience of Xuanfang's Rafter Kite love messages...\n:'''Lianhua:''' Whenever I was on duty these past few days, I'd catch them sketching together, snapping photos, or just leaning against each other on a bench...\n:'''Lianhua:''' The [[Wuli|young man]] told me the [[Fuling|girl]] used to be too sick to travel far. Now that she's recovering, she wants to hit every city in Huanglong.\n:'''Lianhua:''' Xuanfang is just a rest stop for them. Mengzhou City's next.\n:'''Lianhua:''' What a lovely couple... Hope the road treats them well.\n\n===Interacting with the Rafter Kite===\n----\n:{{Readable|Fuling,\u003cbr\u003eI'm off to Huaxu Academy for your medicine. You looked so peaceful asleep this morning, so I couldn't bear to wake you. Please have a good breakfast when you're up. You're still recovering and can't afford to skip meals.\u003cbr\u003eXuanfang Hold has so many pavilions, towers, and little courtyards to explore. When I get back, we'll go sketching together.\u003cbr\u003e—Wuli|title=Letter Sealed in a Rafter Kite}}\n{{Dialogue End}}\n----\n\n==Trivia==\n* The Jinzhou couple he spoke of is [[Fuling]] and [[Wuli]], who can be found later after in Xuanfang Hold after completing {{Quest|Simulacrum of the Heart}}.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lianhua\n|zhs  = 廉桦\n|zht  = 廉樺\n|ja   = 廉樺（レンカ）\n|ko   = 염화\n|fr   = Lianhua\n|de   = Lianhua\n|es   = Lianhua\n|th   = Lianhua\n|pt   = Lianhua\n}}\n\n==Change History==\n{{Change History|3.5}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Interacting with the Rafter Kite",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

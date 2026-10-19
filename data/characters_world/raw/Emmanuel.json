@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:19Z",
+  "title": "Emmanuel",
+  "pageid": 38542,
+  "wikitext": "{{stub|location}}\n{{NPC Infobox\n|image            = NPC Emmanuel.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Emmanuel''' is a male NPC found at [[Startorch Academy (Region)|Startorch Academy - Freight Zone]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Emmanuel:''' \"We once dreamed of reaching the stars, but that dream was shattered by the appearance and relentless expansion of the [[Etheric Sea]]...\"\n:'''Emmanuel:''' \"However, the great discovery beneath Lahai-Roi, the very Pathway that brought the [[Exostrider]] here, might show us a way back to the cosmos we lost...\"\n:'''Emmanuel:''' \"...And the human alliance that aims to reopen that Pathway is called the [[Spacetrek Collective]].\"\n:'''Emmanuel:''' I have to memorize this script... I have to memorize it!\n:'''Emmanuel:''' Oh no, oh no... Why did they pick me to brief the Council?!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Emmanuel\n|zhs  = 埃曼纽尔\n|zht  = 埃曼紐爾\n|ja   = エマニエル\n|ko   = 엠마누엘\n|fr   = Emmanuel\n|de   = Emmanuel\n|es   = Emmanuel\n|th   = Emmanuel\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

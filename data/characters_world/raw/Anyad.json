@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:35Z",
+  "title": "Anyad",
+  "pageid": 38990,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Anyad.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = \n|affiliation      = Rabelle College\n|title            = \n}}\n'''Anyad''' is a NPC female student who was suppose to graduate but was held back after accidentally revealing she had the potentials of becoming a [[Startorch_Academy#Rabelle_College|Syncronist]].\n\n{{Dialogue Start}}\n==Dialogue==\n:'''Mirek:''' Wow, Anya... wow. You were supposed to be defending your thesis and graduating in the New Federation!\n:'''Anyad:''' Waaah! I just went with a friend to that selection project Academic Development was hosting... and I accidentally touched some weird Rabelle's Curve measuring device, that's all!\n:'''Anyad:''' Then those people from the Academic Committee wouldn't let me leave. Said I was a potential Synchronist, and that my curve was compatible with the [[Exostrider]]'s...\n:'''Anyad:''' I worked so hard... I was this close... and now I have to start all over again from scratch here...\n:'''Anyad:''' WAHHHHHHH—!\n:'''Nanelle:''' Think of it as just a postponed graduation. Be strong, okay?\n:'''Anyad:''' A postponed graduation? That's the worst part! WAHHHHH—!\n----\n;After completing {{Quest|Starlights from Yesterdays}}\n:'''Mirek:''' Anya, I heard they're closing down Rabelle College... If you go back to the New Federation now, will your credits transfer over?\n:'''Anyad:''' No. I enrolled here, and this college answers directly to the Spacetrek Collective. Without a formal graduation, I'm not sure it'll work.\n:'''Mirek:''' Then what are you going to do now?\n:'''Anyad:''' It's fine. I'm perfectly calm. At any rate... At any rate, Aleph-1 is gone now. All I need to do is stay calm and find a time machine...\n:'''Mirek:''' Stop! You are NOT finding a TIME MACHINE in a TRASH CAN! At least consider a phone booth!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Anyad\n|zhs  = 安雅乔\n|zht  = 安雅喬\n|ja   = アニャジョ\n|ko   = 안야\n|fr   = Anyad\n|de   = Anyad\n|es   = Anyad\n|th   = Anyad\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

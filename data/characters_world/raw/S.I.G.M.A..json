@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:17Z",
+  "title": "S.I.G.M.A.",
+  "pageid": 38306,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC SIGMA.jpg\n|title            = Signal Intelligent Guidance \u0026 Management Automaton\n|type             = Open-World\n|type2            = Quest\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Freight Zone\n|species          = Automaton\n|affiliation      = Spacetrek Collective\n|affiliation2     = Startorch Academy\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''S.I.G.M.A.''' is an [[NPC]] at {{Location|Startorch Academy - Freight Zone|nocat=1}} in [[Lahai-Roi]]. He is an automaton in charge of issuing [[Expedition Motorbike]]s and enforcing traffic rules. \n\n==Quests and Events==\n{{Quests and Events}} \n\n==Idle==\n{{Dialogue Start}}\n:'''S.I.G.M.A.''' First, no quick thrills. Second, no slipping on traffic rules. Third, safety first, no exceptions!\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:{{DIcon}} I'd like to have my Expedition Motorbike tweaked.\n::'''S.I.G.M.A.:''' Guaranteed Safety. Guaranteed Compliant Modifications!\n::'''S.I.G.M.A.:''' Any modification in violation of the regulations will not escape my notice.\n:; (Opens Expedition Motorbike menu)\n::'''S.I.G.M.A.:''' This is Signal Intelligent Guidance \u0026 Management Automaton S.I.G.M.A. wishing you a safe journey.\n{{Dialogue End}}\n\n==Gallery==\n===Videos===\n{{Files by Character Gallery|S.I.G.M.A. Videos}} \n\n==Other Languages==\n{{Other Languages\n|1_en   = S.I.G.M.A.\n|1_zhs  = S.I.G.M.A.\n|1_zht  = S.I.G.M.A.\n|1_ja   = S.I.G.M.A.\n|1_ko   = S.I.G.M.A.\n|1_fr   = S.I.G.M.A.\n|1_de   = S.I.G.M.A.\n|1_es   = S.I.G.M.A.\n|1_th   = S.I.G.M.A.\n\n|2_en   = Signal Intelligent Guidance \u0026 Management Automaton\n|2_zhs  = 融合信号指挥员\n|2_zht  = 融合信號指揮員\n|2_ja   = 交通誘導用高整合性オートマトン\n|2_ko   = 융합 신호 지휘관\n|2_fr   = Assistant Électronique de Gestion Intelligente et Signalisation\n|2_de   = Signalintelligente Steuerungs- und Verwaltungsautomatik\n|2_es   = Sistema Inteligente de Gestión de Movilidad Automático\n|2_th   = ผู้ชี้นำและจัดการสัญญาณอัจฉริยะ\n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "4.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "S.I.G.M.A.",
+      "number": "5.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Signal Intelligent Guidance \u0026amp; Management Automaton",
+      "number": "5.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "8"
+    }
+  ]
+}

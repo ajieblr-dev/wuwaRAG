@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:11Z",
+  "title": "Yihu",
+  "pageid": 2662,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Yihu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Yihu''' is a waiter at [[Panhua Restaurant]] who enjoys gossips and telling jokes in {{Rubi|Guankou|stand-up show}} style. Later, it's revealed he's an undercover intel for the [[Public Security Bureau]].\n\n==Location==\n{{Map Embed|Jinzhou|Yihu}}\n\n==Quests and Events==\n{{Quests and Events|Yihu}}\n\n==Idle==\n:{{DIcon}} Ready to order? We've got Chili Oil Chicken, Pulled Chicken, Poached Chicken...\n:{{DIcon}} Alright. If you need help with anything, just holler. I'm always at your service!\n:{{DIcon}} Here's your meal. Enjoy!\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the day)\n:'''Yihu:''' Hehe, I'll let you in on a little secret. You can overhear all kinds of things here.\n:'''Yihu:''' From big news to juicy gossip, just hang around long enough and you'll know everything there is to know about Jinzhou!\n:'''Yihu:''' Don't believe me? I myself have a whole list of stories I could share with you.\n:{{DIcon}} I'm not interested.\n::'''Yihu:''' Oh! Alright, alright, it's not urgent. We can chat when you're interested.\n:{{DIcon}} Can you describe what happened?\n::'''Yihu:''' So much is happening. Look at [[Liuxian Teahouse]], it's bustling. So many people come here to drink tea and chat.\n::'''Yihu:''' But I heard the teahouse is secretly owned by some big shot who just so happens to also be a great fighter, and kind of a gentleman at that.\n::'''Yihu:''' Alright, that's it for now. If you have any interesting stories, feel free to share. We love hearing them! I'll leave you to it.\n:{{DIcon|Exit}} Leave\n----\n;(During the evening)\n:'''Yihu:''' I tell you, nighttime is when it really gets lively. Everyone's out and about, chatting and relaxing.\n:'''Yihu:''' You might run into folks from all walks of life, even some big shots you wouldn't see during the day.\n:'''Yihu:''' If you're hoping to bump into someone, don't miss out on the nightlife here!\n----\n;(Past 2AM behind Panhua's Restaurant)\n:'''Yihu:''' Huh? Wh-what are you doing here in the middle of the night...?\n:{{DIcon}} Well, you're here too.\n:'''Yihu:''' I-I'm here to prepare a birthday meal for a customer who's celebrating tomorrow!\n{{Dialogue End}}\n\n==Trivia==\n*Guankou, also known as called talk strings or cross talk, refers to an oral technique used in Xiangsheng performances where two performers exchange dialog with each other in a comedic matter.\n\n\n==Other Languages==\n{{Other Languages\n|en   = Yihu\n|zhs  = 一壶\n|zht  = 一壺\n|ja   = 一壺（イッコ）\n|ko   = 일호\n|es   = Yihu\n|fr   = Yihu\n|de   = Yihu\n}}\n\n==Change History==\n{{Change History|1.0}}\n[[es:Yihu]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Daily Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

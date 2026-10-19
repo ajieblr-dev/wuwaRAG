@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:06Z",
+  "title": "Culinary Station",
+  "pageid": 39523,
+  "wikitext": "{{Location Infobox\n|image        = Culinary Station.png\n|icon         = Restaurant Map Marker.png\n|type         = Point of Interest\n|type2        = Restaurant\n|nation       = Lahai-Roi\n|region       = Startorch Academy (Region)\n|area         = \n}}\nThe '''Culinary Station''' is a restaurant located in [[Startorch Academy (Region)|Startorch Academy]]. \n\n==Shop==\n{{Shop/Wrapper|currency=Shell Credit|\n{{Shop|\"Munchie-More\" Bun|13500|20|total=1}}\n{{Shop|Complete Nutrition Squeezy Jelly|9000|20|total=1}}\n{{Shop|Instant Wakeup Energy Gel Sachet|9000|20|total=1}}\n{{Shop|Midnight Wonder Cup Noodles|13500|20|total=1}}\n{{Shop|\"Munchie-More\" Bun Recipe|15000|1|total=1}}\n{{Shop|Complete Nutrition Squeezy Jelly Recipe|10000|1|total=1}}\n{{Shop|Instant Wakeup Energy Gel Sachet Recipe|10000|1|total=1}}\n{{Shop|Midnight Wonder Cup Noodles Recipe|15000|1|total=1}}\n|total=950,000|vendor=|type=restaurant}} \n\n==Other Languages==\n{{Other Languages\n|en   = Culinary Station\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|fr   = \n|de   = \n|es   = \n|th   = \n}} \n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{PoI Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:53Z",
+  "title": "Heguang",
+  "pageid": 4274,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Heguang.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Heguang''' is an NPC in [[Huanglong]]. He guards the west gateway of Jinzhou with [[Qingning]].\n__NOTOC__\n==Idle==\n{{Dialogue Start}}\n:'''Heguang:''' Two thousand and ninety-eight, two thousand and ninety-nine... Hey, it's you, number three thousand! Congrats on being our three thousandth visitor to Jinzhou today!\n\n:'''Heguang:''' Nice to see you again! Got any fun stories to share this time?\n\n:'''Heguang:''' Everyone's been saying, \"Make the most of the land, and the people's wisdom will follow.\" Jinzhou's feats of construction have been the talk of the town!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Heguang\n|zhs  = 荷光\n|zht  = 荷光\n|ja   = 荷光（カコウ）\n|ko   = 호성\n|es   = Heguang\n|fr   = Heguang\n|de   = Heguang\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

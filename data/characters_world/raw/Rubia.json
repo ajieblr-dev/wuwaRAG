@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:16Z",
+  "title": "Rubia",
+  "pageid": 38418,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Rubia.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = \n|affiliation      = Department of Voidmatters\n}}\n'''Rubia''' is a female student from the Department of Voidmatters seen with a TAR-D Unit named '''Pikjo'''. She talks about her classmates, '''Erio''' and '''Sena'''. She wants to help her friends reconnect. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle==\n{{Dialogue Start}}\n:;'''Rubia''' You're a minute behind, Pikjo!\n:;'''Rubia''' But that's okay—sometimes even the whole world moves slowly.\n:;'''Rubia''' Or... You could try clapping to a beat.\n:;'''Rubia''' ...\n:;'''Rubia''' Just breathe, relax, and follow the wind's tempo.\n:;'''Rubia''' Yes, just like that. Now the wind is your friend, too!\n\n==Dialogue==\n;(First time interacting)\n:'''Rubia:''' Good, there we go.\n:'''Rubia:''' Maybe try to keep up with Pikbo... even if it's a minute faster than the other TARD-Es.\n:'''Rubia:''' Is that why you haven't seen each other as much lately?\n:'''Rubia:''' Hmm... Though I suppose people who don't get along usually try to avoid each other.\n:'''Rubia:''' ...Just like those two over there.\n:'''Rubia:''' Oh, we have a new friend joining us!\n:'''Rubia:''' Why don't we go over and say hello, Pikjo? Just remember to speak a little more softly and gently.\n:{{DIcon}} Hello there.\n:'''Pikjo:''' Hello, {{Rover}} of Rabelle College. Tardy to class: zero times. Late assignment submissions: zero.\n:'''Pikjo:''' Keep up the good work.\n:'''Rubia:''' That's amazing. How do you do it? I've missed morning classes nine times already this semester.\n:'''Rubia:''' Hehe... at least Pikjo never gets mad at me.\n:'''Pikjo:''' Rubia from the Department of Voidmatters. Tardy to class: nine times. Late assignment submissions: zero.\n:'''Pikjo:''' Warning! Serious warning! Invalid warning...\n:{{DIcon}} The semester's only just begun...\n:'''Rubia:''' Huh? What?\n:{{DIcon}} Um... Are you giving lessons to that TARD-E unit?\n:{{DIcon}} Um... Are you teaching that TARD-E unit to sing?\n:{{DIcon}} Um... Are you calibrating that TARD-E unit?\n:'''Rubia:''' No, I'm apologizing to it.\n:'''Rubia:''' Maybe Pikjo's gotten slower because I've been late so many times.\n:'''Rubia:''' But if this continues... Pikjo and Pikbo will always be two minutes apart, and forever out of sync...\n:'''Rubia:''' Just like Erio and Sena...\n:{{DIcon}} Erio?\n::'''Rubia:''' That boy over there with the light brown hair—That's Erio.\n::'''Rubia:''' And Sena is the girl with the short hair over there.\n:{{DIcon}} Sena?\n::'''Rubia:''' That girl over there with the short hair—That's Sena.\n::'''Rubia:''' And Erio is the boy with the light brown hair over there.\n:'''Rubia:''' I think they had an argument.\n:'''Rubia:''' But I'd say they're more like different alarm clocks.\n:'''Rubia:''' It was so lively when they chimed together. But one day, one rang on the hour like always, while the other insisted on ringing a few minutes early.\n:'''Rubia:''' Then... the ticking stopped, and the room fell quiet. \n:'''Rubia:''' ...{{Rover}}, maybe you could go see them when you have the time?\n:'''Rubia:''' Maybe... they still want to mesh, but their gears need a gentle nudge to get moving again.\n----\n;(After completing {{Quest|Answers Only the Wind Knows}}\n:'''Pikjo:''' Rubia from the Department of Voidmatters. Tardy to class: ten times. Late assignment submissions: zero.\n:'''Pikbo:''' Warning! Serious warning!\n:'''Pikjo:''' Invalid warning...\n:'''Rubia:''' {{Rover}}!\n:'''Rubia:''' Look, look! Pikjo and Pikbo are back together and boisterous as ever!\n:{{DIcon}} You're right... They're totally in sync again.\n::'''Rubia:''' Heh... Didn't I say it was only temporary? \n:{{DIcon}} Now they're giving you warnings together.\n::'''Rubia:''' Hehe, sometimes it's good to have that sense of urgency.\n:{{DIcon}} How were you late again...?\n::'''Rubia:''' Huh? Did I break my old record?\n:{{DIcon}} That reminds me, Erio and Sena...\n::{{DIcon}} They seem to be back on good terms now.\n:'''Rubia:''' Told you so! All they needed was a little time, an opportunity, and a pinch of courage.\n:'''Rubia:''' Of course, the \"wind\" also did its part to help!\n:{{DIcon}} \n:{{DIcon}} That is to say, you were the \"wind\" carrying the message?\n:'''Rubia:''' Who, me? I didn't do a thing!\n:{{DIcon}} Really? I'm not convinced.\n:'''Rubia:''' Hm... Does making two frequencies with different waveforms briefly intersect at a certain moment count?\n:'''Rubia:''' Erio and Sena... are dear friends of mine.\n:'''Rubia:''' But they both take everything too seriously.\n:'''Rubia:''' They were so afraid that listening to each other's heartbeat would cause them to fall out of lockstep.\n:'''Rubia:''' At the very least, they needed to let the Platinheart Bloom blossom first. The heart's tempo can only be heard once all other noise is silenced.\n:'''Rubia:''' Finally, it's like you said—Different notes can come together to form a beautiful melody.\n:{{DIcon}} ...You really are a magician at work.\n:'''Rubia:''' Well... you added a spell of your own, didn't you?\n{{Dialogue End}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Rubia\n|zhs  = 露比娅\n|zht  = 露比婭\n|ja   = ルビア\n|ko   = 루비아\n|es   = Lubia\n|fr   = Rubia\n|de   = Rubia\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

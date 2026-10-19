@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:51Z",
+  "title": "Cara",
+  "pageid": 27116,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Cara.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Montelli Quarter\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Cara''' is an NPC that appears in [[Montelli Quarter]], [[Ragunna]]\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Cara:''' Good clarity. But the color is not attractive enough...\n:{{DIcon}} What are you looking at?\n:'''Cara:''' Huh? What do you think of this Vitreum Dancer's quality?\n:{{DIcon}} Does an Echo have quality?\n:'''Cara:''' Of course. When it comes to Vitreum Dancers, you can look at the cut of the glass and the gilding...\n:'''Cara:''' Especially for stained glass they are made of, it varies greatly in color, purity, and texture between different specimens.\n:'''Cara:''' The finer the materials, the higher the value of the Vitreum Dancers.\n:'''Cara:''' That said... there's still no complete valuation system in place.\n{{Dialogue Start}}\n\n==Other Languages==\n{{Other Languages\n|en   = Cara\n|zhs  = 克拉\n|zht  = 克拉\n|ja   = クラ\n|ko   = 클라\n|es   = Cara\n|fr   = Cara\n|de   = Cara\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

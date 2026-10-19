@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:54Z",
+  "title": "Norfall Valley",
+  "pageid": 7658,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Norfall Valley\n|image     = Norfall Valley.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Norfall Barrens\n}}\n'''Norfall Valley''' is an area of [[Norfall Barrens]], [[Huanglong]]. \n\n==NPCs==\n{{NPCs by Location List|Norfall Pass}}\n\n==Other Languages==\n{{Other Languages\n|en   = Norfall Valley\n|zhs  = 北落峡谷\n|zht  = 北落峽谷\n|ja   = {{Rubi|北落谷|ほくらくだに}}\n|ko   = 북락 협곡\n|es   = Valle de Norfall\n|fr   = Gorge de Nor-chute\n|de   = Norfalltal\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

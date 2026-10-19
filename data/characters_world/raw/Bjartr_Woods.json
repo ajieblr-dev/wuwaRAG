@@ -1,0 +1,100 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:45Z",
+  "title": "Bjartr Woods",
+  "pageid": 37654,
+  "wikitext": "{{Location Infobox\n|title  = Bjartr Woods\n|image  = Bjartr Woods.png\n|type   = Region\n|map    = Solaris-3\n|nation = Roya Frostlands\n}}\n{{Intro/Location|Bjartr Woods}} It is home to the [[Roya Tribe]] and the habitat of the [[Soliskin]]. \n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Haldarheim\"\n|[[Haldarheim]]\n|[[File:Haldarheim.png|180px]]\n|\n|- id=\"Soliseed Plains\"\n|[[Soliseed Plains]]\n|[[File:Soliseed Plains.png|180px]]\n|\n|- id=\"Solisylum\"\n|[[Solisylum]]\n|[[File:Solisylum.png|180px]]\n|\n\u003c!--all the solistrees seem to be in a pseudo-region called \"solvein canopy\" so it might be better to use that instead--\u003e\n|- id=\"First Solistree\"\n|[[First Solistree]]\n|[[File:First Solistree.png|180px]]\n|\n|- id=\"Second Solistree\"\n|[[Second Solistree]]\n|[[File:Second Solistree.png|180px]]\n|\n|- id=\"Third Solistree\"\n|[[Third Solistree]]\n|[[File:Third Solistree.png|180px]]\n|\n|- id=\"Fourth Solistree\"\n|[[Fourth Solistree]]\n|[[File:Fourth Solistree.png|180px]]\n|\n|- id=\"The Solistree's Core\"\n|[[The Solistree's Core]]\n|[[File:The Solistree's Core.png|180px]]\n|\n|}\n\n==Quests==\n{{Quest by Category List|Bjartr Woods Quests}}\n\n==Exploration Report==\n===\"Where Glommoths Once Roamed\" (Excerpt I)===\n* Achieve 50% Area Exploration Progress to unlock the full report. \n\n{{Transclude|\"Where Glommoths Once Roamed\" (Excerpt I)|Text|main=1}}\n\n===\"Where Glommoths Once Roamed\" (Excerpt II)===\n* Achieve 100% Area Exploration Progress to unlock the full report. \n\n{{Transclude|\"Where Glommoths Once Roamed\" (Excerpt II)|Text|main=1}}\n\n==Notable Features==\n===Resources===\n* {{Item|Arithmetic Shell}}\n* {{Item|Fern Spore}}\n* {{Item|Pine Cone}}\n\n==Descriptions==\n{{Description|A sacred homeland of the Roya and the habitat of the Soliskin. Bathed in the radiance of the Reactor Drive, its towering trees reach hungrily toward the light, their deep, interwoven roots returning that energy to the earth.|Official Website}}\n\n{{Description|The forest where the Soliskin dwell. Bathed in the light of the Reactor Drive, the woods remain untouched by the ravages of Void Storms.|Glossary Excerpt}}\n\n==Trivia==\n===Etymology===\n* \"Bjartr\" is an {{W|Old Norse}} word meaning \"bright\".\n\n==Other Languages==\n{{Other Languages\n|en   = Bjartr Woods\n|zhs  = 浮光林\n|zht  = 浮光林\n|ja   = ビヤートル・ウーズ\n|ko   = 비야토르 숲\n|fr   = Bois de Bjartr\n|de   = Bjartr-Wald\n|es   = Bosque Bjartr\n|th   = ป่าบียาร์เตอร์\n|pt   = \n}} \n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}\n[[zh:浮光林]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\"Where Glommoths Once Roamed\" (Excerpt I)",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\"Where Glommoths Once Roamed\" (Excerpt II)",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "6",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "6.1",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "13"
+    }
+  ]
+}

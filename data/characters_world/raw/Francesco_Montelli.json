@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:36Z",
+  "title": "Francesco Montelli",
+  "pageid": 26082,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = Francesco Montelli 4K.png\n|type             = NPC\n|type2            = \n|nation           = Rinascita\n|affiliation      = Montelli Family\n|affiliation2     =\n|relative         = Capollo Montelli\n|relativeNote     = Son\n|relative2        = Carlotta\n|relativeNote2    = Granddaughter\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}'''Francesco Montelli''' is a quest-exclusive NPC. He is the current head of the [[Montelli Family]] and [[Carlotta|Carlotta's]] grandfather. Recognized in the Family as the '''\"Padrino''','''\"''' he is currently spearheading the push for Reserved Terminals in the city-state of Ragunna.  \n\nHe is first encountered as the \"Old Gentleman\" in Carlotta's Companion Story: ''[[If On a Rainy Night a Family]]''.\n\n== History ==\n{{Quote|\"True artistry lies not only in what is painted, but in what is left unsaid. I share the same view, except that I'm somehow saddened by the part that forsakes its character to achieve balance. Now is not the time to cling to the existing balance, but to embrace the unknown, seek change, and carve out one's path.\"\n|Francesco Montelli on the painting, ''\"Glory in Decay\"''\n}}\n\nIn the early years of the Montelli Family, he learned to modify Terminals during his ventures in the [[New Federation]]. Unlike other regions where Terminals were freely traded, Rinascita’s Terminals were strictly controlled by the Order. The Montellis, however, developed a modified lantern-type Terminal that appeared ornamental but contained advanced tech modules. These modifications allowed the family to supply Terminals to Resonators at fair prices, effectively breaking the Order's monopoly. Eventually he adopts the orphaned Carlotta into the Main Branch of the family after an accident with her [[Carlotta/Backstory|Forte]].\n\nAs the Padrino of the Family, he holds influence in making decisions for the family, upholding their values such as their expansionist approach and their pioneering spirit. His decisions affect the city-state of Ragunna, alongside those of the Order and the Fisalia Family. He is close friends with [[If On a Rainy Night a Family|Pierre]], an expert in Terminal studies for the Montelli Family.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Francesco\n|zhs  = 弗朗西斯\n|zht  = 弗朗西斯\n|ja   = フランチェスコ\n|ko   = 프란치스코\n|es   = Francesco\n|fr   = Francesco\n|de   = Francesco\n}}\n\n==Change History==\n{{Change History|2.0}}\n==References==\n{{Reflist}}\n\n[[ru:Франческо Монтелли]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Voicelines",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

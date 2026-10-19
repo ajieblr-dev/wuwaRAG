@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:11Z",
+  "title": "Dhalifa",
+  "pageid": 38408,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Dhalifa.png\n|title            = \n|type             = Resonator\n|type2            = Quest\n|nation           = Lahai-Roi\n|location         = Spacetrek Observatory\n|affiliation      = Spacetrek Collective\n\n\u003c!-- Family --\u003e\n|father           = Unnamed\n|fatherNote       = deceased\n|mother           = Unnamed\n|motherNote       = deceased\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Dhalifa''' {{Lang|zh=德莉珐}} is an [[NPC]] in {{Location|Spacetrek Observatory|nocat=1}}.\n\n==Profile==\nDue to the [[Void Storm]] that hit the [[Spacetrek Observatory]] years prior, Dhalifa struggles to communicate verbally without [[Talkie]]'s assistance. She is able to speak in very short sentences, often only a few words long, which Talkie then interprets into the longer structured sentences Dhalifa wishes and is trying to say.\n\n===Resonance===\nDhalifa is a [[Resonator]], with her [[Tacet Mark]] being located on her right upper arm.\n\n==Forte Evaluation Report==\n{{Description|Forte Evaluation Report – Bridge and Static\nEvaluation Basis: Dhalifa's Medical Report\u003cbr\u003e\u003cbr\u003eThe patient's Tacet Mark is located on the upper right arm. The precise time of Awakening cannot be determined. Upon admission, the patient was conscious but non-communicative. When asked about her Forte, she applied it to a clock in the ward, increasing its accuracy to within femtoseconds.\u003cbr\u003e\u003cbr\u003eThe patient later clarified, via a caregiver robot, that her Forte can randomly impact machine performance. For instance, a different clock affected by her Forte began running slowly, and became unresponsive to recalibration.\u003cbr\u003e\u003cbr\u003eAs inquiries were made solely to ensure treatment safety, no further investigation is planned.\u003cbr\u003e\u003cbr\u003e\"A femtosecond is one quadrillionth of a second. The precision is astonishing. Send this clock to Startorch Academy. They'll know what to do with it.\"\u003cbr\u003e\u003cbr\u003eConclusion: Resonant Criticality is moderate. Patient stability is also moderate, with minimal risk of Overclocking.\u003cbr\u003eA prior history of Overclocking is documented.\u003cbr\u003eMaximum severity rating: Moderate.\u003cbr\u003e\u003cbr\u003eThe patient previously Overclocked during a Void Storm, drawing Exoswarm material to her body to replace contaminated tissue, which enabled her survival. The embedded material now shows no Exoswarm frequency and functions solely as prosthetic tissue.\u003cbr\u003e\u003cbr\u003eThe patient currently demonstrates unusually stable emotional states considering her trauma and injuries. Regular evaluation and psychological support are recommended.\u003cbr\u003e\u003cbr\u003eDhalifa survived only by Overclocking. This is not an ability that can counter Void Storms! Make sure the Department of Voidmatters leaves her alone!\"|[[Dhalifa's Forte Evaluation Report]]}}\n\n==Cherished Item==\n{{Description|A rust-stained electronic sheep toy, loose and wobbly, as if it could fall apart at any moment.\u003cbr\u003e\u003cbr\u003eDhalifa grew bored with this simple gadget almost immediately. But the instant she discovered that turning a single screw, nudging a bearing, or rerouting a thin line of circuitry could make the toy spin, tumble, or even bleat, something inside her ignited.\u003cbr\u003e\u003cbr\u003eFrom that moment on, she seized every chance to pester the visiting Spacetrek Collective researchers with endless questions. It was also the point when the more conservative members of her tribe began to alienate her for her newfound obsession.|[[Dhalifa's Cherished Item]]}}\n\n==Location==\nAfter completing [[Operation: Frontier Renewal]], Dhalifa appears near N.A.N.A. in Startorch Academy from 6:00 to 12:00.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(After starting [[Operation: Frontier Renewal]])\n:'''Dhalifa:''' {{Rover}}...\n:'''Talkie:''' \"Need a hand? Just say the word! We're all in this to get the Observatory back on its feet!\" says Dhalifa!\n:{{DIcon|Option}} So you survived the Void Storm?\n::'''Dhalifa:''' The Exoswarm...\n::'''Talkie:''' \"That day, a group came by with some Exoswarm. I don't remember their reason for being here, but I remember my parents' faces in the crowd. They waved at me, said it felt like ages since they'd seen me... that they missed me,\" says Dhalifa!\n::'''Dhalifa:''' They...\n::'''Talkie:''' \"I was leaning against a mech reindeer, and Pa was saying how the Spacetrek Collective's medicine was working well. Ma was saying I'd soon have a little brother or sister. And then... that familiar roar sounded,\" says Dhalifa!\n::'''Dhalifa:''' My Forte...\n::'''Talkie:''' \"When I came to my senses, Exoswarm material covered all the places I was injured. The doc said I might've Overclocked my Forte. I think... I must have used it to absorb the Exoswarm's components, stealing its functions. That's how I managed to survive,\" says Dhalifa!\n::'''Dhalifa:''' Only me...\n::'''Talkie:''' \"I was the only survivor. Only me...\" says Dhalifa.\n::'''{{Rover}}:''' Don't feel guilty. It's a good thing you survived.\n::'''Dhalifa:''' Thank you...\n::{{DIcon|Back}} I have other questions to ask.\n:{{DIcon|Option}} How does Talkie know what you're thinking?\n::'''Dhalifa:''' Talkie...\n::'''Talkie:''' \"After the Void Storm, I recovered at Startorch Academy. That's where I met Talkie. It's been by my side ever since,\" says Dhalifa!\n::'''Dhalifa:''' Friend...\n::'''Talkie:''' \"One day, it jumped in front of a Hauler to warn it away from me. Got knocked into the water. By the time they got it out, the damage was extensive,\" says Dhalifa!\n::'''Dhalifa:''' Connected...\n::'''Talkie:''' \"I couldn't bear to lose Talkie, too. I used my Forte on it, and somehow, it triggered a Bridge. After that, it was like our systems linked up! It could read my thoughts. Though, uh... it did get a bit chattier,\" says Dhalifa!\n::{{DIcon}} A Bridge?\n::'''Dhalifa:''' Bridge... Static...\n::'''Talkie:''' \"My Forte lets me control a mech's behavior, but the results are unpredictable. At its worst, it causes what I call 'Static,' and at its best, it forms a kind of 'Bridge.' But it never does anything totally impossible,\" says Dhalifa!\n::'''Dhalifa:''' Accelerate...\n::'''Talkie:''' \"Like, if I use my Forte on a vehicle, I might be able to make it move for a bit without it using any energy. But it's not like I can instantly teleport mechs somewhere,\" says Dhalifa!\n::{{DIcon|Back}} I have other questions to ask.\n:{{DIcon|Arrow}} I'm good. Thank you.\n::'''Dhalifa:''' See you. Good luck...\n{{Dialogue End}}\n\n==Gallery==\n\u003cgallery\u003e\nNPC Dhalifa Icon.png\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Dhalifa\n|zhs  = 德莉珐\n|zht  = 德莉琺\n|ja   = ディリファ\n|ko   = 달리파\n|fr   = Dhalifa\n|de   = Dhalifa\n|es   = Dhalifa\n|th   = Dhalifa\n}}\n\n==References==\n{{Reflist}}\n\n==Change History==\n{{Change History|3.0}}\n\n{{Reflist}}\n\n[[ru:Далифа]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Forte Evaluation Report",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Cherished Item",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "5.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "6",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "7",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "8",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "9",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "10",
+      "index": "11"
+    }
+  ]
+}

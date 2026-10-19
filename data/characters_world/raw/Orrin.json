@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:56Z",
+  "title": "Orrin",
+  "pageid": 26109,
+  "wikitext": "{{NPC Infobox\n|image            = NPC_Orrin.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         = \n|relativeNote     = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Orrin''' is a female NPC that is located in [[Ragunna]], [[Rinascita]].\n\nFrom 6:00 AM - 05:59 PM, or during the daytime, she can be found chatting with [[Graham|Golem/Graham]] about business jargon near Ragunna's gate, where Acolytes handle customs.\n\nFrom 6:00 PM - 5:59 AM, she can be seen near Genesis Nexus in Ragunna, in a call with someone called Lord Francois talking about [[Lollo Logistics]].\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events}}\n\n==Idle Dialogue==\n{{Dialogue Start}}\n;(during the daytime)\n:'''Orrin:''' Some of your business jargon confuses me.\n:'''Graham:''' Feel free to ask me anything!\n----\n;(at night)\n:'''Orrin:''' Yes, good sir, Lollo Logistics is a trustworthy business partner.\n:'''Orrin:''' We excel in confidentiality, timeliness, and security.\n:'''Orrin:''' Yes, I understand your concerns. Data shows that Lollo Logistics has the lowest cargo damage rate in the industry for international shipping.\n:'''Orrin:''' Averardo Bank has increased the insurance coverage for your collection by 40 million Shell Credits. What do you think?\n:'''Orrin:''' I'm pleased you accepted our proposal. Looking forward to working with you, Lord Francois.\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(during the daytime)\n:'''Orrin:''' Some of your business jargon confuses me.\n:'''Graham:''' Feel free to ask me anything!\n:'''Orrin:''' For example, what does \"combination moves\" mean? Does it refer to a self-defense technique used by your staff?\n:'''Graham:''' Uh... here it refers to various measures working together to achieve a common goal.\n:'''Orrin:''' I see! And what about \"granularity\"?\n:'''Graham:''' You can think of it as the level of detail... How do I put this... Right! Just like ground pepper—you can grind it to coarse or fine!\n:'''Orrin:''' Got it. Thank you for explaining. This \"Maggie\" fellow has a rather interesting way of putting things.\n:'''Graham:''' Maggie...? Oh, oh! You mean my colleague, [[Maji]]!\n:'''Orrin:''' I'm quite interested in his work. I'd appreciate it if you could introduce me sometime.\n:'''Graham:''' It would be my pleasure. I'll let him know.\n{{Dialogue End}}\n\n==Other Language==\n{{Other Languages\n|en   = Orrin\n|zhs  = 欧容\n|zht  = 歐容\n|ja   = オーロン\n|ko   = 오존\n|es   = Orrin\n|fr   = Orrin\n|de   = Orrin\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Language",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

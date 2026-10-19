@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:27Z",
+  "title": "Silins",
+  "pageid": 39042,
+  "wikitext": "{{NPC Infobox\n|name=Silins\n|type= Open-World\n|image=NPC Silins.png\n|nation=Lahai-Roi\n|location=Startorch Academy - Teaching Zone\n|affiliation=Rabelle College}}\n\n'''Silins''' is a NPC male student that can be found in the Rabelle College classroom during the afternoon. \n\n==Idle==\n:'''Silins:''' I don't understand why people don't like it.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Silins:''' I've been listening to that [[Fleet Snowfluff]] album back-to-back for three days straight...\n:'''Silins:''' I based this algorithm entirely on her music's modes and lyrical structures.\n:'''Silins:''' The logic is sound. The methodology is precise...\n:'''Silins:''' So why does everyone hate the music my algorithm writes?\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n{{Other Languages\n|en   = Silins\n|zhs  = 席林斯\n|zht  = 席林斯\n|ja   = シリングス\n|ko   = 실린스\n|fr   = Silins\n|de   = Silins\n|es   = Silins\n|th   = Silins\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

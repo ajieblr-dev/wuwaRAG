@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:45Z",
+  "title": "Bosses",
+  "pageid": 4438,
+  "wikitext": "{{Terminology Infobox\n|title        = Boss Challenge\n|image        = Icon Boss Challenge.png\n|type         = Challenge Types\n}}'''Boss Challenges''' are [[Challenges]] that award [[Resonator Ascension Material]]s and feature [[Overlord Class]] [[Enemy|Enemies]] and [[Echoes]].\n\nClaiming rewards from Bosses cost {{Item|Waveplate|x=60}}.\n\nAll bosses respawn 2 minutes after they were first loaded and they will respawn even if the player is nearby or in a menu. The option to claim rewards will also disappear after the boss respawns. The exact time remaining until the boss respawns can be seen by clicking on the boss on the map.\n\n__TOC__\n\n==List of Boss Challenges==\n{{Bosses by Category Table|Overlord}}\n\n==Possible Drops==\nThere is currently no datamine showing possible drop rates. One particular community project is currently crowdsourcing data regarding drop rates.\nKeep in mind, that '''sample size is still relatively small''' so take this with a grain of salt.\n\n{| class=\"fandom-table\" style=\"text-align:center;\"\n! Sample\u003cbr\u003eSize !! Union\u003cbr\u003eLevel !! SOL3\u003cbr\u003ePhase !! Shell\u003cbr\u003eCredit !! Boss\u003cbr\u003eMaterial !! Echo\u003cbr\u003eEXP !! Weapon\u003cbr\u003eEXP !! Resonator\u003cbr\u003eEXP !! Total\u003cbr\u003eEcho EXP !! Total\u003cbr\u003eWeapon EXP !! Total\u003cbr\u003eResonator EXP || EXP\u003cbr\u003eRarity\n|-\n|39||10||1||2400||1.00||1.41||2.41||2.36||1410.26||7230.77||7076.92||Medium\n|-\n|15||10||2||4800||1.00||2.87||4.53||4.80||2866.67||13600.00||14400.00||Medium\n|-\n|44||20||3||5280||1.45||3.09||5.27||5.30||3090.91||15818.18||15886.36||Medium\n|-\n|40||30||4||5760||2.00||2.13||2.18||2.18||4250.00||17400.00||17400.00||Advanced\n|-\n|51||40||5||6240||2.80||2.33||2.35||2.29||4666.67||18823.53||18352.94||Advanced\n|-\n|68||50||6||7200||3.13||2.74||2.62||2.68||5470.59||20941.18||21411.76||Advanced\n|-\n|178||60||7||9600||4.28||3.59||3.57||3.61||7179.78||28584.27||28898.88||Advanced\n|-\n|317||70||8||10000||4.51||3.63||3.59||3.60||7268.14||28719.24||28769.72||Advanced\n|}\nThe up to date data is visible on this [https://docs.google.com/spreadsheets/d/1DTM0dzTnKdeGyvkgJdPyyp19K_GmOFdovfB1mwN69Es Google Spreadsheet] made by Wuthering Waves - Data Gathering discord server.\n\n\u003c!--\n{| class=wikitable\n!'''Boss'''\n!'''Drops'''\n|-\n| style=\"text-align:center;\" |{{Card|type=echo|show_caption=1|Crownless}}\u003cbr /\u003e([[Gorges of Spirits]], [[Jinzhou]])\n| {{Card|Strife Tacet Core}}{{Card|Medium Resonance Potion}}{{Card|Medium Energy Core}}{{Card|Medium Sealed Tube}}{{Card|Shell Credit}}\u003cbr /\u003e{{Card|Union EXP|450}}{{Card|Intimacy}}\n|-\n| style=\"text-align:center;\" |{{Card|type=echo|show_caption=1|Tempest Mephis}}\u003cbr /\u003e([[Central Plains]], [[Jinzhou]])\n| {{Card|Hidden Thunder Tacet Core}}{{Card|Medium Resonance Potion}}{{Card|Medium Energy Core}}{{Card|Medium Sealed Tube}}{{Card|Shell Credit}}\u003cbr /\u003e{{Card|Union EXP|450}}{{Card|Intimacy}}\n|-\n| style=\"text-align:center;\" |{{Card|type=echo|show_caption=1|Thundering Mephis}}\u003cbr /\u003e([[Desorock Highland]], [[Jinzhou]])\n| {{Card|Thundering Tacet Core}}{{Card|Medium Resonance Potion}}{{Card|Medium Energy Core}}{{Card|Medium Sealed Tube}}{{Card|Shell Credit}}\u003cbr /\u003e{{Card|Union EXP|450}}{{Card|Intimacy}}\n|-\n| style=\"text-align:center;\" |{{Card|type=echo|show_caption=1|Inferno Rider}}\u003cbr /\u003e([[Port City of Guixu]], [[Jinzhou]])\n| {{Card|Rage Tacet Core}}{{Card|Medium Resonance Potion}}{{Card|Medium Energy Core}}{{Card|Medium Sealed Tube}}{{Card|Shell Credit}}\u003cbr /\u003e{{Card|Union EXP|450}}{{Card|Intimacy}}\n|-\n| style=\"text-align:center;\" |{{Card|type=echo|show_caption=1|Feilian Beringal}}\u003cbr /\u003e([[Dim Forest]], [[Jinzhou]])\n| {{Card|Roaring Rock Fist}}{{Card|Medium Resonance Potion}}{{Card|Medium Energy Core}}{{Card|Medium Sealed Tube}}{{Card|Shell Credit}}\u003cbr /\u003e{{Card|Union EXP|450}}{{Card|Intimacy}}\n|-\n| style=\"text-align:center;\" |{{Card|type=echo|show_caption=1|Mourning Aix}}\u003cbr /\u003e([[Whining Aix's Mire]], [[Jinzhou]])\n| {{Card|Elegy Tacet Core}}{{Card|Medium Resonance Potion}}{{Card|Medium Energy Core}}{{Card|Medium Sealed Tube}}{{Card|Shell Credit}}\u003cbr /\u003e{{Card|Union EXP|450}}{{Card|Intimacy}}\n|-\n| style=\"text-align:center;\" |{{Card|type=echo|show_caption=1|Impermanence Heron}}\u003cbr /\u003e([[Desorock Highland]], [[Jinzhou]])\n| {{Card|Gold-Dissolving Feather}}{{Card|Medium Resonance Potion}}{{Card|Medium Energy Core}}{{Card|Medium Sealed Tube}}{{Card|Shell Credit}}\u003cbr /\u003e{{Card|Union EXP|450}}{{Card|Intimacy}}\n|-\n| style=\"text-align:center;\" |{{Card|type=echo|show_caption=1|Lampylumen Myriad}}\u003cbr /\u003e([[Tiger's Maw]], [[Jinzhou]])\n| {{Card|Sound-Keeping Tacet Core}}{{Card|Medium Resonance Potion}}{{Card|Medium Energy Core}}{{Card|Medium Sealed Tube}}{{Card|Shell Credit}}\u003cbr /\u003e{{Card|Union EXP|450}}{{Card|Intimacy}}\n|-\n| style=\"text-align:center;\" |{{Card|type=echo|show_caption=1|Mech Abomination}}\u003cbr /\u003e([[Whining Aix's Mire]], [[Jinzhou]])\n| {{Card|Group Abomination Tacet Core}}{{Card|Medium Resonance Potion}}{{Card|Medium Energy Core}}{{Card|Medium Sealed Tube}}{{Card|Shell Credit}}\u003cbr /\u003e{{Card|Union EXP|450}}{{Card|Intimacy}}\n|}--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Boss Challenge\n|zhs  = 讨伐强敌\n|zht  = 討伐強敵\n|ja   = 強敵討伐\n|ko   = 강적 토벌\n|es   = Desafío de jefe\n|fr   = Défi : Boss\n|de   = Boss-Herausforderung\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Challenge Navbox}}\n\n[[Category:Enemies]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "List of Boss Challenges",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Possible Drops",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

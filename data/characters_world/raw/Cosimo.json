@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:05Z",
+  "title": "Cosimo",
+  "pageid": 28249,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Cosimo.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Whisperwind Haven\n|group            = \n|affiliation      = \n}}\n\n'''Cosimo''' Sorrentino is the owner of Sorrentino Inn and former member of the [[Order of the Deep|Order]]. His nephew, [[Damian]], is the receptionist and acting innkeeper.\n\nHe can be found with [[Wicktorio]] in front of an overgrown and abandon house during 07:00 to 10:00, seemingly with regrets.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle==\n{{Dialogue Start}}\n;(Daytime, in front of the abandoned house)\n:'''Cosimo:''' Heh... How many years have we been strolling here every morning?\n:'''Wicktorio:'''  I can't remember. My memory is not what it used to be. We're just old fools approaching the grave.\n:'''Cosimo:''' Every time I see this house, I feel as if the child's right before me...\n:'''Cosimo:''' Oh Imperator, is her fate also part of your design?\n\n==Dialogue==\n;(Daytime, in front of the abandoned house)\n:'''Cosimo:''' Welcome to Egla Town, traveler from afar. May you have a wonderful time here.\n:'''Cosimo:''' Despite that... there have been some unusual circumstances lately, so please avoid going out at night unless absolutely necessary. If you need accommodation, please speak with Damian. He'll help you arrange a room.\n:{{DIcon}} What do you mean by unusual circumstances?\n::'''Cosimo:''' Have you ever heard the tale of the knight? Once, a knight ventured deep into the area to vanquish a menacing \"giant\" that plagued the land. Since then, the knight has become a symbol of this place.\n::'''Cosimo:''' Many knights have been drawn to this place by its fame. And one of them had likely become the \"Mad Knight.\"\n::'''Cosimo:''' It is said that he gradually lost himself during the endless fight against the Tacet Discords...\n::'''Cosimo:''' To placate the Mad Knight, the town create the [[Night Reveries]]- endless dramas of the knight enacted by the Echoes. Townsfolk and visitors alike were advised to stay indoors at night.\n{{DIcon|Exit}} Thanks. That's all I need.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Cosimo\n|zhs  = 科西莫\n|zht  = 科西莫\n|ja   = コジモ\n|ko   = 코시모\n|es   = Cosimo\n|fr   = Cosimo\n|de   = Cosimo\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:46Z",
+  "title": "Nightmare: Baby Viridblaze Saurian",
+  "pageid": 37630,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Nightmare Enemy Infobox\n|name      = Nightmare: Baby Viridblaze Saurian\n|image     = Nightmare Baby Viridblaze Saurian Icon.png\n|dmgtype   = Fusion\n|echo      = Yes\n|class     = Common\n|family    = Tacet Discord\n|nation    = Rinascita\n|region    = Sanguis Plateaus\n|subregion = Three Heroes' Crest Nightmare Nest\n|variants  = Baby Viridblaze Saurian\n}}{{Description|A special Tacet Discord that lurks in the intricate network of the Dreamscape Nodes.}}\n{{Intro/Enemy|Nightmare: Baby Viridblaze Saurian}}\n\n==Stats==\n{{Enemy Stats|Nightmare: Baby Viridblaze Saurian}}\n\u003c!--\n==Abilities==--\u003e\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Fusion DMG|nobold=1}}.\u003cbr/\u003eA special Tacet Discord that lurks in the intricate network of the Dreamscape Nodes. It gathers frequencies of a particular negative emotion.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Nightmare: Baby Viridblaze Saurian\n|zhs  = 梦魇・绿熔蜥（稚形）\n|zht  = 夢魘・綠熔蜥（稚形）\n|ja   = ナイトメア・熔解トカゲ（幼体）\n|ko   = 악몽 ・ 그린멜팅카멜레온(유체)\n|fr   = Cauchemar : Lézard lavique vert (Petit)\n|de   = Albtraum: Baby-Grüne Flammeneidechse\n|es   = Pesadilla: Saurio Viridblaze Bebé\n|th   = Nightmare: Baby Viridblaze Saurian\n}}\n\n==Change History==\n{{Change History|2.7}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

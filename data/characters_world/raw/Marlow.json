@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:34Z",
+  "title": "Marlow",
+  "pageid": 38421,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Marlow.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Department of Light Energy Sciences\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Marlow''' is a male student from the Department of Light Energy Sciences, talking with his classmate, '''Dahl'''.\n{{Dialogue Start}}\n==Idle==\n:;'''Dahl''' Did you hear about the people from Agro Wing who ended up in the infirmary after eating some mushrooms the other day?\n:;'''Dahl''' [[Luuk Herssen|Dr. Herssen]] and his medical team were swamped the entire afternoon.\n\n==Dialogue==\n:'''Marlow:''' Just the infirmary? What's so surprising about that?\n:'''Marlow:''' They eat those hybrid plants they grow themselves all the time.\n:'''Dahl:''' Yeah, I saw them throwing around corn cobs the size of my arm yesterday.\n:'''Dahl:''' No wonder they wanted to set up their own department...\n:'''Marlow:''' Anyway, just try not to eat anything they ask you to willy-nilly.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Marlow\n|zhs  = 马洛\n|zht  = 馬洛\n|ja   = マーロ\n|ko   = 말로\n|fr   = Marlow\n|de   = Marlow\n|es   = Marlow\n|th   = Marlow\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

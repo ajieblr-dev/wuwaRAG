@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:52Z",
+  "title": "Ulfrida",
+  "pageid": 65813,
+  "wikitext": "{{stub|hidden side quest involving glommoth}}\n{{NPC Infobox\n|image=.png\n|type=Open-World\n|nation=Lahai-Roi\n|location=Roya Frostlands\n|affiliation=\n|group=Roya Tribe\n}}\n{{PAGENAME}} is an elderly Roya found at the Roya Frostland camps who speaks about a [[Glommoth]].\n\n{{Dialogue Start}}\n==Idle==\n:;'''Ulfrida''' Have you ever seen a \"Glommoth,\" child?\n\n==Dialogue==\n:'''Ulfrida:''' Have you ever seen a \"Glommoth,\" child?\n:{{DIcon}} A Glommoth?\n:{{DIcon}} I'm not from around here... \n:'''Ulfrida:''' Ah, forgive my eagerness. I am Ulfrida. Folk here once called me a \"Cryptozoologist.\"\n:'''Ulfrida:''' Would you like to hear a story about a Glommoth?\n:{{DIcon|Option}} (Listen)\n::'''Ulfrida:''' It happened when I was just a girl. Lost on the ice I was, gathering herbs, when the avalanche struck.\n::'''Ulfrida:''' I ran, but found no place to hide. I could only watch as the mountain of snow came for me...\n::'''Ulfrida:''' And then... it appeared. With its great tusks it shattered the falling stone. With its body, it shielded me from the snow.\n::'''Ulfrida:''' When the roar was gone, the Glommoth raised its trunk and blew, pointing in the direction I was to go. And in its eyes I saw... a guarded, lonely depth.\n::'''Ulfrida:''' There I stood, in fear or awe, I cannot say... until it turned and faded back into the storm.\n::'''Ulfrida:''' ...Heh. Sounds a tale spun from dream-stuff, does it not?\n::'''Ulfrida:''' I was just a girl at the time. No image could I keep, no trail could I follow. But in my bones, I know what I saw.\n::'''Ulfrida:''' I have looked for it ever since, but never have I found it...\n::{{DIcon}} Maybe it doesn't actually exist?\n::{{DIcon}} Maybe it was just your imagination?\n::'''Ulfrida:''' I believe what I saw.\n::'''Ulfrida:''' Older than we know is Solaris. Grander. Full of mysteries our minds cannot hold.\n::'''Ulfrida:''' Now my hope lies in the Spacetrek Collective's technology to confirm its existence... I want to hear news of the creature as soon as it's found. That's why I live here.\n::'''Ulfrida:''' If you ever meet it, do tell me... May the Soliskin protect you, child of Solaris.\n:{{DIcon|Exit}} I'm a bit busy right now...\n{{Dialogue End}}\n\n\u003c!--==See Also==\n* Hidden Side quest involving breaking an ice to see a Glommoth--\u003e\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ulfrida\n|zhs  = 伍尔芙\n|zht  = 伍爾芙\n|ja   = ウルフ\n|ko   = 울프리다\n|fr   = Ulfrida\n|de   = Ulfrida\n|es   = Ulfrida\n|th   = Ulfrida\n}}\n==Change History==\n{{Change History}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

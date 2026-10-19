@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:10Z",
+  "title": "KU-Cass",
+  "pageid": 22064,
+  "wikitext": "{{NPC Infobox\n|image            = NPC KU-Cass.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Tethys Hub\n|group            = \n|affiliation      = Black Shores\n|title            = Retro Game Collector\n|species          = KU-Roro\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''KU-Cass''' is an NPC in [[Tethys Hub]], [[The Black Shores]].\n\n==Quests and Events==\n{{Quests and Events|KU-Cass}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Chat)\n:'''KU-Cass:''' I should really figure out a good way to keep them safe onceall the cartridges are back with me.\n:{{DIcon}} Why don't you just make them digital?\n:'''KU-Cass:''' Nonsense! It's the tradition! Plus, I've recently found that some even have voice recordings attached. Like this one...\n:{{DIcon}} What does it say?\n:You wait patiently for something to happen as KU-Cass loads the cartridge's data.\n:{{DIcon}} Anything?\n:'''KU-Cass:''' Er... The cartridge seems to have jammed itself. Luckily, I caught the last sentence—it looks like a message from the game's creator...\n:'''KU-Cass:''' Thank you for enjoying my game...\n{{Dialogue End}}\n\n== Other Languages ==\n{{Other Languages\n|en   = KU-Cass\n|zhs  = 库卡斯\n|zht  = 庫卡斯\n|ja   = クーカス\n|ko   = 쿠 ・ 카스\n|es   = KU-Cass\n|fr   = Ku-Carto\n|de   = KU-Cass\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

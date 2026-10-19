@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:43Z",
+  "title": "Nevana",
+  "pageid": 26249,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Nevana.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Bank Street\n|group            = \n|affiliation      = Averardo Bank\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Nevana''' is an NPC that appears in [[Ragunna]], [[Rinascita]]. \u003cbr\u003e\nFrom 8.00 AM - 11:59 AM and 1:00 PM - 4:59 PM, she can be found talking with [[Beatrix]] in the middle of [[Bank Street]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n;(at 8\u0026#58;00 AM - 11\u0026#58;59 AM)\n:'''Beatrix:''' I'm so tired. My eyes can barely stay open...\n:'''Beatrix:''' 6681, 6682...\n----\n;(at 1\u0026#58;00 PM - 4\u0026#58;59 PM)\n:'''Beatrix:''' Phew... I've been busy all morning, and I still have to keep counting this afternoon. I need to pull myself together...\n:'''Nevana:''' Two decaf Margheritas, a courtesy from Ms. [[Zani]].\n:'''Beatrix:''' Tell Ms. Zani I said thank you.\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(at 8\u0026#58;00 AM - 11\u0026#58;59 AM)\n:'''Nevana:''' What are you counting?\n:'''Beatrix:''' That bastard Barbosa made me count every old Monnaie sent to the vault.\n:'''Nevana:''' The more incompetent the boss, the more fragile their ego. I warned you not to go against him. He'll just make an example out of you.\n:'''Nevana:''' People in high positions care the most about saving faces. Show them attitudes, you only get a taste of your own medicine.\n:'''Nevana:''' But I do agree with you on one thing.\n:'''Beatrix:''' What's that?\n:'''Nevana:''' He's a bastard.\n----\n;(at 1\u0026#58;00 PM - 4\u0026#58;59 PM)\n:'''Beatrix:''' Look, the empty coffee cups on my desk are stacked to the ceiling.\n:'''Beatrix:''' I swear, once I've downed my one-thousandth cup, I'm going to turn these empty cups into a piece of installation art!\n:'''Beatrix:''' I'll write a resignation letter and put it through paper shredder—\n:'''Beatrix:''' stuff the shredded pieces into every coffee cup and fill Mr. Barbosa's office with them.\n:'''Beatrix:''' I've even thought of a name for this installation—it'll be absolutely sensational.\n:'''Nevana:''' What's the title? Let me hear it.\n:'''Beatrix:''' Sip and Split.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Nevana\n|zhs  = 涅瓦娜\n|zht  = 涅瓦娜\n|ja   = ニルヴァーナ\n|ko   = 네바나\n|es   = Nevana\n|fr   = Nevana\n|de   = Nevana\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

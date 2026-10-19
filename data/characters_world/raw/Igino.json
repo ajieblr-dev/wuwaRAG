@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:00Z",
+  "title": "Igino",
+  "pageid": 37955,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Igino.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Sanguis Plateaus\n|location2        = Hunter's Den\n|affiliation      = Septimont\n|affiliationNote  = Gladiator\n|group            = Gladiator}}\n__NOTOC__\n'''{{PAGENAME}}''' is a NPC male Gladiator in the [[Hunter's Den]] accompanying the Hunt with Augusta.\n==Dialogue==\n{{Dialogue Start}}\n:'''Igino''': Listen, my friend. Don't be fooled by this beast just because it has the familiar face of a Corrosaurus.\n:'''Igino''': Tyrannos isn't just another wild stray. It's the most brutal, intelligent, and vicious of the lot.\n:'''Igino''': It holds grudges. Remembers every wound and every face that made it bleed.\n:'''Igino''': So take this seriously and be extra careful!\n----\n;(After {{Quest|By Sun's Burning Hand}}\n:'''Igino''': Tyrannos was supposed to be the worst of it. Who knew there was something even more terrifying lurking behind it...\n:'''Igino''': An enemy no one couldn't prepared for. That thing... it shouldn't even exist in this world!\n:'''Igino''': Victory was ours in the end, but the cost was steep...\n:'''Igino''': For a moment there, I thought we'd go down with the Sovereign.\n:'''Igino''': But somehow... we made it out alive...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Igino\n|zhs  = 伊吉诺\n|zht  = 伊吉諾\n|ja   = イジーノ\n|ko   = 이지노\n|fr   = Igino\n|de   = Igino\n|es   = Igino\n|th   = Igino\n}}\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

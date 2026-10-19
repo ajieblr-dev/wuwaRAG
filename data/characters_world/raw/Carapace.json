@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:54Z",
+  "title": "Carapace",
+  "pageid": 23064,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name       = Carapace\n|image      = Carapace Icon.png\n|dmgtype    = Aero\n|weakpoint  = Unknown\n|echo       = Yes\n|class      = Elite\n|family     = Tacet Discord\n|group      = Clamorling\n}}\n{{Description|An Elite Class Howler\u003cref\u003eAccording to the Chinese description Carapace is a Clamorling TD. The English translation classifies it as Howler, but the items it drops suggest that it's either a Tranquilite or a Clamorling.\u003c/ref\u003e TD hiding itself in city ruins. Records show that its special camouflage methods present great troubles for people looking to identify it.}}\n{{Intro/Enemy|Carapace}}\n\n==Drops== \n{{Drops|Elite Clamorling}}\n\n==Stats==\n{{Enemy Stats|Carapace}}\n\u003c!--\n==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Carapace|customheader=Carapace}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Aero DMG}}.\u003cbr\u003e\u003cbr\u003eA TD living in discarded vehicles. It camouflages itself among ruins and foliage. Once disturbed, they exhibit a terrifying posture.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en      = Carapace\n|zhs     = 车刃镰\n|zht     = 車刃鐮\n|ja      = 恐刃の車\n|ko      = 트랜스카\n|fr      = Rasoir chasseur\n|de      = Chaserazor\n|es      = Caparazón\n|th      = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

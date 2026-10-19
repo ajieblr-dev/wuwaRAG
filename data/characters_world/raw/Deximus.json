@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:11Z",
+  "title": "Deximus",
+  "pageid": 36042,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Deximus.png\n|type             = NPC\n|type2            = \n|nation           = Rinascita\n|location         = Septimont\n|affiliation      = Gladiator\n|affiliationNote  = Sponsorship\n}}\n'''{{PAGENAME}}''' is a male NPC noble of [[Capitoline Hill City]], looking to rise ranks. However, his evaluation of Gladiators capability is questionable.\n{{Dialogue Start}}\n==Idle== \n:;'''Deximus:''' When will these Gladiators learn some appreciation? I've said I'd give them bonuses if they get the championship. Why can't they just put more effort into it...?\n:;'''Deximus:''' Sigh. I came all this way.\n\n==Dialogue==\n:'''Deximus:''' Have a look at these Gladiators I've hired. This one can burst open ten boxes of Seasalt Popcorns with her bare hands, and that one can stomp ten bags of [[Bamboo Iris Crisps]].\n:'''Deximus:''' Each is a one-of-a-kind talent. Pretty impressive, don't you think?\n:{{DIcon}} Very impressive.\n::'''Deximus:''' My thoughts as well. I hired these Gladiators myself. Of course, they're impressive.\n::'''Deximus:''' As long as my Gladiators stand out in the arena, I'll have the chance to move up in the ranks.\n:{{DIcon}} Seems all right.\n::'''Deximus:''' You think so? But I shelled out big money for these Gladiators.\n:{{DIcon}} Nothing compared to me.\n::'''Deximus:''' So you think you're better than all of them? Then come be my Gladiator.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Deximus\n|zhs  = 德西姆斯\n|zht  = 德西姆斯\n|ja   = デシムス\n|ko   = 데키무스\n|es   = Decimus\n|fr   = Decimus\n|de   = Decimus\n}}\n\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

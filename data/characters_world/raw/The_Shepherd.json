@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:44Z",
+  "title": "The Shepherd",
+  "pageid": 4661,
+  "wikitext": "\u003c!--For editors: \"Do not make The Shepherd the \"game's main antagonist\" since Kuro was yet to confirm that this NPC being the real villain in lore. Always remember to be stay tuned for future lore updates.\"--\u003e\n{{Stub}}\n{{NPC Infobox\n|name             = The Shepherd\n|image            = Shepherd cutscene.png\n|type             = Mentioned\n|affiliation      = Qichi Village\n}}\n\n'''The Shepherd''' is an NPC in ''[[Wuthering Waves]]'' who is first mentioned in during the {{Quest|Ominous Star}}.\n\nAlthough not a real person, they are made up by [[Scar]] through his interpretation of [[Qichi Village]]'s dark story.\n\u003c!--\n==Personality==\n''To be added''\n\n==Backstory==\n''To be added''\n\n==Possible Identities==\n''To be added''\n--\u003e\n==Quests and Events==\n{{Quests and Events|The Shepherd}}\n\n==Trivia==\n*It is currently unknown who The Shepherd represents aside from the \"black lamb,\" who represents Scar and [[Rover]]. However, it is implied that The Shepherd could represent or might be the true identity of [[Phrolova]], which is hinted to her ability in controlling [[Echoes]] and [[Tacet Discord]]s alike through her Lycoris wand. Alternatively, the Shepherd is no one in particular and merely a representation of authority figures that Scar opposes.\n\n==Other Languages==\n{{Other Languages\n|en   = The Shepherd\n|zhs  = 牧羊人\n|zht  = 牧羊人\n|ja   = ヤギ飼い\n|ko   = 양치기\n|es   = El Pastor\n|fr   = Le Berger\n|de   = Der Hirte\n}}\n\n==Change History==\n{{Change History|introduced=1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:32Z",
+  "title": "Agune",
+  "pageid": 39700,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = no\n|missing_NPC_context  = no\n|missing_NPC_profile  = no\n|missing_NPC_idle     = no\n|missing_NPC_dialogue = no\n}}\n{{NPC Infobox\n|image            = NPC Augune.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = \n|affiliation      = Startorch Academy\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          =\n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''{{PAGENAME}}''' is an [[NPC]] male professor or researcher, and graduate of Rabelle College, found outside the office during the day. \n\n==Location==\n\n{{Dialogue Start}}\n==Idle==\n:[[Startorch Academy]] only has four departments. Where  did this \"Agronomy Wing\" come from?\n:'''Agune:''' Oh, that's a nickname for the Division of Ecology Conservation, out of the Department of Light Energy Sciences.\n:'''Agune:''' We're like the fantastic four and a half. Kinda funny, don't you think?\n\n==Dialogue==\n:'''Agune:''' Ah, a new student of Rabelle College. What do you want to know? I'm familiar with the ins and outs of this place. Got questions? Ask away!\n:{{DIcon}} Tell me about how the \"Agronomy Wing\" nickname came to be.\n::'''Agune:''' The nickname \"Agronomy Wing\" refers to the Division of Ecology Conservation within the Department of Light Energy Sciences. They spend their days planting things in lunar soil and are the most \"grounded\" bunch in the entire Academy.\n::'''Agune:''' The novel foodstuffs served in the Food, Utilities \u0026 Energy Lounge are mostly the result of their research. Always nutritious, but the taste... well, best not to think about that.\n:{{DIcon}} Tell me about Rabelle College.\n::'''Agune:''' As a recent graduate, here's the advice I give to current students: If a classmate tries to recruit you into the \"superfood\" research group, start running!\n::'''Agune:''' The stuff they come up with tastes ten times worse than the food in {{Rubi|F.U.E.L.|the cafeteria}}. I wouldn't steer you wrong, fresher!\n:{{DIcon}} Tell me about the other departments.\n::'''Agune:''' Well, the Department of Exostrider Engineering is obsessed with all things [[Exostrider]]. The students there are either geniuses or lunatics. It's the most \"dangerous\" department in the Academy.\n::'''Agune:''' The Department of Voidmatters specializes in the studying [[Waveworn Phenomenon|Waveworn Phenomena]] and [[Void Storm]]s to predict and control these disasters. But once they get deep into their research, they often forget to eat and... can start to lose touch with humanity.\n::'''Agune:''' Then there's the Department of Light Energy Sciences, home to the Division of Light Array Engineering, focused on energy conversion. They spend their days buried in blueprints and equations—a stark contrast to the guys over at the Agro Wing.\n:'''Agune:''' In short, each department is unique. Choosing one isn't just about picking an area of study, it's about choosing a lifestyle for the next four years.\n:'''Agune:''' I hope you'll find your passion during your time here at Startorch Academy.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* Despite asking about Rabelle College, he only talks about \"superfood\" research group, implying Rabelle College students are most likely participates or members. \n\n==Other Languages==\n{{Other Languages\n|en   = Agune\n|zhs  = 阿古那\n|zht  = 阿古那\n|ja   = アグーナ\n|ko   = 아그네\n|fr   = Agune\n|de   = Agune\n|es   = Agune\n|th   = Agune\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

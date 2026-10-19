@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:05Z",
+  "title": "Cosa",
+  "pageid": 27299,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Cosa.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Montelli Quarter\n|group            = \n|affiliation      = Montelli Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Cosa''' is a male NPC who appears at the bar in [[Montelli Quarter]], [[Ragunna]]. he can be seen talking to [[Rafael]] during the daytime.\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Cosa:''' Have you heard? Averardo Vault has suddenly tightened its security.\n:'''Rafael:''' Probably just a routine security drill.\n:'''Rafael:''' After all, it's the safest place in Rinascita. Nothing can go wrong there.\n:'''Cosa:''' Let's hope so. As long as nothing happens to my precious Echo in the vault...\n:'''Rafael:''' Precious Echo? What Echo is precious enough to be in Averardo Vault?\n:'''Cosa:''' Shh, keep it down!\n:'''Cosa:''' It's a rare specimen. I paid a fortune to bring it back from Jinzhou, Huanglong.\n:'''Cosa:''' It's called Dwarf Cassowary. They say it's particularly clever and understands human language.\n:'''Rafael:''' Really? I'd love to see that...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Cosa\n|zhs  = 柯萨\n|zht  = 柯薩\n|ja   = コサ\n|ko   = 코사\n|es   = Cossa\n|fr   = Cosa\n|de   = Cosa\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

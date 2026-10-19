@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:28Z",
+  "title": "A Hidden Place",
+  "pageid": 31419,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=A Hidden Place\n|image=A Hidden Place.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Averardo Vault\n}}\n\n'''A Hidden Place''' is an area of [[Averardo Vault]], [[Rinascita]]. \n==NPCs==\n{{NPCs by Location List|A Hidden Place}}\n==Other Languages==\n{{Other Languages\n|en   = A Hidden Place\n|zhs  = 秘藏之地\n|zht  = 秘藏之地\n|ja   = 秘蔵エリア\n|ko   = 비장 보관 구역\n|es   = Lugar del alijo secreto\n|fr   = Place cachée\n|de   = Ein versteckter Platz\n}}\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:51Z",
+  "title": "Capitoline Hill City",
+  "pageid": 31663,
+  "wikitext": "{{Location Infobox\n|title=Capitoline Hill City\n|image=Capitoline Hill City.png\n|world_map=Solaris-3\n|type=Subarea\n|type2=City\n|type3=Rinascita City\n|nation=Rinascita\n|region=Septimont\n|area=Capitoline Hill}}\n{{Quote|The capital city of Septimont, one of Rinascita's city-states. Perched atop Capitoline Hill, it boasts towering stone structures that form the grand \"Gryphon's Fortress.\" After fleeing the threat of the Dark Tide, the bold and battle-loving Septimontians have devoted their lives to chasing the heights of glory. With travelers from distant seas, they gather in this City of Glory built upon the legends of heroes.|[https://wutheringwaves.kurogames.com/en/main#regions ''Wuthering Waves Official Website'']}} \n\n'''Capitoline Hill City''' is a subarea located in {{Location|Capitoline Hill|nocat=1}} and the capital city of Septimont. \n\n==Trivia==\n* '''Capitoline Hill''' (''Mons Capitolinus; Campidoglio'') or '''Capitolium''' is one of the {{w|Seven Hills of Rome}}, earlier known as ''Mons Saturnius'' and dedicated to Roman god {{w|Saturn (mythology)|Saturn}}.\n=== Etymology ===\n* \"''Capitoline''\" is a precursor to the English word ''capitol'' and borrowed from the Latin word ''capitulum''.\n** ''Capitulum'' is formed from the Latin word ''caput'' (\"head\") and the diminutive suffix ''-ulum''. \n\n== Other Languages ==\n{{Other Languages\n|en      = Capitoline Hill City\n|zhs     = 卡庇托山城\n|zht     = 卡庇托山城\n|ja      = カンピドーノ城\n|ko      = 카피톨리누스 언덕 도시\n|fr      = Ville de la Colline Capitoline\n|de      = Kapitolstadt\n|es      = Ciudad de la Colina Capitolina\n}} \n\n== Change History ==\n{{Change History|2.4}} \n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "5"
+    }
+  ]
+}

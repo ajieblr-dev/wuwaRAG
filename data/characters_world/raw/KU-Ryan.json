@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:11Z",
+  "title": "KU-Ryan",
+  "pageid": 21843,
+  "wikitext": "{{NPC Infobox\n|image            = NPC KU-Ryan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = \n|title            = \n|species          = KU-Roro\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''KU-Ryan''' is an NPC. It is [[Arno]]'s assistant in the surveillance dataset collection process.\n\n==Quests and Events==\n{{Quests and Events|KU-Ryan}}\n* [[Solaris Weather Forecast]]\n\n== Other Languages ==\n{{Other Languages\n|en      = KU-Ryan\n|zhs     = 库里安\n|zht     = 庫裡安\n|ja      = クーリアン\n|ko      = 쿠ㆍ리안\n|es      = KU-Ryan\n|fr      = KU-Ryan\n|de      = KU-Ryan\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

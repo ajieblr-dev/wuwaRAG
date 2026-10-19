@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:47Z",
+  "title": "Bloomburst Puppet",
+  "pageid": 79539,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Bloomburst Puppet\n|title=\n|image=Bloomburst Puppet Icon.png\n|dmgtype=Glacio\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Autopuppet\n|nation=Huanglong\n|region=Mengzhou\n|subregion=Simulacrum Nexus of Mengzhou\n|nightmare=no\n|drops=\n}}{{Description|A small Autopuppet inside the Censure Courts, usually passing as a flowerbed.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Autopuppet}}\n\n==Stats==\n{{Enemy Stats}}\n\u003c!--\n==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Bloomburst Puppet|customheader=Bloomburst Puppet}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Glacio DMG}}.\u003cbr/\u003e\u003cbr/\u003eBloomburst Puppets spend their days disguised as flowerbeds and potted plants, tucked away throughout the Censure Courts. Should a Tacet Discord wander too close, they unfold into Autopuppets and strike without warning.\u003cbr/\u003e\u003cbr/\u003eAfter Suhsin the Inevitable threw the Capsule's order into disarray, the Bloombursts were corrupted by anomalies. Foliage inside grew uncontrollably from within: branches, leaves, and roots forcing out through every seam in their shells until finally splitting them open, leaving them in a half-machine, half-plant form.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Bloomburst Puppet\n|zhs  = 奇绽傀\n|zht  = 奇綻傀\n|ja   = 花咲かの奇傀\n|ko   = 기탄괴\n|fr   = Automate à floraison explosive\n|de   = Blütenstoß-Puppe\n|es   = Títere floral\n|th   = Bloomburst Puppet\n|pt   = Floro-Explosão\n}}\n\n==Change History==\n{{Change History|3.7}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

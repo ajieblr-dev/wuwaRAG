@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:41Z",
+  "title": "Bakie",
+  "pageid": 36891,
+  "wikitext": "{{NPC Infobox\n|image            = Bakie.png\n|title            = [[Cooking]]\n|type             = Open-World\n|species          = Common Echo\n|nation           = Rinascita\n|location         = Bank Street\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Bakie''' is an open-world [[NPC]] and [[Common Echoes|Common Echo]] located in [[Trattoria Margherita]] on {{Location|Bank Street|nocat=1}}.\n\nBy interacting with Bakie, the player can access the [[Cooking]] interface. \n\n==Location==\n{{Map Embed|Ragunna City|Bakie}} \n\n==Dialogue==\n{{Dialogue Start}}\n:{{DIcon|Cook}} Cook.\n:;(Opens cooking interface)\n:{{DIcon|Exit}} Leave.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events|Bakie}}\n\n==Gallery==\n\u003cgallery\u003e\nRinascita Echo Fiesta Bakie.png|[[Rinascita Echo Fiesta]]\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Bakie\n|zhs  = 「焙焙」\n|zht  = 「焙焙」\n|ja   = 「ベイキー」\n|ko   = 「베키」\n|es   = Bakito\n|fr   = Fourno\n|de   = Bakie\n}} \n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

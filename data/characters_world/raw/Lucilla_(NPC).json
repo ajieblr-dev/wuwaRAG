@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:27Z",
+  "title": "Lucilla (NPC)",
+  "pageid": 36816,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont\n|group            = \n|child            = Magnus\n}}\n'''Lucilla''' is a female NPC found near the [[Titanbone Expanse]] arena. She is the mother of a gladiator named [[Magnus]].\n\n{{Dialogue Start}}\n==Dialogue==\n:'''Lucilla''': Greetings, visitor. I'm guessing you're visiting Septimont to watch the Agon?\n:'''Lucilla''': Let me tell you something. My son's a Gladiator and his next match is about to begin. When you're visiting Septimont, always make the Colosseum your first stop.\n:'''Lucilla''': Otherwise, you'd be wasting time on those pointless painters and musicians with all their pointless rumblings in Fountain Square.\n----\n;(After completing {{Quest|Flames of Heart}})\n:'''Lucilla''': Greetings, visitor. Remember me? I was shocked to hear discussions of how you've become the champion!\n:{{DIcon}} You're not into gladiating anymore?\n:'''Lucilla''': Yes, I haven't been watching the tournaments much lately. My [[Magnus|son]] has found an amazing {{tt|mentor|Cecila}}, and he's on track to becoming a great singer soon!\n:'''Lucilla''': You should visit Fountain Square when you have time. It'll sure attract an audience with the champion around.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lucilla\n|zhs  = 露西拉\n|zht  = 露西拉\n|ja   = ルシラ\n|ko   = 루실라\n|es   = Lucilla\n|fr   = Lucilla\n|de   = Lucilla\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

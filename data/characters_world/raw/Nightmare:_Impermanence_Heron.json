@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:49Z",
+  "title": "Nightmare: Impermanence Heron",
+  "pageid": 31829,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Nightmare Enemy Infobox\n|name      = Nightmare: Impermanence Heron\n|image     = Nightmare Impermanence Heron Icon.png\n|dmgtype   = Havoc\n|nation    = Rinascita\n|variants  = Impermanence Heron; Tactical Hologram: Impermanence Heron\n|class     = Overlord\n}}\n==Other Languages==\n{{Other Languages\n|en   = Nightmare: Impermanence Heron\n|zhs  = 梦魇・无常凶鹭\n|zht  = 夢魘・無常凶鷺\n|ja   = ナイトメア・無情のサギ\n|ko   = 악몽 ・ 음험한 백로\n|es   = Pesadilla: Garza Impermanencia\n|fr   = Cauchemar : Héron impermanent\n|de   = Albtraum: Vergänglicher Reiher\n}}\n\n==Change History==\n{{Change History|2.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

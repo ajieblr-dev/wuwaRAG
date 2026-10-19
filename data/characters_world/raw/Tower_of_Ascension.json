@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:49Z",
+  "title": "Tower of Ascension",
+  "pageid": 31690,
+  "wikitext": "{{Stub}}\n{{Location Infobox|title=Tower of Ascension|image=Tower of Ascension.png|world_map=Solaris-3|type=Area|nation=Rinascita|region=Avinoleum}}'''Tower of Ascension''' is an area of [[Avinoleum]], [[Rinascita]].\n\n\n== Other Languages ==\n{{Other Languages\n|en   = Tower of Ascension\n|zhs  = 向上之塔\n|zht  = 向上之塔\n|ja   = 昇華の塔\n|ko   = 향상의 탑\n|es   = Torre de la Ascensión\n|fr   = Tour d'Ascension\n|de   = Turm des Aufstiegs\n}}\n\n== Change History ==\n{{Change History|2.2}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:46Z",
+  "title": "Boughrest Ridge",
+  "pageid": 43098,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Boughrest Ridge\n|image     = Boughrest Ridge.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Eastern Xuan Peaks\n}}\n\n'''Boughrest Ridge''' is an area of [[Eastern Xuan Peaks]], [[Huanglong]]. \n\n==NPCs==\n{{NPCs by Location List|Boughrest Ridge}}\n\n==Other Languages==\n{{Other Languages\n|en   = Boughrest Ridge\n|zhs  = 倚枝岭\n|zht  = 倚枝嶺\n|ja   = {{Rubi|枝寄嶺|しきれい}}\n|ko   = 의지령\n|fr   = Crête du Repos-des-Branches\n|de   = Zweigruh-Grat\n|es   = Cresta Reposarramas\n|th   = เขาอิงพฤกษา\n|pt   = Bosque Yizhi\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:39Z",
+  "title": "Awei",
+  "pageid": 25512,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = Awei.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Awei''' is an NPC located in {{Location|Hongzhen}}. He can be found chatting with Hongzhen local, [[Xiangping]] (after completing Main Quest '[[Thaw of Eons]]').\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events|Awei}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Awei:''' There's nothing about this plant anywhere...\n:'''Xiangping:''' What's wrong?\n:'''Xiangping:''' Oh, what you got there is a [[Silver Lotus]]. We use it for food. It's nothing special.\n:'''Xiangping:''' If you're interested , I can give you some from my house.\n:'''Awei:''' Thank you, ma'am, but it's all right. I can pick some when I do my research in the mountains.\n:'''Xiangping:''' Okay, whatever you like.\n:'''Xiangping:''' Come over for dinner, I'll make my signature Silver Lotus dish.\n:'''Awei:''' Won't that be too much trouble?\n:'''Xiangping:''' No trouble at all! You don't get that outside Mt.Firmament. It is said Silver Lotuses only grow in snow patches where the Sentinel has been.\n:'''Awei:''' What? Silver Lotuses have something to do with the Sentinel? It sounds like a myth, but still, it could be a nice subject for a paper...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n |en  = Awei\n |zhs = 阿葳\n |zht = 阿葳\n |ja  = 阿葳\n |ko  = 웨이\n |es  = Awei\n |fr  = Awei\n |de  = Awei\n }}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

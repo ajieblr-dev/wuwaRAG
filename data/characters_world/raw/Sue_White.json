@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:37Z",
+  "title": "Sue White",
+  "pageid": 38593,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Sue White.png\n|type             = Open-World\n|nation           = \n|location         = Startorch Academy\n|group            = \n|affiliation      = Department of Light Energy Sciences\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Sue White''' is a female student NPC from New Federation seen talking to her classmate, '''Yixin'''. They can be found at the Roya Market.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Yixin:''' We just got a [[Chisa|new classmate]] from [[Ashinohara]]. It was wild hearing there are still places where Resonators aren't welcome...\n:'''Sue White:''' Not surprised. Where I'm from, it's the same.\n:'''Yixin:''' Even in the New Federation...?\n:'''Sue White:''' Yeah. When my parents heard I could study at Startorch Academy, they were so happy they almost cried.\n:'''Sue White:''' When my mom saw me off, she told me, \"For the rest of your life, never come back. Stay far, far away from this place.\"\n:'''Yixin:''' That's... brutal...\n:'''Sue White:''' It's okay. My luck took a turn. Now I get to hang out with you guys every day.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sue White\n|zhs  = 休・怀特\n|zht  = 休・懷特\n|ja   = ヒュー・ホワイト\n|ko   = 휴 ・ 화이트\n|es   = Huie White\n|fr   = Sue White\n|de   = Sue White\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:57Z",
+  "title": "Paros",
+  "pageid": 38265,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Paros Amphion and Flaviola.png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Septimont}}\n'''Paros''' is a male NPC noble of Septimont, found behind the [[Ephor's Palace]]. He can be found talking with other nobles, '''Amphion''' and '''Flaviola'''.\n\n{{Dialogue Start}}\n==Idle==\n:;'''Paros''' I bet those Ragunna fools wouldn't last a minute in a fight. What do you think?\n:;'''Amphion''' Oh, for sure. That Order of theirs does nothing but pray to the Divinity.\n:;'''Flaviola''' How do you expect to protect your own people with just prayers?\n\n==Dialogue==\n;(Talk to Paros)\n:'''Paros''': If the Sentinel truly watches over these lands, They would surely need warriors worthy of fighting at Their side.\n:'''Amphion''': Hmph. Only those with strength of will deserve that honor. Blind faith will be the death of the Rinascitans. It's already caused Ragunna to grow stagnant. \n:'''Flaviola''': The Ragunnesi leaders are hopelessly conservative. In strength, in vision, in presence—they can't hold a candle to our Ephor.\n:'''Paros''':What are your thoughts on the matter, friend? Why can't they see it? That only someone as powerful as our Ephor has the right to lead?\n:{{DIcon}} The Ragunnesi bear a heavy burden.\n::'''Paros''': We're all Rinascitans, and yet the divide between us runs so deep...\n::'''Paros''': If The Order keeps tightening its grip, Ragunna will cut itself off entirely, and with it, the spirit of our people will wither.\n:{{DIcon}} Praise Septimont. Praise the Ephor!\n::'''Paros''': Well said! You truly a person of wisdom! Praise Septimont! Praise the Ephor!\n::'''Paros''': Strength and glory. These virtues must course through ever Rinascitan's veins! Only the strong can lead our people forward!\n:{{DIcon}} Me no understand. I not from here. (mumble gibberish)\n::'''Paros''': An outlander? Then I must introduce you to the many tales of our great Ephor...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Paros\n|zhs  = 帕洛斯\n|zht  = 帕洛斯\n|ja   = パロス\n|ko   = 파로스\n|fr   = Paros\n|de   = Paros\n|es   = Paros\n|th   = พารอส\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

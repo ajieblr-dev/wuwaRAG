@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:37Z",
+  "title": "Aucustus",
+  "pageid": 32978,
+  "wikitext": "{{NPC Infobox\n|image=.png\n|type=Open-World\n|nation=Rinascita\n|location=Septimont\n|location2=Capitoline Hill\n|group=\n|affiliation=Association of Architects\n|title=Chairman of Association of Architects}}\n{{Quote|\"We are the Association of Architects! We are the builders of Septimont!\"}}\n'''{{PAGENAME}}''' is a male NPC in Septimont and Chairman of the Association of Architects. He can be seen giving a speech to his apprentice, [[Galatea]] and [[Flamaxis]].\nListening in to his speech will reward the Achievement: [[Triple Walls? Triple Achievements!]].\n__NOTOC__\n==Location==\n\u003cgallery widths=\"200\"\u003e\nFile:Trophy Map Triple Walls? Triple Achievements!.png|Map location of the three target NPCs.\n\u003c/gallery\u003e\n\n== Idle ==\n{{Dialogue Start}}\n:'''Aucustus:''' Remember, you're not just plastering cement! You're building the very walls of this city!\n:'''Aucustus:''' We are the Association of Architects! We are the builders of Septimont!\n:'''Aucustus:''' Architects! Pledge your hearts for the future of Septimont!\n:'''Flamaxis:''' Pledge your hearts for the future of Septimont!\n:'''Galatea:''' Sheesh, I thought I was here for construction work. No one told me I'm supposed to be donating organs...\n:'''Galatea:''' The Association of Architects is so awful...\n\n== Dialogue ==\n:'''Aucustus:''' This Wall of Morta standing before you is Septimont's first line of defense.\n:{{DIcon|Option}} Listen in on the architect's speech.\n::'''Aucustus:''' Over a century, four chairman of the Association of Architects devoted their lives to the Wall of Morta. Four generations, transforming it from a simple fence used to ward off animals, into a behemoth holding back the tide.\n::'''Aucustus:''' The project began with the founders of the Association, later passing on to their descendants through the generations. To this day, the Association continues to perform its regular maintenance.\n::'''Aucustus:''' It was here that my great-grandfather reinforced the Wall of Morta during the Second Dark Tide. He excavated the earth with the help of a Diggy Duggy from Ragunna and erected steel rods, laying the foundation for the reinforcement work.\n::'''Aucustus:''' Later, the same Diggy Duggy accompanied my grandfather to drive away the Tacet Discords that were disrupting their construction work.\n::'''Aucustus:''' When I first set eyes on the Wall of Morta, my father told me stories of how countless Septimont families contributed to the cause, just like we did.\n::'''Aucustus:''' Whether nobleman, commoner, or Echo. In the construction of the city's future, they all had the same identity: Citizens of Septimont.\n::'''Aucustus:''' As individuals, your names may become forgotten, yet through your tireless efforts, your contributions will live on forever as an integral part of Septimont!\n::'''Aucustus:''' Architects! Pledge your hearts for the future of Septimont!\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Aucustus\n|zhs  = 奥库斯图斯\n|zht  = 奧庫斯圖斯\n|ja   = オクストゥス\n|ko   = 아우크스투스\n|es   = Aucustus\n|fr   = Aucustus\n|de   = Aucustus\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

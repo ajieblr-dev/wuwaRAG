@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:46Z",
+  "title": "Bell-Borne Geochelone",
+  "pageid": 8324,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Bell-Borne Geochelone\n|title=Arias of Past Days\n|image=Bell-Borne Geochelone Icon.png\n|dmgtype=Glacio\n|weakpoint=Yes\n|echo=Yes\n|class=Calamity\n|family=Tacet Discord\n|group=Howler\n|nation=Huanglong\n|region=Gorges of Spirits\n|subregion=Bell-Borne Ravine\n|drops=Monument Bell\n}}\n{{Description|Large Mutant Organism that inhabits the depths of the Gorges of Spirits, the ancient bell on their backs can explode with extremely lethal sound waves when they are rung.}} \n{{Lang|Bell-Borne Geochelone|zh=鸣钟之龟}} is a [[Weekly Challenge]] located in {{Location|Bell-Borne Ravine|nocat=1}}.\n\n==Enemies==\n{{Card|Bell-Borne Geochelone|type=Enemy|show_caption=1}} \n\n==Drops==\n{{Boss Rewards|weekly=1|exclusive=Monument Bell}}\n\n==Resonators==\nThe following [[Resonator]]s use [[Monument Bell]] from this Weekly Challenge for Skill Upgrades:\u003cbr\u003e\n{{Card|Calcharo}}{{Card|Jiyan}}{{Card|Verina}}{{Card|Zhezhi}}{{Card|Aalto}}{{Card|Baizhi}}{{Card|Chixia}}{{Card|Mortefi}}{{Card|Youhu}}\n\n==Enemy Stats==\n{{Enemy Stats}} \n\n==Abilities== \n\n==Trophies==\n{{Trophies|Bell-Borne Geochelone|customheader=the Bell-Borne Geochelone}}\n\n==Tutorial==\n{{Tutorial|Bell-Borne Geochelone}} \n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES|nobold=1}} to {{Color|[[Glacio]] DMG|nobold=1}}.\u003cbr/\u003eA torpid snapping turtle in the frozen lake, carrying an ancient bell on its back.\u003cbr/\u003eSome researchers once tried to transcribe the inscriptions on the bell, but accidentally disturbed the gargantuan Chelonian’s dreams.\u003cbr/\u003eWhen it awakens, a drawn-out toll will echo throughout the Gorges of Spirits.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Bell-Borne Geochelone\n|zhs  = 鸣钟之龟\n|zht  = 鳴鐘之龜\n|ja   = 鳴鐘の亀\n|ko   = 타종 거북이\n|es   = Geochelone Portacampana\n|fr   = Tortue clochante\n|de   = Klingelnde Schildkröte\n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Enemies",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resonators",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Enemy Stats",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "9",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "10",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "11",
+      "index": "11"
+    }
+  ]
+}

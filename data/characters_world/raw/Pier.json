@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:00Z",
+  "title": "Pier",
+  "pageid": 41100,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = no\n|missing_NPC_context  = no\n|missing_NPC_profile  = no\n|missing_NPC_idle     = no\n|missing_NPC_dialogue = no\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Rhein.png\n|name             = Rhein\n|type             = Quest\n|type2            = Open-World\n|nation           = Rinascita\n|location         = Shards of the Beyond\n|group            = \n|affiliation      = Ostina\n|title            = \n|deceased         = Died during a meteor impact hundreds of years ago.\n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n'''{{PAGENAME}}''' is a deceased [[NPC]] that first appears in {{Quest|Dreamcatchers in the Secret Gardens}}. \n\nAfter completing Dreamcatchers in the Secret Gardens, his reverberation can be found in the [[Lost Beyond]] down at the pier. At 18:00, '''Pier''' can be found doing a workout routine next to Ms. [[Searle]]. It is unknown what their relationship is.\n\n==Quests and Events==\n{{Quests and Events|Pier}}\n\n==Dialogue==\n{{Dialogue Start}}\n:;'''Pier''' A stranger, eh? Now that's a rare sight!\n\n:'''Pier:''' Folks don't often find their way to Ostina. You bringing good news, I hope?\n:{{DIcon}} Good news?\n:'''Pier:''' Yeah. Is Phrolova making any headway with her work? Are we getting back to the real world?\n:'''Pier:''' Don't reckon I've seen you around. A friend of hers? Or one of them researchers she works with? Sure don't get many like you out here...\n:{{DIcon}} I'm neither.\n::'''Pier:''' That so? She must trust you plenty, or she wouldn't have told you about us.\n:{{DIcon}} She's still researching.\n::'''Pier:''' Oh, okay... Sorry, I'm being a bit pushy. These things aren't exactly quick and easy, are they?\n:'''Pier:''' You're the only one besides her who can travel between the two realms. You must be powerful.\n:'''Pier:''' I hope you can help her... Ah, sorry, that was selfish of me. Spoke without thinking again.\n:'''Pier:''' Well... truth is, we're all counting on her. She must be work clean out by now. It'd be good if she had someone to share the load, someone who gets it like she does.\n:{{DIcon}} So you support her plan?\n:'''Pier:''' Of course. If she says it's possible, then it's possible. I believe her.\n:'''Pier:''' I don't get all the fancy details, but hey, who doesn't want to live longer?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Pier\n|zhs  = 彼尔\n|zht  = 彼爾\n|ja   = ビール\n|ko   = 피어\n|fr   = Pier\n|de   = Pier\n|es   = Pier\n|th   = Pier\n}}\n\n== Change History ==\n{{Change History|2.5}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

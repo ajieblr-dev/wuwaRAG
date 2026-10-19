@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:07Z",
+  "title": "Jingzhu",
+  "pageid": 4410,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Jingzhu.png\n|type             = Quest\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Jinzhou\n|affiliation2     = Midnight Rangers\n|title1           = Silver-haired Echo Trainer\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = [[Linghan]]\n|sibling          =\n|child            = \n|relative         = [[Yingying]]\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Jingzhu''' is a quest exclusive NPC that first appears in the [[Side Quests|Side Quest]] [[Silver-haired Echo Trainer - I|''Silver-haired Echo Trainer - I'']]. \n\n==Profile==\nHe is a retired member of the Vanguard of the [[Midnight Rangers]], and is married to his former captain, [[Linghan]]. Having pushed herself too greatly in battle, Linghan had fallen ill after a major victory and after that experienced gradual memory loss. They are the only surviving members of their squad, and Jingzhu intends to win Linghan's heart again, having promised to never leave her alone. [[Yingying]] is their grandchild.\n\nDuring his time in the Midnight Rangers, he and [[Yhan]] knew each other well, with Yhan respecting him greatly. He is said to have used a [[Hoartoise|Frostbite Tortoise]] [[Echo]] to shield his squad in battles.\n\n==Quests and Events==\n{{Quests and Events|Jingzhu}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jingzhu\n|zhs  = 景烛\n|zht  = 景燭\n|ja   = 景燭（ケイショク）\n|ko   = 경호\n|es   = Jingzhu\n|fr   = Jingzhu\n|de   = Jingzhu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

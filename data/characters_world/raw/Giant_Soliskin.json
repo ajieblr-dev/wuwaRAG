@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:44Z",
+  "title": "Giant Soliskin",
+  "pageid": 39293,
+  "wikitext": "{{NPC Infobox\n|image            = \u003cgallery\u003e\nNPC Giant Soliskin.png|Giant Soliskin in the Bjartr Woods\nNPC Giant Soliskin Dimmr Plains.png|Giant Soliskin in Solisia Landing\n\u003c/gallery\u003e\n|title            = [[Soliskin Reunion]]\n|type             = Open-World\n|species          = Soliskin\n|nation           = Lahai-Roi\n|location         = Soliseed Plains\n|affiliation      = Roya Tribe \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          = \n}}\n'''Giant Soliskin''' is an NPC located in {{Location|Soliseed Plains|nocat=1}} and {{Location|Base Camp|nocat=1}} who will accept [[Soliseed of Essehalo|Soliseeds of Essehalo]] in exchange for various rewards as a part of [[Monument of Returning Soliseeds]]. \n\n==Location==\n{{Map Embed|Bjartr Woods|Giant Soliskin}}\n{{Map Embed|Solisia Landing|Giant Soliskin}} \n\n==Quests and Events==\n{{Quests and Events|Giant Soliskin}} \n\n==Dialogue==\n{{Dialogue Start}}\n:{{DIcon}} Deliver Soliseed\n:;(Opens Monument of Returning Soliseeds delivery interface)\n:'''Giant Soliskin:''' Chuu? (*Concerned*)\n\u003c!--does it actually say anything, or just dance?\n:;(Deliver Soliseeds of Essehalo)\n:'''Giant Soliskin:''' \n--\u003e\n:;(If the player tries to deliver Soliseeds of Essehalo without any in their backpack)\n:'''Giant Soliskin:''' Chuu. (*Calm*)\n{{Stub Dialogue}}\n{{Dialogue end}} \n\n==Other Languages==\n{{Other Languages\n|en   = Giant Soliskin\n|zhs = 巨日灵\n|zht = 巨日靈\n|ja  = 太陽の巨霊\n|ko  = 거대한 태양의 정령\n|es  = Gran Solistirpe\n|fr  = Solisien géant\n|de  = Großer Solisling\n|th  = Soliskin ยักษ์\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

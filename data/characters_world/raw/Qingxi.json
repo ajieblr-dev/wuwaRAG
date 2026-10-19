@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:06Z",
+  "title": "Qingxi",
+  "pageid": 2141,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_profile  = yes\n}}\n{{NPC Infobox\n|type             = Open-World\n|image            = NPC Qingxi.png\n|realname         = \u003c!-- Optional, if different from in-game name --\u003e\n|deceased         = \u003c!-- Past (for deceased prior to events of the game) or free response --\u003e\n|nation           = Huanglong\n|location         = Jinzhou\n|affiliation      = Midnight Rangers\n|title            = \n|ancestry         = \u003c!-- Clan/family --\u003e\n|father           = \n|mother           = \n|spouse           = \n|sibling          = Qingning\n|child            = \n|relative         = \n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Qingxi''' is an NPC in {{Location|Jinzhou}}. She can be seen standing next to [[Yhan]].\n\n==Location==\n{{Map Embed|Jinzhou|Qingxi}}\n\n==Quests and Events==\n{{Quests and Events|Qingxi}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} I wonder how [[Qingning]] is doing... When that girl is working, she doesn't even have time to eat.\n:{{DIcon}} Another batch of recruits left today, I hope everything goes smoothly for them on the front line...\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Talk to Qingxi)\n:'''Qingxi:''' You are on military premises. So make sure you follow the rules, my friend.\n:'''Qingxi:''' If there is no important matter, it is better not to stay here. If you want to visit, register with [[Xinle]] first.\n{{Dialogue End}}\n\n==Event Dialogue==\n===By Moon's Grace===\n{{Transclude|Moon Shooter|Dialogue|main=1|top=1}}\n\n==Other Languages==\n{{Other Languages\n|en   = Qingxi\n|zhs  = 清溪\n|zht  = 清溪\n|ja   = 清渓（セイケイ）\n|ko   = 초아\n|es   = Qingxi\n|fr   = Qingxi\n|de   = Qingxi\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Event Dialogue",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "By Moon's Grace",
+      "number": "5.1",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "8"
+    }
+  ]
+}

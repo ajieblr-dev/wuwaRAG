@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:35Z",
+  "title": "Special Enemies",
+  "pageid": 3525,
+  "wikitext": "{{Stub}}\n{{Terminology Infobox\n|image        = \n|type         = Combat\n|type2        = Lore\n}}\n{{Description|Some special enemies on Solaris-3 are exceptionally violent and '''hard to defeat'''. Utilize '''Counterattacks''', '''Dodge Attacks''' or '''Intro Skills''' to deal meaningful damage to them. \nIt's worth noting that these special enemies do not grow stronger with your SOL Phase. If they are hard to beat now, consider leveling up your characters and try again later. These special enemies will '''regenerate''' sometime after being defeated.}}\n\n==Description==\n'''Special Enemies''' are the special mini-boss [[enemies]] located throughout the [[Overworld]]. They are characterized by the glowing red aura around their model and are displayed with a Boss type [[HP]] bar during [[Combat]]. \n\n===Respawning Enemies===\nThis type of Special Enemies only exist in [[Jinzhou (Province)|Jinzhou]], [[Black Shores]] and [[Rinascita]]. This type of Special enemies are guaranteed to drop Rank-4 or Rank-5 [[Echo|Echoes]] and spawn 72 real time hours (3 days) after killing. The Special Enemies in Black Shores need to be unlocked through {{Quest|Retro Game Collector}}.\n\n===One-time Spawning Enemies===\nThe main difference between the older Special Enemies and [[Dimmr Plains|Dimmr Plains']] red shrouded enemies, is that the latter do not respawn. They also are not guaranteed to leave an Echo. Otherwise these enemies are very similar to the Special Enemies of Jinzhou, Black Shores and Rinascita. For example, they take a fixed amount of damage from [[Dodge Counter|Dodge Counters]], have a boss type HP bar and defeating them gives a [[Trophies|Trophy]]. \n\nIn the Land of [[Xuanfang]] — i.e. [[Eastern Xuan Peaks]], [[Western Fang Peaks]] and [[Southern Yuan Hills]] — the Special Enemies need to be found through various hidden mechanisms and side quests. In addition to these Special Enemies, there are [[Censure Lock Crisis|Censure Locks]] that contain enemies shrouded in the red mist characteristic of Special Enemies.\n\n[[Lahai-Roi]] and the Roya Frostlands do not have Special Enemies. There are some stronger enemies shrouded in the red mist characteristic of Special Enemies and have a boss-type HP bar, but they do not grant a Trophy. Because of this difference, these enemies are not counted as Special Enemies.\n\n==List of Special Enemies==\nThis list contains both the respawning Special Enemies and the ones that spawn only once. \n\n{{Special Enemies Table}}\n\n\u003c!--==Locations==\n\u003cgallery\u003e\nTrophy Love, Death \u0026 Abandoned Cars Location.png|Carapace: Engine Zero\u003cbr /\u003e[[Central Plains]]\nTrophy The Ultimate Location.png|Viridblaze Saurian\u003cbr /\u003e[[Central Plains]]\nTrophy Protocol 3. A-attack! Location.png|Autopuppet Scout\u003cbr /\u003e[[Central Plains]]\nTrophy Dance with the Wolves Location.png|Wasteland Bellower\u003cbr /\u003e[[Wuming Bay]]\nTrophy We Are the Challenger, My Friend Location.png|Chasm Rider\u003cbr /\u003e[[Qichi Village]]\nTrophy Wild Boar Forest Rampage Location.png|Sabyrkin\u003cbr /\u003e[[Tiger's Maw]]\nTrophy Plants vs Zombie Roseshroom Location.png|Roseshroom Mutant\u003cbr /\u003e[[Port City of Guixu]]\nTrophy Safety First! Location.png|Illuminator Theater\u003cbr /\u003e[[Desorock Highland]]\nTrophy Empty the Nest Location.png|Scorpion's Nest\u003cbr /\u003e[[Port City of Guixu]]\nTrophy Debut Project of the Big Three! Location.png|Fractsidus Follower\u003cbr /\u003e[[Port City of Guixu]]\nTrophy Just A Rock Location.png|Obelisk Guardian\u003cbr /\u003e[[Desorock Highland]]\nTrophy Prism Party Location.png|Prism Heart\u003cbr /\u003e[[Dim Forest]]\nTrophy Not My Match! Location.png|Young Murmurin\u003cbr /\u003e[[Dim Forest]]\nTrophy Though I Can't Fly Location.png|Twin Heron\u003cbr /\u003e[[Whining Aix's Mire]]\nTrophy Gorilla Gazer Location.png|Wild Gorilla\u003cbr /\u003e[[Dim Forest]]\nTrophy Here Comes the Bear Location.png|Spearback King\u003cbr /\u003e[[Waving Battlefield]]\n\u003c/gallery\u003e--\u003e\n\n==Trophies==\nThis list contains the Trophies from both the respawning Special Enemies and the ones that spawn only once.\n\n{{Trophies|Special Enemies|customheader=Special Enemies}}\n==Trivia==\n*Special Enemies have fixed levels and do not scale with player's [[SOL-3 Phase|SOL Phase]].\n*Successful [[Dodge#Dodge_Counter|Dodge Counters]] deal a fixed amount of [[damage]] to these enemies. This damage does not scale with character [[Attributes|stats]] nor player [[Union Level]].\n\n==Other Languages==\n{{Other Languages\n|en  = Special Enemies\n|zhs = 特殊敌人\n|zht = 特殊敵人\n|ja  = 特別な敵\n|ko  = 특수 몬스터\n|es  = Enemigos especiales\n|fr  = Ennemi Spécial\n|de  = Besondere Feinde\n|th  = ศัตรูพิเศษ\n|pt  = Inimigos Especiais\n}}\n\n==Change History==\n{{Change History|1.0}}\n\u003c!--\n==Notes==\n{{Reflist|group=Note}}\n\n==References==\n{{Reflist}}--\u003e\n\n==Navigation==\n{{Enemy Navbox}}\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Respawning Enemies",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "One-time Spawning Enemies",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "List of Special Enemies",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "9"
+    }
+  ]
+}

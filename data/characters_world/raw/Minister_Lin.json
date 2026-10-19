@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:37Z",
+  "title": "Minister Lin",
+  "pageid": 40527,
+  "wikitext": "{{NPC Infobox\n|image            = \n|name             =\n|title            = Minister Lin\n|type             = Mentioned \n|alias            = \n|nation           = Huanglong\n|affiliation     = Mingting\n|affiliation2     = Ministry of Sentinel Affairs\n}}\nMinister Lin is the now retired Minister of Sentinel Affairs from five years ago. He released Qiuyuan just before his execution.\n\n==Character Mentions==\n{{Character Mentions}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "1.1",
+      "index": ""
+    }
+  ]
+}

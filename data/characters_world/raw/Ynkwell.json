@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:12Z",
+  "title": "Ynkwell",
+  "pageid": 41103,
+  "wikitext": "{{NPC Infobox\n|image            = \n|name             = \n|title            = \n|type             = Quest\n|type2            = Open-World\n|deceased         = Died during a meteor impact hundreds of years ago.\n|affiliation      = Ostina\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' is a deceased [[NPC]] that first appears in {{Quest|Dreamcatchers in the Secret Gardens}}. After completing Dreamcatchers in the Secret Gardens her reverberation can be found in the [[Lost Beyond]].\n\nShe can be found talking to '''Grace''' near the well where [[Moon in Water|Phrolova violin is submerged in]].\n\n==Dialogue==\n{{Dialogue Start}}\n:;'''Grace''' You really don't want to go?.\n\n:'''Ynkwell:''' I want to stick close to home this week. I walked too far with Betty last time, and my feet are still sore.\n:'''Grace:''' Oh dear, I forgot you went out not too long ago.\n:'''Ynkwell:''' Betty and I went to every clothing shop in all of the nearby cities just to pick out the right skirt  for Phrolova to wear in her performance.\n:'''Grace:''' To be fair, it's a nice skirt. Must've taken you ages to find the right one.\n:'''Ynkwell:''' Hehe, naturally. We're both excellent shoppers.\n:'''Ynkwell:''' I've never seen Betty so picky. As if nothing on display was good enough.\n:'''Ynkwell:''' I spent ages trying to get her to make a decision. Otherwise, we'd have had to walk even further to find more shops.\n:'''Grace:''' I thought Betty didn't want Phrolova to perform. The poor child was so upset she almost ran off from home.\n:'''Ynkwell:''' That's just something Phrolova said out of frustration. She's too stubborn and doesn't want to rely on anything, so she's always ill at ease.\n:'''Ynkwell:''' Ahhh, I don't know if that's a good or bad trait...\n{{Dialogue End}}\n\n==Trivia==\n* '''Betty''' is heavily implied to be Phrolova mother as she is the one who bought the dress for Phrolova performance out of town\u003cref\u003eDreamcatchers in the Secret Gardens\u003c/ref\u003e. However, her reverberation is no where to be found in town.\n\n==Other Languages ==\n{{Other Languages\n|1_en   = Ynkwell\n|1_zhs  = 茵奎尔\n|1_zht  = 茵奎爾\n|1_ja   = インクエル\n|1_ko   = 퀴에르\n|1_fr   = Ynkwell\n|1_de   = Ynkwell\n|1_es   = Ynkwell\n|1_th   = Ynkwell\n\n|2_en   = Grace\n|2_zhs  = 高丝\n|2_zht  = 高絲\n|2_ja   = コウズィ\n|2_ko   = 그레이스\n|2_fr   = Grace\n|2_de   = Grace\n|2_es   = Grace\n|2_th   = Grace\n}}\n\n==Change History==\n{{Change History|2.5}} \n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ynkwell",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Grace",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

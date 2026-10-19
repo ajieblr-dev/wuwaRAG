@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:18Z",
+  "title": "La Guardia",
+  "pageid": 30500,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = La Guardia\n|image         = La Guardia Icon.png\n|dmgtype       = Physical\n|weakpoint     = \n|class         = Common\n|echo          = Yes\n|family        = Echo\n|group         = Dark Tide Influenced\n|nation        = Rinascita\n|region        = Ragunna\n|subregion     =\n|drops         =\n}}{{Description|A sword-wielding Echo that resembles a silent and stern statue, tasked with protecting Ragunna City's peace and safety for the Order.}}\n\n==Drops==\n{{Drops|Common Dark Tide Influenced}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies}}\n\n==Description==\n{{Description|A sword-wielding Echo that resembles a silent and stern statue, tasked with protecting Ragunna City's peace and safety for the Order.\n\nUnder its watch, any suspicious individuals or Echoes shall be immediately arrested and brought to the Chamber of Discipline to ensure the city's security.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en  = La Guardia\n|zhs = 卫冕节使\n|zht = 衛冕節使\n|ja  = ガルディア\n|ko  = 라 과디어\n|es  = La Guardia\n|fr  = La Guardia\n|de  = La Guardia\n}}\n\n\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

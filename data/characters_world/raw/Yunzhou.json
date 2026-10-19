@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:15Z",
+  "title": "Yunzhou",
+  "pageid": 79497,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=Huanglong\n|location=Xianling Village\n|affiliation=\n|group=\n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = Wenxi\n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''{{PAGENAME}}''' is a NPC who returns home after the event that occurred in Xianling Village during {{Quest|The Wind Before the Storm}}. \n\n{{Dialogue Start}}\n==Dialogue==\n;After {{Quest|Xuanling Sings, Storm Quelled}}\n:'''Yunzhou:''' Mom! I'm home! Where's dad? I've brought him a souvenir from Mingting!\n\n:'''Wenxi:''' Oh, Yunzhou... My dear boy... Your father... He... he's gone...\n\n:'''Yunzhou:''' W-What do you mean...?\n\n:'''Wenxi:''' Something terrible happened in Xuanfang a while back, and your father left the village that day...\n\n:'''Yunzhou:''' B-But... It can't be...\n\n:'''Yunzhou:''' Dad... How...\n\n:'''Yunzhou:''' That Master [[Lisheng]]'s fan painting you've always wanted... I got it for you...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yunzhou\n|zhs  = 云舟\n|zht  = 雲舟\n|ja   = 雲舟（ウンシュウ）\n|ko   = 운주\n|fr   = Yunzhou\n|de   = Yunzhou\n|es   = Yunzhou\n|th   = Yunzhou\n|pt   = Yunzhou\n}}\n\n==Change History==\n{{Change History|3.5}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

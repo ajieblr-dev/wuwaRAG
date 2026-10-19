@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:01Z",
+  "title": "Western Skyreach Range",
+  "pageid": 43119,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Western Skyreach Range\n|image     = Western Skyreach Range.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Xuanfang Hold\n}}\n\n'''Western Skyreach Range''' is an area of [[Xuanfang Hold]], [[Huanglong]]. \n\n==NPCs==\n{{NPCs by Location List|Western Skyreach Range}}\n\n==Other Languages==\n{{Other Languages\n|en   = Western Skyreach Range\n|zhs  = 西擎坡\n|zht  = 西擎坡\n|ja   = {{Rubi|西擎|せいけい}}の坂\n|ko   = 서경 언덕\n|fr   = Cimes Célestes de l'Ouest\n|de   = Westliche Himmelsgriff-Bergkette\n|es   = Cordillera del Ascenso Occidental\n|th   = เชิงเขาซีฉิง\n|pt   = Encosta Xiqing\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

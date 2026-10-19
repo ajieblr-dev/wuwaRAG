@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:55Z",
+  "title": "Changzhuang",
+  "pageid": 25094,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title        = Changzhuang\n|image        =\n|type         = Village\n|type2        = Huanglong Village{{!}}Huanglong Villages\n|map          = Solaris-3\n|event        = \n|nation       = Huanglong\n}}\n'''Changzhuang''' is a small, tranquil village in the mountains of [[Yuezhou]]. It is the birthplace of [[Lumi]].\n\n==Other Languages==\n{{Other Languages\n|en      = Changzhuang\n|zhs     = 长庄\n|zht     = \n|ja      = \n|ko      = \n|es      = \n|fr      = \n|de      = \n|th      = \n|pt      = \n}}\n\n==Change History==\n{{Change History|introduced=1.4|}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[Category:Mentioned Only]]\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

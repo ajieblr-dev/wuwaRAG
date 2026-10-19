@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:16Z",
+  "title": "Roseshroom Mutant",
+  "pageid": 41187,
+  "wikitext": "{{Stub|Drops, stats, abilities, and location}}\n{{Enemy Infobox\n|name       = Roseshroom Mutant\n|image      = Roseshroom Icon.png\n|dmgtype    = Havoc\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|group      = Tranquilite\n|nation     = Huanglong\n|region     = Port City of Guixu\n|level      = 60\n}}\n'''Roseshroom Mutant''' is a [[Special Enemies|special enemy]] found in {{Location|Port City of Guixu|nocat=1}}.\u003c!--\n\n==Drops== \n{{Drops|Roseshroom Mutant}} \n\n==Stats==\n{{Enemy Stats|Roseshroom Mutant}} \n\n==Abilities==--\u003e\n\n==Location==\n\u003cgallery\u003eTrophy Plants vs Zombie Roseshroom Location.png\u003c/gallery\u003e\n\n==Trophies==\n{{Trophies|Roseshroom Mutant|customheader=Roseshroom Mutant}} \n\n==Other Languages==\n{{Other Languages\n|en  = Roseshroom Mutant\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

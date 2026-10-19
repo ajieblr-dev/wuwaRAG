@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:45Z",
+  "title": "Thorny Passage",
+  "pageid": 6023,
+  "wikitext": "{{Stub}}\n{{Location_Infobox\n|title1    = Thorny Passage\n|image     = Thorny Passage.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Dim Forest\n}}\n'''Thorny Passage''' is an area of [[Dim Forest]], [[Huanglong]]. \n\n==Features==\n\n==Interactables==\n{{#dpl:|category = Thorny Passage Terminology|ordermethod= title}}\n\n==Other Languages==\n{{Other Languages\n|en   = Thorny Passage\n|zhs  = 丛棘步道\n|zht  = 叢棘步道\n|ja   = {{Rubi|茨群|いばらむ}}れの歩道\n|ko   = 가시나무 보도\n|es   = Pasaje espinoso\n|fr   = Passage épineux\n|de   = Dorniger Durchgang\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Features",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Interactables",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

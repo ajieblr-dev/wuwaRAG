@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:15Z",
+  "title": "Yujin",
+  "pageid": 37680,
+  "wikitext": "{{Meta\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n}}{{NPC Infobox\n|name             = Yujin\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Central Plains\n|group            = \n|affiliation      = Pioneer Association\n|title            = \n}}\n'''Yujin''' is an [[NPC]] in [[Central Plains]], [[Huanglong]]. He can be found alongside [[Liuhuo]] near a [[Resonance Beacon]] close to the ''Parallel Perception'' [[Sonoro Sphere]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Yujin:''' Maybe I'm not cut out for this...\n:'''Yujin:''' I thought that Central Plains would be perfect for a newbie investigator like me, with all its open terrain, villages and flowers.\n:'''Yujin:''' Turns out I keep running into either [[Exiles]] or [[TD]]...\n:'''Yujin:''' Can't beat 'em. What else can I do but run... Ugh, how pathetic...\n:{{DIcon}} Take it slow, and you'll improve.\n:'''Yujin:''' *sob* Thank you for letting me confide in.\n:'''Yujin:''' Here's hoping that maybe one day, I'll become stronger, braver.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yujin\n|zhs  = 余烬\n|zht  = 餘燼\n|ja   = 余燼（ヨジン）\n|ko   = 여진\n|es   = Yujin\n|fr   = Yujin\n|de   = Yujin\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

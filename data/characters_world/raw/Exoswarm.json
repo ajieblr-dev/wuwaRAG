@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:22Z",
+  "title": "Exoswarm",
+  "pageid": 39255,
+  "wikitext": "{{Stub}}\n{{Terminology Infobox\n|title        = Exoswarm\n|image        = \n|type         = Lore\n|nation       = Lahai-Roi\n}}\n'''Exoswarm''' are creatures found in [[Lahai-Roi]] that are formed from the remnants of the [[Exostrider]].\n\n==Types==\n===Soliskin===\n{{Main|Soliskin}}\n\nSoliskin are a unique type of Exoswarm formed from the Exostrider's neural structures that reside within [[Bjartr Woods]].\n\n==Enemies==\n{{Enemies by Category List|Exoswarm Enemies}}\n\n==Descriptions==\n{{Description|Biomechanical creatures formed from the Exostrider's cellular remnants. By mimicking herds and other lifeforms, they helped rebuild Lahai-Roi's ecosystem.|Glossary Excerpt}}\n\n==Other Languages==\n{{Other Languages\n|en   = Exoswarm\n|zhs  = 隧群\n|zht  = 隧群\n|ja   = エクソスウォーム\n|ko   = 엑소스웜\n|fr   = Exonuées\n|de   = Exoschwarm\n|es   = Exoenjambre\n|th   = Exoswarm\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}\n[[zh:隧群]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Types",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Soliskin",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Enemies",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "7"
+    }
+  ]
+}

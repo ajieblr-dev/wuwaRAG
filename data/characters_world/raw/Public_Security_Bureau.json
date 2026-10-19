@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:04Z",
+  "title": "Public Security Bureau",
+  "pageid": 8833,
+  "wikitext": "{{Stub}}\n{{Faction Infobox\n|title  = Public Security Bureau\n|image  = \n|nation = Huanglong\n}}\nThe '''Public Security Bureau''' is in charge of the Patrollers, who act as the law enforcing authority of Jinzhou (and potentially the entirety of Huanglong). \n\n==Notable Members==\n{| class=\"article-table\"\n!Icon!!Name!!Position\n|-\n|[[File:Resonator Yinlin.png|50px]]\n|[[Yinlin]]\n|Patroller, Secret Agent\n|-\n|[[File:Resonator Chixia.png|50px]]\n|[[Chixia]]\n|Junior Patroller, known as the \"Jinzhou Speedster\"\n|}\n\n===Other Known Personnel===\n{{NPCs by Category List\n|Public Security Bureau\n|header = Patrollers\n}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Public Security Bureau\n|zhs  = 治安署\n}}\n\n==Navigation==\n{{Faction Navbox}}\n[[zh:治安署]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Members",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Other Known Personnel",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "4"
+    }
+  ]
+}

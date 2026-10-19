@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:12Z",
+  "title": "Riddle Twiddle",
+  "pageid": 11528,
+  "wikitext": "{{Location Infobox\n|image        = \u003cgallery\u003e\nRiddle Twiddle Context.png | In-Game\nRiddle Twiddle Art.png | Art\n\u003c/gallery\u003e\n|type         = Point of Interest\n|icon         = Icon Riddle Twiddle.png\n|event        = By Moon's Grace\n|area         = Taoyuan Vale\n|region       = Central Plains\n|nation       = Huanglong\n}}\n{{Quote|Riddles may be plain, but they carry our feelings to the future, like the wind.\u003cbr /\u003e\u003cbr /\u003e\u003chr\u003e\u003cbr/\u003eUp for a challenge? Riddle answers hide festival traditions and meanings.|[[Yangyang]]}}\n'''Riddle Twiddle''' is an event-exclusive [[Point of Interest|point of interest]] located in [[Taoyuan Vale]], [[Central Plains]], [[Huanglong]] during the [[By Moon's Grace]] event.\n\nPlayers can visit every day during the event for prizes.\n\n==NPCs==\n* [[Xieyang]]\n\n==Descriptions==\n{{Description|Riddles offer a perfect mix of entertainment and mental challenge. Cracking them provides a satisfaction that goes beyond tangible rewards\u003cbr /\u003e{{Color|#a5a19d|Build or Upgrade this stall to gain more Popularity. Visit the stall to experience the mini-games for daily rewards.}}|[[Map]] description}}\n\u003cgallery\u003e\nRiddle Twiddle Location.png|Location\n\u003c/gallery\u003e\n\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction)\n:'''Xieyang:''' A full moon hangs in the midnight sky...\n:'''Xieyang:''' Waves crash and echo, cliffs stand high...\n:{{DIcon}} Excuse me, is this for the lantern riddles?\n:'''Xieyang:''' You're in the right place! See these lanterns? They are all set for the game!\n:'''Xieyang:''' The Moon-Chasing Festival fuels my brilliance! It ignites my creativity, setting the stage for my next masterpiece!\n:'''Xieyang:''' Don't worry about running out of riddles. I'll keep up with your guessing speed...\n:'''Xieyang:''' A promise made is a promise kept!\n:'''Xieyang:''' By the way, your name sounds familiar. Rover... Aha! You must be that legendary hero! The one as knowledgeable as I am!\n:'''Xieyang:''' Eyeing the prizes? Haha, solve the lantern riddles and they're all yours!\n----\n:'''Xieyang:''' A sharp mind is all you need to solve the riddles. Come on, you can do this!\n:{{DIcon|Reward}} Solve the riddle\n::'''Xieyang:''' {{Rover}}, would you like to give today's riddle a shot? You'll get a reward regardless.\n::{{DIcon}} Sure.\n:;(Set 1)\n::'''Xieyang:''' What walks on four legs in the morning, two legs at noon, and three legs in the evening?\n::{{DIcon}} Humans.\n:::'''Xieyang:''' Correct. {{Rover}}, you're as amazing as they say. Here is your reward.\n::{{DIcon}} Will I be eaten if I get it wrong?\n:::'''Abby:'''{{sic}} No, but you'll miss out on the grand prize. Here's your reward.\n:::'''Abby:''' Why would you be eaten? This story sounds familiar...\n::{{DIcon}} Isn't this from a popular bedtime story?\n:::'''Xieyang:''' Yes... Ahem, anyway, here's your reward.\n:::'''Abby:''' You gave me the reward for the wrong answer... How stingy{{sic}}.\n:;(Set 2)\n::'''Xieyang:''' What makes people feel young again, brings both joy and sorrow, does no harm, and stays with them forever?\n::{{DIcon}} Memories.\n:::'''Xieyang:''' Correct. {{Rover}}, you're as amazing as they say. Here is your reward.\n:::'''Abby:''' You're so amazing, {{Rover}}! You even know the answer to such a difficult riddle!\n::{{DIcon}} Loans\n:::'''Xieyang:''' What a depressing answer. What makes it worse is that it isn't the correct answer even though it's also very appropriate. Here is your reward.\n:::'''Abby:''' Huh, that's not the right answer, but it makes sense to me though...\n::{{DIcon}} Is it the Convene feature?\n:::'''Xieyang:''' I'm sorry, but that's not the correct answer. Your answer is a little too depressing. Here's your reward.\n:::'''Abby:''' This is scary! How did you know?\n:;(Set 3)\n::'''Xieyang:''' What is naked in winter, loses all its hair in winter, is fully armed in summer, and grows in spring?\n::{{DIcon}} A tree.\n:::'''Xieyang:''' Correct. {{Rover}}, you're as amazing as they say. Here is your reward.\n:::'''Abby:''' You're so amazing, {{Rover}}! You even know the answer to such a difficult riddle!\n::{{DIcon}} Abby.\n:::'''Abby:''' Yes, of course it's... Wait a minute! That's not right. I'm not naked!\n:::'''Xieyang:''' Hahaha, what an interesting answer, but unfortunately, it's not the correct one. I do love it, though. Here's your reward.\n:::'''Abby:''' {{Rover}}, so that's what you think of me...\n::{{DIcon}} I can do all that, too.\n:::'''Xieyang:''' Really...? Ahem, unfortunately, that isn't the correct answer. Here's your reward.\n:::'''Abby:''' You're naked in winter... that's so impressive, {{Rover}}!\n:;(Set 4)\n::'''Xieyang:''' What's cold and breathless in both life and death and drinks water its entire life even though it never gets thirsty?\n::{{DIcon}} Fishes.\n:::'''Xieyang:''' Correct. {{Rover}}, you're as amazing as they say. Here is your reward.\n:::'''Abby:''' You're so amazing, {{Rover}}! You even know the answer to such a difficult riddle!\n::{{DIcon}} Are you talking about [[Sanhua]]? She does seem quite cold and aloof.\n:::'''Xieyang:''' Hahaha, what an interesting answer, but unfortunately, it's not the correct one. I do love it, though. Here's your reward.\n:::'''Abby:''' Huh, that's not the answer, but it makes sense to me, though...\n::{{DIcon}} Me!\n:::'''Xieyang:''' Cold and b-breathless?! S-Stay away from me! H-here is your reward.\n:;(Set 5)\n::'''Xieyang:''' What controls the tides, waxes and wanes, yet forever remains in Jinzhou to bring people together?\n::{{DIcon}} The moon.\n:::'''Xieyang:''' Correct. {{Rover}}, you're as amazing as they say. Here is your reward.\n:::'''Abby:''' You're so amazing, {{Rover}}! You even know the answer to such a difficult riddle!\n::{{DIcon}} Hehe, is the answer me?\n:::'''Abby:''' That's not right! The answer should be me!\n:::'''Xieyang:''' Hahaha, what an interesting answer, but unfortunately, it's not the correct one. I do love it, though. Here's your reward.\n::{{DIcon}} It's Magistrate [[Jinhsi]].\n:::'''Abby:''' {{Rover}}, you would have gotten it right if you chose me!\n:::'''Xieyang:''' You're right to some extent, but unfortunately, not even the Magistrate can control the tides. Here's your reward.\n:;(Set 6)\n::'''Xieyang:''' What's invisible and silent, can heal wounds and break things down, forever devouring and indestructable?\n::{{DIcon}} Time.\n:::'''Xieyang:''' Correct. {{Rover}}, you're as amazing as they say. Here is your reward.\n:::'''Abby:''' You're so amazing, {{Rover}}! You even know the answer to such a difficult riddle!\n::{{DIcon}} Abby.\n:::'''Abby:''' Yes, that's right (nods). I'm really strong.\n:::'''Xieyang:''' Hahaha, what an interesting answer, but unfortunately, it's not the correct one. I do love it, though. Here's your reward.\n:::'''Abby:''' Huh, that's not the answer, but it makes sense to me, though...\n::{{DIcon}} That has to be me!\n:::'''Xieyang:''' Hahaha, what an interesting answer, but unfortunately, it's not the correct one. I do love it, though. Here's your reward.\n:::'''Abby:''' {{Rover}}, in what way are you invisible...\n:;(Set 7)\n::'''Xieyang:''' What's small and invisible yet fills the sky? What connects the sky and the earth?\n::{{DIcon}} Rain.\n:::'''Xieyang:''' Correct. {{Rover}}, you're as amazing as they say. Here is your reward.\n:::'''Abby:''' You're so amazing, {{Rover}}! You even know the answer to such a difficult riddle!\n::{{DIcon}} The heavy fire of Disruptor cannons.\n:::'''Xieyang:''' What? Cannon fire that fills up the sky? I can't imagine that at all. Here's your reward.\n:::'''Abby:''' Why did I{{sic}} end up with the reward for the wrong answer...\n::{{DIcon}} The right answer should finally be me, right?\n:::'''Xieyang:''' Unfortunately, that isn't the correct answer... I really don't know what kind of riddle would have {{Rover}} be the answer. Here's your reward.\n:::'''Abby:''' The answer isn't {{Rover}} either this time. What could it be?\n:::'''Xieyang:''' Hahaha... actually, the answer is rain.\n:;(Talk to Xieyang again after solving a riddle)\n::'''Xieyang:''' {{Rover}}, you've already tried answering this riddle today.\n::'''Xieyang:''' I need some times to prepare more riddles. Please come back tomorrow.\n:{{DIcon}} Chat\n::'''Xieyang:''' Ling from the Academy usually organizes these activities. But this year, she wanted to join in on the fun, so I asked Professor Bosong to take her around.\n::'''Xieyang:''' Ling is a student at the Academy. Something happened to her family... and ever since then, Professor Bosong has been looking after her.\n::'''Xieyang:''' They get along great, but they hardly ever get a break at the Academy. So I stepped in and let them take off to enjoy the festival.\n::'''Xieyang:''' Besides, for a poet of my talent, writing a few riddles is a piece of cake!\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n\n==Other Languages==\n{{Other Languages\n|en   = Riddle Twiddle\n|zhs  = 猜灯谜\n|zht  = 猜燈謎\n|ja   = 灯ろうクイズ\n|ko   = 초롱 수수께끼\n|es   = Adivinanza\n|fr   = Devinette\n|de   = Laternenrätsel\n}}\n\n==Change History==\n{{Change History|1.2}}\n\n==Navigation==\n{{PoI Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

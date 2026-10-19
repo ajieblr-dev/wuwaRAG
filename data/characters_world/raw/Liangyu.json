@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:21Z",
+  "title": "Liangyu",
+  "pageid": 42281,
+  "wikitext": "{{Stub|profile}}\n{{NPC Infobox\n|image            = NPC Liangyu.png\n|type             = Quest\n|type2            = Resonator\n|nation           = Huanglong\n|affiliation      = Xuan Triad\n|status           = Alive\n\u003c!-- Family --\u003e\n|relative         = Lingfang\n|relativeNote     = ancestor) (deceased\n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm8046695|Mia Foo]]\u003cref\u003eInstagram: [https://www.instagram.com/p/DayObvgqo1s/ EN VA Self Announcement]\u003c/ref\u003e\n|voiceCN          = \n|voiceJP          = {{w|ja:日比優理香|Hibi Yuriko ({{Lang|mini=1|ja=日比優理香}})}}\u003cref name=\"Hibi Yuriko\"\u003eX: [https://x.com/nippi1011/status/2090273875523440664 JP VA Self Announcement]\u003c/ref\u003e\n|voiceKR          = \n}}{{Description|{{A|Vo main huanglong syylfml 350 29.ogg}} ''If only I had seen it, just few seconds sooner. If my life could buy back theirs... I would...''|Liangyu, [[The Wind Before the Storm]]}}\n\n'''Liangyu''' {{Lang|zh=椋羽}} is one of the three [[Xuan Triad]] and a quest-exclusive NPC who makes her first appearance during the {{Quest|The Wind Before the Storm}}.\n\n==Profile==\n\n===Resonance===\nShe is a [[Resonator]], and her [[Tacet Mark]] is located on her nape.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Liangyu\n|zhs  = 椋羽\n|zht  = 椋羽\n|ja   = 椋羽（リョウウ）\n|ko   = 양우\n|fr   = Liangyu\n|de   = Liangyu\n|es   = Liangyu\n|th   = Liangyu\n|pt   = Liangyu\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==References==\n{{Reflist}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

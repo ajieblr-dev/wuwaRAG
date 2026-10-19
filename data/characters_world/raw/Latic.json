@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:18Z",
+  "title": "Latic",
+  "pageid": 74619,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Vichy and Latic.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont\n|location2        = Capitoline Hill\n|group            = Gladiator\n|affiliation      = Septimont\n|affiliationNote  = Gladiator\n}}\n__NOTOC__\n'''{{PAGENAME}}''' is a male NPC Gladiator apprehending [[Vichy]] in [[Capitoline Hill City]] for selling fake miracle remedies. \n\n{{Dialogue Start}}\n==Idle==\n:;Thank goodness he arrived just in time to stop me from buying that knockoff...\n:;Yeah, I feel bad for that tourist couple who just bought some fake medicine a few moments ago. I hope nothing bad happens to that poor girl.\n\n: '''Vichy:''' Eww! This creep just licked my face!\n:'''Latic:''' What's this...? It's the smell of crime in the air!\n\n==Dialogue==\n:'''Vichy''': D-Don't come any closer. The number of muscles, I can't take it...\n:'''Latic''': Then speak! Where are the proper documents for this medicine? Why are you selling them without a license?\n:'''Vichy''': All right. All right. Just don't come any closer, and don't lick my face either!\n:'''Vichy''': I saw that [[Wuli|couple]] from Huanglong taking a rest over there, and that [[Fuling|girl]] looked really weak in particular.\n:'''Vichy''': So I mixed juice with water and sold it to them as some cure-all remedy!\n:'''Vichy''': Hey, it's only my first time. Just let me go, will ya?\n:'''Latic''': Oh, we're going all right! With me!\n:'''Vichy''': N-No... Please...\n{{Dialogue End}}\n\n==Note==\n* The couple mentioned is Wuli and Fuling from {{Quest|Immortal Blaze}}. \n\n==See Also== \n* [[Irion]] - A Gladiator who met the couple\n\n==Other Languages==\n{{Other Languages\n|en   = Vichy\n|zhs  = 维希\n|zht  = 維希\n|ja   = ビィヒ\n|ko   = 비시\n|es   = Vichy\n|fr   = Vichy\n|de   = Vichy\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Note",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

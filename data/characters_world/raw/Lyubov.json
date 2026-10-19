@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:32Z",
+  "title": "Lyubov",
+  "pageid": 27127,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Lyubov.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Montelli Quarter\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Lyubov''' is an NPC that appears in [[Montelli Quarter]], [[Ragunna]] from 6:00 AM 5:59 PM. She can only be interacted with from 2:00 PM to 5:59 PM.\n\nFrom 6:00 AM to 1:59 PM, she can be seen thinking about what souvenir she should buy. And from 2:00 PM to 5:59 PM, she can be seen talking with [[Sofia]] and [[Sergio]]\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}''\n\n==Idle Quotes==\n{{Dialogue Start}}\n;\u003cnowiki\u003e(6:00 AM to 1:59 PM)\u003c/nowiki\u003e\n:'''Lyubov:''' Which souvenirs should I pick...\n:'''Lyubov:''' A Volcanic Windchime from the Septimont... a Jade Clam from Riccioli... or maybe one of each!\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;\u003cnowiki\u003e(2:00 PM to 5:59 PM)\u003c/nowiki\u003e\n:'''Lyubov:''' Excuse me, could you get me this clam! And this wind chime too.\n:'''Sergio:''' Alright, that'll be 220 Monnaie.\n:'''Lyubov:''' What? What's a Monnaie?\n:'''Sofia:''' You're mistaken, Mister!\n:'''Sofia:''' Monnaie is long outdated by now!\n:'''Sofia:''' Now we use Shell Credit for payments as the rest of Solaris does. Monnaie has become just a souvenir of Ragunna.\n:'''Sergio:''' Oh, yeah... you are right.\n:'''Sergio:''' It feels like just yesterday we were still using Monnaie... I'm getting old...\n:'''Sergio:''' Now I remember the time when Averardo Bank collected Monnaie to exchange new notes for us.\n:'''Sergio:''' Oh, right, that'll be 220 Shell Credits, young lady.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lyubov\n|zhs  = 柳博芙\n|zht  = 柳博芙\n|ja   = リュボフ\n|ko   = 류보프\n|es   = Lyubov\n|fr   = Lyubov\n|de   = Lyubov\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

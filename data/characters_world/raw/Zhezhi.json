@@ -1,0 +1,107 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:19Z",
+  "title": "Zhezhi",
+  "pageid": 9635,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery|Zhezhi}}\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 5\n|class            = Congenital\n|weapon           = Rectifier\n|role             = Concerto Efficiency;Basic Attack Damage;Coordinated Attack;Glacio DMG Amplification;Resonance Skill DMG Amplification\n|attribute        = Glacio\n|releaseDate      = 2024-08-15\n\n\u003c!-- Info --\u003e\n|name             = Zhezhi\n|title            = Enchanted Brush\n|gender           = Female\n|birthday         = December 31st\n|birthplace       = Huanglong\n|nation           = Huanglong\n|affiliation      = Jinzhou\n|dish             = Sweet Stuffed Flatbread\n|obtain           = Chromatic Prose\n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm665661|Shin-Fei Chen]]\u003cref name=\"Zhezhi Bilibili\"\u003eBilibili: [https://www.bilibili.com/video/BV14i421a7Hx 《鸣潮》共鸣者「折枝」展示PV丨今日交]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/苗子 Miao Zi ({{Lang|mini=1|zh=苗子}})]\u003cref name=\"Zhezhi Bilibili\"/\u003e\n|voiceJP          = {{w|Yui Makino|Makino Yui ({{Lang|mini=1|ja=牧野由依}})}}\u003cref name=\"Zhezhi Bilibili\"/\u003e\n|voiceKR          = [https://namu.wiki/w/김하루 Kim Ha-ru ({{Lang|mini=1|ko=김하루}})]\u003cref name=\"Zhezhi Bilibili\"/\u003e\n}}\n{{Quote|What I wanted to say is, the sunlight on you right now is so beautiful.\nCan I... paint you?|Zhezhi\n}}\n{{Intro/Resonator|lang=zh=折枝}} \n\nShe is a commissioned painter, quiet and shy with a dedication to her craft. She's not very eloquent, but her persistence and love for painting speak volumes.\n\n==Combat Overview==\n{{Main|Zhezhi/Combat}}\n===Ascension Material===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox|Zhezhi}}\n{{Skill Upgrade|Zhezhi|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox|Zhezhi}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n== Other Languages==\n{{Other Languages\n|en      = Zhezhi\n|zhs     = 折枝\n|zht     = 折枝\n|ja      = {{Rubi|折|オリ|枝|エ}}\n|ko      = 절지\n|es      = Zhezhi\n|fr      = Zhezhi\n|de      = Zhezhi\n}}\n\n== Change History ==\n{{Change History|1.2}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[ru:Чжэ Чжи]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Material",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "3.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

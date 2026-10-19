@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:54Z",
+  "title": "Novialle Regenerative Group",
+  "pageid": 77301,
+  "wikitext": "{{stub}}\n\n{{Location Infobox\n|name         = Novialle Regenerative Group\n|image        = Novialle Regenerative Group.jpg\n|type         = Lore\n|type2        = Instance\n|icon         = \n|nation       = New Federation\n|region       = \n|area         = \n|description  = A pharmaceutical corporation based in the New Federation. Its core technology originates from the development of Ichor, a groundbreaking medical advancement shadowed by perpetual controversy.\n}}__NOTOC__\n{{Quote|Novialle Regenerative Group has reportedly halted development of its \"Golden Serum\" for rare diseases. It is said to be linked with the death of their CEO...|Resonator Showcase:Luuk Herssen — PUTRID TRUTH}}\n'''{{PAGENAME}}''' is a pharmaceutical corporation located in [[New Federation]]. After the death of the former CEO, Luuk Herssen took over as heir and accelerated the development of their drug products. After shutting down all labs related to the research of \"{{Rubi|Golden Blood|Ichor}}\", the young Executive left the company to his assistant.\u003cref\u003e\"Drug development accelerated, while labs once dedicated to researching \"Golden Blood\" were shuttered, one after another.\"[[Luuk Herssen/Backstory#Undercurrent]]\u003c/ref\u003e\u003cref\u003e\"The day before I came to Lahai-Roi, I dumped all of Novialle's mess onto my assistant. I felt oddly at ease when I saw the look of sheer shock and confusion on his face.\"[[Luuk Herssen/Voicelines#Chat: II]]\u003c/ref\u003e\n\n==Members==\n===Notable Members===\n{| class=\"article-table\"\n! Icon!!Name!!Department!!Role\n|-\n|[[File:Resonator Luuk Herssen.png|50px]]\n|[[Luuk Herssen]]\n|CEO (former)\n|Heir, Executive (Former)\n|} \n\n==Ichor==\nA special pharmaceutical substance developed for extremely rare diseases. However, its severe side effects make it intolerable for most, keeping it under ongoing research and validation. In its natural form, Ichor is a volatile golden liquid that radiates intense heat at room temperature. In rare cases, it can be controlled and stabilized into a solid form.\n\n\"The treatment plan that had consumed the conglomerate's lifetime of effort had failed to cure any rare disease patients except Luuk Herssen. In his final moments, Rhein didn't even die from his illness. The Ichor, once believed to be his salvation, had completely consumed him. Driven mad, he had injured several people and fled the ward, teetering on the edge of a total, violent breakdown.\" \n\n==Other Languages==\n{{Other Languages\n|en   = Novialle Regenerative Group\n|zhs  = 诺维尔再生医药\n|zht  = 諾維爾再生醫藥\n|ja   = ノヴィアル再生医療グループ\n|ko   = 노비알레 재생 의학\n|fr   = Groupe de médecine régénérative Novialle\n|de   = Novialle-Revitalis-Gruppe\n|es   = Grupo Regenerativo Novialle\n|th   = องค์กรเวชศาสตร์ฟื้นฟู Novialle\n|pt   = Grupo Regenerativo Novialle\n}}\n\n==Change History==\n{{Change History|3.1}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Notable Members",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Ichor",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

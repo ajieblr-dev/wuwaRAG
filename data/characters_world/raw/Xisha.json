@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:07Z",
+  "title": "Xisha",
+  "pageid": 5913,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Xisha.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = Lollo Logistics\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = Xuanxuan\n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Xisha''' is an NPC in {{Location|Jinzhou}}.\n\nDuring the event [[By Moon's Grace]], Xisha is a shop NPC in [[Taoyuan Vale]] for [[Fireworks Shop]].\n\n==Shop==\n{{Shop/Wrapper|currency=Shell Credit|total=50,000|vendor=Xisha|\n{{Shop|Skyshaker|500|100|total=1|type=Other}}\n}}\n\n==Quests and Events==\n{{Quests and Events|Xisha}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Near Lollo Logistics office)\n:'''Xisha:''' Whew... Whew... At last, time for a little break.\n:{{DIcon}} Is working as a courier really that tough?\n:'''Xisha:''' It's tough, yet knowing that we, Lollo Logistics, are the lifeline after all other transportation is cut off really boosts my drive.\n:'''Xisha:''' Besides... my daughter Xuan Xuan is watching me, so I can't slack off.\n----\n;(Other locations - Near [[Huaxu Academy]], Near [[Jinzhou]] Resonance Nexus)\n:'''Xisha:''' Done. This one's off. Onto the next...\n:'''Xisha:''' Tiring, sure, but can't rest now... With so many paths blocked since [[the Lament]], it's on us to get these deliveries through.\n:'''Xisha:''' The orders from the [[Desorock Highland]] have been piling up lately. Something might be happening on the frontline... I need to step up my game.\n{{Dialogue End}}\n\n===Event Dialogue===\n====By Moon's Grace====\n{{Dialogue Start}}\n;(First interaction)\n:'''Xisha''': Combine the Silver Dragon with this one... and the Thunderstorm...\n:'''Xisha''': Oh, Rover, it's you! Welcome! Just give me a moment to check the inventory here.\n:{{DIcon}} Take your time.\n::'''Xisha''': You know what, I'll sort them out later.\n:{{DIcon}} So many different kinds of fireworks.\n::'''Xisha''': Yep, and some experimental ones too, hehe...\n:'''Xisha''': Sorry for the wait, Rover. See any fireworks you like? I've got pretty much every type here.\n:'''Xisha''': Skyrockets, sparklers, smoke flares... you name it.\n:'''Xisha''': Oh, I also provide recipes for making your own custom fireworks.\n:'''Xisha''': Who knows, maybe yours will steal the show at the Moonlit Fair!\n----\n:'''Xisha''': Come on up, come on in! Have a look at the fireworks!\n:{{DIcon|Shop}} Open store\n:;(Opens [[shop]])\n:{{DIcon}} Chat\n::'''Xisha''': Hmmm... so sleepy. Eh, what's new?\n::'''Xisha''': With the hours I've been pulling, it's a miracle I'm still awake. Reminds me of my Lollo Logistics days.\n::'''Xisha''': I promised my daughter we'd set up the firework stall at the Moonlit Fair. Gotta keep that promise.\n::'''Xisha''': I'll design the patterns, and you deal with the hands-on stuff. Together, we'll create something memorable!\n::'''Xisha''': All this work... Well, as long as my girl loves it, it's no trouble at all.\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xisha\n|zhs  = 西沙\n|zht  = 西沙\n|ja   = 西砂（セイサ）\n|ko   = 서훈\n|es   = Xisha\n|fr   = Xisha\n|de   = Xisha\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Dialogue",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "By Moon's Grace",
+      "number": "3.1.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "7"
+    }
+  ]
+}

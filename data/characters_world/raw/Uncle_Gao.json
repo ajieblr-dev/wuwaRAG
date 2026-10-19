@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:53Z",
+  "title": "Uncle Gao",
+  "pageid": 5325,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Uncle Gao.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = \n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = Ruiyun\n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Uncle Gao''' is an NPC in [[Huanglong]].\n\n==Dialogue==\n===Daytime===\n{{Dialogue Start}}\n:'''Uncle Gao:''' *sigh* Ruiyun, you're just a girl. What's joining the [[Midnight Rangers|Rangers]] got anything to do with you?\n:'''Uncle Gao:''' What if something happens to you? Then there'd be nothing but this old man left in this family.\n:'''Uncle Gao:''' Oh, you wouldn't believe the amount of strings I had to pull to get her a place in the city patrol.\n:'''Uncle Gao:''' Do you have any idea how many people are out there right now who want to be in her shoes? Tsk, she should be glad she got the job!\n:'''Uncle Gao:''' If she finds out that I was the one who kept her from going to the frontlines, oh boy, she'd probably make a huge fuss over it... *sigh*.\n{{Dialogue End}}\n\n===Nighttime===\n{{Dialogue Start}}\n:'''Uncle Gao:''' How's work been lately? No one said anything strange to you, did they?\n:'''Ruiyun:''' Say something strange? Why would anyone do that?\n:'''Uncle Gao:''' Nothing, it's nothing.\n:'''Ruiyun:''' Dad, I feel like you've been acting a bit weird ever since I started my job.\n:'''Uncle Gao:''' Hey, don't you be getting any of that occupational hazard or whatever they call it, all right? You're starting to look at everyone the wrong way.\n:'''Ruiyun:''' Are you getting lonely while I'm gone? Do you want me to find someone to keep you company?\n:'''Uncle Gao:''' What? What do you mean lonely? I'm just worried about my daughter!\n:'''Ruiyun:''' Oh, come on, Dad... I'm an adult now. I can take care of myself, okay?\n:'''Uncle Gao:''' Oh, no, you're not. You'll always be a child in your father's eyes.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Uncle Gao\n|zhs  = 高伯\n|zht  = 高伯\n|ja   = 高じい\n|ko   = 고 아저씨\n|es   = Tío Gao\n|fr   = Monsieur Gao\n|de   = Onkel Gao\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Daytime",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Nighttime",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "5"
+    }
+  ]
+}

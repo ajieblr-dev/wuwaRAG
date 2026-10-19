@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:58Z",
+  "title": "Petrova",
+  "pageid": 42834,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is a female [[NPC]] researcher who can be found at the entrance way of [[Startorch Academy]] at night, talking with '''Halvad'''. \n\n==Location==\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Petrova:''' Mr. Halvad, does the Antivoid Canopy work by using cultivated [[Exostrider]] coating cells to resist Void Storms?\n:'''Halvad:''' Yes, it all starts with isolating the cells from the Exostrider. We then guide and differentiate them into a massive protective mesh. That's the triumph of Phase-Coating Sciences.\n:'''Halvad:''' On the Exostrider's own surface, these cells maintain a dynamic equilibrium. They resist contamination and regenerate continuously.\n:'''Halvad:''' However, the Antivoid Canopy still can't perfectly replicate that trait. Once wear sets in, we must manually apply newly cultivated coating cells.\n:'''Petrova:''' So we're still a long way from the original's... perfection.\n:'''Halvad:''' But with our intellect and technology, we'll get there one day.\n----\n;After completing {{Quest|Starlights from Yesterdays}}\n:'''Petrova''': Senior, did you see this section of the data?\n:'''Halvad:''' Is this... when the Antivoid Canopy was running at critical load? The readings actually went above zero!\n:'''Petrova:''' Does that mean the coating cells temporarily gained the same properties as Exostrider material?\n:'''Halvad:''' That spike... was it because of the Exostrider? But at the time, it was still in Voidspace. Nowhere near Lahai-Roi.\n:'''Halvad:''' And before that interval, the Canopy never behaved like this.\n:'''Petrova:''' Could it be... that Professor Mornye's \"Drive Replica\" gave the Exostrider a new ability? A way to sense anything connected to it?\n:'''Halvad:''' Perception that can pass through the Stridergate... How would that even work? A new form of Resonance? Huh. A hypothesis worth digging into...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Petrova\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

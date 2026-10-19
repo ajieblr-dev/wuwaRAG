@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:20Z",
+  "title": "Sabercat Prowler",
+  "pageid": 39008,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Sabercat Prowler\n|image         = Sabercat Prowler Icon.png\n|dmgtype       = Havoc\n|echo          = Yes\n|class         = Elite\n|family        = Tacet Discord\n|group         = Exoswarm\n|nation        = Lahai-Roi\n}}{{Description|A machine capable of camouflage. It possesses heightened senses and uses the detector on its tail to track enemy movements.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Elite Exoswarm}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Trophies==\n{{Trophies|Sabercat Prowler}} \n\n==Description==\n{{Description|This enemy has a higher RES to {{Color|[[Havoc]] DMG|nobold=1}}.\u003cbr /\u003e\u003cbr /\u003eWhen Sabercat Prowler is in a state of Invisibility, its all All-Attribute RES is increased by 30%.\u003cbr /\u003e\u003cbr /\u003eHitting Sabercat Prowler with [[Tune Break]] forces it out of Invisibility.\u003cbr /\u003e\u003cbr /\u003eWhen Sabercat Prowler is under Tune Rupture - Shifting and hit by Tune Break, it takes additional DMG equal to 25% of its Max [[HP]], triggered only once.\u003cbr /\u003e\u003cbr /\u003eA machine capable of camouflage, its parts are badly corrupted by Voidmatter, causing severe degradation to its vision and hearing. Yet this also heightens its other sensory perceptions. It tracks enemy movements by using the detector on its tail to sense changes in frequency.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sabercat Prowler\n|zhs  = 隐迹铁影\n|zht  = 隱跡鐵影\n|ja   = プラウラーシェード\n|ko   = 세이버캣 프라울러\n|fr   = Rôdeur à dents de sabre\n|de   = Säbelzahnpirscher\n|es   = Merodeador Félido\n|th   = Sabercat Prowler\n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:22Z",
+  "title": "Exostrider Observation Station",
+  "pageid": 40424,
+  "wikitext": "{{Location Infobox\n|title     = Exostrider Observation Station\n|image     = Exostrider Observation Station.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Roya Frostlands\n|region    = Tidelost Forest\n}}\n\n'''Exostrider Observation Station''' is an area of [[Tidelost Forest]], [[Roya Frostlands]]. \n\n==NPCs==\n{{NPCs by Location List|Exostrider Observation Station}}\n\n==See Also==\n* [[A Great Tragedy]]\n\n==Other Languages==\n{{Other Languages\n|en   = Exostrider Observation Station\n|zhs  = 隧阈观测站\n|zht  = 隧閾觀測站\n|ja   = \u003cword\u003eエクソストライダー閾値観測基地\u003c/word\u003e\n|ko   = 엑소스트라이더 관측소\n|fr   = Station d'observation d'Exoarpenteur\n|de   = Exoschreiter-Beobachtungsstation\n|es   = Observatorio del Exotitán\n|th   = สถานีสังเกตการณ์ Exostrider\n|pt   = Observatório de Exotitã\n}}\n\n==Change History==\n{{Change History|3.1}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

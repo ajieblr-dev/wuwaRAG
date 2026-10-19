@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:38Z",
+  "title": "Misty Coast",
+  "pageid": 6044,
+  "wikitext": "{{Stub}}\n{{Location_Infobox\n|title1=Misty Coast\n|image=Misty Coast.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Desorock Highland\n}}\n'''Misty Coast''' is an area of [[Desorock Highland]], [[Huanglong]]. \n\n==Other Languages==\n{{Other Languages\n|en   = Misty Coast\n|zhs  = 止戈关峡\n|zht  = 止戈關峽\n|ja   = 終戦の関\n|ko   = 정전 협곡\n|es   = Costa Brumosa\n|fr   = Côte des brumes\n|de   = Nebelküste\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

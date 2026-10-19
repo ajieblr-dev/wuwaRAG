@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:22Z",
+  "title": "Lilith",
+  "pageid": 39058,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Lilith.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Square\n|group            = \n|affiliation      = Department of Voidmatters\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}{{Quote|Come on, join our Fleet Snowfluff Fan Club!}}\n'''Lilith''' is a NPC female student who is recruiting for the [[Fleet Snowfluff]] Fan Club. She can be found North-West of the Academy Square, facing towards the {{Rubi|Can \u0026 Tin|Eatery}}. \n\n==Location==\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Lilith:''' Come on, join our Fleet Snowfluff Fan Club!\n:{{DIcon}} Fleet Snowfluff?\n:'''Lilith:''' That's right. Have you heard [[Aemeath|her]] songs? Her style is all over the place. Super romantic one minute, and totally off-the-cuff the next.\n:'''Lilith:''' But she hasn't released a new song in over ten years.\n:'''Lilith:''' But even so, her songs have never gone out of style! You've gotta give them a listen!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n\n{{Other Languages\n|en   = Lilith\n|zhs  = 莉莉丝\n|zht  = 莉莉絲\n|ja   = リリス\n|ko   = 릴리스\n|fr   = Lilith\n|de   = Lilith\n|es   = Lilith\n|th   = Lilith\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

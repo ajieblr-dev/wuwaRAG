@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:31Z",
+  "title": "Lumiscale Construct",
+  "pageid": 23048,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Lumiscale Construct\n|title=\n|image=Lumiscale Construct Icon.png\n|dmgtype=Glacio\n|weakpoint=\n|echo=Yes\n|class=Elite\n|family=Tacet Discord\n|group=Tranquilite\n|nation=Huanglong\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A mechanical construct guarding the ruins in Mt. Firmament. It takes direct orders from the Sentinel and functions as their guardian.}}\n{{Intro/Enemy}}\n==Drops== \n{{Drops|Elite Tranquilite}}\n\n==Stats==\n{{Enemy Stats|Lumiscale Construct}}\n\u003c!--\n==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Lumiscale Construct|customheader=Lumiscale Constructs}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Glacio damage}}.\u003cbr/\u003eLumiscale Constructs are composed of Jué's defensive modules, commonly known as \"Loong's Scales.\"\nThey are found throughout the Court of Savantae ruins in Mt. Firmament, tasked with eliminating intruders and potential threats to Jué.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en      = Lumiscale Construct\n|zhs     = 游鳞机枢\n|zht     = 遊鱗機樞\n|ja      = 浮遊鱗機\n|ko      = 용비늘의 기축\n|es      = Lumescama Mecánica\n|fr      = Golem des écailles\n|de      = Lumischuppen-Konstrukt\n}}\n\n==Change History==\n{{Change History|1.1}} \n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

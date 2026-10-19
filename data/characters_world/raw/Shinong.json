@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:24Z",
+  "title": "Shinong",
+  "pageid": 9922,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = no\n|missing_NPC_location = no\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Shinong.png\n|type             = Quest\n|nation           = Huanglong\n|location         = Mt. Firmament\n|group            = \n|affiliation      = Jinzhou\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Shinong''' is an [[NPC]] in {{Location|Mt. Firmament}}. He is a doctor from [[Jinzhou]].\u003cref\u003e[[Daily Quest]] {{Quest|Herb Expeditioner: I}}\n:'''''Shinong:''' Ah, that's a long story. Allow me to formally introduce myself. I'm Shinong, a doctor from Jinzhou.''\u003c/ref\u003e\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Shinong\n|zhs  = 什浓\n|zht  = 什濃\n|ja   = 什濃（シュウノウ）\n|ko   = 신비\n|es   = Shinong\n|fr   = Shinong\n|de   = Shinong\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==References==\n\u003creferences /\u003e",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Daily Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

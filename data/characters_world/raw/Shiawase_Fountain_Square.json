@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:24Z",
+  "title": "Shiawase Fountain Square",
+  "pageid": 38143,
+  "wikitext": "{{Location Infobox\n|image        = Shiawase Fountain Square.png\n|type         = Area\n|nation       = The Black Shores\n|region       = Chronorift Metropolis\n}}\n'''Shiawase Fountain Square''' is an [[Area]] located in [[Chronorift Metropolis]].\n\n==NPCs==\n{{NPCs by Location List|Shiawase Fountain Square}} \n\n==Trivia==\n===Etymology=== \n*{{Lang|Shiawase|ja=幸せ}} means happiness.\n\n==Other Languages==\n{{Other Languages\n|en   = Shiawase Fountain Square\n|zhs  = 幸缘喷泉广场\n|zht  = 幸緣噴泉廣場\n|ja   = しあわせ噴水広場\n|ko   = 시아와세 분수광장\n|fr   = Place de la Fontaine Shiawase\n|de   = Shiawase Brunnenplatz\n|es   = Plaza de la Fuente Shiawase\n|th   = ลานน้ำพุชิอาวาเสะ\n}} \n\n==Change History==\n{{Change History|2.8}} \n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

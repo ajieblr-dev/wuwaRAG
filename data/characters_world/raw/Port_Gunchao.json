@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:03Z",
+  "title": "Port Gunchao",
+  "pageid": 6020,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Port Gunchao\n|image=Port Gunchao.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Whining Aix's Mire\n}}\n'''Port Gunchao''' is an area of [[Whining Aix's Mire]], [[Huanglong]]. \n\n==Features==\n===Interactables===\n{{#dpl:|category = Port Gunchao Terminology|ordermethod= title}}\n\n==NPCs==\n{{NPCs by Location List|Port Gunchao}}\n\n==Other Languages==\n{{Other Languages\n|en   = Port Gunchao\n|zhs  = 鲧巢港\n|zht  = 鯀巢港\n|ja   = {{Rubi|鯀巣|こんそう}}の港\n|ko   = 곤소항\n|es   = Puerto Gunchao\n|fr   = Port Gunchao\n|de   = Hafen Gunchao\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Features",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Interactables",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

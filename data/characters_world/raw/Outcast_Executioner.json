@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:58Z",
+  "title": "Outcast Executioner",
+  "pageid": 39014,
+  "wikitext": "{{Enemy Infobox\n|name          = Outcast Executioner\n|image         = Outcast Executioner Icon.png\n|dmgtype       = Physical\n|echo          = No\n|class         = Common\n|family        = Human\n|group         = Roya Outcast\n|nation        = Lahai-Roi\n}}\n{{Description|Savage and brutal Roya who broke from tradition and were cast out of the tribe.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Common Outcast}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Trophies==\n{{Trophies|Outcast Executioner}} \n\n==Description==\n{{Description|The Roya who were cast out of their tribe for selling Exostrider cell remnants. They, however, view themselves as unfettered by the old ways. To mock tradition, they wear masks made from Exoswarm heads and use the Shepherd's Staff as a weapon, and thus become a force of unrestrained chaos in Lahai-Roi.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Outcast Executioner\n|zhs  = 执刃流民\n|zht  = 執刃流民\n|ja   = 槍持ちの流れ者\n|ko   = 칼을 든 유랑민\n|fr   = Exécuteur paria\n|de   = Klinge-Ausgestoßener\n|es   = Proscrito Ejecutor\n|th   = Blade-Wielding Drifter\n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

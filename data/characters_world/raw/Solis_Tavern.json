@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:30Z",
+  "title": "Solis Tavern",
+  "pageid": 37109,
+  "wikitext": "{{Location Infobox\n|image        = Solis Tavern.png\n|type         = Point of Interest\n|type2        = Restaurant\n|icon         = Icon Dialogue Restaurant.png\n|nation       = Rinascita\n|region       = Septimont\n|area         = Capitoline Hill\n|subarea      = Capitoline Hilltop\n}}\n'''Solis Tavern''', often referred to as just '''Solis''', is a restaurant run by [[Fulvia]]. \n\n==Shop==\n{{Vendor|Fulvia}} \n\n==Descriptions==\n{{Description|The hottest restaurant in Septimont City. Here, you can order a hearty Glory Set, sip on a glass of wheat juice, or even get up and dance while watching a match broadcast. At Solis, there's always a place for you.}} \n\n==Other Languages==\n{{Other Languages\n|en   = Solis Tavern\n|zhs  = 「烈日」酒馆\n|zht  = 「烈日」酒館\n|ja   = 酒場「ソリス」\n|ko   = 「솔리스」 주점\n|fr   = «\u0026nbsp;Solis\u0026nbsp;», la Taverne\n|de   = Solis\n|es   = Taberna Solis\n|th   = ร้านโซลิส\n}} \n\n==Change History==\n{{Change History|2.4}} \n\n==References==\n{{Reflist}} \n\n==Navigation==\n{{PoI Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

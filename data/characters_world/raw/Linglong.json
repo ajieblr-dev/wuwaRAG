@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:23Z",
+  "title": "Linglong",
+  "pageid": 20589,
+  "wikitext": "{{NPC Infobox\n|image            = Linglong.png\n|type             = Mentioned\n|nation           = Huanglong\n|location         = \n|group            = \n|affiliation      = Longyue\n|title            = \n}}\n'''Linglong''' is a legendary fashion designer mentioned by [[Fuyue]], the creator of the brand [[Longyue]]. She has presented her work at [[Lilyland]]'s Fashion Week in the past.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Linglong\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|introduced=1.0}}\n[[Category:Mentioned Only]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

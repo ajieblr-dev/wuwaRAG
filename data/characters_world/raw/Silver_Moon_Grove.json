@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:27Z",
+  "title": "Silver Moon Grove",
+  "pageid": 26408,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Silver Moon Grove\n|image=Silver Moon Grove.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Whisperwind Haven\n}}\n\n'''Silver Moon Grove''' is an area of [[Whisperwind Haven]], [[Rinascita]]. \n\n==Exploration Quest==\n*[[Silver Moon? Crimson Moon?]]\n\n==NPCs==\n{{NPCs by Location List|Silver Moon Grove}}\n\n==Other Languages==\n{{Other Languages\n|en   = Silver Moon Grove\n|zhs  = 白月林迹\n|zht  = 白月林跡\n|ja   = 白き月の{{Rubi|森遺跡|もりいせき}}\n|ko   = 하얀 달의 숲\n|es   = Bosque Blancaluna\n|fr   = Bosquet de la Lune d'Argent\n|de   = Silbermondhain\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Quest",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

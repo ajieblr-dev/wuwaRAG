@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:54Z",
+  "title": "Nostalgia Isle",
+  "pageid": 6038,
+  "wikitext": "{{Stub}}\n{{Location_Infobox\n|title1    = Nostalgia Isle\n|image     = Nostalgia Isle.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Port City of Guixu\n}}\n'''Nostalgia Isle''' is an area of [[Port City of Guixu]], [[Huanglong]]. \n\n==Other Languages==\n{{Other Languages\n|en   = Nostalgia Isle\n|zhs  = 潮音海丘\n|zht  = 潮音海丘\n|ja   = {{Rubi|潮音|ちょうおん}}の丘\n|ko   = 조음 해구\n|es   = Isla de la Nostalgia\n|fr   = Île de Nostalgie\n|de   = Insel der Nostalgie\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

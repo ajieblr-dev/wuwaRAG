@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:27Z",
+  "title": "Sihong",
+  "pageid": 9513,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC_Sihong.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         = Zhixing\n|relativeNote     = Great-Great-Grandchild\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Sihong''' is an NPC in {{Location|Hongzhen}}. \n\n==Location==\nSihong can be found chatting with his Great-Great-Grandchild, [[Zhixing]], in front of a vending machine from 06:00 AM - 05:59 PM (After completing the Main Quest '[[Thaw of Eons]]')\n\n==Quests and Events==\n{{Quests and Events|Sihong}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Sihong:''' Why is this treasure chest not spitting anything out...?\n:'''Zhixing:''' That's not a treasure chest, Great-Great-Granpa. It's a vending machine.\n:'''Sihong:''' A vend-what?\n:'''Zhixing:''' A vending machine...\n:'''Zhixing:''' See, you feed it Shell Credits according to the listed price.\n:'''Zhixing:''' Then press the button underneath the item you want.\n:'''Sihong:''' Okay, okay, I got it now.\n:'''Sihong:''' Isn't this just a stall in the form of a machine?\n:'''Zhixing:''' Well, you could say that, yes.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sihong\n|zhs  = 斯鸿\n|zht  = 斯鴻\n|ja   = 斯鴻（シコウ）\n|ko   = 서홍\n|es   = Sihong\n|fr   = Sihong\n|de   = Sihong\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

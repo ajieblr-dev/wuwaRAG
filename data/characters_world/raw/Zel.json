@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:16Z",
+  "title": "Zel",
+  "pageid": 38428,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Zel.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Rabelle College\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}{{Quote||Why does Rabelle College make us study everything? Why is school so hard...?}}\n'''Zel''' is a male student NPC seen trying to study at [[Startorch Academy (Region)|Spacetrek Archive]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Zel:''' \"Analysis on Multidimensional Consciousness Mapping,\" haven't read it. \"Foundations of Neuro-Resonance Topology,\" haven't read it. \"Principles of Exostrider Archaeo Semiotics,\" no idea, also haven't read it.\n:'''Zel:''' \"Intro to Threshold-Stress Psychology,\" understandable. Two chapters left. \"World Culture Essentials,\" low credit weight, skipping it.\n:'''Zel:''' The Voidmatter Environment Simulation class... Well, cross that bridge when I get there.\n:'''Zel:''' Ugh, and I still have to submit the cultivation results of the \"Crystalized Energy Core\" ...Eugh, why does Rabelle College make us study everything? Why is school so hard...?\n:'''Zel:''' ...Oh? This Tropical Pine-Needle Soda from the Agronomy Wing is actually pretty good.\n:'''Zel:''' Food first. Then I'll watch a Peaks of Prestige match. There are so many textbooks and not a single worked example... If I don't understand it now, I definitely won't during the exam...\n:'''Zel:''' And honestly? Studying while watching matches is kind of efficient... Is this what they call a positive feedback loop?\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Zel\n|zhs  = 泽璐\n|zht  = 澤璐\n|ja   = 澤璐\n|ko   = 젤\n|fr   = Zel\n|de   = Zel\n|es   = Zel\n|th   = Zel\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:35Z",
+  "title": "Spearback",
+  "pageid": 22982,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Spearback\n|dmgtype=Physical\n|image=Enemy Spearback (Enemy).png\n|caption=H48-Spearback\n|echo=Yes\n|class=Elite\n|family=Tacet Discord\n|group=Howler\n|variants=\n|location= [[Huanglong]]}}\n{{Description|An Elite Class Howler TD inhabiting the forest. It is often found on high alert.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Elite Howler}}\n\n==Stats==\n{{Enemy Stats|Spearback}}\n\n==Trophies==\n{{Trophies|Spearback}}\n\n==Description==\n{{Description|Ferocious black bear-like animals. Their head and shoulders are covered with arrow-shaped clusters of sharp Tacetite, like indestructible thorns.|-Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en     = Spearback\n|zhs    = 箭簇熊\n|zht    = 箭簇熊\n|ja     = 黒棘熊\n|ko     = 화살곰\n|es     = Osezno Aflechado\n|fr     = Lançours\n|de     = Spearback\n}}\n\n\n\u003c!--==Abilities== \n\n==Trophies== \n\n--\u003e\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}\u003c!--",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

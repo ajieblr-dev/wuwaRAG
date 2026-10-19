@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:43Z",
+  "title": "Nero",
+  "pageid": 38260,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Nero.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont\n|group            = Gladiator\n|affiliation      = Gladiator\n|affiliationNote  = Beasts Beneath\n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC male Gladiator and the leader of '''Beasts Beneath'''. He can be found talking with '''Domilius Ouro''' about sponsorships in {{Location|Capitoline Hill}}. \n\n==Dialogue==\n{{Dialogue Start}}\n;(After completing {{Quest|Flames of Heart}})\n:'''Domilius Ouro''': Nero, have you decided?\n:'''Domilius Ouro''': Join us! We can provide extra funding for the Beasts Beneath. You'll also get better gear, have better medical conditions, and more tournament opportunities!\n:'''Domilius Ouro''': Look, you just need to accept these promotion deals, and I'll arrange more exhibition matches for you. Just think about the opportunities!\n:'''Nero:''' ...\n:'''Domilius Ouro''': Nero, I know you want to keep your team going. I'll give you some time to think about it.\n:'''Nero:''' ...Okay.\n----\n;(Next Day)\n:'''Domilius Ouro''': Nero. Well?\n:'''Nero:''' I've made my decision, Mr. Ouro. I'm sorry, but the Beasts Beneath wishes to decline your sponsorship.\n:'''Nero:''' We were deeply moved by Miss Lupa's spirit during the finals, so we decided to stick to our goals by continuing our fight on our own.\n:'''Domilius Ouro''': Hahaha, that's great! I admire your words of courage. Even in Septimont!\n:'''Domilius Ouro''': In that case, Nero. Have a look at this, then.\n:'''Nero:''' What is this...?\n:'''Domilius Ouro''': This investment plan is more aligned with the spirit of \"pure competition\", and I'm sure it'll pique your interest.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Nero\n|zhs  = 尼禄\n|zht  = 尼祿\n|ja   = ネロ\n|ko   = 네로\n|fr   = Nero\n|de   = Nero\n|es   = Nero\n|th   = เนโร\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

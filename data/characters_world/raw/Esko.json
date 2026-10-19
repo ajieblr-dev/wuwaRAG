@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:21Z",
+  "title": "Esko",
+  "pageid": 38415,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Esko.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Esko''' is a male [[NPC]] student of the Department of Voidmatters, found talking with his classmate, '''Chett'''.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Esko:''' One day, we'll build a real space elevator of our own...\n:'''Chett:''' Wonder when that day will come...\n:'''Esko:''' When it does, I'll be the first one out of the station. And on the very planet we find, I'm gonna carve—\n:'''Esko:''' \"Chett, when do I get my five hundred Shell Credits back?\" So every intelligent being in the galaxy will know you still owe me five hundred Shell Credits, haha!\n:'''Chett:''' You're impossible... If you're leaving messages for aliens, shouldn't you say something meaningful about humanity?\n:'''Esko:'''No way. What if it violates the \"Dim Forest Hypothesis\"?\n:'''Esko:''' But think about it, some alien civilization might take our dumb inside joke and interpret it as some mysterious text...\n:'''Esko:''' For all we know, the ancient runes we're trying to decode are just  some alien's \"I was here\" graffiti. Even the [[Exostrider|Reactor Drive]] might just be their picnic trash.\n:'''Chett:''' Only deep space exploration will give us answers... Anyway, here's to hoping that space elevator gets built soon.\n{{Dialogue End}}\n\n==Note==\n* '''Dim Forest Hypothesis''' references the Dark Forest Hypothesis, the idea that extraterrestrial civilizations may exist in abundance across the universe, but remain silent and hidden out of fear that revealing themselves would lead to destruction by a more technologically advanced and hostile civilization.\u003cref\u003e[[wikipedia:Dark forest hypothesis|Dark Forest Hypothesis]]\u003c/ref\u003e\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Esko\n|zhs  = 埃斯科\n|zht  = 埃斯科\n|ja   = エスコ\n|ko   = 에스코\n|fr   = Esko\n|de   = Esko\n|es   = Esko\n|th   = Esko\n}}\n\n==References==\n\u003creferences /\u003e\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Note",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

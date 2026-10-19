@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:19Z",
+  "title": "Lazy Teen",
+  "pageid": 25509,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = LazyTeen.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Central Plains\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Lazy Teen''' is an NPC located in [[Tower of Adversity]], [[Central Plains]]. He is friends with a [[Hoartoise|turtle]] [[Tacet Discord|tacet discord]] named Slowly.\n\n==Quests and Events==\n{{Quests and Events|Lazy Teen}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Talk to Lazy Teen)\n:'''Lazy Teen:''' Oh hey! Didn't even see you coming. I was too caught up in watching Slowly.\n:'''Lazy Teen:''' One step, two steps... Slowly, slowly...\n:{{DIcon}} Slowly?\n:'''Lazy Teen:''' Yeah, see this little turtle right next to me? That's Slowly. Been my companion for quite a while.\n:'''Lazy Teen:''' Just strolling along, nice and slow...\n:'''Lazy Teen:''' I'm here, just chilling and watching Slowly, while it's here, taking in the scenery. We're always together, but we don't bother each other.\n:'''Lazy Teen:''' I don't get why it doesn't give me any trouble. Maybe we just get along pretty well...?\n:'''Lazy Teen:''' But, you know, watch out for the other turtles around here. They're not as friendly as Slowly\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lazy Teen\n|zhs  = 慵懒的年轻人\n|zht  = 慵懶的年輕人\n|ja   = だるい若者\n|ko   = 나른한 젊은이\n|es   = Joven perezoso\n|fr   = Adolescent Paresseux\n|de   = Fauler Teenager\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

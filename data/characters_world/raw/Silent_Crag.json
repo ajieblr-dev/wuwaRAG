@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:27Z",
+  "title": "Silent Crag",
+  "pageid": 40785,
+  "wikitext": "{{Location Infobox\n|title  = Silent Crag\n|image  = Silent Crag.png\n|type   = Region\n|map    = Solaris-3\n|nation = Roya Frostlands\n}}\n{{Intro/Location|Silent Crag}}\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Skyrelic Cascade\"\n|[[Skyrelic Cascade]]\n|[[File:Skyrelic Cascade.png|180px]]\n|\n|- id=\"Ljos Isle\"\n|[[Ljos Isle]]\n|[[File:Ljos Isle.png|180px]]\n|\n|- id=\"Voidthirst Cradle\"\n|[[Voidthirst Cradle]]\n|[[File:Voidthirst Cradle.png|180px]]\n|\n|}\n\n==Quests==\n{{Quest by Category List|Silent Crag Quests}}\n\n==Exploration Report==\n===Traceability Analysis Report on Abnormal Accumulation in the Dimmr Plains Region===\n* Achieve 50% Area Exploration Progress to unlock the full report.\n\n{{Transclude|Traceability Analysis Report on Abnormal Accumulation in the Dimmr Plains Region|Text|main=1}}\n\n===Unknown Recording: Voidthirst Cradle===\n* Achieve 100% Area Exploration Progress to unlock the full report.\n\n{{Transclude|Unknown Recording: Voidthirst Cradle|Text|main=1}}\n\n==Notable Features==\n\u003c!--\n===Enemies===\n====Common Class====\n* {{Enemy|Abyssal Gunmaster}} \u003cexample\u003e\n\n====Elite Class====\n* \n--\u003e\n===Resources===\n* {{Item|Dream of Stars}}\n* {{Item|Forget-Me-Not}}\n* {{Item|Cradle Lichen}}\n* {{Item|Fern Spore}}\n* {{Item|Luxite}}\n* {{Item|Waxweaver Web}}\n\n==Other Languages==\n{{Other Languages\n|en   = Silent Crag\n|zhs  = 寂静断崖\n|zht  = 寂靜斷崖\n|ja   = サイレント・イスカープメント\n|ko   = 적막의 절벽\n|fr   = Crêt silencieux\n|de   = Stille Felsklippe\n|es   = Risco Silencioso\n|th   = ผาเงียบสงัด\n|pt   = \n}}\n\n==Change History==\n{{Change History|3.3}} \n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Traceability Analysis Report on Abnormal Accumulation in the Dimmr Plains Region",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Unknown Recording: Voidthirst Cradle",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "10"
+    }
+  ]
+}

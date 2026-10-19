@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:52Z",
+  "title": "Nikolas",
+  "pageid": 39193,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Nikolas.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Square\n|group            = \n|affiliation      = Startorch Academy\n}}\n'''{{PAGENAME}}''' is a NPC male researcher found at night nearby the {{Rubi|Solis Lens Array|Lahai-Roi Resonance Nexus}}, arguing with a [[TARD-E Unit]] over budget.\n\n{{Dialogue Start}}\n==Idle==\n:'''Nikolas:''' EIGHTY!\n:'''TARD-E Unit:''' FOURTY!\n\n==Dialogue==\n:'''Nikolas:''' EIGHTY!\n:'''TARD-E Unit:''' FORTY!\n:'''Nikolas:''' EIGHTY!\n:'''TARD-E Unit:''' FORTY!\n:'''Nikolas:''' The research budget must be doubled!\n:'''TARD-E Unit:''' According to Clause 17 of the \"Spacetrek Collective Academic Budget Code,\" your application is DENIED!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Nikolas\n|zhs  = 尼古拉\n|zht  = 尼古拉\n|ja   = ニコラ\n|ko   = 니콜라\n|fr   = Nikolas\n|de   = Nikolas\n|es   = Nikolas\n|th   = Nikolas\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:04Z",
+  "title": "Cornelia",
+  "pageid": 30492,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = NPC Cornelia.png\n|type             = Open-World\n|nation           = Ragunna\n|location         = Vault Underground\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n'''Cornelia''' is the [[Averardo Vault]] Underground bank receptionist, located at the Echo Station.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Cornelia:''' Welcome to Arverado Vault. Is there something I can help you with? {{sic}}\n:{{DIcon}}: I'd appreciate a formal introduction. \n::'''Cornelia:''' Averardo Vault operates under the principles of \"utmost respect for all private properties.\" It is the safest and most impregnable place in Rinascita.\n::'''Cornelia:''' You are currently in the lower level of Averardo Vault. Any items you choose to deposit will be stored here. \n::'''Cornelia:''' The underground is divided into three main areas: The Precious Metals and Artworks Depository, The Echo Depository, and the Talent Depository. Whether you're storing valuables or showcasing creativity, Averardo Vault is here to help you make the most of them with unmatched service.\n:{{DIcon}}: I'd like to store a hundred Gulpuffs.\n::'''Cornelia:''' Alright. Thank you for choosing Averado Vault's Echo storage services. {{sic}}\n::'''Cornelia:''' Gulpuffs are classified as low-value Echoes. If you wish to store them, you will need to purchase insurance yourself and pay a storage fee based on their storage unit.\n::'''Cornelia:''' If you'd like to sign up for this service, we'll have the Echo Depository contact you regarding further details right away. Our team will create a custom plan to meet all your storage needs, ensuring your Gulpuffs are carefully looked after during their time with us.\n:{{DIcon}}: How's my ton of gold coming along?\n::'''Cornelia:''' One moment, I'll verify your identity details.\n::'''Cornelia:''' I'm sorry, but it appears your account doesn't currently show an order of one ton of gold.\n::'''Cornelia:''' But I see your account has been verified by Lady [[Carlotta]] and currently enjoys premium services.\n::'''Cornelia:''' Should you wish to store a ton of gold in the future, we'll provide an exclusive plan and ensure your assets receive the most professional management and protection.\n:{{DIcon}}: I'd like a bowl of fried rice.\n::'''Cornelia:''' ...\n::{{DIcon}}: (Did she really just sigh?)\n::'''Cornelia:''' (Quietly) How many more of these wackjobs are we going to get every day...\n::'''Cornelia:''' Ahem, apologies. I mean I'm afraid we don't offer dining services here.\n::'''Cornelia:''' If you're looking to eat, you can visit the Ducat Hall upstairs. Their banquet hall offers a wide variety of delicious options.\n:'''Cornelia:''' I'll be here should you require any more assistance.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Cornelia\n|zhs  = 柯内莉亚\n|zht  = 柯內莉亞\n|ja   = コーネリア\n|ko   = 코넬리아\n|es   = Cornelia\n|fr   = Cornelia\n|de   = Cornelia\n}}\n\n==Change History==\n{{Change History|2.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:49Z",
+  "title": "Tower of Unity",
+  "pageid": 31933,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Tower of Unity\n|image=\nTower of Unity.png\n|world_map=Solaris-3\n|type=Area\n|nation=Rinascita\n|region=Avinoleum}}\n'''Tower of Unity''' is an area of [[Avinoleum]], [[Rinascita]].\n\n\n== Other Languages ==\n{{Other Languages\n|en   = Tower of Unity\n|zhs  = 联结之塔\n|zht  = 聯結之塔\n|ja   = 繋ぎの塔\n|ko   = 연결의 탑\n|es   = Torre de la Unidad\n|fr   = Tour d'Unité\n|de   = Turm der Einheit\n}}\n== Change History ==\n{{Change History|2.2}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

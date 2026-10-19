@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:34Z",
+  "title": "Aero Predator",
+  "pageid": 23146,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Aero Predator\n|title=\n|image=Aero Predator Icon.png\n|dmgtype=Aero\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Whisperin\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A Common Class Whisperin TD that frequents the wilderness. Records show it is able to gather wind as boomerangs to toss and attack like humans.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Whisperin}}\n\n==Stats==\n{{Enemy Stats|Aero Predator}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Aero Predator|customheader=Aero Predator}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Aero damage}}.\u003cbr/\u003eA humanoid TD holding hunting gear, gathering storm as boomerangs.\nAero Predators’ thrusting of boomerangs is as unpredictable as vortex morphing around the seas. Taking the wastelands as its hunting ground, it takes delight in pursuit and prey.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Aero Predator\n|zhs  = 巡徊猎手\n|zht  = 巡徊獵手\n|ja   = 徘徊の狩人\n|ko   = 부메랑 사냥꾼\n|es   = Depredador Eólico\n|fr   = Prédateur Aero\n|de   = Aero Predator\n}}\n\n==Change History==\n{{Change History|1.0}} \n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

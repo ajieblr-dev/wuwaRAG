@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:58Z",
+  "title": "Pauline",
+  "pageid": 26210,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Pauline.png\n|type             = Open-World\n|type2            = Quest\n|nation           = Rinascita\n|affiliation      = \n|affiliation2     =\n\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Pauline''' is a quest-exclusive [[NPC]] for {{Quest|If On a Rainy Night a Family}}, found speaking to [[Elisa]] by the [[Montelli Quarter]]'s pool about [[Carlotta]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(During {{Quest|If On a Rainy Night a Family}})\n:'''Pauline:''' If only I were Lady Carlotta! I'd love to have the power to create gems whenever I wanted!\n:'''Pauline:''' They're so dazzling and mesmerizing. If I were her... actually, just giving me the chance to pick them up would be enough, hehe.\n:'''Elisa:''' But... don't you know those aren't real gems?\n:'''Pauline:''' Wait, really? They're not?\n:'''Elisa:''' Nope. Someone who thought they could make a fortune from those \"gems\" tried, only to find out that they couldn't even sell them, let alone use them for anything useful.\n:'''Elisa:''' Those \"gems\" are actually a medium for deconstruction and reconstruction. They're capable of collapsing and disintegrating the target's frequency they hit before the target vanishes completely.\n:'''Elisa:''' So they just look like gems. When needed, they can transform into the shape of firearms or bullets.\n:'''Pauline:''' W-well... what happened to those who actually got their hands on them?\n:'''Elisa:''' Hard to say. Maybe they ended up as sparkling fragments... Haha.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Pauline\n|zhs  = 波琳\n|zht  = 波琳\n|ja   = ポーリン\n|ko   = 폴린\n|es   = Pauline\n|fr   = Pauline\n|de   = Pauline\n}}\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

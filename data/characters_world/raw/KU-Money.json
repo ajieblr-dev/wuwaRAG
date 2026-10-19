@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:11Z",
+  "title": "KU-Money",
+  "pageid": 21912,
+  "wikitext": "{{NPC Infobox\n|image=KU-Money.png\n|type=Open-World\n|nation=The Black Shores\n|location=Tethys Hub\n|group=\n|affiliation=Black Shores\n|title=KU-Money Exchange \n|species          = KU-Roro\n}}\n'''Ku-Money''' is a [[shop]] NPC in [[Tethys Hub]], [[The Black Shores]]. The shop is unlocked after completing the [[Hidden Between the Waves|Chapter I Act VIII]] of the [[Main Quest]].\n\n{{Quote\n| quote = KU-Money is a robotic overseer of personnel costs in the Black Shores, ensuring every team member receives the necessary funds for their missions.\n| speaker = -Wuthering Geographic\n}}\n\n==Shop==\n{{Shop/Wrapper|\n{{Shop|Nova|3,000|15|total=1}}\n{{Shop|Summer Flower|3,000|15|total=1}}\n{{Shop|Flour|300|20|total=1}}\n{{Shop|Cooking Oil|300|20|total=1}}\n{{Shop|Chili|300|20|total=1}}\n{{Shop|Sugar|300|20|total=1}}\n{{Shop|Tea|300|20|total=1}}\n{{Shop|Milk|300|20|total=1}}\n{{Shop|Rice|300|20|total=1}}\n{{Shop|Kudzu Root|300|20|total=1}}\n{{Shop|Salt|300|20|total=1}}\n{{Shop|Beans|300|20|total=1}}\n{{Shop|Vinegar|300|20|total=1}}\n{{Shop|Hot Pot Base|3,000|2|total=1}}\n{{Shop|Clear Soup|3,000|2|total=1}}\n{{Shop|Braising Sauce|2,000|3|total=1}}\n{{Shop|Sweet and Sour Sauce|2,000|3|total=1}}\n{{Shop|Tofu|2,000|3|total=1}}\n{{Shop|Salted Milk Tea Recipe|15,000|1|total=1}}\n{{Shop|Honeysuckle Cake Recipe|10,000|1|total=1}}\n{{Shop|Fisher's Chowder Recipe|15,000|1|total=1}}\n|total=166,000+|vendor=KU-Money|type=Grocery}}\n\n==Quests and Events==\n{{Quests and Events|KU-Money}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''KU-Money:''' Ku ku ku... Time to short it!\n\n:{{DIcon|Shop}} KU-Money Exchange\n::'''KU-Money:''' Ku ku ku... Welcome to the Black Shores!\n----\n:{{DIcon}} About the economy... (''This option is only available at night'')\n::'''KU-Money:''' Ku... The Market's closed.\n::'''KU-Money:''' At night, the sound of Shell Credits flowing in and out fades away.\n:{{DIcon}} (Shake your money bag)\n::'''KU-Money:''' What! Oh, It's you.\n::'''KU-Money:''' Alright, alright, I get it. But it looks like you've still got plenty. If you run short, you know where to find me.\n:{{DIcon|Exit}} Leave\n----\n:{{DIcon}} Chat\n::'''KU-Money:''' Ku! The Market's down.\n::'''KU-Money:''' Should I buy in, or sell out?\n:{{DIcon}} You {{sic|hide=y|seems|expected=seem}} like an expert.\n::'''KU-Money:''' Of Course, I am. Every Shell Credit I use is maximized for the entire Black Shores!\n::'''KU-Money:''' Several Rinascita companies were acquired in after-hours trading by the New Federation. Now they're begging me to play the white knight.\n:{{DIcon}} So, you're manipulating the market!\n::'''KU-Money:''' Nonsense! I'm making money for the Black Shores, all within the law. I haven't done anything that goes against our principles!\n::'''KU-Money:''' Listen, money is power in this world. It's what lets you do anything you want - even save the world.\n\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Gallery==\n===Official Art===\n\u003cgallery\u003e\nKU-Money Wuthering Geographic.jpg|Wuthering Geographic\nKU-Roro Profile About 1.jpg|KU-Roro Profile\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|1_en   = KU-Money\n|1_zhs  = 库默尼\n|1_zht  = 庫默尼\n|1_ja   = クーモニ\n|1_ko   = 쿠 ・ 머니\n|1_es   = KU-Money\n|1_fr   = KU-Monnaie\n|1_de   = KU-Money\n\n|2_en   = KU-Money Exchange\n|2_zhs  = 库默尼商行\n|2_zht  = 庫默尼商行\n|2_ja   = クーモ二商会\n|2_ko   = 쿠 ・ 머니 상점\n|2_es   = Tienda de KU-Money\n|2_fr   = Entreprise de KU-Monnaie\n|2_de   = KU-Moneys Shop\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Official Art",
+      "number": "4.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "KU-Money",
+      "number": "5.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "KU-Money Exchange",
+      "number": "5.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "7"
+    }
+  ]
+}

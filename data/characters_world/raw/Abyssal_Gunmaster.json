@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:31Z",
+  "title": "Abyssal Gunmaster",
+  "pageid": 35874,
+  "wikitext": "{{Enemy Infobox\n|name = Abyssal Gunmaster\n|title = \n|image = Abyssal Gunmaster Icon.png\n|dmgtype = Glacio\n|weakpoint = \n|echo = No\n|class = Common\n|family = Human\n|group = Fractsidus\n|nation = Rinascita\n|region = Fabricatorium of the Deep\n|subregion = \n|drops = \n}}\n{{Description|Fractsidus gunners whose flesh turned cold when fate struck a discordant chord. After losing control in the depths of the sea, they can never return to their former selves.}}\n{{Intro/Enemy|Abyssal Gunmaster|a=1|lang=zh=残星·深海造匠}} \n\n==Drops== \n{{Drops|Common Fractsidus}} \n\n==Stats==\n{{Enemy Stats|Abyssal Gunmaster}} \n\n\u003c!--==Abilities==--\u003e \n\n==Trophies==\n{{Trophies|Abyssal Gunmaster|customheader=Abyssal Gunmaster}} \n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Glacio DMG}}.\u003cbr\u003eFractsidus gunmaster who fires warped and fused deep-sea frequencies.\u003cbr\u003eThe variation of melodies lends to a symphony of tearing pain, while distorted frequencies weave a frozen cage of imprisonment.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Abyssal Gunmaster\n|zhs  = 残星・深海造匠\n|zht  = 殘星・深海造匠\n|ja   = アビサル・ガンマスター\n|ko   = 잔성 ・ 심해의 사이보그\n|es   = Fractsidus: Tirador Abisal\n|fr   = Artilleur de l'Abîme des Fractsidus\n|de   = Meeresgraben-Gewehrschützer\n}} \n\n==Change History==\n{{Change History|2.5}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

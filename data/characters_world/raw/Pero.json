@@ -1,0 +1,107 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:59Z",
+  "title": "Pero",
+  "pageid": 26191,
+  "wikitext": "{{NPC Infobox\n|image            = Pero In-game.png\n|name             = Pero\n|title            = \n|type             = Quest\n|nation           = Rinascita\n|group            = \n|affiliation      = Troupe of Fools\n\u003c!--Voice Actors--\u003e\n|voiceEN      = {{w|Holly Earl}}\u003cref name=\"Roccia Bilibili\"/\u003e\n|voiceCN      = [https://zh.moegirl.org.cn/zh-hans/沈话桑 Shen Huasang ({{Lang|mini=1|zh=沈话桑}})]\u003cref name=\"Roccia Bilibili\"\u003eBilibili: [https://www.bilibili.com/opus/1023269262435811368 《鸣潮》共鸣者战斗演示 | 洛可可 ]\u003c/ref\u003e\n|voiceJP      = {{w|Konomi Kohara|Kohara Konomi ({{Lang|mini=1|ja=小原好美}})}}\u003cref name=\"Roccia JP VA\"\u003eX: [https://x.com/WW_JP_Official/status/1860883608145404274 JP VA Announcement]\u003c/ref\u003e\n|voiceKR      = [https://namu.wiki/w/장미(성우) Jang Mi ({{Lang|mini=1|ko=장미}})]\u003cref name=\"Roccia Bilibili\"/\u003e\n}}\n'''Pero''' {{Lang|zh=佩洛}} is a quest-exclusive [[NPC]] in [[Rinascita]] and a member of the [[Troupe of Fools]]. She's almost always by [[Roccia]]'s side, the two being near inseparable, and assists her in [[Roccia/Combat|combat.]] \n\n==Quests and Events==\n{{Quests and Events|Pero}}\n\n==Mentions==\n{{Character Mentions}}\n\n==Gallery==\n===Game Assets===\n\u003cgallery\u003e\nRoccia Full Sprite.png|Pero in Roccia's full sprite\nRoccia Splash Art.png|Pero in Roccia's splash art\nRoccia Convene Still.png|Pero in Roccia's convene still\n\u003c/gallery\u003e\n===Official Artwork===\n{{Files by Character Gallery|not1=Pero Videos}}\n===Videos===\n{{Files by Character Gallery|Pero Videos}}\n\n==Other Languages==\n{{Other Languages\n|en   = Pero\n|zhs  = 佩洛\n|zht  = 佩洛\n|ja   = ペロ\n|ko   = 펠로\n|es   = Perri\n|fr   = Pero\n|de   = Pero\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Cherished Items",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Game Assets",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Official Artwork",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "3.3",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "9"
+    }
+  ]
+}

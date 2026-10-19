@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:09Z",
+  "title": "Data Torrent",
+  "pageid": 23214,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Data Torrent\n|image=Data Torrent.png\n|world_map=Solaris-3\n|type = Area\n|nation=The Black Shores\n|region=Tethys' Deep\n}}\n'''Data Torrent''' is an area of [[Tethys' Deep]], [[The Black Shores]].\n\nThe Data Torrent connecting all the Nexus on this planet continuously transfers information about abnormal fluctuations caused by the Lament and Waveworn back to the Stellar Matrix. The Stellar Matrix then constructs models to predict the location and time of the next Lament. However, it must be noted that the raw energy of the Data Torrent is capable of annihilating any physical entity caught in its flow.\u003cref name=\"WGV2\"\u003eArticle: [[Wutherium Geographic: Lands and Waters — The Black Shores Vol. 2]]\u003c/ref\u003e\n\n==Points of Interest==\n===Fallacy of No Return===\nThe last line of defense built by the Tethys System, patrolling the borders between reality and digital world.\u003cref name=\"WGV2\" /\u003e\n\n==Notable Features==\n===Bosses===\n====Overlord Class====\n*{{Enemy|Fallacy of No Return}}\n\n==NPCs==\n{{NPCs by Location List|Data Torrent}}\n\n==Trivia==\n*This area cannot be accessed by swimming from [[Modulation Hall]], attempting to access it will trigger a message \"Unknown frequencies detected.\"\n\n==Gallery==\n\u003cgallery\u003e\nData Torrent above.png|View from below\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Data Torrent\n|zhs  = 数据洪流\n|zht  = 數據洪流\n|ja   = データの{{Rubi|激流|げきりゅう}}\n|ko   = 데이터 흐름\n|es   = Torrente de Datos\n|fr   = Flux de données\n|de   = Datenstrom\n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==Navigation==\n{{Location Navbox|Black Shores}}\n\n==References==\n\n\u003creferences /\u003e",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Points of Interest",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Fallacy of No Return",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "2.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Overlord Class",
+      "number": "2.1.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "9",
+      "index": "12"
+    }
+  ]
+}

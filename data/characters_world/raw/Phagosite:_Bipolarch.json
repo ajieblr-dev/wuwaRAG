@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:01Z",
+  "title": "Phagosite: Bipolarch",
+  "pageid": 40241,
+  "wikitext": "{{Enemy Infobox\n|name      = Phagosite: Bipolarch\n|image     = Phagosite Bipolarch Icon.png\n|dmgtype   = Havoc\n|weakpoint = \n|echo      = No\n|class     = Elite\n|family    = \n|group     = Fractsidus\n}}\n{{Description|A creation of the Fractsidus. A defective failure abandoned to the shadows.}}\n'''Phagosite: Bipolarch''' is an [[Elite Class]] [[Fractsidus]].\n\n==Drops== \n{{Drops|Elite Fractsidus}} \n\n==Stats==\n{{Enemy Stats|Phagosite: Bipolarch}}\u003c!-- \n\n==Abilities==--\u003e \n\n==Trophies==\n{{Trophies|Phagosite: Bipolarch|customheader=Phagosite: Bipolarch}} \n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Havoc DMG}}.\u003cbr\u003e\u003cbr\u003eA creation of the Fractsidus. A defective failure abandoned to the shadows.\u003cbr\u003e\u003cbr\u003eJoy and sorrow, laughing and weeping... All emotions will eventually find their graves somewhere, etching their scars in the dark.\u003cbr\u003e\u003cbr\u003eHow does one escape their own shadow? How do they confront what they've become?\u003cbr\u003e\u003cbr\u003eSome run. Some shriek. Some laugh it off.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Phagosite: Bipolarch\n|zhs  = 噬影人·喜忧\n|zht  = \n|ja   = \n|ko   = \n|fr   = \n|de   = \n|es   = \n|th   = \n}} \n\n==Change History==\n{{Change History|3.2}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

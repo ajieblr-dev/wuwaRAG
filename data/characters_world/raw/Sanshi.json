@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:20Z",
+  "title": "Sanshi",
+  "pageid": 5894,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Sanshi.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Wenye Beach\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Sanshi''' is an NPC in {{Location|Wenye Beach}}.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Sanshi:''' Hello, I am Thirty, a Patroller stationed in [[Dim Forest]]. You can always ask me about anything you want to know in Dim Forest.\n:{{DIcon}} What's going on in Dim Forest?\n:;(Before completing [[When the Forest is No Longer Dim]])\n::'''Sanshi:''' The toxin spores are still drifting. You might find Frenzy [[Hoochief]] around here. Be on your alert when you travel!\n\n:;(After completing When the Forest is No Longer Dim)\n::'''Sanshi:''' The issues here are solved. I heard a powerful [[Resonator]] was of great help. How I want to meet {{MC|m=him|f=her}}.\n{{Dialogue End}}\n\n==Trivia==\n* Sanshi refers to himself as \"Thirty\". This is due to his name in Chinese being directly translated: 三 (3), 十 (10). \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sanshi\n|zhs  = 三十\n|zht  = 三十\n|ja   = 三十\n|ko   = 삼십\n|es   = Sanshi\n|fr   = Sanshi\n|de   = Sanshi\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

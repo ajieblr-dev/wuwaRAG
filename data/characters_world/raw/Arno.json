@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:36Z",
+  "title": "Arno",
+  "pageid": 21821,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|name             = Arno\n|image            = Arno.png\n|type             = Event\n|nation           = \n|location         = Jinzhou\n|group            = \n|affiliation      = Black Shores\n|title            = Agent Arno\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n|relativeNote     = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n\n'''Arno''' is an event-exclusive [[NPC]] that appeared in the Event [[Solaris Weather Forecast]]. He is an agent and a Bloom Bearer of the [[Black Shores]].\n\n==Physical Description==\n\n==Clothing==\n\n==Quests and Events==\n{{Quests and Events|Arno}}\n\n==Other Languages==\n{{Other Languages\n|en   = Arno\n|zhs  = 阿尔诺\n|zht  = 阿爾諾\n|ja   = アルノー\n|ko   = 아르노\n|es   = Arno\n|fr   = Arno\n|de   = Arno\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Physical Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Clothing",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

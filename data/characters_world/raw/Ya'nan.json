@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:08Z",
+  "title": "Ya'nan",
+  "pageid": 5313,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Yanan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = Lollo Logistics\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Ya\u0026#39;nan''' is an NPC in [[Jinzhou]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Ya'nan:''' Eh? What? You're speaking to me?\n:'''Ya'nan:''' Plea-Please don't talk to me. I-I'm working.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ya'nan\n|zhs  = 亚楠\n|zht  = 亞楠\n|ja   = 亚楠（アナン）\n|ko   = 아진\n|es   = Ya'nan\n|fr   = Ya'nan\n|de   = Ya'nan\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

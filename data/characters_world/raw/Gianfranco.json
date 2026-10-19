@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:44Z",
+  "title": "Gianfranco",
+  "pageid": 38613,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Gianfranco.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Department of Light Energy Sciences\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Gianfranco''' is a male student NPC who caught his classmate, '''Ebersole''', trying to eat evidence of his crime.\n\n{{Dialogue Start}}\n==Idle==\n:;Who the **** buried this \"[[\"Crack \u0026 Bolt\" Fish Jar|Crack \u0026 Bolt]]\" fish jar in Plot 2?! Get it out of here!\n:;Let me be crystal clear: NO FISH JARS IN THE ACADEMY!\n\n:;'''Gianfranco''' Ugh... w-what are you eating?!\n:;'''Ebersole''' Burp! Shut up!\n:;'''Ebersole''' Just get over here and help me finish it! We're running out of time!\n\n==Dialogue==\n:'''Gianfranco:''' Ugh... w-what are you eating?!\n:'''Gianfranco:''' Wait, this fish jar... so you're the one who buried this disgusting thing in Plot 2! Urgh...\n:'''Ebersole:''' Shut up! Just get over here and help me finish it! We're running out of time!\n:'''Gianfranco:''' Wha—? You seriously need to get your head checked!\n:'''Ebersole:''' Burp... So here are your options: either you eat it and fake a stomach bug for sick leave, or you go do that taste test for experimental samples. Your call.\n:'''Gianfranco:''' You...! Ugh, fine! Save some for me!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Gianfranco\n|zhs  = 詹弗兰科\n|zht  = 詹弗蘭科\n|ja   = ジャンフランコ\n|ko   = 잔프랑코\n|fr   = Gianfranco\n|de   = Gianfranco\n|es   = Gianfranco\n|th   = Gianfranco\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

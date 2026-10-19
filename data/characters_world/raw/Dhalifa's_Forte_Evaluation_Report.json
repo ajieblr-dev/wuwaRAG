@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:11Z",
+  "title": "Dhalifa's Forte Evaluation Report",
+  "pageid": 39515,
+  "wikitext": "{{Terminology Infobox\n|image        = \n|type         = Lore\n|nation       = Lahai-Roi\n}}'''{{PAGENAME}}''' is a note found during [[Operation: Frontier Renewal]] and is added to its Archives, Spacetrek Observatory Files.\n\n==Text==\nForte Evaluation Report – Bridge and Static\nEvaluation Basis: Dhalifa's Medical Report\n\nThe patient's Tacet Mark is located on the upper right arm. The precise time of Awakening cannot be determined. Upon admission, the patient was conscious but non-communicative. When asked about her Forte, she applied it to a clock in the ward, increasing its accuracy to within femtoseconds.\n\nThe patient later clarified, via a caregiver robot, that her Forte can randomly impact machine performance. For instance, a different clock affected by her Forte began running slowly, and became unresponsive to recalibration.\n\nAs inquiries were made solely to ensure treatment safety, no further investigation is planned.\n\n\"A femtosecond is one quadrillionth of a second. The precision is astonishing. Send this clock to Startorch Academy. They'll know what to do with it.\"\n\nConclusion: Resonant Criticality is moderate. Patient stability is also moderate, with minimal risk of Overclocking.\nA prior history of Overclocking is documented.\nMaximum severity rating: Moderate.\n\nThe patient previously Overclocked during a Void Storm, drawing Exoswarm material to her body to replace contaminated tissue, which enabled her survival. The embedded material now shows no Exoswarm frequency and functions solely as prosthetic tissue.\n\nThe patient currently demonstrates unusually stable emotional states considering her trauma and injuries. Regular evaluation and psychological support are recommended.\n\n\"Dhalifa survived only by Overclocking. This is not an ability that can counter Void Storms! Make sure the Department of Voidmatters leaves her alone!\"\n\n{{Other Languages\n|en   = Dhalifa's Forte Evaluation Report\n|zhs  = 德莉珐共鸣者能力报告\n|zht  = 德莉琺共鳴者能力報告\n|ja   = ディリファの共鳴能力報告\n|ko   = 달리파의 공명 어빌리티 리포트\n|fr   = Rapport d'évaluation de Forte de Dhalifa\n|de   = Bericht zu Dhalifas Resonanzkraft\n|es   = Informe de evaluación del Forte de Dhalifa\n|th   = รายงานพลังเรโซแนนซ์ของ Dhalifa\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Text",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:02Z",
+  "title": "Plushie Squad",
+  "pageid": 42127,
+  "wikitext": "{{About|the Special Enemy|the questline|The Adventures of Plushie Squad}}\n{{Enemy Infobox\n|name       = Plushie Squad\n|image      = Cuddle Wuddle Icon.png\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|group      = Staticoid\n|nation     = Rinascita\n|region     = Averardo Vault\n|level      = 120\n}}\n'''Plushie Squad''' is a [[Special Enemies|special enemy]] found in {{Location|Averardo Vault|nocat=1}}.\n\n==Location==\n\u003cgallery\u003e\nTrophy Five Nights at Plushie's Location.png|Plushie Squad's Location\nTrophy Five Nights at Plushie's Location Context.png|Location Context\n\u003c/gallery\u003e\n\n==Trophies==\n{{Trophies|Plushie Squad|customheader=Plushie Squad}} \n\n==Other Languages==\n{{Other Languages\n|en  = Plushie Squad\n|zhs = 布偶小队\n|zht = 布偶小隊\n|ja  = ぬいぐるみスクワッド\n|ko  = 인형 소대\n|es  = Banda de Peluches\n|fr  = Équipe de peluches\n|de  = Plüschtiere-Bande\n|th  = กลุ่มตุ๊กตา\n|pt  = Pelotão de Pelúcia\n}}\n\n==Change History==\n{{Change History|2.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

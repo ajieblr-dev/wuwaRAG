@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:31Z",
+  "title": "Solisia Landing",
+  "pageid": 40783,
+  "wikitext": "{{Location Infobox\n|title  = Solisia Landing\n|image  = Solisia Landing.png\n|type   = Region\n|map    = Solaris-3\n|nation = Roya Frostlands\n}}\n{{Intro/Location|Solisia Landing}} It is the true destination of the Soliskin after they return to the Solistrees. They become warm sunlight, flowing down the roots and converging as sparks within the Solvein Heartwood to keep the encroaching Voidmatter at bay.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Dimmr Plains Shaft\"\n|[[Dimmr Plains Shaft]]\n|[[File:Dimmr Plains Shaft.png|180px]]\n|\n|- id=\"Base Camp\"\n|[[Base Camp]]\n|[[File:Base Camp lvl2.png|180px]]\n|\n|- id=\"Rustbound Hillside\"\n|[[Rustbound Hillside]]\n|[[File:Rustbound Hillside.png|180px]]\n|\n|- id=\"Twilight Woodlands\"\n|[[Twilight Woodlands]]\n|[[File:Twilight Woodlands.png|180px]]\n|\n|- id=\"Stalaglow Cavern\"\n|[[Stalaglow Cavern]]\n|[[File:Stalaglow Cavern.png|180px]]\n|\n|}\n\n==Quests==\n{{Quest by Category List|Solisia Landing Quests}}\n\n==Exploration Report==\n===Trip Recording: Dimmr Plains Survey Team 1 (Excerpt One)===\n* Achieve 50% Area Exploration Progress to unlock the full report.\n\n{{Transclude|Trip Recording: Dimmr Plains Survey Team 1 (Excerpt One)|Text|main=1}}\n\n===Trip Recording: Dimmr Plains Survey Team 1 (Excerpt Two)===\n* Achieve 100% Area Exploration Progress to unlock the full report.\n\n{{Transclude|Trip Recording: Dimmr Plains Survey Team 1 (Excerpt Two)|Text|main=1}}\n\n==Notable Features==\n===Challenges===\n* [[Tacet Field: Solisia Landing]]\n\u003c!--\n===Enemies===\n====Common Class====\n* {{Enemy|Abyssal Gunmaster}} \u003cexample\u003e\n\n====Elite Class====\n* \n--\u003e\n===Resources===\n* {{Item|Redbell}}\n* {{Item|Foxtail Kelp}}\n* {{Item|Luxite}}\n* {{Item|Meteoric Iron}}\n* {{Item|Waxweaver Web}}\n\n==Other Languages==\n{{Other Languages\n|en   = Solisia Landing\n|zhs  = 落日堤屿\n|zht  = 落日堤嶼\n|ja   = サンセット・アイランド\n|ko   = 석양의 섬\n|fr   = Digue du couchant\n|de   = Sonnenuntergangsdamm\n|es   = Desembarco Solisia\n|th   = ท่าตะวันรอน\n|pt   = \n}}\n\n==Change History==\n{{Change History|3.3}} \n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Trip Recording: Dimmr Plains Survey Team 1 (Excerpt One)",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Trip Recording: Dimmr Plains Survey Team 1 (Excerpt Two)",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

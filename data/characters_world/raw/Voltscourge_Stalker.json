@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:01Z",
+  "title": "Voltscourge Stalker",
+  "pageid": 25693,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Voltscourge Stalker\n|image = Voltscourge Stalker Icon.png\n|dmgtype = Electro\n|family = Tacet Discord\n|group = Howler\n|nation = Rinascita\n|echo = Yes\n|class = Common\n}}{{Description|A wolf-like Tacet Discord prowling storm-stricken regions, known for its aggressiveness and lightning speed.}}\n{{Intro/Enemy}}\n==Drops==\n{{Drops|Common Howler}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies|Voltscourge Stalker}}\n\n==Description==\n{{Description|This enemy has '''higher RES''' against {{Color|Electro DMG}}.\u003cbr\u003e\u003cbr\u003eA wolf-like Tacet Discord prowling storm-stricken regions, known for its aggressiveness and lightning speed.\u003cbr\u003e\u003cbr\u003eIt often hunts in packs, aiming for swift and precise kills.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Voltscourge Stalker\n|zhs  = 雷鬃狼\n|zht  = 雷鬃狼\n|ja   = 雷鬣狼\n|ko   = 갈기늑대 ・ 천둥\n|es   = Lobo de Trueno\n|fr   = Loup de Tonerre\n|de   = Voltmähnen-Schleicher\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

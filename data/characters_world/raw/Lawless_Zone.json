@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:19Z",
+  "title": "Lawless Zone",
+  "pageid": 1028,
+  "wikitext": "{{Location Infobox\n|title        = Lawless Zone\n|image        = Lawless Zone.jpg\n|type         = \n|map          = Solaris-3\n|event        = \n|nation       = New Federation\n}}\n\nThe '''Lawless Zone''' is a location on the outskirts of [[New Federation]] society. Due to the class politics of the country, those ostracised by society, including [[Exiles]], were blocked from finding legitimate work and resorted to building camps in the lands that would come to bear the name of the Lawless Zone. After forming gangs, the government waged war on the inhabitants of the zone to bring it under control until the war was ended by Calcharo's Ghost Hounds, a mercenary group, who annexed the final gang.\u003cref\u003e[[Calcharo/Lore]]\u003c/ref\u003e\n\nWhile still populated by the underclass, the zone is still not a safe place to live in and now serves as a source of mercenaries both for the schemes of the New Federation government and those acting outside the state apparatus such as the [[Fractsidus]].\n\n==Notable Members==\n===Formerly===\n{| class=\"article-table\"\n!Icon!!Personnel!!Position\n|-\n|[[File:Resonator Calcharo.png|50px]]\n|[[Calcharo]]\n|\n*Former leader of the Underdogs\n*Current Leader of the Ghost Hounds\n|-\n|[[File:Resonator Lynae.png|50px]]\n|[[Lynae]]\n|\n*Former assassin and mercenary in the Lawless Zone\n*Currently assuming the name and identity of a Fractsidus Operative in Startorch Academy\n|}\n\n==Other Languages==\n{{Other Languages\n|en      = Lawless Zone\n|zhs     = 无法地带\n}}\n\n== References ==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|New Federation}}\n\n[[Category:Mentioned Only]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Members",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Formerly",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "5"
+    }
+  ]
+}

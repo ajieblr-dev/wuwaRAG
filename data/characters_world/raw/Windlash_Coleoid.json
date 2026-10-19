@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:04Z",
+  "title": "Windlash Coleoid",
+  "pageid": 39010,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Windlash Coleoid\n|image         = Windlash Coleoid Icon.png\n|dmgtype       = Aero\n|echo          = Yes\n|class         = Elite\n|family        = Tacet Discord\n|group         = Whisperin\n|nation        = Lahai-Roi\n}}{{Description|A parasitic creature that lives inside [[Whisperin]] Tacet Discords. It uses the host's body as a cocoon and feeds on its frequency.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Elite Whisperin}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Trophies==\n{{Trophies|Windlash Coleoid}} \n\n==Description==\n{{Description|This enemy has a higher RES to {{Color|[[Aero]] DMG|nobold=1}}.\u003cbr /\u003e\u003cbr /\u003eThe Windlash Coleoid is immune to [[Aero Erosion]], but takes 80% more total DMG taken from other Negative Statuses and Echo Skill.\u003cbr /\u003e\u003cbr /\u003eA parasitic creature that lives inside Whisperin Tacet Discords, using the host's body as a cocoon and feeds on its frequency. Infection by Windlash Coleoids causes combative behavior and a compulsion to feed on the frequencies of other Tacet Discords. After an incubation period, the Windlash Coleoid abandons its host by breaking free from the host's back.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Windlash Coleoid\n|zhs  = 风鳞蜃甲\n|zht  = 風鱗蜃甲\n|ja   = 風纏いの寄生甲\n|ko   = 바람의 기생갑\n|fr   = Coleoïde des rafales\n|de   = Windgeißel\n|es   = Coleoide Vendaval\n|th   = Windscale Mirage Shell\n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

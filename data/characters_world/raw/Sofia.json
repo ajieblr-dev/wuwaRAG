@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:29Z",
+  "title": "Sofia",
+  "pageid": 27131,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Sofia.png\n|type             = Open-World\n|nation           = Ragunna\n|location         = Rinascita\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Sofia''' is an NPC that appears in [[Montelli Quarter]], [[Ragunna]].\n\nFrom 6:00 AM to 11:59 AM, she can be seen talking with [[Bellano]]. Meanwhile, from 2:00 PM to 5:59 PM, she can be seen talking with [[Lyubov]] and [[Sergio]].\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;\u003cnowiki\u003e(6:00 AM to 11:59 AM)\u003c/nowiki\u003e\n:'''Sofia:''' Hey, Bellano, can't you sell these [[Til the Fin-ish|two little fish]] separately?\n:'''Bellano:''' No can do. Once these two fish start kissing, they're inseparable!\n:'''Bellano:''' If you try to force them apart, the meat will instantly turn rancid.\n:'''Sofia:''' ...I wonder if Riccioli is full of these strange creatures.\n:'''Bellano:''' You know what? We used to call them \"Die Hard Lovers!\"\n:'''Bellano:''' The longer they lock lips, the fresher and tastier the meat!\n:'''Bellano:''' Then an Acolyte from the Order visited the island and thought the name was unseemly, so he renamed them with a more scholarly term.\n:'''Sofia:''' What's it called now?\n:'''Bellano:''' —\"'Til the Fin-ish!\"\n:'''Sofia:''' Ha, what a poetic name. Makes them sound even more delicious.\n----\n;\u003cnowiki\u003e(2:00 PM to 5:59 PM)\u003c/nowiki\u003e\n:'''Lyubov:''' Excuse me, could you get me this clam! And this wind chime too.\n:'''Sergio:''' Alright, that'll be 220 [[Monnaie]].\n:'''Lyubov:''' What? What's a Monnaie?\n:'''Sofia:''' You're mistaken, Mister!\n:'''Sofia:''' Monnaie is long outdated by now!\n:'''Sofia:''' Now we use Shell Credit for payments as the rest of Solaris does. Monnaie has become just a souvenir of Ragunna.\n:'''Sergio:''' Oh, yeah... you are right.\n:'''Sergio:''' It feels like just yesterday we were still using Monnaie... I'm getting old...\n:'''Sergio:''' Now I remember the time when Averardo Bank collected Monnaie to exchange new notes for us.\n:'''Sergio:''' Oh, right, that'll be 220 Shell Credits, young lady.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sofia\n|zhs  = 索菲亚\n|zht  = 索菲亞\n|ja   = ソフィア\n|ko   = 소피아\n|es   = Sofia\n|fr   = Sofia\n|de   = Sofia\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

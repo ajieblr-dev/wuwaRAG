@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:04Z",
+  "title": "Colleen",
+  "pageid": 41374,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Colleen.png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Ragunna City\n|group            = \n|affiliation      = Black Alley\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''{{PAGENAME}}''' is an NPC that first appears in {{Quest|A Blaze in the Dark}}. She can be found by the marketplace near the Montelli Quarters afterward.\n\n{{Dialogue Start}}\n==Dialogue==\n;\u003cnowiki\u003e21:00\u003c/nowiki\u003e (confirmation needed)\n;One time interaction\n:'''Colleen:''' Oh, hey, {{Rover}}! You're here!\n:{{DIcon}} Hello, Colleen.\n::{{DIcon}} Wait, Zani's here too?\n:'''Zani:''' ...Is it such a surprise? What, did you think I was chained to an office chair or something?\n:'''Colleen:''' Hehe, I asked Ms. Zani to lend me a hand! I mean, I've done odd jobs before, but street vending? That's new.\n:'''Colleen:''' Figured I'd let Zani show me the ropes for a few days. Stocking goods, keeping track of sales, that sort of thing.\n:'''Zani:''' So here I am, working part-time… on my vacation. Tch. Guess that's how it goes when you're too damn good at what you do.\n:'''Rover:''' So, I take it things in the Black Alley are wrapped up?\n:'''Zani:''' Yeah. The Chamber of Discipline and the Family took down Talos and everyone colluding with her.\n:'''Zani:''' Turns out, the folks in the Black Alley were just stuck in the mess. Those who weren't too deep in it, like Colleen, were pardoned.\n:'''Zani:''' I helped them apply for the Family's support fund and set some stalls up here. Should give them a shot at starting fresh.\n:'''Colleen:''' Thanks for your help, {{Rover}}, Ms. Zani. We'll make it work!\n:'''Colleen:''' Oh, almost forgot! {{Rover}}, here! I heard this fruit is imported. Consider it a little thanks for everything you've done for us.\n:'''Zani:''' ..That's not a fruit. Ahem, whatever. Take it, it's the thought that counts, right?\n:{{DIcon}} Thank you.\n:{{DIcon}} Don't mind if I do.\n:'''Rover:''' Sounds like things are finally looking up.\n:'''Zani:''' Maybe. But who's to say there won't be another Talos?\n:'''Zani:''' Eh, whatever. If another one pops up, we'll just teach them a lesson they won't forget.\n:{{DIcon}} That's the Blazing Nightwalker I know.\n:{{DIcon}} Reliable as ever, Ms. Zani.\n:'''Zani:''' What a shame. No matter how much you butter me up, the Vault still won't give me any extra days off...\n:'''Zani:''' Wait! Can you put that in my performance review...?\n;(Obtain 5 [[Pavo Plum]]]]\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Colleen\n|zhs  = 柯琳\n|zht  = 柯琳\n|ja   = コリーン\n|ko   = 코린\n|fr   = Colleen\n|de   = Colleen\n|es   = Colleen\n|th   = Colleen\n}}\n\n==Change History==\n{{Change History|2.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

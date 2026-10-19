@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:02Z",
+  "title": "Polyphemos Windmills",
+  "pageid": 26407,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Polyphemos Windmills\n|image=Polyphemos Windmills.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Whisperwind Haven\n}}\n\n'''Polyphemos Windmills''' is an area of [[Whisperwind Haven]], [[Rinascita]]. \n\n==NPCs==\n{{NPCs by Location List|Polyphemos Windmills}}\n\n==Other Languages==\n{{Other Languages\n|en   = Polyphemos Windmills\n|zhs  = 独眼风车群\n|zht  = 獨眼風車群\n|ja   = ポリュペーモス・ウインドミルズ\n|ko   = 외눈박이 풍차 무리\n|es   = Molinos Polifemo\n|fr   = Moulins de Polyphème\n|de   = Polyphemos Windmühlen\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

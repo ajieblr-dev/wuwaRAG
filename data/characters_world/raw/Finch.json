@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:27Z",
+  "title": "Finch",
+  "pageid": 39653,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Finch.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Square\n|group            = \n|affiliation      = Rabelle College\n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC male student being scolded for his [[Flora Reindeer]] by an Academy Staff outside of the Academy.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Leonhardt:''' I don't care! This mech reindeer followed you back, so you're responsible!\n:'''Finch:''' Look, even Exoswarm need proper nutrition to grow! Once they're mature, they can return to repair the Exostrider...\n:'''Leonhardt:''' If it keeps eating the lawn, the bill's coming out of your stipend!\n:'''Finch:''' Come on, Gnawee, be good. Let's go back to Bjartr Woods, okay?\n----\n;After {{Quest|Starlights from Yesterdays}}\n:'''Leonhardt:''' Great. Just great. The Exostrider's repaired, it's flown off, and your INSUFFERABLE mech reindeer are STILL nibbling on the Academy's landscaping!\n:'''Finch:''' W-well... doesn't that prove the plants you grew are special? Richer. More nutritious...?\n:'''Leonhardt:''' Does \"nutritious\" mean \"eat as much as you like\"?! Your reindeer ate half of everything we've PAINSTAKINGLY grown! Now I'm supposed to thank them for their taste?\n:'''Finch:''' Um... Um... Maybe you could try a bite yourself?\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Finch\n|zhs  = 芬奇\n|zht  = 芬奇\n|ja   = フィンチ\n|ko   = 핀치\n|fr   = Finch\n|de   = Finch\n|es   = Finch\n|th   = Finch\n}}\n\n{{Other Languages\n|en   = Leonhardt\n|zhs  = 莱昂哈特\n|zht  = 萊昂哈特\n|ja   = レオンハルト\n|ko   = 레온하르트\n|fr   = Leonhardt\n|de   = Leonhardt\n|es   = Leonhardt\n|th   = Leonhardt\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

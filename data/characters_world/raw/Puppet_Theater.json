@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:04Z",
+  "title": "Puppet Theater",
+  "pageid": 20597,
+  "wikitext": "{{Location Infobox\n|image        = \u003cgallery\u003e\nPuppet Theater Context.png | In-Game\nPuppet Theater Art.png | Art\n\u003c/gallery\u003e\n|type         = Point of Interest\n|icon         = Icon Puppet Theater.png\n|event        = By Moon's Grace\n|area         = Taoyuan Vale\n|region       = Central Plains\n|nation       = Huanglong\n}}\n{{Quote|Puppet show? Zapstring's not made for this. Need some other puppets.\u003cbr /\u003e\u003cbr /\u003e\u003chr\u003e\u003cbr/\u003eDon't come close. Zapstring is onstage now... The show is about to start.|[[Yinlin]]}}\n'''Puppet Theater''' is an event-exclusive [[Point of Interest|point of interest]] located in [[Taoyuan Vale]], [[Central Plains]], [[Huanglong]] during the [[By Moon's Grace]] event.\n\n==NPCs==\n* [[Yinlin]]\n==Descriptions==\n{{Description|The Puppet Theater features traditional dramas performed with marionettes, now a beloved source of entertainment in Jinzhou.\u003cbr /\u003e{{Color|#a5a19d|Build or Upgrade this stall to significantly boost Popularity.}}|[[Map]] description}}\n\u003cgallery\u003e\nPuppet Theater Location.png|Location\n\u003c/gallery\u003e\n==Other Languages==\n{{Other Languages\n|en   = Puppet Theater\n|zhs  = 人偶戏\n|zht  = 人偶戲\n|ja   = 人形劇\n|ko   = 인형극\n|es   = Teatro de marionetas\n|fr   = Marionnettes\n|de   = Puppentheater\n}}\n\n==Change History==\n{{Change History|1.2}}\n\n==Navigation==\n{{PoI Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

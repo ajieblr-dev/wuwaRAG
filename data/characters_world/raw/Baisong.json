@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:40Z",
+  "title": "Baisong",
+  "pageid": 5905,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Baisong.png\n|title            = Jinzhou Institute Teacher\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Jinzhou Institute\n|affiliation2     = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Baisong''' is a Teacher NPC found in {{Location|Jinzhou}}, Jinzhou Institute, found upstairs above the Jinzhou Theater stage. \n\n==Dialogue==\n{{Dialogue Start}}\n;(During the day)\n:'''Baisong:''' Children. One by one. Take your time. No need to rush.\n:'''Baisong:''' Let's start with [[Xinxin]]. What does Xinxin want to show the teacher?\n:'''Xinxin:''' Mr. Bosong! I finished my essay! I'm the first again!\n:'''Baisong:''' Good work, Xinxin. You always finish fast. I'll read them carefully.\n:'''Baisong:''' What about [[Lil. Ling|Ling'er]]? How's her essay coming along? Xinxin said before that Ling'er liked being alone and didn't seem to talk to everyone.\n:'''Baisong:''' So, if you encounter any difficulties, or if you have something that you don't understand or don't know who to share with, you can pen a letter to Ms. Yuyi. Sounds good?\n\n;(Talk to Baisong again)\n:'''Baisong:''' Well. When it comes to Ling'er...\n:'''Baisong:''' She doesn't like to talk and likes to keep things to herself. Her parents passed away while she was young and there's no one to take care of her.\n:'''Baisong:''' Yuyi's used to worry for Ling'er the most. During the holidays, she always asked me about how's Ling'er doing in school and in life.\n:'''Baisong:''' She said that she loved these children the most, and always worried about if they were healthy and getting the stuff they needed.\n:'''Baisong:''' When she left, she entrusted these children to me, but I could never be as thoughtful as she is. I really don't know if I can take care of them well... sigh...\n\n;(Talk to Baisong once again)\n:'''Baisong:''' Alright, children, it's time for class. Please be quiet.\n:'''Baisong:''' You may play all you want after class. But during class, please listen carefully.\n:'''Baisong:''' If you ever catch yourself snoozing off. It's okay. You can stand up for a while to keep yourself awake. Learning requires patience. We can take it slow, okay?\n----\n;\u003cnowiki\u003e18:00-05:59 at Jinhzou Institute\u003c/nowiki\u003e\n;(During the evening)\n:'''Baisong:''' Oh, these kids... I wonder what Yuyi would do if she were here...\n:{{DIcon}} Who's this Yuyi?\n:'''Baisong:''' Ah, you're still here. Yuyi... She's my lover...\n:'''Baisong:''' Both she and I attended this school. After she had graduated, she became a teacher. She had always treated these students as her children.\n:'''Baisong:''' She's a great teacher, but fate can be cruel... Now, I just want to fulfill her last wish and help these children grow up well.\n:'''Baisong:''' I wonder if these children will remember Ms. Yuyi when they grow up...\n{{Dialogue End}}\n\n==Note==\n* His name shows '''Bosong''', but interacting changes to '''Baisong'''.\n\n==Other Languages==\n{{Other Languages\n|en   = Baisong\n|zhs  = 柏松\n|zht  = 柏松\n|ja   = 柏松（ハクショウ）\n|ko   = 송백\n|es   = Bosong\n|fr   = Baisong\n|de   = Baisong\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Note",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

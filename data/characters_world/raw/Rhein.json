@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:11Z",
+  "title": "Rhein",
+  "pageid": 41199,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = no\n|missing_NPC_profile  = no\n|missing_NPC_idle     = no\n|missing_NPC_dialogue = no\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Rhein.png\n|name             = Rhein\n|type             = Quest\n|nation           = Rinascita\n|location         = \n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = Unnamed\n|fatherNote       = Deceased\n|fatherRef        = \u003cref name=\"Brother\"\u003eLuuk Herssen's Character Story: [[Luuk Herssen/Backstory#Character Stories|\"Brother\"]]\u003c/ref\u003e\n|mother           = \n|spouse           = \n|sibling          = [[Luuk Herssen]]\n|siblingNote      = Adoptive Brother\n|siblingRef       = \u003cref name=\"Brother\"\u003eLuuk Herssen's Character Story: [[Luuk Herssen/Backstory#Character Stories|\"Brother\"]]\u003c/ref\u003e\n|child            = \n|relative         = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n'''{{PAGENAME}}''' is [[Luuk Herssen]]'s younger adoptive brother, who suffered a chronic illness and was able to endure the Ichor treatment. However, his body started rejecting the Ichor overtime and later became bedridden.\u003cref\u003e[[Luuk Herssen/Backstory#Storm|Luuk Herssen, Storm]]\u003c/ref\u003e\n\nRhein's favorite candy brand is Sunshine Bear, which have long been discontinued\u003cref\u003e[[Luuk Herssen/Backstory#Cherished Items|Luuk Herssen, Cherished Items]]\u003c/ref\u003e and loves the magazine series called \"The Minimalist Approach to Cat Psychology\".\u003cref\u003e[[All That Sunlight Touches#Flavor Text|All That Sunlight Touches, Flavor Text]]\u003c/ref\u003e\n\n==Quests and Events==\n{{Quests and Events|Rhein}}\n\n==Other Languages==\n{{Other Languages\n|en   = Rhein\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n}}\n\n==References==\n\u003creferences /\u003e\n\n==Change History==\n{{Change History|3.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

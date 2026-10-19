@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:40Z",
+  "title": "Frostbite Coleoid",
+  "pageid": 39009,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Frostbite Coleoid\n|image         = Frostbite Coleoid Icon.png\n|dmgtype       = Glacio\n|echo          = Yes\n|class         = Elite\n|family        = Tacet Discord\n|group         = Whisperin\n|nation        = Lahai-Roi\n}}{{Description|A parasitic creature that lives inside [[Whisperin]] Tacet Discords. It uses the host's body as a cocoon and feeds on its frequency.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Elite Whisperin}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Trophies==\n{{Trophies|Frostbite Coleoid}} \n\n==Description==\n{{Description|This enemy has a higher RES to {{Color|[[Glacio]] DMG|nobold=1}}.\u003cbr /\u003e\u003cbr /\u003eFrostbite Coleoid is immune to [[Glacio Chafe]], but takes 80% more total DMG taken from other Negative Statuses and Echo Skill.\u003cbr /\u003e\u003cbr /\u003eA parasitic creature that lives inside Whisperin Tacet Discords, using the host's body as a cocoon and feeds on its frequency. Infection by Frostbite Coleoids causes combative behavior and a compulsion to feed on the frequencies of other Tacet Discords. After an incubation period, the Frostbite Coleoid abandons its host by breaking free from the host's back.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Frostbite Coleoid\n|zhs  = 霜鳞蜃甲\n|zht  = 霜鱗蜃甲\n|ja   = 霜纏いの寄生甲\n|ko   = 서리의 기생갑\n|fr   = Coléoïde du givre\n|de   = Frostgeißel\n|es   = Coleoide Escarchado\n|th   = Frostbite Coleoid\n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

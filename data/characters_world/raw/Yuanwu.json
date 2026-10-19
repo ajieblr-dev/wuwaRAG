@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:15Z",
+  "title": "Yuanwu",
+  "pageid": 591,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}}\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 4\n|class            = Natural\n|weapon           = Gauntlets\n|role             = Concerto Efficiency;Coordinated Attack;Interruption Resistance Boost;Vibration Strength Reduction\n|attribute        = Electro\n|releaseDate      = 2024-05-23 \n\n\u003c!-- Info --\u003e\n|name             = Yuanwu\n|title            = Fist of Thunder\n|gender           = Male\n|age              = \n|birthday         = October 2nd\n|birthplace       = Huanglong\n|nation           = Huanglong\n|affiliation      = Jinzhou\n|affiliation2     = Yuanwu Boxing Gym\n|sigil            = Healthy Lifestyle\n|dish             = Sanqing Tea \n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm7832254|Adam Diggle]]\u003cref\u003eYouTube: [https://www.youtube.com/watch?v=DYdsN2FGeKA\u0026t=61s Adam Diggle: Voice Acting Demo Reel]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/zh-hant/刘北辰 Liu Beichen ({{Lang|mini=1|zh=刘北辰}})]\u003cref name=\"CN-VA_KGYuanwu\"\u003eOfficial Website: [https://mc.kurogames.com/main#resonators 共鸣者 瑝珑 渊武]\u003c/ref\u003e\n|voiceJP          = {{w|Hiroshi Shirokuma|Shirokuma Hiroshi ({{Lang|mini=1|ja=白熊寬嗣}})}}\u003cref name=\"JP-VA_TWYuanwu\"\u003eTwitter: [https://x.com/ww_jp_official/status/1789958774813262120 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/박성태 Park Seong-tae ({{Lang|mini=1|ko=박성태}})]\u003cref name=\"KR-VA_TWYuanwu\"\u003eTwitter: [https://twitter.com/WW_KR_Official/status/1789958770740670831 KR VA Announcement]\u003c/ref\u003e\n}}\n{{Quote|Whether you need help with working out or maintaining your health, feel free to come by my gym. We welcome all visitors.|Yuanwu}}\n{{Intro/Resonator|Yuanwu|lang=zh=渊武}} He owns a boxing gym where he teaches martial arts and health management, and is well-respected in the community for his cordial demeanor and pleasant temperament.\n\n==Combat Overview==\n{{Main|Yuanwu/Combat}}\n\n===Ascension Material===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Yuanwu|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yuanwu\n|zhs  = 渊武\n|zht  = 淵武\n|ja   = {{Rubi|淵|エン|武|ブ}}\n|ko   = 연무\n|es   = Yuanwu\n|fr   = Yuanwu\n|de   = Yuanwu\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[ru:Юань У]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Material",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "3.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:01Z",
+  "title": "Hyvatia",
+  "pageid": 37923,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name     = Hyvatia\n|title    =Starward Handmaiden \n|image    = Hyvatia Icon.png\n|echo     = Yes\n|dmgtype  = Spectro\n|class    = Overlord\n|family   = \n|nation   = Roya Frostlands\n|region   = Starward Riseway\n|drops    = Suncoveter's Reach\n|variants = Tactical Hologram: Hyvatia\n}}\n{{Description|The Spacetrek Collective's first detection array built at Sundermere to monitor and stabilize the Reactor Drive's energy state in real time.}}\n{{Lang|Hyvatia|zh=海维夏}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]''. \n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Suncoveter's Reach}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Abilities== \n\n==Trophies==\n{{Trophies|Hyvatia|customheader=Hyvatia}} \n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Spectro DMG}}.\u003cbr\u003e\u003cbr\u003eWhen Hyvatia opens its Eye of Prediction, it observes and records Resonators' Dodges and Counterattacks. After the Eye closes, Hyvatia's next attack cannot be Dodged or Counterattacked.\u003cbr\u003e\u003cbr\u003eHyvatia takes 100% more total Tune Rupture DMG. When it's under Tune Rupture - Shifting and hit by Tune Break, it takes 15% more total DMG for 15s.\u003cbr\u003e\u003cbr\u003eHyvatia is Spacetrek Collective's first detection array built at Sundermere to monitor and stabilize the Reactor Drive's energy state in real time.\u003cbr\u003e\u003cbr\u003eThe Research Institute implanted the Exostrider's space-time error correction module runtime into Hyvatia's core, allowing Hyvatia to adjust the Exostrider's orbit and detect hidden spaceborne threats with high precision. Therefore, Hyvatia possesses sufficient computational power to predict the Reactor Drive's rotation.\u003cbr\u003e\u003cbr\u003eHyvatia's core function is to detect abnormal or dangerous energy fluctuations, perform immediate emergency calibrations, and feed this data back to the Drive to ensure stable operation.|Description when discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Hyvatia\n|zhs  = 海维夏\n|zht  = 海維夏\n|ja   = ハイヴェイシャ\n|ko   = 하이와티아\n|fr   = Hyvatia\n|de   = Hyvatia\n|es   = Hyvatia\n|th   = Hyvatia\n}} \n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{Enemy Navbox}}\n[[zh:海维夏]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

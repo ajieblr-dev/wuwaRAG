@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:37Z",
+  "title": "Strange White Cat",
+  "pageid": 24940,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Strange White Cat.png|In-game\n|name             = Strange White Cat\n|type             = Quest\n|location         = Somnoire\n|affiliation      = Somnoire\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\nThe '''Strange White Cat''' is an NPC in [[Somnoire]] that first appears in the [[Depths of Illusive Realm]] event. It is another form of the [[Ivory Gatekeeper]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Gallery==\n\u003cgallery\u003e\nStrange White Cat.PNG|As it appears in the Somnium Labyrinth event\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Strange White Cat\n|zhs  = 奇异的白猫\n|zht  = 奇異的白貓\n|ja   = 奇妙な白猫\n|ko   = 기이한 흰 고양이\n|fr   = Chat blanc étrange\n|de   = Seltsame Weiße Katze\n|es   = Extraño gato blanco\n|th   = แมวขาวที่ดูแปลกๆ\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tutorial Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:34Z",
+  "title": "Andrius",
+  "pageid": 27303,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_dialogue = yes\n}}\n{{stub}}{{NPC Infobox\n|image            = NPC Andrius.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Montelli Quarter\n|group            = \n|affiliation      = Montelli Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Andrius''' is a male NPC in [[Rinascita]]. \n\nDuring the daytime, he can be seen talking to [[Troy]] in [[Montelli Quarter]], [[Ragunna City]].\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the daytime)\n:'''Andrius:''' You should know that people from Rinascita place a high value on family honor and kinship.\n:'''Andrius:''' Without an influential family behind you, it's nearly impossible to rise in Ragunna.\n:'''Andrius:''' But the Montellis are different. We believe opportunities multiply when they're shared. Money means nothing unless it's in circulation.\n:{{DIcon}} Are you a Montelli?\n:'''Andrius:''' Of course! That's why we get to sit here.\n:'''Troy:''' I want to be rich too! I want people to be in awe whenever they speak my name! I'll make the most of this opportunity!\n:'''Andrius:''' Then go for it! Do whatever it takes to earn your status and honor.\n:'''Andrius:''' These things won't just fall into your lap—they're up to you to pursue.\n:'''Andrius:''' If you share my belief, I promise that serving the Montelli family will not leave you wanting.\n:'''Andrius:''' Shall we toast?\n:'''Troy:''' C-can I?\n:'''Andrius:''' Of course! I might be your employer, I prefer to see us as partners.\n:'''Troy:''' W-well, cheers, then!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Andrius\n|zhs  = 安德里亚\n|zht  = 安德里亞\n|ja   = アンドリーア\n|ko   = 안드리아\n|es   = Andrius\n|fr   = Andrius\n|de   = Andrius\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

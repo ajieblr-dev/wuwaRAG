@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:01Z",
+  "title": "Whitney",
+  "pageid": 38422,
+  "wikitext": "{{NPC Infobox\n|image            = NPC .png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Whitney''' is a female professor NPC lecturing a student from Department of Exostrider Engineering, '''Bram'''.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Whitney:''' Just look at this code you wrote. Are you on mushrooms? It's all over the place!\n:'''Whitney:''' How could you put high-temperature drying and granulation in the same process?\n:'''Bram:''' B-but...\n:'''Whitney:''' But what?!\n:'''Bram:''' In theory, this is the cheapest and most efficient solution!\n:'''Whitney:''' You know what's efficient for me? You staying in your dorm and skipping my lectures. Are you purposefully trying to fail?\n:'''Whitney:''' Use your head for one second. An airtight culture chamber, superheated, filled with combustible dust, plus potential sparks from the harvesters on startup...\n:'''Whitney:''' One big recipe for disaster. You could blow up the Agronomy Wing ten times over.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Whitney\n|zhs  = 惠特尼\n|zht  = 惠特尼\n|ja   = ホイットニー\n|ko   = 휘트니\n|fr   = Whitney\n|de   = Whitney\n|es   = Whitney\n|th   = Whitney\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

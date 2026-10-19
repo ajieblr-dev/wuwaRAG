@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:39Z",
+  "title": "Moon Shooter",
+  "pageid": 11158,
+  "wikitext": "{{Location Infobox\n|image        = \u003cgallery\u003e\nMoon Shooter Context.png | In-Game\nMoon Shooter Art.png | Art\n\u003c/gallery\u003e\n|type         = Point of Interest\n|icon         = Icon Moon Shooter.png\n|event        = By Moon's Grace\n|area         = Taoyuan Vale\n|region       = Central Plains\n|nation       = Huanglong\n}}\n{{Quote|I want to break my personal best in \"Moon Shooter\" this time!\u003cbr\u003e\u003cbr\u003e\u003chr\u003e\u003cbr\u003eAll set! How about a friendly sparring match now?|[[Chixia]]\n}}\n'''Moon Shooter''' is an event-exclusive [[Point of Interest|point of interest]] located in [[Taoyuan Vale]], [[Central Plains]], [[Huanglong]] during the [[By Moon's Grace]] event.\n\n==NPCs==\n* [[Qingxi]]\n\n==Descriptions==\n{{Description|Although the beginnings of Moon Shooter are lost to time, its simple gameplay and addictive scoring streaks have garnered high praise.\u003cbr /\u003e{{Color|#a5a19d|Build or Upgrade this stall to gain more Popularity. Visit the stall to experience the mini-games for rewards.}}|[[Map]] description}}\n\u003cgallery\u003e\nMoon Shooter Location.png|Location\n\u003c/gallery\u003e\n\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction)\n:'''Qingxi''': Happy Moon-Chasing Festival, Rover!\n:{{DIcon}} You too!\n:'''Qingxi''': Interested in the Moon Shooter? It's a traditional activity in Jinzhou.\n:'''Qingxi''': These past years, TD waves have kept us all on edge. Who's got time for celebrations with monsters at our doorstep?\n:'''Qingxi''': But this year's different. Thanks to your contributions, I get to celebrate again.\n:{{DIcon}} You flatter me.\n:{{DIcon}} I just did what needed to be done.\n:'''Qingxi''': Haha, such modesty. Alright, I'll let you enjoy the game.\n:'''Qingxi''': This shotting game should be easy for you. No battlefield pressure here, just fun.\n----\n:'''Qingxi:''' The fighting in Jinzhou is finally calming down, giving us a break at Rearguard Base. I finally got some time off.\n:'''Qingxi:''' My sister Qingning suggested we make the most of it and enjoy the festival in Taoyuan Vale, so here we are, joining the celebrations.\n:'''Qingxi:''' I've trained new soldiers for so long, I've become quite good at shooting myself. Qingning always says I'm too focused on work even during downtime.\n:'''Qingxi:''' I won't deny it\u0026mdash;I take pride in the duty I carry.\n:'''Qingxi:''' Maybe I'll even find a few promising recruits for the Midnight Rangers. Who knows?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Moon Shooter\n|zhs  = 射月壶\n|zht  = 射月壺\n|ja   = 月壺打ち\n|ko   = 달병 맞히기\n|es   = Tirador Lunar\n|fr   = Tir lunaire\n|de   = Mondschießen\n}}\n\n==Change History==\n{{Change History|1.2}}\n\n==Navigation==\n{{PoI Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

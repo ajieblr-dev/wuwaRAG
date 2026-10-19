@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:50Z",
+  "title": "Triss",
+  "pageid": 36066,
+  "wikitext": "{{NPC Infobox\n|image            = Triss In-game.png\n|name             = Triss\n|title            = \n|type             = Quest\n|type2            = Open-World\n|status           = Dead\u003cbr\u003eDied during a meteor impact hundreds of years ago. However, her \"soul\" lingers in the Lost Beyond.\n|affiliation      = Ostina\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = [https://namu.wiki/w/권선영 Kwon Seon-yeong ({{Lang|mini=1|ko=권선영}})]\n}}\n'''Triss''' {{Lang|zh=特莉丝}} is a deceased [[NPC]] that first appears in {{Quest|Dreamcatchers in the Secret Gardens}}. \n\nAfter completing Dreamcatchers in the Secret Gardens her reverberation can be found in the [[Lost Beyond]].\n\n==Quests and Events==\n{{Quests and Events}} \n\n==Dialogue==\n{{Dialogue Start}}\n:;Lalala...lala...\n:'''Triss:''' Argh! You scared me!\n:{{DIcon}} What are you up to?\n:'''Triss:''' Practicing songs.\n:'''Triss:''' My singing seems to sound better here. So I come here to build confidence in my voice. Hehehe.\n:'''Triss:''' Well now, don't interrupt a star singer in the making. I'm in the groove right now!\n;(Obtain Trophy, [[Crooning From a Lost Dream]])\n{{Dialogue End}}\n\n==Gallery==\n{{Files by Character Gallery}}\n\n===Videos===\n\u003cgallery\u003e\nWuthering Waves Story Cinematics - Fading Notes\nWuthering Waves Story Cinematics - Sinking in a Dream\n\u003c/gallery\u003e\n\n==Other Languages ==\n{{Other Languages\n|en   = Triss\n|zhs  = 特莉丝\n|zht  = 特莉絲\n|ja   = テリス\n|ko   = 트리체\n|es   = Triss\n|fr   = Triss\n|de   = Triss\n}}\n\n==Change History==\n{{Change History|2.5}} \n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "7"
+    }
+  ]
+}

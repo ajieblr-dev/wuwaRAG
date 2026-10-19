@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:53Z",
+  "title": "Ninth Seal",
+  "pageid": 79084,
+  "wikitext": "{{Stub|profile}}\n{{NPC Infobox\n|image            = NPC Ninth Seal.png\n|type             = Quest\n|type2            = \n|nation           = Huanglong\n|affiliation      = Ten Seals Covenant\n|status           = \n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n\n'''{{PAGENAME}}''' {{Lang|zh=九契}} is a quest-exclusive NPC who makes her first appearance during the {{Quest|Simulacrum of the Heart}}.\n\n==Profile==\nShe was one of the Seals of Ten Seals Covenant, a group founded by [[Suoming]] to combat the Evil Miasma in her hometown, [[Huating]], where all of its members, besides Suoming, have since fallen. Suoming sealed her frequency alongside the other Seals and the Evil Miasma. She was asked by Suoming to turn invisible in order to defeat the Evil Miasma. This action costed her life.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ninth Seal\n|zhs  = 九契\n|zht  = 九契\n|ja   = 九ノ契\n|ko   = 구계\n|fr   = Nona Sceau\n|de   = Neuntes Siegel\n|es   = Noveno Sello\n|th   = พันธกานต์ที่เก้า\n|pt   = Nono Selo\n}}\n\n==Change History==\n{{Change History|3.7}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:12Z",
+  "title": "Roberto",
+  "pageid": 37327,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Averardo Vault\n|group            = \n|affiliation      = Montelli Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Roberto''' is a male [[NPC]] working at the [[Averardo Vault (Instance)]]. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Roberto:''' Today's loss... Hmm, twenty-three crates. Cause: Discovered they were past their recommended usage date during inventory.\n:'''Roberto:''' Oh! Sorry, I didn't see you there. Anything I can help you with?\n:{{DIcon}} Crates? Are they used for transporting collectibles?\n:'''Roberto:''' Yes. We have specially designed crates for transportation.\n:'''Roberto:''' They're filled with thick paddling tailored to the size and shape of the item, keeping everything snug and secure.\n:'''Roberto:''' This minimizes the risk of damage during shipping.\n:'''Roberto:''' We regularly discard crates once they reach their recommended life span, just to be safe. Wouldn't want them to fall apart in transit!\n:{{DIcon}} Fall apart? Has it ever happened before?\n:'''Roberto:''' Well, I'm new here. I haven't seen anything like that firsthand, but from what I've heard... it's happened before.\n:'''Roberto:''' I didn't think much about the whole \"discarding crates\" thing until [[Ludvika]] mentioned all the past accidents—\n:'''Roberto:''' Everything from minor mishaps like drops to fires, robberies, and even [[Tacet Discord]] incursions.\n:'''Roberto:''' The Vault has learned from these incidents over the years, and our procedures and have become much more stringent as a result.\n:'''Roberto:''' I suppose I'm standing on the shoulders of those who came before me... but hey, better safe than sorry, right?\n{{Dialogue End}}\n\n==Character Mentions==\n{{Character Mentions|Roberto}}\n\n==Other Languages==\n{{Other Languages\n|en   = Roberto\n|zhs  = 罗伯托\n|zht  = 羅伯托\n|ja   = ロバート\n|ko   = 로버트\n|fr   = Roberto\n|de   = Roberto\n|es   = Roberto\n|th   = Roberto\n|pt   = \n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

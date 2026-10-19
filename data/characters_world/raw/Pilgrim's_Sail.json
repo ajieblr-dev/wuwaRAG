@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:01Z",
+  "title": "Pilgrim's Sail",
+  "pageid": 26166,
+  "wikitext": "{{Terminology Infobox\n|title        = Pilgrim's Sail\n|type         = Lore\n|image        = \n|region       = Ragunna\n}}\nThe '''Pilgrim's Sail''' is a tradition in [[Ragunna]], enforced by the [[Order of the Deep]].\n\n==Archive Entry==\nThose deemed faithless by the Order of the Deep are sent to voyage upon the Pilgrim's Sail, following the ancient path of those who once braved the mist and maelstrom seeking the Sentinel's guidance.\n\nThe Order claims that only [[Imperator]] can grant absolution to these transgressors. They must endure a grueling pilgrimage, suffering both body and soul until their repentance is complete. At the journey's end, it is said Sentinel Imperator will offer them forgiveness and promise of new life.\n\nBut no one in Ragunna has ever heard of a faithless \"pilgrim\" returning from this sacred journey. The Order asserts that they reach Imperator's place of dwelling and devote themselves to Their service for eternity. While many still harbor doubts, few dare to openly challenge the Order—none wish to suffer the same tragic fate as those branded Fools.\n\n==Overview==\nThe tradition of the Pilgrim's Sail was born from a legend of how Imperator's most devout believer, moved by Their grace, braved storms and mists to find the Sentinel— reaching the once sacred island that is now known as [[Penitent's End]]. As the current Primus of Ragunna, [[Fenrico]] claimed to have uncovered the path that leads to a place by the Sentinel's side, where They impart Their teachings to mortals.\u003cref\u003e{{Quest|Through the Sea Thou Break}}\u003c/ref\u003e\n\nFor a time the Pilgrim's Sail was a great honor among the people for only the most devout worshipers of Imperator despite their great financial cost they imposed through taxes though despite this \"vanishingly few\" pilgrims would return from these. For a time the Primus Fenrico would cease these large-scale pilgrimages and they would become \"a relic of the past\" with the burdensome taxes also being lifted. At some point after this however for reasons unknown Fenrico would reinstitute the Pilgrimage as a punishment for \"fools\" instead of a willing honor, these new pilgrimages would lack the expense of the past and instead be run-down and of poor quality gaining the nickname \"Fool's Sail\" from the people.\u003cref\u003e[[Former Privy Councilor's Notes]]\u003c/ref\u003e\n\nContrary to the Order's claims, those who are branded Fools and forced to embark on the pilgrimage do not truly find Imperator on [[Penitent's End]] Island, but instead a once sacred land that has been corrupted by the [[Dark Tide]]. Those who survive the initial shipwreck risk being killed by [[Tacet Discord]], and upon reaching their intended destination, they face the [[Dragon of Dirge]]. Under the Order's control, the dragon attacks all living beings, including humans. To keep the dragon's existence a secret, entry to Penitent's End Island has been forbidden by the Order.\n\nThe [[Troupe of Fools]] is made up of survivors of the Pilgrim's Sail, founded by [[Brant]] after surviving the pilgrimage as a child, and seeks to rescue others who land on the island. They have built a refuge in an underground cavern on the island, called [[Fool's Elysium]], and hope to one day expose the Order's lies through a grand performance at the [[Carnevale]].\n\nDue to the long history of division and holy war in the land, which led to the Dark Tide, Fenrico believes that in order to achieve true unity, it is necessary to immediately root out anyone who questions or fails to conform to doctrine.\n\nThe Pilgrim's Sail has seemingly been stopped as a punishment by Fenrico after [[Rover]] became the Laureate of the latest Carnevale.\u003cref\u003e{{Quest|Starry is the Night}}\u003c/ref\u003e\n\n==Trivia== \n*[[Brant]] was sent on the Pilgrim's Sail as a child for questioning the appearance of the Sentinel's statue in the [[Cathedral of Mercury]].\n*[[Roccia]] was sent on the Pilgrim's Sail for performing a play that was banned by the Order.\n*The Dragon of Dirge's original name, Gehinnom, is the name of a place for divine punishment in Jewish theology.\n\n==Other Languages==\n{{Other Languages\n|en   = Pilgrim's Sail\n|zhs  = “朝圣船”\n|zht  = 「朝聖船」\n|ja   = 「巡礼船」\n|ko   = 「순례선」\n|es   = Travesía del Peregrino\n|fr   = «\u0026nbsp;Traversée de pèlerin\u0026nbsp;»\n|de   = „Pilgerschiff“\n|th   = \n|pt   = \n}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Archive Entry",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

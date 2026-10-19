@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:55Z",
+  "title": "Cetus the Tidebreaker",
+  "pageid": 28980,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|name             = Cetus the Tidebreaker\n|image            = Cetus.png\n|type             = Quest\n|nation           = Rinascita\n|species          = Tacet Discord\n}}\n{{Quote|\"In legends, Cetus the Tidebreaker guides drowned ships and sailors to the realm beyond. Yet they were fickle when they sang in sorrow and fury. Tempests raged, skies darkened, until Imperator enlightened them with lantern light making them a ruler of marine life and Guardian of the Sea.\"|Phoebe}}\n\n'''Cetus the Tidebreaker''' is a [[Tacet Discord]] that lives in the deep waters of the Stormy Sea around [[Ragunna]]. It is closely associated with the [[Sentinel]] [[Imperator]] and serves as a steward of the souls lost at sea.\n\nIt was first introduced as a quest-exclusive [[NPC]] during the {{Quest|Through the Sea Thou Break}}.\n\n==Descriptions==\n{{Description|A colossal, whale-like Tacet Discord. Depite its gentle nature, its gargantuan size can inadvertently cause significant destruction.}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Cetus the Tidebreaker}}\n\n==Gallery==\n===Official Art===\n{{Files by Character Gallery|Images}}\n\n===Videos===\n{{Files by Character Gallery|Cetus the Tidebreaker Videos}}\n\n==Other Languages==\n{{Other Languages\n|en   = Cetus the Tidebreaker\n|zhs  = 溯海之鲸\n|zht  = 溯海之鯨\n|ja   = 回遊の鯨\n|ko   = 회유의 고래\n|es   = Cetus el Rompemareas\n|fr   = Cetus le Brise-marée\n|de   = Cetus der Gezeitenbrecher\n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}\n[[zh:溯海之鲸]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Official Art",
+      "number": "4.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "4.2",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "9"
+    }
+  ]
+}

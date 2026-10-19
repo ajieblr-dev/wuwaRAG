@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:00Z",
+  "title": "Pianyu",
+  "pageid": 4260,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Pianyu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Pianyu''' is an NPC in {{Location|Jinzhou}}.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Pianyu:''' Hello. How can I be of assistance?\n:{{DIcon}} About [[Uncle Gao|Gaoyun]] and [[Ruiyun]].\n::'''Pianyu:''' Mr. Gao is just too worried about his daughter, that's all. Understandable, that's the way parents are.\n::'''Pianyu:''' Ruiyun always talked about how she wanted to go to the frontlines. Now that she's finally doing patrol duty in the residential area, it's not bad of a job actually. And Mr. Gao can also rest easy.\n::{{DIcon}} How do you know about Ruiyun?\n::'''Pianyu:''' Well, I... I have my ways!\n::'''Pianyu:''' Besides, I'm an old friend of Mr. Gao's. So what's the big deal if I know a thing or two about their family?\n:{{DIcon}} About [[Doudou]] and [[Mingming]].\n::'''Pianyu:''' Ah, the siblings that play hide-and-seek every day. They must be having a lot of fun.\n::'''Pianyu:''' It's just that Wulǔ is usually busy doing sentry duty and doesn't have time to spend with his kids.\n::'''Pianyu:''' *sigh* I guess he really doesn't have much of a choice.\n:{{DIcon}} About Pianyu.\n::'''Pianyu:''' Me? I don't mind being on patrol duty. I actually quite enjoy it, roaming around this area.\n::'''Pianyu:''' I'm happy as long as I see the residents here living peacefully each day.\n::'''Pianyu:''' If there's anything I can help them in any way, I'd be even happier.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Pianyu\n|zhs  = 片羽\n|zht  = 片羽\n|ja   = 片羽（ヘンウ）\n|ko   = 형우\n|es   = Pianyu\n|fr   = Pianyu\n|de   = Pianyu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

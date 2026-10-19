@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:46Z",
+  "title": "Tian",
+  "pageid": 74665,
+  "wikitext": "{{Stub|Remove if no further Dialogues after Quest}}\n{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xianling Village\n|affiliation      = \n|affiliationNote  = \n|status           = \n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a quest-exclusive NPC that first appears with '''[[Baiyou]]''' in {{Quest|The Wind Before the Storm}}. \n__NOTOC__\n{{Dialogue Start}}\n==Idle==\n:'''Tian:''' The Autopuppets are malfunctioning? How... how is that possible? Could it be false intel?\n:'''Baiyou:''' Liangyu said it herself. It has to be true...\n\n==Dialogue==\n:'''Tian:''' The Autopuppets are malfunctioning? How... how is that possible? Could it be false intel?\n\n:'''Baiyou:''' Liangyu said it herself. It has to be true...\n\n:'''Tian:''' There must be thousands of Autopuppets across Xuanfang. If they all go rogue, it'll be a catastrophic threat to everyone living here!\n\n:'''Tian:''' Oh, no... I have to get out of here... To Mengzhou... Wait, no. Jinzhou should be closer...\n\n:'''Baiyou:''' Use your head! What happens if a rogue Autopuppet catches you the second you leave the village? What about the Tacet Discords? You're not a Resonator, alright?!\n\n:'''Baiyou:''' Just listen to Liangyu and the others for now...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Tian\n|zhs  = 阿田\n|zht  = 阿田\n|ja   = 田\n|ko   = 전아\n|fr   = Tian\n|de   = Tian\n|es   = Tian\n|th   = Tian\n|pt   = Tian\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:43Z",
+  "title": "The Shaper",
+  "pageid": 38993,
+  "wikitext": "{{Stub|Story section needed}}\n{{NPC Infobox\n|image        = NPC The Shaper Insander.png\n|type         = Quest\n|type2        = Resonator\n|realname     = Isander\n|nation       = Lahai-Roi\n|location     = Bjartr Woods\n|location2    = Solisylum\n|affiliation  = Roya Tribe\n|affiliation2 = Heliodic Six\n|status       = Alive\n\u003c!-- VAs --\u003e\n|voiceEN      = \n|voiceCN      = \n|voiceJP      = \n|voiceKR      = \n}}{{Description|{{A|Vo main lahairoi 3 2 39 15.ogg}}''Since the moment I was brought to Solisylum as a child, I have never once seen the world beyond. In the Heliogyre’s light do I glimpse the universe, and in seeing life rejoice under my protection do I take comfort.''|The Shaper, [[Ode to the Second Sunrise]]}}\n'''The Shaper''' {{Lang|zh=织星}}, also known as '''Isander''', is a quest-exclusive [[NPC]] that makes his first appearance in {{Quest|Ode to the Second Sunrise}}. He later reappears during {{Quest|Starlights from Yesterdays}}.\n\n==Profile==\nHe is a member of the [[Heliodic Six]] and oversees the [[Heliogyre]] within the [[Solisylum]]. He has a calm demeanor and puts his responsibility as the [[Heliodic Six]] above everything.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;Complete the following {{Main|Ode to the Second Sunrise}}\n:'''You see the Shaper bathed in the Heliogyre's radiance, silent as an inanimate vessel. As you prepare to speak to him, he slowly opens his eyes.\n:'''\"The Shaper\":''' To lay eyes on you once more, Arbiter, is a pleasure.\n:'''\"The Shaper\":''' The Heliogyre has shown me that the Spacetreck Collective's ceremony was a success. To you and your companions, my congratulations I offer.\n:'''\"The Shaper\":''' If questions remain for me, or the Heliogyre. I, the Shaper, shall answer.\n:{{DIcon}} Ask about the Solisylum.\n::'''\"The Shaper\":''' Because of your aid, the Heliogyre turns anew. The Solisylum has returned to normality.\n::'''\"The Shaper\":''' The Helios in the sky now weaves together wisdom from both the Spacetrek Collective and the Roya. Data once seen only by the Heliogyre... now the Hyvatia Detector may also obtain.\n::'''\"The Shaper\":''' The Heliogyre's operations stand ready to perform primary verificiation tasks. \n::'''\"The Shaper\":'''  Thus, in the Solisylum, I alone am sufficient.\n:{{DIcon}} Ask about the remaining Five.\n::'''\"The Shaper\":''' After your authorization, the Heliogyre has concentrated all of its computational power within me. No longer do the Six need to bear those immense calculations in parallel, at all times.\n::'''\"The Shaper\":''' Now, the other Five may devote their energies to managing Royan affairs. Under the new sun, the Roya need new season laws.\n::'''\"The Shaper\":''' For this, I require them to gather outside knowledge. With this, I will weave into my own computations.\n::'''\"The Shaper\":''' {{Rubi|Iselde|The Eye}}'s perception, {{Rubi|Horstvald|the Binder}}'s foresight, {{Rubi|Laetia|the Recorder}}'s curiosity, {{Rubi|Eivind|the Chronicler}}'s discipline, and {{Rubi|Freamir|the Refiner}}'s empathy... they are the Heliogyre's senses in the world. And to the Solisylum, they will return their findings.\n::'''\"The Shaper\":''' Before they entered the Solisylum, the Heliodic Six were but mere mortals.\n::'''\"The Shaper\":''' Now they enjoy some time to lay down their burden. I hope... their lives will unfold as they wish. At least for the time being.\n::'''\"The Shaper\":''' If you see them in Lahai-Roi, please, as a witness, offer them your blessing.\n:{{DIcon}} Ask about him.\n::'''\"The Shaper\":''' All of the Heliogyre's computational power is now concentrated within me. Wherever the sunlight touches, so too do my thoughts.\n::{{DIcon}} But this is not without cost.\n::'''\"The Shaper\":''' ...\n::'''\"The Shaper\":''' As you once said... I am now bound to the Heliogyre's will. From the Solisylum, I cannot depart.\n::'''\"The Shaper\":''' Human flesh and blood were not made to bear such vast quantitites of information in so short a span. Should this continue, my body's decay will quicken tenfold until electricity within my nerves ceases... and a final computation concludes.\n::'''\"The Shaper\":''' Yet... the Spacetrek Collective already seeks a remedy. Just as the Heliodic Six with mortal strength touched the divine, so too does their technology strive to undo the toll the gods have exacted upon me.\n::'''\"The Shaper\":''' I believe in them. Just as I have always believed in the Roya.\n::'''\"The Shaper\":''' In the future where the light shines brighter, we will one day witness together.\n:{{DIcon}} I have no more questions.\n::'''\"The Shaper\":''' Goodbye, Arbiter.\n::'''\"The Shaper\":''' Do not forget that all the knowledge of the Heliogyre is mine to share with you. Should you have need, I will respond.\n{{Dialogue End}}\n\n==Character Mentions==\n{{Character Mentions|The Shaper}}\n\n==Other Languages==\n{{Other Languages\n|1_en   = The Shaper\n|1_zhs  = 织星\n|1_zht  = 織星\n|1_ja   = 織る者\n|1_ko   = 더셰이퍼\n|1_fr   = Le Façonneur\n|1_de   = Der Shaper\n|1_es   = El Moldeador\n|1_th   = เดอะ ชัปเปอร์\n|1_pt   = O Moldador\n\n|2_en   = Isander\n|2_zhs  = 伊桑德\n|2_zht  = 伊桑德\n|2_ja   = イサンダー\n|2_ko   = 이산더\n|2_fr   = Isander\n|2_de   = Isander\n|2_es   = Isander\n|2_th   = ไอซานเดอร์\n|2_pt   = Isander\n}}\n\n==See Also==\n* [[Laetia]] - The Recorder\n* [[Iselde]] - The Eye\n* [[Horstvald]] - The Binder\n* [[Freamir]] - The Refiner\n* [[Eivind]] - Freamir\n* [[Yngvar]] - Former Successor\n\n==Change History==\n{{Change History|3.0}}\n[[zh:织星]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "The Shaper",
+      "number": "5.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Isander",
+      "number": "5.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:11Z",
+  "title": "Kanon",
+  "pageid": 38406,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Kanon.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Kanon''' is a female NPC student found gossiping about the [[Black Shores]] with her fellow schoolmate, '''Kazuha'''. They can be found during the day down below the pathway of Spacetrek Archive.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Kanon:''' I heard there's another Black Shores member enrolling!\n:'''Kazuha:''' Haven't we always had Black Shores students? What's so special about this one?\n:'''Kanon:''' No, no, this one's different! {{MC|m=His|f=Her}} background is super mysterious...\n:'''Kanon:''' Someone said {{MC|m=he|f=she}} was involved in the Threnodian revival in Jinzhou and Rinascita. Doesn't that scream \"trouble magnet\"?\n:'''Kazuha:''' That's backwards causality. And isn't Black Shores a legit rescue organization?\n:'''Kanon:''' Then what about the [[Encore|little girl]] who talks to puppets all day? Or that \"[[Camellya|Lady Flora]]\" who fights everywhere she goes? Or the \"[[Galbrena|Demon]]\" who feeds on Tacet Discords? A normal organization doesn't have that many weirdos, right?\n:'''Kanon:''' And their leader... There's zero info even in the Archives. Doesn't that seem super shady?!\n:'''Kanon:''' It's just like those TV dramas where the villain goes to lay low in a peaceful campus...\n:'''Kazuha:''' You're jst overthinking it. Why not just ask a Black Shores student?\n:'''Kanon:''' Fool! They've probably all signed NDAs, just like us!\n:'''Kanon:''' Shhh, we probably shouldn't be talking about it. What if they're already listening...? \n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Kanon\n|zhs  = 花音\n|zht  = 花音\n|ja   = 花音\n|ko   = 카논\n|fr   = Kanon\n|de   = Kanon\n|es   = Kanon\n|th   = Kanon\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:08Z",
+  "title": "Xukong",
+  "pageid": 10310,
+  "wikitext": "{{Meta\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|name             = Xukong\n|image            = NPC Xukong.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Camp Overwatch\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Xukong''' is an NPC in {{Location|Camp Overwatch}}.\n\n==Location==\n{{Map Embed|Desorock Highland|Xukong}}\n\u003c!--\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n\n==Quests and Events==\n{{Quests and Events|{{subst:#titleparts:{{subst:PAGENAME}}}}}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Xukong:''' There are new supplies to be counted today.\n:'''Xukong:''' Hmm? Do you need any help? Just let me know, I will ensure your well-being!\n:'''Xukong:''' The more intense the war, the better we should eat and drink, and be in high spirits! Morale is also an important factor in the outcome of the war, right? Hahaha!\n:{{DIcon}} You are so optimistic!\n:'''Xukong:''' As a logistics support personnel, I not only want to take care of my comrades' material needs, but also to uplift their spirits a bit!\n:'''Xukong:''' Hehe, actually, I once went to chat with [[Fusheng]] when I didn't understand. I wanted to make him feel relaxed, but I ended up hitting a wall...\n:'''Xukong:''' Since then, I have realized that fighting is already tough enough, and everyone has endured a lot...\n:'''Xukong:''' \"Self-righteous\" consolation only brings sadness, so why not let me bring everyone a moment of simple joy!\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Xukong\n|zhs  = 旭空\n|zht  = 旭空\n|ja   = 旭空（キョクコウ）\n|ko   = 욱공\n|es   = Xukong\n|fr   = Xukong\n|de   = Xukong\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

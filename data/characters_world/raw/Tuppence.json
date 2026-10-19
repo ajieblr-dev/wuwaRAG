@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:51Z",
+  "title": "Tuppence",
+  "pageid": 65820,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=Lahai-Roi\n|location=Startorch Academy\n|affiliation=\n|group=Roya Tribe\n}}\n'''{{PAGENAME}}''' is a Roya girl who can be found quizzing to two Students from the Department of Voidmatters at the front of Startorch Academy entrance, to find her brother who is attending.\n\n{{Dialogue Start}}\n==Idle==\n\n==Dialogue==\n:'''Merill:''' The square root of this is... and when I square that, I get... Oh!  19!\n:'''Struss:''' From a bird's-eye view of the Academy, the Reactor's light... is angled directly at the Energy Sciences!\n:'''Struss:''' If I put that all together… Your older brother is 19 years old and an Energy Sciences student!\n:'''Tuppence:''' That's correct! Hmm, what should I ask next...?\n:'''Merill:''' Hold on. You're making us solve your questions to get info about your brother?\n:'''Merill:''' If you want to find him, wouldn't it be easier to just tell us what he looks like?\n:'''Tuppence:''' Hehe, but this is a game my brother and I play. I have to find him using questions!\n:'''Tuppence:''' When I do, he promised me a huge feast at the Startorch Academy cafeteria! I've never eaten there before, I can't wait!\n:'''Struss:''' Y-you can't... wait?\n:'''Merill:''' Oh, sweetie. You're a bright kid and we want to help, but… the cafeteria food is, uh…\n:'''Tuppence:''' Next question coming up! Listen carefully, everyone!\n----\n;After {{Quest|Starlights from Yesterdays}} \n:'''Struss:''' Differentiate Helios's refractive index... the answer is 4...\n:'''Merill:''' Zip Zap's post-Void Storm stroboscopic band... The encoded translation of the word is energy gel?\n:'''Tuppence:''' Hehe, right again.\n:'''Struss:''' So after you found your brother, he treated you to four different flavors of energy gels?\n:'''Tuppence:''' Yup! And is this really what you eat every day? That's rough.\n:'''Merill:''' The texture is pretty weird. But hey, we eat other things, too...\n:'''Tuppence:''' But my brother said this is the Academy's specialty, recommended by Professor Mornye, the amazing woman who launched Helios. He packed a ton for me to take back.\n:'''Tuppence:''' He also said that if I solve these problems, I'll figure out how to make energy gel taste better!\n:'''Struss:''' R-Really? I've never heard that before...\n:'''Merill:''' We'd like to figure that out too. Can we work on it with you?\n:'''Tuppence:''' Of course. Listen closely. My brother's problem goes like this...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Tuppence\n|zhs  = 塔彭丝\n|zht  = 塔彭絲\n|ja   = タペンス\n|ko   = 틴드라\n|fr   = Tuppence\n|de   = Tuppence\n|es   = Tuppence\n|th   = Tuppence\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

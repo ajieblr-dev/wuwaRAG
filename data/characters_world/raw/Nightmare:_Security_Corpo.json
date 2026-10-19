@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:51Z",
+  "title": "Nightmare: Security Corpo",
+  "pageid": 79541,
+  "wikitext": "{{Enemy Infobox\n|name=Nightmare: Security Corpo\n|title=\n|image=Echo Nightmare: Security Corpo.png\n|dmgtype=Physical\n|weakpoint=\n|echo=No\n|class=Common\n|family=Tacet Discord\n|group=Corpo\n|nation=Roya Frostlands\n|region=Lahai-Roi\n|subregion=Somnoire: Night City\n|drops=\n}}{{Description|A Nightmare Tacet Discord that is hunting down Lucy. It can traverse between data rifts.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Corpo}}\n\n==Stats==\n{{Enemy Stats}}\n\u003c!--\n==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Nightmare: Security Corpo|customheader=Nightmare: Security Corpo}}\n\n==Description==\n{{Description|Corporate lackeys created by Nightmare: Adam Smasher from Lucy's memory. They are defense specialists in corporate ops and can traverse data rifts.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Nightmare: Security Corpo\n|zhs  = 梦魇·安保公司狗\n|zht  = 夢魘·保安企業狗\n|ja   = ナイトメア・護衛コーポ\n|ko   = 악몽 · 기업(보안)\n|fr   = Cauchemar : Garde corpo\n|de   = Albtraum: Sicherheitskonzerner\n|es   = Pesadilla: Corpo de Seguridad\n|th   = Nightmare: Security Corpo\n|pt   = Pesadelo: Corpe de Segurança\n}}\n\n==Change History==\n{{Change History|3.4}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

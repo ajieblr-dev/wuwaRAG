@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:44Z",
+  "title": "Galescourge Stalker",
+  "pageid": 25694,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Galescourge Stalker\n|image=Galescourge Stalker Icon.png\n|dmgtype=Aero\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Howler\n|nation=Rinascita\n}}{{Description|A wolf-like Tacet Discord dominating high-altitude regions, notorious for its relentless predation.}}\n{{Intro/Enemy}}\n==Drops== \n{{Drops|Common Howler}}\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies|Galescourge Stalker|customheader=Galescourge Stalkers}}\n\n==Description==\n{{Description|This enemy has '''higher RES''' against {{Color|Aero DMG}}.\u003cbr\u003e\u003cbr\u003eA wolf-like Tacet Discord reigning high-altitude regions, known for its relentless predation of its prey.\u003cbr\u003e\u003cbr\u003eIt often hunts in packs, chasing down its victims with ferocious speeds.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Galescourge Stalker\n|zhs  = 风鬃狼\n|zht  = 風鬃狼\n|ja   = 風鬣狼\n|ko   = 갈기늑대 ・ 바람\n|es   = Lobo de Huracán\n|fr   = Loup d'Ouragan\n|de   = Windmähnen- Schleicher\n}}\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

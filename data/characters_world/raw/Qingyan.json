@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:06Z",
+  "title": "Qingyan",
+  "pageid": 79507,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Qingyan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Xianling Village\n|affiliation      = \n|affiliationNote  = \n|status           = Alive\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          = Qingdai\n|siblingNote      = Sister\n|sibling2         = Qingzhi\n|siblingNote2      = Sister ✝\n|child            = \n|relative         =\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a quest-exclusive NPC that first appears in {{Quest|The Wind Before the Storm}}. \n\nDuring the evacuation, in the {{Quest|Xuanling Sings, Storm Quelled}}, it was said he awakened as a Resonator. He's recovering at Xuanfang Huaxu Academy hospital and helping out.\n\n__NOTOC__\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;At Xiangling Village altar at night\n:'''Qingdai:''' Qingzhi... Don't worry, I'll take care of Qingyan...\n:'''Qingyan:''' Rest in peace, sis... Sobs...\n\n==Character Mentions==\n;During {{Quest|Xuanling Sings, Storm Quelled}}\n:'''Zhenshu:''' How's that boy Qingyan doing?\n:'''Gaoyun:''' The Huaxu researchers say his condition is stable now. He just needs rest. That sudden Resonance Awakening took a lot out of him.\n:'''Zhenshu: '''Thank goodness... If not for that power, he and his sister would have fallen from the cliff.\n{{Dialogue End}}\n\u003c!--{{Character Mentions}}--\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Qingyan\n|zhs  = 青彦\n|zht  = 青彥\n|ja   = 青彦（セイゲン）\n|ko   = 청언\n|fr   = Qingyan\n|de   = Qingyan\n|es   = Qingyan\n|th   = Qingyan\n|pt   = Qingyan\n}}\n==Change History==\n{{Change History|3.5}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

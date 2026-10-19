@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:28Z",
+  "title": "Ludvika",
+  "pageid": 37328,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Averardo Vault\n|group            = \n|affiliation      = Montelli Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Ludvika''' is a female [[NPC]] working at the [[Averardo Vault (Instance)]]. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Ludvika:''' Hello there! Are you looking to sell any collectibles?\n:{{DIcon}} What kind of items do you collect?\n:'''Ludvika:''' Oh, all kinds. Literature from before [[The Lament|the Lament]], old currency, electronics, contemporary art, and precious metals.\n:'''Ludvika:''' [[Averardo Vault]] values anything of significance—anything that speaks to [[Ragunna]]'s past of whispers of its future.\n:'''Ludvika:''' Of course, value is subjective. Difference eyes see different worth.\n:'''Ludvika:''' So we evaluate each collectible to determine its value.\n:{{DIcon}} Sounds pretty rigorous.\n:'''Ludvika:''' Ha, you needn't worry. A few years back, we paid quite a sum for a sealed metal canister.\n:{{DIcon}} What was inside?\n:'''Ludvika:''' Nothing. We believe it's a pet food can manufactured before the Lament, but due to a production error, it was never filled with anything.\n:'''Ludvika:''' I understand your confusion. But that's precisely why we set such a high price. It's one of the last known artifacts from before the Lament.\n:'''Ludvika:''' As I said, we consider value from every angle, often going contrary to popular belief.\n:'''Ludvika:''' To us, these items are unquestionably priceless. \n:'''Ludvika:''' Enough small talk. Do you have anything you'd like us to evaluate? Artifacts? Maybe a Reserved [[Echo]]?\n:{{DIcon}} What about [[Abby]]?\n::'''Ludvika:''' ...Do you mean the Echo with human-level intelligence and communication skills?\n::'''Ludvika:''' Honestly, we've never encountered something quite like that in the Vault!\n::'''Ludvika:''' If you're willing to part with it... We'll be sure to come up with an offer you'll like!\n::You tell Ludvika you're just kidding and decline her offer. She looks a little disappointed.\n:{{DIcon}} I've got a backpack full of things I don't need.\n::'''Ludvika:''' Yes... these are rare items indeed.\n::'''Ludvika:''' But if I'm being honest, they likely hold far more personal meaning to you than they ever could to us.\n::'''Ludvika:''' We'd hate to take something so dear from you. Perhaps you'll reconsider? \n::Memories of these collectibles flash through your mind. You decide to keep them as mementos of your journey.\n:{{DIcon}} Nothing at the moment.\n::'''Ludvika:''' I understand. [[Shell Credit]]s aren't the most important things in this world.\n:'''Ludvika:''' If you ever change your mind, don't hesitate to stop by anytime.\n{{Dialogue End}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ludvika\n|zhs  = 卢德维卡\n|zht  = 盧德維卡\n|ja   = ルドヴィカ\n|ko   = 루드비카\n|fr   = Ludvika\n|de   = Ludvika\n|es   = Ludvika\n|th   = Ludvika\n|pt   = \n}}\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

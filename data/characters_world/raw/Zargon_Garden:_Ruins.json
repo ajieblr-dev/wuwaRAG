@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:16Z",
+  "title": "Zargon Garden: Ruins",
+  "pageid": 31692,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Zargon Garden: Ruins\n|image=Zargon Garden.png\n|world_map=Solaris-3\n|type=Area\n|nation=Rinascita\n|region=Avinoleum}}\n{{Quote|Once the dwelling of dragons, this place witnessed those ancient, mighty beings soaring through the sky.\nNow, wild vines and flowers steadily consume the garden's former glory while the buried history of dragons slumbers in cursed lairs.}}\n\n'''Zargon Garden: Ruins''' is an area of [[Avinoleum]], [[Rinascita]].\n\n\n== Other Languages ==\n{{Other Languages\n|en   = Zargon Garden: Ruins\n|zhs  = 札贡花园・遗址\n|zht  = 札貢花園・遺址\n|ja   = ザグーン庭園・遺跡\n|ko   = 자르곤 가든 ・ 유적\n|es   = Jardín de Zargón: Ruinas\n|fr   = Ruines du Jardin de Zargon\n|de   = Zargon-Garten: Die Ruinen\n}}\n== Change History ==\n{{Change History|2.2}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

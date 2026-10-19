@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:26Z",
+  "title": "Loong's Ridge",
+  "pageid": 9055,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Loong\u0026#39;s Ridge\n|image=Loong\u0026#39;s Ridge.png\n|world_map=Solaris-3\n|type = Area\n|nation = Huanglong\n|region = Mt. Firmament\n}}\n{{Quote|South to the Mt. Firmament aligns towering mountains, weaving a winding and tortuous course akin to a loong's body, hence its name.\nThough perilous peaks protrude along Loong's Ridge, it harbors a diverse variety of tundra inhabitants.\n\n[https://wutheringwaves.kurogames.com/m/en/main/news/detail/921 '' Wuthering Waves Official Website '']\n}}\n\n'''Loong\u0026#39;s Ridge''' is an area of [[Mt. Firmament]], [[Huanglong]]. \n\n==Other Languages==\n{{Other Languages\n|en   = Loong's Ridge\n|zhs  = 游龙脊\n|zht  = 遊龍脊\n|ja   = {{Rubi|龍脊|りゅうせき}}の尾根\n|ko   = 용의 산등성이\n|es   = Cresta de Loong\n|fr   = Crête de Loong\n|de   = Loongs Grat\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==Navigation==\n{{Location Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

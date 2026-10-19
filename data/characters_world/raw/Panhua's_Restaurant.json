@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:57Z",
+  "title": "Panhua's Restaurant",
+  "pageid": 26401,
+  "wikitext": "{{Location Infobox\n|image        = Panhua Restaurant.png\n|type         = Point of Interest\n|type2        = Restaurant\n|icon         = Icon Dialogue Restaurant.png\n|region       = Huanglong\n|area         = Jinzhou\n}}'''Panhua's Restaurant''' is a restaurant owned by [[Panhua]].\n\n==Shop==\n{{Vendor|Panhua}}\n\n==Descriptions==\n{{Description|Jinzhou's Panhua restaurant boasts open stoves and a bustling kitchen, making it the city's premier dining destination. With a steady stream of satisfied patrons, this establishment has earned a reputation as the culinary god of Jinzhou, representing its unique Huanglong food culture. Foodies flock here for delectable dishes and to immerse themselves in local gastronomy.}}\n\n==Other Languages==\n{{Other Languages\n|en   = Panhua Restaurant\n|zhs  = 攀花饭馆\n|zht  = 攀花飯館\n|ja   = 攀花食堂\n|ko   = 판화반점\n|es   = Restaurante Panhua\n|fr   = Restaurant de Panhua\n|de   = Restaurant Panhua\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{PoI Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

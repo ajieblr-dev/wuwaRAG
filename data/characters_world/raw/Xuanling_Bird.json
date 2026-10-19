@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:07Z",
+  "title": "Xuanling Bird",
+  "pageid": 62901,
+  "wikitext": "{{Stub}}\n{{Terminology Infobox\n|image        = Xuanling Bird.jpg\n|type         = Lore\n}}\n{{Description|A Remnant Creature said to carry human feelings and messages once lived in the Land of Xuanfang. It went extinct during the Fortress and Gorges War. To honor it, Artisans later built a mechanical imitation, the Rafter Kite.|Glossary}}\n'''Xuanling Birds''' were a species of [[Remnant Creature]]s that went extinct during the [[Fortress and Gorges War]]. \n\n==Overview==\n[[Xianling Village]] enshrined a longsword found on the battlefield of the Fortress and Gorges War that contains faint traces of a Xuanling Bird's frequencies.\u003cref\u003eYangyang: Xuanling's Voicelines: [[Yangyang: Xuanling/Voicelines|Chat: I]]\u003c/ref\u003e \n\n[[Yangyang: Xuanling|Yangyang]] states that she can sense the presence of the Xuanling Birds in the streams of Xuanfang and believes that, one day, the Remnant Creatures will re-emerge and fly through the skies of Xuanfang once again.\u003cref\u003eYangyang: Xuanling's Voicelines: [[Yangyang: Xuanling/Voicelines|Chat: II]]\u003c/ref\u003e\n\n==Interactables==\n* [[Story about the Painting]] \n\n==Other Languages==\n{{Other Languages\n|en      = Xuanling Bird\n|zhs     = \n|zht     = \n|ja      = \n|ko      = \n|es      = \n|fr      = \n|de      = \n|th      = \n|pt      = \n}} \n\n==References==\n{{Reflist}} \n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Interactables",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

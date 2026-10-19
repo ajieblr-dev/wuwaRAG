@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:12Z",
+  "title": "KU-Ske",
+  "pageid": 39245,
+  "wikitext": "{{stub|purpose?}}\n{{NPC Infobox\n|image            = KU-Ske.png\n|type             = Event\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Black Shores\n|title            =  \n|species          = KU-Roro\n}}\n'''{{PAGENAME}}''' is a KU-Roro found in [[Jinzhou]], [[Pioneer Association]] building. They help new players who wish to skip Main Quest Chapters by giving a Recap of the previous story. \n\n==Idle==\n:'''KU-Ske''' Stories, stories... I have so many to tell...\n:'''KU-Ske''' What would you like to hear?\n\n==Quests and Events==\n* [[Next Stop: Lahai-Roi]]\n\n==Note==\n* They're not involved with [[Next Stop: Rinascita]].\n\n== Other Languages ==\n{{Other Languages\n|en   = KU-Ske\n|zhs  = 库斯基\n|zht  = 庫斯基\n|ja   = クスキ\n|ko   = 쿠 ・ 스키\n|fr   = KU-Ske\n|de   = KU-Ske\n|es   = KU-Ske\n|th   = KU-Ske\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Note",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

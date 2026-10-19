@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:37Z",
+  "title": "Ministry of Development",
+  "pageid": 581,
+  "wikitext": "{{Stub}}\n{{Faction Infobox\n|title        = Ministry of Development\n|image        = \n|leader       = \n|base         = \n|nation       = Huanglong\n|region       = \n}}\n\nThe '''Ministry of Development''' is a ministry in [[Huanglong]].\n\nThe Ministry of Development takes on the responsibility of safeguarding the general welfare and public services.\n\n==Members==\n===Ordnance Division===\n\n===Defense Division===\n*[[Taoqi]] (Head of Border Defense)\n\n===Infrastructure Division===\n\n==Glossary==\n{{Description|The Ministry of Development serves as the engineering and construction arm of the Central Office of State Affairs.\u003cbr\u003eIt is comprised of three key divisions: the Ordnance and Defense Divisions, which handle all military applications. And the Infrastructure Division, tasked with public works and construction projects.|Glossary Excerpt}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ministry of Development\n|zhs  = 天工\n|zht  = 天工\n|ja   = 天工\n|ko   = 천공\n|es   = Ministerio de Fomento\n|fr   = Ministère du Développement\n|de   = Entwicklungsministerium\n|th   = \n|pt   = \n}}\n==Navigation==\n{{Faction Navbox}}\n[[Category:Needs Verification]]\n[[zh:天工]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ordnance Division",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Defense Division",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Infrastructure Division",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Glossary",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "7"
+    }
+  ]
+}

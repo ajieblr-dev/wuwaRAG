@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:23Z",
+  "title": "Shangwen",
+  "pageid": 2672,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Shangwen.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Shangwen''' is an NPC in {{location|Jinzhou}}. He appears in front of the [[Pioneer Association]] building, chatting with [[Qianling]].\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Qianling:''' Hi there. I heard that Pioneer Explorers are informed travelers. Maybe you can answer my friend's little question here?\n:'''Qianling:''' There's so much talk about the Magistrate's guest. My friend thinks... it's actually him!\n:'''Qianling:''' My friend's a seasoned traveler. He walks a thousand miles a day and lifts a thousand catties with his bare hands...\n:'''Shangwen:''' Hold on. You're talking about yourself, aren't you?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Shangwen\n|zhs  = 尚文\n|zht  = 尚文\n|ja   = 尚文（ショウブン）\n|ko   = 상문\n|es   = Shangwen\n|fr   = Shangwen\n|de   = Shangwen\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

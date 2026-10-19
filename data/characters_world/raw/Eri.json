@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:20Z",
+  "title": "Eri",
+  "pageid": 43214,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open World\n|nation           = \n|location         = Chronorift Metropolis\n|group            = Left Behind\n|affiliation      = Pioneer Association\n|title            = \n}}\n'''{{PAGENAME}}''' is a quest-exclusive {{Extra Effect|Left Behind|Left Behind|Citizens of Honami City who perished during the Lament and who now \"live\" inside the Sonoro Sphere in the form of Human Reverberations. Faint iridescent light flows around their bodies, and they don't seem to be aware of what really happened to them.}} NPC that was a member of the Pioneer Association who went to Honami City for fieldwork. She was unfortunately caught up by the Lament. \n\n==Quests and Events==\n\u003c!--{{Quests and Events|Eri}}--\u003e\n* [[Another Answer to Destruction]]\n* [[The Star You Once Sought]] \u003csmall\u003e(Trophy)\u003c/small\u003e\n\n==Dialogue==\n{{Dialogue Start}}\n\n\n==Mentions==\n\u003csmall\u003eMentions by NPCs at Startorch Academy\u003c/small\u003e\n:;\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Eri\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|2.8}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

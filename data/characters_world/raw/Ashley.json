@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:36Z",
+  "title": "Ashley",
+  "pageid": 38414,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Ashley.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Ashley''' is a female student of Department of Light Energy Sciences, talking about a rumor \"miko\" with her classmate, '''Stephanie'''.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Ashley:''' Hey, listen to this new rumor I heard!\n:'''Ashley:''' They say if you ever get lost alone out on the frostlands, all you have to do is hope, pray, and wait...\n:'''Ashley:''' When a white bird appears, a \"miko\" with white hair dressed in red will suddenly materialize, escort you back to the Academy, and then vanish without a trace...\n:'''Ashley:''' Magical, right? I wonder why she isn't one of the Academy's Great Mysteries?\n:'''Stephanie:''' Probably because... a few days ago, I literally saw that exact \"miko\" having tea with President [[Lucilla]] in her office.\n:'''Ashley:''' WHAT?!\n:'''Stephanie:''' She's probably just a researcher who keeps to herself. Students rarely see her.\n:'''Stephanie:''' Besides, most students don't wander into the frostlands alone, do they?\n:'''Ashley:'''  Fair, fair... but from the way they described her outfit, it's neither modern nor Royan. Where on Solaris did she come from...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ashley\n|zhs  = 艾许莉\n|zht  = 艾許莉\n|ja   = アシュリー\n|ko   = 애슐리\n|fr   = Ashley\n|de   = Ashley\n|es   = Ashley\n|th   = Ashley\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

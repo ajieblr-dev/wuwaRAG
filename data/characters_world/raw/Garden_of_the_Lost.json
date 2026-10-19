@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:43Z",
+  "title": "Garden of the Lost",
+  "pageid": 26421,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Garden of the Lost\n|image=Garden of the Lost.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Thessaleo Fells\n}}\n\n'''Garden of the Lost''' is an area of [[Thessaleo Fells]], [[Rinascita]]. \n\n==NPCs==\n{{NPCs by Location List|Garden of the Lost}}\n\n==Other Languages==\n{{Other Languages\n|en   = Garden of the Lost\n|zhs  = 失乐园\n|zht  = 失樂園\n|ja   = ロストパラダイス\n|ko   = 잃어버린 낙원\n|es   = Parque Perdido\n|fr   = Jardin des Perdus\n|de   = Verlorener Garten\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

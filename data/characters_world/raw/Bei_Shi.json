@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:43Z",
+  "title": "Bei Shi",
+  "pageid": 9446,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|name             = Bei Shi\n|image            = NPC Bei Shi.png\n|type             = Quest \n|nation           = Huanglong\n|group            = \n|affiliation      = Pioneer Association\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = Bei Ji\n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}'''Bei Shi''' is a member of the [[Pioneer Association]]. Her dream is to join the Pioneer Association like her parents but left due to a recent trauma. With the support of her brother, and the help of both Rover and [[Lingyang]], she rejoins.\n\n==Quests and Events==\n{{Quests and Events|Bei Shi}}\n\n==Other Languages==\n{{Other Languages\n|en   = Bei Shi\n|zhs  = 贝诗\n|zht  = 貝詩\n|ja   = 貝詩（カイシ）\n|ko   = 패시\n|es   = Bei Shi\n|fr   = Bei Shi\n|de   = Bei Shi\n}}\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

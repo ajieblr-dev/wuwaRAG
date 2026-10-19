@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:22Z",
+  "title": "Lili",
+  "pageid": 74686,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Huizhen Plaza\n|affiliation      = \n|affiliationNote  = \n|title = Server\n|status           = \n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is an [[NPC]] Server of [[Yuan's Flavors]] of the Xuanfang Hold branch, who manages the Restaurant when [[Fillet Fairmaiden]] is busy.\n\n{{Dialogue Start}}\n==Idle==\n:'''Lili:''' Yuan's Flavors, your flavors!\n\n==Dialogue==\n;(When working)\n:{{Icon/Quest|Dialogue Shop|20}} I want to buy some food\n:;(Open Shop)\n::'''Lili:''' Welcome to Yuan's Flavors, Xuanfang Hold branch!\n:;(Purchase)\n::'''Lili:''' Eat it while it's hot! Try it once, and you'll be coming back for more!\n::(Not enough Shell Credits)\n::'''Rover:''' (I'm running low on Shell Credits. Maybe I'll come back another time.)\n:[[File:Restaurant Map Marker.png|20px]] Prepare the cooking ingredients\n:{{DIcon}} About Fillet Fairmaiden\n::'''Lili:''' The Fillet Fairmaiden? Oh, she learned from the head chef himself from when she was a little girl! She's the best fish-slicing chef in Yuan's Flavors, and she's mastered every culinary art there is!\n::'''Lili:''' Everyone knew she'd be the next head chef, it was obvious...\n::'''Lili:''' But then one day, out of nowhere, she packed up a set of cookware and said she was heading to Xuanfang. To see where Yuan's Flavors first began.\n::'''Lili:''' Last I heard, the head chef's still waiting for her to go back to Mengzhou...\n::'''Lili:''' Ahem. That's all inside info, by the way. Keep it under your hat, kay?\n:{{DIcon|Exit}} \n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lili\n|zhs  = 篱篱\n|zht  = 籬籬\n|ja   = 籬籬（リリ）\n|ko   = 리리\n|fr   = Lili\n|de   = Lili\n|es   = Lili\n|th   = Lili\n|pt   = Lili\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:40Z",
+  "title": "Frostcrest Gladiator",
+  "pageid": 36092,
+  "wikitext": "{{Stub|images, enemy stats, drops}}\n{{Enemy Infobox\n|name=Frostcrest Gladiator\n|image=Frostcrest Gladiator Icon.png\n|dmgtype=Glacio\n|weakpoint=\n|class=Elite\n|echo=No\n|family=Human\n|group=Gladiator\n|nation=Rinascita\n|region=Septimont\n|drops=}}\n{{Description|Gladiators of Septimont who fight unrestrictedly, bearing unyielding resolve.}}{{Intro/Enemy|Frostcrest Gladiator||a=1|lang=zh=}}\n\n== Drops ==\n{{Drops|Elite Gladiator}}\n\n== Stats ==\n{{Enemy Stats|Frostcrest Gladiator}}\n\n== Trophies ==\n{{Trophies}}\n\n== Description ==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Glacio DMG|nobold=1}}.\u003cbr/\u003eGladiators of Septimont who fight unrestrictedly, side by side with Echoes, ever in pursuit of the strong.\nFrostcrest Gladiators bear unyielding resolve. Their fortitude is impervious to frost and bitter cold. Though blades may shatter, their creed endures.|Description When Discovered}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Frostcrest Gladiator\n|zhs  = 凛冠角斗家\n|zht  = 凜冠角鬥家\n|ja   = 凛冠のグラディエーター\n|ko   = 서리 관을 쓴 검투사\n|es   = Gladiadora del Yelmo Glacial\n|fr   = Gladiatrice à la Crête de Givre\n|de   = Frostkrone-Gladiator\n}}\n\n== Change History ==\n{{Change History|2.4}}\n\n== Navigation ==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

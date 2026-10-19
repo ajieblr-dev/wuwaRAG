@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:00Z",
+  "title": "Wenmo (Mengzhou)",
+  "pageid": 74663,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = NPC\n|type2            = \n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Xuanfang Ministry of Development\n|affiliation      = Ministry of Development\n|affiliationNote  = Artisan\n|status           = Alive\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Wenmo''' {{Lang|zh=椋羽}} is a Artisan seen doing maintenance on two Autopuppets. However, to the dismay of a passing [[Xun|citizen]], he is sitting down whilst doing so and is out of sight with the two odd moving Autopuppets. \n\n{{Dialogue Start}}\n==Dialogue==\n:{{DIcon}} What are you doing here?\n\n:'''Wenmo''': Oh, I'm testing the motion coordination of these two Autopuppets. They just finished maintenance two days ago. Need to run them in again.\n\n:'''Wenmo:''' Hmm... I'm not seeing any major issues. A few more days, and they should be ready to hand over to the Ministry of War.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Wenmo\n|zhs  = 闻默\n|zht  = 聞默\n|ja   = 聞黙\n|ko   = 문묵\n|fr   = Wenmo\n|de   = Wenmo\n|es   = Wenmo\n|th   = Wenmo\n|pt   = Wenmo\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

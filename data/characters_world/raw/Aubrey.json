@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:37Z",
+  "title": "Aubrey",
+  "pageid": 38416,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Aubrey.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Department of Light Energy Sciences\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Aubrey''' is a male student of the Department of Light Energy Sciences, seen lecturing his classmate, '''Hedlus'''.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Aubrey:''' So this is your new master plan for the semester?\n:'''Hedlus:''' Why? Isn't it comprehensive? \n:'''Aubrey:''' You want to juggle coursework, health, research, club activities...\n:'''Aubrey:''' ...What are you, a thousand-armed [[Chop Chop]]?\n:'''Hedlus:''' A Huanglong proverb said it best, \"Aim high and you will shoot the middle. Aim for the middle and will shoot the ground. A determined heart can achieve anything, so let your resolve take root today.\"\n:'''Aubrey:''' Funny how you skipped the part before that, \"Study now, lest you regret it later.\" How about you retake the courses you failed last semester first?\n:'''Hedlus:''' Come on, give me a break...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Aubrey\n|zhs  = 奥布里\n|zht  = 奧布里\n|ja   = オーブリー\n|ko   = 오브리\n|fr   = Aubrey\n|de   = Aubrey\n|es   = Aubrey\n|th   = Aubrey\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

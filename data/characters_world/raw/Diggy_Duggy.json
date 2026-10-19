@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:14Z",
+  "title": "Diggy Duggy",
+  "pageid": 25691,
+  "wikitext": "{{CustomTabs\n|rootpage = Diggy_Duggy\n|tab1 = Enemy\n|tab2 = Echo\n|tab3 = Common Echo\n}}\n{{Enemy Infobox\n|name=Diggy Duggy\n|image=Diggy Duggy Icon.png\n|dmgtype=Physical\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Clamorling\n}}{{Description|An incorporeal Tacet Discord inhabiting the body of a sturdy, diligent plushie.}}\n{{Intro/Enemy}}\n==Drops==\n{{Drops|Common Clamorling}}\n==Stats==\n{{Enemy Stats}}\n==Trophies==\n{{Trophies|Diggy Duggy|customheader=Diggy Duggy}}\n==Description==\n{{Description|An incorporeal Tacet Discord inhabiting the body of a sturdy, diligent plushie. He lives on trust and gratitude earned by his hardworking hands—frequencies he finds most delectable.|Description When Discovered}}\n==Other Languages==\n{{Other Languages\n|en   = Diggy Duggy\n|zhs  = 工头布偶\n|zht  = 工頭布偶\n|ja   = サクサクベア\n|ko   = 근무 인형\n|es   = Pico Pala\n|fr   = Doudou Creuse-Tout\n|de   = Diggy Duggy\n}}\n\n==Change History==\n{{Change History|2.0}} \n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:42Z",
+  "title": "Base Camp",
+  "pageid": 42014,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Base Camp\n|image     = Base Camp lvl2.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Roya Frostlands\n|region    = Solisia Landing\n}}\n\n'''Base Camp''' is an area of [[Solisia Landing]], [[Roya Frostlands]]. The camp levels up through [[Into the Land of Paradox]].\n\n==NPCs==\n{{NPCs by Location List|Base Camp}}\n\n==Gallery==\n\u003cgallery\u003e\nBase Camp.png|Base Camp Lv. 1\nBase Camp lvl2.png|Base Camp Lv. 2\nBase Camp lvl3.png|Base Camp Lv. 3\nBase Camp lvl4.png|Base Camp Lv. 4\nBase Camp lvl5.png|Base Camp Lv. 5\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Base Camp\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n}}\n\n==Change History==\n{{Change History|3.3}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

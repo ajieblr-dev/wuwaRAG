@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:24Z",
+  "title": "Exile Leader",
+  "pageid": 23024,
+  "wikitext": "{{Enemy Infobox\n|name      = Exile Leader\n|image     = Exile Leader Icon.png\n|dmgtype   = Havoc\n|weakpoint = \n|echo      = No\n|class     = Elite\n|family    = Human\n|group     = Exile\n}}\n{{Description|Leaders of the Exiles, usually found in the Exile Campgrounds. They have more combat experience and skills than the average Exiles.}}\n{{Intro/Enemy|Exile Leader}}\n\n==Drops== \n{{Drops|Elite Exile}}\n\n==Stats==\n{{Enemy Stats|Exile Leader}}\n\u003c!--\n==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Exile Leader|customheader=Exile Leader}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Havoc DMG}}.\u003cbr\u003e\u003cbr\u003eLeaders of Exile groups that oversee the allocation of resources and the arrangement of operations.\u003cbr\u003e\u003cbr\u003eMost Exiles adhere to the law of survival of the fittest, thus the Exile Leaders are often chosen through numerous intense battles.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Exile Leader\n|zhs  = 流放者首领\n|zht  = 流放者首領\n|ja   = 追放者リーダー\n|ko   = 추방자 두목\n|fr   = Chef des Exilés\n|de   = Exilführer\n|es   = Líder de los Exiliados\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

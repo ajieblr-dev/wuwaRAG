@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:26Z",
+  "title": "Shuncai",
+  "pageid": 2644,
+  "wikitext": "{{NPC Infobox\n|image            = Shuncai.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n{{Quote\n| quote = Starting a business is tough... I need more experience and have to take it step by step.\n}}\n'''Shuncai''' is a  NPC in {{location|Jinzhou}}.\nOriginally a customer, Shuncai now works with [[Panhua]] to gain experience to run his own stall.\n\n==Dialogue==\n{{Dialogue Start}}\n;(Before)\n:'''Shuncai:''' I still dream of starting a small stall...\n\n;(After)\n:'''Shuncai:''' Starting a business is tough... I need more experience and have to take it step by step.\n{{Dialogue End}}\n==Other Languages==\n{{Other Languages\n|en   = Shuncai\n|zhs  = 顺才\n|zht  = 順才\n|ja   = 順才（シュンサイ）\n|ko   = 순재\n|es   = Shuncai\n|fr   = Shuncai\n|de   = Shuncai\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

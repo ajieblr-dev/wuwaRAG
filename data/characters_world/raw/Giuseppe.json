@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:45Z",
+  "title": "Giuseppe",
+  "pageid": 27034,
+  "wikitext": "{{Meta|missing_NPC_dialogue=yes}}{{stub}}\n{{NPC Infobox\n|image            = NPC Giuseppe.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Giuseppe''' is an NPC that appears in [[City Square]], [[Ragunna]].\n\n==Quests and Events ==\n''(To be added)''\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Giuseppe:''' A perfect performance! Wonderful!\n:'''Giuseppe:''' Now this... this is true theater—\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Giuseppe:''' One day, you'll see that my mind is much more profound than those who just know how to put on a show.\n:{{DIcon}} What are you doing?\n:'''Giuseppe:''' I'm admiring the performers rehearsing an opera on the water stage. Look, Director Aynor is giving them notes.\n:'''Giuseppe:''' I hope tonight's performance goes perfectly...\n:'''Giuseppe:''' The director is right. The lead actress needs to pour more emotion into that scene.\n:{{DIcon}} You seem quite familiar with this play.\n:'''Giuseppe:''' Yes, but I still want to see it again. That's the magic of the Odyssey Opera House.\n:{{DIcon}} What do you mean?\n:'''Giuseppe:''' A stage built on water is bound to have spontaneous moments of romance.\n:'''Giuseppe:''' You'll get it once you see it—when the show reaches its peak, even the ocean seems to cheer for the amazing performance.\n:'''Giuseppe:''' You never know if you'll be met with crashing waves or schools of fish leaping across the stage today.\n:'''Giuseppe:''' The actors dance in harmony with the ever-changing scenery, perfectly matched with fleeting landscapes.\n:'''Giuseppe:''' A classic performance gets to continuously evolve and be re-imagined in nature, and that's what makes this opera house so enchanting.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Giuseppe\n|zhs  = 朱塞佩\n|zht  = 朱塞佩\n|ja   = ジュゼッペ\n|ko   = 주세페\n|es   = Giuseppe\n|fr   = Giuseppe\n|de   = Giuseppe\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

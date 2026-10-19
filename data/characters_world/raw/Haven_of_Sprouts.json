@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:50Z",
+  "title": "Haven of Sprouts",
+  "pageid": 23218,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1    = Haven of Sprouts\n|image     = Haven of Sprouts.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = The Black Shores\n|region    = Black Shores Archipelago\n}}\n'''Haven of Sprouts''' is an area of [[Black Shores Archipelago]], [[The Black Shores]]. As the living quarters of the [[Black Shores]] staff, it is tailored to reflect their tastes. From arcade machines to rare collections from around the world, anything they like can be found here.\u003cref name=\"WGV1\"\u003eArticle: [[Wutherium Geographic: Lands and Waters — The Black Shores Vol. 1]]\u003c/ref\u003e\n\n==Points of Interest==\n===\"Mysterious Door\"===\nTo make things easier for the staff, the Black Shores has installed access doors for quick travel between locations. But among the staff, a tale about a mysterious door emerges. It is said that passing through the doors in a specific way will lead you to a hidden room filled with rare treasures. Yet some claim that those who enter the room will never find their way back. To this day, the truth remains a mystery.\u003cref name=\"WGV1\" /\u003e\n\n===[[Eye of Asteria]]===\nThe eye through which the Black Shores gazes upon the stars. It monitors the [[Etheric Sea]] of [[Solaris-3]] from the Black Shores' highest vantage point.\u003cref name=\"WGV1\" /\u003e\n\n==Resources==\n\n==NPCs==\n{{NPCs by Location List|Haven of Sprouts}}\n\n==Gallery==\n\u003cgallery\u003e\nVending machines at Haven of Sprouts.png\nLounge at Haven of Sprouts.png\nWaterfall at Haven of Sprouts.png\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Haven of Sprouts\n|zhs  = 新枝地\n|zht  = 新枝地\n|ja   = スプラウツの地\n|ko   = 스프라우트 존\n|es   = Refugio de Brotes\n|fr   = Havre de germes\n|de   = Keimlingshafen\n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==References==\n\u003creferences /\u003e\n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Points of Interest",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\"Mysterious Door\"",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Eye of Asteria",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resources",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "10"
+    }
+  ]
+}

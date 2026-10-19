@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:35Z",
+  "title": "Mi'zhi",
+  "pageid": 41093,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = no\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = no\n|missing_NPC_dialogue = no\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Mi'zhi.png\n|type             = Quest\n|nation           = Huanglong\n|location         = Tiger's Maw Mine\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Mi'zhi''' is a quest-exclusive [[NPC]] in {{location|Tiger's Maw Mine}}. He first appears in the [[Side Quest]] {{Quest|The Fabled Magnetic Cube Mechanics - I}}. He is an engineer\u003cref\u003e[[Side Quest]] {{Quest|The Fabled Magnetic Cube Mechanics - I}}\u003c/ref\u003e and [[Qingshu]]'s junior.\u003cref\u003e[[Side Quest]] {{Quest|The Fabled Magnetic Cube Mechanics - II}}\u003c/ref\u003e\n\n==Quests and Events==\n{{Quests and Events|Mi'zhi}}\n\n==Other Languages==\n{{Other Languages\n|en   = Mi'zhi\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n\u003creferences /\u003e",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

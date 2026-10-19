@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:36Z",
+  "title": "Atrium of Reflections",
+  "pageid": 26418,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Atrium of Reflections\n|image=Atrium of Reflections.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Nimbus Sanctum\n}}\n\n'''Atrium of Reflections''' is an area of [[Nimbus Sanctum]], [[Rinascita]]. \n\n==NPCs==\n{{NPCs by Location List|Atrium of Reflections}}\n\n==Other Languages==\n{{Other Languages\n |en  = Atrium of Reflections\n |zhs = 咏夜歌庭\n |zht = 詠夜歌庭\n |ja  = ノクターン・ガーデン\n |ko  = 야밤의 찬송 정원\n |es  = Atrio de los Reflejos\n |fr  = Atrium des Réflexions\n |de  = Atrium der Reflexionen\n }}\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:09Z",
+  "title": "Reactor Drive",
+  "pageid": 69880,
+  "wikitext": "{{Stub|summary}}\n{{Terminology Infobox\n|title        = Reactor Drive\n|type         = Lore\n}}\n{{Description|The [[Exostrider]]'s power core and Lahai-Roi's underground \"sun.\"\u003cbr /\u003eRoyan records say this energy entity was removed from the Exostrider and placed underground to sustain the haven. However, monitoring data confirms a gradual but steady decline in its energy output. Both the Roya and the Spacetrek Collective are now formulating emergency contingencies in response.|Glossary}}\nThe '''Reactor Drive''' is the [[Exostrider]]'s power core which acts as [[Lahai-Roi]]'s underground \"sun\".\u003cref name=\"GLOSSARY\"\u003eGlossary, Reactor Drive\n:The Exostrider's power core and Lahai-Roi's underground \"sun.\"\n:Royan records say this energy entity was removed from the Exostrider and placed underground to sustain the haven. However, monitoring data confirms a gradual but steady decline in its energy output. Both the Roya and the Spacetrek Collective are now formulating emergency contingencies in response.\u003c/ref\u003e The Reactor Drive is the reason Lahai-Roi is the underground haven it is.\u003cref name=\"ACT1\"\u003e{{Quest|What Burns Beneath Frostlands}}\n:'''Ms. Voss:''' Their proliferation has limits. Take the Reactor Drive in the sky, for example. Once it's depleted, it's gone for good.\n:About the New Solar Ceremony...\n:'''Ms. Voss:''' The New Solar Ceremony will replace Lahai-Roi's \"Sun\"—the Exostrider's Drive—with one we built ourselves.\n:'''Ms. Voss:''' We do have the Exostrider's Drive to thank for this underground haven. But to fight the Threnodian, it must be re-integrated with the Exostrider.\n:'''Ms. Voss:''' That's why we're building an artificial sun. So the Drive can be restored to the Exostrider's mecha.\u003c/ref\u003e\n\n==Overview==\nMonitoring data confirms that there is a gradual but steady decline in the Reactor Drive's energy output, which both the [[Roya Tribe]] and [[Spacetrek Collective]] are formulating emergency contingencies for.\u003cref name=\"GLOSSARY\" /\u003e According to Ms. Voss, once the Reactor Drive's energy output is depleted, it's gone forever, which is why Lahai-Roi planned the New Solar Ceremony to replace the Reactor Drive with an artificial sun, thus also letting the Exostrider take back the Reactor Drive.\u003cref name=\"ACT1\" /\u003e\n\n===Hyvatia Detector===\nThe [[Hyvatia]] Detector is a critical sensor for the Reactor Drive. It's a surface detector built by the Spacetrek Collective at [[Sundermere]] for the Reactor Drive's inspection and maintenance. It's vital for the Ceremony's data calibration.\u003cref\u003e{{Quest|What Burns Beneath Frostlands}}\n:'''Mornye:''' The Void Storm has corrupted the Hyvatia Detector, a critical sensor for the Reactor Drive. It's off course and now targeting us.\n:Hy-what-tia?\n:'''Mornye:''' A surface detector built by the Spacetrek Collective for the Reactor Drive's inspection and maintenance. It's vital for the Ceremony's data calibration. And now, at the worst possible time...\u003c/ref\u003e\n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n\n==See Also==\n* [[Exostrider]] \n* [[Heliogyre]]\n\n==Other Languages==\n{{Other Languages\n|en      = Reactor Drive\n|zhs     = \n|zht     = \n|ja      = \n|ko      = \n|es      = \n|fr      = \n|de      = \n|th      = \n|pt      = \n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Hyvatia Detector",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "8"
+    }
+  ]
+}

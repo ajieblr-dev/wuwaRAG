@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:58Z",
+  "title": "Pascar",
+  "pageid": 40992,
+  "wikitext": "{{Stub|description need better summarization}}\n{{Spoiler}}\n{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = no\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = no\n|missing_NPC_dialogue = no\n}}\n{{NPC Infobox\n|image            = NPC Pascar.png\n|name             = Pascar\n|type             = Quest\n|nation           = Huanglong\n|location         = \n|group            = \n|affiliation      = \n|title            = \n|deceased         = Devoured by a Waveworn Phenomenon.\n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n{{Quote|\"I figured it all out! The Tacet Field's Frequency! Made a prototype detector too! It predicts where the Tacet Fields are forming! I-I should've kept the documents... Should've informed you...\"}}\n\n'''{{PAGENAME}}''' is a quest-exclusive [[NPC]] that appeared during the [[By Moon's Grace]] event. He is the childhood friend of [[Xiangli Yao]] and a researcher on the [[Waveworn Phenomenon]]. Devoured by a Waveworn Phenomenon he was accused of triggering, his frequency of regrets and guilt lingered for not being able to share his findings, until it resonated with Xiangli Yao and the Wishing Tree during the [[Moon-Chasing Festival]]. \n\nUnbeknownst to him, Pascar's classmates and Xiangli Yao were able to prove his innocence by piecing together his research and sharing his findings. In honor of his contribution and sacrifice, they named his theory after him; the ''Pascar Spectrum'' theory. \n\n==Pascar Spectrum Theory==\nA theory on identifying Waveworn Phenomenon frequencies and the prediction of [[Tacet Fields]] formation. It has gained global recognition and greatly advanced the studies on Tacet Fields. Research is on-going on recreating his prototype detector.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n*Pascar is referenced by [[Rover]] in the {{Quest|The Maiden, The Defier, The Death Crier}}.\n*Pascar is referenced again by [[Sevi]] in {{Quest|Rabbit Reflected in Shades}}.\n\n==Other Languages==\n{{Other Languages\n|en   = Pascar\n|zhs  = 帕斯卡\n|zht  = 帕斯卡\n|ja   = パスカル\n|ko   = 파스칼\n|fr   = Pascar\n|de   = Pascar\n|es   = Pascar\n|th   = Pascar\n}}\n\n==Change History==\n{{Change History|1.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Pascar Spectrum Theory",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

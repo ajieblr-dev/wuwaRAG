@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:16Z",
+  "title": "Ruiyun",
+  "pageid": 2326,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Ruiyun.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = Uncle Gao\n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Ruiyun''' is an NPC in {{location|Jinzhou}}.\n\n==Dialogue==\n===Daytime===\n{{Dialogue Start}}\n:'''Ruiyun:''' Ugh. All this walking back and forth in the city is such a drag. I'm just wasting my life at this point.\n:'''Ruiyun:''' And there's my dad, nagging about how the frontline's not the place for a girl like me.\n:'''Ruiyun:''' What does he know?! Just look at [[Yuzan]], she's doing pretty well, isn't she? She even got herself a promotion. I bet I can do it too!\n:'''Ruiyun:''' *sigh* When is this one heck of a boring job ever going to end...?\n{{Dialogue End}}\n\n===Nighttime===\n\u003c!-- This dialogue is transcluded from [[Uncle Gao]]'s page. Please update the script on that page. --\u003e\n{{Transclude|Uncle Gao|Nighttime}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ruiyun\n|zhs  = 瑞云\n|zht  = 瑞雲\n|ja   = 瑞雲（ズイウン）\n|ko   = 이서\n|es   = Ruiyun\n|fr   = Ruiyun\n|de   = Ruiyun\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Daytime",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Nighttime",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "5"
+    }
+  ]
+}

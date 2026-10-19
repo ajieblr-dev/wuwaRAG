@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:37Z",
+  "title": "Mech Abomination",
+  "pageid": 23002,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Mech Abomination\n|title     = \u003c!--N/A--\u003e\n|image     = Mech Abomination Icon.png\n|dmgtype   = Electro\n|weakpoint = Unknown\n|echo      = Yes\n|class     = Overlord\n|family    = Tacet Discord\n|group     = Staticoid\n|nation    = Huanglong\n|region    = Whining Aix's Mire\n|subregion = Court of Savantae Ruins\n|drops     = Group Abomination Tacet Core\n}}{{Description|A Staticoid TD that hides beneath an abandoned CSC facility, its physical form comprises a conglomerate of various objects. Threat level: Overlord Class.}}\n\n{{Lang|Mech Abomination|zh=聚械机偶}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in {{Location|Court of Savantae Ruins|nocat=1}}.\n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Group Abomination Tacet Core}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Abilities==\n\n==Trophies==\n{{Trophies|Mech Abomination|customheader=Mech Abomination}}\n\n==Tutorial==\n{{Tutorial|Mech Abomination}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Electro damage}}.\u003cbr/\u003eCreated in the CSC labs, this Mechanical TD has evolved by consuming machine wrecks. Upon discovering traces of human frequencies, it became fixated on achieving perfection and grew larger as it improved its composition. A haunting symbol of humanity's relentless pursuit of scientific advancement, its presence serves as a subtle reminder of our obsession and descent into madness.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Mech Abomination\n|zhs  = 聚械机偶\n|zht  = 聚械機偶\n|ja   = 機械アボミネーション\n|ko   = 조립식 로봇\n|es   = Abominación Mecánica\n|fr   = Abomination mécanique\n|de   = Mech-Abscheulichkeit\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "9"
+    }
+  ]
+}

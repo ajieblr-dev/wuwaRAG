@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:44Z",
+  "title": "Bertoli",
+  "pageid": 36621,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Riccioli Islands\n|group            = \n|affiliation      = \n|title            = \n}}\n\n'''Bertoli''' is a male NPC found by the lighthouse of Helm Village, [[Riccioli Islands]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Bertoli:''' Ah... I know you! Heard about you from Mr. Fulmine some time ago.\n:'''Bertoli:''' Didn't think I'd find you out here in the Riccioli Islands, though. Came for a bit of a break?\n:'''{{DIcon}}:''' I'm here to become a fishing expert.\n:'''{{DIcon}}:''' Just here for a vacation.\n:'''Bertoli:''' This place is perfect for that, I'll give you that.\n:'''Bertoli:''' You must've run into my colleague, [[Clemont]], then? He's been wandering the islands digging into the local history.\n:'''Bertoli:''' There are secrets buried here, ones even the ruins of Ragunna City have no record of. Secrets about the Sentinel and that [[Cetus the Tidebreaker]]...\n:'''Bertoli:''' Those lighthouses are the key to unlocking them, no doubt. Shame, though, the fishermen won't take us to the other two islands.\n:'''Bertoli:''' There's a legend... Say, ever seen Cetus the Tidebreaker? The creature has three gem-like holes on its back.\n:'''Bertoli:''' They say it wasn't always like that. No, it was a crew of sailors chasing it down who left those three marks on it hide.\n:'''Bertoli:''' Can you imagine... what kind of men would have the strength to leave such scars on a creature like that?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Bertoli\n|zhs  = 巴特勒\n|zht  = 巴特勒\n|ja   = バトラー\n|ko   = 버틀러\n|es   = Bertoli\n|fr   = Bertoli\n|de   = Bertoli\n}}\n==Change History==\n{{Change History|2.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:08Z",
+  "title": "Yanguang",
+  "pageid": 74685,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|affiliation      = Ministry of Development\n|affiliationNote  = Artisan\n|status           = \n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a NPC Artisan found with [[Dingan]] in [[Xuanfang Hold]], [[Mengzhou]] region. \n\n==Quests and Events==\n{{Quests and Events}}\n\n{{Dialogue Start}}\n==Idle==\n:'''Yanguang:''' These Kernel Puppets are all fixed. You can take them.\n:'''Dingan:''' Finished in one day? I thought it would take longer than that.\n\n==Dialogue==\n:'''Yanguang:''' These Kernel Puppets are all fixed. You can take them.\n\n:'''Dingan:''' Finished in one day? I thought it would take longer than that.\n\n:'''Yanguang:''' None of them had any major problems. Just dust and grime stuck in the joints from all that patrolling. A good oiling did the trick.\n\n:'''Yanguang:''' Remember to bring them in for regular upkeep. Even Autopuppets need \"rest.\"\n\n:'''Yanguang:''' Oh, right. Those other ones weren't an easy fix. Problems with their kernels. We'll need to find replacement parts before we can fix them.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yanguang\n|zhs  = 研广\n|zht  = 研廣\n|ja   = 研広\n|ko   = 연광\n|fr   = Yanguang\n|de   = Yanguang\n|es   = Yanguang\n|th   = Yanguang\n|pt   = Yanguang\n}}\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

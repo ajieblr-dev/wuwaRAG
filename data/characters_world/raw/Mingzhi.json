@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:37Z",
+  "title": "Mingzhi",
+  "pageid": 4427,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Mingzhi.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Liondance Troupe\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Mingzhi''' is an NPC Liondance Troupe member in {{Location|Jinzhou}}, near the Jinhzou Theater stage. He can be found next to [[Chie]].\n\n==Location== \n{{Map Embed|Jinzhou|94|nogroup=1}}\n\n==Quests and Events==\n{{Quests and Events|Mingzhi}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Mingzhi:''' Hey, Rover! What's up?\n:'''Mingzhi:''' Would you like to join our Liondance Troupe? Haha, just kidding.\n{{Dialogue End}}\n\n----\n===Event Dialogue===\n====By Moon's Grace====\n{{Dialogue Start}}\n;(First interaction)\n:'''Mingzhi:''' Rover! Good to see you here!\n:{{DIcon}} Hey! What brings you here?\n:'''Mingzhi:''' The Liondance Troupe performed on the commercial street earlier, on those Plum Blossom Poles, and the crowd loved it.\n:'''Mingzhi:''' So I was thinking, why not do it again at the Moonlit Fair? Everyone could give it a try.\n:'''Mingzhi:''' After all, festivals are all about having fun, right? The more, the merrier!\n----\n:{{DIcon}} Chat\n::'''Mingzhi:''' Have you ever met [[Xiuyi]], Rover? He used to perform on the commercial street.\n::'''Mingzhi:''' We're both in the Liondance Troupe. If you've seen his performances, you might recognize the Plum Blossom Pole dance.\n::'''Mingzhi:''' We haven't celebrated the Moonlit Fair in so long. This year is our chance to set up a stall to promote our troupe's services.\n::'''Mingzhi:''' Ahem... It's not just about business. It's also about introducing more people to the Liondance.\n::'''Mingzhi:''' When I get some free time, I'll show you the dance myself! I need to keep my skills sharp.\n::'''Mingzhi:''' \n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Mingzhi\n|zhs  = 明椎\n|zht  = 明椎\n|ja   = 明椎（メイツイ）\n|ko   = 명추\n|es   = Mingzhi\n|fr   = Mingzhi\n|de   = Mingzhi\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Dialogue",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "By Moon's Grace",
+      "number": "3.1.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "7"
+    }
+  ]
+}

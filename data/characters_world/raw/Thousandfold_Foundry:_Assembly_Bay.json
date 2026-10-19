@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:45Z",
+  "title": "Thousandfold Foundry: Assembly Bay",
+  "pageid": 43086,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Thousandfold Foundry: Assembly Bay\n|image     = Thousandfold Foundry Assembly Bay.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Western Fang Peaks\n}}\n\n'''Thousandfold Foundry: Assembly Bay''' is an area of [[Western Fang Peaks]], [[Huanglong]]. \n\n==NPCs==\n{{NPCs by Location List|Thousandfold Foundry: Assembly Bay}}\n\n==Other Languages==\n{{Other Languages\n|en   = Thousandfold Foundry: Assembly Bay\n|zhs  = 千形坊·构间\n|zht  = 千形坊·構間\n|ja   = 千形の工房・構成の間\n|ko   = 천형방 · 조립 구역\n|fr   = Fonderie aux mille facettes - Atelier de fabrication\n|de   = Tausendfache Gießerei: Montagebucht\n|es   = Fundición de las Mil Formas: Estación de Ensamblaje\n|th   = โรงกลพันลักษณ์ - โรงประกอบ\n|pt   = Terminal das Mil Rotas: Construção\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

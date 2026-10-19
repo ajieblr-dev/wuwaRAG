@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:02Z",
+  "title": "Wolfe",
+  "pageid": 62893,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = no\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = no\n|missing_NPC_dialogue = no\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Wolfe.png\n|type             = Open-World\n|nation           = Roya Frostlands\n|location         = Teaching Zone\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Wolfe''' is an [[NPC]] who appears during the daytime at {{Location|Teaching Zone}}.\n\n{{Dialogue Start}}\n==Idle==\n:'''Wolfe:''' So you start learning runes from a young age?\n:'''Wolfe:''' This kind of fusional language is so hard to pick up from scratch...\n\n==Dialogue==\n:'''Agacari:''' Oh, we don't actually use it for everyday talk.\n:'''Agacari:''' We only use it to communicate with the [[Exostrider]], since it's more convenient.\n:'''Agacari:''' I can teach you if you want.\n:'''Wolfe:''' No, no! I just need to know a few characters for my Archaeology final!\n:'''Wolfe:''' Linguistics is way over my head\n{{Dialogue End}} \n\n==Other Languages==\n{{Other Languages\n|en   = Wolfe\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

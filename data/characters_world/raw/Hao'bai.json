@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:50Z",
+  "title": "Hao'bai",
+  "pageid": 10255,
+  "wikitext": "{{NPC Infobox\n|name             = Hao'bai\n|image            = NPC Hao'bai.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Memento Square\n|group            = \n|affiliation      = \n|title            = \n}}\n{{Lang|Hao'bai|zh=浩白|zh_rm=Hàobái}} is an NPC in {{Location|Memento Square}}.\n\n==Location==\nHao'bai can be found in Memento Square after completing the quest [[Utterance of Marvels: II]].\n\n\u003cgallery\u003e\nNPC Location Hao'bai.png|Hao'bai's location\nNPC Location Hao'bai Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\nHao'bai is one of the engineers helping [[Yirou]] in the restoration of [[Memento Square]]. He has a more practical perspective on the restoration, believing that issues like border defense should be addressed before other, more culturally important projects like the restoration of [[Jué|Jué's]] statue. Hao'bai's feelings for Yirou are known by other members of the project,\u003cref\u003eDialogue with [[Xianfeng]]\u003c/ref\u003e though he denies them.\n\n==Quests and Events==\n{{Quests and Events|Hao'bai}}\n\n==Dialogue==\n{{Dialogue Start}}\n:{{DIcon}} Need any help?\n:'''Hao'bai:''' I hope the report I just submitted to Yirou isn't too blunt. I wouldn't want her to feel bad after reading it...\n:{{DIcon}} What's going on?\n:'''Hao'bai:''' She and I disagree about the restoration of the Sentinel statue.\n:'''Hao'bai:''' She's optimistic and idealistic. I admire her determination in launching the project.\n:'''Hao'bai:''' It's not that kind of like. Don't get me wrong!\n:{{DIcon}} It's too obvious, too!\n:{{DIcon}} ...Fine.\n:'''Hao'bai:''' ...Ahem, back to the point.\n:'''Hao'bai:''' Repairing the statue may not be our top priority, considering we have more urgent issues to address, like upgrading our border defenses.\n:'''Hao'bai:''' Well... how can I politely persuade her?\n{{Dialogue End}}\n\u003c!--\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Hao'bai\n|zhs  = 浩白\n|zht  = 浩白\n|ja   = 浩白（コウハク）\n|ko   = 호백\n|es   = Hao'bai\n|fr   = Hao'bai\n|de   = Hao'bai\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

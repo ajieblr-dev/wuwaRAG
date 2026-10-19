@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:01Z",
+  "title": "Who Are the \"Outcasts\" (Excerpt)",
+  "pageid": 39521,
+  "wikitext": "{{Terminology Infobox\n|image        = \n|type         = Lore\n|nation       = Lahai-Roi\n}}'''{{PAGENAME}}''' is a note found during [[Operation: Frontier Renewal]] and is added to its Archives, Spacetrek Observatory Files.\n\n==Text==\nAlienated by their tribes, openly rejecting tradition, or lured by an insatiable curiosity for a world they had never seen, a group of Roya set out on a path separate from their people. They began trading in Exostrider cell remnants and Exoswarm materials to fulfill their own desires.\n\nTheir actions were intolerable to the rest of the Roya. As a result, they were exiled and branded Outcasts. But they did not see this as a punishment, but a liberation, a chance to embrace their true natures. They spread across Lahai-Roi, becoming a force of unrestrained chaos. Their defiance was more than a simple rejection of tradition. They actively inverted it, mocking the old ways in every gesture, every object, and every action.\n\nThey cast aside ornaments drawn from nature, instead tearing skulls from the Exoswarm to wear as grisly masks. They reforged their Shepherd's Staffs into weapons.\n\nBut what exactly is their purpose? Some say they see themselves as the new, true branch of the Roya, striving to carve out a place in a changing world. These, however, are only rumors. In truth, the Outcasts demonstrate no unified ideology and voice no common demands. They appear consumed instead by the thrill of discovery and the hunt for the Exoswarm.\n\n==Other Languages==\n{{Other Languages\n|en   = Who Are the \"Outcasts\" (Excerpt)\n|zhs  = 关于所谓“流民”（节选）\n|zht  = 關於所謂「流民」（節選）\n|ja   = いわゆる「流れ者」について（抜粋）\n|ko   = 이른바 「유랑민」에 관하여 (발췌)\n|fr   = Qui sont les «\u0026nbsp;parias » (extrait)\n|de   = Wer sind die „Ausgestoßenen“ (Auszug)\n|es   = Quiénes son los Proscritos (Extracto)\n|th   = เกี่ยวกับที่เรียกว่า \"ผู้ลี้ภัย\" (ตัดตอน)\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Text",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

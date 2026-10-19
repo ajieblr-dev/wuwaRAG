@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:08Z",
+  "title": "Xun",
+  "pageid": 74662,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Overworld\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Xuanfang Ministry of Development\n|affiliation      = \n|affiliationNote  = \n|status           = Alive\n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a paranoid resident found looking up towards a balcony with two \"[[Wenmo|unattended]]\" Autopuppet's. \n{{Dialogue Start}}\n==Idle==\n:'''Xun:''' See that? Two Autopuppets are acting suspiciously on the rooftop.\n\n==Dialogue==\n:'''Xun:''' See that? Two Autopuppets are acting suspiciously on the rooftop.\n:{{DIcon}} What's the matter?\n:'''Xun:''' Look closer. They're looking at each other. Making small movements. They're clearly communicating.\n:'''Xun:''' They act like they just follow orders, but really... they've got minds of their own. Just like people!\n:{{DIcon}} ...\n:{{DIcon}} That doesn't sound true.\n:'''Xun:''' Ugh. You're just like my family. Nobody believes me either, but there's definitely something fishy going on with Xuanfang Hold's Autopuppets.\n:'''Xun:''' I've seen them wander off their patrol routes more than once. Then sneak back after a while. They're clearly planning something big.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xun\n|zhs  = 阿汛\n|zht  = 阿汛\n|ja   = 汛\n|ko   = 아신\n|fr   = Xun\n|de   = Xun\n|es   = Xun\n|th   = Xun\n|pt   = Xun\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

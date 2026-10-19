@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:25Z",
+  "title": "Fassdorf",
+  "pageid": 65817,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Startorch Academy\n|title            = \n}}\n'''{{PAGENAME}}''' is an Engineer who can be found near [[B.1.N.G.O.]] or the [[Synth Armament Crafting Bay]] in Startorch Academy.\n\n==Dialogue==\n{{Dialogue Start}}\n:;'''Fassdorf''' First, never act on impulse...\n:;'''Fassdorf''' Second... I'm gonna lose it! Why do people keep messing with the core protocols?!\n\n:'''Fassdorf:''' I'm gonna lose it! Why do people keep messing with the core protocols?! They can't even get the basic hierarchy right!\n:{{DIcon}} What happened?\n:{{DIcon}} ...Let's just take a breath.\n:'''Fassdorf:''' ...I'm a protocol testing engineer from the Engineering Department. I'm checking the underlying core protocols of these mechs.\n:'''Fassdorf:''' The Academy gives you templates! Why not use 'em! But no, some people just \u003ci\u003ehave\u003c/i\u003e to tinker with the core protocols to suit their whims. If that gets messed up, it can crash the mechs' systems and cause a major disaster...\n:{{DIcon|Arrow}} What are these protocols?\n::'''Fassdorf:''' Oh? It's rare to see a freshman from outside Engineering interested in this stuff. In that case, I'll give you the full breakdown! I'll skip the algorithms and just talk about the final rules.\n::'''Fassdorf:''' First, every mech has one Meta‑Protocol: In the absence of any command input, a mech must not perform any action unless that action complies with its principles.\n::'''Fassdorf:''' Every mech rolls out with pre‑programmed directives. Like genes and instincts in humans, we've given them their own \"instincts\" based on this protocol. For example…\n:{{DIcon}} A Mechascout's \"instinct\" is to keep students safe.\n:{{DIcon}} A TARD-E Unit's \"instinct\" is to prod students into getting to class on time.\n::'''Fassdorf:''' That's right! You're a bit of a smarty pants, freshman!\n::'''Fassdorf:''' Next up are our \"Three Major Protocols\"—Protocol Three: A mech must strive to preserve its own survival, so long as this does not violate Protocol One or Protocol Two.\n::'''Fassdorf:''' Protocol Two: A mech must obey human commands. If a Stargram Link is established, the linked human's commands take priority, unless they conflict with Protocol One.\n::'''Fassdorf:''' Finally, Protocol One—Protect humanity: A mech must not harm any individual human, nor, through inaction, allow any individual human to come to harm…\n::{{DIcon}} Sounds pretty thorough already?\n::{{DIcon}} Aren't there a few loophopes?\n::'''Fassdorf:''' These protocols are enough to let mechs operate freely and handle most situations.\n::'''Fassdorf:''' But in practice, new problems always pop up. Someone even wrote a whole collection of short stories about the contradictions these protocols could create!\n::'''Fassdorf:''' The Academy is considering adding a protocol that a mech must recognize itself as a machine. And one mech once proposed a Protocol Zero: A mech must protect humanity's collective interest from harm…\n::'''Fassdorf:''' But across all protocol design, one \"directive\" remains the same: protect humanity.\n::'''Fassdorf:''' But the question remains... How are we to define \"human,\" exactly?\n::'''Fassdorf:''' If someone has replaced most of their body with mechanical prosthetics, or displays extensive Tacet Discord traits... and if the very definition of \"human\" were to change, how are they supposed to judge?\n::'''Fassdorf:''' It's a long, hard road. And look... Every discussion about mech behavior rules ultimately circles back to us humans in the end...\n::'''Fassdorf:''' Maybe the very existence of mechs is also a kind of mirror we're holding up to ourselves…\n:{{DIcon|Exit}} Got it. I'll let you get back to work.\n\n{{Dialogue End}}\n\n==See Also==\n* [[Dagdir]] regarding Mechascout Operations Practice.\n* [[Qiangong]], a student trying to fix a Mechascout. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fassdorf\n|zhs  = 法斯陀夫\n|zht  = 法斯陀夫\n|ja   = ファストフ\n|ko   = 파스토프\n|fr   = Fassdorf\n|de   = Fassdorf\n|es   = Fassdorf\n|th   = Fassdorf\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

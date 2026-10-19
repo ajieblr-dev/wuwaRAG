@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:44Z",
+  "title": "Betty",
+  "pageid": 36018,
+  "wikitext": "{{NPC Infobox\n|image            = \n|name             = Betty\n|title            = \n|type             = Mentioned\n|status           = Deceased\u003cbr\u003eDied during a meteor impact hundreds of years ago.\n|affiliation      = Ostina \n\n\u003c!-- Family --\u003e\n|child            = Phrolova\n|childNote        = daughter \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Betty''' is a mentioned only [[NPC]] and the mother of [[Phrolova]]. She is first mentioned in {{Quest|Dreamcatchers in the Secret Gardens}} and others by the well in the [[Shards of the Beyond]].\n\nBetty and Phrolova often get into disagreements, but secretly bought a white dress for Phrolova to wear to her concert despite not wanting her to leave. \n\nShe is no where to be found in the [[Shards of the Beyond|Lost Beyond]]. \n\n==Other Languages ==\n{{Other Languages\n|en   = Betty\n|zhs  = 贝蒂丝\n|zht  = 貝蒂絲\n|ja   = ベティス\n|ko   = 베티\n|fr   = Betty\n|de   = Betty\n|es   = Betty\n}}\n\n==Change History==\n{{Change History|2.5}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

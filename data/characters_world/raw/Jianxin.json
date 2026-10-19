@@ -1,0 +1,100 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:06Z",
+  "title": "Jianxin",
+  "pageid": 633,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}}\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 5\n|class            = Natural\n|weapon           = Gauntlets\n|role             = Support and Healer;Heavy Attack Damage;Traction;Resonance Liberation DMG Amplification\n|attribute        = Aero\n|releaseDate      = 2024-05-23 \n\n\u003c!-- Info --\u003e\n|name             = Jianxin\n|title            = Guiding Starlance\n|gender           = Female\n|age              = \n|birthday         = April 6th\n|birthplace       = Huanglong\n|nation           = Huanglong\n|affiliation      = Jinzhou\n|affiliation2     = \n|sigil            = Mirrors of Clarity\n|dish             = Lotus Seed Soup\n|obtain           = Convene \n\n\u003c!-- VAs --\u003e\n|voiceEN          = {{w|Ioanna Kimbook}}\u003cref name=\"Jianxin Bilibili\"\u003eBilibili: [https://www.bilibili.com/video/BV1dJ4m147yj/?spm_id_from=333.1387.upload.video_card.click 《鸣潮》共鸣者「鉴心」展示PV丨特别的修行]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/%E5%BC%A0%E6%98%B1 Yu Tou ({{Lang|mini=1|zh=昱头}})]\u003cref name=\"CN-VA_KGJianxin\"\u003eOfficial Website: [https://mc.kurogames.com/main#resonators 共鸣者 瑝珑 鉴心]\u003c/ref\u003e\n|voiceJP          = {{w|Chika Anzai|Anzai Chika ({{Lang|mini=1|ja=安済知佳}})}}\u003cref name=\"Jianxin Bilibili\"/\u003e\n|voiceKR          = [https://namu.wiki/w/%EC%9D%B4%EC%9D%80%EC%A1%B0(%EC%84%B1%EC%9A%B0) Lee Eunjo ({{Lang|mini=1|ko=이은조}})]\u003cref name=\"Jianxin Bilibili\"/\u003e\n}}\n{{Quote|Release the wants, and the mind quiets. Cleanse the thoughts, and the soul clears.|Jianxin}}\n{{Intro/Resonator|Jianxin|lang=zh=鉴心}} As a {{w|Taoism|Taoist}} monk and successor to the art of {{Extra Effect|Fengyiquan|Fengyiquan|A martial art embodying Taoist wisdom, where practitioners harmonize with nature's rhythms to develop balanced strength of body and mind.}} she has dedicated her life to mastering the ultimate martial art.\n\n==Combat Overview ==\n{{Main|Jianxin/Combat}}\n===Ascension Material===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Jianxin|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}} \n\n==Other Languages==\n{{Other Languages\n|en      = Jianxin\n|zhs     = 鉴心\n|zht     = 鑒心\n|ja      = {{Rubi|鑑|カン|心|シン}}\n|ko      = 감심\n|es      = Jianxin\n|fr      = Jianxin\n|de      = Jianxin\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==References==\n{{Reflist}} \n\n==Navigation==\n{{Resonator Navbox}}\n\n[[ru:Цзянь Синь]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Material",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "3.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

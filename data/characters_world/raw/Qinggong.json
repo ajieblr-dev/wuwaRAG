@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:05Z",
+  "title": "Qinggong",
+  "pageid": 5874,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Qinggong.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Qinggong''' is an NPC in {{Location|Jinzhou}}. He appears in the [[Tutorial Quests|Tutorial Quest]] ''[[Pedestal Device]]''.\n\n==Location==\n{{Map Embed|Jinzhou|Qinggong}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Qinggong:''' The temperature is just right, and the humidity levels are stable. Even with the dark clouds looming outside the city, the weather here is perfect...\n:{{DIcon}} What are you doing?\n:'''Qinggong:''' Me? I'm observing the experiment subjects and recording data.\n:'''Qinggong:''' There was a major [[Retroact Rain]] outside the city, but it didn't affect us in here. My experimental subject is in perfect condition.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Qinggong\n|zhs  = 青恭\n|zht  = 青恭\n|ja   = 青恭（セイキョウ）\n|ko   = 청공\n|es   = Qinggong\n|fr   = Qinggong\n|de   = Qinggong\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tutorial Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

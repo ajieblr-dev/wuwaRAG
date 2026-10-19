@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:51Z",
+  "title": "Nightmare: Spec Ops Corpo",
+  "pageid": 79542,
+  "wikitext": "{{Enemy Infobox\n|name=Nightmare: Spec Ops Corpo\n|title=\n|image=Echo Nightmare: Spec Ops Corpo.png\n|dmgtype=Physical\n|weakpoint=\n|echo=No\n|class=Common\n|family=Tacet Discord\n|group=Corpo\n|nation=Roya Frostlands\n|region=Lahai-Roi\n|subregion=Somnoire: Night City\n|drops=\n}}{{Description|A Nightmare Tacet Discord that is hunting down Lucy. It can traverse between data rifts.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Corpo}}\n\n==Stats==\n{{Enemy Stats}}\n\u003c!--\n==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Nightmare: Spec Ops Corpo|customheader=Nightmare: Spec Ops Corpo}}\n\n==Description==\n{{Description|Corporate lackeys created by Nightmare: Adam Smasher from Lucy's memory. They lead the charge in corporate ops and can traverse data rifts.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Nightmare: Spec Ops Corpo\n|zhs  = 梦魇·突击公司狗\n|zht  = 夢魘·突擊企業狗\n|ja   = ナイトメア・特殊部隊コーポ\n|ko   = 악몽 · 기업(특수 부대)\n|fr   = Cauchemar : Corpo des forces spéciales\n|de   = Albtraum: Spezialeinsatz-Konzerner\n|es   = Pesadilla: Corpo de Respuesta Especial\n|th   = Nightmare: Special Response Corpo\n|pt   = Pesadelo: Corpe de Resposta Especial\n}}\n\n==Change History==\n{{Change History|3.4}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:54Z",
+  "title": "Valentina",
+  "pageid": 20666,
+  "wikitext": "{{NPC Infobox\n|image            = Valentina.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Tethys Hub\n|group            = \n|affiliation      = Black Shores\n|title            = \n}}\n'''Valentina''' is an NPC in [[Tethys Hub]], [[The Black Shores]]. She is a Bloom Bearer and the remote commander of the organization's emergency response team, a combat unit sent by the Black Shores to deal with the Waveworn phenomenon.\n\n==Quests and Events==\n\n{{Quests and Events|Valentina}}\n*[[Infinite Battle Simulation (Quest)]] (October 24, 2024-November 13, 2024)\n\u003c!--*[[Tidal Defense Simulator]] (August 30, 2025-October 08, 2025) seems it's working again--\u003e\n\n==Dialogue==\n{{Dialogue Start}}\n;(Day)\n:'''Valentina:''' You have 48 hours to assist the locals and evacuate everyone to the designated safe zones before the Lament strikes.\n:'''Valentina:''' The disaster relief will last for one week. After that, I'll issue new orders based on the situation.\n:'''Valentina:''' Report any unexpected events immediately. No unauthorized actions or disobedience will be tolerated within the emergency response team.\n:'''Emergency Response Team Member:''' Yes, Madam.\n:{{DIcon}} What's an emergency response team?\n:'''Valentina:''' It seems you're not familiar with our team. While I wait for my next communication, let me give you a quick briefing.\n:'''Valentina:''' I'm Valentina, the remote commander of the emergency response team. This is a combat unit sent by the Black Shores to deal with the Waveworn phenomenon.\n:'''Valentina:''' Every member here has been rigorously trained and selected.\n:'''Valentina:''' They're the backbone of the Black Shores, each with extensive experience in handling TDs and rescues.\n:'''Valentina:''' Final preparations are underway. This team will deploy shortly.\n:'''Emergency Response Team Member:''' Don't you worry about us, Commander! You know we've got this. We'll be back with a victory, no question about it.\n:'''Valentina:''' ...This is not the time for jokes. Stay focused.\n----\n;(Night)\n:''Valentina is communicating with the dispatched members of the emergency response team.\n:'''Valentina:''' The TD Outbreak will hit your position in 30 minutes. There's almost no time left for a rescue operation.\n:'''Valentina:''' ...\n:'''Valentina:''' Yes, your assessment is accurate.\n:'''Valentina:''' You've never been wrong, Yuri. That's why I've always trusted your judgment.\n:'''Valentina:''' I've never regretted the decisions I've made, and I hope this one won't be an exception.\n{{Dialogue End}}\n\n== Gallery ==\n\u003cgallery\u003e\nFile:Black Shores emergency response team.png|Emergency response team\n\u003c/gallery\u003e\n\n== Other Languages==\n{{Other Languages\n|en   = Valentina\n|zhs  = 瓦莲京娜\n|zht  = 瓦蓮京娜\n|ja   = ワレンチナ\n|ko   = 발렌티나\n|es   = Valentina\n|fr   = Valentina\n|de   = Valentina\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

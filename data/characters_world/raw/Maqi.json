@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:33Z",
+  "title": "Maqi",
+  "pageid": 3784,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|title            = Pioneer Association Receptionist\n|image            = PNJ Maqi.webp\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Pioneer Association\n \u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Maqi''' is an NPC in {{Location|Jinzhou}} and the receptionist for the [[Pioneer Association]] [[Jinzhou]] branch. \n\nPlayers can speak to her to view their [[Pioneer Association/Exploration Progress|Exploration Progress]] and claim rewards. \n\u003c!--\n==Location==\n\u003cgallery\u003e\nNPC Location Maqi.png|Maqi's Location\nNPC Location Maqi Context.png|Additional Context\n\u003c/gallery\u003e \n\n==Profile==\n--\u003e\n==Quests and Events==\n{{Quests and Events}}\n==Dialogue== \n{{Dialogue start}}\n:'''Maqi:''' Here is to a world of discoveries and wonder! Hello! Welcome to the Pioneer Association's Jinzhou branch.\n:{{DIcon}}About my Exploration Progress.\n::'''Maqi:''' Thank you. Please wait while the system is establishing the connection to your terminal.\n::(Opens Huanglong Exploration Progress.)\n:{{DIcon}}About the Pioneer Association.\n::'''Maqi:''' The Pioneer Association, originally known as the Universal Geographic Society, believes in the core values of exploring and understanding the world.\n::'''Maqi:''' As we reconstruct the civilization to its former prosperity, the Pioneer Association brings back from the field signs that proves the world is getting better.\n::'''Maqi:''' Witness the future that humanity is heading into with geographic documentation.\n:{{DIcon}} About yourself.\n::'''Maqi:''' Me? I am the receptionist at the Jinzhou branch, responsible for receiving Pioneer members in the Jinzhou area and recruiting more members.\n::'''Maqi:''' By the way, the pre-sale of the new merch of the Ploneer Association has started. You can place orders now if you find anything you like.\n::'''Maqi:''' May the world unfold before your eyes, looking forward to seeing you next time.\n:{{DIcon|Exit}} Leave.\n{{Dialogue end}}\n\n==Gallery==\n===Official Art===\n\u003cgallery\u003e\nPioneer Association Promo.jpg|Promo Art\nPioneer Association Promo Textless.jpg|Promo Art - Textless\nFile:Maqi Secret Tunes 2024-02-03.jpg|Secret Tunes\n\u003c/gallery\u003e\n=== Videos===\n\u003cgallery\u003e\nPioneer Podcast- Special Program of Insider Channel\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Maqi\n|zhs  = 马琪\n|zht  = 馬琪\n|ja   = 馬琪（マキ）\n|ko   = 마치\n|es   = Maqi\n|fr   = Maqi\n|de   = Maqi\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tutorial Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Official Art",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "7"
+    }
+  ]
+}

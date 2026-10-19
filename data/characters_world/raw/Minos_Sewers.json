@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:38Z",
+  "title": "Minos Sewers",
+  "pageid": 36350,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Minos Sewers\n|image     = Minos Sewers.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Rinascita\n|region    = Septimont}}\n\n'''Minos Sewers''' is an area of [[Septimont]], [[Rinascita]].\n\n== NPCs ==\n{{NPCs by Location List|Minos Sewers}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Minos Sewers\n|zhs  = 弥诺斯地下水道\n|zht  = 彌諾斯地下水道\n|ja   = ミーノース地下水路\n|ko   = 미노스 지하 수로\n|es   = Cloacas de Minos\n|fr   = Égout de Minos\n|de   = Minos Abwasserkanäle\n}}\n\n== Change History ==\n{{Change History|2.4}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

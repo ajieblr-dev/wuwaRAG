@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:39Z",
+  "title": "Avinoleum: Inverted Seminary",
+  "pageid": 31932,
+  "wikitext": "{{Stub}}\n\n{{Location Infobox\n|title=Avinoleum: Inverted Seminary\n|image=Inverted Seminary.png\n|world_map=Solaris-3\n|type=\n|nation=Rinascita\n|region=Avinoleum}}\n\n{{Quote|A seminary faintly visible through a thin veil of clouds. Suspended upside down in the sky, it stands solemn and silent, as though carrying the weight of the Blessed Maiden's life.}}\n\n'''Avinoleum: Inverted Seminary''' is an area of [[Avinoleum]], [[Rinascita]].\n\n\n== Other Languages ==\n{{Other Languages\n|en   = Avinoleum: Inverted Seminary\n|zhs  = 阿维纽林・倒悬神殿\n|zht  = 阿維紐林・倒懸神殿\n|ja   = アヴィノレーム・逆さまの神殿\n|ko   = 아비놀륨 ・ 거꾸로 선 신전\n|es   = Avinoleum: Seminario inverso\n|fr   = Avinoleum - Temple inversé\n|de   = Avinoleum - Umgekehrter Tempel\n}}\n== Change History ==\n{{Change History|2.2}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

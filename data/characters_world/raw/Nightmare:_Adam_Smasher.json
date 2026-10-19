@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:46Z",
+  "title": "Nightmare: Adam Smasher",
+  "pageid": 41227,
+  "wikitext": "{{CustomTabs\n|subpages=0\n|tab1=Nightmare: Adam Smasher\n|tab1name=Enemy\n|tab2=Reminiscence - Nightmare: Adam Smasher\n|tab2name=Echo}}\n{{Enemy Infobox\n|name     = Nightmare: Adam Smasher\n|title    = \n|image    = Nightmare Adam Smasher Icon.png\n|echo     = Yes\n|dmgtype  = Physical\n|class    = Overlord\n|family   = Tacet Discord\n|nation   = Roya Frostlands\n|region   = Etching Plains\n|drops    = Nightmare Flashdrive\n|variants = }}\n{{Description|A Nightmare Tacet Discord that is hunting Lucy down. The data torrent that envelopes its body scrambles sensors and offers immunity to most attacks from Resonators.}}\n{{Lang|Nightmare: Adam Smasher|zh=}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]''. \n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Nightmare Flashdrive}}\n\n==Stats==\n{{Enemy Stats}}\u003c!--\n\n==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Nightmare: Adam Smasher|customheader=Nightmare: Adam Smasher}} \n\n==Description==\n{{Description|When inflicted with Hack - Shifting, Nightmare: Adam Smasher deals 20% more Total DMG for 15s. He takes 60% more Total Hack DMG.\u003cbr\u003e\u003cbr\u003eA nightmare born of Lucy's deepest fears, taking form as the legendary mercenary Adam Smasher.\u003cbr\u003e\u003cbr\u003eAs Arasaka's most notorious hit-man, Adam Smasher has replaced much of his biological human side with cyberware, giving him strength far surpassing any ordinary merc. Now, as a Nightmare, he guards the gateway to the Dreamscape, barring all entry to the deepest reaches of the Somnoire.|Description when discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Nightmare: Adam Smasher\n|zhs  = 梦魇亚当·重锤\n|zht  = 夢魘亞當·碎骨\n|ja   = ナイトメア・スマッシャー\n|ko   = 악몽 아담 · 스매셔\n|fr   = Cauchemar : Adam Smasher\n|de   = Albtraum: Adam Smasher\n|es   = Pesadilla: Adam Smasher\n|th   = Nightmare: Adam Smasher\n|pt   = \n}}\n\n==Change History==\n{{Change History|3.4}}\n\n==Navigation==\n{{Enemy Navbox}}\n[[zh:梦魇亚当・重锤]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

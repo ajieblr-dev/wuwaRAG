@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:34Z",
+  "title": "Soulfrayer",
+  "pageid": 79537,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Soulfrayer\n|title=\n|image=Soulfrayer Icon.png\n|dmgtype=Electro\n|weakpoint=\n|echo=Yes\n|class=Elite\n|family=Tacet Discord\n|group=Autopuppet\n|nation=Huanglong\n|region=Mengzhou\n|subregion=Simulacrum Nexus of Mengzhou\n|nightmare=no\n|drops=\n}}{{Description|An Autopuppet forged by Suhsin the Inevitable, silent as the abyss.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Elite Autopuppet}}\n\n==Stats==\n{{Enemy Stats}}\n\u003c!--\n==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Soulfrayer|customheader=Soulfrayer}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Electro DMG}}.\u003cbr/\u003e\u003cbr/\u003eHaving seized part of Hsin's authority, Suhsin the Inevitable replicated Hsin's method for making Kernel Puppets and built one solely for war, the Soulfrayer.\u003cbr/\u003e\u003cbr/\u003eSlender with a sleek design, it wanders the Heart of Frost to no purpose, a graceful figure receding into snowfall, seemingly indifferent to the world. But let one cross paths with an Autopuppet of Hsin's making, or a Celestial at work rebuilding the Civilization Capsule, and it will let loose arrows drawn from stagnant anomalies.\u003cbr/\u003e\u003cbr/\u003eContrast to the Formrender's violent design, though, the Soulfrayer is silent and sluggish. The two have never fought well together, a rift not even Suhsin the Inevitable has managed to close.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Soulfrayer\n|zhs  = 绝息魄\n|zht  = 絕息魄\n|ja   = 息絶えの亡霊\n|ko   = 절식백\n|fr   = Écorchâme\n|de   = Seelenschinder\n|es   = Desgarralmas\n|th   = Soulfrayer\n|pt   = Desfia-Alma\n}}\n\n==Change History==\n{{Change History|3.7}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

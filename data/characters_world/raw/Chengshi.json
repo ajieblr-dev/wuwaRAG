@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:57Z",
+  "title": "Chengshi",
+  "pageid": 22077,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = Chengshi.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Bank of Life\n|group            = \n|affiliation      = Black Shores\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Chengshi''' is an NPC in the [[Bank of Life]], [[The Black Shores]]. She is a plant breeder at the [[Black Shores]].\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events|Chengshi}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Talk to Chengsi)\n:'''Chengsi:''' Hello, what brought you here? Did something happen to the biological tanks?\n:{{DIcon}} What is a biological tank?\n:'''Chengsi:''' You don't know that? Oh, you must be the new Bloom Bearer! I'm Chengsi, the plant breeder here at the Black Shores.\n:'''Chengsi:''' In those tanks, we're cultivating a special plant called \"Mambo grass.\" It's closely connected to the Tethys' Space Anchors.\n:'''Chengsi:''' You've probably seen the four giant Anchors that help neutralize the [[Tacetite]]'s frequencies.\n:'''Chengsi:''' If something goes wrong with the Anchors, the frequencies can become unstable.\n:'''Chengsi:''' That's where the Mambo Grass comes in. It's super sensitive to even the slightest changes in frequencies and reacts by moving its leaves, almost like it's dancing.\n:'''Chengsi:''' The tanks are set up to detect these movements and send alerts to the nearest engineers and KU-Roros.\n:{{DIcon}} What if there are noises nearby...\n:'''Chengsi:''' Don't worry. The tanks filter out any random disturbances, so the Mambo Grass won't react to just any noise.\n:'''Chengsi:''' Wait, is that why you're lowering your voice?\n:'''Chengsi:''' No need for that! You can speak at a normal volume.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Chengshi\n|zhs  = 成诗\n|zht  = 成詩\n|ja   = 成詩（チォンシー）\n|ko   = 성시\n|es   = Chengshi\n|fr   = Chengshi\n|de   = Chengshi\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

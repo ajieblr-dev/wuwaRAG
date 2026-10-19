@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:33Z",
+  "title": "Marianne",
+  "pageid": 28147,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Marianne.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Fool's Elysium\n|group            = \n|affiliation      = Troupe of Fools\n|title            = \n}}\n'''Marianne''' is a female NPC who appears in [[Fool's Elysium]].\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Marianne:''' Who taught this to the Fae Ignis...\n\n==Dialogue==\n;(First interaction)\n:'''Leo:''' Wow! Cool! Let me listen!\n:'''Cratos:''' Leo! No! Good children shouldn't learn that! Ugh, I'll need to figure out how to separate it from the rest of the Fae Ignises...\n:{{DIcon}} What happened?\n:'''Marianne:''' Well, this Fae Ignis somehow picked up some foul language, and it just can't stop using it.\n:'''Angry Fae Ignis:''' *Ragunna curse* the Order! You're a *Ragunna curse* coward! Coward! Liar! Liar!\n:'''Marianne:''' See? Just like that.\n:'''Angry Fae Ignis:''' Coward! Coward! Coward!\n:'''Marianne:''' I really don't know where it learned that. Could it be that these words were the reason the Order banished it?\n:'''Angry Fae Ignis:''' The Order! Liar! Liar! Liar!\n----\n;{{Spoiler}}\n;(First interaction after {{Quest|Dawn Breaks on Dark Tides}})\n:'''Angry Fae Ignis:''' People of Ragunna! Confront the Dark Tide and protect our people! Give it your all for Ragunna! Protect the Dark Tide!\n:'''Leo:''' No, no, that's not how it goes. It's \"Confront the Dark Tide and protect our people.\" \n:'''Cratos:''' Leo, you too? Now you're trying to teach it as well?\n:'''Cratos:''' Sigh... Well, I suppose that's still better than what it said before.\n:'''Marianne:''' Leo, are you done? I want to teach it something else next...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Marianne\n|zhs  = 玛丽安\n|zht  = 瑪麗安\n|ja   = マリアン\n|ko   = 마리안\n|es   = Marianne\n|fr   = Marianne\n|de   = Marianne\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

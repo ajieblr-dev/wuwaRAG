@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:19Z",
+  "title": "Laurence",
+  "pageid": 35973,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Laurence and Alma.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont\n|location2        = Capitoline Hill\n}}\n'''{{PAGENAME}}''' is a male NPC Septimontian who can be found with '''Alma''' or alone by the cable cars in Septimont, [[Capitoline Hill City]]. \n\n==Dialogue==\n{{Dialogue Start}}\n;(Idle from Unnamed NPC near by, Afternoon)\n:;Why is that [[Buling|foreign girl]] in strange clothing riding the cable car over and over again? Hasn't she seen enough of the city?\n\n;(Idle, Afternoon)\n:;'''Laurence''' (Here goes nothing. I need to confess to Alma on the cable car. Today! But... will I have the guts to say it?)\n\n;(Talk to Laurence, Afternoon)\n:'''Alma''': The cable car again? Why do we ride the cable car at the end, every time we go out together?\n:'''Alma''': Last time, you said you didn't get enough of the scenery on the left side. And then one other time, you said you couldn't line up a shot of me with the Colosseum in the background. What is it this time?\n:'''Laurence''': I, uhm... I felt like doing some sea watching from someplace place {sic} today... I-Is that okay with you?\n:'''Alma''': Yeah, I suppose.\n----\n;(Idle from Unnamed NPC near by, Night)\n:;She's not the only one. That young couple spends their nights on cable cars.\n:;Is there something particularly alluring about cable cars that I've missed, even after decades living in Septimont?\n\n;(Idle, Night)\n:;'''Alma''' He comes here even at night? Oh, Laurence, just how much are you in love with cable cars?\n:;'''Alma''' I see. From now, I won't say another word again if he wants to go on cable car rides. Everyone's allowed freedom to their own interests.\n\n:;'''Laurence''' And we said goodbye right after a cable ride again. She probably thinks I'm a cable car freak by now. I wanted to confess to her!\n\n:(Talk to Laurence, Night)\n:'''Laurence''': And we said goodbye right after a cable ride again. She probably thinks I'm a cable car freak by now. I wanted to confess to her!\n:'''Laurence''': Umm... Alma... I.... Uhh. I like...\n----\n;(After completing 2.6 Main Act; [[By Sun's Burning Hand]])\u003c!--may need verification--\u003e\n;(Day)\n:'''Alma''': All this time, you wanted to say you love me while on the cable car? You could've done this earlier.\n:'''Laurence''': I was afraid you'd turn me down, and the cable car felt like a good spot to do it.\n:'''Laurence''': After all these rides, I found out that the perfect moment to do it is when we crest the mountain top with the sea slowly coming into view. Romantic, isn't it?\n:'''Alma''': Yes, yes. I don't deny that. But just so you know, I wouldn't said yes no matter where you did it, dummy.\n:'''Laurence''': Oh, Alma...\n----\n;(After completing 2.6 Main Act; [[By Sun's Burning Hand]])\u003c!--may need verification--\u003e\n;(Night)\n:'''Alma''': By the way, I noticed you walking in circles here ever day.\n:'''Alma''': And I was wondering, how on Solaris could someone be so obsessed with cable cars? But turns out you were practicing for your confession, weren't you?\n:'''Laurence''': Oh, you saw that... I ... Err....\n:'''Alma''': Don't be shy about it. I'm really happy how deeply you value our relationship.\n:'''Laurence''': Whimpers. Alma!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Laurence\n|zhs  = 洛伦兹\n|zht  = 洛倫茲\n|ja   = ローレンツ\n|ko   = 라우렌스\n|es   = Laurence\n|fr   = Laurence\n|de   = Laurence\n}}\n\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

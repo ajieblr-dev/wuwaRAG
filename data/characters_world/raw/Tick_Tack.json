@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:49Z",
+  "title": "Tick Tack",
+  "pageid": 23046,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Tick Tack\n|title=\n|image=Tick Tack Icon.png\n|dmgtype=Havoc\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Whisperin\n|nation=\n|region=\n|subregion=\n|drops=\n}}{{Description|A Common Class Whisperin TD widely distributed in the wild. It can wield a small amount of Havoc energy for attacks.}}\n\n{{Intro/Enemy|a=1|lang=zh=呜咔咔}}\n\n==Drops== \n{{Drops|Common Whisperin}}\n\n==Stats==\n{{Enemy Stats|Tick Tack}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Tick Tack|customheader=Tick Tacks}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Havoc damage}}.\u003cbr/\u003eAn immature humanoid Tacet Discord. Maybe imitating the clacking of teeth of human laughter, they always make sounds of \"tick tack\" whenever they encounter humans.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Tick Tack\n|zhs  = 呜咔咔\n|zht  = 嗚咔咔\n|ja   = ウカカ\n|ko   = 우글글\n|es   = Tic Tac\n|fr   = Tic Tac\n|de   = Tick Tack\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

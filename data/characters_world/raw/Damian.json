@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:08Z",
+  "title": "Damian",
+  "pageid": 28211,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Damian.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Whisperwind Haven\n|group            = \n|affiliation      = \n}}\n\n'''Damian''' is a receptionist of Sorrentino Inn, owned by his uncle, [[Cosimo]] Sorrentino. Like many youths of Egla town, he also idolized knights. He is childhood friends with [[Carlow]]. \n\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Damian:''' Hello, friend from afar, and welcome to the Sorrentino Inn.\n:'''Damian:''' I'm Damian, the receptionist, but also the acting innkeeper for now. We currently have several rooms available, and you're welcome to stay anytime.\n:{{DIcon}} Could you tell me about this inn?\n::'''Damian:''' Certainly! The Sorrentino Inn is century-old establishment in Egla Town, currently owned by Mr. Cosimo Sorrentino.\n::'''Damian:''' The inn features decor that reflects the unique style of Egla Town, offering guests aromatic dried herbs from the [[Fagaceae Peninsula]] and sweet treats falvored with [[Viscum Berry|Viscum Berries]]. By the way, during the Carnevale, we provide shuttle  services to and from Ragunna City, and long-term stays come with additional discounts. \n::'''Damian:''' In addition, we offer a signature breakfast service featuring freshly baked bread and cheese from [[Burrata Bakery]] each morning.\n:{{DIcon}} Why did you become the receptionist here?\n::'''Damian:''' Cosimo is my uncle and the owner of this inn. Have you had the chance to meet him yet?\n::'''Damian:''' As for why... Perhaps it's just like that line from the knight's tale...\n::'''Damian:''' \"I may not have dreams of my own, but I can protect the dreams of others.\"\n::'''Damian:''' My calling is to fulfill my duties and provide others with an excellent experience staying here.\n:{{DIcon}} Thanks. That's all I need.\n::'''Damian:''' Safe travels, friend from afar. You're always welcome at the Sorrentino Inn.\n::'''Damian:''' \n----\n;(After completing the side quest, [[The Last Knight]])\n;(Idle)\n:{{DIcon}}Alright, my first time leaving Egla Town... Ugh, still a bit nervous after all.\n:{{DIcon}}Stay calm, Damian. Calmness and bravery are a knight's virtues... No way I should lose to Carlow.\n;(Chat)\n:'''Damian:''' Hello, {{Rover}}! I didn't expect to see you here!\n:'''Damian:''' I'm currently on vacation, but if you need to book a room, you can contact Uncle Cosimo directly.\n:{{DIcon}}: Where are you headed?\n::'''Damian:''' For my first stop... I'm heading to Ragunna City to admire the Cathedral and the statue of Sentinel Imperator.\n::'''Damian:''' After that, I plan to explore the legendary sites where the knights were knighted. Carlow mentioned that s omewhere in Rinascita, the legendary sword still stands, year after year, waiting for its master to return...\n:{{DIcon}}: Do you really dislike Carlow?\n::'''Damian:''' No, even though we often argued when we were kids, I've always admired Carlow for openly sharing his dreams of becoming a knight.\n::'''Damian:''' The Night Reveries' conclusion left me a bit surprised by his change... so I gathered the courage to approach Uncle Cosimo with my request.\n::'''Damian:''' I was surprised when he readily agreed, saying that young people should always go out and see the world.\n:{{DIcon}}: Have a wonderful journey, see you soon!\n::'''Damian:''' Goodbye, {{Rover}}. May you find what you seek on your journey. \n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Damian\n|zhs  = 达米安\n|zht  = 達米安\n|ja   = ダミアン\n|ko   = 데미안\n|es   = Damian\n|fr   = Damian\n|de   = Damian\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

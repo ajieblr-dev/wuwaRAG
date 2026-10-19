@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:48Z",
+  "title": "Grimas",
+  "pageid": 62894,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = no\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = no\n|missing_NPC_dialogue = no\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Grimas.png\n|type             = Open-World\n|nation           = Roya Frostlands\n|location         = Teaching Zone\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Grimas''' is an [[NPC]] who appears during the daytime at {{Location|Teaching Zone}}.\n\n{{Dialogue Start}}\n==Idle==\n:'''Bersik:''' Want to go for a ride with the guys this afternoon?\n:'''Grimas:''' No, thanks. I still have courses to crash.\n\n==Dialogue==\n:'''Bersik:''' How do you have so many classes to go to? Let me see that—\n:'''Bersik:''' Since when did you transfer to [[Rabelle College]]?!\n:'''Grimas:''' What do you mean? I'm just sitting in on their classes\n:'''Bersik:''' Hate to break it to you, but sitting in on that many lectures isn't gonna turn you into a Synchronist.\n:'''Grimas:''' How do you know I won't learn something?!\n:'''Grimas:''' Besides, if a Synchronist can handle it, so can I!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Grimas\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

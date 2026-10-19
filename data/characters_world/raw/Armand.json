@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:36Z",
+  "title": "Armand",
+  "pageid": 30494,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Ragunna\n|location         = Vault Underground\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n'''Armand''' is a worker for the [[Averardo Vault]] Underground. He can be found talking his coworker [[Colt]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Colt:''' I'm telling you, there's something wrong with that statue we dropped off...\n:'''Colt:''' How is the whole thing still intact, except for a scratch on the base? Could it be some kind of trigger for a nobleman's hidden chamber?\n:'''Colt:''' And the statue itself... [[Frostscourge Stalker|Frostscourge Stalkers]] are symbols of death and vengeance, you know! Maybe there's a rebellion brewing in that secret chamber...\n:'''Armand:''' Oh, shut it. If you've got time for daydreaming, go take up volunteering at the Order.\n:'''Colt:''' Ah, you're no fun.\n:'''Colt:''' We haul these treasures down the express every day. It's a golden opportunity to uncover all the nobles' dirty little secrets.\n:'''Armand:''' You know the vault monitors everything, right? Cameras and audio, all synced to record every word you say.\n:'''Colt:''' So what?\n:'''Armand:''' What I'm saying is, they're watching the items... and listening to you.\n:'''Armand:''' And if you so much as slip and reveal one of their \"secrets\"? Well, that could turn very ugly for you. \n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Armand\n|zhs  = 阿尔芒德\n|zht  = 阿爾芒德\n|ja   = アルマンド\n|ko   = 아르망드\n|es   = Armand\n|fr   = Armand\n|de   = Armand\n}}\n\n==Change History==\n{{Change History|2.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

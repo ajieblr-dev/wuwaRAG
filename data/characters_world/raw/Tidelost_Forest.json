@@ -1,0 +1,100 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:48Z",
+  "title": "Tidelost Forest",
+  "pageid": 39572,
+  "wikitext": "{{Location Infobox\n|title  = Tidelost Forest\n|image  = Tidelost Forest.png\n|type   = Region\n|map    = Solaris-3\n|nation = Roya Frostlands\n}}\n{{Intro/Location|Tidelost Forest}}\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Exostrider Observation Station\"\n|[[Exostrider Observation Station]]\n|[[File:Exostrider Observation Station.png|180px]]\n|An observation station where members of the Roya Tribe and Spacetrek Collective anticipate the day of the Exostrider's awakening.\n|- id=\"Everfrost Cavern\"\n|[[Everfrost Cavern]]\n|[[File:Everfrost Cavern.png|180px]]\n|Ruins of a field research station, kept safe from harm, frozen in the ice.\n|- id=\"Wavecleave Cape\"\n|[[Wavecleave Cape]]\n|[[File:Wavecleave Cape.png|180px]]\n|Raging waves go no further here, hence the name Wavecleave Cape.\n|- id=\"Exostrider Slumber Site\"\n|[[Exostrider Slumber Site]]\n|[[File:Exostrider Slumber Site.png|180px]]\n|The colossal mech Exostrider watches over the Roya, awaiting the day it must confront the Threnodian Aleph-1 once more.\n|}\n\n==Quests==\n{{Quest by Category List|Tidelost Forest Quests}}\n\n==Exploration Report==\n===Conversation Record with A Solsword (Excerpt)===\n* Achieve 50% Area Exploration Progress to unlock the full report. \n\n{{Transclude|Conversation Record with A Solsworn (Excerpt)|Text|main=1}}\n\n===Summary of the Conversation with A Solsworn===\n* Achieve 100% Area Exploration Progress to unlock the full report. \n\n{{Transclude|Summary of the Conversation with A Solsworn|Text|main=1}}\n\n==Notable Features==\n===Challenges===\n* [[Frostlands Surface - Void Storm Zone I]]\n* [[Frostlands Surface - Void Storm Zone II]]\n\n===Bosses===\n*{{Enemy|Sigillum}}\n\n===Enemies===\n*{{Enemy|Kronablight}}\n*{{Enemy|Glommoth}}\n*{{Enemy|Flora Reindeer}}\n*{{Enemy|Mining Reindeer}}\n*{{Enemy|Iceglint Dancer}}\n\n===Resources===\n*{{Item|Foxtail Kelp}}\n\u003c!--\n==Descriptions==\n{{Description|A sacred homeland of the Roya and the habitat of the Soliskin. Bathed in the radiance of the Reactor Drive, its towering trees reach hungrily toward the light, their deep, interwoven roots returning that energy to the earth.|Official Website}}\n\n==Trivia==\n--\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Tidelost Forest\n|zhs  = 覆海原\n|zht  = 覆海原\n|ja   = タイドロスト・フォレスト\n|ko   = 타이드로스트 숲\n|fr   = Forêt des Flux perdus\n|de   = Verlorener Gezeitenwald\n|es   = Bosque de Mareas Perdidas\n|th   = ทุ่งทุนดราคลุมสมุทร\n}}\n\n==Change History==\n{{Change History|3.1}} \n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Conversation Record with A Solsword (Excerpt)",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Summary of the Conversation with A Solsworn",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Enemies",
+      "number": "4.3",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.4",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "13"
+    }
+  ]
+}

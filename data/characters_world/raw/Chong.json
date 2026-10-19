@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:58Z",
+  "title": "Chong",
+  "pageid": 74682,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Xuanfang Huaxu Academy\n|affiliation      = Xuanfang Huaxu Academy\n|affiliationNote  = Physician\n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a NPC Physician for [[Xuanfang Huaxu Academy]] who only works at night.\n\n{{Dialogue Start}}\n==Idle==\n:'''Chong:''' Strange. Where did my pen go? I even wrote my name on it...\n:'''Chong:''' Must've dropped it. A [[Smeltguard]] probably snatched it off the ground...\n\n==Dialogue==\n:'''Chong:''' Here for medicine or a consult? For a consult, see Doctor Fuchang at the triage desk. For medicine, you can give me your prescription.\n\n:{{DIcon}} Eh? Are you new here?\n\n:{{DIcon}} Isn't it Doctor Chi during the day?\n\n:'''Chong:''' Oh, you're looking for Chi. I'm in charge of meds during the night shift. If you're looking for him, come back during the day.\n\n:{{DIcon}} So you work shifts.\n\n::'''Chong:''' Can't be helped. It's too much work for one person to handle alone.\n\n:{{DIcon}} Night shifts must be rough.\n\n::'''Chong:''' Not at all. I actually prefer it. Fewer patients, and it's much slower than daytime hours.\n\n:'''Chong:''' He takes the day, I take the night. The two of us splitting the load works out well enough.\n\n:'''Chong:''' Of course, if we could have a day with no patients, that'd be even better...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==See Also==\n* [[Fuchang]] - Co-Worker\n* [[Jin]] - Co-Worker\n\n==Other Languages==\n{{Other Languages\n|en   = Chong\n|zhs  = 重\n|zht  = 重\n|ja   = 重\n|ko   = 중이\n|fr   = Chong\n|de   = Chong\n|es   = Chong\n|th   = Chong\n|pt   = Chong\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:09Z",
+  "title": "Danvers",
+  "pageid": 31450,
+  "wikitext": "{{NPC Infobox\n|name             = Danvers\n|title            = The Silver Helmet\n|image            = NPC Danvers.png\n|type             = Open-World\n|realname         = \n|nation           = Rinascita\n|location         = Septimont\n|group            = Gladiator\n|affiliation      = Gladiator\n|affiliationnote  = Former\n}}\nA former Gladiator, '''{{PAGENAME}}''' is the owner of '''The Silver Helmet''' [[shop]] in {{Location|Capitoline Hill City}}. \n\n==Location==\n\u003cgallery\u003eThe Silver Helmet Location.png\u003c/gallery\u003e\n\n==Quests and Events==\n{{Quests and Events}} \n\n==Shop==\n{{Shop/Wrapper|\n{{Shop|Oaknut|500|30|total=1}}\n{{Shop|Amber Halite|500|30|total=1}}\n{{Shop|Heliobane Fungia|500|30|total=1}}\n{{Shop|Sunflare Everlasting|500|30|total=1}}\n{{Shop|Felicitous Olives|500|30|total=1}}\n{{Shop|Bamboo Iris|3,000|15|total=1}}\n{{Shop|Bloodleaf Viburnum|3,000|15|total=1}}\n{{Shop|\"Afterlife\"|3,000|15|total=1}}\n{{Shop|Luminous Calendula|3,000|15|total=1}}\n{{Shop|Sliverglow Bloom|3,000|15|total=1}}\n{{Shop|Stone Rose|3,000|15|total=1}}\n{{Shop|Base Fluid|3,000|6|total=1}}\n{{Shop|Fluid Catalyst|4,500|3|total=1}}\n{{Shop|Fluid Stabilizer|4,500|3|total=1}}\n{{Shop|Strong Fluid Catalyst|9,000|2|total=1}}\n{{Shop|Strong Fluid Stabilizer|9,000|2|total=1}}\n{{Shop|Fusion Resistance Spray|6,000|20|total=1}}\n{{Shop|Aero Resistance Spray|6,000|20|total=1}}\n{{Shop|Electro Resistance Spray|6,000|20|total=1}}\n{{Shop|Glacio Resistance Spray|6,000|20|total=1}}\n{{Shop|Spectro Resistance Spray|6,000|20|total=1}}\n{{Shop|Havoc Resistance Spray|6,000|20|total=1}}\n{{Shop|Abyssal Solvent|9000|20|total=1}}\n|total=1,236,000|vendor=Danvers|type=Pharmacy}}\n\n==Idle==\n{{Dialogue Start}}\n:;'''Gladiator''' Mrs. Danvers, can you give us some medicine?\n:;'''Injured Gladiator''' Oww... Ugh...\n:;'''Danvers''' This is bad. Did you run into a [[Kerasaur]]?\n\n==Dialogue==\n:{{DIcon}} I'd like to buy something.\n:;(Opens shop)\n::'''Danvers''' Welcome! You look like you've seen battle. Whatever yoy need, just say the word! The Silver Helmet is here to serve.\n:;(Purchase)\n::'''Danvers''' Everything here is made with seasoned warriors in mind.\n:{{DIcon}} Chat\n;(At Day)\n::'''Danvers''' I've had this shop for decades now.\n::'''Danvers''' I used to fight too, and I watched Gladiators burn through their lives to chase their dreams. That's when I realized the glory of victory is built on pain.\n::'''Danvers''' I left the arena behind after that and started this business.\n::'''Danvers''' I sell good gear and honest medicine. Doing what I can to keep those Gladiators standing.\n:{{DIcon|Exit}} Leave\n----\n;(Night)\n::'''Danvers''' I knew a [[Mya|Gladiator]] once. Made it all the way to the championship. No talent to speak of, just pure heart and grit.\n::'''Danvers''' When she came in to customize her gear, she looked like she could barely breathe under the weight of it all. You know, matches, expectations, everything. \n::'''Danvers''' But the moment she stepped into the arena, it was if her true self broke free from all those shackles. The arena became her whole world.\n::'''Danvers''' In the end, she won. Took the title. But when the medal ceremony came... she never showed.\n::'''Danvers''' Did she walk away from her triumph? Or did something stop her from reaching it?\n::'''Danvers''' ...Guess that's gladiating for you.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|1_en= Danvers\n|1_zhs= 丹弗斯\n|1_zht= 丹弗斯\n|1_ja= ダンバース\n|1_ko= 댄버스\n|1_es= Danvers\n|1_fr= Danvers\n|1_de= Danvers\n\n|2_en= The Silver Helmet\n|2_zhs= 银盔杂货铺\n|2_zht= 銀盔雜貨鋪\n|2_ja= シルバーヘルムストア\n|2_ko= 실버 투구 잡화점\n|2_es= Yelmo de Plata\n|2_fr= «\u0026nbsp;Casque argenté\u0026nbsp;», la boutique\n|2_de= Silberhelm-Laden\n}}\n\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Danvers",
+      "number": "6.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "The Silver Helmet",
+      "number": "6.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

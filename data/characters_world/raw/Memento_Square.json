@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:35Z",
+  "title": "Memento Square",
+  "pageid": 6001,
+  "wikitext": "{{Location_Infobox\n|title1    = Memento Square\n|image     =\n\u003cgallery\u003e\nMemento Square.png|Preview\nGorges of Spirits Map Template.png|Map\n\u003c/gallery\u003e\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Gorges of Spirits\n}}\n'''Memento Square''' is an area  of {{Location|Gorges of Spirits}}. \n\nIt consists of a large, unfinished memorial to the [[Sentinel]] of [[Jinzhou]], [[Jué]]. \n\n==Features==\nOne of the [[Torn Pages of Gorges of Spirits]] is located here, on the scaffolding below the statue of the Sentinel.\n\n===Interactables===\n{{#dpl:|category = Memento Square Terminology|ordermethod= title}}\n\n==NPCs==\n{{NPCs by Location List|Memento Square}}\n\n==Other Languages==\n{{Other Languages\n|en   = Memento Square\n|zhs  = 玉龙台\n|zht  = 玉龍臺\n|ja   = {{Rubi|玉龍台|ぎょくりゅうだい}}\n|ko   = 옥룡대\n|es   = Plaza del Recuerdo\n|fr   = Yu-Long-Tai\n|de   = Memento Platz\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Features",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Interactables",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

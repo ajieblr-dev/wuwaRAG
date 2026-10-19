@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:00Z",
+  "title": "Ichika",
+  "pageid": 43217,
+  "wikitext": "{{NPC Infobox\n|image    = .png\n|type     = Open-World\n|nation   = The Black Shores\n|location = Chronorift Metropolis\n|group    = Left Behind\n}}\n'''{{PAGENAME}}''' is a {{Extra Effect|Left Behind|Left Behind|Citizens of Honami City who perished during the Lament and who now \"live\" inside the Sonoro Sphere in the form of Human Reverberations. Faint iridescent light flows around their bodies, and they don't seem to be aware of what really happened to them.}} [[NPC]] that can be found on the stairway next to [[Aoba]], east from [[Shashou Cafe]].\n\n==Location==\n{{Map Embed|Chronorift Metropolis|Ichika}}\n\n==Idle==\n{{Dialogue Start}}\n;'''Aoba:''' Excuse me. Haven't we... Have I met you somewhere?\n;'''Ichika:''' I... I thought so too.\n;'''Aoba:''' Then, may I have your name...\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Ichika:''' ...Ichika. My pen name is Ichika.\n:'''Aoba:''' I'm Aoba. Sorry, I... I don't remember anything.\n:'''Ichika:''' Me neither. But I believe...\n:'''Ichika:''' Someone once wrote letters to me and saved my life in the [[Tacet Field]]. That must've happened in the past.\n:'''Aoba:''' Yeah. I've always remembered that I've been searching for someone, all this time.\n:'''Ichika:''' ...Then, how about we say that today is the day we first meet?\n:'''Aoba:''' Sure. Why not?\n----\n;\u003csmall\u003e(After completing {{Quest|Stagnant Dawn on Wastelands}})\u003c/small\u003e\n:'''Ichika:''' ...Ichika. My pen name is Ichika.\n:'''Aoba:''' I'm Aoba. Hm? ...Wait. I remember now. We met yesterday.\n:'''Ichika:''' Yes. Yesterday was the first day of our reunion after we parted. And today... is the next day.\n:'''Aoba:''' ...So time is moving forward now.\n:'''Ichika:''' The sun's still bright. Why don't we take a walk in Central Park?\n{{Dialogue End}}\n\n==Trivia==\n* It's likely they are a reference to the animated move, ''[[wikipedia:Your Name|Your Name]]''.\n\u003c!--Unsure where this dialogue is from, but it's an interaction related to the Cafe\n==Extra's==\n* Why are all the capybaras here named after railroad lines... If I had taken the train to look for her that day, would things have been different? ——Aoba\n……\n\n* I came to the cafe that Aoba talked about. We never got to meet here, but I'd know his handwriting anywhere. ——Ichika\n--\u003e\n\n==Other Language==\n{{Other Languages\n|en   = Ichika\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|2.8}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Language",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

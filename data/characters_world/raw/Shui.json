@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:26Z",
+  "title": "Shui",
+  "pageid": 4256,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Shui.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Shui''' is an NPC in [[Huanglong]].\n\n==Quests and Events==\n{{Quests and Events|Shui}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Shui:''' Hey, are you interested in Overdash too?\n:'''Shui:''' I get it, since Overdash is a sport with a long history and wide audience.\n:'''Shui:''' Not only does it strengthen your body, it may as well save your life in a pinch.\n:'''Shui:''' It's true. I heard that during the war, those who could master the Overdash technique survived better than those who couldn't.\n:'''Shui:''' And, speaking of which...\n:'''Shui:''' I have to mention the connection I've had with Overdash since birth!\n:'''Shui:''' If it weren't for my mom being... uh... captivated by my dad's Overdash on the training field... Well, I wouldn't be here today!\n:{{DIcon}} ?\n:'''Shui:''' I'm getting off track here... What I'm trying to say is, Overdash might just bring you some unexpected connections!\n:'''Shui:''' So, does it sound exciting, right?\n:'''Shui:''' We Overdash enthusiasts have formed a fan club, and we're eagerly recruiting new members!\n:'''Shui:''' Once you join, you'll have senior members to guide you, various offline activities to participate in, and even international exchange competitions!\n:'''Shui:''' Unlike those clubs, we won't charge you for entry! It's totally free!\n:'''Shui:''' Absolutely no membership fees of any kind! Just leave an e-signature here on the terminal...\n:{{DIcon}} ...\n:'''Shui:''' Hey, hey, hey, hey, don't go\u0026mdash;\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Shui\n|zhs  = 阿水\n|zht  = 阿水\n|ja   = 阿水\n|ko   = 형원\n|es   = Shui\n|fr   = Shui\n|de   = Shui\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

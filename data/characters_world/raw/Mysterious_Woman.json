@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:42Z",
+  "title": "Mysterious Woman",
+  "pageid": 8997,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|name             = \n|title            = \n|image            = Lucia.jpg\n|type             = Quest\n|modelType        =\n|rarity           = \n|attribute        = \n|alias            = \"Instance 1\" \u003cref\u003eConfirmed by her appearing in the Civilization Capsule when Imperator initiates the \"First Instance\"\u003c/ref\u003e\n|class            = \n|affiliation      = Unknown\n}}\nThe '''Mysterious Woman''' is an unknown being sometimes referred to by the community as '''Goddess''' or '''Lucia'''. She is an enigmatic entity donning a silver dress and planetary halo. Despite her occasional appearances throughout the game, there is no confirmed information regarding her true identity or her connection with Rover.\n\n==Appearances==\n* During the game's opening cutscene ''Set Sail''.\n* As a Hologram in {{Quest|Rewinding Raindrops}}.\n* Seen from a distance in {{Quest|The Bygone Shall Always Return}}.\n\n==Speculations==\nPlease understand these are collected speculations and not confirmation. {{color|old|Possible spoilers.}}\n* Implied to be '''Instance One''', part of a pair with '''Instance Two''', who is confirmed to be [[Shorekeeper]]\u003cref\u003e[[Resolution K626]]\u003c/ref\u003e\u003cref\u003e{{Quest|The Bygone Shall Always Return}}\u003c/ref\u003e. \n* Possibly from or created by the Hé Civilization, an ancient civilization known by the [[Court of Savantae]] as \"divine beings\"\u003cref\u003e\"They were likely studying an ancient civilization they deemed to be \"divine beings\", but later got denounced from the CSC due to their extreme methods.\" {{Quest|Rewinding Raindrops}}\u003c/ref\u003e.\n* (No proof) Speculated to be the reason for Rover's missing memories.\n* (No proof) Speculated to have implanted [[Abby]] within Rover. \n* Speculated to be the woman with white hair mentioned by a [[Court of Savantae|Court of Savantae scientist]] during [[The Star That Voyages Far]], although her hair in all known appearances have been black. \n*Possibly related to the [[Homeland Civilization]].\n\u003c!--\n==Backstory==\n\n==Gallery==\n--\u003e\n===Videos===\n\u003cgallery\u003e\nOpening Cinematics - Set Sail\n\u003c/gallery\u003e\n\n==Trivia==\n*She bears a striking resemblance to Lucia, a character from ''{{W|Punishing: Gray Raven}}'' (another game developed by [[Kuro Game]]s), thus leading to many players referring to her as Lucia since she has no official name.\n\n==Change History==\n{{Change History|introduced=1.0}}\n\n==Reference==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Appearances",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Speculations",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Reference",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

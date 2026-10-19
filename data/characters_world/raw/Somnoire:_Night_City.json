@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:32Z",
+  "title": "Somnoire: Night City",
+  "pageid": 41308,
+  "wikitext": "{{Region Infobox\n|image              = Night City.png\n|map                = Solaris-3\n|chapter            = \n|main city          = \n|festival           = \n|controlling_entity = \n|demonym            = \n}}\n{{Description|Born of a fevered hallucination, this bustling concrete jungle is shrouded in eternal night, revealing a completely different cityscape.\u003cbr\u003eA cage forged from sorrow and despair. A graveyard of unfinished dreams and a time long gone.|Loading Screen}}\n\n'''Somnoire: Night City''' is a location in the [[Somnoire]], borne out of the dreams and nightmares of former Night City inhabitant, [[Lucy]]. As a simulacrum, it brings together the dreams both of Night City denizens and Startorch Academy students and faculty from Lahai-Roi.\n\nThe city in reality was founded in 1993 in the United States of America, on the shores of Del Coronado Bay at the border between Northern and Southern California. As a part of the collaboration with {{w|Cyberpunk: Edgerunners}}, it is broadly modelled after locations in the anime, and the video game {{w|Cyberpunk 2077}}.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n! Image\n! Description\n|- id=\"Cherry Blossom Market\"\n|Cherry Blossom Market\n|[[File:Cherry Blossom Market.png|180px]] \u003cbr /\u003e\n|A bustling market nestled amongst Japantown, the biggest tourist destination in Night City.\n|- id=\"Lucy and David's Apartment\"\n|Lucy and David's Apartment\n|[[File:Lucy and Davids Apartment.png|180px]] \u003cbr /\u003e\n|An apartment in Night City, offering the views of a legend.\n|- id=\"Illusion's End\"\n|Illusion's End\n|[[File:Illusions End.png|180px]] \u003cbr /\u003e\n|An illusory dream, remaining unfulfilled in the deep dark sky.\n|}\n\n==Resonators==\n===Playable Resonators===\n{{Resonators by Category Table|Playable Resonators\u0026Night City Resonators}}\n\n==Trivia==\n===Etymology===\n* Despite appearing in Wuthering Waves only under the cover of night, Night City is not named after the obsidian sky but instead after businessman Richard Alix Night.\n\n==Other Languages==\n{{Other Languages\n|en   = Somnoire: Night City\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|fr   = \n|de   = \n|es   = \n|th   = \n}}\n\n==Change History==\n{{Change History|3.4}}\n\u003c!--\n==References==\n{{Reflist|1}}\n--\u003e\n==Navigation==\n{{Location Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resonators",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Playable Resonators",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "3.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "8"
+    }
+  ]
+}

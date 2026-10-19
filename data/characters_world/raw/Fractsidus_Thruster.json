@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:38Z",
+  "title": "Fractsidus Thruster",
+  "pageid": 23030,
+  "wikitext": "{{Enemy Infobox\n|name      = Fractsidus Thruster\n|image     = Fractsidus Thruster Icon.png\n|dmgtype   = Physical\n|weakpoint = \n|echo      = No\n|class     = Common\n|family    = Human\n|group     = Fractsidus\n}}{{Description|Devoted followers of the Fractsidus, frequently collaborating with fellow Artificers.  They employ massive hammers to repel adversaries.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Fractsidus}}\n\n==Stats==\n{{Enemy Stats|Fractsidus Thruster}}\n\n\u003c!--==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Fractsidus Thruster|customheader=Fractsidus Thrusters}}\n\n==Description==\n{{Description|The Fractsidus' faithful cultists.\u003cbr /\u003eLacking in Forte yet bearing a strong yearning for power, they crossed forbidden scientific boundaries. Through the use of special mechanical components, their human bodies are amalgamated with TD limbs, thus they become strong enough to wield gigantic hammers.\u003cbr /\u003eHowever, TD frequencies distort the cultists' mentality and corrode their bodies. They choose to mask themselves to conceal their twisted face.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Fractsidus Thruster\n|zhs  = 残星・重锤造匠\n|zht  = 殘星・重錘造匠\n|ja   = フラクトシデス・スラスター\n|ko   = 잔성 ・ 사이보그 해머링맨\n|es   = Fractsidus: Propulsor\n|fr   = Fractsidus : marteau\n|de   = Fractsidus-Triebwerk\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

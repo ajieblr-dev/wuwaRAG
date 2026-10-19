@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:13Z",
+  "title": "Dominick",
+  "pageid": 26192,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Dominick.png\n|title            = \n|type             = Open-World \n|nation           = Rinascita\n|location         = Fool's Elysium\n|group            = \n|affiliation      = Troupe of Fools\n}}\n'''Dominick''' is a male [[NPC]] in {{Location|Fool's Elysium|nocat=1}} and a member of the [[Troupe of Fools]].\n\n==Quests and Events==\n{{Quests and Events|Dominick}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Dominick:''' Hello there! Need some help?\n:{{DIcon}} What are you doing?\n:'''Dominick:''' Jemma is comforting those recently exiled by the Order. I'll see if there's anything I can do to help.\n:'''Dominick:''' The captain said if they're headed to the Riccioli Islands or Septimont, we should arrange for Echoes to help them avoid dragons and safely get to where they want to go.\n:'''Dominick:''' Everyone's got their own path to walk, after all. Not everyone's going to stay here.\n:'''Dominick:''' In the past, some have sought refuge with their families in the Riccioli Islands, while others ventured to Septimont, trading honor for a new identity, all holding onto the hope of one day returning to Ragunna.\n:'''Dominick:''' And then there are those who turned to piracy. That's not really our way.\n:'''Dominick:''' But that's fine, everyone's choices take them down different roads. Let's just help each other while we can!\n----\n;(After {{Quest|Dawn Breaks on Dark Tides}}\n:{{Spoiler}}\n:'''Dominick:''' Ah, you're here again. What brings you today?\n:{{DIcon}} Just checking in. Wanted to see how you're doing.\n:'''Dominick:''' Sigh... The Sentinel's death has thrown everything into chaos.\n:'''Dominick:''' Crying, fainting, running in panic... All sorts of reactions.\n:'''Dominick:''' Don't give me that worried look. I'm fine.\n:'''Dominick:''' If Sentinel Imperator had truly been watching over this world, there wouldn't be so much suffering.\n:'''Dominick:''' But... They're really gone, aren't They?\n:'''Dominick:''' Our Mother has left us, and now, Their children must learn to live on their own.\n:'''Dominick:''' Still... don't worry. As long as we're breathing, we'll find a way forward.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dominick\n|zhs  = 多米尼克\n|zht  = 多米尼克\n|ja   = ドミニク\n|ko   = 도미닉\n|es   = Dominick\n|fr   = Dominick\n|de   = Dominick\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

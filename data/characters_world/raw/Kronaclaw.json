@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:18Z",
+  "title": "Kronaclaw",
+  "pageid": 39830,
+  "wikitext": "{{CustomTabs\n|subpages=0\n|tab1     = Kronaclaw\n|tab1name = Enemy\n|tab2     = Reminiscence: Kronaclaw\n|tab2name = Echo}}\n{{Enemy Infobox\n|name      = Kronaclaw\n|title     = \n|image     = Kronaclaw Icon.png\n|dmgtype   = Aero\n|weakpoint = \n|echo      = Yes\n|class     = Elite\n|family    = Tacet Discord\n|group     = Roya Outcasts\n|nation    = Roya Frostlands\n|region    = Frostlands Surface\n|subregion = \n|drops     = \n}}{{Description|}}\n{{Intro/Enemy|Kronaclaw}}\n\n==Drops== \n{{Drops|Elite Outcast}}\n\n==Stats==\n{{Enemy Stats|Kronaclaw}}\n\u003c!--\n==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Kronaclaw|customheader=Kronaclaw}}\n\n==Description==\n{{Description|This enemy has a higher RES to {{Color|Aero DMG|nobold=1}}.\u003cbr /\u003eThis enemy has a higher All-Attribute RES.\u003cbr /\u003eThis enemy has the Rage Feather ability and three weaknesses.\n\nAfter remaining in combat for a period of time, Kronaclaw enters the Rage Feather state, greatly enhancing its ATK.\u003cbr /\u003eWeakness I: A successful Counterattack can damage its crest and wings, weakening its attacks and reducing the number of ranged projectiles.\u003cbr /\u003eWeakness II: Tune Break can remove its Rage Feather state and reduce its ranged projectiles.\u003cbr /\u003eSpecial Weakness: When Kronaclaw is under Tune Rupture - Shifting, hitting it with Tune Break will greatly reduce its All-Attribute RES.\n\nAn extinct ancient raptor reproduced through the Upphaff Life Chamber.\u003cbr /\u003eIn the distant past, these raptors once circled the skies of Lahai-Roi, their dominion unchallenged since the First Epoch.\u003cbr /\u003eLegend holds that the Kronaclaw was a creation of Sol, sharing the divine sight of the Eye of Sol and beholding all that lay above and below Lahai-Roi.\u003cbr /\u003eBut as magnetic poles shifted and the landscape was reshaped, the Kronaclaw species had faded into near extinction. Their place was eventually taken by Kronablight, an Exoswarm born of the Exostrider.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Kronaclaw\n|zhs  = 冠顶苍隼\n|zht  = 冠頂蒼隼\n|ja   = クロナファルコン\n|ko   = 크로나클라우\n|fr   = Griffouronne\n|de   = Kronaklaue\n|es   = Kronáguila\n|th   = Kronaclaw\n}}\n\n==Change History==\n{{Change History|3.1}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

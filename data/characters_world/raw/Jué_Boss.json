@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:09Z",
+  "title": "Jué/Boss",
+  "pageid": 8815,
+  "wikitext": "{{CustomTabs\n|tab1 = NPC\n|tab2 = Boss\n|tab3 = Echo\n}}\n{{Enemy Infobox\n|displaytitle = Jué (Boss)\n|name         = Jué\n|title        = Dweller in Dormant Time\n|image        = Jué Icon.png\n|dmgtype      = Spectro\n|dmgtype2     = Electro\n|weakpoint    = Unknown\n|echo         = Yes\n|class        = Calamity\n|family       = \n|group        = Sentinel\n|location     = [[The Fated Confrontation]]\n|drops        = Sentinel's Dagger\n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm0264525|Lourdes Faberes]]\u003cref name='bili' /\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/黄莺 Huang Ying ({{zh|黄莺}})]\u003cref name='bili'\u003eBilibili:[https://www.bilibili.com/video/BV1ji421e7nM/ 《鸣潮》动画短片 | 今昔]\u003c/ref\u003e\n|voiceJP          = {{w|Tsunematsu Ayumi|Tsunematsu Ayumi ({{Lang|mini=1|ja=恒松 あゆみ}})}}\u003cref name='bili' /\u003e\n|voiceKR          = [https://namu.wiki/w/이소영(성우) Lee So-young ({{Lang|mini=1|ko=이소영}})]\u003cref name='bili' /\u003e\n}}{{Description|One of the Sentinels in Huanglong that takes the shape of Loong. With the ability to manipulate time, Jué guides the development of Jinzhou's civilization.}} \n{{Lang|Jué|zh=角}} is a [[Calamity Class]] [[Weekly Boss|Weekly]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in [[The Fated Confrontation]].\n\n== Drops ==\n{{Boss Rewards|weekly=1|exclusive=Sentinel's Dagger}}\n\n==Stats==\n{{Enemy Stats}}\n\u003c!--\n==Abilities==\n{{Enemy Attacks}}--\u003e\n\n==Trophies==\n{{Trophies|Jué|customheader=Jué}}\n\n==Tutorial==\n{{Tutorial|Jué}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Spectro DMG}}, and {{Color|help|higher RES}} to {{Color|Electro DMG}}.\u003cbr\u003eOne of the Sentinels of Huanglong, taking the shape of a Loong. The guiding force behind Jinzhou's civilization.\u003cbr\u003eA majestic \"deity\" with unquestionable power, omniscient of Jinzhou's past, present, and future. Jué, the wielder of time's flow, sees eons as mere moments. In an instant, Jué can change the universe forever.\u003cbr\u003e\"Seasons shift by decree, and all beings abide by their laws. Such is the nature of the universe.\"|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en     = Jué\n|zhs    = 角\n|zht    = 角\n|ja     = {{Rubi|角|カク}}\n|ko     = 뿔\n|es     = Jué\n|fr     = Jiao\n|de     = Jué\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "9"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:17Z",
+  "title": "Eikroyd",
+  "pageid": 65814,
+  "wikitext": "{{NPC Infobox\n|image=.png\n|type=Open-World\n|nation=Lahai-Roi\n|location=Startorch Academy\n|affiliation=Department of Light Energy Sciences\n|group=\n}}{{Description|This station is located within Exo Genesis Labs, an experimental field that uses lunar soil samples to create a microgravity environment. Here, prehistoric plants are induced to undergo mutation, enhancing their nutritional value and functional traits. The resulting ingredients are processed at this station to produce convenient \"space food\" designed to boost intellect, stamina, and Forte, suitable for consumption in any environment.|Culinary Station}}\n\n'''{{PAGENAME}}''' is a student NPC that can be found at the building for the Department of Light Energy Sciences building, Exo Genesis Labs. He's puzzled by two students who came to make a wish upon \"dirt\", originated from a real moon. \n\n{{Dialogue Start}}\n==Idle==\n==Dialogue==\n:'''Eikroyd:''' I mean, the lunar soil from Exo Genesis Labs is the real deal, sure...\n:'''Eikroyd:''' But if you're making a wish on the moon, shouldn't it be the one up in the sky?\n:'''Eikroyd:''' Why are you making a wish on a pile of dirt here?\n:'''Chevi:''' With the [[Etheric Sea]]'s refraction warping everything, how am I supposed to know which moon is real?\n:'''Chevi:''' The moon over Jinzhou, the one over the Black Shores, over Septimont... No matter where you go, it looks strange, like it's not even real.\n:'''Chevi:''' And yet, the only one that feels real is right here in your department!\n:'''Amison:''' Yeah! And on top of that, it's a pre-Lament lunar soil sample donated by the New Federation!\n:'''Eikroyd:''' Sigh, whatever, have it your way... If you have time making wishes on a chunk of moon dirt, you'd be better off doing something actually worthwhile.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Eikroyd\n|zhs  = 艾克罗伊德\n|zht  = 艾克羅伊德\n|ja   = アクロイド\n|ko   = 에크로이드\n|fr   = Eikroyd\n|de   = Eikroyd\n|es   = Eikroyd\n|th   = Eikroyd\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

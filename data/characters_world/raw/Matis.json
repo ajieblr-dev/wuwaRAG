@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:34Z",
+  "title": "Matis",
+  "pageid": 74602,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=Septimont\n|location=Septimont\n}}\n'''{{PAGENAME}}''' is a male NPC who sells gears to Gladiators at the lower section of the city of {{Location|Capitoline Hill}}. However, he hasn't been selling much for some reason.\n\n{{Dialogue Start}}\n==Dialogue==\n:'''Eric:''' We've known you for quite a while now, old man. How is it that we've never seen you sell a single item?\n:'''Talla:''' Yeah! Want us to give you a hand, old timer?\n:{{DIcon}} I can lend a hand too, if you want.\n::'''Matis:''' Please, spare me the jokes. If you'd really wish to help me, perhaps you could buy a few of my wares?\n:{{DIcon}} This gear doesn't seem too bad.\n::'''Matis:''' You've got a good eye! Everything in my shop is of the highest quality. It's just too bad none of the other passersby have senses as good as yours. They think my gear is antiquated.\n:'''Matis:''' Sigh... I remember back in the day, people used to fight over my goods. There weren't enough to go around! You know that [[Mya|foreign Gladiator]] who won the championship twenty years ago? I'd say she owes half her victory to me! But ever since my voice has gotten hoarse, I can't hawk my wares so well, so no one buys from me anymore.\n:'''Eric:''' Again with the story twenty years ago... As far as I'm concerned, there's no one cooler or stronger than Lupa. When I grow up, I want to buy some of your gear, old timer, then go ask Lupa to be my mentor!\n:'''Talla:''' Me too! Don't worry, old man. We'll be your shop's ambassadors!\n:'''Matis:''' Hehe! Warms my heart to hear it, youngsters.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Matis\n|zhs  = 马蒂斯\n|zht  = 馬蒂斯\n|ja   = マティス\n|ko   = 마티스\n|fr   = Matis\n|de   = Matis\n|es   = Matis\n|th   = Matis\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

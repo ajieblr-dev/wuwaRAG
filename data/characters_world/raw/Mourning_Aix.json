@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:41Z",
+  "title": "Mourning Aix",
+  "pageid": 23001,
+  "wikitext": "{{Stub|Missing abilities}}\n{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name = Mourning Aix\n|title = Lamenting Shadow\n|image = Mourning Aix Icon.png\n|dmgtype = Spectro\n|weakpoint = Unknown\n|echo = Yes\n|nightmare = Yes\n|class = Overlord\n|family = Tacet Discord\n|group = Howler\n|nation = Huanglong\n|region = Whining Aix's Mire\n|subregion = Heron Wetland\n|drops = Elegy Tacet Core\n|variants = Tactical Hologram: Mourning Aix; Nightmare: Mourning Aix\n}}\u003c!--\n--\u003e{{Description|An Overlord Class Howler TD hovering over Whining Aix's Mire. It soars the skies while singing elegies, and attacks fiercely any enemy that comes close.}}\u003c!-- \n--\u003e{{Lang|Mourning Aix|zh=哀声鸷}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in {{Location|Heron Wetland}}. \n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Elegy Tacet Core}} \n\n==Stats==\n{{Enemy Stats}} \n\n==Abilities== \n\n==Trophies==\n{{Trophies|Mourning Aix}} \n\n==Tutorial==\n{{Tutorial|Mourning Aix}} \n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Spectro damage}}.\u003cbr/\u003eA bird-of-prey-like animal that perches at the Whining Aix's Mire, with cries like a mournful song.\u003cbr\u003eLegend has it that this bird once had a partner and that their chorus was a beautiful sound. Their names were not passed down, but their hymns were recorded and preserved by human beings.\u003cbr\u003eUntil one of them was deceased. The surviving one cried all day long, and the cries were so dismal it was called the Mourning Aix.\u003cbr/\u003eIn the loss of a lover, the bird became oppressive and violent, allowing no one to step into its nest of lost love. It only lingers in the heavens while singing the eulogy, in pursuit of an illusion that is no longer there among the clouds.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en     = Mourning Aix\n|zhs    = 哀声鸷\n|zht    = 哀聲鷙\n|ja     = 哀切の凶鳥\n|ko     = 애곡하는 아익스\n|fr     = Vautour plaignant\n|es     = Aix del Lamento\n|de     = Trauernde Aix\n}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

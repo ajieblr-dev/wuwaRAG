@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:51Z",
+  "title": "Gulpuff",
+  "pageid": 23052,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Gulpuff\n|title=\n|image=Gulpuff Icon.png\n|dmgtype=Glacio\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Howler\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A Common Class Howler TD active in water. It excels at disguising and sneaking attacks on nearby enemies.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Howler}}\n\n==Stats==\n{{Enemy Stats|Gulpuff}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Gulpuff|customheader=Gulpuffs}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Glacio damage}}.\u003cbr/\u003eFish-like animals widely distributed in water bodies. Gulpuff often hides its body under the water surface and displays the lotus leaf-like structure over its head as a camouflage.\u003cbr/\u003e\nWhen threatened, these creatures swallow a large amount of water before inflating themselves and letting out gulp sounds to frighten the enemy.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Gulpuff\n|zhs  = 咕咕河豚\n|zht  = 咕咕河豚\n|ja   = グルッポ\n|ko   = 꾹꾹복어\n|es   = Burbujín\n|fr   = Gulboule\n|de   = Gulpuff\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

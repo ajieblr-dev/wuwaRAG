@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:17Z",
+  "title": "Eighth Seal",
+  "pageid": 79088,
+  "wikitext": "{{Stub|profile}}\n{{NPC Infobox\n|image            = NPC Eighth Seal.png\n|type             = Quest\n|type2            = \n|nation           = Huanglong\n|affiliation      = Ten Seals Covenant\n|status           = Deceased\u003cbr\u003eKilled in the Evil Miasma battle; frequency replaced by [[Suoming]] with Fractal Form \"[[Hsin]]\"'s due to Vermillion Lock's limitation.\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n\n'''{{PAGENAME}}''' {{Lang|zh=六契}} is a quest-exclusive NPC who was mentioned during the {{Quest|Simulacrum of the Heart}}.\n\n==Profile==\nEighth Seal was one of the Seals of Ten Seals Covenant, a group founded by [[Suoming]] to combat the Evil Miasma in her hometown, [[Huating]], where all of its members, besides Suoming, have since fallen. Suoming sealed Eighth's frequency alongside the other Seals and the Evil Miasma.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Eighth Seal\n|zhs  = 八契\n|zht  = 八契\n|ja   = 八ノ契\n|ko   = 팔계\n|fr   = Octava Sceau\n|de   = Achtes Siegel\n|es   = Octavo Sello\n|th   = พันธกานต์ที่แปด\n|pt   = Oitavo Selo\n}}\n\n==Change History==\n{{Change History|3.7}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

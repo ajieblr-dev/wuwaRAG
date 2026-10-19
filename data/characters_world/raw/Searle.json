@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:21Z",
+  "title": "Searle",
+  "pageid": 41096,
+  "wikitext": "{{NPC Infobox\n|image            = \n|name             = \n|title            = \n|type             = Quest\n|type2            = Open-World\n|deceased         = Died during a meteor impact hundreds of years ago.\n|affiliation      = Ostina\n}}\n{{Quote|Who was the first to skip the class?!}}\n'''{{PAGENAME}}''' is the town Music Teacher that is first seen in the {{Quest|Dreamcatchers in the Secret Gardens}}. After completing Dreamcatchers in the Secret Gardens her reverberation can be found in the [[Lost Beyond]].\n\nShe can be seen scolding three children's; '''Denali''', '''Samp''' and '''Caleres'''. At night, [[Pier]] can be found doing a workout routine next to her. It is unknown their relationship.\n\n==Dialogue==\n{{Dialogue Start}}\n:;'''Searle'' Who was the first to skip the class?!\n\n;(First time interaction)\n:'''Searle:''' Rote practice is an essential part of studying music. If you do not master the fundamentals, you cannot create great pieces.\n:'''Searle:''' I shall inform your parents if you ever skip class again!\n:'''Searle:''' Sigh... Kids are getting harder to teach by the year. Just look at you all...\n:'''Samp{{sic}}:''' And look at Phrolova, only a few years older, and yet she's doing extra practice. She even plays me music she writers herself.\n:'''Samp:''' Yes, we know, Ms. Searle. You've told us a million times already!\n:'''Denali:''' Yeah, no matter how hard we try, we don't have her talent...\n:'''Searle:''' Well, I don't expect you to be exceptional, I simply want you all to... Hang on. Caleres, where is your textbook?\n:'''Caleres:''' Lost.\n:'''Searle:''' Lost! That textbook belongs to Phrolova. I borrowed it from her for you so you could read her notes in the margins! Go find it!\n:'''Searle:''' Urgh! I'm seeing red...\n{{Dialogue End}}\n\n===Videos===\n\u003cgallery\u003e\nWuthering Waves Story Cinematics - Fading Notes\n\u003c/gallery\u003e\n\n==Other Languages ==\n{{Other Languages\n|en   = Searle\n|zhs  = 斯维尔\n|zht  = 斯維爾\n|ja   = スヴェイル\n|ko   = 서얼\n|fr   = Searle\n|de   = Searle\n|es   = Searle\n|th   = Searle\n}}\n\n==Change History==\n{{Change History|2.5}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "4"
+    }
+  ]
+}

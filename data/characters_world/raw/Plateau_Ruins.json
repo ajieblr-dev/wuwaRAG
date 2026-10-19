@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:01Z",
+  "title": "Plateau Ruins",
+  "pageid": 6017,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Plateau Ruins\n|image=Plateau Ruins.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Whining Aix's Mire\n}}\n'''Plateau Ruins''' is an area of [[Whining Aix's Mire]], [[Huanglong]]. \n\n==Other Languages==\n{{Other Languages\n|en   = Plateau Ruins\n|zhs  = 塬上旧址\n|zht  = 塬上舊址\n|ja   = 高原廃墟\n|ko   = 고원의 폐허\n|es   = Ruinas del Altíplano\n|fr   = Ruines des Hauts\n|de   = Hochplateau Ruinen\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

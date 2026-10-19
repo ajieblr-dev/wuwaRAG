@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:28Z",
+  "title": "\"Red Eagle\"",
+  "pageid": 24991,
+  "wikitext": "\n{{NPC Infobox\n|image            = Red Eagle.PNG|In-game\n|type             = Quest\n|region           = \n|location         = Huanglong\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n|name=\"Red Eagle\"}}\n'''\"Red Eagle\"''' is a featured NPC in the [[Somnium Labyrinth]] during the quest of [[Dreamscape Odyssey: Neverending Inferno]]. During the event, he takes form as an illusia in [[Yinlin]]'s [[Somnoire]]. During the quest, he turns out was a \"mole\"\u003cref\u003eSomeone who pretends to be a loyal member of an organization while secretly working for another group.\u003c/ref\u003e  in the Public Security Bureau.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = \"Red Eagle\"\n|zhs  = “赤腹鹰”\n|zht  = 「赤腹鷹」\n|ja   = 「赤腹鷹」（アカハラダカ）\n|ko   = 「붉은배새매」\n|es   = «Águila Roja»\n|fr   = « Aigle roux »\n|de   = Roter Adler\n}}\n\n==Change History==\n{{Change History|1.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

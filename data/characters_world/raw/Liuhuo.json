@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:25Z",
+  "title": "Liuhuo",
+  "pageid": 37679,
+  "wikitext": "{{Meta\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n}}{{NPC Infobox\n|name             = Liuhuo\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Central Plains\n|group            = \n|affiliation      = Pioneer Association\n|title            = \n}}\n'''Liuhuo''' is an [[NPC]] in [[Central Plains]], [[Huanglong]]. She can be found alongside [[Yujin]] near a [[Resonance Beacon]] close to the ''Parallel Perception'' [[Sonoro Sphere]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Liuhuo:''' They say the Central Plains is safe, but there are plenty of weirdos still lurking.\n:{{DIcon}} Well, that's a bit strange.\n:'''Liuhuo:''' Those sneaky [[Exiles]] broke into my supply chests and stole everything...\n:'''Liuhuo:''' I was going to teach them a lesson, but then I ran into another suspicious folks.\n:'''Liuhuo:''' Those [[Fractsidus|guys in red robes]], all mysterious, you can tell they're up to no good.\n:'''Liuhuo:''' Who are these people, and what are they doing here?\n:'''Liuhuo:''' Forget it... What lies in front of us is more important. If you see any Exiles, remember to let me know.\n:'''Liuhuo:''' I'm gonna beat them until they're picking up their teeth off the ground, then take back our supplies.\n:'''Liuhuo:''' Otherwise, the only choice for [[Yujin]] and I is to go hungry.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Liuhuo\n|zhs  = 流火\n|zht  = 流火\n|ja   = 流火（リュウカ）\n|ko   = 유화\n|es   = Liuhuo\n|fr   = Liuhuo\n|de   = Liuhuo\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:06Z",
+  "title": "Xinyi",
+  "pageid": 9062,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Xinyi.png\n|type             = \n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = Hongzhen\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n{{Lang|'''Xinyi'''|辛夷}} is an NPC located in {{Location|Hongzhen}}.\n\n==Location==\nXinyi is located on the second story of Hongzhen, across from the bridge.\n\n==Profile==\nShe was once an important figure in [[Jinzhou]]'s [[City Hall]], but has since then resigned and moved to [[Mt. Firmament]] to nurse her illness.\u003cref\u003e[[Wutherium Geographic: Lands and Waters — Huanglong: Jinzhou — Hongzhen]]\n:''Once an important figure in the City Hall, later resigned to nurse her illness in Mt. Firmament. Now she is in charge of general affairs in Mt. Firmament.''\u003c/ref\u003e Succeeding [[Uncle Fu]], she is now the Mayor of [[Hongzhen]], the only settlement in Mt. Firmament, and is in charge of handling Mt. Firmament's affairs.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n\n==Other Languages==\n{{Other Languages\n|en   = Xinyi\n|zhs  = 辛夷\n|zht  = 辛夷\n|ja   = 辛夷（シンイ）\n|ko   = 신이\n|es   = Xinyi\n|fr   = Xinyi\n|de   = Xinyi\n}}\n\n==Gallery==\n\u003cgallery\u003e\nWuthering Waves Version 1.1 Trailer - Thaw of Eons\n\u003c/gallery\u003e\n\n==Change History==\n{{Change History|1.1}}\n\n==References==\n\u003creferences /\u003e",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "3.3",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.4",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

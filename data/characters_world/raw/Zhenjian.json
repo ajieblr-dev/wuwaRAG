@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:17Z",
+  "title": "Zhenjian",
+  "pageid": 36365,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = The Black Shores\n|location         = TD Observatory\n|group            = \n|affiliation      = Black Shores\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Zhenjian''' is a male Black Shore NPC found at the [[TD Observatory]], [[The Black Shores]].\n\n==Quests and Events==\n{{Quests and Events|Zhenjian}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Zhenjian''' The corrupted data at the Anchor has been cleared, and the backlog of anomaly data is finally running smoothly again.\n:{{DIcon}} Anomaly data?\n:'''Zhenjian''' Yes, it's a collection of data on Reverberations, Tacet Discords, and other anomalies caused by the Lament.\n:{{DIcon}} What can we do with it?\n:'''Zhenjian''' For example, with Tethys' computing power, we can build evolutionary models of the Tacet Discords to predict how they might develop in the future. \n:'''Zhenjian''' We can also input Reverberations gathered from the Lament zone into Tethys to recreate those areas in the [[Tethys System|Sand Table]].\n:'''Zhenjian''' But from what we've observed so far, the Sand Table has its limits.\n:'''Zhenjian''' The more ancient the Lament, the more diluted the Reverberations are, which makes it harder to replicate the affected areas accurately.\n:'''Zhenjian''' Still, I believe this is just the beginning of what Tethys can do. There's much more potential to tap. \n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Zhenjian\n|zhs  = 稹坚\n|zht  = 稹堅\n|ja   = 稹堅（シンケン）\n|ko   = 진현\n|es   = Zhenjian\n|fr   = Zhenjian\n|de   = Zhenjian\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

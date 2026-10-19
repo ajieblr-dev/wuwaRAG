@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:03Z",
+  "title": "Porto-Veno Castle",
+  "pageid": 26424,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Porto-Veno Castle\n|image     = \u003cgallery\u003e\nPorto-Veno Castle.png|Exterior\nPorto-Veno Castle (Interior).png|Interior\n\u003c/gallery\u003e\n|world_map = Solaris-3\n|type      = Area\n|nation    = Rinascita\n|region    = Thessaleo Fells\n}}\n{{Quote|An ancient, mysterious castle perched on the edge of a cliff in the outskirts.\u003cbr\u003eSurrounded by lush flora reminiscent of deep-sea creatures, its interior houses similarly strange and wondrous treasures. Enticing yet bizarre, it pulls the curious in like a whirlpool, drawing them to step inside.|Loading Tip — Porto-Veno Castle}}\n'''Porto-Veno Castle''' is an area located in {{Location|Thessaleo Fells|nocat=1}}. \n\n==NPCs==\n{{NPCs by Location List|Porto-Veno Castle}}\n\n==Trivia==\n*The castle's exterior is based on the Iberian [[wp:Manueline|Manueline]] architectural style, in contrast to the typical Ragunessi [[wp:Renaissance architecture|Italian Renaissance]] style.\n\n==Other Languages==\n{{Other Languages\n|en   = Porto-Veno Castle\n|zhs  = 波蒂维诺堡\n|zht  = 波蒂維諾堡\n|ja   = ポルトヴィーノ城\n|ko   = 포르티비노 성\n|es   = Castillo de Bottiveleno\n|fr   = Fort Porto-Veno\n|de   = Porto-Veno Burg\n|th   = \n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox}}\n[[zh:波蒂维诺堡]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

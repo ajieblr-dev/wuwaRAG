@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:23Z",
+  "title": "Lingfeng",
+  "pageid": 4253,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Lingfeng.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = [[imdb:nm2467242|Matthew Leonhart]]\n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Lingfeng''' is an NPC in {{Location|Jinzhou}}.\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Debiao:''' The battle in Norfall Barrens was so intense...\n:'''Debiao:''' I also want to fight on the front lines!\n:'''Debiao:''' Why am I stuck behind with these logistic duties...\n:'''Lingfeng:''' The jobs done behind the city walls are also important. Just imagine if troubles stir up in the city...\n:'''Lingfeng:''' Come on. Let's train more while we can. We need to be on duty afterward.\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Lingfeng:''' The work is not easy recently... Hello, what can I do for you?\n:{{DIcon}} Chat\n:;(Set 1)\n::'''Lingfeng:''' I need to work my muscles more. I haven't stretched for a few days and I feel dead on my feet.\n::'''Lingfeng:''' When you have time, train more, or find someone to spar with.\n::'''Lingfeng:''' Those guys over there do it. But they haven't beaten me yet. So take your time.\n:;(Set 2)\n::'''Lingfeng:''' When General [[Jiyan]] was a medic, he never neglected his training.\n::'''Lingfeng:''' Although he was a medic at the time, he followed the military routines as did the soldiers.\n::'''Lingfeng:''' So, this journey of a thousand miles, it all starts with this bit by bit training.\n:{{DIcon}} About [[Shiyu]]\n:;(Set 1)\n::'''Lingfeng:''' Shiyu... Well, she's a nice girl. Hard-working. But you can tell she's keeping a lot to herself.\n::'''Lingfeng:''' She's trying to look out for everyone, but it's not that easy. \n::'''Lingfeng:''' You say she's into liondances now? Haha, it's good to have a new interest.\n::'''Lingfeng:''' Next time when the Liondance Troupe has a performance, I'll give her a day off to watch it.\n:;(Set 2)\n::'''Lingfeng:''' Last time, I gave her a day off to watch the performance of the Liondance Troupe.\n::'''Lingfeng:''' She said she didn't want to, but when she came back, I found that she was genuinely happy.\n::'''Lingfeng:''' She's going on and on about the spectacular performance of [[Lingyang]].\n::'''Lingfeng:''' If the Liondance Troupe performs again, I want to go and watch.\n:{{DIcon}} About [[Debiao]]\n:;(Set 1)\n::'''Lingfeng:''' When Debiao was young, he loved to spar with people. Then I don't know what had happened, he looked so depressed when I found him after I had returned from the army.\n::'''Lingfeng:''' But now he's more active, and he trains hard every day. He'll be able to beat me sooner or later.\n:;(Set 2)\n::'''Lingfeng:''' This kid, Debiao, he's lost forty times, but he still wants to fight me!\n::'''Lingfeng:''' That's the spirit\u0026mdash;refusing to give in. He just needs more training.\n:{{DIcon|Exit}} Nothing at the moment.\n::'''Lingfeng:''' It's good that there's nothing wrong, but it's not good to make a fuss here, just be careful.\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lingfeng\n|zhs  = 凌风\n|zht  = 凌風\n|ja   = 凌风（リヨウフウ）\n|ko   = 지섭\n|es   = Lingfeng\n|fr   = Lingfeng\n|de   = Lingfeng\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

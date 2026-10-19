@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:55Z",
+  "title": "Hongzhen",
+  "pageid": 9053,
+  "wikitext": "{{Location Infobox\n|title1=Hongzhen\n|image=Hongzhen.png\n|world_map=Solaris-3\n|type = Area\n|nation = Huanglong\n|region = Mt. Firmament\n}}{{Description|A self-sufficient town isolated from the outside world. Buildings of sleekness and elegance are scattered in the streets, with red leaves and white snow adding to its silent beauty.|[https://wutheringwaves.kurogames.com/m/en/main/news/detail/922 '' Wuthering Waves Official Website '']\n}}\n'''Hongzhen''' is an area of {{Location|Mt. Firmament}}.\n\n==Description==\nAn ancient, secluded town nestled within the tranquil embrace of Mt. Firmament. Elegant structures, scattered among the crimson leaves and tipped with pure snow, create a scene of serene beauty.\u003cbr\u003e For centuries, the people of Hongzhen revere the Sentinel, who safeguards their town, as their god, praying devotedly for its blessing of lasting prosperity and longevity. Despite the year-round snowfall blanketing Mt. Firmament, the warm springs flowing from the mountains and the vibrant life of the townsfolk make the cold no more a concern.\u003cref name='Loading Screen'\u003eIn-game Mt. Firmament: Hongzhen loading screen description\u003c/ref\u003e\n\n==Notable Members==\n{| class=\"article-table\"\n!Icon!!Name!!Position\n|-\n|[[File:NPC Xinyi.png|50px]]\n|[[Xinyi]]\n|Current Mayor\n|-\n|[[File:NPC Uncle Fu.png|50px]]\n|[[Uncle Fu]]\n|Former Mayor\n|-\n|[[File:Resonator Jinhsi.png|50px]]\n|[[Jinhsi]]\n|Jinzhou Magistrate\u003cbr\u003eBorn in Hongzhen\n|}\n\n==Features==\nThree of the [[Traces of Mt. Firmament]] are located here - \"Daylight Upon Two Trees,\" \"Lamp by the Pool,\" and \"Circular Wonder in the Mountain.\"\n\n===Interactables===\n{{#dpl:|category= Hongzhen Terminology|ordermethod= title}}\n\n==Quests==\n{{Quest by Category List|Hongzhen}}\n\n==NPCs==\n{{NPCs by Location List|Hongzhen}}\n\n==Gallery==\n\u003cgallery\u003e\nTraces of Mt. Firmament I.png|\"Daylight Upon Two Trees\"\nTraces of Mt. Firmament II.png|\"Lamp by the Pool\"\nTraces of Mt. Firmament III.png|\"Circular Wonder in the Mountain\"\n\u003c/gallery\u003e\n\n==References==\n{{Reflist}}\n\n==Other Languages ==\n{{Other Languages\n|en   = Hongzhen\n|zhs  = 虹镇\n|zht  = 虹鎮\n|ja   = {{Rubi|虹鎮|こうちん}}\n|ko   = 홍진 마을\n|es   = Villarcoíris\n|fr   = Hongzhen\n|de   = Hongzhen\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Members",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Features",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Interactables",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "6",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "8",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "9",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "10",
+      "index": "11"
+    }
+  ]
+}

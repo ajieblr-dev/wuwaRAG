@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:15Z",
+  "title": "Rover-Aero",
+  "pageid": 28672,
+  "wikitext": "{{Rover Infobox\n|attribute   = Aero\n|role       = Support and Healer; Resonance Skill Damage; Aero Erosion\n|order       = 3\n|releaseDate = 2025-03-27\n}}\n{{Main|Rover}}\n==Combat Overview==\n===Forte===\n{{Skill Navbox|Rover-Aero}}\n{{Skill Upgrade|Rover-Aero|totalOnly}} \n\n===Resonance Chain===\n{{Nodes Navbox|Rover-Aero}} \n\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{Rover Navbox}}\n\n[[ru:Ровер-Аэро]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "5"
+    }
+  ]
+}

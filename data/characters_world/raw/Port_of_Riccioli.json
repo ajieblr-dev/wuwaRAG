@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:02Z",
+  "title": "Port of Riccioli",
+  "pageid": 27867,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Port of Riccioli\n|image=Port of Riccioli.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Riccioli Islands\n}}\n\n'''Port of Riccioli''' is an area of [[Riccioli Islands]], [[Rinascita]]. \n\nIt is the island port with the largest throughput of marine products.\n\n==NPCs==\n{{NPCs by Location List|Port of Riccioli}}\n\n==Other Languages==\n{{Other Languages\n|en   = Port of Riccioli\n|zhs  = 黎乔利港\n|zht  = 黎喬利港\n|ja   = リジョリ港\n|ko   = 리졸리항\n|es   = Puerto de Riccioli\n|fr   = Port des Riccioli\n|de   = Riccioli-Hafen\n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

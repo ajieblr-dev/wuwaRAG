@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:42Z",
+  "title": "Fusion Drake",
+  "pageid": 32392,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Fusion Drake\n|image         = Fusion Drake Icon.png\n|dmgtype       = Fusion\n|weakpoint     = \n|class         = Common\n|echo          = Yes\n|family        = Tacet Discord\n|group         = Dark Tide Influenced\n|nation        = Rinascita\n|region        = Septimont\n|drops         =\n}}{{Description|A TD that mimics a drake cub, with flame blazing between its claws, often found living in groups in the wilderness.}}\n{{Intro/Enemy|Fusion Drake|a=1|lang=zh=小翼龙・热熔}}\n==Drops==\n{{Drops|Common Dark Tide Influenced}}\n\n==Stats==\n{{Enemy Stats|Fusion Drake}}\n\n==Trophies==\n{{Trophies}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES|nobold=1}} to {{Color|Fusion|Fusion DMG|nobold=1}}.\nA TD that mimics a drake cub, with flame blazing between its claws. Often found living in groups in the wilderness.\nThough small in size, it is fiercely territorial, always ready to drive off invaders with its breath and claws.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fusion Drake\n|zhs  = 小翼龙・热熔\n|zht  = 小翼龍・熱熔\n|ja   = ドレイクの幼体・焦熱\n|ko   = 드레이크 ・ 용융\n|es   = Draco Fusión\n|fr   = Petit dragon Fusion\n|de   = Drachling: Fusion\n}}\n\n==Change History==\n{{Change History|2.4}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

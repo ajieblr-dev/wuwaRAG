@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:23Z",
+  "title": "Eye of Asteria",
+  "pageid": 41709,
+  "wikitext": "{{Location Infobox\n|image        = Black Shores Eye of Asteria.png\n|type         = Point of Interest\n|nation       = The Black Shores\n|region       = Black Shores Archipelago\n|area         = Haven of Sprouts\n|description  = The eye through which the [[Black Shores]] gazes upon the stars. It monitors the [[Etheric Sea]] of [[Solaris-3|Solaris]] from the Black Shores' highest vantage point.\u003cref name=\"ARTICLE\"\u003e[[Wutherium Geographic: Lands and Waters — The Black Shores Vol. 1#Eye of Asteria|Wutherium Geographic: Lands and Waters — The Black Shores Vol. 1, Eye of Asteria]]\n:''It monitors the Etheric Sea of Solaris from the Black Shores' highest vantage point.''\u003c/ref\u003e\n}}\nThe '''Eye of Asteria''' is a [[Point of Interest]] located at {{Location|Black Shores Archipelago}}.\n\n==Overview==\nThe Eye of Asteria is a part of one of the islands belonging to [[The Black Shores]]. It's the highest point of the [[Black Shores]] located close to [[Haven of Sprouts]] and, according to [[Monica]], is responsible for monitoring the [[Etheric Sea]] across [[Solaris-3]].\u003cref name=\"ARTICLE\" /\u003e While the whole archipelago stands upon [[Tacetite]], the Eye of Asteria's Tacetite is more powerful, making the interference stronger, thus causing it to not have much infrastructure.\u003cref name=\"HBtW\"\u003e[[Main Quest]] ''[[Hidden Between the Waves]]'' in [[Chapter I]]: Act VIII - ''[[To the Shore's End]]''\n:'''''Monica:''' The island ahead is the Eye of Asteria, the highest point in the Black Shores.''\n:'''''Monica:''' It monitors the Etheric Sea across all of Solaris. Since the Tacetite there is more powerful, the interference is stronger, so there's not as much infrastructure there.''\n:'''''Monica:''' It's quite close to the Haven of Sprouts. The robot is already there waiting for you.''\u003c/ref\u003e\n\n[[Rover]] first goes to the Eye of Asteria when solving the abnormal frequencies of the Black Shores in [[Main Quest]] ''[[Hidden Between the Waves]]'' in [[Chapter I]]: Act VIII - ''[[To the Shore's End]]''.\u003cref name=\"HBtW\" /\u003e\n\n==NPCs==\n{{NPCs by Location List|Eye of Asteria}}\n\n==Trivia==\n*The name \"Asteria\" likely refers to [[wikipedia:Asteria|Asteria]], the daughter of the Titans [[wikipedia:Phoebe (Titaness)|Phoebe]] and [[wikipedia:Coeus|Coeus]].\n\n==Other Languages==\n{{Other Languages\n|en   = Eye of Asteria\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|fr   = \n|de   = \n|es   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|1.3}} \n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{PoI Navbox|The Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

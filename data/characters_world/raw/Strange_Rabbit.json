@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:37Z",
+  "title": "Strange Rabbit",
+  "pageid": 40570,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Strange Rabbit.png\n|name             = Strange Rabbit\n|type             = Quest\n|affiliation      = Fractsidus\n|affiliation2     = Academy's Dark Side\n|nation           = Lahai-Roi\n\n\u003c!-- VAs --\u003e\n|voiceEN          =\n|voiceCN          =\n|voiceJP          =\n|voiceKR          = \n}}\n'''Strange Rabbit''' {{Lang|zh=奇怪的兔子}} is a quest-exclusive [[NPC]] that first appears in {{Quest|Gold Suspended in Shadows}}, and returns as the main antagonist of {{Quest|Rabbit Reflected in Shades}}.\n\nIt is another form of [[Schwarzloch]], who attempted to enact a psychological warfare campaign against [[Startorch Academy]] by manipulating its [[Academy's Dark Side|Dark Side]] alongside the [[Vortex's Eye]], through forcibly making [[Sigrika]] and her insecurities its core.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Quests and Events==\n\n==Gallery==\n===Story CGs===\n====[[Chapter III]]====\n\u003cgallery\u003e\nChapter III Shadows in Chase MRover.png|\u003csmall\u003eSegue: [[Rabbit Reflected in Shades]]\u003c/small\u003e\u003cbr/\u003eShadows in Chase (Male Rover) — ''The film concludes, and the actors shed their hollow skins, slipping once more into shadow.''\nChapter III Shadows in Chase FRover.png|\u003csmall\u003eSegue: [[Rabbit Reflected in Shades]]\u003c/small\u003e\u003cbr/\u003eShadows in Chase (Female Rover) — ''The film concludes, and the actors shed their hollow skins, slipping once more into shadow.''\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Strange Rabbit\n|zhs  = 奇怪的兔子\n|zht  = 奇怪的兔子\n|ja   =\n|ko   =\n|fr   =\n|de   =\n|es   =\n|th   =\n}}\n\n==Change History==\n{{Change History|3.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Story CGs",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Chapter III",
+      "number": "3.1.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:51Z",
+  "title": "Traffic Illuminator",
+  "pageid": 23016,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Traffic Illuminator\n|title=\n|image=Traffic Illuminator Icon.png\n|dmgtype=Spectro\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Clamorling\n|nation=Huanglong\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A Common Class Howler TD \u003cref\u003eAccording to the Chinese description Traffic Illuminator is a Clamorling TD. The English translation classifies it as Howler, but the items it drops suggest that it's either a Tranquilite or a Clamorling type.\u003c/ref\u003enative to the Port City of Guixu. Records show it resembles objects from the city's lost civilization.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Common Clamorling}}\n\n==Stats==\n{{Enemy Stats|Traffic Illuminator}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Traffic Illuminator|customheader=Traffic Illuminators}}\n\n==Description==\n{{Description|This enemy has {{Color|help|increased RES}} to {{color|Spectro damage}}.\u003cbr/\u003eThis small enemy, fused with a traffic light, uses the common rule of \"stop on red, go on green\" to punish those who break traffic rules.\u003cbr /\u003eSo, please remember to follow the traffic regulations!|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Traffic Illuminator\n|zhs  = 通行灯偶\n|zht  = 通行燈偶\n|ja   = 信号機モドキ\n|ko   = 신호등 로봇\n|es   = Semaforoide\n|fr   = Imiteur : feu de circulation\n|de   = Verkehrsbeleuchter\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n\n\u003creferences /\u003e\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

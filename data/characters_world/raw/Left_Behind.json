@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:20Z",
+  "title": "Left Behind",
+  "pageid": 43216,
+  "wikitext": "{{Terminology Infobox\n|title        = \n|image        = \n|type         = Lore\n|nation       = Chronorift Metropolis\n}}\n{{Description|Citizens of Honami City who perished during the Lament and who now \"live\" inside the Sonoro Sphere in the form of Human Reverberations. Faint iridescent light flows around their bodies, and they don't seem to be aware of what really happened to them.|Glossary}}\nA '''Left Behind''' refers to any citizen of Honami City who died during [[The Lament]] and \"lives\" inside the [[Sonoro Sphere]] in the form of a Human [[Reverberation]].\n\n==Description==\nLeft Behinds are reverberations re-living their last moments before the Lament struck what was left of Honami City. Their existence is maintained by the Sonoro Sphere, alongside their lingering regrets and unfulfilled wishes. While there are those who are aware of the situation who do not fade away,\u003cref\u003e[[Subaru]]\u003c/ref\u003e there are those who realize the contradictions in their memories and pass on. It is uncertain if by will or not.\u003cref\u003e{{Quest|Stagnant Dawn on Wastelands}}\u003c/ref\u003e \n\nDue to an interference in the [[Somnoire]], it's revealed that the Left Behind's are capable of dreaming, which are called \"Lost Dreams\".\u003cref\u003e[[Depths of Illusive Realm: Chromatic Fantasy]]\u003c/ref\u003e\n\nThere are those with regrets that runs too deep to help move on, which concentrates the Lament's power which poses a risk. The [[Black Shores]] would inquire the help of the [[Hiyuki|Miko]] from the former Honami City to help cleanse their regrets away.\u003cref\u003e{{Quest|Wishes in the Bell}}\u003c/ref\u003e\n\n==NPCs==\n{{NPCs by Category List|Left Behind}}\n\n==Other Languages==\n{{Other Languages\n|en   = Left Behind\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|2.8}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

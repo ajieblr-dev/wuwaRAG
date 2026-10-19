@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:09Z",
+  "title": "Julia Silva",
+  "pageid": 31851,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = Julia Silva In-game.png\n|type             = NPC\n|type2            = Quest\n|nation           = Rinascita\n|affiliation      = Septimont\n|affiliationNote  = formerly\n|affiliation2     = House Silva\n|status           = Unknown\u003cbr\u003eImplied to have died after heading into Mournfell Canyon alone.\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Julia Silva''' {{Lang|zh=尤利娅·西尔瓦\n}} is a quest-exclusive [[NPC]] that first appears in {{Quest|Shadow of Glory}}. She is a member of and the head of [[House Silva]], most members of House Silva and those affiliated with them refer to her as Domina Julia Silva. \n\n==Quests and Events==\n{{Quests and Events}} \n\n==Mentions==\n{{Character Mentions}} \n\n==Trivia==\n* The word \"domina\" is of Latin origin and typically refers to a woman of rank, such as a lady or mistress of a household. \n\n==Other Languages==\n{{Other Languages\n|1_en   = Julia\n|1_zhs  = 尤利娅\n|1_zht  = 尤利婭\n|1_ja   = ユリア\n|1_ko   = 줄리아\n|1_es   = Julia\n|1_fr   = Julia\n|1_de   = Julia\n\n|2_en   = Domina Julia Silva\n|2_zhs  = 尤利娅・西尔瓦女士\n|2_zht  = 尤利婭・西爾瓦女士\n|2_ja   = ユリア・シルヴァ様\n|2_ko   = 줄리아 ・ 실바\n|2_es   = Dómina Julia Silva\n|2_fr   = Dame Julia Silva\n|2_de   = Matriarchin Julia Silva\n}}\n\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Julia",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Domina Julia Silva",
+      "number": "4.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

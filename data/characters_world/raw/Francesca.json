@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:36Z",
+  "title": "Francesca",
+  "pageid": 26246,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Francesca.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Bank Street\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Francesca''' is an NPC that appears in [[Ragunna]], [[Rinascita]]. She's a representative from Averardo Bank. \n\nShe can be found talking in the middle of [[Bank Street]] from 6:00 AM to 5:59 PM.\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(In the daytime)\n:'''Francesca:''' Argh... My feet are killing me from all the walking...\n:'''Francesca:''' Damn! You scared me! I thought I had run into my boss again.\n:{{DIcon}} What are you doing?\n:'''Francesca:''' I'm just getting into work mode. Hello, I'm Francesca, a representative from Averardo Bank.\n:{{DIcon}} What does a bank representative do?\n:'''Francesca:''' Well... in short, I evaluate and quote clients' collections on-site, then offer services related to collateral, insurance, and storage based on the appraised value.\n:'''Francesca:''' I know what you're going to ask next: yes, our bank stores more than just currency.\n:'''Francesca:''' From artwork to Echoes, we store anything that meets our valuation requirements. Once your assets are deemed valuable, they can be kept in Ragunna's safest place—[[Averardo Vault]].\n:{{DIcon}} But how do you value a piece of artwork?\n:'''Francesca:''' That's a deep question.\n:'''Francesca:''' Art is subjective, and everyone interprets it differently, so there isn't a universal standard for measuring its value.\n:'''Francesca:''' Unfortunately, from the bank's perspective, we need to impose some universal criteria to assess them.\n:'''Francesca:''' The rarity, prominence, provenance, and history of a collection are key factors. Items with a story often receive a higher appraisal.\n:'''Francesca:''' I remember that the business began with currency operations. Maybe it started as just a hobby for Signore Francesco.\n:{{DIcon}} I didn't expect [[Montelli Family|Montelli]] to be so passionate about art.\n:'''Francesca:''' Well, Montelli's no longer motivated by passion alone.\n:'''Francesca:''' Analyzing the market flow of collectibles reveals clients' recent financial movements, which is crucial intelligence for the Montelli family.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Francesca\n|zhs  = 法兰契丝卡\n|zht  = 法蘭契絲卡\n|ja   = フランチェスカ\n|ko   = 프란체스카\n|es   = Francesca\n|fr   = Francesca\n|de   = Francesca\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

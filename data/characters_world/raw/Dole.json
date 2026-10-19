@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:13Z",
+  "title": "Dole",
+  "pageid": 40062,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Dole.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Square\n|group            = \n|affiliation      = Department of Light Energy Sciences\n|title            = \n}}\n'''{{PAGENAME}}''' is a male student in the photography club, seen with a student from the Department of Exostrider Engineering, '''Lianna'''. They appear at the Academy Gardens during the day. \n\nHe expresses concern about a particular footage lacking light despite the scene was properly well lit.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Lianna:''' Location scouting is all about the light. Look at this footage of yours... Where's the light? As it is now, isn't it underexposed? \n:'''Dole:''' Y-Yes, you're right... b-but something's not right!\n:'''Dole:''' I even switched on a big light to fill in the scene, but in this footage... there's no light at all...\n:'''Dole:''' Why though? This shouldn't be happening...\n:'''Dole:''' I can't shake the feeling that something has swallowed up all the light...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|2_en   = Dole\n|2_zhs  = 多尔\n|2_zht  = 多爾\n|2_ja   = ドール\n|2_ko   = 도르\n|2_fr   = Dole\n|2_de   = Dole\n|2_es   = Dole\n|2_th   = Dole\n\n|1_en   = Lianna\n|1_zhs  = 莉亚娜\n|1_zht  = 莉亞娜\n|1_ja   = リアナ\n|1_ko   = 리아나\n|1_fr   = Lianna\n|1_de   = Lianna\n|1_es   = Lianna\n|1_th   = Lianna\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Lianna",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Dole",
+      "number": "4.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

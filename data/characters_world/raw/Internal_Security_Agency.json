@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:01Z",
+  "title": "Internal Security Agency",
+  "pageid": 37078,
+  "wikitext": "{{Stub}}\n{{Faction Infobox\n|title        = Internal Security Agency\n|image        = \n|nation       = Huanglong\n|base         = [[Mingting]]\u003cref\u003eQiuyuan's Character Story: [[Qiuyuan/Backstory#Character Stories|Unsheathed]]\u003c/ref\u003e\n|founder      = \n|leader       = Chief Commander\n|ally         = \n|enemy        = \n}} \nThe '''Internal Security Agency''', or '''ISA''', is an institution that operates independently of the administrative, judicial, and military branches of [[Huanglong]]. Reporting directly to the [[Emperor of Huanglong]], it holds the authority to investigate any case, official, or criminal without approval from other agencies, with the power to \"act first, report later.\" Tasked with handling intricate cases year-round, the agency has developed specialized expertise in managing [[Resonator]]s. \n\n==Members== \n===Former Members===\n* [[Liang Dongyuan]] \n* [[Qiuyuan]] (senior agent) \n\n==Other Languages ==\n{{Other Languages\n|en   = Internal Security Agency\n|zhs  = 镇抚司\n|zht  = 鎮撫司\n|ja   = 鎮撫司\n|ko   = 진무사\n|fr   = Agence de sécurité interne\n|de   = Behörde für innere Sicherheit\n|es   = Agencia de Seguridad Interna\n|th   = กรมปราบปราม\n}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Faction Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Former Members",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "5"
+    }
+  ]
+}

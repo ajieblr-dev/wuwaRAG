@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:45Z",
+  "title": "Boccaccio",
+  "pageid": 27408,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Boccaccio.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Averardo Vault\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Boccaccio''' is a male NPC who appears at the stairs heading to [[Averardo Vault]].\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Boccaccio:''' Did you notice the grand building at the top of the stairs? Many see it as a symbol of a new age.\n:{{DIcon}} Are you here for business as well?\n:'''Boccaccio:''' Of course, I have a rather significant collection item to store—\n:'''Boccaccio:''' Only here could I escape those insufferable Acolytes, the pestering editors, and those gatherings of writers full of the same tired clichés.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Boccaccio\n|zhs  = 博卡乔\n|zht  = 博卡喬\n|ja   = ボカチオ\n|ko   = 보카치오\n|es   = Boccaccio\n|fr   = Bocaccio\n|de   = Boccaccio\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

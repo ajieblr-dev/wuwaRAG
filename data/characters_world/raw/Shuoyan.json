@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:26Z",
+  "title": "Shuoyan",
+  "pageid": 74687,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Xuanfang Ministry of War\n|affiliation      = Xuan Triad\n|affiliationNote  = \n|status           = Alive\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a NPC Xuanfang Warden found in [[Xuanfang Hold]], [[Mengzhou]] region. \n\n==Quests and Events==\n{{Quests and Events}}\n\n{{Dialogue Start}}\n==Idle==\n:'''Shuoyan:''' Wait—hey! Could you be—\n:'''Shuoyan:''' H-hello! I mean... sorry, I-I...\n\n==Dialogue==\n:'''Shuoyan:''' Wait—hey! Could you be—\n:'''Shuoyan:''' H-hello! I mean... sorry, I-I...\n:'''{{Rover}}:''' Are you talking to me?\n:'''Shuoyan:''' Yes! I mean—no offense—but is it true you fought in the Norfall Barrens alongside General Jiyan?\n:'''{{Rover}}:''' I did.\n:'''Shuoyan:''' Amazing! My friends in the Midnight Rangers have told me about your remarkable deeds. You do have an incredible aura.\n:'''Shuoyan:''' I'm a new recruit here in the Xuanfang Warden, and to be honest... I'm still pretty nervous. Do you have any advice for me?\n:'''{{Rover}}:''' Trust your companions and trust yourself. Trust the hard work that brought you this far.\n:'''Shuoyan:''' Trust... I see. I'll try my best! Thank you so much!\n----\n;After {{Quest|Xuanling Sings, Storm Quelled}}\n:'''Shuoyan:''' Hey, {{Rover}}! I'm Shuoyan, remember?\n:'''Shuoyan:''' Your fight against the Thousand-Puppet Pavilion was absolutely breathtaking!\n:'''Shuoyan:''' Honestly, I was still a little confused even after your advice.\n:'''Shuoyan:''' But the moment I stood on that field with my comrades at my back, I finally understood what your words meant.\n:'''Shuoyan:''' The bonds of trust forged in the thick of it... You never forget it.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Shuoyan\n|zhs  = 朔偃\n|zht  = 朔偃\n|ja   = 朔偃（サクエン）\n|ko   = 삭언\n|fr   = Shuoyan\n|de   = Shuoyan\n|es   = Shuoyan\n|th   = Shuoyan\n|pt   = Shuoyan\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

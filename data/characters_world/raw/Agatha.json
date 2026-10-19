@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:32Z",
+  "title": "Agatha",
+  "pageid": 26188,
+  "wikitext": "{{Meta\n}}{{NPC Infobox\n|image            = NPC Agatha.png\n|type             = \n|nation           = Rinascita\n|location         = Ragunna\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}'''Agatha''' is an NPC in [[Ragunna]], [[Rinascita]].\n==Dialogue==\n{{Dialogue Start}}\n{{Dialogue End}}\n==Other Languages==\n{{Other Languages\n|en  = Agatha\n|zhs = 阿加莎\n|zht = 阿加莎\n|ja  = アガサ\n|ko  = 아가타\n|es  = Agatha\n|fr  = Agatha\n|de  = Agatha\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

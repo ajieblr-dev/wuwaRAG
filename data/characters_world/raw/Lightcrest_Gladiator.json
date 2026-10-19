@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:24Z",
+  "title": "Lightcrest Gladiator",
+  "pageid": 36091,
+  "wikitext": "{{Stub|images, enemy stats, drops}}\n{{Enemy Infobox\n|name=Lightcrest Gladiator\n|image=Lightcrest Gladiator Icon.png\n|dmgtype=Spectro\n|weakpoint=\n|class=Elite\n|echo=No\n|family=Human\n|group=Gladiator\n|nation=Rinascita\n|region=Septimont\n|drops=}}\n{{Description|Gladiators of Septimont who fight unrestrictedly, upholding the ideal of justice.}}{{Intro/Enemy|Lightcrest Gladiator||a=1|lang=zh=}}\n\n== Drops ==\n{{Drops|Elite Gladiator}}\n\n== Stats ==\n{{Enemy Stats|Lightcrest Gladiator}}\n\n== Trophies ==\n{{Trophies}}\n\n== Description ==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Spectro DMG|nobold=1}}.\u003cbr/\u003eGladiators of Septimont who fight unrestrictedly, side by side with Echoes, ever in pursuit of the strong.\nLightcrest Gladiators uphold the ideal of justice. They bow to no tyrant, yield to no shadow. If justice has rotted, they shall forge it anew in light.|Description When Discovered}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Lightcrest Gladiator\n|zhs  = 耀冠角斗家\n|zht  = 耀冠角鬥家\n|ja   = 輝冠のグラディエーター\n|ko   = 햇빛 관을 쓴 검투사\n|es   = Gladiador del Yelmo Radiante\n|fr   = Gladiateur à la Crête de Lumière\n|de   = Lichtkrone-Gladiator\n}}\n\n== Change History ==\n{{Change History|2.4}}\n\n== Navigation ==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

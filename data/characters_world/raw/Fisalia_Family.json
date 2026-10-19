@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:28Z",
+  "title": "Fisalia Family",
+  "pageid": 25664,
+  "wikitext": "{{Stub}}\n{{Faction Infobox\n|title        = Fisalia Family\n|image        = \u003cgallery\u003e\nFisalia Family Logo.png|Family Crest\nThe Fisalia Family.jpg|Official Key Art\n\u003c/gallery\u003e\n|nation       = Rinascita\n|base         = Porto-Veno Castle\n|leader       = [[Cantarella]]\n}}\nThe '''Fisalia Family''' is one of the oldest lineages in [[Rinascita]] and one of the most powerful families in [[Ragunna]] that maintain a close connection with the [[Order of the Deep]].  \n\nThey are perceived to be \"devout\" believers of the Ragunnesi Sentinel, [[Imperator]], by most, and are often perceived as mystic nobles, skilled in the art of poison and delighting in the schemes of power. However, few are aware of their true intentions.  \n\n[[Cantarella]], the current head of the Fisalia family, resides in the ancient and eerie Porto-Veno Castle. Rumor has it that she frequently dances alone within her mansion. With each step she takes, she seems to radiate an overwhelming warmth.\n\n== Archive Entry==\n{{Description|One of the most powerful, and certainly the oldest and most traditional, families in Ragunna, renowned for their expertise in medicine and poison. Their devotion to Sentinel Imperator is clear to all who know them. \u003cbr\u003e\u003cbr\u003eA faction within the Fisalia family believes that the Montelli family's embrace of openness and the privatization of Echoes is a direct affront to Imperator's teachings, threatening to lead Ragunna into an abyss of heresy. They have directly opposed the Montellis through various means, shaking the family's longstanding image of dignified respectability. Yet, the head of the Fisalia family residing in Porto-Veno Castle seems disturbingly indifferent to the repercussions of these bold and provocative actions.}}\n\n==Overview==\nAccording to some rumors from the bard, Ciaccona, the ancestors of the Fisalia Family were the first to arrive in the islands of Rinascita and the first to establish order. They are said to predate the Order of the Deep thus their close ties with the religious order. Their craft of extracting toxins from aquatic plants is a legacy passed down in their family.\n\nThe oldest family in Ragunna, the Fisalia Family's ancestors once ignited a war, but were defeated and driven out of the city.\n\nThe current Fisalia Residencies in Ragunna are near the [[Cathedral of Mercury]]. As the subject of many notorious rumors, their name is unwelcomed by citizens, who call them the \"Poison of Ragunna\". \u003cref\u003e[[Rosemary#Dialogue|Rosemary: Dialogue]]\u003c/ref\u003e\n\n==Members==\n===Playable Resonators===\n{| class=\"article-table\"\n!Icon!!Member!!Position\n|-\n|[[File:Resonator Cantarella.png|50px]]\n|[[Cantarella]]\n|Matriarch of the Fisalia Family\n|} \n{{NPCs by Category List\n|Fisalia Family\n|header = Fisalia Family Members\n}}\n*[[Timoteo]]\n*Lady Carolina Fisalia\n*Chloe Fisalia\n*Marina Fisalia\n\n==Gallery==\n\u003cgallery\u003e\nThe Fisalia Family.jpg\n\u003c/gallery\u003e\n\n==Trivia==\n===Etymology===\n*Fisalia is likely derived from [https://en.wikipedia.org/wiki/Physalia Physalia], the scientific name of the Portuguese man o’ war, a highly venomous sea creature that closely resembles a jellyfish but is actually a colonial organism.\n\n==References==\n\u003creferences /\u003e\n\n==Navigation==\n{{Faction Navbox}}\n[[zh:翡萨烈家族]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Archive Entry",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Playable Resonators",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "5.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "9"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:44Z",
+  "title": "Giovanetta",
+  "pageid": 26073,
+  "wikitext": "{{NPC Infobox\n|name             = Giovanetta\n|title            = Burrata Bakery\n|image            = NPC Giovanetta.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Whisperwind Haven\n|group            = \n|affiliation      = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Giovanetta''' is a shop NPC in {{Location|Whisperwind Haven|nocat=1}}. She is the owner of [[Burrata Bakery]]. \n\n==Shop==\n{{Shop/Wrapper|\n{{Shop|Troupe Strength|3,000|20|total=1}}\n{{Shop|Baton Bread|3,000|20|total=1}}\n{{Shop|Pizza Classica|6,000|20|total=1}}\n{{Shop|Pizza Tropicale|6,000|20|total=1}}\n{{Shop|Nuvola Pasta|9,000|20|total=1}}\n{{Shop|Flour|300|20|total=1}}\n{{Shop|Cooking Oil|300|20|total=1}}\n{{Shop|Sugar|300|20|total=1}}\n{{Shop|Milk|300|20|total=1}}\n{{Shop|Salt|300|20|total=1}}\n{{Shop|Troupe Strength Recipe|5,000|1|total=1}}\n{{Shop|Pizza Classica Recipe|10,000|1|total=1}}\n{{Shop|Nuvola Pasta Recipe|15,000|1|total=1}}\n|total=600,000+|vendor=Giovanetta|type=Restaurant}} \n\n==Quests and Events==\n{{Quests and Events|Giovanetta}} \n\n==Dialogue==\n{{Dialogue Start}}\n\n:{{DIcon|Restaurant}} Burrata Bakery\n:;(Opens [[shop]])\n:{{DIcon}} Chat\n::'''Giovanetta:''' Welcome to Burrata Bakery! Would you like to try the most authentic traditional flavors of Rinascita?\n::{{DIcon}} I'd like to see the menu.\n:::'''Giovanetta:''' Here you go! Here's today's menu. Let me know if there's anything you'd like.\n:::'''Giovanetta:''' Of course! Every bite you take here is a taste of the century-old rich culinary heritage!\n:::'''Giovanetta:''' Pizza's delicious, and the bread's hearty! However, we do get the occasional customers with sensitive teeth saying it's a bit too sturdy...\n::{{DIcon}} Is it really authentic?\n:::'''Giovanetta:''' Of course! Every bite you take here is a taste of the century-old rich culinary heritage!\n:::'''Giovanetta:''' Pizza's delicious, and the bread's hearty! However, we do get the occasional customers with sensitive teeth saying it's a bit too sturdy...\n::{{DIcon}} Do you know [[Margherita]]?\n:::'''Giovanetta:''' Margherita is a childhood friend of mine. Despite her small stature, she's actually a culinary genius!\n:::'''Giovanetta:''' I used to be upset about her willful alteration of traditional recipes, but then I realized, isn't it a chef's duty to create dishes that everyone loves?\n::{{DIcon}} Chat.\n:::'''Giovanetta:''' Nowadays, they even consider [[Trattoria Margherita]] a place for traditional local food, just like Burrata Bakery... Honestly, do these outsiders even understand?\n:::'''Giovanetta:''' You've probably heard the saying, \"Crownapple has no place on a pizza!\"\n:::'''Giovanetta:''' I'm probably a conservative if these people are considered radicals— I mean, they're radically conservative for me.\n:::'''Giovanetta:''' \"Nothing but cheese and gemberry sauce on our pizza!\" That's the creed here!\n::{{DIcon}} Thank you. I'm good now.\n:::'''Giovanetta:''' Feel free to drop by anytime! Burrata Bakery is always ready with flavorful delights!\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n==Other Languages==\n{{Other Languages\n|en   = Giovanetta\n|zhs  = 乔万娜\n|zht  = 喬萬娜\n|ja   = ジョヴァンナ\n|ko   = 조반나\n|es   = Giovanetta\n|fr   = Giovanetta\n|de   = Giovanetta\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

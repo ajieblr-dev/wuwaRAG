@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:14Z",
+  "title": "Yuancai",
+  "pageid": 2665,
+  "wikitext": "\n{{NPC Infobox\n|image            = NPC Yuancai.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = Huaxu Academy\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Yuancai''' is a researcher working at [[Huaxu Academy]]. She can be found next to [[Tian Menglin]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Yuancai:''' Hey, check it out! It's the first Resonance Nexus in Huanglong, part of our institute's collection. Isn't it gorgeous? \n:'''Yuancai:''' Back when I was a student, I visited the institute once. When my hand touched its surface, the metal felt chilly, almost as if it was saying hello.\n:'''Yuancai:''' That's when I realized I had to work here someday. I wanted to stay with it.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yuancai\n|zhs  = 袁彩\n|zht  = 袁彩\n|ja   = 袁彩（エンサイ）\n|ko   = 원채\n|es   = Yuancai\n|fr   = Yuan Cai\n|de   = Yuancai\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:21Z",
+  "title": "Scott Rabelle",
+  "pageid": 39420,
+  "wikitext": "{{Stub}}\n{{Meta|missing_NPC_profile=yes}}\n{{NPC Infobox\n|image            = \n|name             = Scott Rabelle\n|type             = Mentioned\n|affiliation      = \n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Scott Rabelle''' is a widely renowned as the founder of Resonance Curve Theory and inventor of the [[Rabelle's Curve]], a classification system for [[Resonator]]s. He originally hails from [[New Federation]], but moved to [[Lilyland]] to spend his remaining days there.\u003cref\u003e[[Luncius]]\u003c/ref\u003e\n\n==Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* The [[Rabelle College]] department of [[Startorch Academy]] was named after him.\n* He traveled to many countries before settling down in Lilyland. \n* He is likely part of the founders of Startorch Academy.\u003cref\u003e[[Dr. Scott Rabelle's Address on the Founding of Startorch Academy]]\u003c/ref\u003e\n\n==Other Languages==\n{{Other Languages\n|en      = Scott Rabelle\n|zhs     = 拉贝尔博士\n|zht     = \n|ja      = \n|ko      = \n|fr      = \n|de      = \n|es      = \n|th      = \n|pt      = \n}} \n\n==Change History==\n{{Change History|introduced=1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

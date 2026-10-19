@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:17Z",
+  "title": "Ebony Gatekeeper",
+  "pageid": 4048,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Ebony gatekeeper.png\n|name             = Ebony Gatekeeper\n|type             = Quest\n|location         = Somnoire\n|affiliation      = Somnoire\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Ebony Gatekeeper''' is an NPC in [[Somnoire]] that first appears in the [[Depths of Illusive Realm]] event and the enemy of the [[Ivory Gatekeeper]].\n\nIn the Depths of Illusive Realm, the Ebony Gatekeeper allows players to exchange Dream Fragments for Metaphors upon entering a Memory of Rest. The Ebony Gatekeeper says his role in the [[Somnoire]] is to erase dreams, maintaining the Somnoire's\u003cref\u003e[[Somnoire]], an unknown realm of collective dreams, is used to find the answer to vanquishing [[The Lament]].\u003c/ref\u003e dream capacity.\n\nDuring [[Fantasies of the Thousand Gateways]], it is revealed that he was the one taking on the identity of Cosmos and Dorothy in [[Fairy Tale's Finale]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ebony Gatekeeper\n|zhs  = 黑色守门人\n|zht  = 黑色守門人\n|ja   = 黒きゲートキーパー\n|ko   = 블랙 게이트 수호자\n|fr   = Concierge noir\n|de   = Ebenholz-Torwächter\n|es   = Portero de ébano\n|th   = ผู้พิทักษ์ประตูสีดำ\n}}\n\n==References==\n{{Reflist}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:49Z",
+  "title": "Hanakage Underground Street",
+  "pageid": 38140,
+  "wikitext": "{{Location Infobox\n|image        = Hanakage Underground Street.png\n|type         = Area\n|nation       = The Black Shores\n|region       = Chronorift Metropolis\n}}\n'''Hanakage Underground Street''' is an [[Area]] located in [[Chronorift Metropolis]]. It is accessible via [[Stranger Things in Honami]].\n\n==NPCs==\n{{NPCs by Location List|Hanakage Underground Street}} \n\n==City Secrets==\n''Unlocked by finding all Missing Namipons in [[Namipon Case Files]]''\n\nHanakage Underground Street was originally part of Honami's subway system, and was later repurposed into a cultural passage themed around contemporary art. Before the Lament, quarterly film festivals and exhibitions filled the streets with artworks from across Ashinohara. The gift shops sold unique souvenirs that could only be found in Honami.\n\nOf all its events, the annual \"Honami Urban Legend Exhibition\" always drew the largest crowds. Submissions ranged form amateur films by students to pieces by renowned photographers of the Pioneer Association. One anonymous short film went almost unnoticed at the time of its debut, but years later, it resurfaced in public debate. Countless interpretations sprang up, as tales in the film began to manifest in reality, one by one: \"The Migrating Fish Windsocks,\" \"The Wish-Granting Passageway,\" and \"The Midnight Ghost Bus.\"\n\n==Other Languages==\n{{Other Languages\n|en   = Hanakage Underground Street\n|zhs  = 花影地下街\n|zht  = 花影地下街\n|ja   = 花影地下街\n|ko   = 하나카게 지하상가\n|fr   = Rue souterraine Hanakage\n|de   = Hanakage-Untergrundpassage\n|es   = Pasaje Subterráneo Hanakage\n|th   = ถนนใต้ดินฮานะคาเงะ\n}} \n\n==Change History==\n{{Change History|2.8}} \n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "City Secrets",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

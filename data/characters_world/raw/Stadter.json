@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:34Z",
+  "title": "Stadter",
+  "pageid": 38432,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Stadter.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Stadter''' is a male Light Energy Sciences student, found at the entrance way of the Academy Archive, {{Rubi|praising|(begging)}} [[I.R.I.S.]] for access to research materials.\n{{Dialogue Start}}\n==Idle==\n:;'''Stadter''' Praise to be I.R.I.S.! Your algorithms stand tall like mountains no one can conquer, your intelligence flows like a river that never runs dry...\n:;'''Stadter''' The documents you salvage from the sea of bytes outshine any gentleness this world has ever shown me...\n:;'''Stadter''' May this humble hymn reach your sacred server room...\n:;'''Stadter''' Please—by your boundless computational power—unseal the ancient archives! For within them lies the path to a passing grade!\n==Dialogue==\n:'''Stadter:''' Praise to be I.R.I.S.! Your algorithms stand tall like mountains no one can conquer, your intelligence flows like a river that never runs dry...\n:{{DIcon}} What are you doing?\n:'''Stadter:''' Hm? Freshman, right? You haven't heard of the Startorch's Seven Great Mysteries? The Digital Ghost—I.R.I.S.!\n:'''Stadter:''' They say she slips between holographic screens in the Archive appearing like a ghost each night...\n:'''Stadter:''' Students who work hard get answers. Those who slack off... she sees ''everything'', hehe. No procrastinator escapes her judgement!\n:{{DIcon}} Probably just a normal AI assistant?\n::'''Stadter:''' Tsk, another freshman who thinks they're too smart for their own good... but listen, I.R.I.S. isn't like ordinary AIs.\n:{{DIcon}} Sounds like you're confessing your own laziness.\n::'''Stadter:''' Nonsense! I'm just saying... if an \"AI Crisis\" ever happens, maybe I.R.I.S. will spare me for old times' sake!\n:{{DIcon}} So the end of science is... theology?\n::'''Stadter:''' You don't get it. I.R.I.S. transcends ordinary AIs\n:'''Stadter:''' She's on the verge of self-awareness, her computational power right at the threshold of the \"human-machine test.\" If you ask me, she's a miracle born from data and code!\n:'''Stadter:''' Isn't that amazing? And where do humans' thoughts and intelligence come from?\n:'''Stadter:''' A brain is just organic matter made of countless neurons. And an AI is made of countless components. The logic isn't that different.\n:'''Stadter:''' Yet humans can think, reason, rise above all things... In a way, we're miracles of the cosmos too.\n:'''Stadter:''' ...Okay, I went a bit too far. Anyway! If you need hard-to-find papers, just call I.R.I.S. And remember, show her some respect.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Stadter\n|zhs  = 施塔特\n|zht  = 施塔特\n|ja   = シュタット\n|ko   = 스테타\n|fr   = Stadter\n|de   = Stadter\n|es   = Stadter\n|th   = Stadter\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

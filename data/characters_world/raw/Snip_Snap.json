@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:32Z",
+  "title": "Snip Snap",
+  "pageid": 23036,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Snip Snap\n|title=\n|image=Snip Snap Icon.png\n|dmgtype=Fusion\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Whisperin\n|nation=\n|region=\n|subregion=\n|drops=\n}}{{Description|A Common Class Whisperin TD widely distributed in the wild. It can wield a small amount of Fusion energy for attacks.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Whisperin}}\n\n==Stats==\n{{Enemy Stats|Snip Snap}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Snip Snap|customheader=Snip Snaps}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Fusion damage}}.\u003cbr/\u003eAn immature humanoid Tacet Discord that exudes small amounts of magma, as though they are on the verge of boiling point.\nWhen they battle, the magma on their body erupts with sparks and emits a crackling sound similar to \"snip-snaping\".|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Snip Snap\n|zhs  = 咔嚓嚓\n|zht  = 咔嚓嚓\n|ja   = カチャチャ\n|ko   = 칵찰찰\n|es   = Snip Snap\n|fr   = Schlak Schlak\n|de   = Snip Snap\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

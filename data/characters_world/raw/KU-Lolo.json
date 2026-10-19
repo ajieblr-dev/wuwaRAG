@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:11Z",
+  "title": "KU-Lolo",
+  "pageid": 39244,
+  "wikitext": "{{NPC Infobox\n|image            = KU-Lolo.png\n|type             = Event\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Black Shores\n|title            =  \n|species          = KU-Roro\n}}\n'''{{PAGENAME}}''' is a KU-Roro found in [[Jinzhou]], [[Pioneer Association]] building. They're in charge of the  {{Extra Effect|Second Coming of Solaris|Second Coming of Solaris|A virtual simulation game developed by the Pioneer Association. Despite many setbacks during development, thanks to Rover's trust and support, the game is steadily evolving towards its ideal form.}} Anniversary until it was taken over by [[Abbowser]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n== Other Languages ==\n{{Other Languages\n|en   = KU-Lolo\n|zhs  = 库乐乐\n|zht  = 庫樂樂\n|ja   = クハッピー\n|ko   = 쿠 ・ 러러\n|fr   = KU-Lolo\n|de   = KU-Lolo\n|es   = KU-Lolo\n|th   = KU-Lolo\n}}\n\n==Change History==\n{{Change History|2.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

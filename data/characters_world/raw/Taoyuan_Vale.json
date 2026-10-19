@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:41Z",
+  "title": "Taoyuan Vale",
+  "pageid": 6009,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1    = Taoyuan Vale\n|image     = Taoyuan Vale.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Central Plains\n}}\n'''Taoyuan Vale''' is an area of [[Central Plains]], [[Huanglong]]. It is the site of the [[Riverside Games]] and the most recent [[Moon-Chasing Festival]].\n\n==NPCs==\n{{NPCs by Location List|Taoyuan Vale}}\n\n==Other Languages ==\n{{Other Languages\n|en   = Taoyuan Vale\n|zhs  = 桃源乡\n|zht  = 桃源鄉\n|ja   = {{Rubi|桃源郷|とうげんきょう}}\n|ko   = 도원향\n|es   = Aldea Taoyuan\n|fr   = Ville Fleur-de-Pêche\n|de   = Kommune Taoyuan\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

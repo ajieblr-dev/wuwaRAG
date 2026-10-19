@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:56Z",
+  "title": "Villeneuve",
+  "pageid": 23200,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = Villeneuve.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Error Cell\n|group            = \n|affiliation      = Black Shores\n|title            = \n}}\n'''Villeneuve''' is an NPC in [[Error Cell]], [[Tethys' Deep]].\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events|Villeneuve}}\n\n==Dialogue==\n{{Dialogue Start}}\n:{{DIcon}} Where is this place?\n:'''Villeneuve:''' It is the end of simulated civilizations, where the stars quietly fade away.\n:{{DIcon}} Why do the stars fade?\n:'''Villeneuve:''' The [[Tethys System]] once dedicated its entire computational capacity to simulating the civilization development within Stellar Matrices.\n:'''Villeneuve:''' It generated numerous potential futures based on various decisions to predict the impact of critical choices on the trajectory of a civilization.\n:'''Villeneuve:''' Nonetheless, these simulated futures within the Stellar Matrices were either doomed to collapse or became breeding grounds for errors.\n:{{DIcon}} What if we introduce a new variable?\n:'''Villeneuve:''' A new variable brings the potential for an unknown future.\n:'''Villeneuve:''' It could be a force of change, or simply nothing.\n:'''Villeneuve:''' You alone hold the answer, don't you? Hee hee hee...\n:{{DIcon}} Who are you?\n:'''Villeneuve:''' This dream continues... Good night... Hmm... Eh...\n:{{DIcon}} ...\n:'''Villeneuve:''' Ah... I feel dizzy. What is this? A nightmare? Wait, who are you? When did you...\n:'''Villeneuve:''' Oh, I remember you! You're the Bloom Bearer who guided us through the crisis!\n:'''Villeneuve:''' Nice to meet you. I'm Villeneuve. Do you need any help?\n:{{DIcon}} Nothing. Just taking a walk here.\n:{{DIcon}} You're the one who may need some help.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Villeneuve\n|zhs  = 威伦纽瓦\n|zht  = 威倫紐瓦\n|ja   = ヴィルヌーヴ\n|ko   = 빌 뇌브\n|es   = Villeneuve\n|fr   = Villeneuve\n|de   = Villeneuve\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:33Z",
+  "title": "Aluna",
+  "pageid": 38590,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Aluna.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Square\n|affiliation      = Startorch Academy\n|affiliation2     = Roya Tribe\n\n\u003c!-- family --\u003e\n|sibling          = Zahira\n|siblingNote      = sister\n}}\n'''Aluna''' is a female [[NPC]] found in [[Startorch Academy - Square]] in front of an elevator with her classmate, '''Linda'''.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Linda:''' Eh?! Deer, Eluna!{{sic}}\n:'''Aluna:''' Huh? What's wrong?\n:'''Linda:''' No, I mean a literal deer! The mech reindeer!\n:'''Linda:''' Remember last time? Your sister [[Zahira]] rode a mech reindeer over the Royan Market wall to deliver your lunch... and got caught?\n:'''Aluna:''' Yeah... she's on the Academy's \"system blacklist\" now.\n:'''Linda:''' But they missed the reindeer! It's back, this time carrying a whole pack of Gravlaks from the Royan Market!\n:'''Linda:''' It probably couldn't find you. Look at it, munching on landscaping shrubs over there. Won't budge. You'd better get over there...\n:'''Aluna:''' Oh, no... I'm on it! Cover for me with the teacher, will you? And mark my attendance!\n\n----\n;Outside the dorm, a professor talking with a security\n:;So you banned Zahira from campus, but not her mech reindeer?\n:;What's to stop it from eating the lawn? Raiding the kitchen? Or, I don't know, giving a freshman a heart attack?\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Trivia==\n* Gravlaks is a Nordic Dish that consist of cured salmon in salt, sugar and dill. It is commonly served cold-smoked after curing.\n\n==Other Languages==\n{{Other Languages\n|en   = Aluna\n|zhs  = 艾露娜\n|zht  = 艾露娜\n|ja   = アルーナ\n|ko   = 에루나\n|fr   = Aluna\n|de   = Aluna\n|es   = Aluna\n|th   = Eluna\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

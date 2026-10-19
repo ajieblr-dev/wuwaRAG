@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:05Z",
+  "title": "Qingling",
+  "pageid": 10293,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{NPC Infobox\n|name             = Qingling\n|image            = NPC Qingling.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Norfall Pass\n|group            = \n|affiliation      = Pioneer Association\n|title            = Pioneer Association Journalist\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Qingling''' is an NPC in {{Location|Norfall Pass}}.\n\u003c!--\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n\n==Quests and Events==\n{{Quests and Events|{{subst:#titleparts:{{subst:PAGENAME}}}}}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Qingling:''' I'll go to the frontlines tomorrow to capture some footage!\n:{{DIcon}} Isn't the frontlines very dangerous?\n:'''Qingling:''' Huh? Ah, that's how it is for ordinary people!\n:'''Qingling:''' But for me, precisely because it's dangerous, I should personally experience it and truthfully convey this feeling through the lens to inform more people and keep everyone updated on the situation.\n:'''Qingling:''' Sorry, I forgot to introduce myself. I am Qingling, a war journalist. I was previously working on a special feature on the homeland inside [[Jinzhou]], and now I'm here to assist Senior [[Huowen]] with the filming.\n:'''Qingling:''' Being on the frontlines and reporting the truth is the duty of us journalists. Don't worry, I have experience in war reporting, so I won't encounter any major dangers.\n:'''Qingling:''' It's not you, you don't seem to be a [[Midnight Rangers|Midnight Ranger]]. Be careful here!\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Qingling\n|zhs  = 青翎\n|zht  = 青翎\n|ja   = 青翎（セイレイ）\n|ko   = 청우\n|es   = Qingling\n|fr   = Qingling\n|de   = Blaugrün\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

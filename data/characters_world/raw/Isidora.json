@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:02Z",
+  "title": "Isidora",
+  "pageid": 36043,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Isidora.png\n|nation           = \n|location         = Septimont\n|affiliation      = Black Shores}}\n\n'''Isidora''' is a female Bloom Bearer NPC stationed at Septimont, [[Capitoline Hill City]]. She's assigned in Septimont for investigation assignments and decided to search for potential members while there. However, she seems to be having some difficulties choosing. \n\nShe grants the achievement, [[Love Across the Sea]] when talked to during early morning.\n\n==Dialogue==\n{{Dialogue Start}}\n;(Morning, Idle)\n:;'''Isidora''' Hmm... I'd better keep this one away from [[Camellya]]...\n:;'''Isidora''' This one seems all right, but...\n\n:'''Isidora:''' Hmm... I'd better keep this one away from Camellya...\n:'''Isidora:''' This one seems all right, but I have a feeling Camellya might think he doesn't have enough brains...\n:{{DIcon}}\n:: Where there's a wooly, there's a way.\n::'''Isidora:''' Encore has a heart as big as the moon... How did you... Oh, it's you, {{Rover}}.\n:{{DIcon}} Would you like to start by watering the flowers, or saving humanity?\n::'''Isidora:''' An excellent question, {{Rover}}. I'm honored to meet you here.\n:'''Isidora:''' I am a Bloom Bearer on an investigation assignment in Septimont. I happened to have some free time lately, so I thought I'd take a look at the Agon, and see if anyone would be a good fit to join the Black Shores while I'm at it.\n:'''Isidora:''' Although, I haven't received any Blake Blooms as of now.\n----\n;(Afternoon, Idle)\n:;'''Isidora''' Show me what you're made of...\n:;'''Gladiator''' You wish to duel? Then a duel you shall have!\n:;'''Isidora''' A duel? No, I...\n----\n;(Night, idle)\n:;'''Isidora''' The Sanguis Plateaus... Might need to keep an eye on it.\n:;'''Isidora''' Did the Priestess make any prophecies lately...?\n{{Dialogue End}}\n==Quests and Events==\n{{Quests and Events}} \n==Mentions==\n{{Character Mentions}} \n\n==Trivia==\n* Isidora or Isadora is a female given name of Greek origin.\n\n==Other Languages==\n{{Other Languages\n|en   = Isidora\n|zhs  = 伊西多拉\n|zht  = 伊西多拉\n|ja   = イシドラ\n|ko   = 이시도라\n|es   = Isidora\n|fr   = Isidora\n|de   = Isidora\n}}\n\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:48Z",
+  "title": "Titanbone Expanse",
+  "pageid": 31616,
+  "wikitext": "{{Stub}}\n\n{{Location Infobox\n|title=Titanbone Expanse\n|image=Titanbone Expanse.webp\n|world_map=Solaris-3\n|type=Area\n|nation=Rinascita\n|region=Septimont}}\n\n{{Quote|A vast plain framed by mountain ranges. Named for the giant boulder clusters left by ancient lava flows, it was here that Septimontian civilization first took root centuries ago. Now, only scattered old villages remain, where wayfaring outlanders often rest before crossing into the Septimont highlands.|[https://wutheringwaves.kurogames.com/en/ ''Wuthering Waves Official Website'']}}\n\n'''Titanbone Expanse''' is an area of [[Septimont]], [[Rinascita]].\n\n== NPCs ==\n{{NPCs by Location List|Titanbone Expanse}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Titanbone Expanse\n|zhs  = 巨石原\n|zht  = 巨石原\n|ja   = タイタンボーン・エクスパンス\n|ko   = 거석 평원\n|es   = Llanura Huesotitán\n|fr   = Plaine d'Os du Titan\n|de   = Titanenknochen-Ödland\n}}\n== Change History ==\n{{Change History|2.4}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

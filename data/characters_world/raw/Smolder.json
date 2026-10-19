@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:32Z",
+  "title": "Smolder",
+  "pageid": 42392,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n |name=Smolder\n |title=\n |image=Smolder Icon.png\n |dmgtype=Fusion\n |weakpoint=Unknown\n |echo=Yes\n |class=Common\n |family=Tacet Discord\n |group=Whisperin\n |nation=Huanglong\n |region=Mengzhou\n |subregion=\n |drops=\n |nightmare=No\n}}\n{{Description|A Tacet Discord that attacks targets at range within the Tacet Field.}} \n{{Intro/Enemy}} \n\n==Drops== \n{{Drops|Common Whisperin}}\n\n==Stats==\n{{Enemy Stats|Smolder}}\n\n==Trophies==\n{{Trophies|Smolder|customheader=Smolders}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Fusion DMG}}.\u003cbr\u003e\u003cbr\u003eSmolders are Tacet Discords that attack targets at range from the outer perimeter of the Tacet Field. They always take their time preparing for their attacks, as in the eyes of these hunters by nature, their prey are nothing more than playthings waiting to be ignited at any given time.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en  = Smolder\n|zhs = 不熄猎手\n|zht = 不熄獵手\n|ja  = 熄えぬ狩人\n|ko  = 불씨의 사냥꾼\n|fr  = Embrasé\n|de  = Glutträger\n|es  = Candente\n|th  = Smolder\n|pt  = Caçador Inextinguível\n}}\n\n==Change History==\n{{Change History|3.5}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

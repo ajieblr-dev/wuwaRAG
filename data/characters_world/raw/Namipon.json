@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:43Z",
+  "title": "Namipon",
+  "pageid": 37455,
+  "wikitext": "{{CustomTabs\n|tab1 = Overview\n|tab2 = Gallery}}\n{{NPC Infobox\n|image       = Namipon In-game.png\n|name        = Namipon\n|title       = Guardian of Honami\n|type        = Quest\n|location    = Shashou Cafe\n|species     = Remnant Creature\n|affiliation = Shashou Cafe\n\n\u003c!-- VAs --\u003e\n|voiceEN     = [[imdb:nm5544317|Sara Chia-Jewell]]\u003cref\u003eInstagram: [https://www.instagram.com/p/DTaZPb2Ahrl/ EN VA Self Announcement]\u003c/ref\u003e\n|voiceCN     = \n|voiceJP     = \n|voiceKR     = \n}}\n{{Description|This Remnant Creature living inside the Sonoro Sphere of Honami City was said to have been the city's mascot before its destruction. The original \"Namipon\" was initially conceived as a municipal transit mascot that safeguard citizens' daily commutes, moving at supersonic speeds between urban railroad tracks. Later on, it gradually evolved into a mascot encompassing various aspects of the city.|Glossary Excerpt}}\n'''Namipon''' {{Lang|ja=ナミポン}} is an [[NPC]] in [[Chronorift Metropolis]] and can be found in [[Shashou Cafe]]. Prior to its destruction, Namipon was the mascot of [[Honami City]], and now declares itself the \"guardian of Honami\".\n\n==Quests and Events==\n{{Quests and Events|Namipon}} \n\n==Dialogue==\n{{Dialogue Start}}\n;(After completing {{Quest|Stagnant Dawn on Wastelands}}\n:'''Namipon''': Hello again, Passenger!\n:{{DIcon|Option}} How’s the cafe now?\n::'''Namipon''': All good here! We’ve got everything covered. Don’t worry about a thing.\n::'''Namipon''': Whenever you’ve got a moment, just drop by. I’ll have a fresh cup of coffee waiting for you. And I’ll even share my favorite Rice Dango with you…\n::'''Namipon''': Oh, and if you can… bring Chisa too. I miss her. She used to carry me through the streets of Honami. Our walks were always so much fun…\n::'''Namipon''': Passenger, the time we spent together… no matter how many times I think back on it, it always feels special. The kind of memory you want to hug close under your pillow forever.\n:{{DIcon|Option}} How’s Honami City now?\n::'''Namipon''': Still not totally normal. There’s some Lament energy hanging around. But thanks to all of you, the people’s leftover Longings all drifted up into the sky that night.\n::'''Namipon''': Like tiny stars tucked into colorful bubbles, they blew away with the wind, carried to the edge of the sky where the light is.\n::'''Namipon''': I think they made it to a better place… Back to the ones they loved most. No regrets left behind. Because every story deserves a gentle, wholesome ending. \n:{{DIcon|Option}} How are you doing?\n::'''Namipon''': I’m good. Really good, mhmm! Just the other day, I made a Rice Dango all by myself! The shape was… well, not good. But it was sweet and yummy!\n::'''Namipon''': Chisa used to make them for me, but now I can do it too. You should try one next time!\n::{{DIcon}} Do you want to explore the outside world with me, Namipon?\n::'''Namipon''': Aw, an invitation like that really makes me happy… But I can’t leave this city.\n::'''Namipon''': I was born because of Honami, and I’ll stay here to the very end. This is my home. Even if it means reliving the same loop forever… I’d still  be happy.\n::'''Namipon''': You can come back anytime, Passenger. I’ll keep the coffee warm and the Rice Dangos soft. This place will always welcome your arrival.\n{{Dialogue End}}\n\n==Mentions==\n{{Character Mentions}} \n\n==Other Languages==\n{{Other Languages\n|en   = Namipon\n|zhs  = 波仔\n|zht  = 波仔\n|ja   = ナミポン\n|ko   = 나미폰\n|fr   = Namipon\n|de   = Namipon\n|es   = Namipón\n|th   = Namipon\n}} \n\n==Change History==\n{{Change History|2.8}}\n\n[[zh:波仔]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Voicelines",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:59Z",
+  "title": "Phoebe",
+  "pageid": 24784,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}} \n\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 5\n|class            = Unclear\n|weapon           = Rectifier\n|role             = Main Damage Dealer; Concerto Efficiency; Spectro Frazzle\n|attribute        = Spectro\n|releaseDate      = 2025-02-13 \n\n\u003c!-- Info --\u003e\n|name             = Phoebe\n|realname         = Phoebe Marino\u003cref name=\"Home\"\u003e\u003c/ref\u003e\n|title            = Graceful Luminescence\n|gender           = Female\n|age              = \n|birthday         = \n|birthplace       = Rinascita\n|nation           = Rinascita\n|affiliation      = Ragunna\n|affiliation2     = Order of the Deep\n|sigil            = \n|dish             = A Slice of Pizza |obtain           = With Hushed Whispers \n\n\u003c!-- Family --\u003e\n|mother           = Unnamed\n|motherNote       = deceased\n|motherRef        = \u003cref name=\"Home\"\u003ePhoebe's Character Story: [[Phoebe/Backstory#Character Stories|Home]]\u003c/ref\u003e\n|father           = Unnamed\n|fatherNote       = deceased\n|fatherRef        = \u003cref name=\"Home\"\u003e\u003c/ref\u003e \n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm11072091|Rebecca LaChance]]\u003cref name=\"Phoebe Bilibili\"\u003e\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/zh-hans/傅婷云 Fu Tingyun ({{Lang|mini=1|zh=傅婷云}})]\u003cref name=\"Phoebe Bilibili\"\u003eBilibili: [https://www.bilibili.com/opus/1032160407411752961 《鸣潮》共鸣者战斗演示 | 菲比]\u003c/ref\u003e\n|voiceJP          = {{w|Kaede Hondo|Hondo Kaede ({{Lang|mini=1|ja=本渡楓}})}}\u003cref name=\"JP-VA_TWPhoebe\"\u003eX: [https://x.com/WW_JP_Official/status/1870680665554911286 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/이보용 Lee Bo-yong ({{Lang|mini=1|ko=이보용}})]\u003cref name=\"Phoebe Bilibili\"\u003e\u003c/ref\u003e\n}}{{Quote|Praise the Sentinel. May They guide you to compassion and enlightenment.|Phoebe}}\n{{Intro/Resonator}} She is an [[Order of the Deep#Acolyte|Acolyte]] of the [[Order of the Deep]]. A young woman of quiet devotion and compassionate, nurturing nature, she upholds the teachings of her faith with unwavering diligence. Raised her entire life as a devout Acolyte, she extends her heartfelt kindness to everyone she meets with her good graces and unquestionable reverence to Sentinel [[Imperator]]. \n\n==Official Introduction==\n{{Quote|Phoebe, an Acolyte of the Order of the Deep, always carries herself with warmth and grace.\u003cbr\u003e\u003cbr\u003e\nDevout and steadfast in her adherence to the Order's doctrines, she embodies exceptional self-discipline. Yet beneath her composed exterior burns a vibrant spirit, alight with heartfelt joy for all she holds dear.|[https://wutheringwaves.kurogames.com/en/main#resonators His introduction on the Official Website.]\n}}\n\n==Combat Overview==\n{{Main|Phoebe/Combat}}\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Phoebe|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Phoebe\n|zhs     = 菲比\n|zht     = 菲比\n|ja      = フィービー\n|ko      = 페비\n|es      = Phoebe\n|fr      = Phoebe\n|de      = Phoebe\n}}\n\n==Change History==\n{{Change History|2.1|introduced=2.0}}\n\n==References==\n\u003creferences /\u003e\n\n==Navigation==\n{{Resonator Navbox}}\n[[zh:菲比]]\n[[ru:Фиби]]\n[[Category:Spectro Frazzle DMG Amplification Resonators]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "3.3",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.4",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

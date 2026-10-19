@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:05Z",
+  "title": "Jingling",
+  "pageid": 2651,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = Jingling.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Jingling''' is an NPC in {{Location|Jinzhou}}. She can be seen talking to Taiming, a foreign merchant.\n\n==Quest and Events==\n''To be added''\n{{Quests and Events|Jingling}}\n\n==Dialogue==\n{{Dialogue start}}\n;(Interact with Jingling)\n:'''Jingling:''' Please return. If anything changes, we'll post it on the notice board.\n:'''Foreign Merchant:''' I'm not trying to rush you, but this lockdown's dragging on. Us merchants need to make a living, you know?\n{{Dialogue end}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jingling\n|zhs  = 静铃\n|zht  = 靜鈴\n|ja   = 静鈴（セイリン）\n|ko   = 정령\n|es   = Jingling\n|fr   = Jingling\n|de   = Jingling\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quest and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:49Z",
+  "title": "Gupan",
+  "pageid": 8776,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|name             = Gupan\n|image            = NPC Gupan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Distribution Center\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Gupan''' is an NPC located in [[Distribution Center]].\n\u003c!--\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n--\u003e\n==Quests and Events==\n{{Quests and Events|Gupan}}\n\u003c!--\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n;(Talk to Gupan)\n:'''Gupan:''' A little girl carried her doll to the garden. The doll suddenly let out a loud cry and called for her mother. The mother came and spooned up the doll instead of her daughter... How about it? Scared yet?\n:{{DIcon}} I thought it's just a nice nursery rhyme.\n:'''Gupan:''' Oh, this is your first time listening to a horror story, isn't it? The fact that it still gets the ones who haven't heard of it proves it's a classic macabre rhyme.\n:'''Gupan:''' The essence of horror stories is about eerie things taking place in day-to-day scenes. Like the tune I just hummed.\n:'''Gupan:''' If you pay attention, you see it's not the girl who's crying but the doll. That's why the second half is added.\n:{{DIcon}} What is the second half?\n:'''Gupan:''' Dad and Mom are arguing, and the little girl is crying. The little girl calls for Mom. M-mom is gone.\n:'''Gupan:''' Dad just fertilized the garden trees, the cherry tree turned new leaves. Curiously I dug underneath, and found my doll buried deep...\n:{{DIcon}} Your taste is really...\n:'''Gupan:''' I don't know when I became obsessed with them. Maybe it's because horror stories have a clear representation of karma.\n:'''Gupan:''' Behind the twists and turns of the gloomy plots is a pursuit of romantic ideals.\n:'''Gupan:''' I have always suspected that there are real horror stories around me, just between you and me.\n:'''Gupan:''' To think of something ominous might lurk in the darkness under the cold industrial surface of this jungle of steel and bolts... Phew... I've got goose bumps.\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Gupan\n|zhs  = 顾盼\n|zht  = 顧盼\n|ja   = 顧盼（コハン）\n|ko   = 고판\n|es   = Gupan\n|fr   = Gupan\n|de   = Gupan\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

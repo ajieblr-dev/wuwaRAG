@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:47Z",
+  "title": "Thousand-Puppet Pavilion",
+  "pageid": 42396,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Thousand-Puppet Pavilion\n|title     = Abyssal Wails\n|image     = Thousand-Puppet Pavilion Icon.png\n|dmgtype   = Electro\n|dmgtype2  = Havoc\n|weakpoint = Unknown\n|echo      = Yes\n|class     = Calamity\n|family    = Tacet Discord\n|group     = Autopuppet\n|location  = [[Court of Shackled Souls]]\n|drops     = Skyward Glazed Heart\n}}\n{{Description|A massive Autopuppet formed by absorbing the buildings of the Censure Court, bound by the battlefields of old, and bringing down merciless blades upon the enemies before it.}} \n{{Lang|Thousand-Puppet Pavilion|zh=千傀重楼}} is a [[Calamity Class]] [[Weekly Boss|Weekly]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in [[Court of Shackled Souls]].\n\n==Drops== \n{{Boss Rewards|weekly=1|exclusive=Skyward Glazed Heart}}\n\n==Stats==\n{{Enemy Stats|Thousand-Puppet Pavilion}}\n\n==Trophies==\n{{Trophies|Thousand-Puppet Pavilion|customheader=Thousand-Puppet Pavilions}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Electro DMG}}, and a {{Color|help|higher RES}} to {{Color|Havoc DMG}}.\u003cbr\u003e\u003cbr\u003eThe Thousand-Puppet Pavilion's Screen Armor, Left Arm, and Head can be broken.\u003cbr\u003e - Breaking the Thousand-Puppet Pavilion's Screen Armor increases its Vibration Strength Reduction Rate.\u003cbr\u003e - Breaking the Thousand-Puppet Pavilion's Left Arm temporarily reduces its damage dealt.\u003cbr\u003e - Breaking the Thousand-Puppet Pavilion's Head greatly increases its Off-Tune Level.\u003cbr\u003e\u003cbr\u003eThe Thousand-Puppet Pavilion has a higher Off-Tune Level gauge. When the Thousand-Puppet Pavilion is hit by Tune Break while affected by Tune Strain - Shifting, it gains 2 stacks of Tune Strain - Interfered. When its Tune Strain - Interfered reaches 3 stacks, its total DMG taken is increased by 25%.\u003cbr\u003eThe max stack limit of Tune Strain - Interfered on Thousand-Puppet Pavilion is increased by 2.\u003cbr\u003e\u003cbr\u003eBuilt by [[Muyu]], a former Artisan of Zhuojun Atelier, this giant Autopuppet has absorbed structures of Censure Courts and morphed into a formidable engine of destruction powered by Reverberations of the departed. Souls bound by the battlefields of old, longing for release, have had their obsessions twisted and manipulated, now swinging their blades of resentment at the spiteful enemies before them.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en  = Thousand-Puppet Pavilion\n|zhs = 千傀重楼\n|zht = 千傀重樓\n|ja  = 千傀の重楼\n|ko  = 천괴중루\n|fr  = Pavillon aux mille marionnettes\n|de  = Pavillon der tausend Puppen\n|es  = Pabellón de los Mil Títeres\n|th  = Thousand-Puppet Pavilion\n|pt  = Pavilhão das Mil Marionetes\n}}\n\n==Change History==\n{{Change History|3.5}} \n\n==Navigation==\n{{Enemy Navbox}}\n[[zh:千傀重楼]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

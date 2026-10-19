@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:44Z",
+  "title": "Giordano",
+  "pageid": 27170,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Giordano.png\n|type             = Open-World\n|nation           = Ragunna\n|location         = Rinascita\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Giordano''' is an NPC who appears in front of the [[Order of the Deep]]'s [[Cathedral of Mercury]] main door from 6:00 AM to 9:59 PM.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Giordano:''' Welcome to the Cathedral of Mercury. This sanctuary is open to all, around the clock.\n:'''Giordano:''' Please respect the etiquette and taboos of the Order. No noises, fighting or any other inappropriate or transgressive behaviors within Cathedral of Mercury.\n:{{DIcon}} Rules? Give some examples.\n:{{DIcon}} Understood, understood...\n:'''Giordano:''' Denying the Sentinel's existence, blasphemy, or questioning the Sentinel's decrees is forbidden—Sentinel speaks through the Order today. To question the Order is to question the Sentinel.\n:'''Giordano:''' No ill deeds before the Sentinel's statue, no instigating, no lies—even those born of harmless kindness.\n:'''Giordano:''' Please bear in mind all the over one hundred doctrines. If you're unsure, I am happy to explain each one of them to you.\n:{{DIcon}} Sounds a bit ambiguous...\n:{{DIcon}} Is there a specific set of criteria for judgment...?\n:'''Giordano:''' The Order has its own methods of judgment for your actions.\n:'''Giordano:''' If you have questions, you may consult the sacred texts here at the Cathedral of Mercury or speak to one of our Acolytes.\n:'''Giordano:''' May the Sentinel bless you.\n----\n;(After {{Quest|Dawn Breaks on Dark Tides}})\n:{{Spoiler}}\n:'''Giordano:''' Welcome to the Cathedral of Mercury. This sanctuary is open to all, around the clock.\n:'''Giordano:''' Please respect the etiquette and taboos of the Order. No noises, fighting or any other inappropriate or transgressive behaviors within Cathedral of Mercury.\n:{{DIcon}} Rules? There are still rules?\n:{{DIcon}} Understood, understood...\n:'''Giordano:''' That is precisely why we must have rules to preserve stability in times like these.\n:'''Giordano:''' Now that the truth has come to light and the crisis has passed, the more extreme clause will be struck from the code.\n:'''Giordano:''' But remember: we act in the Sentinel's stead, entrusted with the duty of guiding the mortal realm. We will not allow Rinascita, the gift bestowed upon all by the Sentinel, to descend into lawlessness simply because They have departed.\n:'''Giordano:''' Hero of Rinascita, if you still have questions, I will gladly answer them.\n:'''Giordano:''' Besides, you may consult the sacred text here at the Cathedral of Mercury or speak to one of our Acolytes.\n:'''Giordano:''' May the Sentinel bless you.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Giordano\n|zhs  = 焦尔达诺\n|zht  = 焦爾達諾\n|ja   = ジョルダーノ\n|ko   = 지오르다노\n|es   = Giordano\n|fr   = Giordano\n|de   = Giordano\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

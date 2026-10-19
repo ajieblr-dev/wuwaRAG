@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:48Z",
+  "title": "Guhong",
+  "pageid": 4258,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Guhong.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Jinzhou\n|affiliation2     = Midnight Rangers\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Guhong''' is an NPC in {{Location|Jinzhou}}, found next to [[Grandma Jue]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Guhong:''' Mrs Jue, I have news about the front.\n:'''Grandma Jue:''' Oh, thank you so much, my dear.\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:{{DIcon}} About the Elderly Person\n::'''Guhong:''' With most of the younger people gone off to war, the older people living in this area aren't very familiar with a Terminal.\n::'''Guhong:''' So I come to visit whenever I've got the time to see if they're doing well and give them news from the frontlines. A way to help them put their minds at ease.\n::'''Guhong:''' Speaking of which, can I ask you a favor? Can you help these elderly make contact with me in case of an emergency?\n::{{DIcon}} Let's do it.\n::'''Guhong:''' Much obliged. Here's my contact information. You can also find me if you meet any trouble yourself.\n:{{DIcon}} Chat\n::'''Guhong:''' Mrs. Jué, everything's going well on the front and our troops are steadily pressing forward.\n::'''Guhong:''' [[Yuzan]]'s doing perfectly fine. He's in good hands.\n::'''Grandma Jue:''' Good, good... That is certainly reassuring to hear.\n:{{DIcon|Exit}} Leave\n----\n;Complete Side Quest, {{Quest|Lost Ranger}}\n:{{DIcon}} Chat\n::'''Guhong:''' We managed to hold the line thanks to everyone's efforts.\n::'''Guhong:''' Yuzan even earned himself a promotion, it's stirring up all that energy inside of him now.\n::Grandma Jue: And it all owes to young people like yourself. By the way, how are your wounds healing?\n::'''Guhong:''' It's been healing pretty well. Thank you for asking, ma'am.\n::Grandma Jue: You should take care of yourself and get more rest. There's no need for you to visit everyday.\n::Grandma Jue: With you fighting on the frontlines protecting us, we old people are doing just fine.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Guhong\n|zhs  = 孤鸿\n|zht  = 孤鴻\n|ja   = 孤鴻（ココウ）\n|ko   = 수홍\n|es   = Guhong\n|fr   = Guhong\n|de   = Guhong\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

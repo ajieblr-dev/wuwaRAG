@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:31Z",
+  "title": "Flora Drone",
+  "pageid": 38762,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Flora Drone\n|image         = Flora Drone Icon.png\n|dmgtype       = Aero\n|echo          = Yes\n|class         = Common\n|family        = Tacet Discord\n|group         = Exoswarm\n|nation        = Lahai-Roi\n}}{{Description|A mechanical bumblebee, grown from the Exostrider's own parts. The Roya often use them as tools to collect pollen and plant nectar.}}\n{{Intro/Enemy|lang=zh=莳植熊蜂}}\n\n==Drops==\n{{Drops|Common Exoswarm}} \n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies|Flora Drone}} \n\n==Description==\n{{Description|After scanning the data of past animals in Lahai-Roi, the Exostrider used its own parts to grow and proliferate mechanical bumblebees. Due to the drone's small size and uniquely formed body, the Roya often use them as tools to collect pollen and plant nectar.|Description when discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Flora Drone\n|zhs  = 莳植熊蜂\n|zht  = 蒔植熊蜂\n|ja   = カフンクマバチ\n|ko   = 파종 호박벌\n|fr   = Drone floral\n|de   = Flora-Drohne\n|es   = Dron Floral\n|th   = Flora Drone\n}} \n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

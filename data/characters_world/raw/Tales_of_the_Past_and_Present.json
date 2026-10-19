@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:40Z",
+  "title": "Tales of the Past and Present",
+  "pageid": 27258,
+  "wikitext": "{{Stub|Missing other languages, some items (pages aren't done)}}\n{{CustomTabs\n|tab1 = Overview\n|tab2 = Quest Items (Completed Tales)\n}}\n{{Terminology Infobox\n|title        = Tales of the Past and Present\n|type         = Quest Series\n|type2        = Side Quests\n|type3        = Lore\n|nation       = Huanglong\n|nation2      = Rinascita\n}}\n'''Tales of the Past and Present''' is a group of hidden [[Side Quests]] that take place all around [[Solaris-3]]. Each quest is activated, when all [[Torn Pages and Abandoned Data Chips|Torn Pages or Abandoned Data Chips]] are collected from within a [[Region]]. Not all Regions have Torn pages or Abandoned Data Chips. Those that do have them, have 3 or 4. As a reward a data chip or a booklet is obtained. These chips and booklets contain [[Lore]] related to the Region it was collected from.\n\n==Quests In Different Nations==\n\nIn [[Huanglong]] the collected Torn Pages or Abandoned Data Chips are taken to the [[Storyteller]], located in [[Jinzhou]] next to the Theater.\n\nIn [[Ragunna]] the Torn pages are delivered to [[Fuling]] in [[Egla Town]]. Unlocking these Quests in Ragunna requires {{Quest|Immortal Blaze}} to be completed.\n\n==List of the Quests and Quest Items==\n{{Quest Items and Quests Table|Tales of the Past and Present}}\n\n==Other Languages==\n{{Other Languages}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests In Different Nations",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "List of the Quests and Quest Items",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

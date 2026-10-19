@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:19Z",
+  "title": "Encore's Mother",
+  "pageid": 36002,
+  "wikitext": "{{NPC Infobox\n|image            = Encore's mother cinematic.jpg\n|name             = \n|title            = \n|type             = Mentioned\n|status           = Deceased\u003cbr\u003eDied of an unspecified illness prior to the game's main story.\u003cref\u003e{{Quest|Small Wooly, Big Adventures}} — (Encore: \"''I thought that if I stayed a good girl like the characters in the stories, Mom would get better and better... But her illness got worse.''\")\u003c/ref\u003e\n\n\u003c!-- Family --\u003e\n|child            = Encore\n|childNote        = daughter\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Encore's mother''' is a mentioned only [[NPC]] and the mother of [[Encore]]. She was the one who gifted Encore wooly plushies, Cosmos and Cloudy. \n\nShe makes her first appearance in {{Quest|Small Wooly, Big Adventures}}.\n\n==Mentions==\n{{Character Mentions}}\n\n==Gallery==\n===Videos===\n\u003cgallery\u003e\nWuthering Waves Story Cinematics - The First Wooly Story\n\u003c/gallery\u003e \n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "5"
+    }
+  ]
+}

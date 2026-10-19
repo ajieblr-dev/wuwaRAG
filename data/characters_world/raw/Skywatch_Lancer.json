@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:31Z",
+  "title": "Skywatch Lancer",
+  "pageid": 79535,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Skywatch Lancer\n|title=\n|image=Skywatch Lancer Icon.png\n|dmgtype=Aero\n|weakpoint=\n|echo=Yes\n|class=Elite\n|family=Tacet Discord\n|group=Autopuppet\n|nation=Huanglong\n|region=Mengzhou\n|subregion=Simulacrum Nexus of Mengzhou\n|nightmare=no\n|drops=\n}}{{Description|Clad in steel feather armor, wielding a lance. It excels at proving covering firing from the sky. But its existence seems to only be found in the historical records of the Land of Xuanfang.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Elite Autopuppet}}\n\n==Stats==\n{{Enemy Stats}}\n\u003c!--\n==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Skywatch Lancer|customheader=Skywatch Lancer}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Aero DMG}}.\u003cbr/\u003eThe total Negative Status DMG taken by this enemy is increased by 100%.\u003cbr /\u003eA type of Autopuppet developed by the Court of Savantae in Mengzhou to counter airborne Tacet Discords. Its exceptional mobility is designed for rapid deployment, enabling it to provide emergency support to Censure Courts across the region.\u003cbr /\u003e\u003cbr /\u003eIts design draws inspiration from the Xuanling Bird. The propulsion units mounted on either side employ the same levitation technology used in the Skywatch Ring.\u003cbr /\u003e\u003cbr /\u003eUnfortunately, before the Skywatch Lancer could enter large-scale production at Skyworks, the manufacturing lines were destroyed by Tacet Discords during the Fortress and Gorges War.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Skywatch Lancer\n|zhs  = 巡霄枪卫\n|zht  = 巡霄槍衛\n|ja   = 霄巡りの槍衛\n|ko   = 순소창위(巡霄槍衛)\n|fr   = Lancier des cieux\n|de   = Himmelswacht-Lanzenwache\n|es   = Lancero Vigilante\n|th   = Skywatch Lancer\n|pt   = Atirador Vigiacéu\n}}\n\n==Change History==\n{{Change History|3.7}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

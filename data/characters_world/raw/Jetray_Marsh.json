@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:04Z",
+  "title": "Jetray Marsh",
+  "pageid": 39619,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Jetray Marsh\n|image     = Jetray Marsh.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Roya Frostlands\n|region    = Stagnant Run\n}}\n\n'''Jetray Marsh''' is an area of [[Stagnant Run]], [[Roya Frostlands]]. \n\n==NPCs==\n{{NPCs by Location List|Jetray Marsh}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jetray Marsh\n|zhs  = 空游泽\n|zht  = 空游澤\n|ja   = セレスティアル・マーシュ\n|ko   = 제트레이 머쉬\n|fr   = Marais des Aéraies\n|de   = Schweifmoor\n|es   = Humedales de Turborayas\n|th   = หนองน้ำผู้ท่องสวรรค์\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:35Z",
+  "title": "Starstack",
+  "pageid": 39251,
+  "wikitext": "{{Terminology Infobox\n|title        = Starstack\n|image        = Starstack worn by Researchers.png\n|type         = Lore\n|nation       = Lahai-Roi\n}}\n{{Description|A Starstack device, standard issue for all Spacetrek Collective personnel. It's used to monitor students' frequency signals and assess their condition in real time.|[[Mornye/Backstory#Cherished Items|Mornye's Cherished Items, Modified Starstack]]}}\nA '''Starstack''' is a floating star-shaped device worn by [[Startorch Academy]] personnel to monitor the wearers \u0026 student's frequency and vitals. It can also be used as a communicative device to broadcast conversation.\u003cref\u003e[[Pelm]]\u003c/ref\u003e\n\nIt is unknown if students accessories are also called Starstacks, however it is believed to be the case as there have been Personnel's wearing the same three star star piece and students with two star piece\u003cref\u003e[[Davin]]\u003c/ref\u003e. There is one case of a professor referring to her student Starstack frequency.\u003cref\u003e[[Restoration: Silent Crag!]] \"According to her Starstack's frequency ping, her vitals are stable.\"\u003c/ref\u003e\n\nIn [[Mornye]]'s case, she modified her Starstack to monitor the status of her prosthetic limbs, reply to work messages, pilot vehicles on autopilot, and command Hover Cannons to deliver Nutri-Packs—all without interrupting her train of thought.\u003cref name=\"MORNYE\"\u003e[[Mornye/Backstory#Cherished Items|Mornye's Cherished Items, Modified Starstack]]\u003c/ref\u003e\n\n==Gallery==\n\u003cgallery\u003e\nStarstack worn by Researchers.png|Starstack seen worn by Professors and Researchers. There is two pieces.\nStarstack worn by Students.png|Starstacks seen worn by Academy students. There is three pieces, one behind the head.\nCherished Item Modified Starstack.png|[[Mornye]]'s modified Starstack to suit her needs.\u003cref name=\"MORNYE\" /\u003e\n\u003c/gallery\u003e\n\n==See Also== \n* [[Stargram]] \n\n==Trivia== \n* Starstack design worn by personnel is similar to the image formed by Star stacking, a technique that combines multiple consecutive exposures of the night sky into a single final image.\n\n==Other Languages==\n{{Other Languages\n|en   = Starstack\n|zhs  = 星栈\n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   =\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

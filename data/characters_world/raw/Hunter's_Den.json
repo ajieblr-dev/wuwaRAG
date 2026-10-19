@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:59Z",
+  "title": "Hunter's Den",
+  "pageid": 36355,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Hunter's Den\n|image     = Hunter's Den.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Rinascita\n|region    = Sanguis Plateaus}}\n\n'''Hunter's Den''' is an area of [[Sanguis Plateaus]], [[Rinascita]].\n\n== NPCs ==\n{{NPCs by Location List|Hunter's Den}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Hunter's Den\n|zhs  = 狩猎者营地\n|zht  = 狩獵者營地\n|ja   = 狩人のキャンプ\n|ko   = 사냥단 캠프\n|es   = Refugio de los Cazadores\n|fr   = Repaire du chasseur\n|de   = Jägerhöhle\n}}\n\n== Change History ==\n{{Change History|2.6}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

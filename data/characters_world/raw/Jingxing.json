@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:06Z",
+  "title": "Jingxing",
+  "pageid": 42832,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Department of Light Energy Sciences\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''{{PAGENAME}}''' is a male [[NPC]] student who can be found near the [[Resonance Nexus|Solar Lens Array]] in [[Startorch Academy]] at night, being scolded by a [[TARD-E Unit]]. \n\n==Location==\n\n==Dialogue==\n{{Dialogue Start}}\n:'''TARD-E Unit:''' Your paper submission is late by exactly 2 Lahai-Roi days, 7 hours, 5 minutes, and 36 seconds.\n:'''Jingxing:''' Arrrrrggghhh! STOP IT, PLEASE! I'll write it now!\n:'''TARD-E Unit:''' You once claimed a Fluffguin stole your paper, causing the delay.\n:'''TARD-E Unit:''' That's a violation of Research Integrity Protocols. It also disappoints this TARD-E Unit.\n:'''Jingxing:''' Seriously…? You sound just like my mom right now.\n:'''TARD-E Unit:''' Acknowledged. Activating \"parental nagging module.\"\n:'''TARD-E Unit:''' Why can't you stop playing for one second and focus on finishing your homework?!\n:'''TARD-E Unit:''' Look at your classmate [[Elios]]! Now that's a model student!\n:'''Jingxing:''' ...FINE! I'll get it done, okay?!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jingxing\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

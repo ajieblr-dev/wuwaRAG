@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:45Z",
+  "title": "Three Heroes' Crest",
+  "pageid": 36626,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Three Heroes' Crest\n|image     = Three Heroes Crest.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Rinascita\n|region    = Sanguis Plateaus}}\n\n'''Three Heroes' Crest''' is an area of [[Sanguis Plateaus]], [[Rinascita]].\n\n== NPCs ==\n{{NPCs by Location List|Three Heroes' Crest}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Three Heroes' Crest\n|zhs  = 三王峰\n|zht  = 三王峰\n|ja   = モンテ・トライヒーロー\n|ko   = 세 영웅의 봉우리\n|es   = Acantilado de los Tres Héroes\n|fr   = Crête des Trois Héros\n|de   = Gipfel der Drei Helden\n}}\n\n== Change History ==\n{{Change History|2.7}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

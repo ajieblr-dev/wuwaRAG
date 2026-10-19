@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:21Z",
+  "title": "Sela",
+  "pageid": 41743,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Event\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|location2        = Rabelle College\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is an event-exclusive NPC for the {{Quest|Gold Suspended in Shadows}} during the {{Extra Effect|New Solar Celebration|New Solar Celebration|The Exostrider poured forth light and heat from its Reactor Drive, sheltering life from the killing frost. Grateful for this gift, the Roya revered the Reactor Drive as their sun. They took it upon themselves to gather the Exostrider's \"cells,\" making this quiet labor the duty of their tribe.\u003cbr\u003eNow, their ancient vow is complete. As the new sun rises, they hold the New Solar Celebration, both to mark the renewal and to remind their kin of the purpose that set them on this path.}}.\n\nShe appears inside the Audio Lab of [[Rabelle College]] at {{color|help|12:00 to 20:00}}.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Sela:''' You're telling me the singer of \"The TARD-E Song\" wasn't actually a TARD-E Unit??\n:'''Nora:''' Do you even read campus news?! Fleet Snowfluff is literally one of the most popular student singers at Startorch! She's the one who dropped the original version!\n:'''Nora:''' Story goes, a TARD-E Unit overheard her humming it and learned the song instantly.\n:'''Nora:''' Then once the song went viral among the TARD-E Units, Fleet Snowfluff released a second version featuring their vocals.\n:'''Nora:''' Get this, she even credited them in the song notes! A powerhouse collaboration between a campus star and cybernetic life! Iconic or what?\"\n:'''Sela:''' The TARD-E Units are definitely campus stars, but I'm not sure Fleet Snowfluff qualifies as cybernetic life...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events|Sela}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sela\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

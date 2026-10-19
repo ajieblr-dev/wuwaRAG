@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:57Z",
+  "title": "Paolo",
+  "pageid": 27138,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n}}\n{{stub|Missing NPC Image}}{{NPC Infobox\n|image            = NPC Paolo.png\n|type             = Open-World\n|nation           = Ragunna\n|location         = Rinascita\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Paolo''' is an NPC who appears in [[Montelli Quarter]], [[Ragunna]] at daytime. He sells Thief's Talon, which he claims can bring fortune to its owner. (You can buy it after interacting with him for 3000 [[Shell Credit|Shell Credits]]).\n\nAfter you buy his Thief's Talon, wait for 2 days, and then you can find him talking to talking to [[Alberto]] in [[City Square]] behind a bush. After you interact with him, you will get 30000 Shell Credits and an achievement, [[Justice Is Done]].\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Paolo:''' A merchant's lucky charm, your perfect business ally!\n:'''Paolo:''' It costs only a few Shell Credits and will bring you great fortune!\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction)\n:'''Paolo:''' Excuse me, {{MC|m=Sir|f=Miss}}! I can tell you're a distinguished guest of Ragunna!\n:'''Paolo:''' You're exactly the kind of person destined to make a mark in the vibrant [[Montelli Quarter]].\n:'''Paolo:''' Alas, it's such a shame...\n:{{DIcon}} A shame?\n:'''Paolo:''' Many people want to connect with the Montelli family here, but few manage to strike it rich.\n:'''Paolo:''' Ultimately, they lack something essential, just like you. What a shame...\n:{{DIcon}} What special item do I need to do business here?\n:'''Paolo:''' You need the golden touch—an amulet that brings fortune, the Thief's Talon.\n:'''Paolo:''' Carry one of these, and soon enough, everyone will know your name in the Montelli Quarter.\n:'''Paolo:''' As luck would have it, I have one for sale. I'll let it go for three thousand. It's a treasured heirloom of mine...\n:{{DIcon}} Three thousand!?\n:'''Paolo:''' A fair price, I assure you!\n:'''Paolo:''' Wait! Don't go, {{MC|m=Sir|f=Miss}}! I have other items too! If that's too much, I can give you a discount. Please, just take a look...\n----\n;(Buying Thief's Talon)\n:'''Paolo:''' As we say in Ragunna, those who have a keen eye always find wealth.\n:'''Paolo:''' Have a wonderful day, lucky {{MC|m=gentleman|f=lady}}. May fortune be with you.\n----\n;(After buying Thief's Talon)\n:'''Alberto:''' Oh, look, isn't it my old friend Paolo!\n:'''Paolo:''' Acolyte Germano from the Order Tribunal? What a coincidence!\n:'''Alberto:''' I've been watching your little transaction with this {{MC|m=gentleman|f=lady}}.\n:'''Alberto:''' So, what did you sell this time? Shh... don't say anything yet. Let me guess.\n:'''Paolo:''' Hehe, I was just...\n:'''Alberto:''' Shh—don't interrupt my thinking!\n:'''Alberto:''' Was it... the cure-all Mastic Nuvola?\n:'''Alberto:''' No way, this {{MC|m=gentleman|f=lady}} looks fit enough to take me down easily.\n:'''Alberto:''' Was it... the Sunflare Nectar that makes people glow?\n:'''Alberto:''' Well... {{MC|m=he|f=she}} is already so handsome. I bet all the artists in Ragunna would jump at the chance to paint {{MC|m=him|f=her}}.\n:'''Alberto:''' Oh my! I'm so forgetful! It was the Thief's Talon, am I right?\n:{{DIcon}} Do I look poor to you?\n:'''Alberto:''' That's not what I meant. Rich or poor, one can never have too many Shell Credits.\n:'''Alberto:''' So, are you planning to pay your customer back tenfold, or are you coming with me, Paolo?\n:{{DIcon}} You owe me 30,000 Shell Credits!\n:'''Alberto:''' Paolo, looks like your Thief's Talon finally worked for once.\n:{{DIcon}} It really worked!\n:'''Paolo:''' Wh-what? Damn my luck!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Paolo\n|zhs  = 保罗\n|zht  = 保羅\n|ja   = パウロ\n|ko   = 바오로\n|es   = Paolo\n|fr   = Paolo\n|de   = Paolo\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

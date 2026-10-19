@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:39Z",
+  "title": "Fujian",
+  "pageid": 2645,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Fujian.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Huaipu Mining Firm\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = Fuyan\n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Fujian''' is the son of [[Fuyan]], the owner of [[Huaipu Mining Firm]]. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Night)\n:'''Fujian:''' Hey Dad, got all the goods in. Care to take a look?\n:'''Fuyan:''' Hmm... This batch looks good.\n:'''Fujian:''' You know it, Dad. Jinzhou boasts top-notch minerals. Quality is never an issue here!\n:'''Fuyan:''' And the prices?\n:'''Fujian:''' Already sorted it with the Mineral Corporation. Stick to the old rules. No need to factor in the recent price changes.\n:'''Fuyan:''' We didn't take advantage of them, right?\n:'''Fujian:''' Dad, trust me. We didn't take any advantage. We've been loyal customers, and with my staff discount, this is the right price.\n:'''Fuyan:''' Good, good. Remember, son, fair play keeps the business rolling.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fujian\n|zhs  = 扶坚\n|zht  = 扶堅\n|ja   = 扶堅（フケン）\n|ko   = 기철\n|es   = Fujian\n|fr   = Fujian\n|de   = Fujian\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

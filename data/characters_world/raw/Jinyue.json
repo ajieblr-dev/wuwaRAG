@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:07Z",
+  "title": "Jinyue",
+  "pageid": 5319,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Jinyue.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = Treasure Seeking Enthusiast\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n{{Quote|Alright. Time for a new puzzle. Where's the next one?}}\n'''Jinyue''' is an NPC in {{Location|Jinzhou}}.\n\n==Dialogue==\n{{Dialogue Start}}\n;(Talk before opening the chest)\n:'''Jinyue:''' Hmm... Umm... How do I open this box...\n:'''{{DIcon}}''' What's the matter?\n:'''Jinyue:''' Eh? No, nothing's wrong. Well, okay, something's wrong...\n:'''Jinyue:''' It's this chest next to me. I found it after a lot of searching, but I can't open it.\n:'''Jinyue:''' How about this, if you can open it, whatever is inside is yours!\n----\n;(Talk again)\n:'''Jinyue:''' Do you think you can open it? If you can, whatever is inside should be rightfully yours!\n:'''{{DIcon}}''' A chest?\n::'''Jinyue:''' Yes, the chest right next to me.\n::'''Jinyue:''' I've tried everything, but it's still locked tight.\n::'''Jinyue:''' I love treasure hunting. I went through a lot to bring it back, but now  I can't get it open...\n:'''{{DIcon}}''' You don't want what's in the chest?\n::'''Jinyue:''' It's not that I don't want it, but if you can open it, I should give you a reward.\n::'''Jinyue:''' I'm big on puzzles and treasure hunting. I found this chest that just won't open. I've been trying to unlock it for ages.\n::'''Jinyue:''' But after all this time, I still can't get it open. I've lost interest in what's inside. I just want to see it open!\n::'''Jinyue:''' So, if you can open this chest, whatever's inside is yours!\n----\n;(Talk after opening the chest)\n:'''Jinyue:''' Impressive! You actually opened it!\n:'''Jinyue:''' Now, spill the beans. How did you do it?\n:'''Jinyue:''' I've been trying for ages... Using brute force to pry it open didn't work. Did you try kicking it?\n:'''Jinyue:''' Or... or did you use some kind of Resonance ability?\n----\n:'''Jinyue:''' Alright. Time for a new puzzle. Where's the next one?\n----\n;(Day)\n:'''Jinyue:''' How did you open that box? Tell me when you have a moment.\n----\n;(Night, first interaction)\n:'''Jinyue:''' Didn't I also find a treasure map last time?\n:'''Jinyue:''' Where did I put that treasure map...\n:'''{{DIcon}}''' Treasure map?\n:'''Jinyue:''' Yes, yes! I love solving puzzles and treasure hunting. Sometimes I find treasure maps just for fun.\n:'''Jinyue:''' When I find the map I was looking for, I'll show it to you. Maybe you can solve what I couldn't!\n----\n:'''Jinyue:''' I'll tell you once I find the treasure map!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jinyue\n|zhs  = 金悦\n|zht  = 金悅\n|ja   = 金悦（キンエツ）\n|ko   = 김열\n|es   = Jin Yue\n|fr   = Jin Yue\n|de   = Jin Yue\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

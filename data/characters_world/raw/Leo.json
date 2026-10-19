@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:20Z",
+  "title": "Leo",
+  "pageid": 28016,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Leo.png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Fool's Elysium\n|group            = \n|affiliation      = Troupe of Fools\n|title            = \n}}\n'''Leo''' is a boy NPC located at [[Fool's Elysium]].\n\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction with Cratos and [[Marianne]])\n:'''Leo:''' Wow! Cool! Let me listen!\n:'''Cratos:''' Leo! No! Good children shouldn't learn that! Ugh, I'll need to figure out how to separate it from the rest of the Fae Ignises...\n:{{DIcon}} What happened?\n:'''Marianne:''' Well, this Fae Ignis somehow picked up some foul language, and it just can't stop using it.\n:'''Angry Fae Ignis:''' *Ragunna curse* the Order! You're a *Ragunna curse* coward! Coward! Liar! Liar!\n:'''Marianne:''' See? Just like that.\n:'''Angry Fae Ignis:''' Coward! Coward! Coward!\n:'''Marianne:''' I really don't know where it learned that. Could it be that these words were the reason the Order banished it?\n:'''Angry Fae Ignis:''' The Order! Liar! Liar! Liar!\n----\n;(When stading alone under a lamp)\n:'''Leo:''' Hey, let me tell you a little secret...\n:{{DIcon}} What secret?\n:'''Leo:''' Yesterday, Leo overheard Pan Cake whispering with all the Fae Ignises in the troupe, and Marianne's Fae Ignis joined in too!\n:'''Leo:''' Pan Cake taught them that! In fact, all the Fae Ignises in the troupe have picked it up now.\n----\n;{{Spoiler}}\n;(First interaction after {{Quest|Dawn Breaks on Dark Tides}})\n:'''Angry Fae Ignis:''' People of Ragunna! Confront the Dark Tide and protect our people! Give it your all for Ragunna! Protect the Dark Tide!\n:'''Leo:''' No, no, that's not how it goes. It's \"Confront the Dark Tide and protect our people.\" \n:'''Cratos:''' Leo, you too? Now you're trying to teach it as well?\n:'''Cratos:''' Sigh... Well, I suppose that's still better than what it said before.\n:'''Marianne:''' Leo, are you done? I want to teach it something else next...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Leo\n|zhs  = 里奥\n|zht  = 里奧\n|ja   = リオ\n|ko   = 리오\n|es   = Leo\n|fr   = Leo\n|de   = Leo\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

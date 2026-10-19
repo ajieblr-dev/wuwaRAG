@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:52Z",
+  "title": "Umberto",
+  "pageid": 79047,
+  "wikitext": "{{Stub|There's possibly a bug that does not allow players to speak to him despite meeting him during the required weather condition and focus mode being turned off.}}\n{{NPC Infobox\n|image            = NPC Umberto.png\n|type             = Open-World\n|nation           = Rinascita\n|affiliation      = \n|status           = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Umberto''' is a NPC in {{Location|Ragunna City}} who only appears during Cloudy or Rainy weather during the day until 16:00. \n\n==Dialogue==\n{{Dialogue Start}}\n:'''Umberto:''' The rainy season in Ragunna seems to drag on longer every year... Ugh, how much longer do I have to sort through these soaked goods?\n\n:'''Umberto:''' Are you looking to buy something? Ugh, look at me, getting ahead of myself! No one's going to want these now that they look like garbage.\n\n:{{DIcon}}  Is this because of the rainy season?\n\n:'''Umberto:''' Yeah. But you haven't seen the worst. There was a year when the rising seawater flooded the main streets of the city, nearly up to my waist.\n\n:'''Umberto:''' Many Gondolas got stuck in the streets, and we spent two sleepless nights trying to salvage the soaked goods.\n\n:{{DIcon}}  Did you not receive any help?\n\n:'''Umberto:''' Of course, we did.\n\n:'''Umberto:''' Surprisingly, the Order and the nobles sent out a fleet of Gondolas to rescue those in the lowlands, taking them to higher ground in the Order and Fisalia district for shelter.\n\n:'''Umberto:''' That was the first time I saw the usually quiet Fisalia district so lively. Even though they acted all high and mighty, they still did their best to help.\n\n:{{DIcon}}  So that's how they are.\n\n:'''Umberto:''' Yeah, after that, I realized that some people from Fisalia can seem tough on the outside but are actually kind-hearted. They're not as malicious as we often think.\n----\n;(Night)\n:'''Umberto:''' Hmph, easy for you to say from a distance... \n\n:'''Umberto:''' “Why don't you follow my example and move your goods to a Gondola?” \n\n:'''Umberto:''' And then, \"I've lived my whole life, never seen a Ragunna native get seasick!\"\n\n:'''Umberto:''' Bah! Bah! Go to blazes, [[Sergio]]!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Umberto\n|zhs  = 翁贝托\n|zht  = 翁貝托\n|ja   = ウンベルト\n|ko   = 움베르토\n|fr   = Umberto\n|de   = Umberto\n|es   = Umberto\n|th   = Umberto\n|pt   = Umberto\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:28Z",
+  "title": "Fireworks Shop",
+  "pageid": 20557,
+  "wikitext": "{{Location Infobox\n|image        = \u003cgallery\u003e\nFireworks Context.png | In-Game\nFireworks Stall Art.png | Art\n\u003c/gallery\u003e\n|type         = Point of Interest\n|type2        = Shop\n|icon         = Icon Fireworks.png\n|event        = By Moon's Grace\n|area         = Taoyuan Vale\n|region       = Central Plains\n|nation       = Huanglong\n}}\n{{Quote|Wait for me, Woolies. Those aren't toys!\u003cbr\u003e\u003cbr\u003e\u003chr\u003e\u003cbr\u003eWow, fireworks! Encore loves things that can light up the sky!|[[Encore]]\n}}\n'''Fireworks Shop''' is an event-exclusive [[Point of Interest|point of interest]] located in [[Taoyuan Vale]], [[Central Plains]], [[Huanglong]] during the [[By Moon's Grace]] event.\n\n==Shop==\n{{Vedor|Xisha}}\n\n==NPCs==\n* [[Xisha]]\n\n==Descriptions==\n{{Description|Fireworks have long been a beloved tradition in Huanglong, lighting up the sky with brilliant colors during every festival.\n\u003cbr /\u003e{{Color|#a5a19d|Build or Upgrade this stall to gain more Popularity. Visit the stall to buy exclusive event items.}}|[[Map]] description}}\n\u003cgallery\u003e\nFireworks Location.png|Location\n\u003c/gallery\u003e\n\n==Dialogue==\n{{Transclude|Xisha|By Moon's Grace}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fireworks Shop\n|zhs  = 烟花摊\n|zht  = 煙火攤\n|ja   = 花火屋\n|ko   = 불꽃 가게\n|es   = Tienda de fuegos\n|fr   = Feux d'artifice\n|de   = Feuerwerksladen\n}}\n\n==Change History==\n{{Change History|1.2}}\n\n==Navigation==\n{{PoI Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

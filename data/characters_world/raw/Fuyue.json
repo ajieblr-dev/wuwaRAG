@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:40Z",
+  "title": "Fuyue",
+  "pageid": 4626,
+  "wikitext": "{{NPC Infobox\n|image            = Fuyue.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Fuyue''' is an NPC in [[Jinzhou]], found at the Commercial District.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Fuyue:''' Jinzhou is just incredible, right? The sky's so blue, the food smells amazing, and the energy from people practicing martial arts is off the charts!\n:{{DIcon}} You're not from around here?\n:'''Fuyue:''' Nope, totally new here. I thought Jinzhou was just some sleepy border town, but wow, it's blowing me away with its charm!\n:'''Fuyue:''' And the folks here... despite dealing with all those [[Tacet Discord]]s and [[Exiles]], they still manage to whip up delicious food and build these gorgeous houses.\n:'''Fuyue:''' Guess this is what they mean by \"living life to the fullest\". The moment I arrived here, I just felt like, \"Yes! This is it!\"\n:{{DIcon}} \"Yes! This is it!\"?\n:'''Fuyue:''' Yeah. You know what [[Linglong]] says? \"As a designer, I want to create outfits that match people's lifestyles perfectly.\"\n:'''Fuyue:''' She believes clothes should not only fit your body but also uplift your mood and energy. That's why a designer thrives in places where everyone's living their best life!\n:'''Fuyue:''' No wonder Linglong chose to open a branch here.\n:{{DIcon}} Linglong?\n::'''Fuyue:''' Wait, you haven't heard of her? She's a total fashion icon! Her brand \"Longyue\" is like a global sensation. People literally camp out to get their hands on her latest drops.\n::'''Fuyue:''' Linglong aims to make fashion more exciting and accessible. That's why she's opening up stores all over the world!\n:{{DIcon}} A branch?\n::'''Fuyue:''' Guess what? Longyue, Linglong's original brand, is making its way to Jinzhou soon!\n::'''Fuyue:''' Whenever Longyue's main store gets new arrivals, people literally camp out to get their hands on her latest drops.\n::'''Fuyue:''' In order to create more interesting designs and to let more customers buy their favorite clothes, Linglong has decided to open branches all over the world!\n:'''Fuyue:''' With plans to expand globally, she's gotta keep that Longyue vibe while adding local characteristics.\n:'''Fuyue:''' So Linglong's always on the move, soaking up inspiration from different places. I bet she's already had some amazing designs for Jinzhou!\n:'''Fuyue:''' Haha, just imagine everyone here wearing Linglong's designs. Nice people in nice clothes.... It'll be fabulous!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fuyue\n|zhs  = 浮约\n|zht  = 浮約\n|ja   = 浮約（フヤク）\n|ko   = 보영\n|es   = Fuyue\n|fr   = Fuyue\n|de   = Fuyue\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:33Z",
+  "title": "Maher",
+  "pageid": 36699,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Huanglong\n|location         = Septimont\n|location2        = Capitoline Hill\n|group            = \n|affiliation      = \n|title            = \n}}\n'''Maher''' is a [[Huanglong]] tourist [[NPC]] in [[Capitoline Hill City]], [[Septimont]].\n\n==Dialogue==\n{{Dialogue Start}}\n;(Day)\n;(First interaction)\n:'''Maher:''' Hello! You must be from Huanglong! I'm Maher. A word of advice: don't listen to these [[Vitto|guys]]. I wouldn't lie to a fellow Huanglonger!\n:{{DIcon}} You're Mahe?\n::'''Maher:''' That's right, I'm Maher! Take it from me. Don't go with those guys to eat any so-called Septimont delicacies.\n:{{DIcon}} Do you sell eggs?\n::'''Maher:''' What? Eggs? No, no, no, you've got the wrong guy. But listen! Don't go with those guys to eat any so-called Septimont delicacies.\n:'''Maher:''' They took me to eat this \"sardinpuca\"...? \"Serdinbaca\"...? \"[[Saltimbocca]]!\" Anyway, the thing felt like it was beating up my tongue!\n:'''Maher:''' I'm still hurting from eating that... What kind of seasoning did they put... Hang on. Seasoning...\n:'''Maher:''' I got it! I got it! Thank you!\n:{{DIcon}} You're welcome?\n:{{DIcon}} But I didn't do anything...\n----\n;(Second interaction)\n:'''Maher:''' I've got it! This is a real business opportunity!\n:'''Maher:''' Do you know what the rarest commodity is when out at sea? Gold? Fresh fruit? Or...\n:{{DIcon}} Spices from Huanglong?\n:'''Maher:''' That's right. I've noticed these Septimontians like eating meat with heavy seasoning, and what's more, they like trying new things.\n:'''Maher:''' Huanglong spices taste very different from ones here. I've tried adding spices from Huanglong into Saltimbocca, resulting in some unique flavors.\n:'''Maher:''' So I want to sell Huanglong spices in Septimont.\n:'''Maher:''' What do you think? Will it work?\n:{{DIcon}} It'll work.\n::'''Maher:''' Wonderful! I'm going to make it big in Septimont!\n:{{DIcon}} I need to think about it.\n::'''Maher:''' Over time, I'm sure I'll get a solid footing in the Septimont spice market.\n:{{DIcon}} So you're an entrepreneur now?\n::'''Maher:''' Am I? So are you. I see you also have loads of sundries on your person. Could we be in the same profession?\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* The phonetic of Maher (马合) name is very similar to [[Mahe]] (马和), thus Rover's confusion and response. \n\n==Other Languages==\n{{Other Languages\n|en   = Maher\n|zhs  = 马合\n|zht  = 馬合\n|ja   = 馬合\n|ko   = 마화\n|es   = Maher\n|fr   = Maher\n|de   = Maher\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

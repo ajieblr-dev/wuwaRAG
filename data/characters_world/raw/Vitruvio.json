@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:57Z",
+  "title": "Vitruvio",
+  "pageid": 39276,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Vitruvio.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Atuja Camp\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC male Researcher from the Startorch Academy found speaking to a Royan Shepherd, '''Alviss''' near by the Resonance Beacon of Atuja Camp. \n\n==Dialogue==\n{{Dialogue Start}}\n:'''Vitruvio:''' May I ask why your people don't settle within Bjartr Woods?\n:'''Alviss: '''For the Soliskin, Bjartr Woods is home. It is there they rest, grow, and return to the Solistrees at the very end.\n:'''Alviss:''' We Shepherds watch and tend to them, but disturb their rest we do not. Neither do we infringe on their freedom.\n:'''Vitruvio:''' I see... so only Shepherds enter Bjartr Woods most of the time?\n:'''Alviss:''' Yes, child. When we enter, we pitch only a small tent, so the forest remains theirs. That is also why Haldarheim was built :outside the woods.\n:'''Alviss:''' All things human—our rituals, out trade, our crafting—we do away from the woods. Only the Solisylum's calculations remain.\n:'''Alviss:''' Only when we lay aside human noise and enter in reverence can we come close to the soul of the Soliskin and earn their recognition.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Vitruvio\n|zhs  = 维特鲁威\n|zht  = 維特魯威\n|ja   = ウィトルウィウス\n|ko   = 비트루비오\n|fr   = Vitruvio\n|de   = Vitruvio\n|es   = Vitruvio\n|th   = Vitruvio\n}}\n\n{{Other Languages\n|en   = Alviss\n|zhs  = 阿尔维斯\n|zht  = 阿爾維斯\n|ja   = アルヴィス\n|ko   = 알비스\n|fr   = Alviss\n|de   = Alviss\n|es   = Alviss\n|th   = Alviss\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

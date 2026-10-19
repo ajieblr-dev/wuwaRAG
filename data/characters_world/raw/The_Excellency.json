@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:42Z",
+  "title": "The Excellency",
+  "pageid": 27171,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|name             = The Excellency\n|image            = \n|type             = Mentioned\n|affiliation      = Fractsidus\n}}'''The Excellency''' is an NPC who is first mentioned during {{Quest|Immortal Blaze}}.\n\nThey are one of the Overseers of the [[Fractsidus]], though their exact identity is currently unknown.\n\n==Profile==\nAlthough not explicitly confirmed, the Excellency is very likely to be the Fractsidus member mentioned in the diary written by [[Wuli]], described as a strange man in red with a pretentious attitude whom he encountered someplace outside of [[Huanglong]]. Having somehow known that Wuli was traveling in search of a cure for his girlfriend [[Fuling|Fuling's]] condition, he claimed to have a way to save her, and sent Wuli to [[Mt. Firmament]] to help them find the Temporal Program from the legend of the Weiqi game.\n\nAlthough the Excellency later enters the [[Sonoro Sphere]] containing the Temporal Program at some point, they are indirectly injured as [[Changli]] destroys it with her flame manipulation [[Forte]]. They manage to evade capture as well as identification.\n\n==Trivia==\n*Due to his authority as an Overseer, The Excellency is suspectedly theorized to be the \"uncle\" of [[Qichi Village]] (who is responsible for the gruesome experiment to his niece fused with a Tacet Discord), which makes him one of [[The Shepherd]]'s possible identities alongside [[Phrolova]].\n\n==Other Languages==\n{{Other Languages\n|en   = The Excellency\n|zhs  = 大人\n|zht  = 大人\n|ja   = あの人{{verify}}\n|ko   = 대인의\n|es   = Su Excelencia\n|fr   = L'Excellence\n|de   = Die Exzellenz\n}}\n\n==Change History==\n{{Change History|introduced=1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

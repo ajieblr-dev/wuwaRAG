@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:44Z",
+  "title": "The Recorder",
+  "pageid": 39403,
+  "wikitext": "{{NPC Infobox\n|image        = NPC The Recorder Laetia.png\n|type         = Quest\n|type2        = Resonator\n|realname     = Laetia\n|nation       = Lahai-Roi\n|location     = Bjartr Woods\n|location2 = Startorch Academy - Square\n|affiliation  = Roya Tribe\n|affiliation2 = Heliodic Six\n|status       = Alive\u003cbr\u003eNo longer able to read the Heliosgyre after her mind was corrupted by Voidmatter, she serves the Solisylum by collecting data from the outside world now.\n\u003c!-- VAs --\u003e\n|voiceEN      = \n|voiceCN      = \n|voiceJP      = \n|voiceKR      = \n}}\n{{Quote|Not a single speck of dust lies upon her robes.}}\n'''The Recorder''' is one of the [[Heliodic Six]] members and makes her first appearance in [[Ode to the Second Sunrise]]. \n\nAfter completing {{Quest|Ode to the Second Sunrise}}, The Recorder is freed from her duties and can be found at [[Spacetrek Archive]] at the Freight Zone level at {{color|help|06:00 to 17:00.}}\n\nShe speaks in third person and refers to [[\"The Shaper\"|The Shaper]] by name rather than title. \n\n==Location==\n\u003cgallery\u003eHeliodic Six Location - The Recorder.png\u003c/gallery\u003e\n\n==Quests and Events==\n{{Quests and Events}}\n\n{{Dialogue Start}}\n==Dialogue==\n:;Rinascita... the Carnevale... Gondolas... Gladiator battles...\n:'''The Recorder:''' Laetia has finished reading the history of Rinascita. Next, a book about Huanglong she will read.\n:{{DIcon}} Excuse me, are you one of the Heliodic Six?\n:'''The Recorder:''' Yes. The Recorder is Laetia's other name.\n:{{DIcon}} What brings you here?\n:'''The Recorder:''' {{Rubi|Isander|The Shaper}} remains in the Solisylum, computing the sun's properties. So Laetia has come here, to compute the properties of humankind.\n:'''The Recorder:''' {{Rubi|Isander|The Shaper}} wishes to know how people from different places mark time, how they celebrate festivities... This knowledge extends beyond Lahai-Roi, and thus beyond Isander's ken.\n:'''The Recorder:''' Therefore, Laetia the Recorder is here to read the world and record what she sees. To Isander, she will carry these stories.\n:'''The Recorder:''' That way, alone with the Heliogyre he will not be. What Laetia sees, he too shall see.\n{{Dialogue End}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages|\n|en   = The Recorder\n|zhs  = 镌律\n|zht  = 鐫律\n|ja   = 記す者\n|ko   = \u003cano=새기는 자\u003e전률(the Recorder)\u003c/ano\u003e\n|fr   = L'Archiviste\n|de   = Der Aufzeichner\n|es   = La Grabadora\n|th   = ผู้จารึกกฎ\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

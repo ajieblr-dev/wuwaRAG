@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:34Z",
+  "title": "Anastyn",
+  "pageid": 42838,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is a female [[NPC]] student located by [[Fangspire Chasm]] Station, [[Resonance Nexus|{{tt|Solis Lens Array|Resonance Nexus}}]], seen speaking to '''Lyralyn'''. \n\n==Location==\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Anastyn:''' The landscape and architecture where I'm from are stunning. Dazzling even, like the sun.\n:'''Lyralyn:'''  Why are you boasting about [[Septimont]] all of a sudden? I mean, it is incredible, but still.\n:'''Anastyn:''' But look at that greatsword plunged straight into the earth! It's just so raw, so visceral… it gives me chills!\n:'''Anastyn:''' It reminds me of Ephor [[Augusta]]'s sword cleaving through the mountains at the hunting grounds.\u003cref\u003e{{Quest|By Sun's Burning Hand}}\u003c/ref\u003e It literally carved out a new future for [[Rinascita]].\n:'''Anastyn:''' I'll bet it was the same with the [[Exostrider]]'s sword here. It must've laid the foundation for [[Lahai-Roi]]'s future.\n:'''Lyralyn:''' Okay, now you're giving me chills. Still, I'm more curious to know how much energy was required to create this wonder.\n:'''Anastyn:''' Well, uncovering mysteries ike that is the whole reason we enrolled, right? I can't wait!\n----\n;After {{Quest|Starlights from Yesterdays}}\n:;'''[[Anastyn]]''' I heard the Exostrider actually swung that humongous thing and fought the Threnodian! Is that true?!\n:;'''Lyralyn''' Of course it is! The Void Storms and all those Threnodian creations are gone now, aren't they?\n:;'''Anastyn''' Ah! To be born in Septimont and miss a duel of such grandeur...\n:'''Anastyn:''' Look! The greatsword is actually gone! I heard the Exostrider actually swung that humongous thing and fought the Threnodian! Is that true?!\n:'''Lyralyn:''' Of course it is! The Void Storms and all those Threnodian creations are gone now, aren't they?\n:'''Anastyn:''' Ah! How can this be!\n:'''Anastyn:''' This is bound to be the single greatest regret of my life. I hate being from Septimont!\n:'''Lyralyn:''' Eh? Why?\n:'''Anastyn:''' Because I missed it! Oh, what I'd give to fight in a battle of that scale myself! Even if I died... it would've been worth the journey.\n:'''Lyralyn:''' ...You Septimontians. I'll never understand how your brains work.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Anastyn\n|zhs  = 安妮斯顿\n|zht  = 安妮斯頓\n|ja   = アニストン\n|ko   = 아네스틴\n|fr   = Anastyn\n|de   = Anastyn\n|es   = Anastyn\n|th   = Anastyn\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

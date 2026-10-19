@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:27Z",
+  "title": "Lucio",
+  "pageid": 27405,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Lucio.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Whisperwind Haven\n|group            = \n|affiliation      = Jamie Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = Julia\n|sibling          =\n|child            = Pela\n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Lucio''' is a male NPC who appears at Jamie's Farm in [[Whisperwind Haven]]. He's part of the Jamie Family.\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Lucio:''' If only I had a golden whip. I could double the number of Tumbleyaks with a gentle flick in the morning! Then, in a month—\n:'''Lucio:''' I'd turn all the Tumbleyak milk into cheese for Giovanetta to make pizzas! Then I could eat as many as I wanted!\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Lucio:''' Do you think if we doubled the Tumbleyak every day, would we have enough credits at the end of the month to send Julia to see a play in Ragunna?\n:{{DIcon}} Do you really know what 2 to the power of 30 is...?\n:'''Lucio:''' What? What does \"power\" mean? Sorry, I actually never went to school.\n:'''Lucio:''' If we have that many Tumbleyaks... Pela won't have to herd them anymore, right?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lucio\n|zhs  = 卢西奥\n|zht  = 路西歐\n|ja   = ルシオー\n|ko   = 루시오\n|es   = Lucio\n|fr   = Lucio\n|de   = Lucio\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

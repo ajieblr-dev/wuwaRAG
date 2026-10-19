@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:47Z",
+  "title": "Glacio Predator",
+  "pageid": 23054,
+  "wikitext": "{{Enemy Infobox\n|name=Glacio Predator\n|title=\n|image=Glacio Predator Icon.png\n|dmgtype=Glacio\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Whisperin\n|nation=\n|region=\n|subregion=\n|drops=\n}}{{For|the [[Echo]] of the same name|Glacio Predator}}\n\n{{Description|A Common Class WhisperinTD that frequents the wilderness. Records show it is able to gather Glacio energy to form a \"projectile” and hurl it like humans.}}\n\n==Drops== \n{{Drops|Common Whisperin}}\n\n==Stats==\n{{Enemy Stats|Glacio Predator}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Glacio Predator|customheader=Glacio Predators}}\n\n\u003c!-- ==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Glacio damage}}.\u003cbr/\u003e|Description When Discovered}} --\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Glacio Predator\n|zhs  = 破霜猎手\n|zht  = 破霜獵手\n|ja   = 破霜の狩人\n|ko   = 상강의 사냥꾼\n|es   = Depredador Gélido\n|fr   = Prédateur Glacio\n|de   = Glacio Predator\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

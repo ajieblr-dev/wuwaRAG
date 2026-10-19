@@ -177,3 +177,42 @@ func TestReciprocalRankFusion(t *testing.T) {
 	}
 }
 
+func TestLexicalKeywordDominance(t *testing.T) {
+	// A generic document with high vector score but zero keyword match
+	vecPoints := []qdrant.ScoredPoint{
+		{
+			ID:    "unrelated-generic-doc",
+			Score: 0.85,
+			Payload: map[string]interface{}{
+				"title":   "General Academy Lore",
+				"content": "This is a generic research institute in Huanglong with state-run branches.",
+			},
+		},
+	}
+
+	// An exact entity match document retrieved via keyword scroll
+	lexPoints := []qdrant.ScoredPoint{
+		{
+			ID:    "abraxas-chunk",
+			Score: 0.0,
+			Payload: map[string]interface{}{
+				"title":   "Dawn Breaks on Dark Tides",
+				"content": "Levianthan: Abra... Abraxas! Why hast thou betrayed us?",
+			},
+		},
+	}
+
+	keywords := []string{"Abraxas"}
+	fused := ReciprocalRankFusion(vecPoints, lexPoints, keywords, 60, 5)
+
+	if len(fused) < 2 {
+		t.Fatalf("Expected 2 documents, got %d", len(fused))
+	}
+
+	// The exact keyword match must be ranked #1 because of the lexical keyword boost
+	if fused[0].ID != "abraxas-chunk" {
+		t.Errorf("Expected abraxas-chunk to be ranked #1 due to exact keyword presence, got %s (score %f vs %f)",
+			fused[0].ID, fused[0].Score, fused[1].Score)
+	}
+}
+

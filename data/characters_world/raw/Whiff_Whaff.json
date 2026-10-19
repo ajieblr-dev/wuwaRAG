@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:03Z",
+  "title": "Whiff Whaff",
+  "pageid": 8883,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n |name=Whiff Whaff\n |title=\n |image=Whiff Whaff Icon.png\n |dmgtype=Aero\n |weakpoint=Unknown\n |echo=Yes\n |class=Common\n |family=Tacet Discord\n |group=Whisperin\n |nation=\n |region=\n |subregion=\n |drops=\n}}\n{{Description|A Common Class Whisperin TD widely distributed in the wild. It can wield a small amount of {{Color|Aero}} energy for attacks.}} \n{{Lang|Whiff Whaff|zh=呼咻咻}} is a [[Common Class]] [[Enemy]] in ''[[Wuthering Waves]]''. \n\n==Drops== \n{{Drops|Common Whisperin}}\n\n==Stats==\n{{Enemy Stats|Whiff Whaff}}\n\n==Abilities== \n\n==Trophies==\n{{Trophies|Whiff Whaff|customheader=Whiff Whaffs}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Aero damage}}.\u003cbr/\u003eAn immature humanoid TD, hovering in the air with the help of winds. It is able to alter its movement speed through the simple absorption of gases.\nWhen it exhales air backwards and accelerates, it often emits a sound akin to \"whoosh\".|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n |en     = Whiff Whaff\n |zhs    = 呼咻咻\n |zht    = 呼咻咻\n |ja     = フシュシュ\n |ko     = 후슈슈\n |fr     = Houhouu\n |de     = Whiff Whaff\n |es     = Whiff Whaff\n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:13Z",
+  "title": "You'tan",
+  "pageid": 37415,
+  "wikitext": "{{CustomTabs\n|tab1 = Overview\n|tab2 = Gallery}}\n{{NPC Infobox\n|image   = You'tan In-game.png\n|name    = You'tan\n|type    = Quest\n|nation  = Huanglong\n|species = Remnant Creature\n}}\n'''You'tan''' {{Lang|zh=忧昙}} is a quest-exclusive [[NPC]] in [[Huanglong]]. Being [[Baizhi]]'s loyal companion and a manifestation of her [[Forte]], You'tan assists Baizhi in [[Baizhi/Combat|combat]] and is the source of her healing abilities. \n\n==Quests and Events==\n{{Quests and Events|You'tan}} \n\n==Mentions==\n{{Character Mentions}} \n\n==Other Languages==\n{{Other Languages\n|en   = You'tan\n|zhs  = 忧昙\n|zht  = 憂曇\n|ja   = 憂曇\n|ko   = 우담\n|fr   = You'tan\n|de   = You'tan\n|es   = You'tan\n}} \n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Cherished Items",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

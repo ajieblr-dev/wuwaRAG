@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:12Z",
+  "title": "Kepler",
+  "pageid": 23182,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = Kepler.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Tethys' Deep\n|group            = \n|affiliation      = Black Shores\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Kepler''' is an NPC north-east of the [[Modulation Hall]].\n\n==Quests and Events==\n{{Quests and Events|Kepler}}\n==Dialogue==\n{{Dialogue Start}}\n;(During the quest [[Legacy of the Lasting Night]])\n:'''Kelper:''' Rest in peace...\n:'''Kelper:''' You will not be forgotten.\n:'''Kelper:''' Travel among the stars... Enzo, navigator of Rinascita.\n:'''Kelper:''' We will see this through, and the Shorekeeper will guide us to rise once more.\n:'''Kelper:''' Rest easy, my friend.\n----\n;(During the quest [[Advance toward the Future from Today]])\n:'''Kelper:''' Enzo, my old friend...\n:'''Kelper:''' If you're shining somewhere in this starry sky, please watch over us.\n:'''Kelper:''' Watch over the Black Shores, watch over the Shorekeeper...\n:'''Kelper:''' Let your starlight keep lighting our way forward.\n:'''Kelper:''' We will keep fighting for you...\n----\n;(After completion of [[Beyond the Shore's End]], outside from his previous location)\n;(Kepler can no longer be interacted with, but the Recording Machine next to him can)\n:'''Nessa's Last Message:''' \"My dearest Kepler...\"\n:'''Nessa's Last Message:''' \"Did you know? If one chooses to plunge into the torrent of data, they choose to be disintegrated as bits of digits, becoming a dot in a boundless atlas of stars...\"\n:'''Nessa's Last Message:''' \"The discrete computational representation of me shall evolve and iterate with the Stellar Matrices of the billions of stars, until 'I' am present everywhere and yet nowhere to be found.\"\n:'''Nessa's Last Message:''' \"After the end of the shifts, conversions, and merges, the odds for the fragments of 'me' to reintegrate into a new me, even for the split of femtosecond, are almost zero.\"\n:'''Nessa's Last Message:''' \"Yet, should that infinitesimal chance arise, I would open my eyes as if newly born, seeing everything one last time before dissolving again into the ceaseless flow of stars.\"\n:'''Nessa's Last Message:''' \"This journey of mine has no way back, but fear not, my love—whether it's in a distant afterlife or across the light years...\"\n:'''Nessa's Last Message:''' \"...I will always find you.\"\n:'''Nessa's Last Message:''' \"Nessa, from Tethys' Deep.\"\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Kepler\n|zhs  = 克卜勒\n|zht  = 克卜勒\n|ja   = ケプラー\n|ko   = 케플러\n|es   = Kepler\n|fr   = Kepler\n|de   = Kepler\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

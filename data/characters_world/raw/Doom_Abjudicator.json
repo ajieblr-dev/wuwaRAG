@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:16Z",
+  "title": "Doom Abjudicator",
+  "pageid": 42186,
+  "wikitext": "{{Stub|location}}\n{{Enemy Infobox\n|name       = Doom Abjudicator\n|image      = Fractsidus Inspector Icon.png\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Human\n|nation     = Rinascita\n|region     = Three Heroes' Crest\n|level      = 120\n}}\n'''Doom Abjudicator''' is a [[Special Enemies|special enemy]] found in {{Location|Sanguis Plateaus|nocat=1}}.\n\n==Location==\n{{Map Embed|Septimont|Doom Abjudicator}}\n\n==Trophies==\n{{Trophies|Doom Abjudicator|customheader=Doom Abjudicator}} \n\n==Other Languages==\n{{Other Languages\n|en  = Doom Abjudicator\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n|pt  = \n}} \n\n==Change History==\n{{Change History|2.7}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

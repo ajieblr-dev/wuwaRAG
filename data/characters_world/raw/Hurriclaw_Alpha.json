@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:59Z",
+  "title": "Hurriclaw Alpha",
+  "pageid": 42149,
+  "wikitext": "{{Stub|location}}\n{{Enemy Infobox\n|name       = Hurriclaw Alpha\n|image      = Hurriclaw Icon.png\n|dmgtype    = Aero\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|group      = Tranquilite\n|nation     = Rinascita\n|region     = Vault Underground\n|level      = 120\n}}\n'''Hurriclaw ALpha''' is a [[Special Enemies|Special Enemy]] found in {{Location|Ragunna|nocat=1}}. It is located in the [[Echo Depository]] in the Vault Underground. The player has to complete {{Quest| Silent as a Falling Leaf}} to gain access to this location.\n\n==Location==\n{{Map Embed|Ragunna|Hurriclaw Alpha}}\n\n==Trophies==\n{{Trophies|Hurriclaw Alpha|customheader=Hurriclaw Alpha}} \n\n==Other Languages==\n{{Other Languages\n|en  = Hurriclaw Alpha\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n|pt  = \n}} \n\n==Change History==\n{{Change History|2.1}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:07Z",
+  "title": "Qiuhong",
+  "pageid": 69534,
+  "wikitext": "{{Stub|profile}}\n{{NPC Infobox\n|image          = NPC Qiuhong.jpg\n|title          = Warden Commander\n|type           = Quest\n|nation         = Huanglong\n|affiliation    = Xuanfang Wardens\n\n\u003c!-- VAs --\u003e\n|voiceEN        = [[imdb:nm7643357|Benjamin Lok]]\n|voiceCN        = \n|voiceJP        = \n|voiceKR        = \n}}__NOTOC__\n'''Qiuhong''' {{Lang|zh=秋鸿}} is a quest-exclusive [[NPC]] that first appears during {{Quest|Xuanling Sings, Storm Quelled}}. He is the commander of the [[Xuanfang Wardens]] and helps collect [[Unclaimed Rafter Kite]] at night.  \n\nQiuhong will roam the city at different days and time. \n\n\u003c!--\n==Appearance==\n\n==Profile==\n--\u003e\n==Quests and Events==\n{{Quests and Events}}\n\n{{Dialogue Start}}\n==Idle==\n;Inside Xuanfang Ministry of War at {{color|help|09:00-09:59}}\n:;Unsteady steps. Sloppy stances...\n\n:;Ugh...!\n\n:;Weak strikes. Messy defense—\n\n:;Ouch...\n\n:;And worst of all, you are impatient. No composure...\n\n:;How is that...?\n\n:;Every single one of you still has a long way to go.\n\n:;Yes, sir! Please keep training us, Commander!\n\n:;Starting today, add a thousand blade strikes to the end of your daily drills. Master those basics.\n\n===Variation 1===\n;Night, switching with [[Chiwen]]\n:'''Chiwen:''' Commander... Err... Mr. Qiuhong! I have the Rafter Kites from today right here, sir.\n:'''Qiuhong:''' I appreciate your hard work, Chiwen. I'll take it from here.\n\n;Idle when on shift\n:'''Qiuhong:''' By order, Boyuan will lead an elite force. Five hundred are to be selected from Xuanfang Wardens—\n:'''Rafter Kite:''' *A lilting chirp*\n\n;Morning, switching with Chiwen {{Color|help|05:00-05:59}}\n:'''Chiwen:''' You've been up all night, and still look all spruced and nice. Now wondering whose shift it's supposed to be...\n:'''Qiuhong:''' It's normal for older folks to sleep less. What's there to be surprised about?\n:'''Chiwen:''' The shift's yours. I'm gonna have a look around and come back later.\n\n===Variation 2===\n;Morning, switching with Chiwen\n:'''Qiuhong:''' You're here early. Had anything to eat yet? Why don't we head to Yuan's Flavors for some noodles?\n:'''Chiwen:''' I've already eaten. No need to trouble yourself over me... Commander. I mean. Mr. Qiuhong.\n:'''Chiwen:''' I'll have the Rafter Kites taken care of, you may focus on your task at hand.\n\n;Late afternoon in front of Yuan's Flavor\n:'''Qiuhong:''' One order of Jade Broth Noodles and one Stir-Fried Trio to go. Package them separately.\n:'''Lili:''' The Flavor Under Heaven is delicious today, Mr. Qiuhong. Care for a sample?\n:'''Qiuhong:''' Sounds great! It's Chiwen's favorite. I'll extend my thanks to you on his behalf.\n\n;Switching place with Chiwen after visiting Yuan's Flavor\n:'''Qiuhong:''' Here you go! The Stir-Fried Trio is for you, plus some Sovereign Spice courtesy of the owner!\n:'''Chiwen:''' Thanks, Commander! Aren't you gonna have some? Flavor Under Heaven from Yuan's Flavors is the best!\n:'''Qiuhong:''' That's more spice than I can handle. A bowl of Jade Broth Noodles is more than enough for me!\n\n\n==Dialogue==\n===Day===\n;Outside the Xuanfang Ministry of War {{color|help|09:00-09:59}}\n:'''Yuanzhi:''' I thought we'd never meet again after Mengzhou...\n:'''Yuanzhi:''' After that incident, you left the Mengzhou Ministry of War, and I've never heard from you since. I figured you'd lost heart and retired to the mountains.\n:'''Qiuhong:''' Then you thought wrong. I'm the same person as I was. I'm happy to admit my mistakes, but giving up just isn't in my nature.\n:'''Yuanzhi:''' You've always been stubborn, that's for sure. You look carefree on the surface, but deep down, you hold on tighter than anybody I've known.\n:'''Qiuhong:''' Enough with the teasing, old friend. Let's talk about you. You were supposed to be living out your days peacefully in Mengzhou. How'd you end up here in Xuanfang Hold all of a sudden?\n:'''Yuanzhi:''' Me? I retired ages ago. My nephew is a Warden here in Xuanfang Hold, so you could say I'm just a family member here to support the troops.\n:'''Yuanzhi:''' And as long as you're Commander here, I feel safe leaving him in your hands. Put him through training. He needs to grow into an outstanding Xuanfang Warden, just like you.\n:'''Qiuhong:''' Don't worry. He'll become a great Warden, just as his uncle once was. I won't let you down.\n\n;Inside the Xuanfang Ministry of War {{color|help|10:00-10:59}}\n:'''Qiuhong:''' Starting today, add a thousand blade strikes to the end of your daily drills.\n:'''Anran:''' Commander Qiuhong personally oversaw our drill... Never thought he was gonna be this hard on us...\n:'''Yege:''' Between being short-handed, losing Duzhong and Qingzhi, and Liangyu still being on the mend, the Commander is bound to be on edge. He's just not showing it, that's all.\n:'''Anran:''' I heard the new Watcher Yangyang used to be an Outrider from the Midnight Rangers. I wonder how they train...\n\n;Afternoon at Jade Steed Itinerant {{color|help|12:00-12:59}}\n:'''Friendly Lady Buying Groceries:''' Back again today, Mr. Qiuhong? Can I get you something?\n:'''Qiuhong:''' Just looking for whatever's fresh. This place is packed with shoppers, so it's a great place to catch up on the latest gossip.\n:'''Friendly Grandpa:''' There used to be a merchant who sold some pretty good Climber Shoots, but he hasn't shown up for a while.\n:'''Qiuhong:''' Really? That's a shame. Where's his stall? I'd like to stop by and check it out next time.\n:'''Friendly Grandpa:''' Right at the entrance to the alley there. Come to think of it, he seemed like a bit of a newcomer. Rather inexperienced in the business, with prices much lower than everybody else's.\n:'''Friendly Lady Buying Groceries:''' That's right! We all told him it was too cheap. We offered to pay him more, but he refused! He said he'd just picked shoots in his free time and didn't have many expenses to cover.\n:'''Friendly Lady Buying Groceries:''' We locals all know those shoots tend to grow best around those mechanisms, so it's not like anybody can go and pick them. He's taking a risk by doing that, so he ought to get paid for it!\n:'''Qiuhong:''' Does anybody else run their business like that? Sounds like an honest fellow. Give me a shout if you bump into him again, all right?\n:'''Friendly Grandpa:''' Sure thing. You should talk to him if you get the chance, Mr. Qiuhong. He's so young and talented. Maybe he'd fit right in the Wardens!\n\n===Night===\n;At night\n:{{DIcon}} I want to deliver Rafter Kites\n::'''Qiuhong:''' Victory depends less on blades than on judgment... and judgment begins with information.\n\n;Rafter Kite submitted\n::'''Qiuhong:''' This is information I never knew... Even after centuries, these Rafter Kites still hold intelligence of value today.\n\n;Level up\n::(Cutscene)\n\n;No Rafter Kite submitted\n::'''Qiuhong:''' Rafter Kites were made to bear messages... Where one is found, intelligence follows.\n\n:{{DIcon}} About yourself\n::'''Qiuhong:''' Once, few among the new recruits knew my face.\n::'''Qiuhong:''' To most, I looked less like the commander of soldiers than a keeper of birds.\n::'''Qiuhong:''' But that was no bad thing... If I had no need to sit in the Ministry of War's meetings, it meant all was as it should be.\n::'''Qiuhong:''' The Autopuppets could purge the Tacet Discords on their own back then. The Xuanfang Wardens had only to clean the scraps.\n::'''Qiuhong:''' That order is now gone... and the Hold's peace must be upheld by human hands.\n:{{DIcon}} Why collecting the Rafter Kites?\n::'''Qiuhong:''' Since the Fortress and Gorges War, Rafter Kites have served as Xuanfang's messengers in lieu of the Xuanling Birds.\n::'''Qiuhong:''' But they carry more than just letters... The Rafter Kites lost over the last century hold secrets. Intelligence. Pieces of the board.\n::'''Qiuhong:''' In a land as complicated as this one, the smallest detail can be the hinge on which a battle turns... I will not overlook a single one.\n:{{DIcon|Exit}}\n::'''Qiuhong:''' Should you find a unclaimed Rafter Kite, feel free to bring it to me.\n{{Dialogue End}}\n\n==Gallery==\n\u003cgallery\u003e\nNPC Qiuhong Full Body.png|Full Body\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Qiuhong\n|zhs  = 秋鸿\n|zht  = 秋鴻\n|ja   = 秋鴻\n|ko   = 추홍\n|fr   = Qiuhong\n|de   = Qiuhong\n|es   = Qiuhong\n|th   = Qiuhong\n|pt   = Qiuhong\n}}\n\n==Change History==\n{{Change History|3.5}}\n[[zh:秋鸿]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Variation 1",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Variation 2",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Day",
+      "number": "3.1",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Night",
+      "number": "3.2",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    }
+  ]
+}

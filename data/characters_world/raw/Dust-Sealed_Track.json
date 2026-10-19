@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:17Z",
+  "title": "Dust-Sealed Track",
+  "pageid": 36424,
+  "wikitext": "{{Stub}}\n{{Location_Infobox\n|title1    = Dust-Sealed Track\n|image     = Dust-Sealed Track.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Tiger's Maw\n}}\n\n'''Dust-Sealed Track''' is an area of [[Tiger's Maw]], [[Huanglong]].\n\n==Other Languages==\n{{Other Languages\n|en   = Dust-Sealed Track\n|zhs  = 寒雾深坑\n|zht  = 寒霧深坑\n|ja   = 迷霧の深穴\n|ko   = 한빙 무저갱\n|es   = Pista sellada por el polvo\n|fr   = Trou brouilliard\n|de   = Staubversiegelter Pfad\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

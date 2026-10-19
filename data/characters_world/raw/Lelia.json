@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:20Z",
+  "title": "Lelia",
+  "pageid": 31666,
+  "wikitext": "{{NPC Infobox\n|name             = Lelia\n|image            = NPC Lelia.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Ragunna City\n|group            = \n|affiliation      = \n|title            = Chef\n}}\n'''Lelia''' is an [[NPC]] in [[Ragunna City]]. She appears at [[Trattoria Margherita]] after completing {{Quest|Margherita's Daily Special I}}. Initially a ''Waiter'', she gains the ''Commis Chef'' title after completing {{Quest|Margherita's Daily Special III}}, and later is promoted to ''Chef'' after completing {{Quest|Margherita's Daily Special VI}}.\n\n==Quests and Events==\n{{Quests and Events|Lelia}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(As Waiter)\n:'''Lelia:''' Don't avoid eye contact... always ask about their preferences... and don't mention [[Pizza Tropicale]] unless they do first.\n:{{DIcon}} What are you muttering about?\n:'''Lelia:''' Oh, nothing. Just some reminders for taking orders.\n----\n;(As Commis Chef)\n:'''Lelia:''' Ah, why do I keep messing up! All those ingredients, just wasted...\n:{{DIcon}} Learn from it and try again.\n::'''Lelia:''' You're right! I'll be more careful!\n:{{DIcon}} Think about why you started.\n::'''Lelia:''' Why I started... I want to make food that puts smiles on people's faces.\n::'''Lelia:''' I feel like I've found my courage again. Thank you.\n----\n;(As Chef)\n:'''Lelia:''' You... recommended me to Ms. Margherita?\n:{{DIcon}} Yes, but only if you are up for it.\n:'''Lelia:''' Just the idea of cooking during peak hours gets me so nervous I start to shake.\n:'''Lelia:''' But you taught me not to let opportunities slip by. So if the manager agrees, I'll be there.\n----\n:'''Lelia:''' Lately, Ms. Margherita has been sharing all sorts of cooking tips with me.\n:{{DIcon}} What kind of tips?\n:'''Lelia:''' Hmm, like this: \"Simple is best! Don't be crammin' every flavor into one dish.\n:'''Lelia:''' Or \"Seasoning isn't just one or two steps. It should be added from start to finish.\n:{{DIcon}} You even picked up her way of talking.\n:'''Lelia:''' Oops! I guess I've been going over her tips so much that it's starting to rub off on me...\n:'''Lelia:''' But the best lesson I learned was from you—\"be brave and take that first step.\n:{{DIcon}} Did I really say that?\n:'''Lelia:''' For you it was probably just a kind word, but for me, it meant everything.\n:'''Lelia:''' Ah, now I'm just babbling…\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lelia\n|zhs  = 莱丽娅\n|zht  = 萊麗婭\n|ja   = リーリア\n|ko   = 라일리아\n|fr   = Lelia\n|de   = Lelia\n|es   = Lelia\n|th   = Lelia\n|pt   = Lélia\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Daily Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

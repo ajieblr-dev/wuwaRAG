@@ -1,0 +1,107 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:31Z",
+  "title": "Luuk Herssen",
+  "pageid": 37544,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}}\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 5\n|class            = Unclear\n|weapon           = Gauntlets\n|role             = Main Damage Dealer;Basic Attack Damage;Tune Strain Response\n|attribute        = Spectro\n|releaseDate      = 2026-02-26\n\n\u003c!-- Info --\u003e\n|name             = Luuk Herssen\n|title            = Phase Transition\n|gender           = Male\n|age              = \n|birthday         = \n|birthplace       = New Federation\n|nation           = Lahai-Roi\n|affiliation      = Startorch Academy\n|affiliationNote  = Doctor\n|affiliation2     = Spacetrek Collective\n|affiliation3     = Lollo Logistics\n|affiliationNote3 = Infiltrated to Spy on Fractsidus\n|affiliation4     = Fractsidus\n|affiliationNote4 = Undercover Spy\n|sigil            = \n|dish             = Hearty Double-Smoked Stew\n|obtain           = When Winter Thaws\n\n\u003c!-- Family --\u003e\n|father           = Unnamed\n|fatherNote       = adoptive) (deceased\n|fatherRef        = \u003cref name=\"Brother\"\u003eLuuk Herssen's Character Story: [[Luuk Herssen/Backstory#Character Stories|\"Brother\"]]\u003c/ref\u003e\n|sibling          = Rhein Herssen\n|siblingNote      = adoptive brother\n|siblingRef       = \u003cref name=\"Brother\"/\u003e\n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm10304447|Griffyn Bellah]]\u003cref name=\"Luuk Herssen-Bili\"/\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/马正阳 Ma Zhengyang ({{Lang|mini=1|zh=马正阳}})]\u003cref name=\"Luuk Herssen-Bili\"\u003eBilibili: [https://www.bilibili.com/opus/1172058246817513475 《鸣潮》共鸣者战斗演示 | 陆·赫斯​]\u003c/ref\u003e\n|voiceJP          = {{w|Shinnosuke Tachibana|Tachibana Shinnosuke ({{Lang|mini=1|ja=立花慎之介}})}}\u003cref\u003eX: [https://x.com/WW_JP_Official/status/2014926134874644780 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/민승우 Min Seung-woo ({{Lang|mini=1|ko=민승우}})]\u003cref name=\"Luuk Herssen-Bili\"/\u003e\n}}\n{{Quote|I've already bid farewell to the self buried beneath the frostlands. When the snow thaws... we'll meet again among the new blooms of spring.|Luuk Herssen}}\n\n{{Intro/Resonator|Luuk Herssen}} He is the head physician of the [[Resonator Nursing Unit]] at [[Startorch Academy]], serving as an attending medical doctor and mental health counselor, with a mysterious past.\n\n==Combat Overview==\n{{Main|Luuk Herssen/Combat}}\n\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Luuk Herssen|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events|Luuk Herssen}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Luuk Herssen\n|zhs     = 陆·赫斯\n|zht     = 陸·赫斯\n|ja      = リューク・ヘルセン\n|ko      = 루크·헤르센\n|fr      = Luuk Herssen\n|de      = Luuk Herssen\n|es      = Luuk Herssen\n|th      = Luuk Herssen\n}}\n\n==Change History==\n{{Change History|3.1|introduced=3.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n[[zh:陆·赫斯]]\n[[ru:Люк Хёрссен]]\n[[Category:Novialle Regenerative Group]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Episodic Quests",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "3.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

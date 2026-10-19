@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:57Z",
+  "title": "Hsin's Fortuity",
+  "pageid": 20601,
+  "wikitext": "{{Location Infobox\n|image        = \u003cgallery\u003e\nHsin's Fortuity Context.png | In-Game\nHsin's Fortuity Art.png | Art\n\u003c/gallery\u003e\n|type         = Point of Interest\n|icon         = Icon Hsin's Fortuity.png\n|event        = By Moon's Grace\n|area         = Taoyuan Vale\n|region       = Central Plains\n|nation       = Huanglong\n}}\n{{Quote|Surprises coming from the unknown... Hm, interesting.\u003cbr /\u003e\u003cbr /\u003e\u003chr\u003e\u003cbr/\u003eGuaranteed prizes? There's a limit to what I can offer. Just relax and spin the wheel to see if it's your lucky day.|[[Changli]]}}\n'''Hsin's Fortuity''' is an event-exclusive [[Point of Interest|point of interest]] located in [[Taoyuan Vale]], [[Central Plains]], [[Huanglong]] during the [[By Moon's Grace]] event.\n\nPlayers can visit every day during the event for prizes.\n\n==NPCs==\n* [[Xianchen]]\n\n==Descriptions==\n{{Description|A recreational stall inspired by the Sentinel Hsin. Rumors say a surprise reward is offered at this stall.\u003cbr /\u003e{{Color|#a5a19d|Build or Upgrade this stall to significantly boost Popularity. Visit the stall to experience the mini-games for rewards.}}|[[Map]] description}}\n\u003cgallery\u003e\nHsin's Fortuity Location.png|Location\n\u003c/gallery\u003e\n\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction)\n:'''Xianchen:''' Hello, Rover. Have you ever heard the tale of the Fox and the Wheel?\n:{{DIcon}} Doesn't ring a bell to me.\n:{{DIcon}} The Fox?\n:'''Xianchen:''' The Fox is one of the Sentinels in Huanglong. People often call it \"Hsin.\"\n:'''Xianchen:''' Like our Sentinel \"Jue,\" Hsin has its own state to protect.\n:'''Xianchen:''' But Hsin loves to join in the celebrations with its people.\n:'''Xianchen:''' It's said that if you hear the leaves rustling, it must be Hsin wandering in the woods. Sometimes, it even leaves behind small, whimsical gifts, like this lottery wheel here.\n:'''Xianchen:''' People consider this a good omen, as the sound of the spinning wheel mimics the rustling leaves in the tale.\n:{{DIcon}} So that's the story...\n:{{DIcon}} Well, sounds a bit exaggerated.\n:'''Xianchen:''' True or not, people love blessings. It doesn't matter if it makes sense, it's part of the local culture's charm.\n:'''Xianchen:''' You have to admit, spinning a lottery wheel is always a thrill.\n----\n:'''Xianchen:''' Come and spin for good luck here! Win amazing prizes on this special day! Don't miss out!\n:{{DIcon|Reward}} Hsin's Fortuity\n::'''Xianchen:''' {{Rover}}, do you want to challenge today's Hsin's Fortuity?\n::{{DIcon}} Play Hsin's Fortuity\n:::'''Xianchen:''' Waiting for results...\n::;(Wanning Moon)\n::::'''Xianchen:'''Oh, It's the waning moon. This is unfortunate, but I've also prepared some commemorative gifts. Here you go!\n::;(Waxing Moon)\n::::'''Xianchen:'''Oh, It's actually the waxing moon. {{Rover}}, congratulations on winning the grand prize. Here's your reward!\n:;(Talk to Xianchen again after playing Hsin's Fortuity)\n:::'''Xianchen:''' I'm really sorry, {{Rover}}, but you can only play Hsin's Fortuity once every day.\n:{{DIcon}} Chat\n::'''Xianchen:''' My shoulders are so stiff... guess I don't have the same energy I once had.\n::'''Xianchen:''' Most of the prizes are the latest designs from the Pioneer Association's production department. There's some all-new ones too, so they'll get some buzz.\n::'''Xianchen:''' If someone wins a prize and spreads the word, it could be the next big thing!\n::'''Xianchen:''' The Pioneer Association really needs a makeover. We need more appeal to get new recruits, you know?\n::'''Xianchen:''' How about giving it a try yourself, {{Rover}}?\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Hsin's Fortuity\n|zhs  = 心狐摇彩\n|zht  = 心狐搖彩\n|ja   = 狐くじ\n|ko   = 여우 로또\n|es   = Sorteo de Hsin\n|fr   = La chance de Hsin\n|de   = Hsins Glückstreffer\n}}\n\n==Change History==\n{{Change History|1.2}}\n\n==Navigation==\n{{PoI Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

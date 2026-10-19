@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:36Z",
+  "title": "Miles",
+  "pageid": 39944,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Miles.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Square\n|group            = \n|affiliation      = Department of Exostrider Engineering\n|title            = \n}}\n{{Quote|Yep. One senior even turned his bike into a light tank for a project. Drove it straight into an active Voidworm zone.|—Lynae}}\n'''{{PAGENAME}}''' is a male NPC student found next to '''Caryl'''. They can be found nearby the Synth Armament Crafting Bay area in [[Startorch Academy]].\n\n{{Dialogue Start}}\n==Dialogue==\n:'''Caryl:''' Impressive. Charging into an active Voidworm zone alone, and even getting the Academy to revoke your punishment... Should've guessed it'd be you, Miles.\n:'''Miles:''' Well, I collected a lot of samples. Even cleared out the Tacet Discords there...\n:'''Caryl:''' Just spit it out... How badly did you wreck the motorbike this time? And don't think my lab runs on goodwill. If I keep applying for more funding, the Academy is going to get suspicious. \n:'''Miles:''' Just fix it. I'll cover the costs. I even saved a few samples for you. Partnership at its finest.\n:'''Caryl:''' So it's not just repairs, huh? Come on, what else do you want me to slap on this time?\n:'''Miles:''' A Hover Cannon.\n:'''Caryl:''' That's it? Doesn't sound like your usual style at all. The motorbike you modded last time was basically a light tank.\n:'''Miles:''' And a few jet lift thrusters on top of that.\n:'''Caryl:''' Ohh, I see. This time, you want to turn your motorbike into a light fighter jet?!\n:'''Miles:''' The project needs it.\n:'''Caryl:''' ...You say it's for the project, but we both know it's so you can dash into the dunes and rescue people.\n:'''Miles:''' ...We've hit peak Void Storm season. The Voidworms have been pulling double shifts.\n:'''Caryl:''' Fine, fine... Guess I've already hitched myself to your pirate ship. How's this: a controllable jet-stream field-lift module, and a full-range companion-flight drone fire support system. If you're good with that, I'll send you the schematics tomorrow.\n:'''Caryl:''' Oh, and here's another treat for you: the StarBurst-6090 Auxiliary Turbocharger. If things get dicey, just fire it up.\n:'''Miles:''' Kinda overkill... but thanks.\n:'''Caryl:''' ...Listen. If anything happens to you, I won't be able to walk away from it either. Only you can push the gear I build to its absolute limit.\n:'''Miles:''' ...Got it.\n----\n;After {{Quest|Starlights from Yesterdays}}\n:;'''Miles''' What's with that look, Caryl?\n:;'''Miles''' What, disappointed I'm still alive?\n:;'''Caryl''' You *New Federation curse*... I just held your FUNERAL yesterday!\n\n:Two students who look familiar are in the middle of a fight. You think you saw them with the rune search team during the Aleph-1 crisis.\n:{{DIcon|Option}} (Listen) \n::'''Caryl:''' What are you laughing at? Eat this!\n::'''Miles:''' Gah! Khk... cut it out! If you need to check if this is a dream, why don't you punch yourself?\n::'''Caryl:''' Oh, sure. Sure, Miles. Now I get why the President and everyone didn't react. You weren't dead after all!\n::'''Caryl:''' So what the hell was that?! You send me a photo of the Royan runes, say, \"Take care of my family for me,\" then log off. What was I supposed to think?!\n::'''Miles:''' Chill. I know you're pissed, but slow your roll. You know the signal around Voidworm territory is garbage...\n::'''Caryl:''' Want your leg broken?! \"Bad signal,\" my ass. Isn't that place, like, your second home? How many times have you driven out there?\n::'''Miles:''' I didn't exactly plan on running into a Voidworm! Voidmatter concentrations were through the roof. As soon as it showed up, my Terminal lost signal!\n::'''Miles:''' I only managed to keep it circling for a few laps because of that turbocharger you installed. If someone piloting the Exostrider hadn't driven Aleph-1 back...\n::'''Caryl:''' ...Good thing I was the one who modded your ride.\n::'''Miles:''' Yeah. Still, it's a shame. Once it lost connection with the Threnodian, the Voidworm just... poof. Gone.\n::'''Miles:''' Really should've recorded it. You don't get a scene that cool twice.\n::'''Caryl:''' You didn't record it? *New Federation curse*, Miles! Don't tell me you ripped out my dashcam again without asking!\n:{{DIcon|Exit}} (Leave)\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\nMiles is referenced by [[Lynae]] and [[S.I.G.M.A.]] in the {{Quest|What Burns Beneath Frostlands}}.\n\n==Other Languages==\n{{Other Languages\n|1_en   = Caryl\n|1_zhs  = 卡罗尔\n|1_zht  = 卡羅爾\n|1_ja   = キャロル\n|1_ko   = 캐롤\n|1_fr   = Caryl\n|1_de   = Caryl\n|1_es   = Caryl\n|1_th   = Carole\n\n|2_en   = Miles\n|2_zhs  = 迈尔斯\n|2_zht  = 邁爾斯\n|2_ja   = マイルズ\n|2_ko   = 마일스\n|2_fr   = Miles\n|2_de   = Miles\n|2_es   = Miles\n|2_th   = Miles\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Caryl",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Miles",
+      "number": "4.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

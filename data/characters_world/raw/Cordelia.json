@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:04Z",
+  "title": "Cordelia",
+  "pageid": 26235,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Cordelia.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Bank Street\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Cordelia''' is an NPC that appears in [[Ragunna]], [[Rinascita]]. At 6:00 PM - 7.59 AM, he can be seen talking with [[Quinto]] in [[Bank Street]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n;(At night)\n:'''Quinto:''' If this keeps up, [[Averardo Vault]] will turn into an Averardo General Store.\n:'''Quinto:''' \u003ci\u003eThe Last Jar of Air Before the Lament\u003c/i\u003e, from New Federation—what kind of art is just a rusty tin can?\n:'''Quinto:''' \u003ci\u003eThe Scented Banana on the Wall\u003c/i\u003e, from Rinascita—this nearly rotting banana is taking up an entire wall!\n:'''Quinto:''' \u003ci\u003eThe Acolyte's Breakfast\u003c/i\u003e, from Rinascita—it's a safe...\n:'''Cordelia:''' We're only responsible for storage. We can't judge their artistic value.\n:'''Quinto:''' But can these really be considered art? Maybe next time, I'll frame a leftover slice of pizza.\n:'''Cordelia:''' Just don't use Pizza Tropicale.\n:'''Quinto:''' If only I were an artist. Making money would be too easy.\n:'''Cordelia:''' The pieces you mentioned are highly valued on the market. Please make sure you take good care of them.\n:'''Cordelia:''' Remember to lower the storage room temperature for \u003ci\u003eThe Scented Banana on the Wall\u003c/i\u003e.\n{{Dialogue End}}\n\n==Trivia==\n*\u003ci\u003eThe Scented Banana on the Wall\u003c/i\u003e refers to a real life conceptual art piece called \"''Comedian''\" by Italian artist Maurizio Cattelan.\n*\u003ci\u003eThe Last Jar of Air Before the Lament\u003c/i\u003e is referenced again by [[Ludvika]].\n\n==Other Languages==\n{{Other Languages\n|en   = Cordelia\n|zhs  = 柯德莉\n|zht  = 柯德莉\n|ja   = オードリー\n|ko   = 코들리\n|es   = Cordelia\n|fr   = Cordelia\n|de   = Cordelia\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

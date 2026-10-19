@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:10Z",
+  "title": "Julia",
+  "pageid": 27403,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Julia.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Whisperwind Haven\n|group            = \n|affiliation      = Jamie Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = Lucio\n|sibling          =\n|child            = Pela\n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Julia''' is a female NPC who appears at Jamie's Farm in [[Whisperwind Haven]]. She's part of the Jamie Family.\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Julia:''' Lucio's been heading out to distant fields every day lately... They say the grass around here isn't good for the cattle anymore.\n:'''Julia:''' It's almost Pela's birthday again. I should buy her some interesting storybooks this year too...\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Julia:''' Lucio's been heading out to distant fields every day lately... They say the grass around here isn't good for the cattle anymore.\n:'''Julia:''' It's almost Pela's birthday again. I should buy her some interesting storybooks this year too...\n:'''Julia:''' \"Beyond Solaris,\" \"Septimont Holiday,\" \"The Legend of Violinist 2000,\" \"Theatre Paradiso\"... Pela has read all these classics.\n:'''Julia:''' Oh, sorry, I was lost in thought... My friend, which storybook on the table do you think would be suitable for my daughter?\n:{{DIcon}} The Montelli.\n::'''Julia:''' The Montelli... a story centered on the upper echelons of the Montelli family, steeped in themes of crime, conspiracy, assassination, and betrayal. It's just too dark.\n:{{DIcon}} John Wicktorio.\n::'''Julia:''' John Wicktorio... Some bad people destroyed the loyal Echo of a retired Montelli family accountant, who then revenges by exposing the old nobility's shady dealings... I don't like it.\n:{{DIcon}} Pirates of Ragunna.\n::'''Julia:''' Pirates of Ragunna... Recounts the adventures of a legendary captain with a morally ambiguous nature. The treasure he seeks and the spoils he plunders are, in truth, the smiles of the people. This story has been banned by The Order.\n:{{DIcon}} The Card Rider Guga.\n::'''Julia:''' The Card Rider Guga... It tells of a nameless hero who became a knight to stop the suffering of people, battling creatures known as Threnodian... This story is just too far-fetched.\n:{{DIcon}} The Holy Echo War.\n::'''Julia:''' The Holy Echo War... It tells the story of seven Echo controllers who, driven by their own desires, entered a brutal survival contest in the distant past. It's a tale of ruthless battles and deadly pursuits... This is way too cruel.\n:{{DIcon}} None of these fit.\n::'''Julia:''' That's true... I guess Pela has outgrown these kinds of stories. I should think it over myself.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en  = Julia\n|zhs = 尤利娅\n|zht = 尤利婭\n|ja  = ユーリア\n|ko  = 율리아\n|es  = Julia\n|fr  = Julia\n|de  = Julia\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

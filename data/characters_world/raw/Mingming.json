@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:36Z",
+  "title": "Mingming",
+  "pageid": 2659,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Mingming.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = Wulü\n|mother           = \n|spouse           = \n|sibling          = Doudou\n|siblingNote      = Sister\n|child            = \n|relative         = \n|relativeNote     = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Mingming''' is the brother of [[Doudou]] and son of [[Wulü]]. They can be found playing Hide-n-Seek nearby [[Chenpi]] the Relic Merchant at 6AM to 6PM, where they move to their father location until 11PM. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;Hide-And-Seek Part 1\n:'''Doudou:''' Hello, Mister. Are you here to play hide-and-seek with me and Mingming?\n:{{DIcon}} Yep.\n::'''Doudou:''' Hurray! Let's start the game!\n::'''Mingming:''' Hide-and-seek! Hide-and-seek!\n:{{DIcon}} Maybe next time.\n::'''Doudou:''' That's fine. Do come play with us the next time when you come around. Pinky swear?\n::'''Mingming:''' Pinky swear!\n:(If declined to play)\n:'''Doudou:''' You're back! So do you wanna play hide-and-seek with us?\n:{{DIcon}} Yes.\n::'''Doudou:''' Cool. Here we go!\n:{{DIcon}} I'm still a bit busy at the moment..\n::'''Mingming:''' Aw... \n----\n:... Ninety-eight, Ninety-nine, one hundred!\n----\n:(If failed to find both of them within the time limit)\n:'''Doudou:''' It was a good try, Mister. Our hiding skills are pretty tough to beat around here.\n:'''Mingming:''' Yup, we can't get caught that easily that's for sure! \n:'''Doudou:''' Our dad once survived a huge disaster using his hiding skills.\n:'''Doudou:''' Now he passed on those skills to us and kept training us, hoping that one day if another disaster comes we'll be able to put them to good use.\n:'''Mingming:''' You can learn some tricks if you play hide-and-seek with us more often!\n----\n:(Upon finding Doudou)\n:'''Doudou:''' Ah! You found me!\n:(Upon finding Mingming)\n:'''Mingming:''' Huh? I though this was a perfect spot...\n----\n:(After finding both of them)\n:'''Doudou:''' Wow! He managed to see through Daddy's hide-and-seek tricks!\n:'''Mingming:''' Ooh... I'm telling Daddy about this so he can teach us even better tricks... \n:'''Doudou:''' Our dad once survived a huge disaster using his hiding skills.\n:'''Doudou:''' Now he passed on those skills to us and kept training us, hoping that one day if another disaster comes we'll be able to put them to good use.\n:'''Mingming:''' You can learn some tricks if you play hide-and-seek with us more often!\n----\n;Hide-And-Seek Part 2\n:(If player won previously)\n:'''Mingming:''' I can't believe it. How did you manage to find us so fast? \n:'''Mingming:''' It's not over yet! Let's do best of three!\n:'''Doudou:''' Again, again!\n:{{DIcon}} Let's do it.\n:{{DIcon}} Maybe next time.\n:(If declined to play)\n:'''Doudou:''' Did you come over to play hide-and-seek with us?\n:{{DIcon}} Yep. Let's play.\n:{{DIcon}} Maybe next time.\n----\n:... Ninety-eight, Ninety-nine, one hundred!\n----\n:(Upon finding Doudou)\n:'''Doudou:''' Ack!\n:(Upon finding Mingming)\n:'''Mingming:''' Huh? No way...\n----\n:(After finding both of them)\n:'''Doudou:''' Wow! He managed to see through Daddy's hide-and-seek tricks!\n:'''Mingming:''' Ooh... I'm telling Daddy about this so he can teach us even better tricks... \n:'''Doudou:''' Our dad once survived a huge disaster using his hiding skills.\n:'''Doudou:''' Now he passed on those skills to us and kept training us, hoping that one day if another disaster comes we'll be able to put them to good use.\n:'''Mingming:''' You can learn some tricks if you play hide-and-seek with us more often!\n----\n;Hide-And-Seek Part 3\n:(If player won twice previously)\n:'''Mingming:''' Aw... We lost two to zero... \n:'''Doudou:''' Well, he's got a few tricks of their own. A worthy opponent I'd have to say. No need to fret, Mingming.\n:'''Mingming:''' Y-yup! Wanna play another game with us, Mister?\n:{{DIcon}} Sure. Let's play another game.\n:{{DIcon}} Err... I don't know. Are you sure you can take another loss?\n::'''Mingming:''' Oh...\n:(If player lost twice previously)\n:'''Mingming:''' Yeah! We won two rounds in a row! \n:'''Doudou:''' We grew up around here and Daddy taught us plenty of hiding skills. It's okay if it was hard for you to find us.\n:'''Mingming:''' Hide-and-seek is so much fun! I wanna play more!\n:{{DIcon}} Another game it is then.\n:{{DIcon}} Maybe next time.\n:(If declined to play)\n:'''Doudou:''' You're back! So do you wanna play hide-and-seek with us?\n:{{DIcon}} Yep. Let's play.\n:{{DIcon}} Let's wait a bit.\n----\n:... Ninety-eight, Ninety-nine, one hundred!\n----\n:(If failed to find both of them within the time limit)\n:'''Doudou:''' Don't be discouraged, Mister. Our hiding skills are pretty tough to beat around here.\n:'''Mingming:''' Yup, we can't get caught that easily that's for sure! \n:'''Doudou:''' Daddy's hiding skills really do come in handy.\n----\n:(Upon finding Doudou)\n:'''Doudou:''' Wow. You got me there...\n:(Upon finding Mingming)\n:'''Mingming:''' Aw...\n----\n:(After finding both of them)\n:'''Doudou:''' You've got more than just luck on your side it looks like...\n:'''Doudou:''' Even Daddy's hiding skills are no match when put up against sheer power.\n:'''Mingming:''' Ooh... I'm telling Daddy about this so he can teach us even better tricks... \n----\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Mingming\n|zhs  = 铭铭\n|zht  = 銘銘\n|ja   = 銘々（メイメイ）\n|ko   = 밍밍\n|es   = Mingming\n|fr   = Mingming\n|de   = Mingming\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

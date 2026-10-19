@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:36Z",
+  "title": "Spectro Prism",
+  "pageid": 23082,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Spectro Prism\n|title=\n|image=Echo Spectro Prism.png\n|dmgtype=Spectro\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Tranquilite\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A Common Class Tranquilite TD often found gathering in the wild. Its shape resembles a golden stone.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Tranquilite}}\n\n==Stats==\n{{Enemy Stats|Spectro Prism}}\n\n\u003c!--==Abilities==\n--\u003e\n==Trophies==\n{{Trophies|Spectro Prism|customheader=Spectro Prisms}}\n\n==Tutorial==\n{{Tutorial|Spectro Prism}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Spectro damage}}.\u003cbr/\u003eA mineral TD commonly found in mine veins. Its rock body emits a blinding, brilliant glow.\nAlthough its combat capability is relatively feeble, when it is destroyed, the energy it releases enhances the Tacet Discords in its vicinity.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Spectro Prism\n|zhs  = 衍射棱镜\n|zht  = 衍射棱鏡\n|ja   = 回折のプリズム\n|ko   = 회절 프리즘\n|es   = Prisma de Espectro\n|fr   = Prisme Specto\n|de   = Spectroprisma\n}}\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

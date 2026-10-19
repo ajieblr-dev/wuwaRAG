@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:02Z",
+  "title": "Poppe",
+  "pageid": 38434,
+  "wikitext": "{{Stub|dialogue}}\n{{NPC Infobox\n|image            = NPC Poppe.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Poppe''' is a male Light Energy Sciences student from [[New Federation]], found talking with his classmate, '''Leroiel'''.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Poppe:''' Have you seen that [[Skelecanth]] in the culture chambers?\n:'''Poppe:''' It's exactly like the one in the Collins documentary trilogy. \n:'''Leroiel:''' You've got it backwards. The documentary was filmed based on real animals.\n:'''Leroiel:''' But I get it. Seeing a fish swim through sand must be strange for anyone who didn't grow up in Lahai-Roi.\n:'''Poppe:''' Tell me about it. The deserts outside the New Federation cities don't have fish like that.\n:'''Poppe:''' It's crazy how much you miss when you only see something through a screen. You really have to see it in person.\n:'''Poppe:''' Being able to actually see them swirl through the sand, like fish in water, must be a wonderful feeling.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Poppe\n|zhs  = 波普\n|zht  = 波普\n|ja   = ポップ\n|ko   = 포페\n|fr   = Poppe\n|de   = Poppe\n|es   = Poppe\n|th   = Poppe\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

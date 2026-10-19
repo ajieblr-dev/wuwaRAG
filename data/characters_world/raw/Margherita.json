@@ -1,0 +1,135 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:34Z",
+  "title": "Margherita",
+  "pageid": 26055,
+  "wikitext": "{{NPC Infobox\n|name             = Margherita\n|title            = Trattoria Margherita\n|image            = Margherita In-Game.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Bank Street\n|group            = \n|affiliation      = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = [[imdb:nm5307518|Cristina Hoey]]\n|voiceCN          = \n|voiceJP          = {{w|ja:香坂侑|Kousaka Yuu ({{Lang|mini=1|ja=香坂侑}})}}\u003cref\u003eX: [https://x.com/yukousaka/status/1933495506673807717 JP VA Self Announcement]\u003c/ref\u003e\n|voiceKR          = \n}}\n'''Margherita''' is a shop NPC in {{Location|Ragunna|nocat=1}}. She is the owner of [[Trattoria Margherita]]. \n\n==Profile==\nA culinary genius, Margherita is famous for her mastery of her Echo Cooker, [[Bakie]]. Many of her dishes come from altering traditional recipes.\n\nShe is a childhood friend of [[Giovanetta]].\n\n==Shop==\n{{Shop/Wrapper|\n{{Shop|Nectarwine|4,500|20|total=1}}\n{{Shop|Ragunna Espresso|4,500|20|total=1}}\n{{Shop|Pizza Tropicale|9,000|20|total=1}}\n{{Shop|Triple-Scoop Ice Cream|9,000|20|total=1}}\n{{Shop|Steak Margherita|9,000|20|total=1}}\n{{Shop|Daily Panini|9,000|20|total=1}}\n{{Shop|Nuvola Pasta|13,500|20|total=1}}\n{{Shop|Nectarwine Recipe|5,000|1|total=1}}\n{{Shop|Ragunna Espresso Recipe|5,000|1|total=1}}\n{{Shop|Pizza Tropicale Recipe|10,000|1|total=1}}\n{{Shop|Triple-Scoop Ice Cream Recipe|10,000|1|total=1}}\n{{Shop|Steak Margherita Recipe|10,000|1|total=1}}\n{{Shop|Daily Panini Recipe|10,000|1|total=1}}\n|total=1,220,000|vendor=Margherita|type=Restaurant}}\n\n==Quests and Events==\n{{Quests and Events|Margherita}} \n\n==Dialogue==\n{{Dialogue Start}}\n:{{DIcon}} I want to check the recipes.\n:;(Opens [[shop]])\n::'''Margherita:''' Welcome to Margherita's! Your pizza will be hot and fresh in no time!\n\n:;(Purchase items)\n::'''Margherita:''' Come by more often—don't be a stranger!\n\n:{{DIcon}} Chat\n;(At day)\n::'''Margherita:''' Chop, chop, chop, the orders are coming in hot, hot hot!\n::'''Margherita:''' The pizza paddle is firing sparks!\n::'''Margherita:''' Bakie, it's time  for a break! Don't overwork yourself, I'll squirrel these orders away!\n::'''Margherita:''' Ding! Banker's Boost Platter, fresh out of the oven!\n::'''Margherita:''' Ding! Gondola Tea and Pastry Tower!\n::'''Margherita:''' Ding! Margherita's Victory Feast, served up with flair!\n:{{DIcon}} Your business is on fire...\n::'''Margherita:''' Ah, {{Rover}}!\n::'''Margherita:''' Feeling hungry? I'll whip up the Gold Star treatment for you anytime you like!\n:{{DIcon}} No, I'm good, really.\n::'''Margherita:''' Are you sure? I heard you've been very busy running around today!\n:{{DIcon}} I appreciate it, but I'm okay.\n::'''Margherita:''' Make sure you eat well, no skipping meals, you hear!\n::'''Margherita:''' Bakie's stove will be crackling and ready for you whenever you want it!\n::'''Margherita:''' Also, no cappuccinos after lunch, or I'll be mad at you!\n:{{DIcon}} Noted.\n----\n;(At night)\n::'''Margherita:''' Phew... finally done for the day, and it all went smooth as butter!\n::'''Margherita:''' Ah! It's {{Rover}}!\n::'''Margherita:''' [[Bakie]]! Fire up a special treat, quick!\n::'''Margherita:''' So late, my friend! Your stomach must be growing.\n::{{DIcon}} Margherita—\n::{{DIcon}} Bakie—\n::'''Margherita:''' Margherita's doors are open for you anytime.\n::'''Margherita:''' And don't forget, no going hungry in Ragunna!\n:{{DIcon|Exit}} Leave \n{{Dialogue End}}\n\n==Character Mentions==\n{{Character Mentions|Margherita}}\n\n== Gallery==\n=== Videos===\n\u003cgallery\u003e\nRinascita Carnevale!\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|1_en    = Margherita\n|1_zhs   = 玛格烈特\n|1_zht   = 瑪格烈特\n|1_ja    = マルゲリータ\n|1_ko    = 마거리트\n|1_fr    = Margherita\n|1_de    = Margherita\n|1_es    = Margherita\n|2_en    = Trattoria Margherita\n|2_zhs   = 玛格烈特餐馆\n|2_zht   = 瑪格烈特餐館\n|2_ja    = トラットリア・マルゲリータ\n|2_ko    = 마거리트 레스토랑\n|2_fr    = Trattoria Margherita\n|2_de    = Trattoria Margherita\n|2_es    = Trattoria Margherita\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Daily Quests",
+      "number": "3.3",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "3.4",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.5",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "5.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "6.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Margherita",
+      "number": "7.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Trattoria Margherita",
+      "number": "7.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "9",
+      "index": "10"
+    }
+  ]
+}

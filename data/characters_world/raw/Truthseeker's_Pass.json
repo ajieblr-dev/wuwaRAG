@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:50Z",
+  "title": "Truthseeker's Pass",
+  "pageid": 9068,
+  "wikitext": "{{Stub}}\n{{About|the area|the [[Main Quest]]|Truthseeker's Pass (Quest)}}\n{{Location_Infobox\n|title1    = Truthseeker's Pass\n|image     = Truthseeker's Pass.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Mt. Firmament\n}}\n{{Quote|Truthseeker's Pass is the [[Court of Savantae]] Ruins in Mt. Firmament.\nYears ago, their researchers journeyed a great distance to Mt. Firmament in seek of a myth.\nToday, facilities and precious study materials remain, yet their creators are nowhere to be found.\n\n[https://wutheringwaves.kurogames.com/m/en/main/news/detail/921 '' Wuthering Waves Official Website '']\n}}\n\n'''Truthseeker's Pass''' is an area of [[Mt. Firmament]], [[Huanglong]]. It has lower, middle, and upper levels on the map.\n\n==Other Languages==\n{{Other Languages\n|en   = Truthseeker's Pass\n|zhs  = 叩天关\n|zht  = 叩天關\n|ja   = 叩天関\n|ko   = 고천관\n|es   = Paso de la Verdad\n|fr   = Passage veritas\n|de   = Pass des Wahrheitssuchers\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

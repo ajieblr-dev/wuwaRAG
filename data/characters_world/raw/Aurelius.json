@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:37Z",
+  "title": "Aurelius",
+  "pageid": 30490,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = NPC Aurelius.png\n|type             = Open-World\n|nation           = Ragunna\n|location         = Vault Underground\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}'''Aurelius''' is a male NPC at the Echo Depository in [[Averardo Vault]]. Unlike his co-worker, [[Valerius]], he is terrified of Echoes. Specifically, the ones from the vaults.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the Day)\n:'''Aurelius:''' I'm quitting... I have to quit...\n:{{DIcon}}: What's the matter?\n:'''Aurelius:''' Ugh! Just look at this place. There's nothing but creepy Echoes and oddballs. I don't know anyone can put up with this. {{sic}}\n:{{DIcon}}: Creepy Echoes?\n::'''Aurelius:''' Yes, the Echoes here in this section of the depository! They've all got that spooky look on their faces. What are they even for anyway? They're nothing like the ones in Ragunna City.\n::'''Aurelius:''' I just don't get it. What do these rich folks even want with this stuff?\n:{{DIcon}}: Oddballs?\n::'''Aurelius:''' Look at that guy over there by the bookshelf. The so-called \u003ci\u003ecaretaker.\u003c/i\u003e\n::'''Aurelius:''' He's either buried in books or pacing around the Echoes... I even saw him reach out and touch one of their wings! He was muttering to himself the whole time, too.\n::'''Aurelius:''' Come on, these Echoes are alive! What if he's performing some kind of ritual to release them?!\n:'''Aurelius:''' I'm quitting... I have to quit...\n----\n;(At Night)\n:'''Aurelius:''' Don't come any closer, don't come any closer...\n:{{DIcon}}: What are you talking about?\n:{{DIcon}}: I'm coming closer.\n:'''Aurelius:''' Eeeehhh!!\n:'''Aurelius:''' Wait, you're not an Echo...\n:'''Aurelius:''' Wait. I think I just saw something flash and for a second there I thought one of those Echoes came to life. {{sic}}\n:'''Aurelius:''' Working here is just terrifying. I'm quitting... I have to quit...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Aurelius\n|zhs  = 奥勒留\n|zht  = 奧勒留\n|ja   = アウレリオ\n|ko   = 아우렐리우\n|es   = Aurelius\n|fr   = Aurelius\n|de   = Aurelius\n}}\n\n==Change History==\n{{Change History|2.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

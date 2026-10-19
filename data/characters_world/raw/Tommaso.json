@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:48Z",
+  "title": "Tommaso",
+  "pageid": 26190,
+  "wikitext": "{{Meta\n}}{{NPC Infobox\n|image            = NPC Tommaso.png\n|type             = \n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = \n|title            = \n}}'''Tommaso''' is an musician from [[Ragunna]], [[Rinascita]]. His Echo is an Aria Mummer named Melody.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Tommaso''': Oh... my soulmate, my king of inspiration... what has happened to you...\n\n:'''Melody''': *Buzz—buzz—whirr—clickety-clack—*\n\n:{{DIcon}} What seems to be wrong with this Echo?\n\n::'''Tommaso''' Hello, traveler from afar. My name is Tommaso, and I am a musician. This here is my Echo partner, the \"Aria Mummer\" Melody.\n\n:{{DIcon}} Oh my gosh, it's starting to transform!\n\n::'''Tommaso''' Transform? Melody can't do that, I'm afraid... Hello, traveler from afar. My name is Tommaso, and I am a musician. This here is my Echo partner, the \"Aria Mummer\" Melody.\n\n:'''Tommaso''' Melody possesses the ability to capture every melody it hears and orchestrate its surrounding \"Melody Ensemble\" to replay them.\n\n:'''Tommaso''' I have known Melody for many years, and it is thanks to its presence that I can savor these fleeting melodies, with an endless stream of inspiration flowing to me each day.\n\n:'''Tommaso''' We often venture out together to gather inspirations, but lately, with preparations for the Carnevale, I've been caught up and had to leave Melody to handle it alone in the city.\n\n:'''Tommaso''' Once I finally finished my work, I realized Melody had already ended up like this...\n\n:'''Melody''': *Buzz—buzz buzz—whimper—*\n\n:'''Tommaso''' It can no longer perform entire melodies. Even its voice shows signs of \"distortion\"... Melody... without you, how am I supposed to live?\n\n:{{DIcon}} Maybe it's because it has listened to too many different things...\n\n:{{DIcon}} All work and no play makes even the sharpest mind dull...\n\n:'''Tommaso''' Sure... It seems likely... Ah, my friend, judging by your posture and attire, you must be a seasoned adventurer.\n\n:'''Tommaso''' Have you heard or recorded any particularly memorable music during your adventure? \n\n:'''Tommaso''' Could you share them with Melody? This might ease its \"symptoms\"...\n----\n:'''Tommaso''' Oh... oh! Yes! This is the sound Melody was meant to have! This... this is true music!\n\n:'''Tommaso''' Thank you! Traveler from afar! This… \"Melody Box\" in your hands, where did you find it? Such wondrous music, captured on a tiny disc like this...\n\n:{{DIcon}} Just a stroke of luck.\n\n:{{DIcon}} Adapted from True Experiences.\n\n:{{DIcon}} I am merely a porter in this world.\n\n::'''Tommaso''' Hmm... So, what you're saying is, these are the things you've gathered through countless adventures in this vast world? Like a... response from the world to you?\n\n:'''Tommaso''' I once heard a saying: All the music in this world is prewritten by the divine, scattered across the land. It is the duty of musicians to discover and record them.\n\n:'''Tommaso''' It seems Melody and I should venture beyond Ragunna City and explore the wider world.\n\n:'''Tommaso''' In the cacophony of the world's sounds, the lifelong challenge for every musician is to distill the purest melodies... and \"Aria Mummers\" are no exception.\n\n:'''Tommaso''' Perhaps within Rinascita, you may encounter other \"Aria Mummers.\" They might be facing similar challenges.\n\n:'''Tommaso''' I have always believed, alongside Melody, that great music has the power to touch others and inspire change.\n\n:'''Tommaso''' During your adventure, if you happen to gather other \"Melody Boxes,\" please lend a hand to the other \"Aria Mummers\" as well.\n\n:'''Tommaso''' Please accept these as a token of my gratitude for your help!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Tommaso\n|zhs  = 托马索\n|zht  = 托馬索\n|ja   = トマソ\n|ko   = 토마소\n|es   = Tommaso\n|fr   = Tommaso\n|de   = Tommaso\n}}\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tutorial Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

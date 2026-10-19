@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:01Z",
+  "title": "Wenxi",
+  "pageid": 79496,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=Huanglong\n|location=Xianling Village\n|affiliation=\n|group=\n|status = Alive\n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = Unknown (Deceased)\n|mother           = \n|spouse           =\n|sibling          =\n|child            = [[Yunzhou]]\n|relative         =\n}}\n'''{{PAGENAME}}''' is an elderly NPC who is first seen during {{Quest|The Wind Before the Storm}}. \n\n{{Dialogue Start}}\n==Dialogue==\n;During {{Quest|The Wind Before the Storm}}\n:'''Wenxi:''' Excuse me, any word about my husband? He left the village yesterday morning, but he still hasn't returned...\n\n:'''Anran:''' I'm sorry, we haven't seen him either...\n\n:'''Anran:''' But we'll let you know the moment there's news.\n\n:'''Wenxi:''' Oh, my darling... Please be safe...\n----\n;After {{Quest|Xuanling Sings, Storm Quelled}}\n:'''Yunzhou:''' Mom! I'm home! Where's dad? I've brought him a souvenir from Mingting!\n\n:'''Wenxi:''' Oh, Yunzhou... My dear boy... Your father... He... he's gone...\n\n:'''Yunzhou:''' W-What do you mean...?\n\n:'''Wenxi:''' Something terrible happened in Xuanfang a while back, and your father left the village that day...\n\n:'''Yunzhou:''' B-But... It can't be...\n\n:'''Yunzhou:''' Dad... How...\n\n:'''Yunzhou:''' That Master [[Lisheng]]'s fan painting you've always wanted... I got it for you...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\u003c!--A different Wenxi is mentioned\n==Character Mentions==\n{{Character Mentions}}\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Wenxi\n|zhs  = 闻溪\n|zht  = 聞溪\n|ja   = 聞渓（ブンケイ）\n|ko   = 문계\n|fr   = Wenxi\n|de   = Wenxi\n|es   = Wenxi\n|th   = Wenxi\n|pt   = Wenxi\n}}\n\n==Change History==\n{{Change History|3.5}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

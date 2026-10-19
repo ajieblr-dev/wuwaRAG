@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:32Z",
+  "title": "Spacetrek Collective",
+  "pageid": 37607,
+  "wikitext": "{{Stub}}\n{{Faction Infobox\n|title    = Spacetrek Collective\n|image    = \u003cgallery\u003e\nSpacetrek Collective Emblem.png|Logo\nSpacetrek Collective Key Art.jpg|Key Art\n\u003c/gallery\u003e\n|leader   = \n|base     = Spacetrek Collective (Area)\n|nation   = Lahai-Roi\n|ally     = Roya Tribe\n}}\n\nThe '''Spacetrek Collective''' is a non-profit international scientific organization jointly established by various nations and organizations of [[Solaris-3]]. It oversees the research, development, and construction work in [[Lahai-Roi]]. They built the [[Spacetrek Collective Research Institute|Research Institute]], [[Startorch Academy]], [[Starward Riseway]] in the vast space beneath the frostlands. Its core mission is the study of the [[Exostrider]] for the purposes of advancing and re-instigating space travel technology.\n\n==History==\nFormed by the [[Pioneer Association]]'s head of states, the Spacetrek Collective was initially named the Polar Collective. After a mutual agreement amongst multiple nations, the Polar Collective established a formal alliance with the [[Roya Tribe]] and the Association was forbidden from carrying out any activities that would harm or disrupt Royan society.\n\n==Members==\n===Notable Personnel===\n{| class=\"article-table\"\n!Icon!!Name!!Position\n|-\n|\n|Chase\n|Director\n|-\n|\n|Professor [[Warren]]\n|Head of the Spacetrek Collective Research Institute\n|-\n|[[File:Resonator Lucilla.png|50px]]\n|[[Lucilla]]\n|President of Startorch Academy\n|-\n|[[File:Resonator Hiyuki.png|50px]]\n|[[Hiyuki]]\n|Leader of the Special Response Force\n|-\n|[[File:Resonator Luuk Herssen.png|50px]]\n|Dr. [[Luuk Herssen]]\n|Doctor and Counselor of the Resonator Nursing Unit\n|-\n|[[File:Resonator Mornye.png|50px]]\n|Professor [[Mornye]]\n|Researcher \u0026 Professor\n|}\n===Other Personnel===\n{{Column|2|\n* [[Adonis]]\n* [[Bori]]\n* [[Hieros]]\n* [[Jingyue]]\n* [[Rogate]]\n}}\n\n==Descriptions==\n{{Description|The international scientific organization jointly established by various nations and organizations of Solaris. It oversees the research, development, and construction work in Lahai-Roi. It was the Spacetrek Collective that built the Research Institute and the Startorch Academy in the vast space beneath the frostlands.|Glossary Excerpt}}\n==Creations==\n*[[Hyvatia]]\n*[[Spacetrek Explorer]]\n*[[Twin Nova: Collapsar Blade]]\n*[[Twin Nova: Nebulous Cannon]]\n*[[Geospider S4]]\n\n==Trivia==\n* The Spacetrek Collective logo strongly resembles the patches of the Soviet cosmonauts in the [[wp:Apollo–Soyuz|Apollo–Soyuz Test Project]].\n\n==Other Languages==\n{{Other Languages\n|en  = Spacetrek Collective\n|zhs = 深空联合\n|zht = 深空聯合\n|ja  = 深宇宙連合（スペーストレック・コレクティブ）\n|ko  = 스페이스트렉 콜렉티브\n|fr  = Collectif Trek-spatial\n|de  = Spacetrek-Kollektiv\n|es  = Unión Intergaláctica\n|th  = สหพันธ์สเปซเทรค\n}}\n\n==Navigation==\n{{Faction Navbox}}\n[[zh:深空联合]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Notable Personnel",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Other Personnel",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Creations",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "9"
+    }
+  ]
+}

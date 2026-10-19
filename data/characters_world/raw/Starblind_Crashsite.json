@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:36Z",
+  "title": "Starblind Crashsite",
+  "pageid": 39570,
+  "wikitext": "{{Location Infobox\n|title  = Starblind Crashsite\n|image  = Starblind Crashsite.png\n|type   = Region\n|map    = Solaris-3\n|nation = Roya Frostlands\n}}\n{{Intro/Location|Starblind Crashsite}}\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Oldfrost Harbor\"\n|[[Oldfrost Harbor]]\n|[[File:Oldfrost Harbor.png|180px]]\n|At the old seaport, ice floes drift near the harbor as the frigid tide whips the seawater, sculpting towering glaciers along the shore.\n|- id=\"Observation Passage\"\n|[[Observation Passage]]\n|[[File:Observation Passage.png|180px]]\n|\n|- id=\"SkyArk Space Station\"\n|[[SkyArk Space Station]]\n|[[File:SkyArk Space Station.png|180px]]\n|One of the near-orbit space stations humanity built before the Etheric Sea sealed off Solaris. Magnetic disturbances from the Lament sent it crashing down, but it remained largely whole. Its ruins once sheltered the Roya from the cold and served as an exploration outpost.\n|- id=\"SkyArk Space Station: Central Sector\"\n|[[SkyArk Space Station: Central Sector]]\n|[[File:SkyArk Space Station Central Sector.png|180px]]\n|\n|- id=\"SkyArk Space Station: Blocked Sector\"\n|[[SkyArk Space Station: Blocked Sector]]\n|[[File:SkyArk Space Station Blocked Sector.png|180px]]\n|\n|}\n\n==Quests==\n{{Quest by Category List|Starblind Crashsite Quests}}\n\n==Exploration Report==\n===Overview on the Exploration Project of Frostlands Space Station (Excerpt)===\n* Achieve 50% Area Exploration Progress to unlock the full report. \n\n{{Transclude|Overview on the Exploration Project of Frostlands Space Station (Excerpt)|Text|main=1}}\n\n===SkyArk Space Station Project Summary (Excerpt)===\n* Achieve 100% Area Exploration Progress to unlock the full report. \n\n{{Transclude|SkyArk Space Station Project Summary (Excerpt)|Text|main=1}}\n\n==Notable Features==\n===Challenges===\n* [[Starblind Crashsite Tacet Discord Nest]]\n\n===Bosses===\n* {{Enemy|Nameless Explorer}}\n\n==See Also==\n* [[A Great Tragedy]]\n\u003c!--\n===Enemies===\n====Elite Class====\n* {{Enemy|Corrosaurus}}\n\n===Common Class===\n*\n\n===Resources===\n* {{Item|Luminous Calendula}}\n--\u003e\n\u003c!--\n==Descriptions==\n{{Description|A sacred homeland of the Roya and the habitat of the Soliskin. Bathed in the radiance of the Reactor Drive, its towering trees reach hungrily toward the light, their deep, interwoven roots returning that energy to the earth.|Official Website}}\n\n==Trivia==\n--\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Starblind Crashsite\n|zhs  = 盲望之塌\n|zht  = 盲望之塌\n|ja   = ブラインドフォール\n|ko   = 눈먼 추락지\n|fr   = Site d'Astraveugle\n|de   = Sternensturzstelle\n|es   = Zona Cero: Ceguera Estelar\n|th   = เศษซากแห่งความมืดบอด\n|pt   = \n}}\n\n==Change History==\n{{Change History|3.1}} \n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Overview on the Exploration Project of Frostlands Space Station (Excerpt)",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "SkyArk Space Station Project Summary (Excerpt)",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

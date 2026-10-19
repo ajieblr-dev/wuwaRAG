@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:47Z",
+  "title": "Glacio Dreadmane",
+  "pageid": 23018,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Glacio Dreadmane\n|title=\n|image=Glacio Dreadmane Icon.png\n|dmgtype=Glacio\n|weakpoint=\n|echo=Yes\n|class=Elite\n|family= Tacet Discord\n|group= Howler\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|An Elite Class Howler TD widely distributed in the snowland. Glacio Dreadmanes are social TDs that usually move in packs.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Elite Howler}}\n\n==Stats==\n{{Enemy Stats|Glacio Dreadmane}}\n\u003c!--\n==Abilities== \n--\u003e\n\n==Trophies==\n{{Trophies|Glacio Dreadmane|customheader=Glacio Dreadmane}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Glacio damage}}.\u003cbr/\u003eA wolf-mimic TD rampant in the snowland, gifted in stealth. Glacio Dreadmanes utilize teamwork and mimicry as weapons against powerful opponents.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Glacio Dreadmane\n|zhs  = 雪鬃狼\n|zht  = 雪鬃狼\n|ja   = 雪鬣狼\n|ko   = 갈기늑대 ・ 눈꽃\n|es   = Lobo Gélido\n|fr   = Loup glacier\n|de   = Glacio Dreadmane\n}}\n\n==Change History==\n{{Change History|1.1}} \n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:20Z",
+  "title": "Legacy Talismans",
+  "pageid": 40657,
+  "wikitext": "{{Stub}}\n{{Terminology Infobox\n|title        = Legacy Talismans\n|image        = \n|type         = Lore\n|nation       = Ashinohara\n}}\nThe '''Legacy Talismans''' are five relics left behind by the [[Sentinels]] in [[Ashinohara]] that were distributed amongst the nation's internal factions for safekeeping.\n\n==Suzu==\nThe Suzu is a talisman in the shape of a bell that's described as being able to grant its bearer the power to 'draw upon the future'. The futures that are able to be drawn upon, however, are not limitless and continuous and excessive use of the Suzu shortens the bearer's lifespan.\n\nThe bearer of the Suzu is referred to by the title \"Miko of Flaming Sakura\".\n\n===Bearers===\n{| class=\"article-table\"\n!Icon!!Personnel!!Title!!Status\n|-\n|[[File:Resonator Hiyuki.png|50px]]\n|[[Hiyuki]]\n|Miko of Eternal Flaming Sakura\u003cref\u003eHiyuki wishes to be the last holder of this title\u003c/ref\u003e\u003cbr\u003eLady Miko\u003cbr\u003eGhost Miko\n|Active\n|-\n|-\n|[[File:NPC Gyokuro.jpg|50px]]\n|[[Gyokuro]]\n|Miko of Flaming Sakura\n|Inactive (deceased)\n|}\n\n==Other Languages==\n{{Other Languages\n|en   = Legacy Talismans\n|zhs  = \n|zht  = \n|ja   = 承縁\n|ko   = \n|fr   = \n|de   = \n|es   = \n|th   = \n}}\n==References==\n\u003creferences /\u003e\n\n== Navigation ==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Suzu",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bearers",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "5"
+    }
+  ]
+}

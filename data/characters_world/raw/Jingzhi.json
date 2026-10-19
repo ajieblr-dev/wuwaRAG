@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:06Z",
+  "title": "Jingzhi",
+  "pageid": 5991,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Jingzhi.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Lake Heights\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Jingzhi''' is an NPC in {{Location|Lake Heights}}.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Jingzhi:''' New faces... Are you from outside [[Jinzhou]]?\n:{{DIcon}} You could say that.\n:'''Jingzhi:''' I suppose you don't know how bad the war between Jinzhou and the [[Tacet Discord]]s was in the past.\n:'''Jingzhi:''' Things are better now, but on the front lines, soldiers are still risking their lives every day.\n:'''Jingzhi:''' Huh... Tell me, young friend, do you think I'll live to see the end of the war as a veteran?\n:{{DIcon}} The war will never end.\n::'''Jingzhi:''' Yes... the war never seems to end.\n::'''Jingzhi:''' The soldiers will never disappear.\n:{{DIcon}} You will live to see its end.\n::'''Jingzhi:''' You think so...?\n::'''Jingzhi:''' If I can't make it, young friend, please bear witness to that day for me.\n:{{DIcon}} I don't know.\n::'''Jingzhi:''' I had a dream last night. It was about a future without war.\n::'''Jingzhi:''' When I woke up, I realized I was dreaming about the past.\n:'''Jingzhi:''' I'm old now and have spent decades of my youth under fire.\n:'''Jingzhi:''' These days, I'm just reminiscing. Please forgive this old man.\n:'''Jingzhi:''' I'll stay a little longer... and then I'll be on my way.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jingzhi\n|zhs  = 竟志\n|zht  = 竟志\n|ja   = 竟志（ケイシ）\n|ko   = 경지\n|es   = Jingzhi\n|fr   = Jingzhi\n|de   = Jingzhi\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

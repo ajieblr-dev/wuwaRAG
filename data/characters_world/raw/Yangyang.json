@@ -1,0 +1,121 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:11Z",
+  "title": "Yangyang",
+  "pageid": 512,
+  "wikitext": "{{Resonator Tabs}}\n{{About|Yangyang's 4-star variant|her 5-star variant|Yangyang: Xuanling}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery|Yangyang}} \n\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 4\n|class            = Natural\n|weapon           = Sword\n|role             = Concerto Efficiency;Traction;Resonance Liberation Regeneration\n|attribute        = Aero\n|releaseDate      = 2024-05-23 \n\n\u003c!-- Info --\u003e\n|name             = Yangyang\n|title            = Breath of Winds\n|gender           = Female\n|birthday         = October 11th\n|birthplace       = Huanglong\n|nation           = Huanglong\n|affiliation      = Jinzhou\n|affiliation2     = Midnight Rangers\n|sigil            = Breeze\n|dish             = Fluffy Wuthercake\n|obtain           = \n\n\u003c!-- Family --\u003e\n|father           = Unnamed\n|fatherRef        = \u003cref name=\"fav food\"\u003eYangyang: Xuanling's Voicelines: [[Yangyang: Xuanling/Voicelines|Favorite Food]]\u003c/ref\u003e\n|mother           = Unnamed\n|motherRef        = \u003cref name=\"fav food\"/\u003e\n|sibling          = Suisui\n|siblingNote      = older sister \n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm5476333|Rebecca Yeo]]\u003cref\u003eX: [https://x.com/Wuthering_Waves/status/1705160015043272924 EN VA Announcement]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/虫虫 Chongchong ({{Lang|mini=1|zh=虫虫}})]\u003cref\u003eOfficial Website: [https://mc.kurogames.com/main#resonators 共鸣者 瑝珑 秧秧]\u003c/ref\u003e\n|voiceJP          = {{w|Yui Ishikawa|Ishikawa Yui ({{Lang|mini=1|ja=石川由依}})}}\u003cref\u003eX: [https://twitter.com/WW_JP_Official/status/1778724744680128561 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/이유리(성우) Lee Yu-ri ({{Lang|mini=1|ko=이유리}})]\u003cref\u003eX: [https://x.com/WW_KR_Official/status/1778724748912148684 KR VA Announcement]\u003c/ref\u003e\n}}{{Quote|The Streams have guided me to you. I have a feeling we'll be companions for many moons to come.|Yangyang}}{{Intro/Resonator|Yangyang|lang=zh=秧秧}}\n\nShe is an outrider of the [[Midnight Rangers]].\n\n==Official Introduction==\n{{Quote|Yangyang journeyed far away from home to become an Outrider in Jinzhou.\n\nInstead of seeking the spotlight, Yangyang chooses to provide comfort through quiet companionship for others.\n\nAfter enduring hardships and anguish, she has found a clear purpose: to be a beacon of guidance and an aiding presence in a world still in need of healing.|[https://wutheringwaves.kurogames.com/en/main#resonators Her introduction on the Official Website.]\n}}\n\n==Combat Overview ==\n{{Main|Yangyang/Combat}}\n===Ascension Material===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Yangyang|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|1_en    = Yangyang\n|1_zhs   = 秧秧\n|1_zht   = 秧秧\n|1_ja    = {{Rubi|秧|ヤン|秧|ヤン}}\n|1_ko    = 양양\n|1_es    = Yangyang\n|1_fr    = Yangyang\n|1_de    = Yangyang\n|2_en    = Breath of Winds\n|2_zhs   = 风声羽息\n|2_zht   = 風聲羽息\n|2_ja    = {{Rubi|風|かぜ}}の{{Rubi|囁|ささや}}き\n|2_ko    = 바람과 깃털의 속삭임\n|2_es    = Aliento de Vientos\n|2_fr    = Le souffle du vent\n|2_de    = Atem der Winde\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[ru:Ян Ян]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Material",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Yangyang",
+      "number": "5.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Breath of Winds",
+      "number": "5.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

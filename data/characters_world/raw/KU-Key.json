@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:11Z",
+  "title": "KU-Key",
+  "pageid": 22081,
+  "wikitext": "{{NPC Infobox\n|image            = KU-Key.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Tethys' Deep\n|group            = \n|affiliation      = Black Shores\n|species          = KU-Roro\n|title            = \n}}\n'''KU-Key''' is a KU-Roro who was assigned to Rover to help clear the corrupted data at the Black Shores and gave access portals [[Shorekeeper|Shorekeepers]] portals across the island. \n\n==Quests and Events==\n{{Quests and Events|KU-Key}}\n\n==Idle==\n:;What a lovely day!\n:;Woo-hoo! Master, is there any other place you want to go?\n\n==Dialogue==\n{{Dialogue Start}}\n;(Besides the Energy Hub Resonance Beacon)\n:'''KU-Key:''' Master, there seems to be a powerful enemy on the other side of this mysterious portal. Would you like to check it out?\n:{{DIcon}} How powerful?\n:{{DIcon}} Can't wait.!\n\n;(Outside the Modulation Hall)\n:'''KU-Key:''' Hiya, Master {{Rover}}!\n:'''KU-Key:''' Good news! The Sonoros lingering in the Black Shores can now be used as portals to access the island!\n:{{DIcon}} Amazing.\n:{{DIcon|Exit}} Maybe next time.\n{{Dialogue End}}\n\n==Gallery==\n===Official Art===\n\u003cgallery\u003e\nKU-Roro Profile About 2.jpg|KU-Roro Profile\n\u003c/gallery\u003e\n\n== Other Languages ==\n{{Other Languages\n|en   = KU-Key\n|zhs  = 库可可\n|zht  = 庫可可\n|ja   = クココ\n|ko   = 쿠 ・ 키이\n|es   = KU-Key\n|fr   = KU-Clé\n|de   = KU-Key\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Official Art",
+      "number": "4.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "7"
+    }
+  ]
+}

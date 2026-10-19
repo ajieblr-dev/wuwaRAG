@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:54Z",
+  "title": "Heavyhands",
+  "pageid": 42148,
+  "wikitext": "{{Enemy Infobox\n|name       = Heavyhands\n|image      = Stonewall Bracer Icon.png\n|dmgtype    = Physical\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|group      = Tranquilite\n|nation     = Rinascita\n|region     = Averardo Vault\n|level      = 120\n}}\n'''Heavyhands''' is a [[Special Enemies|Special Enemy]] found in {{Location|Ragunna|nocat=1}}. It's located in a cave on the island Northeast of Averardo Vault. This Special Enemy becomes available after the {{Quest|Silent as a Falling Leaf}} has been completed. \n\n==Location==\n\u003cgallery\u003e\nTrophy \"I Must Break You\" Location.png|Heavyhands' Location\nTrophy \"I Must Break You\" Location Context.png|Location Context \u003c/br\u003e Cave Entrance\n\u003c/gallery\u003e\n\n==Trophies==\n{{Trophies|Heavyhands|customheader=Heavyhands}} \n\n==Other Languages==\n{{Other Languages\n|en  = Heavyhands\n|zhs = 重拳手\n|zht = 重拳手\n|ja  = ヘビーパンチャー\n|ko  = 헤비 펀처\n|es  = Manospesadas\n|fr  = Mains-Lourdes\n|de  = Schwerfaust\n|th  = มือหนัก\n|pt  = Mãos Pesadas\n}}\n\n==Change History==\n{{Change History|2.1}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

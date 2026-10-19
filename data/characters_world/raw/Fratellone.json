@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:37Z",
+  "title": "Fratellone",
+  "pageid": 28254,
+  "wikitext": "{{NPC Infobox\n|image            = NPC_Fratellone.png\n|type             = Event\n|nation           = Rinascita\n|location         =\n|group            =\n|affiliation      =\n\n\u003c!-- Clan/family --\u003e\n|ancestry         =\n|father           =\n|mother           =\n|spouse           =\n|sibling          = [[Fratello]], [[Fratellino]]\n|child            =\n|relative         =\n}}\n{{Quote|I wonder if someone like me really belongs in the Pioneer Association...}}\n\nFratellone is the eldest of the [[The Three Fratellis' Challenge|Fratellis Brothers]] and is training to build his courage to join the Pioneer Association with his brothers. Rover frequently saves him from his nightmares in Echo Challenge: Clear Cloud.\n\nEach challenge rewards Union EXP x30, [[Astrite]] x20, [[Monnaie]] x40, and EXP Materials. Completing all his challenge will grant the quest [[The Bizarre Brothers: Fratellone]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle==\n{{Dialogue Start}}\n;(Sleep talking while in a nightmare)\n:{{DIcon}} Please, don't make me eat Baton Bread again! They're so dry and hard...\n:{{DIcon}} Stop making me take baths, Lord Tubpup... My skin's wrinkled...\n:{{DIcon}} Nooo... don't pick me to be the Blessed Maiden―I don't want to wear a dress!\n:{{DIcon}} The Dark Tide! Fratellino, don't go skinny-dipping in the Dark Tide!\n:{{DIcon}} Wait, I have to fight Lorelei? Are you serious...\n:{{DIcon}} Boil the great dragon into soup? Spare me, please...\n:{{DIcon}} Ugh... if we get surrounded by the Plushie Squad... each of us would have to fight 1.3 Plushies...\n:{{DIcon}} I thought we were heading to the Pioneer Association, not boarding the Pilgrim's Sail!\n{{Dialogue End}}\n\n==Dialogue==\u003c!---Unsure if the location determines the dialogue or it follows by order of interaction---\u003e\n{{Dialogue Start}}\n{{Icon/Quest|Quests Interact|20}} (Absorb Nightmare Clouds in your surroundings)\n:;(Optional - Talk to Fratellone)\n:'''Fratellone:''' Ah...No! I can't fall asleep... Mmm...\n:'''Rover:''' What's wrong?\n:'''Fratellone:''' I wanted to capture a Nightmare Cloud for research, but I accidentally got hit... Quick, use that to help me...\n:'''Fratellone:''' Go to those Nightmare Clouds... and then...\n:'''Fratellone:''' Capture one... give it to me...\n:'''Fratellone:''' Oh no... the nightmare's about to start...\n:'''Fratellone:''' ...\n\n{{Icon/Quest|Quests Interact|20}} (Wake up Fratellone)\n:'''Fratellone:''' Ugh, I think I had a really long nightmare.\n:'''Rover:''' Are you okay? What are you doing here?\n:'''Fratellone:''' Oh, hello! I'm Fratellone of the Fratellis. My two brothers and I are training to join the Pioneer Association.\n:'''Fratellone:''' I was hoping to prove myself by catching a Nightmare Cloud, but I got attacked instead. Thank you for helping me!\n:'''Fratellone:''' What exactly is the Nightmare Cloud?\n:'''Fratellone:''' The elders say that Nightmare Clouds are formed by the murmurs of people lost in nightmares.\n:'''Fratellone:''' They're filled with all the frightful thoughts that appears in people's minds while they sleep.\n:'''Fratellone:''' I... I'm really nervous about joining the Pioneer Association. There are just so many unknowns ahead! But I'm also worried about my two younger brothers. That's why I need Nightmare Clouds to train my willpower!\n:{{DIcon}}: The Pioneer Association isn't as dangerous as you think.\n::'''Fratellone:''' No way! Going to strange places and eating unfamiliar food―I get stomach cramps just thinking about it!\n:{{DIcon}}: You can do it, Fratellone!\n::'''Fratellone:''' Thanks!\n:'''Fratellone:''' See you later then!\n:'''Fratellone:''' By the way, once my training is over, come visit me in Egla Town. I'll repay you properly!\n----\n{{Icon/Quest|Quests Interact|20}} (Wake up Fratellone)\n:'''Fratellone:''' Ah, it's you! Wait... does that mean I got attacked again?\n:'''Fratellone:''' I wonder if someone like me really belongs in the Pioneer Association...\n:{{DIcon}} You can do it, Fratellone!\n:{{DIcon}} You can do it! You're already ahead of most people!\n:'''Fratellone:''' If you say so... I'll give it another shot!\n----\n{{Icon/Quest|Quests Interact|20}} (Wake up Fratellone)\n:'''Fratellone:''' It feels like I'm getting used to being saved by you lately...\n:'''Fratellone:''' ...\n:'''Fratellone:''' You know, I think I dreamt through every single problem I might face after joining the Pioneer Association.\n:'''Fratellone:''' It feels like I've already had enough.\n:{{DIcon}} But you haven't even joined yet!\n:{{DIcon}} Come on, Fratellone! You've got this!\n:'''Fratellone:''' Alright, since you say so, I'll keep pushing forward!\n----\n{{Icon/Quest|Quests Interact|20}} (Wake up Fratellone)\n:'''Fratellone:''' Aaah... Good morning!\n:'''Fratellone:''' Looks like you slept pretty well, huh?\n:'''Fratellone:''' Yeah, seems like the Nightmare Clouds can't give me bad dreams anymore.\n:'''Fratellone:''' Maybe I've already had all my nightmares?\n:{{DIcon}} Way to go, Fratellone!\n:{{DIcon}} Can you actually run out of nightmares?\n:'''Fratellone:''' Haha, I'm heading back to Egla Town for a bit. Maybe we'll meet there! I still owe you a big thanks!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fratellone\n|zhs  = 沃德戈\n|zht  = 沃德戈\n|ja   = ウォードタロー\n|ko   = 오드골\n|es   = Fratellone\n|fr   = Fratellone\n|de   = Fratellone\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

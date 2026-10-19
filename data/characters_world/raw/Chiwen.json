@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:58Z",
+  "title": "Chiwen",
+  "pageid": 77316,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image          = \n|title          = \n|type           = Quest\n|nation         = Huanglong\n|affiliation    = Xuanfang Wardens\n\n\u003c!-- VAs --\u003e\n|voiceEN        = \n|voiceCN        = \n|voiceJP        = \n|voiceKR        = \n}}{{Quote|Rafter Kites wanted! Unclaimed ones especially. Fair rates, no haggling!}}\n'''{{PAGENAME}}''' {{Lang|zh=钱坤}} is an NPC who helps collect [[Unclaimed Rafter Kite]] for [[Qiuhong]] during the day.\n{{Dialogue Start}}\n==Idle==\n:'''Chiwen:''' I heard you found a Rafter Kite with quite a bit of history behind it?\n\n:'''Chiwen:''' Rafter Kites wanted! Unclaimed ones especially. Fair rates, no haggling!\n\n===Variation 2===\n;Night, switching with [[Qiuhong]]\n:'''Chiwen:''' Commander... Err... Mr. Qiuhong! I have the Rafter Kites from today right here, sir.\n:'''Qiuhong:''' I appreciate your hard work, Chiwen. I'll take it from here.\n\n;Morning, switching with Qiuhong\n:'''Chiwen:''' You've been up all night, and still look all spruced and nice. Now wondering whose shift it's supposed to be...\n:'''Qiuhong:''' It's normal for older folks to sleep less. What's there to be surprised about?\n:'''Chiwen:''' The shift's yours. I'm gonna have a look around and come back later.\n\n===Variation 2===\n;Morning, switching with Qiuhong\n:'''Qiuhong:''' You're here early. Had anything to eat yet? Why don't we head to Yuan's Flavors for some noodles?\n:'''Chiwen:''' I've already eaten. No need to trouble yourself over me... Commander. I mean. Mr. Qiuhong.\n:'''Chiwen:''' I'll have the Rafter Kites taken care of, you may focus on your task at hand.\n\n;Switching place with Qiuhong after he visited Yuan's Flavor\n:'''Qiuhong:''' Here you go! The Stir-Fried Trio is for you, plus some Sovereign Spice courtesy of the owner!\n:'''Chiwen:''' Thanks, Commander! Aren't you gonna have some? Flavor Under Heaven from Yuan's Flavors is the best!\n:'''Qiuhong:''' That's more spice than I can handle. A bowl of Jade Broth Noodles is more than enough for me!\n\n==Dialogue==\n:{{DIcon}} I want to deliver Rafter Kites\n::'''Chiwen:''' I heard you found a Rafter Kite with quite a bit of history behind it?\n;Rafter Kite submitted\n::'''Chiwen:''' The Xuanlings of old do still live on in the design of the Rafter Kites...\n;Level up\n::'''Chiwen:''' This one is in remarkably good shape... On Commander Qiuhong's behalf, thank you!\n;No Rafter Kite submitted\n::'''Chiwen:''' If you find any more unclaimed Rafter Kites, I'll take every last one.\n:{{DIcon}} Chat\n::'''Chiwen:''' Commander Qiuhong used to serve in Mengzhou's Ministry of War, but after a misjudgment in one campaign, they demoted him. Sent him to Xuanfang Hold.\n::'''Chiwen:''' Many people said it would break him... Some even make remarks about how he's never at the Ministry of War.\n::'''Chiwen:''' I'm only a soldier, but I know a real commander doesn't sit in a camp all day playing war on paper.\n::'''Chiwen:''' I came to cover this post because I like studying Rafter Kites. But Commander Qiuhong is after something else. He's after the military intelligence they carry...\n::'''Chiwen:''' With him around, Xuanfang will only grow more peaceful.\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n\n==Change History==\n{{Change History|3.5}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Variation 2",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Variation 2",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "7"
+    }
+  ]
+}

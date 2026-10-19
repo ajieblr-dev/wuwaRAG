@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:23Z",
+  "title": "Excarat",
+  "pageid": 23136,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Excarat\n|title=\n|image=Excarat Icon.png\n|dmgtype=Havoc\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Howler\n|nation=Huanglong\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A common Class, terrestrial, Howler TD. Its size dictates its limited power.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Howler}}\n\n==Stats==\n{{Enemy Stats|Excarat}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Excarat|customheader=Excarat}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Havoco damage}}.\u003cbr/\u003eMole-like animals with excellent burrowing capabilities. They are able to excavate even concrete and steel.\nWith their complicated underground passage system, Excarats can easily hide their traces and confuse their enemies.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Excarat\n|zhs  = 遁地鼠\n|zht  = 遁地鼠\n|ja   = モグロン\n|ko   = 두더지\n|es   = Excarrata\n|fr   = Creutaupe\n|de   = Excarat\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

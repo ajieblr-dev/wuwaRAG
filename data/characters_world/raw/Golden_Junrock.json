@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:48Z",
+  "title": "Golden Junrock",
+  "pageid": 28096,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name = Golden Junrock\n|image = Golden Junrock Icon.png\n|dmgtype = Spectro\n|echo = Yes\n|class = Common\n|family = Tacet Discord\n|group = Tranquilite\n|nation = Rinascita\n|region = \n|subregion = \n|drops = \n}}\n{{Description|A rock-mimic TD with Fool's Gold on its back. It is often mistaken for unmined gold ore.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Tranquilite}}\n\n==Stats==\n{{Enemy Stats|Golden Junrock}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Golden Junrock|customheader=Golden Junrocks}}\n\n==Description==\n{{Description|This enemy has '''higher RES''' to {{Color|Spectro DMG}}.\u003cbr\u003e\u003cbr\u003eA rock-mimic TD with Fool's Gold on its back. It is often mistaken for unmined gold ore.\u003cbr\u003eGolden Junrock tends to meticulously polish the Fool's Gold it bears, a lifetime pursuit to amplify its brilliance.|Description when discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Golden Junrock\n|zhs  = 愚金幼岩\n|zht  = 愚金幼岩\n|ja   = 愚者のゴールドの岩塊\n|ko   = 금석 암괴\n|es   = Junroca Dorada\n|fr   = Jeunpierre d'or\n|de   = Goldener Jungstein\n}}\n\n==Change History==\n{{Change History|2.1}} \n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

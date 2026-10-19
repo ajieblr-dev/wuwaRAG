@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:41Z",
+  "title": "Galbrena (TD)",
+  "pageid": 38121,
+  "wikitext": "{{About|the [[Tacet Discord]]|the playable [[Resonator]] by the same name|Galbrena}}\n{{NPC Infobox\n|image            = Flame Demon Galbrena.jpg\n|name             = \"Galbrena\"\n|title            = Flame Demon\n|type             = Mentioned\n|species          = Tacet Discord\n|status           = Deceased\u003cbr\u003eDefeated and subsequently devoured by [[Galbrena]]. \n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''\"Galbrena\"''' was a [[Tacet Discord]] commonly known and referred to as the \"Flame Demon\".\n\nAs long as hatred burnt, \"Galbrena\" would always be reborn from its frequencies no matter how many times she is defeated. In order to combat this, a young [[Galbrena|Angel]] made a deal with [[Chimera]] as to obtain his devouring power. Using Chimera's power, Angel consumed \"Galbrena\", thus ending her endless cycle of rebirth and took the Tacet Discord's name as her own, becoming the Discord Slayer.\n\n==Mentions==\n{{Character Mentions}} \n\n==Other Languages==\n{{Other Languages\n|en   = Galbrena\n|zhs  = 嘉贝莉娜\n|zht  = 嘉貝莉娜\n|ja   = ガルブレーナ\n|ko   = 갈브레나\n|fr   = Galbrena\n|de   = Galbrena\n|es   = Galbrena\n|th   = \n}}\n\n==Change History==\n{{Change History|introduced=2.7}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

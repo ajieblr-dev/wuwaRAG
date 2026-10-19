@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:56Z",
+  "title": "Chellin",
+  "pageid": 39246,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Chellin.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Freight Zone\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC male researcher seen \"arguing\" with another researcher, [[Pelm]] at the Startorch Academy, Freight Zone. Afterwards speaking with them, they no longer appear there anymore.\n\n{{Dialogue Start}}\n==Idle==\n:'''Chellin:''' Can you finally piece together an Exoswarm with all its limbs working?\n:'''Passing Roya:''' Wait, what? I don't like the way you put it!\n\n==Dialogue==\n;(First time interaction)\n:'''Chellin:''' Talking about that \"Exostrider Deconstruction\" theory again? Can you finally piece together an Exoswarm with all its limbs working?\n:'''Passing Roya:''' Wait, what? I don't like the way you put it!\n:'''Pelm:''' Just save your breath. With all your talk of \"Open the [[Stridergate]]\" and \"Return to the universe,\" what have you actually managed to build?\n:'''Pelm:''' Oh my... guess you're still struggling to reach the stratosphere.\n:'''Chellin:''' And the Exoswarm just scatter the moment they see you. I heard one even kicked you in the head last month. Still recovering, I suppose?\n:'''Chellin:''' Hah... do you even have a single propulsion unit that's not using components we reverse-engineered from the Exostrider? Forgetting where your tech comes from is no way to do research!\n:'''Josephson:''' Turn off the [[Starstack]] before you argue, will you? The students can hear every word you're saying.\n:'''Chellin:''' We aren't arguing, just having a discussion.\n:'''Pelm:''' Agreed.\n----\n;(Second interaction)\n:;'''Chellin''' Amazing...\n:'''Chellin:''' Extracting the Exostrider's route to Solaris from its memory module... Never thought those mules studying the Exostrider could actually pull that off.\n:'''Chellin:''' So it's real... This is the part of the universe that's missing from our records, the space we still haven't been able to observe.\n:'''Chellin:''' Amazing...\n----\n;Located at Starward Riseway\n:'''Chellin:''' What are you up to? \n:'''Pelm:''' What else? Analyzing the Exostrider's memory module. What about you?\n:'''Chellin:''' Tweaking the Twin Nova's engine experiment, of course. Just save the dumb question.\n:'''Pelm:''' Hey, is it really so hard to compliment someone else's great work?\n:'''Chellin:''' That's easier said than done. Without criticism, praise has no meaning.\n:'''Pelm:''' Must you quote aphorisms at me?\n:'''Josephson:''' Now... both of you, turn off the Starstack, please...\n:'''Chellin:''' We weren't arguing, just having a discussion.\n:'''Pelm:''' Agreed.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Chellin\n|zhs  = 切林\n|zht  = 切林\n|ja   = チェリン\n|ko   = 셰린\n|fr   = Chellin\n|de   = Chellin\n|es   = Chellin\n|th   = Chellin\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

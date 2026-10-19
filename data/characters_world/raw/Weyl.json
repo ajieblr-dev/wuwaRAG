@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:01Z",
+  "title": "Weyl",
+  "pageid": 26093,
+  "wikitext": "{{NPC Infobox\n|image           = NPC_Weyl.png\n|nation          = The Black Shores\n|location        = Black Shores Archipelago\n|affiliation     = Black Shores\n|affiliationNote = \n|affiliation2    = Lollo Logistics\n}}\n'''Weyl''' is an NPC that sometimes appears in [[TD Observatory]], [[Black Shores Archipelago]] during the daytime (06.00 AM - 05.59 PM). He works for both [[Black Shores]] and [[Lollo Logistics]] as a courier, handling package shipments to and from the organization.\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events|Weyl}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Weyl:''' All the supplies are here. Now, what's next...\n:'''Weyl:''' Hm? Oh, hi there. I'm Weyl, with Lollo Logistics. Got a package to send?\n:{{DIcon}} Lollo Logistics can even send packages to the Black Shores?\n:'''Weyl:''' Absolutely. Wherever our clients are, we make sure their packages get delivered safe and sound.\n:'''Weyl:''' I handle all the shipments to and from the Black Shores. If you have any issues with deliveries or transportation routes, just let me know anytime.\n:{{DIcon}} So that's how the Black Shores gets its supplies.\n::'''Weyl:''' Not everything comes this way, but yeah, Lollo Logistics is working with the Black Shores.\n:{{DIcon}} But how did you get onto this island?\n::'''Weyl:''' By ship, I assume.\n::{{DIcon}} ...That's not what I meant.\n::{{DIcon}} And how do the ships even find this place?\n::'''Weyl:''' Haha, just messing with you. But honestly, I can't share that—it's a company secret.\n:'''Weyl:''' No offense, but is there some misunderstanding here? Oh, I forgot to wear my Blake Bloom. No wonder you're asking all these questions.\n:'''Weyl:''' I'm also a Black Shores Consultant, but I usually don't wear the Blake Bloom outside this island.\n:{{DIcon}} Why not? It's convenient.\n:'''Weyl:''' Most places are indeed accommodating to Consultants, but some people aren't too happy with us. They even disconnected the local Nexus from the Tethys System.\n:'''Weyl:''' Since the Black Shores isn't exactly popular everywhere, it's better to go low-profile when delivering. People tend to open up more that way, too.\n:{{DIcon}} Makes sense.\n:'''Weyl:''' Anyway, I've got to check the inventory. If you have any packages to send, just come find me.\n{{Dialogue End}}\n\n==Other Language==\n{{Other Languages\n|en   = Weyl\n|zhs  = 韦\n|zht  = 韋\n|ja   = ウェイ\n|ko   = 웨이\n|es   = Weyl\n|fr   = Weyl\n|de   = Weyl\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Language",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

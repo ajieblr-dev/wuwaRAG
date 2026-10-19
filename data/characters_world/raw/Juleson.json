@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:09Z",
+  "title": "Juleson",
+  "pageid": 38407,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Juleson.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Rabelle College\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Juleson''' is a graduating male student NPC from [[New Federation]], found talking about his graduation plans with his classmate from Huanglong, '''Jiushao'''.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Juleson:''' Any idea where you're heading after graduation?\n:'''Jiushao:''' [[Huaxu Academy]]. With warning signs of a Threnodian revival in [[Jinzhou]], every city-state in Huanglong is speeding up its military R\u0026D. My country needs me now more than ever. What's your plan?\n:'''Juleson:''' Same idea, heading back to the New Fed. Got a position at [[Harmoway Medicine]]. Who knows... maybe next time we meet, we'll be on opposite sides.\n:'''Jiushao:''' Hard to say. At least in the fight against the Lament, we'll always stand together.\n:'''Juleson:''' Heh... I hope to see you and your work at next year's [[World Expo]].\n:'''Jiushao:''' You will, I promise. Take care of yourself, my friend.\n:'''Juleson:''' You too, old buddy.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Juleson\n|zhs  = 朱尔斯\n|zht  = 朱爾斯\n|ja   = ジュールス\n|ko   = 쥘슨\n|fr   = Juleson\n|de   = Juleson\n|es   = Juleson\n|th   = Juleson\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:04Z",
+  "title": "Xianfeng",
+  "pageid": 10254,
+  "wikitext": "{{NPC Infobox\n|name             = Xianfeng\n|image            = NPC Xianfeng.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Memento Square\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n}}\n{{Lang|Xianfeng|zh=羡风|zh_rm=Xiànfēng}} is an NPC in {{Location|Memento Square}}.\n\n==Location==\nXianfeng can be found in Memento Square after completing the quest [[Utterance of Marvels: II]].\n\n\u003cgallery\u003e\nNPC Location Xianfeng.png|Xianfeng's location\nNPC Location Xianfeng Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\nXianfeng is a [[Midnight Rangers|Midnight Ranger]] stationed at Memento Square. His Forte allows him to find \"the right launching\" point when moving heavy objects. This has become a useful asset during his time on an exploratory mission, as he's used it to help clear roadblocks and rescue trapped citizens. \n\n==Quests and Events==\n{{Quests and Events|Xianfeng}}\n\u003c!--\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Xianfeng:''' The rock wall was so loose, I broke the rock off before I could even push it.\n:'''Xianfeng:''' It must have been challenging for [[Haobai]] to write this report. I wonder how [[Yirou]] will react to it...\n:{{DIcon}} You're very strong.\n:'''Xianfeng:''' Haha, it's not just about physical strength.\n:'''Xianfeng:''' As long as you find the right launching point, you can do a lot of things that seem impossible.\n:'''Xianfeng:''' It's sort of my empathic ability, doesn't that sound a bit common, haha.\n:'''Xianfeng:''' The ability can be practical, though. There's been more [[Tacet Field]] around lately, and the [[TD]] is stupidly awesome.\n:'''Xianfeng:''' There's a rockslide caused by TD every couple of days. If it happens to block the road, people get stuck in the mountains.\n:'''Xianfeng:''' Luckily, I've saved a lot of trapped people with this empathic ability.\n:'''Xianfeng:''' If you run into any difficulties, especially if you need to clear a rocky roadblock or something like that, just call me.\n{{Dialogue End}}\n\u003c!--\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Xianfeng\n|zhs  = 羡风\n|zht  = 羨風\n|ja   = 羨風（センフウ）\n|ko   = 선풍\n|es   = Xianfeng\n|fr   = Xianfeng\n|de   = Xianfeng\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

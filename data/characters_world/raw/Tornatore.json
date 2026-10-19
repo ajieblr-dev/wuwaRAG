@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:49Z",
+  "title": "Tornatore",
+  "pageid": 28015,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Tornatore.png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = \n|title            = \n}}\n\nTornatore is a scriptwriter who appears next to Ragunna's Pioneer Association, after the completion of [[Carlotta]] Companion Quest; [[If On a Rainy Night a Family]]. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Tornatore:''' \"The rain poured relentlessly, cloaking the world in a shroud of gloom, stripping away its pretense of grandeur to reveal its barren core.\"\n\n:'''Tornatore:''' \"Under the storm's shadow, people were fighting at each other's throats—fragile yet ferocious, like... like beasts cornered in a cage.\" No, no, Tornatore, that's far too trite! Think, man! You can craft something better!\n\n:'''Tornatore:''' You're the playwright of this drama. Give it an ending that lingers, and echo that won't fade!\n\n:'''Tornatore:''' \"As she fell, her trembling hand raised the gun. The old acquiantance{{sic}}, a traitor to his ideals, stared down the barrel. One last shot. Addio.\" Hmm, does that come across too... passive?\n\n:'''Tornatore:''' Ah, I see. Rumors, ripe and waiting, a wellspring of inspiration at my fingertips. Let's see... \"Can I really trust {{MC|m=him|f=her}}? She wondered. Yet instinct urged her forward. She clasped {{MC|m=him|f=her}} hand firmly, then turned her back, offering it wholly to her new companion.\" Yes, yes, that has promise!\n\n:The creator in front of you is completely consumed by the tale of storm and betrayal he's spinning. Perhaps it's best to let him remain in his trance.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Tornatore\n|zhs  = 托纳多雷\n|zht  = 托納多雷\n|ja   = トルナトーレ\n|ko   = 토르나토레\n|es   = Tornatore\n|fr   = Tornatore\n|de   = Tornatore\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

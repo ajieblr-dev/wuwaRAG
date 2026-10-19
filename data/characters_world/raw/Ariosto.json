@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:36Z",
+  "title": "Ariosto",
+  "pageid": 26215,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Ariosto.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Montelli Quarter\n|affiliation      = Black Shores\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}'''Ariosto''' is an NPC in [[Rinascita]]. He is an undercover member of the [[Black Shores]], searching for further information about Rinascita's [[Sentinel]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction)\n:'''???:''' Ah, finally. I can tell at a glance that you are not an ordinary person.\n:'''???:''' You... You must be a Bloom Bearer from the [[Black Shores]], right?\n:{{DIcon}} Who are you? How did you know?\n:{{DIcon}} You are a Bloom Bearer, more Bloom Bearer than I.\n:'''???:''' Mr. [[Aalto]] was right. Bloom Bearers attract other Bloom Bearers!\n:'''Ariosto:''' Sorry, I forgot to introduce myself first. My name's Ariosto, and I am the undercover Bloom Bearer sent here to investigate Rinascita's recent issues.\n:{{DIcon}}: Are you the only one they sent here?\n:{{DIcon}}: Are there any other Bloom Bearers here?\n:'''Ariosto:''' The Black Shores has also sent other Bloom Bearers to Rinascita, but to keep things under the radar of the [[Order of the Deep|Order]], we decided to split up.\n:'''Ariosto:''' If you head  southeast towards [[Septimont]], you'll likely run into some of our colleagues. Compared to Ragunna, Bloom Bearers enjoy a bit more freedom there—less surveillance and fewer rules to follow.\n:'''Ariosto:''' But... how should I put it? Things aren't quite as smooth in Septimont. Our operations face their own set of challenges, and the Bloom Bearers' work there hasn't been progressing as well as we'd hoped.\n:'''Ariosto:''' As you know, the Black Shores is a neutral organization, so we don't have the right to meddle in their affairs without the consent of the local officials.\n:'''Ariosto:''' Our relationship with Rinascita's city-state is... well, \"delicate\" is one way to put it. We've been providing warnings about the Lament crisis- Ragunna being the prime example, of course.\n:'''Ariosto:''' By the way... Come closer, gotta keep our voice low for this... Have you run into any... obstructions from the Order during your mission?\n:{{DIcon}}: Indeed I have. \n:{{DIcon}}: Obstruction is an understatement...\n:'''Ariosto:''' I see. It happened to me as well. ON the surface, Ragunna appears peaceful, but behind the scenes, the Order has been plotting something.\n:'''Ariosto:''' People from the Order was hot on my tail when I was investigating this matter, and even had my Terminal taken from me. Luckily the [[Montelli Family|Montellis]] extended a helping hand...\n:'''Ariosto:''' It was the same Ms. Carlotta who told me that a member of the Black Shores would be arriving in Ragunna soon. I decided to find (him/her) quickly and share the information I have.\n:'''Ariosto:''' I borrowed this costume and a mask from the Montelli to blend in with the crowd, so I could get back to the city during the Carnevale. Well, at least my hard work finally paid off.\n:{{DIcon}}: That sounds really rought.\n:{{DIcon}}: How could they treat us like this!\n:'''Ariosto:''' Us Bloom Bearers, we endure hardship, but the Lament must be stopped at all costs! That's our Bloom Bearer Creed!\n:'''Ariosto:''' You must already have some sense of Ragunna's situation. Now, let me share a wild thought with you...\n:'''Ariosto:''' You saw that Sentinel statue in Ragunna, right? That status is strikingly different from the appearance of Sentinel Imperator we recorded in the [[Tethys System]].\n:'''Ariosto:''' Now, take a deep breath—because I'm about to say something big. What if, just what if... the people of Ragunna have been believing in a false Sentinel all along?\n:'''Ariosto:''' Wait... Enough talk for today. I can't shake the feeling that we're being watched.\n:'''Ariosto:''' My mission isn't finished. I'll stay in Rinascita and continue digging into their historical records about the Sentinel. My next stop is Whisperwind Haven. If fate allows, we'll meet again.\n----\n;(Talk again)\n:'''Ariosto:''' My mission isn't finished. I'll stay in Rinascita and continue digging into their historical records about the Sentinel. My next stop is Whisperwind Haven. If fate allows, we'll meet again.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n |en  = Ariosto\n |zhs = 阿里奥斯托\n |zht = 阿里奧斯托\n |ja  = アリオスート\n |ko  = 아리우스토\n |es  = Ariosto\n |fr  = Ariosto\n |de  = Ariosto\n }}\n==Change History==\n{{Change History|2.0}}\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

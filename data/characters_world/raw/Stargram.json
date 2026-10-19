@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:35Z",
+  "title": "Stargram",
+  "pageid": 74510,
+  "wikitext": "{{Terminology Infobox\n|title        = Stargram\n|image        = Starstack worn by Students.png\n|type         = Lore\n|nation       = Lahai-Roi\n}}\n{{Description|Now, link your Stargram to the port on top of the Mechascout's head. That'll give you temporary control.|Dagdir}}\n'''Stargram''' is a device used to link with mech's to take control.\u003cref\u003e[[Fassdorf]]\u003c/ref\u003e\u003cref\u003e[[Dagdir]]\u003c/ref\u003e\n\nThere isn't many information on what Stargram is beyond that any students from different department have access to it.\u003cref\u003e[[Tae]]\u003c/ref\u003e Given that a [[Starstack]] is said to be for [[Startorch Academy]]'s personnel, it is believed that a Stargram is the three star pieces commonly worn by students and expeditioners. \n\n==See Also== \n* [[Starstack]] \n\n==Other Languages==\n{{Other Languages\n|en   = Stargram\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   =\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

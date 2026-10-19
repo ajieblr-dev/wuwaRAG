@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:06Z",
+  "title": "Qingyun",
+  "pageid": 74678,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Shuohuan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Xuanfang Ministry of Development\n|affiliation      = Ministry of Development\n|affiliationNote  = \n|status           = \n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a NPC Artisan found at night scolding two workers playing with their [[Cloud Pack]] in [[Xuanfang Hold]], [[Mengzhou]] region. \n\n{{Dialogue Start}}\n==Idle==\n;(Daytime)\n:'''Xingyuan:''' I win! I flew two centimeters higher than you! \n:'''Changhe:''' Impossible. It can't be...\n:'''Changhe:''' Only I have mastered the secret technique of \"Soaring to the Heavens\"...\n:'''Xingyuan:''' Hmph, while you were living it up, I havent' stopped training for a single moment.\n\n;(Nighttime)\n:'''Qingyuan:''' Multiple unauthorized Cloud Pack violations, disregard for safety standards...\n:'''Qingyuan:''' Listen here, a Cloud Pack is for aerial work, not a toy for you to play with just because you're upset with each other.\n\n==Dialogue==\n:'''Qingyuan:''' Multiple unauthorized Cloud Pack violations, disregard for safety standards...\n\n:'''Qingyuan:''' Listen here, a Cloud Pack is for aerial work, not a toy for you to play with just because you're upset with each other.\n\n:'''Xingyuan:''' B-But... Master, we're sorry! It won't happen again. Ever. We'll write a guarantee!\n\n:'''Qingyuan:''' I want your Cloud Packs handed in by the end of the day. Neither of you is touching them for the rest of the month.\n\n:'''Changhe:''' No, Master! Just punish us by making us copy \"The Development Compendium\" instead!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Qingyun\n|zhs  = 轻芸\n|zht  = 輕芸\n|ja   = 軽芸\n|ko   = 경운\n|fr   = Qingyun\n|de   = Qingyun\n|es   = Qingyun\n|th   = Qingyun\n|pt   = Qingyun\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

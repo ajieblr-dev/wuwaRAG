@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:19Z",
+  "title": "Zouma",
+  "pageid": 74683,
+  "wikitext": "{{stub|location, shop}}\n{{NPC Infobox\n|image            = NPC Zouma.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Xuanfang Square\n|affiliation      = \n|affiliationNote  = \n|title = Grocery Vendor\n|status           = \n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = [[imdb:nm15933114|Yamamoto Seiya ({{Lang|mini=1|ja=山元聖也}})]]\u003cref name=\"Yamamoto Seiya\"\u003eX: [https://x.com/Sei_ya1224/status/2109878941091815848 JP VA Self Announcement]\u003c/ref\u003e\n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=驺马}} is a NPC Grocery Vendor of [[Jade Steed Itinerant]] found at [[Xuanfang Hold]], [[Mengzhou]] region. \n\n==Location==\n\n==Shop==\n\n\n{{Dialogue Start}}\n==Idle==\n:'''Zouma:''' What the Hold sells, I sell. What it doesn't, my [[Jade Steed]] hauls in and I sell, too.\n\n==Dialogue==\n\n:[[File:Grocery Store Map Marker.png|25px]] I want some medicines.\n:;(Open Shop)\n::'''Zouma:''' The Jade Steed may be small, but it's got a bit of everything. See if anything catches yer eye?\n:;(Purchase)\n::'''Zouma:''' Hauled that all the way in from Shaftpost Yard myself. Fine goods, guaranteed!\n:;(If not amount of [[Shell Credit]]s)\n::'''Rover:''' (I'm running low on Shell Credits. Maybe I'll come back another time.)\n:{{DIcon}} Chat\n::'''Zouma:''' Me and Mahe from Jinzhou? We keep to our own roads. Couldn't be less related.\n::'''Zouma:''' At his prices, only Jinzhou folk too lazy to shop around would buy from him.\n::'''Zouma:''' I do business differently. Even with transports from Shaftpost Yard to Xuanfang Hold, I keep my prices fair.\n::'''Zouma:''' And of course, I owe it all to this trusty little fellow. Jade Steed, once we're sold out, where shall we wander? Anywhere you like, I'll take ye.\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Zouma\n|zhs  = 驺马\n|zht  = 騶馬\n|ja   = 騶馬\n|ko   = 추마\n|fr   = Zouma\n|de   = Zouma\n|es   = Zouma\n|th   = ZouMa\n|pt   = Zouma\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:驺马]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

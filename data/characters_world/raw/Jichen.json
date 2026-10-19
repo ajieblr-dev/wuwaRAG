@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:05Z",
+  "title": "Jichen",
+  "pageid": 23287,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Sibao.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n{{Lang|Jichen|zh= 既晨}} is an NPC found in {{Location|Hongzhen}}. \n\n==Profile==\nJichen and [[Jiye]] are former Hongzhen town guardians. Although their services are no longer needed, they still watch over the now peaceful Hongzhen. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Jichen:''' You're... What is it again... Rover! Right?\n:{{DIcon}} Right\n::'''Jichen:''' Hehe, you're the savior of Mt. Firmament, Rover. The people of Hongzhen are forever in your and the Magistrate's debt.\n:{{DIcon}} Wrong\n::'''Jichen:''' You kids sure love to joke around. I may be old, but my eyes are still sharp.\n::'''Jichen:''' You're the savior of Mt. Firmament, Rover. The people of Hongzhen are forever in your and the Magistrate's debt.\n:{{DIcon}} Do you know me?\n::'''Jichen:''' Hehehe, there's nothing in town I don't know about, much less you and the Magistrate. You're the saviors of Mt. Firmament.\n:'''Jichen:''' Hongzhen suffered the TD Outbreak generations back. It was Sentinel who preserved the town. \n:'''Jichen:''' But the joy we're relishing now is all thanks to you kids.\n:'''Jichen:''' Out with the old, in with the new. The younger generation is pushing forward. Times sure are changing.\n----\n;(Daytime on the Rooftop)\n:'''Jichen:''' Hey, we got a big crowd today. This is great.\n:'''Jichen:''' Any more than this and my eyes won't be able to keep up.\n:'''Jichen:''' ...\n:'''Jichen:''' It's those brats again... I told them not to mess with the guests' stuff. What's so interesting about those walking suitcases anyway?\n:'''Jichen:''' This won't do, I need to go over and have a word with them.\n----\n;(Nighttime sitting near [[Ruisheng]] stall)\n:'''Jichen:''' See those Midnight Rangers?\n:'''Jichen:''' What a relief. I was worried my old bones wouldn't last much longer, but now there's someone to carry on after me.\n:{{DIcon}} Why is that?\n:{{DIcon}} Have you crossed paths with the Midnight Rangers as well?\n:'''Jichen:''' You asked the right question. There's a story behind it. Only a handful of young Mt. Firmament locals know about it.\n:'''Jichen:''' Actually, Jiye and I are town guardians.\n:'''Jichen:''' When we were young, we learned to fight from a master, before deciding to follow his footsteps and become guardians.\n:{{DIcon}} Town guardians? You protect Hongzhen?\n:'''Jichen:''' Yes. Speaking of which, Hongzhen has been through some really tough times. Ever since the TD Outbreak, the elders established a tradition of having guardians.\n:'''Jichen:''' From then on, we guardians have been tasked with keeping watch from high paces all day, ready to alert everyone at the slightest sign of trouble.\n:'''Jichen:''' Hehe, let me toot my own horn for a moment - Jiye and I were the first ones to sense the Temporal Disruption and notify everyone.\n:'''Jichen:''' But the disruption was just an accident. Hongzhen hasn't had major problems for years under the Sentinel's blessings.\n:'''Jichen:''' So we are the only guardians left in Hongzhen from our generation.\n:'''Jichen:''' Ever since Mt. Firmament opened, Midnight Rangers are stationed here. Saw 'em today, young and full of spirit. More impressive than Jiye and I ever were.\n:'''Jichen:''' So I thought maybe it's time these two old fogeys hang it up.\n:'''Jichen:''' However, Jiye is just too stubborn, especially in his old age.\n:'''Jichen:''' Well, I can't blame him, really. He's been at it for most of his life and just can't let go.\n----\n;(On the rooftop ontop of Souvenir Shop with Jiye)\n:'''Jichen:''' Nothing suspicious happened last night, right?\n:'''Jiye:''' Everything's fine...\n:'''Jiye:''' You?\n:'''Jichen:''' Same old, same old for the both of us.\n:'''Jichen:''' Say, since the Midnight Rangers are here, shouldn't we retire?\n:'''Jiye:''' ...\n:'''Jichen:''' Look at you with that stubborn temper of yours. I was just spewing random thoughts. Why are you taking it so seriously?\n:'''Jiye:''' ...\n:'''Jichen:''' Sigh. You know, the  future of Hongzhen is in young people's hands. It's time we let it go.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jichen\n|zhs  = 既晨\n|zht  = 既晨\n|ja   = 既晨（キシン）\n|ko   = 기천\n|es   = Jichen\n|fr   = Jichen\n|de   = Jichen\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

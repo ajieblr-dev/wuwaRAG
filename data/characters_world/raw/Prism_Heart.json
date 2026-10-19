@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:05Z",
+  "title": "Prism Heart",
+  "pageid": 42095,
+  "wikitext": "{{Enemy Infobox\n|name       = Prism Heart\n|image      = Fusion Prism Icon.png\n|dmgtype    = Multiple\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|group      = Staticoid\n|nation     = Huanglong\n|region     = Dim Forest\n|level      = 90\n}}\n'''Prism Heart''' is a [[Special Enemies|special enemy]] consisting of four Prisms found in {{Location|Dim Forest|nocat=1}}.\n\n==Location==\n\u003cgallery\u003e\nTrophy Prism Party Location.png|Location\nTrophy Prism Party Location Context.png|Location Context\n\u003c/gallery\u003e\n\n\n==Trophies==\n{{Trophies|Prism Heart|customheader=Prism Heart}} \n\n==Trivia==\nPrism Heart was originally named Prism Party.\n\n==Other Languages==\n{{Other Languages\n|en  = Prism Heart\n|zhs = 棱镜之心\n|zht = 稜鏡之心\n|ja  = プリズム・共闘\n|ko  = 「프리즘 하트」\n|es  = Corazón de Prisma\n|fr  = Prism Heart\n|de  = Prisma-Herz\n|th  = หัวใจปริซึม\n|pt  = Coração Prismático\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

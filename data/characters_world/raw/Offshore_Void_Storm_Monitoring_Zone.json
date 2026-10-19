@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:55Z",
+  "title": "Offshore Void Storm Monitoring Zone",
+  "pageid": 40414,
+  "wikitext": "{{Stub}}\n{{See Also|To the Pole - Excerpt I}}\n{{Location Infobox\n|title     = Offshore Void Storm Monitoring Zone\n|image     = Offshore Void Storm Monitoring Zone.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Roya Frostlands\n|region    = Frostlands Transit Port\n}}\n\n'''Offshore Void Storm Monitoring Zone''' is an area of [[Frostlands Transit Port]], [[Roya Frostlands]]. \n\n==NPCs==\n{{NPCs by Location List|Offshore Void Storm Monitoring Zone}}\n\n==Other Languages==\n{{Other Languages\n|en   = Offshore Void Storm Monitoring Zone\n|zhs  = 近海磁暴监测区\n|zht  = 近海磁暴監測區\n|ja   = 近海・ヴォイドストーム\u003cword\u003e測定エリア\u003c/word\u003e\n|ko   = 보이드 스톰 관측 구역 · 근해\n|fr   = Zone de surveillance des tempêtes de Néant - Côtier\n|de   = Küstennahe Leerensturm-Überwachungszone\n|es   = Zona de Monitoreo: Tormenta Litoral\n|th   = เขตตรวจวัดพายุสุญตาริมชายฝั่ง\n|pt   = Zona de Monitoramento: Mar Aberto\n}}\n\n==Change History==\n{{Change History|3.1}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

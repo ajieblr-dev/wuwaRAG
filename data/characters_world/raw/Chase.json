@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:56Z",
+  "title": "Chase",
+  "pageid": 43222,
+  "wikitext": "{{stub|profile}}\n{{NPC Infobox\n|image            = NPC Chase.png\n|type             = Open-World\n|nation           = New Federation\n|location         = \n|group            = Spacetrek Collective\n|affiliation      = Spacetrek Collective\n|affiliation2 = Startorch Academy\n|title            = \n}}{{Quote|I'm a businessman. And businessmen trust their instincts for a good investment.|Chase}}\n'''{{PAGENAME}}''' is the Head of the [[Spacetrek Collective]] from [[New Federation]] and makes his first appearance in {{Quest|Starlights from Yesterdays}}.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Profile==\nFormerly a low-level employee at [[Ashridge Energy]], he suddenly disappeared and reappeared in a government position before leaving to dive into multiple large-scale investment projects. \n\nHe comments that he already met Rover before. \n\n==Other Languages==\n{{Other Languages\n|en   = Chase\n|zhs  = 查特\n|zht  = 查特\n|ja   = チェイス\n|ko   = 체이스\n|fr   = Chase\n|de   = Chase\n|es   = Chase\n|th   = Chase\n|pt   = Chase\n}}\n\n==Change History==\n{{Change History|3.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

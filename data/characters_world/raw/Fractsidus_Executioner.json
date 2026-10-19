@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:35Z",
+  "title": "Fractsidus Executioner",
+  "pageid": 23007,
+  "wikitext": "{{Enemy Infobox\n|name=Fractsidus Executioner\n|title=\n|image=Fractsidus Executioner Icon.png\n|dmgtype=Havoc\n|weakpoint=\n|echo=No\n|class=Elite\n|family=Human\n|group=Fractsidus\n|nation=\n|region=\n|subregion=\n|drops=\n}}{{Description|Loyal believers in the Fractisidus lurking in the shadows.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Elite Fractsidus}}\n\n==Stats==\n{{Enemy Stats|Fractsidus Executioner}}\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Fractsidus Executioner|customheader=Fractsidus Exectioners}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Havoc damage}}.\u003cbr/\u003eFractsidus' faithful cultists.\u003cbr\u003e\nLacking in Forte yet bearing a strong yearning for power, they crossed forbidden scientific boundaries. Through the use of special mechanical components, their human bodies are amalgamated with TD limbs, thus they obtain the ability to render themselves invisible.\n\nHowever, TD frequencies distort the cultists’ mentality and corrode their bodies. Executioners are tasked with the removal of the Fractsidus members in breach of rules or gone out of control.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Fractsidus Executioner\n|zhs  = 处刑人\n|zht  = 處刑人\n|ja   = 処刑者\n|ko   = 처형자\n|es   = Fractsidus: Verdugo\n|fr   = Fractsidus: bourreau\n|de   = Ausführer von Fractsidus\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

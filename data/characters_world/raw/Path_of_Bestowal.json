@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:57Z",
+  "title": "Path of Bestowal",
+  "pageid": 31930,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Path of Bestowal\n|image=Path of Bestowal.png\n|world_map=Solaris-3\n|type=Area\n|nation=Rinascita\n|region=Avinoleum}}\n{{Quote|Majestic and serene, ancient yet still sacred. This is the coronation platform prepared for the Blessed Maiden, though an aura of control lingers above. When the heavy weight of \"divine right\" falls upon one's head, it feels as if all choices have already been made.}}\n\n'''Path of Bestowal''' is an area of [[Avinoleum]], [[Rinascita]].\n\n\n== Other Languages ==\n{{Other Languages\n|en   = Path of Bestowal\n|zhs  = 圣授厅\n|zht  = 聖授廳\n|ja   = {{Rubi|神儀|しんぎ}}の間\n|ko   = 신성한 방\n|es   = Camino del Otorgamiento\n|fr   = Voie de la bénédiction\n|de   = Halle der Heiligen Verleihung\n}}\n== Change History ==\n{{Change History|2.2}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

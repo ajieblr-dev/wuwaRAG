@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:15Z",
+  "title": "Yuhe",
+  "pageid": 10212,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|image            = NPC Yuhe.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n'''Yuhe''' is an NPC in {{Location|Hongzhen}}.\n\n==Location==\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the Day)\n:'''Qinghe:''' Hey, what is a little cat doing in the pool?!\n:'''Qinghe:''' Don't panic, kitty-kitty. I'll get you out of there right now!\n:'''Xiaotang:''' Please keep it down. The cat doesn't like loud noises when it's enjoying the hot spring.\n:'''Xiaotang:''' Oh, and it's name is Tiger, not kitty.\n:'''Qinghe:''' Enjoying the hot spring? Stop messing with me, little girl. All cats hate water.\n:'''Xiaotang:''' I'm not messing with you. Cats in Mt. Firmament don't.\n:'''Xiaotang:''' Well, that's not entirely true, I guess... They don't like the streams. Maybe they just prefer Sagaci Springs...\n:'''Xiaotang:''' Hey, look, Tiger heard us and is swimming our way!\n:'''Qinghe:''' That is odd. The cat does seem fine and well...\n----\n;(At Night)\n:'''Qinghe:'''  Interesting... I wouldn't believe it if I didn't see it for myself.\n:'''Qinghe:''' I wonder what makes Sagaci Springs so special...\n:'''Qinghe:''' Maybe I should try it myself sometime?\n{{Dialogue End}}\n\n==Note==\nAlthough their name says Yuhe, it turns Qinghe when spoken to.\n\n==Other Languages==\n{{Other Languages\n|en   = Yuhe\n|zhs  = 聿禾\n|zht  = 聿禾\n|ja   = 聿禾\n|ko   = 한빈\n|es   = Yuhe\n|fr   = Yuhe\n|de   = Yuhe\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Note",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

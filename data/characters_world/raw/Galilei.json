@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:42Z",
+  "title": "Galilei",
+  "pageid": 38399,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Galilei.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Galilei''' is a graduating male student from [[New Federation]]. He can be found discussing his graduation wishes with his teacher, '''Rhunfield'''.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Galilei:''' I don't want to return to the New Federation to study the Sentinel. I don't want to join the Spacetrek Collective. And I don't want to work here either.\n:'''Rhunfield:''' But your training results are flawless, and your research shows remarkable foresight. What do you plan to do after graduation, Galilei?\n:'''Galilei:''' I want to live like a Roya.\n:'''Rhunfield:''' What? You can't be serious.\n:'''Galilei:''' Professor... if my skills and my talent are just going to be tools for someone else's agenda, then I'd rather give them up.\n:'''Galilei:''' If I go back to the New Federation, my research will only become another way for the capital to exploit the Sentinel.\n:'''Rhunfield:''' And if I stay here? You and I both know this so-called \"Research Alliance\" is just a tangled web of interests, all waiting to get a slice of our work.\n:'''Galilei:''' Tell me, Professor, does a true sanctuary for pure research even exist?\n:'''Galilei:''' Haha, I'd rather go live as a Roya. Wouldn't be so bad living with them...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Galilei\n|zhs  = 伽利雷\n|zht  = 伽利雷\n|ja   = ガリレオ\n|ko   = 갈릴레이\n|fr   = Galilei\n|de   = Galilei\n|es   = Galilei\n|th   = Galilei\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

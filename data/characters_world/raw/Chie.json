@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:57Z",
+  "title": "Chie",
+  "pageid": 4429,
+  "wikitext": "{{NPC Infobox\n|image            = Chie.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Liondance Troupe\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Chie''' is an NPC Liondance Troupe member in {{Location|Jinzhou}}, near the Jinhzou Theater stage. He can be found next to [[Mingzhi]].\n\n==Location== \n{{Map Embed|Jinzhou|93|nogroup=1}}\n\n==Dialogue ==\n{{Dialogue Start}}\n:'''Qi:''' Hi, Rover. Are you here for [[Lingyang]]?\n:'''Qi:''' That kid has been training even harder recently...\n{{Dialogue End}}\n\n==Notes==\n*Despite his name being Chie in English, his dialogue writes it as Qi.\n\n==Other Languages==\n{{Other Languages\n|en      = Chie\n|zhs     = 阿奇\n|zht     = 阿奇\n|de      = Chie\n|es      = Qi\n|fr      = Chie\n|ja      = 阿奇\n|ko      = 아치\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notes",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

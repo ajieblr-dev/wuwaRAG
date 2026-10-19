@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:21Z",
+  "title": "Liang Dongyuan",
+  "pageid": 37197,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_profile  = yes\n}}\n{{NPC Infobox\n|image            = \n|name             = Liang Dongyuan\n|title            = Grandmaster Liang\n|type             = Mentioned \n|status           = Deceased \u003cbr\u003e Killed by the [[Grand Architect]]\n|alias            = \n|nation           = Huanglong\n|affiliation     = Mingting\n|affiliation2     = Internal Security Agency\n}}\n'''Liang Dongyuan''' {{Lang|zh=梁东园}}, also known as '''Grandmaster Liang''', is a deceased, mentioned only [[NPC]] who is first mentioned in {{Quest|A Stranger in a Strange Land}}. He was a member of the [[Internal Security Agency]] in [[Huanglong]]. \n\nAt some point, he was murdered by the [[Schwarzloch|Grand Architect]], who impersonated him and used his identity to gain political influence in the [[Mingting]] [[Censorate]]. He eventually sent [[Qiuyuan]] to murder [[Geshu Lin]] on the pretense that he had colluded with [[Tacet Discord]]s. Qiuyuan would refuse after seeing Geshu Lin protect a home from a Tacet Discord pack, refusing to follow through with the order. In retaliation, the Grand Architect killed \"himself\" in Dongyuan's form and framed Qiuyuan for the murder, forcing him to go on the run for the past five years.\n\n==Character Mentions==\n{{Character Mentions}} \n\n==Other Languages ==\n{{Other Languages\n|en   = Liang Dongyuan\n|zhs  = 梁东园\n|zht  = \n|ja   = \n|ko   = \n|fr   = \n|de   = \n|es   = \n}} \n\n==Change History==\n{{Change History|introduced=2.7}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

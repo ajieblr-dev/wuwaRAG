@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:12Z",
+  "title": "Dimmr Plains Shaft",
+  "pageid": 42008,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Dimmr Plains Shaft\n|image     = Dimmr Plains Shaft.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Roya Frostlands\n|region    = Solisia Landing\n}}\n\n'''Dimmr Plains Shaft''' is an area of [[Solisia Landing]], [[Roya Frostlands]]. \n\n==NPCs==\n{{NPCs by Location List|Dimmr Plains Shaft}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dimmr Plains Shaft\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n}}\n\n==Change History==\n{{Change History|3.3}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:23Z",
+  "title": "Exploration Report",
+  "pageid": 27413,
+  "wikitext": "{{Terminology Infobox\n|title = Exploration Report\n|image = \n|type  = Lore\n}}'''Exploration Reports''' are in-universe text excerpts unlocked through [[Exploration Progress]] in each [[Region]].\n\n==Overview==\nEach Region, except [[Chronorift Metropolis]], has 2 unlockable Exploration Reports, which the player can access upon reaching 50% and 100% completion in the region. Exploration Reports can be viewed through selecting the book icon on any Region's Exploration Progress menu.\n\n==List==\n\u003cdpl\u003e\ncategory=Exploration Report\n\u003c/dpl\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Exploration Report\n|zhs  = 探索报告\n|zht  = 探索報告\n|ja   = 探索報告\n|ko   = 탐색 보고서\n|es   = Informe de exploración\n|fr   = Rapport d'exploration\n|de   = Erkundungsbericht\n|th   = \n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "List",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

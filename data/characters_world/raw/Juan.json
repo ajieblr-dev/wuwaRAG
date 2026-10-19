@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:08Z",
+  "title": "Juan",
+  "pageid": 26385,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Juan.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|affiliation      = \n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}'''Juan''' is a male NPC in {{location|Ragunna}}, found in the [[City Square]]. \n\n==Idle Dialogue==\n{{Dialogue Start}}\n:'''Juan:''' How do you reveal your feelings for someone in a way that's romantic yet sincere...\n:'''Juan:''' Lady Rita still waits for my confession... Oh, the torment of love!\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Juan:''' \"You are the best thing that's ever happened to me.\"\n:'''Juan:''' \"You get my heart racing and give me butterflies.\"\n:{{DIcon}} What?\n:'''Juan:''' Oh, sorry! I was just practicing for a romantic confession.\n:'''Juan:''' What do you think of those lines?\n:{{DIcon}} Feels a bit stiff.\n:'''Juan:''' Oh, my word. That's absolutely it! You must be someone who really knows their romantic talk. Please, give me some tips!\n:{{DIcon}} Maybe try something more poetic?\n:'''Juan:''' Poetic? Let's see...\n:'''Juan:''' \"I tried to pluck two stars from the sky for you, only to find they were nowhere near as bright as your eyes.\"\n:{{DIcon}} Much better, but still too cliché.\n:'''Juan:''' Cliché? So you're saying I should make my confession feel like it's tailor-made for my love?\n:{{DIcon}} Yep. And don't forget that trick with the eyes.\n:'''Juan:''' Copy that!\n:'''Juan:''' \"{{Rover}}, you always glide past me, yet seem more distant than the moon itself.\"\n:'''Juan:''' \"I yearn for tomorrow to bring you back, yet you remain unaware that my tomorrows fade into shadow without you.\"\n:{{DIcon}} Not bad. It sounded like you meant it.\n:'''Juan:''' \"I wove webs to tighten the bond between our souls, only to end up ensnaring myself.\"\n:'''Juan:''' \"At this very moment, your fleeting words intensify my pain while granting me a brief, sweet happiness.\"\n:{{DIcon}} Err. I think that's enough... You're doing great.\n:'''Juan:''' \"Go ahead and mock my recklessness, for I want to kiss your heart and leave my mark on your chest.\"\n:'''Juan:''' \"I want to breathe in the fragrance between your fingers, reaching right into your heart's desires.\"\n----\n;(Night, Septimont - Capitoline Hill City)\n:'''Juan''': {{Rover}}, I didn't expect to see you here. Perhaps the moon has witnessed my prayers and sent you to me?\n:{{DIcon}} What brings you here?\n:'''Juan''': To seek love. I hope to find my true love within this glorious city...\n:'''Juan''': I kissed the city's crimson walls to offer my most precious kiss, hoping she would accept my feelings...\n:{{DIcon}} Have you found success?\n:'''Juan''': No... but I've learned how to confess my feelings.\n:'''Juan''': The city of glory taught me that passion is the key to confession. Hence, I share transform myself, just to let her know that...\n:'''Juan''': I love you! I love you with every drop of passion within me!!!!!\n:{{DIcon}} ???!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Juan\n|zhs  = 唐璜\n|zht  = 唐璜\n|ja   = ドンファン\n|ko   = 돈 후안\n|es   = Juan\n|fr   = Juan\n|de   = Juan\n}}\n==Change History==\n{{Change History|2.0}}\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

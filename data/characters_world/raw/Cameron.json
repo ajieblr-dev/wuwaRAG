@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:50Z",
+  "title": "Cameron",
+  "pageid": 30583,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Cameron.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Fool's Elysium\n|group            = \n|affiliation      = Troupe of Fools\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Cameron''' is a male NPC who appears in {{Location|Fool's Elysium|nocat=1}} at 18:00-05:59.\u003cbr\u003eIt's implied he may be a Resonator that can peer into and \"craft\" dreams for others. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle==\n{{Dialogue Start}}\n;(From the people sleeping nearby)\n:;'''Knox''' I love you... but I can only see you in my dreams...\n:;'''Knox''' Look at our daughter... how adorable s he is... Marina\n:;'''Knox''' Can I see her one last time, please... Why... Why can't I see her face clearly...\n:;'''Knox''' Marina... Marina...?\n\n:;'''Gideon''' I get what you're saying... but I want a No. 65 Tubpup with Nuvola Pasta...\n:;'''Gideon''' It's so deep... It's all Troupe Strength in the Tubpup... I can't drink anymore...\n:;'''Gideon''' Too much Tubpup... bad for your health...\n\n:;'''Todd''' Ragunna... the false Righteous One... cloaked in divinity, divinity... hmm...\n:;'''Todd''' Father... Mother... It's me, Todd... Did you like my performance...?\n:;'''Todd''' Don't cry... I'm here... I'm home...\n\n==Dialogue==\n:'''Cameron:''' Can't sleep either?\n:{{DIcon}} What's keeping you up?\n:'''Cameron:''' As you can see, it's only when I'm fully awake that I can \"craft\" their dreams.\n:{{DIcon}} What kind of dreams do you craft?\n:'''Cameron:''' Hmm… it varies, really. Most of the time, I create beautiful visions to heal the regrets that weigh on their hearts.\n:'''Cameron:''' But, from what I've seen, the fear of \"boarding the Fool's Sail\" appears to be so deeply rooted that the dreams don't always turn out as they hoped.\n:{{DIcon}} What are their regrets?\n:'''Cameron:''' Todd, hailing from an underground theater troupe, was banished merely for using comedy to satirize the Order's tax policies...\n:'''Cameron:''' Gideon's family was framed by the Acolytes. At his lowest, he could only find solace with a Tubpup. It became his shelter, his only home in the storm.\n:'''Cameron:''' Knox was sent aboard the Fool's Sail before his newborn child even had a chance to open their eyes. And as kin of a \"heretic,\" the future doesn't look kind.\n:{{DIcon}} So that's how it is...\n:'''Cameron:''' During this Carnevale, we all have to hide our identities and take on roles in the Fool's Troupe as we return to Ragunna City, after so long.\n:'''Cameron:''' We must suppress our desire to reconnect with old friends while trying to complete the Montelli family's mission. It's... complicated. So insomnia, I suppose, is inevitable.\n:'''Cameron:''' That's why I need to create dreams for them, to help them get some rest.\n:{{DIcon}} Why do you hide your true identities?\n:'''Cameron:''' Well, the Order doesn't know... but most of the Fool's Troupe are survivors from the Pilgrim's Sail.\n:'''Cameron:''' The moment the Order uncovers the truth, our Fool's Elysium will burn to the ground. We have to keep our silence, no matter the cost.\n:'''Cameron:''' In our plays, we sing to condemn the oppression, to shed light on the bloodshed… One day, all of Rinascita will know what Fenrico has done.\n:{{DIcon}} Take a break when you feel ready.\n:'''Cameron:''' Thank you… for taking the time to understand us, for wanting to know the Fools' story.\n----\n;(After {{Quest|Dawn Breaks on Dark Tides}})\n{{Spoiler}}\n:'''Cameron:''' You're here again.\n:{{DIcon}} Crafting dreams again?\n:'''Cameron:''' More and more people can't fall asleep these days.\n:'''Cameron:''' It's already a struggle to accept being sent to the Pilgrim's Sail... and just when they finally made peace with it, the Dark Tide rose.\n:'''Cameron:''' Those who thought they could live in the present—accepting what fate dealt them—found their regrets surging back to the surface.\n:'''Cameron:''' I can't do much for them. But at the very least, I can give them one good night's sleep.\n:{{DIcon}} But that means you'll sleep less yourself.\n:'''Cameron:''' Fenrico's vanished. The Blessed Maiden has returned. And we're staring down an entirely new chapter.\n:'''Cameron:''' With so much happening, people are drowning in news and uncertainty, unsure where their lives are headed.\n:'''Cameron:''' I'm no different. So, to live in the present with a clear mind... That, to me, is a blessing in itself.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Cameron\n|zhs  = 卡梅隆\n|zht  = 卡梅隆\n|ja   = カメロン\n|ko   = 카멜론\n|es   = Cameron\n|fr   = Cameron\n|de   = Cameron\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

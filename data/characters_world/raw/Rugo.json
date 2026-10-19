@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:16Z",
+  "title": "Rugo",
+  "pageid": 74618,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Rugo and Ferripaws.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Sanguis Plateaus\n|location2        = Hunter's Den\n|affiliation      = Septimont\n|affiliationNote  = Blacksmith}}\n'''{{PAGENAME}}''' is a male NPC Blacksmith seen at the Smitthy camp up on one of the cliffs by [[Hunter's Den]]. He is seen with a [[Wooter]] assistant, wearing Blacksmith apparel. \n\n{{Dialogue Start}}\n==Dialogue==\n;(First Interaction)\n:;'''[[Rugo]]''' Come on, Ferripaws! Make the flames burn brighter!\n:;'''Ferripaws''' *A firm and resolved cry*\n:;'''Rugo''' Don't get too close to the fire, or your whiskers will get singed!\n:;'''Ferripaws''' *A cautious and resolved cry*\n:'''Rugo:''' May applause greet you, young one. What brings you here? Crafting or repairs? As you can see, my hammer's swinging so fast it's practically throwing sparks. If you're looking to place an order, you'll have to wait your turn.\n:{{DIcon}} I'm curious about Wootters.\n:{{DIcon}} Why have they never appeared in Septimont City?\n:'''Rugo:''' Well, folks say the Wootters did live in Septimont City a long time ago. But after the first Dark Tide hit, they all moved out to the Sanguis Plateaus and settled here.\n:'''Rugo:''' Some believe it was the Sentinel Imperator who helped them make the move, so they could support the hunters fighting the Dark Tide.\n:'''Rugo:''' We're grateful for these fuzzy little ones, and even more so to Imperator, who's always been a great ally of Septimont.\n\n:;'''Rugo''' What's the most important trick in smithing, Ferripaws?\n:;'''Ferripaws''' *An agreeing cry*\n:;'''Rugo''' That's right! Just like cooking fish, it's all about the temperature!\n:'''Rugo:''' Hold the hammer tight with your index finger locked in, the rest of your fingers loose but steady. Remember, it's all about using the momentum from your wrist, not brute force. That way, you'll last a lot longer.\n:'''Rugo:''' Here, follow my lead. Hold it like this! Yes, just like that, and bring it down!\n:'''Ferripaws:''' *A spirited cry*\n:'''Rugo:''' That's it! Now, let's do that again!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Rugo\n|zhs  = 鲁戈\n|zht  = 魯戈\n|ja   = ルゴ\n|ko   = 루고\n|fr   = Rugo\n|de   = Rugo\n|es   = Rugo\n|th   = Rugo\n}}\n{{Other Languages\n|en   = Ferripaws\n|zhs  = 铁掌\n|zht  = 鐵掌\n|ja   = テツノ\n|ko   = 페리포스\n|fr   = Ferripattes\n|de   = Ferripaws\n|es   = Ferripaws\n|th   = Ferripaws\n}}\n\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

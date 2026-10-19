@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:03Z",
+  "title": "Collective Factory",
+  "pageid": 39093,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title        = Collective Factory\n|image        = Collective Factory.jpg\n|type         = \n|map          = Solaris-3\n|event        = \n|nation       = Roya Frostlands\n}}\n\nThe '''Collective Factory''' is a facility in the [[Roya Frostlands]] used by the Spacetrek Collective Research Institute to manufacture Mechascouts and standardised weaponry. It supplies the Collective's internal needs and allocates resources to investors, proportionate to contributions.\n\n== References ==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}\n\n[[Category:Mentioned Only]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

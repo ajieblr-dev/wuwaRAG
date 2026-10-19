@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:27Z",
+  "title": "Sibylla",
+  "pageid": 36141,
+  "wikitext": "{{NPC Infobox\n|image            = Sibylla Quest Still.jpg\n|name             = Sibylla\n|type             = Quest\n|deceased         = Consumed by the [[Dark Tide]].\n|affiliation      = Septimont\n\n\u003c!--Family--\u003e\n|child            = Iuno\n|childNote        = daughter\n\n\u003c!--VAs--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Sibylla''' {{Lang|zh=西比尔}} is a deceased, quest-exclusive [[NPC]] that first appears in {{Quest|By Moon's Fated Light}}. She's the mother of [[Iuno]] and was a fierce gladiator who perished during a battle against the Dark Tide. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Mentions==\n{{Character Mentions}}\n\n==Other Languages ==\n{{Other Languages\n|en   = Sibylla\n|zhs  = 西比尔\n|zht  = 西比爾\n|ja   = シビル\n|ko   = 시빌라\n|fr   = Sibylla\n|de   = Sibylla\n|es   = Sibylla\n}}\n\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

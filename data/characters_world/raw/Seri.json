@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:22Z",
+  "title": "Seri",
+  "pageid": 42156,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Event\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|location2 = Rabelle College\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is an event-exclusive NPC for the {{Quest|Gold Suspended in Shadows}} during the {{Extra Effect|New Solar Celebration|New Solar Celebration|The Exostrider poured forth light and heat from its Reactor Drive, sheltering life from the killing frost. Grateful for this gift, the Roya revered the Reactor Drive as their sun. They took it upon themselves to gather the Exostrider's \"cells,\" making this quiet labor the duty of their tribe.\u003cbr\u003eNow, their ancient vow is complete. As the new sun rises, they hold the New Solar Celebration, both to mark the renewal and to remind their kin of the purpose that set them on this path.}}.\n\nShe appears throughout the interior of Rabelle College at different times.\n\n==Dialogue==\n{{Dialogue Start}}\n:{{color|help|\u003cnowiki\u003e06:00-11:59\u003c/nowiki\u003e}}\n:;Have you left already? I was gonna ask you to bring a Soliskin plushie for pics.\n:;I found one already, though... Wait, you're still in the dorm?! Get outta bed!\n:;Bring something? Nah, don't bother with the plushie. Just get your butt over here!\n----\n:{{color|help|\u003cnowiki\u003e12:00-14:59\u003c/nowiki\u003e}}\n:;This place is packed! Where are you, Awa?\n:;Let me guess... You haven't even left the dorm yet, have you?\n:;What do you mean, \"muscle memory took over and I ended up at the Research Institute\"?!\n----\n:{{color|help|\u003cnowiki\u003e15:00-21:59\u003c/nowiki\u003e}}\n:'''Seri:''' Next time you stand me up like that, you're dead, y'hear?\n:'''Awa:''' I'm sorry, I'm sorry! Please don't be mad! Did you at least have fun this morning?\n:'''Seri:''' Alright, don't be mad. Did you at least have fun this morning?\n:'''Awa:''' The [[Audio Lab Phonograph|phonograph]] nook was interesting, and the driving sim was really fun. But you're way too late now! The lines are insane.\n:'''Seri:''' Aw, bummer. But hey... will you tell me how it all went?\n:'''Awa:''' Tsk, what's been with you lately? Too many assignments? You always look half asleep. This kinda celebration doesn't come around often, and you show up late...\n:'''Seri:''' Okay yes, I \u003ci\u003eam\u003c/i\u003e drowning in assignments! Not just the mountain of observation data from when [[Lynae]] and [[Rover]] fought that [[Voidworm]], but I also have to calculate Helios's impact on the geomagnetic Void Storm cycle...\n:'''Awa:''' Hey, on that note, I heard they recovered lots of Voidworm footage. Think I could apply to see it?\n:'''Seri:''' Sure, once it's archived, it should be publicly accessible. Anyway, c'mon! Take me somewhere to eat. I'm so hungry I could eat a whole [[Flora Reindeer]].\n:'''Passing Royan:''' What manner of talk is that? Don't like it one bit.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events|Seri}}\n\n==Other Languages==\n{{Other Languages\n|en   = Seri\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

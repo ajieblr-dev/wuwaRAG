@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:09Z",
+  "title": "Real",
+  "pageid": 59616,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Event\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|location2 = Auditorium\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is a male NPC who appears inside the Auditorium after {{Quest|The Star That Voyages Far}}. \n\nHe disappears later after the completion of {{Quest|Gold Suspended in Shadows}}.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Real:''' Techniques or story? Form, or the theme? What should be my focus? What is my message here?\"\n:'''Real:''' In this commercialized market, do we still produce anything of substance?\n:'''Real:''' Sigh, these thoughts weigh on me every day... A movie packed with special effects but devoid of real story slips from the audience's mind like sand through the fingers.\n:'''Real:''' No matter how dazzling the form, how can a glossy wrapper around nothing stick in the audience's mind?\n:'''Real:''' Sometimes while editing, I wonder, \"What is it that I am making?\" Is something that I myself have no feelings for really worth the effort?\n:{{DIcon}} You're still hanging in there. Why?\n:{{DIcon}} Why haven't you given up?\n:'''Real:''' Yes. Why?\n:'''Real:''' Perhaps deep inside me, I'm still feeling the urge. To say words I haven't spoken. To tell a story I haven't told before.\n:'''Real:''' Never mind, what can I do? I know I'll never get over myself if I don't make a movie that captures what I want to say.\n:{{DIcon}} Do you like films?\n:'''Real:''' Haha... It may sound a bit awkward, but it's the love of my life.\n:'''Real:''' A side of me wants to focus on the work itself, while a voice in my head whispers, \"Think about the market.\" And with the deadline approaching, none of it matters as long as I can hand it in in time...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events|Seri}}\n\n==Other Languages==\n{{Other Languages\n|en   = Real\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

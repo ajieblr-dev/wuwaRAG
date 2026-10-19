@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:50Z",
+  "title": "Trattoria Margherita",
+  "pageid": 26393,
+  "wikitext": "{{Location Infobox\n|image        = Trattoria Margherita.png\n|type         = Point of Interest\n|type2        = Restaurant\n|icon         = Icon Dialogue Restaurant.png\n|nation       = Rinascita\n|region       = Ragunna City\n|area         = Bank Street\n|description  = A beloved restaurant in the heart of Ragunna whose offerings nourishes both body and soul. Margherita, the chef and owner, is famed for her mastery of the Echo Cooker, and no guest leaves without feeling well-fed and content- satisfaction is practically a rule here, after all.\n}}\n'''Trattoria Margherita''' is a restaurant run by [[Margherita]], with the assistance of [[Bakie]].\n\n==Shop==\n{{Vendor|Margherita}}\n\n==Gallery==\n===Videos===\n\u003cgallery\u003e\nRinascita Carnevale!\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Trattoria Margherita\n|zhs  = 玛格烈特家庭餐厅\n|zht  = 瑪格烈特家庭餐廳\n|ja   = トラットリア・マルゲリータ\n|ko   = 마거리트 패밀리 레스토랑\n|es   = Trattoria Margherita\n|fr   = Trattoria Margherita\n|de   = Trattoria Margherita\n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{PoI Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "7"
+    }
+  ]
+}

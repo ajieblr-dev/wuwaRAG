@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:40Z",
+  "title": "Mournfell Canyon",
+  "pageid": 31636,
+  "wikitext": "{{Stub}}\n\n{{Location Infobox\n|title=Mournfell Canyon\n|image=Mournfell Canyon.webp\n|world_map=Solaris-3\n|type=Area\n|nation=Rinascita\n|region=Septimont}}\n\n{{Quote|The remains of a coast eroded by the Dark Tide. Temples and sacred statues once erected by Ragunnesi Acolytes now lie in ruin. Their silent halls, devoid of worshippers, are spread across the canyon floor, transformed into haunted dwellings of Tacet Discords.| [https://wutheringwaves.kurogames.com/en/main#regions ''Wuthering Waves Official Website'']}}\n\n'''Mournfell Canyon''' is an area of [[Septimont]], [[Rinascita]].\n\n== NPCs ==\n{{NPCs by Location List|Mournfell Canyon}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Mournfell Canyon\n|zhs  = 哀恸谷\n|zht  = 哀慟谷\n|ja   = モーンフェル・キャニオン\n|ko   = 탄식의 협곡\n|es   = Valle de Luto\n|fr   = Canyon du Deuil\n|de   = Klagetal\n}}\n\n== Change History ==\n{{Change History|2.4}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

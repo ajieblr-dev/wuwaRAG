@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:20Z",
+  "title": "Sauron",
+  "pageid": 42200,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Event\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|location2 = Rabelle College\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is an event-exclusive NPC for the {{Quest|Gold Suspended in Shadows}} during the {{Extra Effect|New Solar Celebration|New Solar Celebration|The Exostrider poured forth light and heat from its Reactor Drive, sheltering life from the killing frost. Grateful for this gift, the Roya revered the Reactor Drive as their sun. They took it upon themselves to gather the Exostrider's \"cells,\" making this quiet labor the duty of their tribe.\u003cbr\u003eNow, their ancient vow is complete. As the new sun rises, they hold the New Solar Celebration, both to mark the renewal and to remind their kin of the purpose that set them on this path.}}.\n\nHe is possibly the one responsible for the strange riddles obtained and the event page loading slowly. \n\n==Dialogue==\n{{Dialogue Start}}\n:{{color|help|\u003cnowiki\u003e12:00-21:59\u003c/nowiki\u003e}}\n:;Wait, something’s wrong with the firewall. Someone is reverse tracking us!\n:;Don't tell me it's Sauron again. He can't solve a riddle for crap, but he sure knows how to sabotage!\n:;Oh, it's him all right. He's stuffing my hard drive with junk data!```\n\n:;You sure the riddle says we need to eat everything that's on the menu here?\n:;Look\u003cnowiki\u003e:\u003c/nowiki\u003e \"A thousand flavors require a thousand tastes.\" It says so right here!\n:;Damn it. Fine, I'll do it, but only because we're friends!\n\n:;If you receive a riddle like this, please report it to us.\n:;Oh, so the riddle wasn't just a normal picture after all...\n----\n:{{color|help|\u003cnowiki\u003e22:00-05:59\u003c/nowiki\u003e}}\n:'''Senior Support Staff:''' Have you figured out why the riddle pages are loading so slowly?\n:'''Junior Support Staff:''' Uplink and downlink are normal. Firewall is working... No traces of hacking.\n:'''Senior Support Staff:''' Again? ...Run another check. If you still can't find the problem, export the logs and call it a day.\n:'''Junior Support Staff:''' Uh... we're really just gonna leave it like this?\n:'''Senior Support Staff:''' Probably just some news page eating up bandwidth. Happens whenever big campus news drops. It'll clear up by tomorrow.\n:'''Junior Support Staff:''' Traffic spike? Let me check... No, nothing unusual. Could be a bunch of incognito users? But I don't have permission to check port data...\n:'''Senior Support Staff:''' Yeah, me neither, so just send the logs to our manager and let's call it a day.\n\n:;Ooh...This fake clue ought to keep these fools busy....\n:;Here's another one for ya\u003cnowiki\u003e:\u003c/nowiki\u003e \"A hidden passage under the Academy\"...\",\n:;While you all waste your time in the wrong spot, I'm gonna take the prize for myself!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sauron\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

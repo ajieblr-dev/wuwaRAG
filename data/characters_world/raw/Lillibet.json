@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:23Z",
+  "title": "Lillibet",
+  "pageid": 35833,
+  "wikitext": "{{Stub|Profile, Voice Actress}}\n{{NPC Infobox\n|image            = Lillibet In-game.png\n|type             = Quest\n|title            = Head Priestess\n|nation           = Rinascita\n|affiliation      = Septimont\n|affiliation2     = Tetragon Temple\n|group            = Tetragon Temple Priestess\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Lillibet''' {{Lang|zh=莉莉贝}} is a Quest-Exclusive [[NPC]] and the current head priestess of [[Septimont]]. She makes her first appearance in {{Quest|By Sun's Burning Hand}}.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lillibet\n|zhs  = 莉莉贝\n|zht  = 莉莉貝\n|ja   = リリベル\n|ko   = 릴리벳\n|es   = Lillibet\n|fr   = Lillibet\n|de   = Lilibet\n}} \n\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

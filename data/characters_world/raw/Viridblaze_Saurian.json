@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:58Z",
+  "title": "Viridblaze Saurian",
+  "pageid": 23005,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Viridblaze Saurian\n|title=\n|image=Echo Viridblaze Saurian.png\n|dmgtype=Fusion\n|weakpoint=\n|echo=Yes\n|class=Elite\n|family=Tacet Discord\n|group=Howler\n|nation=\n|region=\n|subregion=\n|drops=\n}}{{Description|Large amphibian-like creatures mostly found in forests. Their hard skins are found to emit searing heat. \u003cbr /\u003eResearch has found that the tenacity of Viridblaze Saurian's skin has a positive correlation to the beast's body}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Elite Howler}}\n\n==Stats==\n{{Enemy Stats}}\n\u003c!--\n==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Viridblaze Saurian|customheader=Viridblaze Saurian}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Fusion damage}}.\u003cbr/\u003eLarge amphibian-like creatures mostly found in forests. Their hard skins are found to emit heat. \u003cbr /\u003eResearch has found that the tenacity of Viridblaze Saurian’s skin has a positive correlation to the beast’s body temperature.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Viridblaze Saurian\n|zhs  = 绿熔蜥\n|zht  = 綠熔蜥\n|ja   = 熔解トカゲ\n|ko   = 그린멜팅카멜레온\n|es   = Saurio Viridblaze\n|fr   = Lézard Fusion vert\n|de   = Grüne Flammeneidechse\n}}\n\n==Change History==\n{{Change History|1.0}} \n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

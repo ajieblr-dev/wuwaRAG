@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:04Z",
+  "title": "Xiaobao",
+  "pageid": 4420,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Xiaobao.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Xiaobao''' is an NPC in [[Jinzhou]].\n\n==Location==\n{{Map Embed|Jinzhou|98}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Xiaobao''': Why haven't we started yet?\n:'''[[Junyan]]''': Easy there, kiddo, Sister [[Qinghe]] won't be here until tonight.\n:'''Xiaobao''': So what about now? The big bad guy is about to show up, where is the big hero? I want to see it now!\n\u003c!--::{{A|VO Siqi 01.ogg}} \"{{tx}}\"--\u003e\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Xiaobao''': Let's watch the show!\n:{{DIcon}} Chat\n::'''Xiaobao''': Why hasn't it started yet? And where is my mom...\n::'''Xiaobao''': I really want to watch a play, I really want to be a hero! If I become a hero, mom will come back to play with me!\n:{{DIcon|Exit}} Leave\n----\n:'''Xiaobao''': Let's watch the show!\n:{{DIcon}} Coax Xiaobao\n::'''Xiaobao''': Why hasn't it started yet...\n::{{DIcon}} Not so soon.\n::{{DIcon}} We'll wait patiently.\n::'''Xiaobao''': Why is it taking so long? Mom said she'd be back as soon as the Hero Play is over, but it hasn't even started yet...\n:{{DIcon|Exit}} Leave\n----\n:'''Xiaobao''': Let's watch the show!\n:{{DIcon}} Coax Xiaobao\n::'''Xiaobao''': Hurry up! It's my turn to play the big hero!\n::{{DIcon}} A hero must be patient.\n:::'''Xiaobao''': Sister Chixia told me the same thing... Are you her friend?\n::{{DIcon}} Mom and Dad would feel troubled.\n:::'''Xiaobao''': I-I don't have a dad, and my mom is always late...\n:::'''Xiaobao''': Mom said that she would come back as soon as the Hero Play was over every day and I'll just need to concentrate on the play. But she doesn't always keep her promise...\n::'''Xiaobao''': I remember that once, my mom didn't come to pick me up when the play was over. Sister Chixia happened to pass the theater, so she bought me a big, sweet sugar figure...\n::'''Xiaobao''': She asked me if I like watching plays. I said yes and I always want to be a big hero!\n::'''Xiaobao''': And she told me that a great hero should start from small things, like waiting patiently for mom to come home.\n::'''Xiaobao''': ...I know I'm being annoying. I must apologize to you and Sister Junyan!\n::'''Xiaobao''': I won't do this again. I promise I'll wait patiently for the show to start!\n----\n:'''Xiaobao''': Let's watch the show!\n:{{DIcon}} Chat\n::'''Xiaobao''': Sorry, I won't do it again... I'll do what you tell me and wait patiently.\n:{{DIcon|Exit}} Leave\n----\n:'''Xiaobao''': Let's watch the show!\n:{{DIcon}} Chat\n::'''Xiaobao''': Time, please hurry up! I can't wait to see the great hero!\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xiaobao\n|zhs  = 小宝\n|zht  = 小寶\n|ja   = 宝ちゃん\n|ko   = 보성\n|es   = Xiaobao\n|fr   = Xiaobao\n|de   = Xiaobao\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

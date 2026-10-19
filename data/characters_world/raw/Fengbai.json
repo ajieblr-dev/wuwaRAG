@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:26Z",
+  "title": "Fengbai",
+  "pageid": 8775,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{Stub}}{{NPC Infobox\n|name             = Fengbai\n|image            = NPC Fengbai.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Distribution Center\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Fengbai''' is an NPC located in {{Location|Distribution Center}}.\n\u003c!--\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n--\u003e\n==Quests and Events==\n{{Quests and Events|Fengbai}}\n\u003c!--\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Fengbai:''' {{Rover}}, long time no see.\n:'''Fengbai:''' Since the last time you wiped out that scamming red-clothed group, security around here has improved a lot.\n:'''Fengbai:''' Nearby Exiles have become friendlier too, not causing much trouble.\n:'''Fengbai:''' After the situation here calmed down, Mr. Minghu applied for a transfer to an area with poor security.\n:'''Fengbai:''' Now, he's probably doing another undercover mission somewhere... Hehe, Mr. Minghu can never stand an idle life.\n:'''Fengbai:''' Well, the anti-fraud campaigns have been going very smoothly, and more and more people are participating.\n:'''Fengbai:''' Everything has become better, and you have a share of the credit in that.\n:'''Fengbai:''' Though it's been a while, I still want to say thank you again.\n{{Dialogue End}}\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Fengbai\n|zhs  = 枫柏\n|zht  = 楓柏\n|ja   = 楓柏（フウハク）\n|ko   = 풍백\n|es   = Fengbai\n|fr   = Fengbai\n|de   = Fengbai\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

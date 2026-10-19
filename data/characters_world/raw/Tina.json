@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:48Z",
+  "title": "Tina",
+  "pageid": 37278,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Tina.png\n|type             = Quest\n|nation           = Rinascita\n|location         = \n|group            = \n|affiliation      = Troupe of Fools\n}}\n'''Tina''' {{Lang|zh=蒂娜}} is an [[NPC]] and a member of the [[Troupe of Fools]].\n\n==Quests and Events==\n{{Quests and Events}} \n\n==Character Mentions==\n{{Character Mentions|Tina}}\n\n==Gallery==\n{{Files by Character Gallery|not1=Tina Videos}}\n===Videos===\n{{Files by Character Gallery|Tina Videos}}\n\n==Other Languages==\n{{Other Languages\n|en   = Tina\n|zhs  = 蒂娜\n|zht  = 蒂娜\n|ja   = ティナ\n|ko   = 티나\n|fr   = Tina\n|de   = Tina\n|es   = Tina\n|th   = \n}} \n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

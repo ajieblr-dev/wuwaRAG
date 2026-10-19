@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:32Z",
+  "title": "Solisylum (Instance)",
+  "pageid": 39597,
+  "wikitext": "{{Location Infobox\n|name         = Solisylum\n|image        = Heliogyre.png\n|type         = Point of Interest\n|type2        = Instance\n|icon         = Solisylum Instance Map Marker.png\n|nation       = Roya Frostlands\n|region       = Bjartr Woods\n}}\n{{Quote|The sacred ground of the Roya and the dwelling of the Heliodic Six. It safeguards Exostrider parts and serves as the central archive for all Royan records.\u003cbr\u003eWith each operational cycle of the Reactor Drive, the Solisylum calculates its stability, tracks the birth and growth of the Exoswarm, and monitors their eventual return to the Exostrider.}}\n\nThe '''Solisylum''' is a [[Point of Interest]] located in [[Bjartr Woods]].\n\n==NPCs==\n\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=location}} \n\n==Other Languages==\n{{Other Languages\n|en  = Solisylum\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|es  = \n|fr  = \n|de  = \n|th  = \n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==References==\n{{Reflist}} \n\n==Navigation==\n{{PoI Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

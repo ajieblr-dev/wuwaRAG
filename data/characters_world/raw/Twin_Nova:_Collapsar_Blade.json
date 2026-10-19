@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:53Z",
+  "title": "Twin Nova: Collapsar Blade",
+  "pageid": 38998,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Stub}}\n{{Enemy Infobox\n|name      = Twin Nova: Collapsar Blade\n|title     = \n|image     = Twin Nova: Collapsar Blade Icon.png\n|dmgtype   = Electro\n|weakpoint = \n|echo      = Yes\n|class     = Elite\n|family    = Tacet Discord\n|group     = Clamorling\n|nation    = Lahai-Roi\n|region    = \n|subregion = \n|drops     = \n}}{{Description|A mech developed by the Spacetrek Collective, which comes in melee and ranged variants. The two models fight gracefully in unison when paired.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Elite Lahai-Roi Clamorling}}\n\n==Stats==\n{{Enemy Stats|Twin Nova: Collapsar Blade}}\n\u003c!--\n==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Twin Nova: Collapsar Blade|customheader=Twin Nova: Collapsar Blade}}\n\n==Description==\n{{Description|This enemy has a higher RES to {{Color|[[Electro]] DMG|nobold=1}}.\n\nTwin Nova: Collapsar Blade sports a top-of-the-line Combat Synergy Module. Combined with [[Twin Nova: Nebulous Cannon]], their battle synergy turns into a deadly dance of multi-pronged attacks\n\nWhen Twin Nova: Collapsar Blade is hit by [[Tune Break]], it takes 20% more total DMG for 30s, stacking up to 3 times. \n\nThe Twin Nova mechs were built for exploration beyond the Stridergate. Collapsar Blade is the melee model. Their humanoid form embodies mankind's drive to explore the abyss when they look up at the stars.\n\nTogether as one, paired Twin Novas demonstrate unprecedented combat capabilities.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Twin Nova: Collapsar Blade\n|zhs  = 双极・渊陨重锋\n|zht  = 雙極・淵隕重鋒\n|ja   = バイポーラ・アビスフォール\n|ko   = 트윈 노바 ・ 콜라사르 블레이드\n|fr   = Nova jumelle : Lame de collapsar\n|de   = Zwillingsnova: Kollapsarklinge\n|es   = Gemelas Nova: Espada Colapso\n|th   = Twin Nova: Collapsar Blade\n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

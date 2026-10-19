@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:10Z",
+  "title": "Desi",
+  "pageid": 36815,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Septimont\n|group            = \n|affiliation      = \n|title            = \n}}\n\n'''Desi''' is a male NPC who can be found arguing with a female NPC, '''Connie''', over which channel to play or who is a better Gladiator fan.\n\u003cbr\u003eIn same location at night, a Municipal Worker will appear which unlocks the trophy [[Clink, Clank, Clang!]]\n\n{{Dialogue Start}}\n==Dialogue==\n;(Day)\n:'''Desi'''\n: The Scratchy's exhibition match is about to start. Switch the channel! Or we'll miss the opening show!\n\n:'''Connie'''\n: Shh, quiet! This part's crucial! Hey, why did that guy just turn around? Now the team's out of sync! Sheesh, what a waste... That was such a golden opportunity!\n\n:'''Desi'''\n: Hurry, switch the channel now! That round's finished—\n\n:{{DIcon}} Keep listening to the two.\n\n::'''Connie'''\n:: Switch it back, now! Who wants to watch that circus team? Do you fans drawn in by the commercial hype even understand the competition? Do you know what real competitive sport is? Can you even follow the contenders' technical moves and grasp the flow of the match?\n\n::'''Desi'''\n:: Here we go again... I've been watching gladiator matches since before they even had double elimination, and now you're questioning my understanding? What really grinds my gears are fans like you, acting like you know everything, all high and mighty.\n\n::'''Connie'''\n:: Hmph, so what? You're just a plastic fan who spends all day watching the entertainment teams. No matter how many years you watch, you'll always be a weakling who can't even get into the basic-tier events.\n\n::'''Desi'''\n:: What's the big deal with the entertainment teams? What's so wrong about bringing people fun with a good show? You... You may trash-talk my fighting skills, but don't you dare disrespect my taste in gladiator matches!\n:: I'm challenging you to an duel!{{sic}}\n:{{DIcon|Exit}} Leave.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Desi\n|zhs  = 德西\n|zht  = 德西\n|ja   = デシ\n|ko   = 데시\n|es   = Desi\n|fr   = Desi\n|de   = Desi\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

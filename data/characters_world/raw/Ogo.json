@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:55Z",
+  "title": "Ogo",
+  "pageid": 20573,
+  "wikitext": "{{Stub}}\n{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = no\n|missing_NPC_context  = no\n|missing_NPC_profile  = no\n|missing_NPC_idle     = no\n|missing_NPC_dialogue = no\n}}\n{{NPC Infobox\n|image            = Ogo.png\n|title            = \n|type             = Quest\n|nation           = Huanglong\n|location         = Mt. Firmament\n|group            = \n|affiliation      = Fractsidus\n|affiliation2     = \n|deceased         = Frequencies devoured by a [[Lightcrusher]] TD.\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Ogo''' {{Lang|zh=奥戈}} is a quest-exclusive [[NPC]] and a member of the [[Fractsidus]] who appears in the side quest [[Lores Beyond the Ranges]].\n\nHis frequencies were combined with (and subsequently devoured by) a [[Lightcrusher]] in a failed experiment.\n\n==Quests and Events==\n{{Quests and Events|Ogo}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ogo\n|zhs  = 奥戈\n|zht  = 奧戈\n|ja   = 奥戈（オウカ）\n|ko   = 오거\n|es   = Ogo\n|fr   = Ogo\n|de   = Ogo\n}} \n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

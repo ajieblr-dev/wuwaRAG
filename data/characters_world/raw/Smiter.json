@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:31Z",
+  "title": "Smiter",
+  "pageid": 42380,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n |name=Smiter\n |title=\n |image=Smiter Icon.png\n |dmgtype=Spectro\n |weakpoint=Unknown\n |echo=Yes\n |class=Common\n |family=Tacet Discord\n |group=Whisperin\n |nation=Huanglong\n |region=Mengzhou\n |subregion=\n |drops=\n |nightmare=No\n}}\n{{Description|A Tacet Discord that engages in close combat within the Tacet Field.}} \n{{Intro/Enemy}} \n\n==Drops== \n{{Drops|Common Whisperin}}\n\n==Stats==\n{{Enemy Stats|Smiter}}\n\n==Trophies==\n{{Trophies|Smiter|customheader=Smiters}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Spectro DMG}}.\u003cbr/\u003eSmiters are Tacet Discords that engage in close combat within the Tacet Field. They break their bodies into countless pieces, linked only by a faint frequency, allowing them to pass through extremely narrow spaces.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en  = Smiter\n|zhs = 融躯战士\n|zht = 融軀戰士\n|ja  = 融躯の戦士\n|ko  = 분해된 전사\n|fr  = Pourfendeur\n|de  = Niederstrecker\n|es  = Noqueador\n|th  = Smiter\n|pt  = Açoitador\n}}\n\n==Change History==\n{{Change History|3.5}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

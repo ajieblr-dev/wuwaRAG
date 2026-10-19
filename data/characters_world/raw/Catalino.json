@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:54Z",
+  "title": "Catalino",
+  "pageid": 36045,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Catalino.png\n|nation           = Rinascita\n|location         = Septimont\n|affiliation      = Gladiator\n|affiliationNote  = Former\n}}\n'''{{PAGENAME}}''' is a former-Gladiator Male NPC in [[Capitoline Hill City]] found being harassed by a Gladiator, '''[[Cilania]]''', to duel.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Cilania''' Catalino, I challenge you to an Honor Duel!\n:{{DIcon|Talk}} Quietly observe.\n::'''Catalino''' Oh come on, young lady, have mercy! Why won't you let go of a washed-up nobody like me?\n::'''Catalino''' If you're itching for a fight, there are plenty of star contenders in this city. Why not go challenge one of them to an all-or-nothing duel?\n::'''Cilania''' You, a Hunting Group hero, now cower before a woman's sword? You've brought shame upon the name of Septimont, Catalino!\n::'''Catalino''' All this talk of heroes and honor... My lady, aren't you one of the few who made it out of that place alive? Don't you get it? Honor means nothing when you face the [[Dark Tide]]. So why rush back just to throw your life away?\n::'''Cilania''' Cut the crap and face me in the duel!\n::'''Catalino''' I'm done with fighting... If you really can't let go of that battle, do it.\n::'''Cilania''' You miserable coward.\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Mentions==\n{{Character Mentions}} \n==Other Languages==\n{{Other Languages\n|en   = Catalino\n|zhs  = 卡特莱恩\n|zht  = 卡特萊恩\n|ja   = カトレイン\n|ko   = 카탈리노\n|es   = Catalino\n|fr   = Catalino\n|de   = Catalino\n}}\n\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

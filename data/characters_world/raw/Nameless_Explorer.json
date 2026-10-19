@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:42Z",
+  "title": "Nameless Explorer",
+  "pageid": 39508,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name     = Nameless Explorer\n|title    = Deorbited Prisoner in Shadows\n|image    = Nameless Explorer Icon.png\n|echo     = Yes\n|dmgtype  = Aero\n|class    = Overlord\n|family   = \n|nation   = Roya Frostlands\n|region   = Starblind Crashsite\n|area     = SkyArk Space Station\n|drops    = Our Choice\n|variants = Tactical Hologram: Nameless Explorer}}\n{{Description|An ancient remnant entombed under the permafrost, a prisoner by its own hand.}}\n{{Lang|Nameless Explorer|zh=无铭探索者}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]''. \n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Our Choice}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Abilities== \n\n==Trophies==\n{{Trophies|Nameless Explorer|customheader=Nameless Explorer}} \n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Aero DMG}}.\u003cbr\u003e\u003cbr\u003eResonators can inflict up to 2 additional stacks of Tune Strain - Interfered on the Nameless Explorer.\u003cbr\u003eWhen the Nameless Explorer is under Tune Strain - Interfered and hit by Tune Break, it gains 1 additional stack of Tune Strain - Interfered.\u003cbr\u003eEach stack of Tune Strain - Interfered makes it take 4% more total DMG.\u003cbr\u003e\u003cbr\u003eThe station fell like a dying star, burying the dream of its era beneath ice and soil.\u003cbr\u003eThe Explorer was one of those who dreamed, who once walked among the stars.\u003cbr\u003eBut now he hides in the dark, corrupted by the Void.\u003cbr\u003eBefore reason and strength slipped entirely from his grasp, he sealed himself away in the cabin.|Description when discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Nameless Explorer\n|zhs  = 无铭探索者\n|zht  = \n|ja   = \n|ko   = \n|fr   = \n|de   = \n|es   = \n|th   = \n}} \n\n==Change History==\n{{Change History|3.1}} \n\n==Navigation==\n{{Enemy Navbox}}\n[[zh:无铭探索者]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

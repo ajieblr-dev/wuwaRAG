@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:13Z",
+  "title": "Devotee's Flesh",
+  "pageid": 32395,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Devotee's Flesh\n|title     = \n|image     = Devotee's Flesh Icon.png\n|dmgtype   = Aero\n|weakpoint = \n|echo      = Yes\n|class     = Common\n|family    = Tacet Discord\n|group     = Dark Tide Creation\n|nation    = Rinascita\n|region    = Septimont\n|subregion = \n|drops     = \n}}{{Description|With coral as bones, seaweed as flesh, and blind faith as the catalyst, they are the memetic embodiment of the Dark Tide faith, husks stitched from wreckage.}}\n{{Intro/Enemy|Devotee's Flesh|a=1|lang=zh=苦信者的作俑}}\n\n==Drops== \n{{Drops|Common Dark Tide Influenced}}\n\n==Stats==\n{{Enemy Stats|Devotee's Flesh}}\n\u003c!--\n==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Devotee's Flesh|customheader=Devotee's Flesh}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Aero DMG|nobold=1}}.\u003cbr/\u003eWith coral as bones, seaweed as flesh, and blind faith as the catalyst, they collectively form the memetic embodiment of the Dark Tide faith.\nThey are the devotees, forsaken bodies of void, and husks stitched from wreckage. Obscure whispers and chants echo within their hollow shells as they pilgrim tirelessly to seek the Dark Tide's mercy and guidance.}} \n\n==Other Languages==\n{{Other Languages\n|en   = Devotee's Flesh\n|zhs  = 苦信者的作俑\n|zht  = 苦信者的作俑\n|ja   = 狂信者の血肉\n|ko   = 고행자의 인형\n|es   = Devoto Corrupto\n|fr   = Chair du dévot\n|de   = Leib des Verehrers\n}}\n\n==Change History==\n{{Change History|2.4}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

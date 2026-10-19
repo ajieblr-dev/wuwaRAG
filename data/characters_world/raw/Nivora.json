@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:53Z",
+  "title": "Nivora",
+  "pageid": 39813,
+  "wikitext": "{{Meta|missing_NPC_profile=yes}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Nivora.png\n|title            = \n|type             = Quest\n|nation           = Lahai-Roi\n|affiliation      = Roya Tribe\n|affiliation2     = Startorch Academy\n|affiliation3     = Fractsidus \n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm5012245|Anna Lundberg]]\u003cref\u003eInstagram: [https://www.instagram.com/p/Dcl5EKijCaz/ EN VA Self Announcement]\u003c/ref\u003e \n|voiceCN          = [https://bgm.tv/person/94401 Yan Hongjing ({{Lang|mini=1|zh=闫虹静}})]\u003cref\u003eBilibili: [https://www.bilibili.com/video/BV1E2wyz2EKf/?t=43 CN VA Self Announcement] (Timestamp at 0:43)\u003c/ref\u003e\n|voiceJP          = {{w|ja:田嶌紗蘭|Tajima Saran ({{Lang|mini=1|ja=田嶌 紗蘭}})}}\u003cref\u003eYouTube: [https://www.youtube.com/live/NKDIlHEPNYE?\u0026t=120 『鳴潮』Ver3.7予告特別通信] (Timestamp at 2:00)\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/권선영 Kwon Seon-yeong ({{Lang|mini=1|ko=권선영}})]\u003cref\u003eX: [https://x.com/fullmoonlilac/status/2060764635406704892 KR VA Self Announcement]\u003c/ref\u003e\n}}\n'''Nivora''' {{Lang|zh=娜波摩}} is a quest-exclusive [[NPC]] that first appears in [[The Star That Voyages Far]]. \n\nShe is one of the many disguises of [[Schwarzloch]], the Grand Architect of the [[Fractsidus]].\n\n==History==\nLittle is known about the real Nivora who existed before the Grand Architect took on her identity, but due to the Grand Architect only appearing through the borrowed identities of real people, legendary beings and others' memories of the dead,\u003cref\u003e{{Quest|All That Sunlight Touches}}\u003c/ref\u003e it is likely that the real Nivora is deceased.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Gallery==\n{{Files by Character Gallery|not1=Nivora Videos}}\n===Videos===\n{{Files by Character Gallery|Nivora Videos}}\n\n==Other Languages==\n{{Other Languages\n|en   = Nivora\n|zhs  = 娜波摩\n|zht  = 娜波摩\n|ja   = ニヴォラ\n|ko   = 니보라\n|fr   = Nivora\n|de   = Nivora\n|es   = Nivora\n|th   = Nivora\n}}\n\n==Change History==\n{{Change History|3.1}}\n\n==References==\n{{Reflist}}\n[[zh:娜波摩]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "7"
+    }
+  ]
+}

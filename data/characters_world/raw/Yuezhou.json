@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:15Z",
+  "title": "Yuezhou",
+  "pageid": 23264,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title        = Yuezhou\n|image        =\n|type         = City\n|type3        = Huanglong City{{!}}Huanglong Cities\n|map          = Solaris-3\n|event        = \n|nation       = Huanglong\n}} '''Yuezhou''' is a mentioned city in [[Huanglong]].\n\n==Resonators==\n===Playable===\n{{Resonators by Category Table|Playable Resonators\u0026Yuezhou}}\n=== Upcoming===\n{{Resonators by Category Table|Upcoming Resonators\u0026Yuezhou}}\n\n==Trivia==\n*[[Lumi]] was born in a mountain village called [[Changzhuang]] in the Yuezhou mountains.\n*[[Youhu]] mentions that it has \"delectable spicy noodles\" \u003cref\u003ehttps://wutheringwaves.kurogames.com/en/main/news/detail/1524\u003c/ref\u003e, and these noodles are Lumi's [[Yuezhou Spicy Meat Noodles|signature dish]].\n\n==Other Languages==\n{{Other Languages\n|en    = Yuezhou\n|zhs   = 越州\n|zht   = 越州\n|ja    = {{Rubi|越州|えっしゅう}}\n|ko    = 월주\n|fr    = Yuezhou\n|es    = Yuezhou\n|de    = Yuezhou\n|th    = เยว่โจว\n|pt    = Yuezhou\n}}\n\n==Change History==\n{{Change History|introduced=1.3|}}\n\n==References==\n\u003creferences /\u003e\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[Category:Cities]]\n[[Category:Huanglong Cities]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resonators",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Playable",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Upcoming",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "8"
+    }
+  ]
+}

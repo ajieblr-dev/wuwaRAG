@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:11Z",
+  "title": "Kane",
+  "pageid": 32523,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Kane.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Porto-Veno Castle\n|group            = \n|affiliation      = Fisalia Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Kane''' is a male NPC who appears in {{Location|Porto-Veno Castle|nocat=1}}. He can be seen talking with [[Cavino]].\n\n==Quests and Events==\n''(Not in any quest or event yet)'' \u003c!-- Remove if the NPC appears in any quest/events --\u003e\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n;(During the Day)\n:'''Cavino:''' The Montellis have gone too far.\n:'''Kane:''' What's got you complaining this time?\n----\n;(at Dawn)\n:'''Cavino:''' Sometimes, I wonder if they are even truly devout.\n:'''Kane:''' What makes you say that?\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the Day)\n:'''Cavino:''' The Montellis have gone too far.\n:'''Kane:''' What's got you complaining this time?\n:'''Cavino:''' They've set up a holiday overtime pay that's five times the regular rate!\n:'''Cavino:''' Those devious devils! They're practically luring people into endless labor!\n:'''Kane:''' ...Is it too late to jump ship?\n:'''Cavino:''' Kane, don't let the stench of Montelli greed corrupt you!\n----\n;(at Dawn)\n:'''Cavino:''' Sometimes, I wonder if they are even truly devout.\n:'''Kane:''' What makes you say that?\n:'''Cavino:''' Have you ever seen the head of the Fisalias come to the lobby for prayer?\n:'''Kane:''' Maybe she has her own private prayer room?\n:'''Kane:''' But remember that noise we heard from the back?\n:'''Kane:''' From \u003ci\u003ethat\u003c/i\u003e hallway, the one only a select few have access to!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Kane\n|zhs  = 凯恩\n|zht  = 凱恩\n|ja   = ケイン\n|ko   = 케인\n|es   = Kane\n|fr   = Kane\n|de   = Kane\n}}\n\n==Change History==\n{{Change History|2.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

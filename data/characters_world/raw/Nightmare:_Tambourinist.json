@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:52Z",
+  "title": "Nightmare: Tambourinist",
+  "pageid": 35848,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Nightmare Enemy Infobox\n|name      = Nightmare: Tambourinist\n|image     = Nightmare Tambourinist Icon.png\n|dmgtype   = Havoc\n|echo      = Yes\n|class     = Elite\n|family    = Tacet Discord\n|nation    = Rinascita\n|region    = Fabricatorium of the Deep\n|subregion = Fallen Grave Nightmare Nest\n|variants  = Tambourinist\n}}{{Description|A special Tacet Discord that lurks in the intricate network of the Dreamscape Nodes.}}\n{{Intro/Enemy|Nightmare: Tambourinist|a=1|lang=zh=梦魇・振铎乐师}}\n\n==Stats==\n{{Enemy Stats|Nightmare: Tambourinist}}\n\u003c!--\n==Abilities==--\u003e\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Havoc DMG|nobold=1}}.\u003cbr/\u003eA special Tacet Discord that lurks in the intricate network of the Dreamscape Nodes. It gathers frequencies of a particular negative emotion emanating from across all of Ragunna.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Nightmare: Tambourinist\n|zhs  = 梦魇・振铎乐师\n|zht  = 夢魘・振鐸樂師\n|ja   = ナイトメア・金鈴の楽手\n|ko   = 악몽 ・ 초혼의 악사\n|es   = Pesadilla: Panderista\n|fr   = Cauchemar : Tambourineur\n|de   = Albtraum: Tambourinist\n}}\n\n==Change History==\n{{Change History|2.5}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

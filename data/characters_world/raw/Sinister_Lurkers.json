@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:30Z",
+  "title": "Sinister Lurkers",
+  "pageid": 42178,
+  "wikitext": "{{Stub|location}}\n{{Enemy Infobox\n|name       = \n|image      = Kerasaur Icon.png\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|nation     = Rinascita\n|region     = Mournfell Canyon\n|level      = 120\n}}\n'''Sinister Lurkers''' are a [[Special Enemies|special enemy]] found in {{Location|Septimont|nocat=1}}.\n\n==Location==\n{{Map Embed|Septimont|Sinister Lurkers}}\n\n==Trophies==\n{{Trophies|Sinister Lurkers|customheader=Sinister Lurkers}} \n\n==Other Languages==\n{{Other Languages\n|en  = Sinister Lurkers\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n|pt  = \n}} \n\n==Change History==\n{{Change History|2.4}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

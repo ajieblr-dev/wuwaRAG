@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:13Z",
+  "title": "Distribution Center",
+  "pageid": 6016,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Distribution Center\n|image=Distribution Center.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Tiger's Maw\n}}\n'''Distribution Center''' is an area of [[Tiger's Maw]], [[Huanglong]]. \n\n==Other Languages==\n{{Other Languages\n|en   = Distribution Center\n|zhs  = 集散中心\n|zht  = 集散中心\n|ja   = 物流センター\n|ko   = 허브센터\n|es   = Centro de distribución\n|fr   = Centre de distribution\n|de   = Verteilungszentrum\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

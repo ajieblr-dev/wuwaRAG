@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:57Z",
+  "title": "Vivian",
+  "pageid": 27103,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Vivian.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = Order of the Deep\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =   \n}}\n'''Vivian''' is a female NPC Acolyte that appears at [[Ragunna City]] nearby the [[City Square]] Fountain.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Vivian:''' These children are still too young to understand that these Echoes are blessings from Imperator.\n:'''Vivian:''' Ragunna's unity today relies on the assistance of these Common Echoes.\n:'''Vivian:''' Come down, little one...\n:{{DIcon}} Children see a Mercurio and think it's just that—a toy.\n:{{DIcon}} It's only normal.\n:'''Vivian:''' If we don't treat them as family and friends, how can we expect Imperator's mercy?\n:'''Vivian:''' So please, stop riding on it...\n----\n{{Spoiler}}\n;(After {{Quest|Dawn Breaks on Dark Tides}}\n:'''Vivian:''' These children are still too young to understand that these Echoes are blessings from Imperator.\n:'''Vivian:''' Ragunna's is united today because of assistance of these Common Echoes.\n:'''Vivian:''' Come down, little one...\n:{{DIcon}} Children see a Mercurio and think it's just that—a toy.\n:{{DIcon}} It's only normal.\n:'''Vivian:''' The Common Echoes are Imperator's final gift, a testament to Their love for us. How could anyone treat them like that?\n:'''Vivian:''' So please, stop riding on it...\n{{Dialogue End}}\n\n==Other Language==\n{{Other Languages\n|en   = Vivian\n|zhs  = 薇薇安\n|zht  = 薇薇安\n|ja   = ヴィヴィアン\n|ko   = 비비안\n|es   = Vivian\n|fr   = Vivian\n|de   = Vivian\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Language",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

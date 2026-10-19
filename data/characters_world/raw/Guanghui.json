@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:48Z",
+  "title": "Guanghui",
+  "pageid": 5911,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Guanghui.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Guanghui''' is an NPC in {{Location|Jinzhou}}.\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Freshly steamed dumplings. Come get them while they're hot!\n:{{DIcon}} Come try them out, you don't want to miss out! Delicious tangy steamed dumplings!\n{{Dialogue End}}{{Dialogue Start}}\n:{{DIcon}} Dumplings, soy milk, rice noodle rolls, congee. We got'em all!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Guanghui\n|zhs  = 广荟\n|zht  = 廣薈\n|ja   = コウワイ\n|ko   = 광자\n|es   = Guanghui\n|fr   = Guanghui\n|de   = Guanghui\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:35Z",
+  "title": "Aomei",
+  "pageid": 5912,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Aomei.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Aomei''' is an NPC in {{Location|Jinzhou}}.\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the day)\n:'''Aomei:''' It's a brand new day. Time to get to work!\n:'''Aomei:''' The [[Moon-chasing Festival]] is almost here. The city will be bustling with new and exciting activities!\n:'''Aomei:''' We need to be extra vigilant to ensure everyone's safety, just like [[Chixia]] said!\n\n;(During the night)\n:'''Aomei:''' Ah... I'm really feeling a bit tired after a whole day.\n:'''Aomei:''' After work, let's head to [[Panhua]]'s Restaurant for dinner, then chat with the teahouse owner, and maybe...\n:'''Aomei:''' Oh, right! We need to see the Hero Play. How could I forget?\n:'''Aomei:''' I've heard the special show for the Moon-chasing Festival will begin soon, though its details are still a mystery.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Aomei\n|zhs  = 傲梅\n|zht  = 傲梅\n|ja   = 傲梅（ゴウバイ）\n|ko   = 주아\n|es   = Aomei\n|fr   = Aomei\n|de   = Aomei\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:11Z",
+  "title": "KU-Ponder",
+  "pageid": 23206,
+  "wikitext": "{{NPC Infobox\n|image            = KU-Ponder.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Error Cell\n|affiliation      = Black Shores\n|species          = KU-Roro\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''KU-Ponder''' is an NPC at [[Error Cell]], [[The Black Shores]].\n\n==Quests and Events==\n{{Quests and Events|KU-Ponder}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''KU-Ponder:''' Ku ku ku. I see... That must be the principle.\n:'''KU-Ponder:''' The crystal detached from her form, as the Black Shores' Remnants filled the fissure.\n:'''KU-Ponder:''' Just like the Nova... Ku ku ku.\n:'''KU-Ponder:''' Energy is merely the vessel for personalities and memories, not their origin--\n:'''KU-Ponder:''' Ku ku ku, it functions as the Ship of Theseus, adrift on the tides of eternity.\n:'''KU-Ponder:''' How magnificent. I'll come to understand all of it... Ku ku ku.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = KU-Ponder\n|zhs  = 库思之\n|zht  = 庫思之\n|ja   = クーシンク\n|ko   = 쿠 ・ 침침\n|es   = KU-Ponder\n|fr   = KU-Médite\n|de   = KU-Ponder\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

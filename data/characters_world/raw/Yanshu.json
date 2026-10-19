@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:10Z",
+  "title": "Yanshu",
+  "pageid": 77317,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xianling Village\n|affiliation      = \n|affiliationNote  = \n|status           = Alive\n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = Sandao\n|sibling          =\n|child            = Jingran\n|childNote        = Adoptive\n|childRef         = \u003cref\u003e{{Quest|Song of the Heart Sword}}\n:'''Yanshu:''' His full name is Jingran. Sandao and I raised him. He followed at Sandao's heels, learned what he could, and became a Nethermancer himself.\u003c/ref\u003e\n|relative         =\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Yanshu''' {{Lang|zh=烟舒}} is a quest-exclusive [[NPC]] first mentioned in {{Quest|The Wind Before the Storm}} and first appears in {{Quest|Song of the Heart Sword}}.\n\nHer late husband, [[Sandao]], was a [[Nethermancer]].\u003cref\u003e{{Quest|Song of the Heart Sword}}\n:'''Yanshu:''' There are fewer Nethermancers each year. Few in that line meet a peaceful end. My late husband, Sandao, was no different... He did not even leave me a keepsake.\u003c/ref\u003e\n__NOTOC__\n==Quests and Events==\n{{Quests and Events}} \n\n{{Dialogue Start}}\n==Dialogue==\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yanshu\n|zhs  = 烟舒\n|zht  = 煙舒\n|ja   = 煙舒\n|ko   = 연서\n|fr   = Yanshu\n|de   = Yanshu\n|es   = Yanshu\n|th   = Yanshu\n|pt   = Yanshu\n}}\n\n==Change History==\n{{Change History|3.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

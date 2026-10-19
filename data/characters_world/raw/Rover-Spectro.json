@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:16Z",
+  "title": "Rover-Spectro",
+  "pageid": 2261,
+  "wikitext": "{{Rover Infobox\n|attribute   = Spectro\n|role        = Concerto Efficiency;Stagnation;Spectro Frazzle\n|order       = 1\n|releaseDate = 2024-05-23\n}}\n{{Main|Rover}}\n==Combat Overview==\n===Forte===\n{{Skill Navbox|Rover-Spectro}}\n{{Skill Upgrade|Rover-Spectro|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox|Rover-Spectro}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Rover Navbox}}\n\n[[ru:Ровер-Спектро]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "5"
+    }
+  ]
+}

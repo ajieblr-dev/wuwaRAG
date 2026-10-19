@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:35Z",
+  "title": "Mensa",
+  "pageid": 49089,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=Lahai-Roi\n|location=Startorch Academy\n|affiliation=Rabelle College\n|group=\n}}\n'''{{PAGENAME}}''' and '''Wolfgang''' are Synchronists being scolded by Professor '''Mateus'''.\n\n==Dialogue==\n{{Dialogue Start}}\n:;'''Mensa''' Ugh... I'm done. Yanked the Rabelle Syncjack out of my back and spent ten minutes puking my guts out.\n:;'''Wolfgang''' Same here. Felt like my life got rewound and played back three times over... Cough...\n\n:'''Mensa:''' Ugh... I'm done. Yanked the Rabelle Syncjack out of my back and spent ten minutes puking my guts out.\n:'''Wolfgang:''' Same here. Felt like my life got rewound and played back three times over... Cough...\n:'''Mensa:''' So… what training level did you crank up to?\n:'''Mensa:''' You said not to overdo it, so I only set it to Level 1. And you?\n:'''Wolfgang:''' ...Level 3.\n:'''Mateus:''' Well, well. Why don't you two just hop straight into the Exostrider, then? Seems like you aren't interested in staying alive.\n:'''Mensa:''' Ghhhk—! W-we just… wanted to see if we could break the sync time record…\n:'''Wolfgang:''' Hrrk—! And… to get a head start on the training ahead...\n:'''Mateus:''' ...Where in the world does Rabelle College recruit idiots like you?\n:'''Mateus:''' Listen up. Syncing with the Exostrider isn't about grit, speed, or brute force.\n:'''Mateus:''' Look at you now. You can't even keep your heads straight, let alone the pilot stick.\n:'''Mensa:''' Sorry... It won't happen again...\n:'''Mateus:''' Get yourselves to the infirmary. I've already booked you in with Doctor Luuk. He'll run a proper check.\n:'''Mateus:''' I'll be reporting every detail of this incident to the Academy. Next time you want to pull a stunt like this, you'd better check with me first.\n:'''Wolfgang:''' A-are you going to help train us, Professor?\n:'''Mateus:''' No. I'm worried your brains might short-circuit and fry the whole cockpit system.\n----\n;After {{Quest|Starlights from Yesterdays}}\n:;Ugh… Ever since I forced myself to operate three Mechascouts at once, even a tap on my Syncjack turns my stomach.\n:;Seriously? Lemme see\n\n:'''Mensa:''' Ever since I force-piloted three Mechascouts, the second anything touches the Syncjack, I feel sick.\n:'''Wolfgang:''' Seriously? I wanna try!\n:'''Mensa:''' Are you stupid? If our advisor catches you messing with equipment again, you can forget about graduating.\n:'''Mensa:''' I did what I had to. That search team had one Synchronist. Me. Who else was gonna step up?\n:'''Wolfgang:''' True. Lucky the crisis is over... But speaking of our advisor, he hasn't been back in days.\n:'''Mensa:''' Yeah. Heard the Exostrider leaving shook things up. There are rumors going around that Rabelle College might get shut down.\n:'''Wolfgang:''' Huh? Shut down?! How could they do that?!\n:'''Mensa:''' Shh, keep your voice down. It's just what I heard. Something about the New Federation redoing the budget...\n:'''Wolfgang:''' The budget can go to the void! Is that all they care about?! You can't measure this kind of work with a spreadsheet!\n:'''Mensa:''' Eh... Sure, tell 'em about science and ideals. See how far that gets you. Heard the whole Academy is stressed out over it.\n:'''Wolfgang:''' B-but... I don't wanna leave! I wanna do research with our advisor for the rest of my life...!\n{{Dialogue End}}\n\n==Other Language==\n{{Other Languages\n|en   = Mensa\n|zhs  = 门萨\n|zht  = 門薩\n|ja   = メンサ\n|ko   = 멘사\n|fr   = Mensa\n|de   = Mensa\n|es   = Mensa\n|th   = Mensa\n}}\n{{Other Languages\n|en   = Wolfgang\n|zhs  = 沃夫冈\n|zht  = 沃夫岡\n|ja   = ヴォルフガング\n|ko   = 볼프강\n|fr   = Wolfgang\n|de   = Wolfgang\n|es   = Wolfgang\n|th   = Wolfgang\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Language",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:41Z",
+  "title": "Tangtang",
+  "pageid": 24916,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Tangtang.PNG|In-game\n|type             = Quest\n|region           = \n|location         = Huanglong\n|group            = \n|affiliation      = Lollo Logistics\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n|name=Tangtang}}\n'''Tangtang''' is a featured NPC that appears in the [[Somnium Labyrinth]] [[Event]], she works under Lumi in [[Lollo Logistics]] and appears in the storyline quest of [[Dreamscape Odyssey: Against All Odds]]. During the storyline, Lumi searches for Tangtang in the Somnoire\u003cref\u003eThe [[Somnoire]] is a mysterious and relatively unknown realm in [[Solaris-3]] that is related to dreams.\u003c/ref\u003e to assist her in finding a delivery address, worried that Tangtang might have been ambushed by Tacet Discords. However, Tangtang, unharmed apart from a minor scratch, surprises Lumi by coming to look for her instead, fearing that Lumi might have been caught up by the Tacet Discords.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Tangtang\n|zhs  = 塘塘\n|zht  = 塘塘\n|ja   = 塘塘（タンタン）\n|ko   = 연이\n|es   = Tangtang\n|fr   = Tangtang\n|de   = Tangtang\n}}\n\n==Change History==\n{{Change History|1.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

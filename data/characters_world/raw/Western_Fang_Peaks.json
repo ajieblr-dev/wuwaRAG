@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:01Z",
+  "title": "Western Fang Peaks",
+  "pageid": 42276,
+  "wikitext": "{{Location Infobox\n|title  = Western Fang Peaks\n|image  = Western Fang Peaks.png\n|type   = Region\n|map    = Solaris-3\n|nation = Huanglong\n}}\n{{Intro/Location|Western Fang Peaks}} \n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n! Description\n|-\n|[[File:Thousandfold Foundry Skyflow Lines.png|180px]]\u003cbr /\u003e[[Thousandfold Foundry: Skyflow Lines]]\n|\n|-\n|[[File:Thousandfold Foundry Ruination Grounds.png|180px]]\u003cbr /\u003e[[Thousandfold Foundry: Ruination Grounds]]\n|\n|-\n|[[File:Thousandfold Foundry Assembly Bay.png|180px]]\u003cbr /\u003e[[Thousandfold Foundry: Assembly Bay]]\n|The hub where the Skyworks' assembly lines converge. Here, components are fused to form Autopuppets of all kinds. At the far end of this vast mechanical network lies the core of the Myriad Snare—the Snare Platform.\n|-\n|[[File:Snare Platform.png|180px]]\u003cbr /\u003e[[Snare Platform]]\n|\n|}\n\n\u003c!--===Points of Interest===\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Description\n|-\n|[[File: .png|180px]]\u003cbr /\u003e[[ ]]\n|\n|}\n--\u003e\n\n==Quests==\n{{Quest by Category List|Western Fang Peaks Quests}}\n\u003c!--\n==Exploration Report==\n===Western Fang Peaks Exploration Report I===\n\n*Unlocked by reaching 50% exploration.\n\n{{Transclude|Western Fang Peaks Exploration Report I|Text|main=1}}\n\n===Western Fang Peaks Exploration Report II ===\n*Unlocked by reaching 100% exploration.\n{{Transclude|Western Fang Peaks Exploration Report II|Text|main=1}}\n--\u003e\n==Notable Features==\n===Challenges===\n*[[Western Fang Peaks Tacet Field]]\n\n===Bosses===\n*{{Enemy|Myriad Snare: Rustfire Chassis}}\n\u003c!--\n===Enemies===\n====Elite Class====\n*\n====Common Class====\n*\n--\u003e\n===Resources===\n*{{Item|Jade Hexahedron}}\n*{{Item|White Jade Beauty}}\n*{{Item|Uncracked Jade}}\n*{{Item|Leafweaver}}\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=location}}\n\u003c!--\n==Trivia==\nsomeone's gonna work out something cool about its architecture or whatever, and we put that info here.\n--\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Western Fang Peaks\n|zhs  = 方擎西峰\n|zht  = 方擎西峰\n|ja   = {{rubi|方擎西峰|ほうけいせいほう}}\n|ko   = 방경서봉\n|fr   = Mont Fang à l'ouest\n|de   = Westliche Fang-Gipfel\n|es   = Picos Occidentales Fang\n|th   = เทือกเขาฟางฉิง\n|pt   = Picos Ocidentais de Fang\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[zh:方擎西峰]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "3.3",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "11"
+    }
+  ]
+}

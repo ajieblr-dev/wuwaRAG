@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:10Z",
+  "title": "Davin",
+  "pageid": 74451,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Etching Plains\n|group            = \n|affiliation      = Lollo Logistics\n|title            = \n}}\n'''{{PAGENAME}}''' is a Lollo Logistic NPC found with a student, '''Baugh'''.\n\n==Location==\n\u003cgallery\u003eFile:NPC Davin and Baug location.png\u003c/gallery\u003e\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Davin:''' Once I'm done with these last few deliveries, I'll be leaving Lahai-Roi.\n\n:'''Baug:''' Why the sudden departure... Are you heading back home to get married or something?\n\n:'''Davin:''' Isn't this joke a bit too old for you? Of course, not... I requested a transfer to another region.\n\n:'''Davin:''' In a strange new place, wandering through the streets and alleyways, or flying down the highway, making new friends and taking in new sights.\n\n:'''Davin:''' I arrived as a stranger, but by the time I leave, this will be a place I'll forever miss. I've really enjoyed this journey.\n\n:'''Baug:''' You couldn't even find your way around the place when you first got here... I remember the way you were panicking like it was yesterday. Was that also part of the enjoyment of the process?\n\n:'''Davin:''' Haha, I really would've been left sleeping on the streets without you. Now I know my way around like the back of my hand... That's all part of enjoying the journey, don't you think?\n\n:'''Baug:''' Give me a heads up before you head out... I'll walk you to the Starward Riseway.\n\n:'''Davin:''' You know, I've been meaning to say this for a while... You're way too mature for a student.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n{{Quests and Events|Baug}}\n\n==Character Mentions==\n{{Character Mentions}}\n{{Character Mentions|Baug}}\n\n==Other Languages==\n{{Other Languages\n|en   = Davin\n|zhs  = 德文\n|zht  = 德文\n|ja   = デヴォン\n|ko   = 데빈\n|fr   = Davin\n|de   = Davin\n|es   = Davin\n|th   = Davin\n}}\n\n{{Other Languages\n|en   = Baug\n|zhs  = 鲍格\n|zht  = 鮑格\n|ja   = ボーグ\n|ko   = 보그\n|fr   = Baug\n|de   = Baug\n|es   = Baug\n|th   = Baug\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

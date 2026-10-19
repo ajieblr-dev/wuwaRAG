@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:33Z",
+  "title": "Alberto Montelli",
+  "pageid": 27186,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = no\n|missing_NPC_context  = no\n|missing_NPC_profile  = no\n|missing_NPC_idle     = no\n|missing_NPC_dialogue = no\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Alberto Montelli.png\n|type             = Quest\n|nation           = Rinascita\n|location         = \n|group            = \n|affiliation      = Montelli Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          =\n|child            = \n|relative         = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Alberto Montelli''' is a quest-exclusive [[NPC]] whose voice is first heard during {{Quest|Through the Sea Thou Break}}. He has not yet made a full appearance.\n\n==Profile==\nA member of the [[Montelli Family]], Alberto is the head of the [[Averardo Vault]], and the boss of [[Zani]], who describes him as cautious and not one to make outright promises unless pressured by higher-ups in the family.\n\n==Quests and Events==\n{{Quests and Events|Alberto Montelli}}\n\n==Character Mentions==\n{{Character Mentions}} \n\n==Other Languages==\n{{Other Languages\n|en   = Alberto\n|zhs  = 阿尔贝托\n|zht  = 阿爾貝托\n|ja   = アールベット\n|ko   = 알베르토\n|es   = Alberto\n|fr   = Alberto\n|de   = Alberto\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

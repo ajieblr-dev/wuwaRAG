@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:06Z",
+  "title": "Construct: Protective Scales",
+  "pageid": 41716,
+  "wikitext": "{{Stub|Drops, stats, abilities, and location}}\n{{Enemy Infobox\n|name       = Construct: Protective Scales\n|image      = Lumiscale Construct Icon.png\n|dmgtype    = Glacio\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|group      = Tranquilite\n|nation     = Huanglong\n|region     = Mt. Firmament\n|level      = 120\n}}\n'''Construct: Protective Scales''' is a [[Special Enemies|special enemy]] found in {{Location|Mt. Firmament|nocat=1}}.\u003c!--\n\n==Drops== \n{{Drops|Construct: Protective Scales}} \n\n==Stats==\n{{Enemy Stats|Construct: Protective Scales}} \n\n==Abilities==--\u003e\n\n==Location==\n{{Map Embed|Mt. Firmament|Construct: Protective Scales}}\n\n==Trophies==\n{{Trophies|Construct: Protective Scales|customheader=Construct: Protective Scales}} \n\n==Other Languages==\n{{Other Languages\n|en  = Construct: Protective Scales\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n|pt  = \n}} \n\n==Change History==\n{{Change History|1.1}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

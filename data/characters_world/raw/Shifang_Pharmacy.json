@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:25Z",
+  "title": "Shifang Pharmacy",
+  "pageid": 26399,
+  "wikitext": "{{Location Infobox\n|image        = Shifang Pharmacy.png\n|icon         = Pharmacy Map Marker.png\n|type         = Point of Interest\n|type2        = Pharmacies\n|region       = Huanglong\n|area         = Jinzhou\n}}'''Shifang Pharmacy''' is a pharmacy managed by [[Koko]].\n\n==Shop==\n{{Vendor|Koko}}\n\n==Descriptions==\n{{Description|A store selling a variety of pharmaceuticals, various daily medicinal drugs you need can be found here.}}\n\n==Other Languages==\n{{Other Languages\n|en   = Shifang Pharmacy\n|zhs  = 拾方药房\n|zht  = 拾方藥房\n|ja   = 拾方薬局\n|ko   = 습방약국\n|fr   = Phamarcie\n|de   = Apotheke Shifang\n|es   = Farmacia Shifang\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{PoI Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

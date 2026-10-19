@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:01Z",
+  "title": "Platform Guardian",
+  "pageid": 38070,
+  "wikitext": "{{NPC Infobox\n|image       = Platform Guardian In-game.png\n|name        = Platform Guardian\n|title       = \n|type        = Quest\n|type2       = Open-World\n|location    = Shashou Cafe\n|species     = Remnant Creature\n|affiliation = Shashou Cafe \n\n\u003c!-- VAs --\u003e\n|voiceEN     = \n|voiceCN     = \n|voiceJP     = \n|voiceKR     = \n}}\n'''Platform Guardian''' is an [[NPC]] in [[Chronorift Metropolis]] and can be found in the outside area of [[Shashou Cafe]] after completing [[Sakura Quarter]]'s area exploration during the [[Stranger Things in Honami]] event. \n\n==Quests and Events==\n{{Quests and Events|Platform Guardian}} \n\n==Other Languages==\n{{Other Languages\n|en   = Platform Guardian\n|zhs  = 月台守护者\n|zht  = 月台守護者\n|ja   = ホームの守りポン\n|ko   = 플랫폼 수호자\n|fr   = Gardien de la plateforme\n|de   = Bahnsteighüter\n|es   = Guardia del Andén\n|th   = ผู้พิทักษ์แพลตฟอร์ม\n}} \n\n==Change History==\n{{Change History|2.8}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

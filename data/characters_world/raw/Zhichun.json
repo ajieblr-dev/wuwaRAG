@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:18Z",
+  "title": "Zhichun",
+  "pageid": 9512,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Zhichun.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = Xiangyi\n|spouse           = \n|sibling          =\n|child            = \n|relative         = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Zhichun''' is an NPC in {{Location|Hongzhen}}. A child from [[Hongzhen]] who can be found with her mother, [[Xiangyi]].\n\n==Dialogue==\n{{Dialogue Start}}\n:;(First interaction)\n{{Stub Dialogue}}\n----\n:;(Second interaction)\n:'''Zhichun:''' ...\n:{{DIcon}} Hello.\n:{{DIcon}} What are you looking at?\n:'''Zhichun:''' Oh, it's you. I remember you!\n:'''Zhichun:''' It was you and the [[Jinhsi|Magistrate]] who saved us all!\n:Several researchers from [[Jinzhou]] happen to pass by. Zhichun clings to you, nervous and curious.\n:'''Zhichun:''' ...\n:{{DIcon}} What's wrong?\n:'''Zhichun:''' That's because... because a lot of grown-ups have come here lately.\n:'''Zhichun:''' Maybe not that many, but I've never seen so many strangers in my life.\n:'''Zhichun:''' I-I'm just a little scared. But they seem quite interesting. \n:'''Zhichun:''' And Mom said I can say hi to them when I'm with trustworthy grown-ups.\n:'''Zhichun:''' But... But...\n:{{DIcon}} I can introduce you to them.\n:'''Zhichun:''' Really?\n:{{DIcon}} (Introduce the person in a white gown.)\n::'''Zhichun:''' Hua... Huashi Academy... That's such a difficult name to pronounce.\n::'''Zhichun:''' But I now know everyone in a white gown is very impressive, very smart!\n:{{DIcon}} (Introduce the person wearing a bamboo hat.)\n::'''Zhichun:''' Logistics person of [[Lollo Logistics]]... Hehe, that sounds like one of Grandma's tongue-twisters.\n::'''Zhichun:''' I know the people wearing bamboo hats deliver stuff to people now.\n:{{DIcon}} (Introduce the person in a blue uniform.)\n::'''Zhichun:''' [[Midnight Rangers]]... I like that! Easy to remember and has a nice ring to it!\n::'''Zhichun:''' So the people in neat blue uniforms are here to protect us!\n:{{DIcon|Arrow}} That's everybody.\n:'''Zhichun:''' Thank you. I'm trying my best to remember them!\n:'''Zhichun:''' Mmm... after hearing you tell me all that, I'm suddenly not scared anymore...\n----\n:;(Third interaction)\n:'''Zhichun:''' Mom, that lady in the blue, uh, uniform is a Midnight Ranger.\n:'''Zhichun:''' And that man in the long white gown is a Hua... Hua...\n:'''Xiangyi:''' Hehe, Huaxu-\n:'''Zhichun:''' Yeah, a researcher from [[Huaxu Academy]].\n:'''Zhichun:''' Oh, oh, and I know him too! He's a logistics person from Lollo Logistics!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Zhichun\n|zhs  = 稚春\n|zht  = 稚春\n|ja   = 稚春（チシュン）\n|ko   = 봄이\n|es   = Zhichun\n|fr   = Zhichun\n|de   = Zhichun\n|th   = \n|pt   = \n}}\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

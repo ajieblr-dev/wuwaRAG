@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:52Z",
+  "title": "Capollo Montelli",
+  "pageid": 26081,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = NPC Capollo Montelli.png\n|type             = NPC\n|type2            = Quest\n|nation           = Rinascita\n|affiliation      = Montelli Family\n|affiliation2     =\n|relative         = Francesco Montelli\n|relativeNote     = Father\n|relative2        = Carlotta\n|relativeNote2    = Niece\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}'''Capollo Montelli''' is a quest-exclusive NPC. \n\n==Profile==\nAs the son of [[Francesco Montelli]], he was to be the next head of the [[Montelli Family]], until {{Quest|If On a Rainy Night a Family}}, when he was caught betraying the family's ideals and conspiring with the [[Order of the Deep]] in an attempt to strengthen the family against the [[Fisalia Family]], even going so far as killing a member of the family named [[Benett]]. He was ousted and to be punished for his actions.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Capollo\n|zhs  = 科波拉\n|zht  = 科波拉\n|ja   = コッポラ\n|ko   = 코폴라\n|es   = Capollo\n|fr   = Capollo\n|de   = Capollo\n}}\n\n==Change History==\n{{Change History|2.0}}\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:35Z",
+  "title": "Melissa",
+  "pageid": 41102,
+  "wikitext": "{{NPC Infobox\n|image            = \n|name             = \n|title            = \n|type             = Quest\n|type2            = Open-World\n|deceased         = Died during a meteor impact hundreds of years ago.\n|affiliation      = Ostina\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=梅丽莎}} is a deceased [[NPC]] that first appears in {{Quest|Dreamcatchers in the Secret Gardens}}. After completing Dreamcatchers in the Secret Gardens her reverberation can be found in the [[Lost Beyond]].\n\nIt is unknown what is Melissa and [[Triss]] relationship, but it can be assured they are family. \n\n==Quests and Events==\n{{Quests and Events}} \n\n==Dialogue==\n{{Dialogue Start}}\n:;'''Melissa''' Triiiiiiisss.\n\n:'''Melissa:''' Where did Triss run off to... That child's{{sic}} always darting about. If she could just stay where I could see her. \n:'''Melissa:''' Phrolova and I were meant to go to the city... Maybe I'll send her to look for Triss when we get back. Triss will listen to her.\n:{{DIcon}} Why?\n:'''Melissa:''' Eh, how do I put it... She has some kind of aura that inexplicably makes people respect her.\n:{{DIcon|Exit}} I see.\n:{{DIcon}} Oh? Tell me more.\n::'''Melissa:''' You know how I found out?\n::'''Melissa:''' When we were younger, she once stopped a large brawl between kids.\n::'''Melissa:''' Even though I'm older than her, I couldn't take charge of the situation. Maybe the adults thought it wasn't a big deal, but I saw the aura in her eyes.\n::'''Melissa:''' Her powerful and pervasive presence compelled many to follow her lead.\n::'''Melissa:''' When I heard her say she wanted to be a conductor, I wasn't surprised at all. Controlling an orchestra wouldn't be very difficult for her.\n{{Dialogue End}}\n\n==Gallery==\n{{Files by Character Gallery}}\n\n===Videos===\n\u003cgallery\u003e\nWuthering Waves Story Cinematics - Fading Notes\nWuthering Waves Story Cinematics - Sinking in a Dream\n\u003c/gallery\u003e\n\n==Other Languages ==\n{{Other Languages\n|en   = Melissa\n|zhs  = 梅丽莎\n|zht  = 梅麗莎\n|ja   = メリッサ\n|ko   = 멜리사\n|fr   = Melissa\n|de   = Melissa\n|es   = Melissa\n|th   = Melissa\n}}\n\n==Change History==\n{{Change History|2.5}} \n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "7"
+    }
+  ]
+}

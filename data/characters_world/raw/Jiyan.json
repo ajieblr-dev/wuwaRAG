@@ -1,0 +1,114 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:08Z",
+  "title": "Jiyan",
+  "pageid": 525,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery|Jiyan}}\n\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 5\n|class            = Mutant\n|weapon           = Broadblade\n|attribute        = Aero\n|releaseDate      = 2024-05-23 \n|role             = Main Damage Dealer;Heavy Attack Damage;Traction\n\n\u003c!-- Info --\u003e\n|name             = Jiyan\n|title            = Windborne Rider\n|title2           = Teal General\n|gender           = Male\n|birthday         = December 14th\n|birthplace       = Huanglong\n|status           = Alive\n|nation           = Huanglong\n|affiliation      = Jinzhou\n|affiliation2     = Midnight Rangers\n|sigil            = Qingloong\n|dish             = Yesterday in Jinzhou\n|obtain           = Prevail the Lasting Night \n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm7074735|Alex Jordan]]\u003cref name=\"EN-VA_TWJiyan\"\u003eX: [https://x.com/Wuthering_Waves/status/1785610111249203478 EN VA Announcement]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/zh-hans/孙晔 Sun Ye ({{Lang|mini=1|zh=孙晔}})]\u003cref name=\"Jiyan Bilibili\"\u003eBilibili: [https://www.bilibili.com/video/BV1Qm421M7SM 《鸣潮》共鸣者「忌炎」展示PV丨与长夜同行]\u003c/ref\u003e\n|voiceJP          = {{w|Yūki Ono|Ono Yūki ({{Lang|mini=1|ja=小野友樹}})}}\u003cref name=\"JP-VA_TWJiyan\"\u003eX: [https://x.com/ww_jp_official/status/1791770706642166157 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = {{w|Nam Doh-hyeong|Nam Doh-hyeong ({{Lang|mini=1|ko=남도형}})}}\u003cref name=\"Jiyan Bilibili\" /\u003e\n}}\n{{Quote|I have never regretted to brave the long night.|Jiyan\n}} \n{{Intro/Resonator|Jiyan|lang=zh=忌炎}} \n\nHe is the general of the [[Midnight Rangers]] selected by the sentinel of [[Jinzhou]], [[Jué]] and is stationed in the same city.\n\n==Official Introduction==\n{{Quote|Jiyan is the General of Midnight Rangers stationed in Jinzhou, embracing strong sense of justice and resolution.\n\nBorn in a family devoted to medicine, Jiyan is both skilled and attentive.\n\nLater, in a bid to fend off the encroaching Tacet Discords, he relinquished his role in medicine and took up arms as a soldier.|[https://wutheringwaves.kurogames.com/en/main#resonators His introduction on the Official Website.]\n}}\n\n==Combat Overview==\n{{Main|Jiyan/Combat}}\n=== Ascension Material===\n{{Character Ascensions and Stats|total_only=1}}\n\n=== Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Jiyan|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}} \n\n==Other Languages==\n{{Other Languages\n|en      = Jiyan\n|zhs     = 忌炎\n|zht     = 忌炎\n|ja      = {{Rubi|忌|キ|炎|エン}}\n|ko      = 기염\n|es      = Jiyan\n|fr      = Jiyan\n|de      = Jiyan\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==References==\n{{Reflist}} \n\n==Navigation==\n{{Resonator Navbox}}\n\n[[zh:忌炎]]\n[[ru:Цзи Янь]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Material",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

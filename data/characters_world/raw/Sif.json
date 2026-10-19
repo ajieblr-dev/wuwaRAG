@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:26Z",
+  "title": "Sif",
+  "pageid": 49080,
+  "wikitext": "{{NPC Infobox|name=Sif|nation=Lahai-Roi|location=Atuja Camp|affiliation=Department of Exostrider Engineering|\n|group=Roya Tribe|father=Einar|mother=Hailey|sibling=Daxton|siblingNote=Brother}}\n\n{{PAGENAME}} is a female NPC who can be found on the bridge of Atuja Camp. She asks about her brother while visiting her family.\n\n==Dialogue==\n{{Dialogue Start}} \n:;'''Sif''' Is Daxton alright, Pa?\n:;'''Einar''' Don't you ever mention that name again. From this day on, you're our only child.\n-----\n:'''Einar:''' My goodness, Sif! Aren't you supposed to be at the Academy?\n:'''Sif:''' I'm working on a project that requires me to collect data from Atuja... I've been wanting to see you since yesterday!\n:'''Sif:''' Where's Daxton?\n:'''Hailey:''' My dear child...\n:'''Einar:''' Don't you ever mention that name again. From this day on, you're our only child.\n:'''Sif:''' Why would you say that, Pa?! What happened to my brother?\n:'''Einar:''' It was three days ago. He murdered an Ironhoof in cold blood.\n:'''Hailey:''' Sif... your brother is no longer a Roya.\n:'''Sif:''' No... No, that can't be! He'd never do such a thing!\n:'''Einar:''' He tore off that poor creature's head and wears it as a mask. He's betrayed the Exostrider.\n:'''Sif:''' Oh, Brother... How could he?\n:'''Hailey:''' The mind of an Outcast is beyond our understanding...\n:'''Hailey:''' It'll take some time, Sif. But, darling, do try to forget about that person.\n{{Dialogue End}}\n==Other Language==\n{{Other Languages\n|en   = Sif\n|zhs  = 西芙\n|zht  = 西芙\n|ja   = シフ\n|ko   = 시프\n|fr   = Sif\n|de   = Sif\n|es   = Sif\n|th   = Sif\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Language",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

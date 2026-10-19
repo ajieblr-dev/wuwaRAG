@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:40Z",
+  "title": "Baglionia",
+  "pageid": 37957,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Baglionia Sforza and Este.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Sanguis Plateaus\n|location2        = Hunter's Den\n|group            = Gladiator\n|affiliation      = Septimont\n|affiliationNote  = Gladiator\n}}\n'''{{PAGENAME}}''' is a NPC female Noble Gladiator participating in the Hunt, seen talking with two male Gladiators, '''Este''' and '''Sforza'''. They can be found in the [[Hunter's Den]] speaking about [[Avidius]]. \n\n{{Dialogue Start}}\n==Dialogue==\n:;'''Este''' Always rambling on about glory, and then he aligns himself with that scorpion ''[[Falco]]''?!\n:;'''Este''' No Gladiator worth their honor would crawl that low.\n:;'''Sforza''' Say what you want, but Avidius has what it takes to lead!\n:;'''Baglionia''' Enough. Let's not tear each other apart until we know the whole picture.\n:'''Baglionia:''' Ephor Augusta is certainly capable. But cries for Avidius to be the next Hero of Heroes grow louder by the day.\n:'''Baglionia:''' Makes you wonder whose banner we should rally behind. A difficult choice indeed... \n:'''Sforza:''' I respect the Ephor and hold no prejudice toward her background, but let's be honest. A Hero of Heroes is defined by innate talent, not by a crown of victory from the Great Agon! \n:'''Sforza:''' Avidius has braved four successful expeditions into Manes Deep. If that doesn't prove he's fit to be ruler, what does?\n:'''Este:''' Still, he's backed by Falco. That venomous scorpion alone should be enough to make you question his judgment!\n----\n;;After {{Quest|By Sun's Burning Hand}}\n:;'''Sforza''' Avidius is a hero, no doubt. Always has been, and he still is.\n:;'''Baglionia''' I've always known Ephor Augusta would turn the tide sooner or later...\n:;'''Este''' Ha, listen to you. Since when did you start playing Priestess?\n:'''Baglionia:''' That's not the way to put it, Lord Este. My loyalty to the Ephor has never wavered. Her deeds shine as gloriously as the eternal blazing sun. A mere figure like Avidius can never be compared to her.\n:'''Sforza:''' The Ephor's deeds are indeed admirable. But I must insist that Avidius, too, is a true Gladiator and a hero deserving of the same glory!\n:'''Este:''' I agree with you, Sforza. I have respect for Avidius as well.\n:'''Este:''' As for you, Baglionia, spare us your theatrics.\n:'''Este:''' A profit-chasing opportunist has no loyalty to offer. You'd call yourself faithful no matter who comes out on top.\n----\n;After {{Quest|By Moon's Fated Light}}\n:'''Sforza:''' After the catastrophe, Augusta has truly come into her own.\n:'''Baglionia:''' Still no word on Avidius… and that Priestess…\n:'''Este:''' She seems cunning… but who exactly is she? Doesn't ring any bells.\n----\n;After {{Quest|Dawn Breaks on Dark Tides}}\n:;'''Sforza''' Still no word on Avidius?\n:;'''Baglionia''' Ephor Augusta hasn't given a straight answer. Who knows where he's gone?\n:;'''Este'''Ha, maybe she's the one pulling the strings!\n:'''Baglionia:''' That's not the way to put it, Lord Este. Ephor Augusta's radiance is beyond question. On what grounds could she ever deal with Avidius?\n:'''Sforza:''' The Ephor's virtues are beyond reproach. Still, it troubles me that we've heard nothing of Avidius so far.\n:'''Este:''' I heard a report that he was last seen in Ragunna, but since then, there has been no word.\n:'''Baglionia:''' You see? The Ephor has no part in this. Our concern should be finding Avidius's whereabouts.\n:'''Este:''' May the winds of Septimont not shift because of this.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Baglionia\n|zhs  = 巴廖尼\n|zht  = 巴廖尼\n|ja   = バリオーニ\n|ko   = 발리오니아\n|fr   = Baglionia\n|de   = Baglionia\n|es   = Baglionia\n|th   = Baglionia\n}}\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

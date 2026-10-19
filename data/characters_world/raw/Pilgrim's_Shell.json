@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:03Z",
+  "title": "Pilgrim's Shell",
+  "pageid": 32397,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Pilgrim's Shell\n|title     = \n|image     = Pilgrim's Shell Icon.png\n|dmgtype   = Aero\n|weakpoint = \n|echo      = Yes\n|class     = Elite\n|family    = Tacet Discord\n|group     = Dark Tide Creation\n|nation    = Rinascita\n|region    = Septimont\n|subregion = \n|drops     = \n}}{{Description|With coral as bones, seaweed as flesh, and blind faith as the catalyst, they are the memetic embodiment of the Dark Tide faith, shamans who chant the will of the Dark Tide.}}\n{{Intro/Enemy|Pilgrim's Shell|a=1|lang=zh=传道者的遗形}}\n\n==Drops== \n{{Drops|Elite Dark Tide Influenced}}\n\n==Stats==\n{{Enemy Stats|Pilgrim's Shell}}\n\u003c!--\n==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Pilgrim's Shell|customheader=Pilgrim's Shell}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Aero DMG|nobold=1}}.\u003cbr/\u003eWith coral as bones, seaweed as flesh, and blind faith as the catalyst, they collectively form the memetic embodiment of the Dark Tide faith.\nTheir hunched carapaces hoard nothing but ossified corals, withered bones, and lost relics in the sea. Once the most devout preachers, they now wander as shamans who chant the will of the Dark Tide, their voices murmuring the names of those who shall return to the abyss's embrace.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Pilgrim's Shell\n|zhs  = 传道者的遗形\n|zht  = 傳道者的遺形\n|ja   = 伝道師の空殻\n|ko   = 전도사의 경지\n|es   = Peregrino Degenerado\n|fr   = Carapace du pèlerin\n|de   = Pilgerhülle\n}}\n\n==Change History==\n{{Change History|2.4}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

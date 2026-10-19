@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:03Z",
+  "title": "Publius",
+  "pageid": 36700,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Publius.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont\n|group            = Gladiator\n|affiliation      = Gladiator\n|affiliationNote  = Former\n|child = Cilania}}\n'''{{PAGENAME}}''' Odle is a male NPC noble. A former Gladiator who participated in the Hunt, which he rescued and adopted his daughter, [[Cilania]], from. \n{{Dialogue Start}}\n==Dialogue==\n;(Day)\n:'''Cilania''': I'm not that little crybaby you remember now, Father. The weak girl I once was... is long gone.\n:{{DIcon}} Silently watch the girl and her father argue.\n::'''Publius''': You are missing the point, Cilania. Yes, trees will grow tall and shoots will grow lush, and one day, my daughter, you'll have a happier life, far from this home. But not yet. Not now. \n::'''Cilania''': I... don't need your protection anymore. I'm strong now. I've grown up. I can stand on my own as a gladiator!\n::'''Publius''': No, you don't understand. I swore an oath to the [[Iuno|esteemed one]] in Septimont that as long as I draw breath, I will not let you set foot on that battlefield again.\n::'''Publius''': A daughter of the Odle Family is meant to embrace love and family, not clutch a weapon among the dead and dying. Cilania, you don't need to burn so fiercely, like the sun. Why not simply... shine gently as one of Septimont's little stars?\n::'''Cilania''': I understand how you feel, but I didn't become a Gladiator to find happiness, Father.\n::'''Cilania''': That rainy night, you carried me in your arms and carved a way through the TD Outbreak in the Sanguis Plateaus. To this day, people still talk about how the Odle Family stole an orphan right back from death's grip.\n::'''Cilania''': All that we are is forged by our own honor and our victories in battle. The sons and daughters of the Odle Family are born to be as radiant as the sun.\n::'''Cilania''': So, I'm not here to argue with you today. Father, I've come to say goodbye.\n::'''Cilania''': All because I am your daughter. I want to be your daughter. I am Cilania of the Odle Family. I am Cilania the Gladiator, who bears our honor.\n::'''Publius''': No... Cilania, my daughter...\n:{{DIcon|Exit}} Leave\n----\n;(Night)\n:;'''Publius''' Cilania, my daughter...\n:;'''Publius''' It's not that I wish to deny you your own path.\n:;'''Publius''' You just never realize... that your fate was foretold by the [[Iuno|esteemed one]] long ago...\n----\n==Spoiler for Act VIII: [[By Moon's Fated Light]]==\n;(After completing [[By Sun's Burning Hand]])\n:;'''Publius''' Cilania, my daughter...\n:;'''Publius''' It's not that I wish to deny you your own path.\n:;'''Publius''' You just never realize... that your fate was foretold by the [[Iuno|esteemed one]] long ago...\n:;'''Publius''' The esteemed one? But... who actually said those words?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Publius\n|zhs  = 普布留斯\n|zht  = 普布留斯\n|ja   = プブリウス\n|ko   = 푸블리우스\n|es   = Publius\n|fr   = Publius\n|de   = Publius\n}}\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Spoiler for Act VIII: By Moon's Fated Light",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

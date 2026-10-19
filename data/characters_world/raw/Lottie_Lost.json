@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:29Z",
+  "title": "Lottie Lost",
+  "pageid": 25690,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Lottie Lost\n|title     = \n|image     = Lottie Lost Icon.png\n|dmgtype   = Spectro\n|weakpoint = Unknown\n|echo      = Yes\n|class     = Common\n|family    = Tacet Discord\n|group     = Clamoring\n|nation    = Rinascita\n|region    = \n|subregion = \n|drops     = \n}}{{Description|An incorporeal Tacet Discord inhabiting the body of a quiet, compassionate plushie.}}\n{{Intro/Enemy|Lottie Lost|a=1|lang=zh=寂寞小姐}}\n\n==Drops==\n{{Drops|Common Clamorling}}\n\n==Stats==\n{{Enemy Stats|Lottie Lost}}\n\n==Trophies==\n{{Trophies|Lottie Lost}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} against {{Color|Spectro damage}}.\u003cbr/\u003eAn incorporeal Tacet Discord inhabiting the body of a quiet, compassionate plushie. She treats herself with hidden secrets and emotions uncovered with her attentive eyes—frequencies she finds most delectable.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lottie Lost\n|zhs  = 寂寞小姐\n|zht  = 寂寞小姐\n|ja   = ミス・ロンリー\n|ko   = 쓸쓸한 아가씨\n|es   = Lottie Silente\n|fr   = Lottie la muette\n|de   = Fräulein Einsamkeit\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

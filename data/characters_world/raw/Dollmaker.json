@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:13Z",
+  "title": "Dollmaker",
+  "pageid": 21819,
+  "wikitext": "{{NPC Infobox\n|image            = [[File:Dollmaker.png|thumb]]\n|type             = Open-World\n|nation           = Huanglong\n|group            = Séance Society\n|affiliation      = \n|affiliation2     = Zhuojun Atelier \n|affiliationNote2 = formerly\n|title            = Master Dollmaker\n|status           = Alive\u003cbr\u003eUnder custody of the [[Public Security Bureau]]\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = [https://zh.moegirl.org.cn/zh-hans/邹亮 Zou Liang ({{Lang|mini=1|zh=邹亮}})]\n|voiceJP          = [[imdb:nm2947154|Sakamaki Mitsuhiro ({{Lang|mini=1|ja=酒巻光宏}})]]\u003cref\u003eX: [https://x.com/6hachi/status/1829033615029665813 JP VA Self Announcement]\u003c/ref\u003e\n|voiceKR          =  \n|name=Dollmaker\n}}\n'''Dollmaker''' {{lang|zh=偃师|zh_rm=Yǎn shī}} is a quest-exclusive [[NPC]] {{Location|Jinzhou}} who appears as the main antagonist of [[Yinlin]]'s [[Companion Story]], [[Solitary Path]]. He is a terrorist and disgraced ex-Zhuojun Atelier artisan who is the leader of the Séance Society.\n\n==Physical Description==\nThe Dollmaker appears to be a slightly muscular middle-aged man of average height with slicked black hair styled in a mullet, marked by white streaks on the front and a pair of emotionless red eyes hidden beneath a stone [[Zhuojun Atelier]] mask, with visible cracks in the face. His tacet mark is vertically aligned on his neck.\n\n==Clothing==\nHe wears a teal hanfu printed with drawings of yellow waves and tacet marks on it, yellow stripes on the collar, with a black obi covering its neck. The hanfu is under a greenish-grey coat with dark green stripes in the sleeves, light grey collars and yellow buttons, as well dark grey pants and black boots.\n\n==Personality==\nThe Dollmaker carries himself with an aura of mystery. A man of few words, he is always shown to have very strict safeguards and technologies, but fronts as a calculating and terrifyingly calm threat against the citizens of Jinzhou with the false promise of resurrecting people, masking his true intentions to lure them into his own whims by luring them with the promise of bringing back loved ones.\n\nHe also shows no remorse for his actions due to having an almost sadistic obsession with recapturing the past for what he did to [[Yinlin]], to the point that he even believes himself to be her adoptive father, later exploiting Yinlin to orchestrate [[Rover]]'s kidnapping to his factory.\n\n==Quests and Events==\n{{Quests and Events|Dollmaker}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dollmaker\n|zhs  = 偃师\n|zht  = 偃師\n|ja   = 偃師（エンシ）\n|ko   = 언사\n|es   = Fabricante de Muñecas\n|fr   = Maître Fabricant\n|de   = Puppenmacher\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n[[Category:Zhuojun Atelier]]\n[[zh:偃师]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Physical Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Clothing",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Personality",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "4.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

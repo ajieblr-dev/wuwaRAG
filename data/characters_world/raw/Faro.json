@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:25Z",
+  "title": "Faro",
+  "pageid": 39660,
+  "wikitext": "{{NPC Infobox\n|image=NPC Faro.png\n|type=Event\n|nation=Rinascita\n|location=Egla Town\n}}\n'''{{PAGENAME}}''' is a reoccurring NPC in the daily quest; In the Name of Chivalry. He's a Resonator training to become a true knight and is being mentored by Rover. \n\n==Dialogue==\n{{Dialogue Start}}\n;(After completing [[In the Name of Chivalry VI]])\n:'''Faro:''' Knight stories, traditional cuisines, and Night Reveries... My hometown is rich with these relics of the past.\n:'''Faro:''' No wonder so many kids there dream of becoming knights.\n:{{DIcon}} You seem to be the one who has ventured the farthest.\n:'''Faro:''' That's because I have the best mentor.\n:{{DIcon}} Stop, you're making me embarrassed.\n::'''Faro:''' Hahaha, knights never lie.\n:{{DIcon}} Just don't mention my name when you mess up!\n::'''Faro:''' I promise, I won't let you down.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Faro\n|zhs  = 法罗\n|zht  = 法羅\n|ja   = ファーロ\n|ko   = 페로\n|fr   = Faro\n|de   = Faro\n|es   = Faro\n|th   = Faro\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Daily Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

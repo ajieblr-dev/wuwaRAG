@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:06Z",
+  "title": "Xinping",
+  "pageid": 23291,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Xinping.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Tiger's Maw\n|group            = \n|affiliation      = \n|title            = Owner of Tiger's Maw Stall\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Xinping''' is a shop NPC in {{Location|Tiger's Maw Mine}}.  The store '''Tiger's Maw Eatery''' will become available after players have completed Exploration Quest [[Hidden Dangers in Peaceful Life]], Step 24 {{verify}}.\n\n== Shop ==\n{{Shop/Wrapper|\n{{Shop|Jinzhou Skewers|3000|100|total=1}}\n{{Shop|Stuffed Flatbread|3000|100|total=1}}\n{{Shop|Perilla Salad|3000|5|total=1}}\n{{Shop|Spicy Pulled Chicken|3000|5|total=1}}\n{{Shop|Loong Whiskers Crisp|6000|5|total=1}}\n{{Shop|Loong Bun|6000|5|total=1}}\n{{Shop|Jinzhou Stew|6000|5|total=1}}|vendor=Xinping|total=720000|type=Restaurant}}\n\n== Dialogue ==\n{{Dialogue start}}\n:'''Xinping:''' With just a few simple ingredients, I can whip up endless delicious dishes. Don't underestimate the power of flavor combinations!\n:{{DIcon|Restaurant}} Tiger's Maw Food Stalls\n:'''Xinping:''' Hey there, what can I get you? The place is small, but there's plenty to choose from!\n::(Open Shop)\n:{{DIcon|Talk}} Cuisine unrelated ingredients\n::'''Xinping:''' Right you are. With the miners' health in mind, I've jazzed up traditional Jinzhou recipes to keep them both satisfied and nourished.\n::'''Xinping:''' My version of the Jinzhou Stew packs in fresh vegetables and a flavorful broth while cutting back on greasy and salty ingredients, all without sacrificing taste.\n::'''Xinping:''' I added fresh diced vegetables to the stew, simmered in flavorful broth. This way, they can satisfy their appetite without compromising their health. And don't worry, the original flavors are still intact!\n:{{DIcon|Exit}} Leave\n{{Dialogue end}}\n\n== Quests and Events ==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|1_en   = Xinping\n|1_zhs  = 辛平\n|1_zht  = 辛平\n|1_ja   = 辛平（シンヘイ）\n|1_ko   = 신핑\n|1_es   = Xinping\n|1_fr   = Xinping\n|1_de   = Xinping\n\n|2_en   = Owner of Tiger's Maw Stall\n|2_zhs  = 「虎口大排档」掌柜\n|2_zht  = 「虎口大排檔」掌櫃\n|2_ja   = 「虎口屋台」オーナー\n|2_ko   = 「호환 식당」 사장\n|2_es   = Dueño del Puesto Fauces del Tigre\n|2_fr   = Propriétaire du Bistrot des Tigres\n|2_de   = Besitzer des Tigerschlund-Standes\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Xinping",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Owner of Tiger's Maw Stall",
+      "number": "4.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

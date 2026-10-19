@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:23Z",
+  "title": "Scar/Boss",
+  "pageid": 7505,
+  "wikitext": "{{CustomTabs\n|tab1 = Overview\n|tab2 = Boss\n|tab3 = Gallery\n}}\n{{Enemy Infobox\n|displaytitle  = Scar (Boss)\n|name          = Scar\n|title         = Lightbane Reversal\n|image         = Enemy Scar (Boss).png\n|dmgtype       = Fusion\n|dmgtype2      = Physical\n|weakpoint     = Unknown\n|echo          = No\n|class         = Calamity\n|family        = Human\n|group         = Fractsidus\n|location      = [[Chaotic Juncture: Ember]]\n|drops         = Unending Destruction\n|voiceEN          = [https://www.imdb.com/name/nm3598161/ Shai Matheson]\n|voiceCN          = [https://zh.moegirl.org.cn/zh-hans/不一 Bu Yi ({{Lang|mini=1|zh=不一}})]\n|voiceJP          = Furuya Anan ({{Lang|mini=1|ja=古屋 亜南}})\n|voiceKR          = [https://namu.wiki/w/장서화 Jang Seo-hwa ({{Lang|mini=1|ko=장서화}})]\n|Model Type    = Medium Male}}\n{{Enemy Infobox\n|displaytitle  = Scar (Boss)\n|name          = Scar: Aberrant Nightmare \n|title         = Aberrant Nightmare\n|image         = Enemy Aberrant Nightmare Icon.png\n|dmgtype       = Havoc\n|weakpoint     = Unknown\n|echo          = No\n|class         = Calamity\n|group         = Fractsidus\n|location      = [[Chaotic Juncture: Ember]]\n|drops         = Unending Destruction\n|voiceEN          = Shai Matheson\n|voiceCN          = [https://zh.moegirl.org.cn/zh-hans/不一 Bu Yi ({{Lang|mini=1|zh=不一}})]\n|voiceJP          = Furuya Anan ({{Lang|mini=1|ja=逢坂 良太}})\n|voiceKR          = [https://namu.wiki/w/장서화 Jang Seohwa ({{Lang|mini=1|ko=장서화}})]\n|Model Type     = Medium Male}}{{Description|One of the [[Fractsidus]] Overseers. His blazing inferno engulfs all order and rules, leaving chaos in its wake.}}{{Lang|Scar|zh=无冠者}} is a [[Calamity Class]] [[Weekly Boss|Weekly]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in [[Chaotic Juncture: Ember]].\n\n==Drops==\n{{Boss Rewards\n|weekly=1\n|exclusive=Unending Destruction}}\n\n==Stats==\n{{Link Anchor|Aberrant Nightmare}}\u003c!--\n--\u003e{{Tabber\n|Phase I\n|{{Enemy Stats|Scar Phase I}}\n|Phase II\n|{{Enemy Stats|Scar Phase II}}\n}}\n\n\u003c!-- ==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|customheader=Scar|}}\n\n==Description==\n{{Description|Has increased RES to {{Color|[[DMG RES/Fusion|Fusion DMG]]|nobold=1}} while in human form.\u003cbr/\u003eWhen enraged, transform into a grim goat reaper with increased RES to {{Color|[[DMG RES/Spectro|Spectro DMG]]|nobold=1}} and {{Color|[[DMG RES/Havoc|Havoc DMG]]|nobold=1}}.\u003cbr/\u003eOne of the [[Fractsidus]] Overseers.\u003cbr/\u003eA rebel who revels in Overclocking, disregarding the ideas of beauty and order. He enjoys destruction and chaos, delighting in the suffering of others. He disregards rules and fame, using any means to reach his goals. With an introspective sobriety driving him, he seeks you out to witness the birth of a new world, still in its infancy.\u003cbr/\u003e''\"New life blooms from scorched earth, rising through the ashes.\"''|Description When Discovered}} \n\n==Other Languages ==\n{{Other Languages\n|en      = Scar\n|zhs     = 伤痕\n|zht     = 傷痕\n|de      = Scar\n|es      = Scar\n|fr      = Scar\n|ja      = スカー\n|ko      = 스카\n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}\n{{DISPLAYTITLE:Scar (Boss)}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

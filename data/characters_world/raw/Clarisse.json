@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:02Z",
+  "title": "Clarisse",
+  "pageid": 27122,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Clarisse.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|affiliation      = Order of the Deep\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}} \n'''Clarisse''' is an NPC located in {{Location|City Square|nocat=1}} at night (6:00 PM - 5:59 AM) and can be found near Ragunna City's [[Resonance Nexus]] painting a [[Jester]] [[Common Echoes|Common Echo]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Clarisse:''' Hello, how can I help you?\n:{{DIcon}} Are you painting?\n:'''Clarisse:''' I sometimes sketch in the Order. But I'd also love to capture the lively streets of Ragunna aside from the churches.\n:'''Clarisse:''' Oh, pardon me. I hope I'm not causing you any trouble, sketching here... Am I blocking your view?\n:{{DIcon}} A person painting the scenery can become part of it too.\n:'''Clarisse:''' What? What do you mean?\n:{{DIcon}} (Tell her about Davide)\n::'''Clarisse:''' Mr. Davide? Hmm... it's the first time I've heard that name.\n::'''Clarisse:''' Did he want to buy this drawing? But I'm just an amateur trying to pursue my hobby...\n::'''Clarisse:''' I see. I'll go find him in Montelli Quarter if I get the chance. Thank you.\n:{{DIcon}} (Not tell her about Davide)\n:'''Clarisse:''' Goodbye, and may Imperator bless you.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Clarisse\n|zhs  = 克拉伦丝\n|zht  = 克拉倫絲\n|ja   = クラレンス\n|ko   = 클라렌스\n|es   = Clarisse\n|fr   = Clarisse\n|de   = Clarisse\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

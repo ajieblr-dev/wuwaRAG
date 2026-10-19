@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:51Z",
+  "title": "Tubpup",
+  "pageid": 38570,
+  "wikitext": "{{NPC Infobox\n|image            = Tubpup.png\n|title            = \n|type             = Open-World\n|species          = Common Echo\n|nation           = Rinascita\n|location         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n{{Quote|Spotted throughout Ragunna's streets, the Tubpups are lively Echoes that serve as faithful companions. Whether they are playing with children, carrying art supplies, or working as handy baskets, they bring joy and energy wherever they go.|—Rinascita Echo Fiesta}}\n'''Tubpup''' is an open-world [[NPC]] and [[Common Echoes|Common Echo]], commonly located within Ragunna City.\n\nBy interacting with Tubpup allow players to ride in it. \n\n==Gallery==\n\u003cgallery\u003e\nRinascita Echo Fiesta Tubpup.png|From the [[Rinascita Echo Fiesta]]\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Tubpup\n|zhs  = 浴缸犬\n|zht  = 浴缸犬\n|ja   = タブドッグ\n|ko   = 욕조견\n|fr   = Bainpatou\n|de   = Wanne Welpe\n|es   = Canbañera\n|th   = Tubpup\n}} \n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

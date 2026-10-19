@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:44Z",
+  "title": "Thessaleo Fells",
+  "pageid": 25648,
+  "wikitext": "\n{{Location_Infobox\n|title  = Thessaleo Fells\n|image  = Thessaleo Fells.png\n|map    = Solaris-3\n|type   = Region\n|nation = Rinascita\n}}\n{{Intro/Location|Thessaleo Fells}}  The rugged mountains of Thessaleo Fells always seem shrouded in the darkness of night, their gloom as deep as the abyssal sea. Once the domain of the [[Fisalia Family]], the oldest lineage in Ragunna, this desolate place remains one few outsiders dare to tread.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Garden of the Lost\"\n|[[Garden of the Lost]]\n|[[File:Garden of the Lost.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Twin Peaks\"\n|[[Twin Peaks]]\n|[[File:Twin Peaks.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Thorncrown Rises\"\n|[[Thorncrown Rises]]\n|[[File:Thorncrown Rises.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Porto-Veno Castle\"\n|[[Porto-Veno Castle]]\n|[[File:Porto-Veno Castle.png|180px]] \u003cbr /\u003e\n|}\n==Quests==\n{{Quest by Category List|Thessaleo Fells Quests}}\n\n==Exploration Report==\n\n==='''Defendant's Witness I'''===\n* Unlocked by reaching 50% exploration.\n\n{{Transclude|Defendant's Witness I|Text|main=1}}\n\n==='''Defendant's Witness II'''===\n* Unlocked by reaching 100% exploration.\n\n{{Transclude|Defendant's Witness II|Text|main=1}}\n\n== Notable Features==\n===Bosses===\n====Overlord Class====\n* {{Enemy|Nightmare: Impermanence Heron}}\n===Resources===\n\n\n==Other Languages==\n{{Other Languages\n|en   = Thessaleo Fells\n|zhs  = 狄萨莱海脊\n|zht  = 狄薩萊海脊\n|ja   = ディサレー{{Rubi|海嶺|かいれい}}\n|ko   = 테살레오 해저 산맥\n|es   = Colinas Tesaleo\n|fr   = Hautes Terres de Thessaleo\n|de   = Thessaleo Hügel\n|th   = \n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eDefendant's Witness I\u003c/b\u003e",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eDefendant's Witness II\u003c/b\u003e",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Overlord Class",
+      "number": "4.1.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.2",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "12"
+    }
+  ]
+}

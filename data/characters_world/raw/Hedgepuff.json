@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:55Z",
+  "title": "Hedgepuff",
+  "pageid": 42114,
+  "wikitext": "{{Stub|location}}\n{{Enemy Infobox\n|name       = Hedgepuff\n|image      = Gulpuff Icon.png\n|dmgtype    = Glacio\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|group      = Howler\n|nation     = The Black Shores\n|region     = Black Shores Archipelago\n|level      = 120\n}}\n'''Hedgepuff''' is a [[Special Enemies|special enemy]] found in the {{Location|Black Shores|nocat=1}}.\n\n==Location==\n{{Map Embed|Black Shores|Hedgepuff}}\n\n==Trophies==\n{{Trophies|Hedgepuff|customheader=Hedgepuff}} \n\n==Other Languages==\n{{Other Languages\n|en  = Hedgepuff\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n|pt  = \n}} \n\n==Change History==\n{{Change History|1.3}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

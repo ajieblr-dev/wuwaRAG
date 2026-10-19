@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:37Z",
+  "title": "Mingxiao",
+  "pageid": 79602,
+  "wikitext": "{{Stub|profile}}\n{{NPC Infobox\n|image            = NPC Mingxiao.png\n|type             = Quest\n|type2            = \n|nation           = Huanglong\n|affiliation      = Celestials \n|affiliation2     = Court of Savantae\n|status           = Alive\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n\n'''{{PAGENAME}}''' {{Lang|zh=明晓}} is a quest-exclusive NPC who makes her first appearance during the {{Quest|Simulacrum of the Heart}}. \n\n==Profile==\nMingxiao is one of the members of the [[Celestials]]. She is based in [[Mengxuan Vale]], within the [[Simulacrum Nexus of Mengzhou]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Mingxiao\n|zhs  = 明晓\n|zht  = 明曉\n|ja   = 明晓\n|ko   = 명효\n|fr   = Mingxiao\n|de   = Mingxiao\n|es   = Mingxiao\n|th   = หมิงเซียว\n|pt   = Mingxiao\n}}\n\n==Change History==\n{{Change History|3.7}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

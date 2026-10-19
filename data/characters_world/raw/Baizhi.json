@@ -1,0 +1,107 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:42Z",
+  "title": "Baizhi",
+  "pageid": 624,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}}\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 4\n|class            = Mutant\n|weapon           = Rectifier\n|role             = Support and Healer;Coordinated Attack;DMG Amplification\n|attribute        = Glacio\n|releaseDate      = 2024-05-23 \n\n\u003c!-- Info --\u003e\n|name             = Baizhi\n|title            = Healing You'tan\n|gender           = Female\n|age              = \n|birthday         = September 10th\n|birthplace       = Huanglong\n|nation           = Huanglong\n|affiliation      = Jinzhou\n|affiliation2     = Huaxu Academy\n|sigil            = You'tan (Sigil)\n|dish             = Iced Perilla\n|obtain           = \n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm4476858|Samantha Dakin]]\u003cref name=\"EN-VA_YTBaizhi\"\u003eYouTube: [https://www.youtube.com/watch?v=J8g09aRb8Fg Wuthering Waves | Voice Actress Greetings | Baizhi]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/陈婷婷 Chen Tingting ({{Lang|mini=1|zh=陈婷婷}})]\u003cref name=\"CN-VA_KGBaizhi\"\u003eOfficial Website: [https://mc.kurogames.com/main#resonators 共鸣者 瑝珑 白芷]\u003c/ref\u003e\n|voiceJP          = {{w|Asami Seto|Seto Asami ({{Lang|mini=1|ja=瀬戸麻沙美}})}}\u003cref name=\"JP-VA_TWBaizhi\"\u003eTwitter: [https://twitter.com/WW_JP_Official/status/1781261457935765870 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = {{w|ko:성예원|Seong Ye-won ({{Lang|mini=1|ko=성예원}})}}\u003cref name=\"KR-VA_TWBaizhi\"\u003eTwitter: [https://twitter.com/WW_KR_Official/status/1781261469667197156 KR VA Announcement]\u003c/ref\u003e\n}}{{Quote|I am Baizhi, a researcher at the Huaxu Academy. Let me witness where this encounter will take us.|Baizhi\n}}\n{{Intro/Resonator|Baizhi|lang=zh=白芷}}\n\nShe is a researcher in Remnant Ecoacoustics at Huaxu Academy. Baizhi's once unfulfilled wish has now manifested as her loyal companion. The Remnant Creature You'tan is her source of healing powers, and a lifelong research focus.\n\n==Official Introduction==\n{{Quote|Baizhi, a researcher at Huaxu Academy, is known for her sharp intellect and precise methods.\n\nDespite appearing aloof, she is approachable to those who seek knowledge.\n\nHer insatiable thirst for understanding drives her to tirelessly study Remnant Energy.\n\nShe will stop at nothing until its mysteries are unraveled, even if it means dedicating her entire life to the pursuit.|[https://wutheringwaves.kurogames.com/en/main#resonators Her introduction on the Official Website.]\n}}\n\n==Combat Overview==\n{{Main|Baizhi/Combat}}\n===Ascension Material===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Baizhi|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Baizhi\n|zhs     = 白芷\n|zht     = 白芷\n|ja      = {{Rubi|白|ビャク|芷|シ}}\n|ko      = 설지\n|es      = Baizhi\n|fr      = Baizhi\n|de      = Baizhi\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n[[Category:Browse]]\n\n[[ru:Бай Чжи]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Material",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

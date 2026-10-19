@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:04Z",
+  "title": "Xiangyi",
+  "pageid": 9511,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Xiangyi.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          =\n|child            = Zhichun\n|childNote        = Daughter\n|relative         = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Xiangyi''' is an [[NPC]] in {{Location|Hongzhen}}. She can be found next to her daughter, [[Zhichun]].\n\n==Quest and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Xiangyi:''' Zhichun is still little. It's natural for her to be scared of strangers.\n:'''Xiangyi:''' But she's curious and loves to play, so she keeps wanting to go out...\n:'''Xiangyi:''' Well, that's just how kids are.\n:'''Xiangyi:''' Being with her is the best comfort I can offer.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xiangyi\n|zhs  = 缃仪\n|zht  = 緗儀\n|ja   = 緗儀（ショウギ）\n|ko   = 서윤\n|es   = Xiangyi\n|fr   = Xiangyi\n|de   = Xiangyi\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quest and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

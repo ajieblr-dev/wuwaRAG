@@ -375,6 +375,7 @@
       var qs = [];
       if (params.page) qs.push("page=" + encodeURIComponent(params.page));
       if (params.speaker) qs.push("speaker=" + encodeURIComponent(params.speaker));
+      if (params.q) qs.push("q=" + encodeURIComponent(params.q));
       if (params.offset != null) qs.push("offset=" + encodeURIComponent(params.offset));
       if (params.limit != null) qs.push("limit=" + encodeURIComponent(params.limit));
       var qStr = qs.length ? "?" + qs.join("&") : "";
@@ -454,7 +455,7 @@
           </button>
           <button class="btn-icon btn btn-ghost hide-sm" id="palette-btn" type="button" aria-label="Open command palette" title="Command palette (Ctrl/Cmd K)">${OD.icons.kbd}</button>
           <button class="btn-icon btn btn-ghost" id="theme-toggle" type="button" aria-label="Toggle theme">${OD.icons.moon}</button>
-          <a class="btn btn-secondary btn-sm hide-sm" href="${isAdmin ? "ask.html" : "admin.html"}">${isAdmin ? "Reader" : "Admin"}</a>
+          <a class="btn btn-secondary btn-sm hide-sm" href="${isAdmin ? "ask.html" : "admin-overview.html"}">${isAdmin ? "Reader" : "Admin"}</a>
         </div>
       </div>`;
     document.body.prepend(bar);
@@ -462,7 +463,7 @@
     const bn = document.createElement("nav");
     bn.className = "bottomnav";
     bn.setAttribute("aria-label", "Primary mobile");
-    bn.innerHTML = NAV.concat([{ key: "admin", href: isAdmin ? "admin-overview.html" : "admin.html", label: "Admin", icon: "admin" }])
+    bn.innerHTML = NAV.concat([{ key: "admin", href: "admin-overview.html", label: "Admin", icon: "admin" }])
       .map((n) => `<a href="${n.href}" ${active === n.key ? 'aria-current="page"' : ""}>${OD.icons[n.icon]}${n.label}</a>`).join("");
     document.body.appendChild(bn);
 

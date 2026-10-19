@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:02Z",
+  "title": "Polmes",
+  "pageid": 37712,
+  "wikitext": "{{NPC Infobox\n|image       = Polmes In-game.png\n|name        = Polmes\n|title       = Detective [[Namipon]]\n|type        = Quest\n|type2       = Open-World\n|location    = Shashou Cafe\n|species     = Remnant Creature\n|affiliation = Shashou Cafe \n\n\u003c!-- VAs --\u003e\n|voiceEN     = \n|voiceCN     = \n|voiceJP     = \n|voiceKR     = \n}}\n'''Polmes''' {{Lang|zh=波仔}} is an [[NPC]] in [[Chronorift Metropolis]] and can be found in [[Shashou Cafe]] after completing [[Meishin Passageway]]'s area exploration during the [[Stranger Things in Honami]] event.\n\n==Quests and Events==\n{{Quests and Events|Polmes}} \n\n==Gallery==\n===Game Assets===\n\u003cgallery\u003e\nPolmes Icon.png|[[Stranger Things in Honami]] Icon\n\u003c/gallery\u003e\n\n===Official Artwork===\n{{Files by Character Gallery|not1=Polmes Videos}}\n\n===Stickers===\n====Slice of Life====\n{{Slice of Life Images|Polmes}}\n\n===Videos===\n{{Files by Character Gallery|Polmes Videos}}\n\n==Other Languages==\n{{Other Languages\n|en   = Polmes\n|zhs  = 福尔波斯\n|zht  = 福爾波斯\n|ja   = ポンムズ\n|ko   = 셜록폰\n|fr   = Polmes\n|de   = Polmes\n|es   = Polmes\n|th   = Polmes\n}}\n\n==Change History==\n{{Change History|2.8}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Game Assets",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Official Artwork",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Stickers",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Slice of Life",
+      "number": "2.3.1",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "2.4",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "9"
+    }
+  ]
+}

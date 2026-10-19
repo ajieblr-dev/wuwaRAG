@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:45Z",
+  "title": "Biscotti",
+  "pageid": 38397,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Biscotti.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Biscotti''' is a male NPC found at the entrance of the Startorch Academy talking to a prep student, '''Xilan''', about [[Mortefi]] and [[Lucilla]].\n\n==Location==\n\n==Idle==\n{{Dialogue Start}}\n:;'''Biscotti''' Your reference letter is from... the New Federation...?\n:;'''Biscotti''' ...Wait, no. It's from ''Professor Mortefi''... at Huaxu Academy?\n\n==Dialogue==\n;(First time interaction)\n:'''Biscotti:''' Wait, your reference letter is from the New Federation...? Oh no, it's from Professor Mortefi of Huaxu Academy?\n:'''Biscotti:''' That name brings back memories. If President Lucilla knows he's now in Jinhzou, it would definitely hit her right in the feels.\n:'''Xilan:''' So Professor Mortefi is an old acquaintance of the President? \n:'''Biscotti:''' More precisely, they were colleagues who shared the same scientific ideals.\n:'''Biscotti:''' Back when Professor Mortefi was studying in the New Federation, President Lucilla was the chief editor of its top academic journal.\n:'''Xilan:''' Uh, right... so about my paperwork...\n:'''Biscotti:''' He grew disillusioned with the corruption in the New Federation's research community and planned to leave, so President Lucilla wrote a letter urging him to stay...\n:'''Biscotti:''' It's been so long since I last heard anything about him. Didn't expect to get news of him here...\n:'''Xilan:''' R-right... excuse me, about my paperwork...\n\n:'''Mortefi's Projection:''' Hey! How long do you plan on boring my student with those ancient histories?\n:'''Mortefi's Projection:''' We're not even that close. I can't stand listening to you blabber any longer.\n:'''Biscotti:''' M-Mr. Mortefi! My apologies! I'll take care of it right away!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Biscotti\n|zhs  = 比斯科迪\n|zht  = 比斯科迪\n|ja   = ビスコディ\n|ko   = 비스코디\n|fr   = Biscotti\n|de   = Biscotti\n|es   = Biscotti\n|th   = Biscotti\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

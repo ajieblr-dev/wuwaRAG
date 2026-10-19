@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:49Z",
+  "title": "Gyokuro",
+  "pageid": 40761,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Gyokuro.jpg\n|name             = Gyokuro\n|type             = Resonator\n|type2            = Quest\n|status           = Deceased\u003cbr\u003eDied from overuse of the [[Legacy Talismans|Suzu]].\u003cref\u003e{{Quest|Wishes in the Bell}} (Grand Architect: \"Just as you once witnessed, she met the fate all Mikos of Flaming Sakura share. She died burning her future to ash to pay for the present.\")\u003c/ref\u003e\u003cref\u003e[[Hiyuki/Backstory#Forte Examination Report|Hiyuki's Forte Examination Report]] (\"Investigation confirms that every Miko of Flaming Sakura has shared a singular cause of death: vanishing from the battlefield without a trace following excessive use of the Suzu.\")\u003c/ref\u003e\n|nation           = Ashinohara\n|affiliation      = Miko of Flaming Sakura\n|title            = Miko of Flaming Sakura\n|title2           = Lady Miko\n\n\u003c!-- Family --\u003e\n|sibling          = Hiyuki\n|siblingNote      = adopted younger sister\n|siblingRef       = \u003cref\u003e{{Quest|Wishes in the Bell}}\u003c/ref\u003e\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Gyokuro''' {{Lang|ja=玉露}} is a quest-exclusive [[NPC]] that first appears in [[Wishes in the Bell]]. She was the adoptive older sister of [[Hiyuki]] as well as the previous holder of the [[Legacy Talismans|Suzu]] until her death.\n\n==Quests and Events==\n{{Quests and Events}} \n\n==Mentions==\n{{Character Mentions}}\n\n==Gallery==\n{{Files by Character Gallery|not1=Gyokuro Videos}}\n\n===Videos===\n{{Files by Character Gallery|Gyokuro Videos}}\n\n==Trivia==\n===Etymology===\n* {{W|Gyokuro}} {{Lang|ja=玉露 (ぎょくろ)|lit=Jewel Dew/Jade Dew}} is a type of high-grade green tea from Japan that is grown in the shade.\n\n==Other Languages ==\n{{Other Languages\n|en   = Gyokuro\n|zhs  = 玉露\n|zht  = 玉露\n|ja   = 玉露（ぎょくろ）\n|ko   = 교쿠로\n|fr   = Gyokuro\n|de   = Gyokuro\n|es   = Gyokuro\n|th   = Gyokuro\n}}\n\n==Change History==\n{{Change History|3.3}}\n\n==References==\n{{Reflist}}\n[[zh:玉露]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "4.1",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "9"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:01Z",
+  "title": "Chuyi",
+  "pageid": 5893,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Chuyi.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Wenye Beach\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Chuyi''' is an NPC in {{Location|Wenye Beach}}.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Chuyi:''' Hello, anything I can help you with?\n:{{DIcon}} What do you do here?\n::'''Chuyi:''' This is a station of [[Huanglong]]'s inspection team in [[Dim Forest]]. We test and monitor the soil in the Forest.\n::'''Chuyi:''' Dim Forest suffers continuously from the toxin spores, which is why the soil means so much to the ecosystem here.\n::'''Chuyi:''' The earth breathes through the soil, so we are the pneumologists of the Forest.\n:{{DIcon}} About this dog...\n::'''Chuyi:''' Oh, he's my buddy. The name's Fifteenth.\n::'''Chuyi:''' I adopted him on the fifteenth of the first lunar month, hence the name. Just like me, because I was born on the first of the first lunar month.\n::'''Chuyi:''' Though he looks unfriendly, you need only to let him know before you pet him.\n::'''Shiwu:''' Woof! Woof, woof!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Chuyi\n|zhs  = 初一\n|zht  = 初一\n|ja   = 初一\n|ko   = 초하루\n|es   = Chuyi\n|fr   = Premier\n|de   = Chuyi\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

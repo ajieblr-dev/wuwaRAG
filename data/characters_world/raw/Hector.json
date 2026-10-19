@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:53Z",
+  "title": "Hector",
+  "pageid": 26186,
+  "wikitext": "{{Meta\n}}{{NPC Infobox\n|image            = NPC Hector.png\n|type             = \n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         = Joanne\n|relativeNote     = Aunt\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Hector''' is an NPC in [[Ragunna]], [[Rinascita]].\n\nDuring the daytime, he can be seen preparing to ship spices to [[Septimont]]. At night, he talks to his aunt, [[Joanne]] about his free time in the Septimont.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Hector:''' Checking the cargo... getting the paperwork ready... and I still need to send off those Acolytes later. Tsk, I should have asked the family for more help.\n:{{DIcon}} Are you getting ready to set sail?\n:'''Hector:''' Yes, we're shipping a large batch of spices to Septimont. Everyone's been super busy lately.\n:{{DIcon}} Septimont?\n:'''Hector:''' Haven't been there? The arena events there are amazing with all those Echo gladiators! I'll definitely sneak out to watch a few matches when we arrive.\n----\n;(At night)\n:'''Joanne:''' Hector, I'll grant you two days of free time in the Septimont.\n:'''Joanne:''' Return to Ragunna on time in two days and report to me at the bank.\n:'''Hector:''' Aunt Joanne... you're drilling this into my ears...\n:'''Joanne:''' That's not how you address me! Mr. Hector.\n:'''Hector:''' Yes, ma'am... Lady Joanne.\n:'''Joanne:''' Before we set sail, you swore to Imperator.\n:'''Hector:''' Hail Imperator. I, Hector, swear I'll never again bet on gladiator fights in the Septimont's underground casinos—\n:'''Hector:''' Or let me perish at sea, never to return home!\n:'''Joanne:''' If you're going to perish, fine. But don't drag down your colleagues or the cargo; they've done nothing wrong.\n:'''Joanne:''' You can watch matches, but if I find you at the betting tables again—\",\n:'''Hector:''' —you'll fire me on the spot, freeze all my accounts, and have me sent to Averardo Vault's underground worksite.\n:'''Joanne:''' I promised your mother I'd take care of you. Don't make her shed any more tears.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Hector\n|zhs  = 赫克托\n|zht  = 赫克托\n|ja   = ヘクター\n|ko   = 헥터\n|es   = Héctor\n|fr   = Hector\n|de   = Hector\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

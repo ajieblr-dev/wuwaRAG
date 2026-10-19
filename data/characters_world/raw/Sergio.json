@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:22Z",
+  "title": "Sergio",
+  "pageid": 27129,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Sergio.png\n|type             = Open-World\n|nation           = Ragunna\n|location         = Rinascita\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Sergio''' is an NPC that appears in [[Montelli Quarter]], [[Ragunna]].\n\nFrom 2:00 PM to 5:59 PM, he's talking with [[Lyubov]] and [[Sofia]]. Meanwhile, From 9:00 PM to 10:59 PM, he can be seen talking to [[Michele]].\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n;\u003cnowiki\u003e(6:00 AM to 1:59 PM)\u003c/nowiki\u003e\n:'''Sergio:''' Scandal in Serene Bay! Forbidden Lovers EXPOSED—A Fairytale or Total Disgrace?\n:'''Sergio:''' These Announcements Bishop Fenrico To Drop on Carnevale Will BLOW YOUR MIND—Learn How it Will Affect Your Wallet.\n:'''Sergio:''' I asked Michele to bring me some newspaper and what in the name of Imperator are these?\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;\u003cnowiki\u003e(2:00 PM to 5:59 PM)\u003c/nowiki\u003e\n:'''Lyubov:''' Excuse me, could you get me this clam! And this wind chime too.\n:'''Sergio:''' Alright, that'll be 220 Monnaie.\n:'''Lyubov:''' What? What's a Monnaie?\n:'''Sofia:''' You're mistaken, Mister!\n:'''Sofia:''' Monnaie is long outdated by now!\n:'''Sofia:''' Now we use Shell Credit for payments as the rest of Solaris does. Monnaie has become just a souvenir of Ragunna.\n:'''Sergio:''' Oh, yeah... you are right.\n:'''Sergio:''' It feels like just yesterday we were still using Monnaie... I'm getting old...\n:'''Sergio:''' Now I remember the time when Averardo Bank collected Monnaie to exchange new notes for us.\n:'''Sergio:''' Oh, right, that'll be 220 Shell Credits, young lady.\n----\n;\u003cnowiki\u003e(9:00 PM to 10:59 PM)\u003c/nowiki\u003e\n:'''Sergio:''' Showing up this late, the dish is nearly cold! This was saved especially for your grandmother.\n:'''Michele:'''Thank you, Uncle Sergio!\n:'''Sergio:''' Who's your Uncle?\n:'''Michele:'''What?\n:'''Sergio:''' Call me \"Sir\"!\n:'''Michele:'''Alright... Sir... Sergio.\n:'''Sergio:''' Hmph, that's more like it. Here, is a balm specially made for Septimont gladiators—it's top-notch! Take it back to Giovanni.\n:'''Sergio:''' Poor young lad... thrown his back out getting headbutted by a Tumbleyak...\n:'''Michele:'''I must insist on paying you!\n:'''Sergio:''' Quit your babbling! As if I'd take your money!\n:'''Sergio:''' Apollonia is waiting for your proposal...\n:'''Michele:''' I just got a promising new job. Once I make a name for myself, I'll—\n:'''Sergio:''' Hold it... Don't make my daughter wait forever, or there'll be consequences!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sergio\n|zhs  = 塞尔吉奥\n|zht  = 塞爾吉奧\n|ja   = セルジョ\n|ko   = 세르히오\n|es   = Sergio\n|fr   = Sergio\n|de   = Sergio\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

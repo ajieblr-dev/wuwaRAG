@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:55Z",
+  "title": "Holy Spire of Confluence",
+  "pageid": 31931,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Holy Spire of Confluence\n|image=Holy Spire of Confluence.png\n|world_map=Solaris-3\n|type=Area\n|nation=Rinascita\n|region=Avinoleum}}\n'''Holy Spire of Confluence''' is an area of [[Avinoleum]], [[Rinascita]].\n\n\n== Other Languages ==\n{{Other Languages\n|en   = Holy Spire of Confluence\n|zhs  = 圣言之间\n|zht  = 聖言之間\n|ja   = {{rubi|聖言|せいげん}}の間\n|ko   = 성언의 방\n|es   = Torre Sagrada de la Confluencia\n|fr   = Flèche de l'oracle\n|de   = Heilige Spitze der Eintracht\n}}\n\n== Change History ==\n{{Change History|2.2}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

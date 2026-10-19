@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:33Z",
+  "title": "Spacetrek Collective Research Institute",
+  "pageid": 39598,
+  "wikitext": "{{Location Infobox\n|name         = Spacetrek Collective Research Institute\n|image        = Spacetrek Collective Research Institute.png\n|type         = Point of Interest\n|type2        = Instance\n|icon         = Spacetrek Collective Research Institute Map Marker.png\n|nation       = Roya Frostlands\n|region       = Starward Riseway\n}}\n{{Quote|The Spacetrek Collective Research Institute is a borderless research facility, where scientists from around the world study the Exostrider and the Stridergate. It also serves as the R\u0026D center of the artificial sun, Helios. Standing at the highest point in Lahai-Roi, the Institute is built on an orbit track alongside the Starward Riseway, continuously monitoring the Exostrider's great sword. Over the years, countless researchers have devoted their lives and wisdom here, all in the hope that humanity's torch of exploration will forever burn bright.}}\n\nThe '''Spacetrek Collective Research Institute''' is a [[Point of Interest]] located in [[Starward Riseway]].\n\n==NPCs==\n\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=location}} \n\n==Other Languages==\n{{Other Languages\n|en  = Spacetrek Collective Research Institute\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|es  = \n|fr  = \n|de  = \n|th  = \n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==References==\n{{Reflist}} \n\n==Navigation==\n{{PoI Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:55Z",
+  "title": "Vault Underground",
+  "pageid": 27325,
+  "wikitext": "{{Location_Infobox\n|title  = Vault Underground\n|image  = \u003cgallery\u003e\nVault Underground.png|In-Game\nVault Underground Map.png|Map\n\u003c/gallery\u003e\n|map    = Solaris-3\n|type   = Region\n|nation = Rinascita\n}}\n\n{{Intro/Location|Vault Underground}} \nTucked beneath the Sea of Clouds lies a vast depository zone of the Averardo Vault. Each item moved to the Vault will be meticulously transported to its designated storage location, where it will be safeguarded with the utmost care and precision.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Echo Station\"\n|[[Echo Station]]\n|[[File:Echo Station.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Precious Metals and Artworks Depository\"\n|[[Precious Metals and Artworks Depository]]\n|[[File:Precious Metals and Artworks Depository.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Echo Depository\"\n|[[Echo Depository]]\n|[[File:Echo Depository.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Unknown Vault Area\"\n|[[Unknown Vault Area]]\n|[[File:Unknown Vault Area.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Abandoned Tower\"\n|[[Abandoned Tower]]\n|[[File:Abandoned Tower.png|180px]]\n|\n|}\n\n==Quests==\n{{Quest by Category List|Vault Underground Quests}}\n\n==Exploration Report==\n\n==='''Averardo Vault Employee Manual I'''===\n* Unlocked by reaching 50% exploration.\n\n{{Transclude|Averardo Vault Employee Manual I|Text|main=1}}\n\n==='''Averardo Vault Employee Manual II'''===\n* Unlocked by reaching 100% exploration.\n\n{{Transclude|Averardo Vault Employee Manual II|Text|main=1}}\n\n== Notable Features==\n===Resources===\n\n==Other Languages==\n{{Other Languages\n|en   = Vault Underground\n|zhs  = 下层金库\n|zht  = 下層金庫\n|ja   = 金庫下層\n|ko   = 금고 아래층\n|es   = Bóveda subterránea\n|fr   = Sous-sol de Chambre forte\n|de   = Untergeschoss des Averardo-Tresors\n|th   = \n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}\n[[zh:下层金库]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eAverardo Vault Employee Manual I\u003c/b\u003e",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eAverardo Vault Employee Manual II\u003c/b\u003e",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "10"
+    }
+  ]
+}

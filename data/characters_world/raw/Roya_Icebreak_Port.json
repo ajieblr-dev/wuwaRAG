@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:15Z",
+  "title": "Roya Icebreak Port",
+  "pageid": 40413,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Roya Icebreak Port\n|image     = Roya Icebreak Port.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Roya Frostlands\n|region    = Frostlands Transit Port\n}}\n{{Description|Located within the research base zone, the Icebreak Port is the only regular access point into the Roya Frostlands. Upon arrival, personnel and supplies may be transferred via the Starward Riseway to the underground haven of Lahai-Roi, or routed deeper into the frostlands through the inter-outpost roads.}}\n'''Roya Icebreak Port''' is an area of [[Frostlands Transit Port]], [[Roya Frostlands]]. \n\n==NPCs==\n{{NPCs by Location List|Roya Icebreak Port}}\n\n==Other Languages==\n{{Other Languages\n|en   = Roya Icebreak Port\n|zhs  = 罗伊不冻港\n|zht  = 羅伊不凍港\n|ja   = ロイ・フリーポート\n|ko   = 로야 부동항\n|fr   = Port libre de glace royan\n|de   = Eisfreier Roya-Hafen\n|es   = Puerto Deshelado Roya\n|th   = ท่าขนส่งโรญา\n|pt   = Porto de Quebra-Gelo de Roya\n}}\n\n==Change History==\n{{Change History|3.1}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

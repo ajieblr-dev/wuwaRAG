@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:15Z",
+  "title": "Yuzhou",
+  "pageid": 32815,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_dialogue= yes\n}}{{Stub}}{{NPC Infobox\n|image            = NPC Yuzhou.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = Pioneer Association\n|title            = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n'''Yuzhou''' is an NPC located in {{Location|Hongzhen}}.\n\n==Profile==\nYuzhou is the receptionist for the Mt. Firmament branch of the [[Pioneer Association]].\n\n==Quest and Events==\n{{Quests and Events}}\n\n==Dialogue==\n\n\n==Other Languages==\n{{Other Languages\n|en   = Yuzhou\n|zhs  = 予洲\n|zht  = 予洲\n|ja   = 予洲（ヨシュウ）\n|ko   = 예주\n|es   = Yuzhou\n|fr   = Yuzhou\n|de   = Yuzhou\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quest and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

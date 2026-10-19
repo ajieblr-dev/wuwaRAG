@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:26Z",
+  "title": "Shuohuan",
+  "pageid": 74677,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Shuohuan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Xuanfang Ministry of Development\n|affiliation      = Ministry of Development\n|affiliationNote  = Artisan\n|status           = \n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a NPC Artisan interested in Rover's [[Expedition Motorbike]] in [[Xuanfang Hold]], [[Mengzhou]] region. \n\n{{Dialogue Start}}\n==Idle==\n:'''Shuohuan:''' Hello there. Heard from the Foreign Affairs Bureau you've got one of those Spacetrek Collective expedition bikes?\n\n==Dialogue==\n:'''Shuohuan:''' Hello there. Heard from the Foreign Affairs Bureau you've got one of those Spacetrek Collective expedition bikes?\n\n:'''Shuohuan:''' Mind if I take a look at it? Please, just one glance.\n\n:{{DIcon}} (Show your motorbike.)\n\n:'''Shuohuan:''' The engineering on this is... very sophisticated. I've only ever seen something like this in the Pioneer Association's archives.\n\n:'''Shuohuan:''' Ah, I was involved in the production for our current generation of Cloud Rides. I heard the Spacetrek Collective had similar vehicles, so I got curious.\n\n:{{DIcon}} Current generation?\n\n:'''Shuohuan:''' Yes, Cloud Rides have been in service in Xuanfang for over a century. What you're using now is actually a newer model, improved over the years by Huaxu and the Ministry of Development.\n\n:'''Shuohuan:''' The look and structure incorporate popular design elements today. And the ride's a lot more comfortable too.\n\n:{{DIcon}} So it's been around for that long, huh?\n\n:'''Shuohuan:''' That's right. Hmm... the original prototype probably dates all the way back to when Xuanfang Hold was first built.\n\n:'''Shuohuan:''' Legend says the craftsman who invented it had the character {{Rubi|\"Yun\"|Cloud}} in their name.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Shuohuan\n|zhs  = 朔环\n|zht  = 朔環\n|ja   = 朔環\n|ko   = 삭환\n|fr   = Shuohuan\n|de   = Shuohuan\n|es   = Shuohuan\n|th   = Shuohuan\n|pt   = Shuohuan\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

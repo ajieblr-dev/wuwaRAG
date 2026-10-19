@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:35Z",
+  "title": "Anran",
+  "pageid": 74672,
+  "wikitext": "{{Stub|Remove if no further Dialogues after Quest}}\n{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xianling Village\n|affiliation      = Xuan Triad\n|affiliationNote  = \n|status           = \n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a quest-exclusive NPC that first appears with '''[[Wenxi]]''' in {{Quest|The Wind Before the Storm}}. \n__NOTOC__\n{{Dialogue Start}}\n==Idle==\n:'''Anran:''' Excuse me, any word about my husband? He left the village yesterday morning...\n:'''Wenxi:''' I'm sorry...\n:\u003csmall\u003e{{sic}} The idle dialogue is reversed\u003c/small\u003e \n\n==Dialogue==\n:'''Wenxi:''' Excuse me, any word about my husband? He left the village yesterday morning, but he still hasn't returned...\n\n:'''Anran:''' I'm sorry, we haven't seen him either...\n\n:'''Anran:''' But we'll let you know the moment there's news.\n\n:'''Wenxi:''' Oh, my darling... Please be safe...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Anran\n|zhs  = 安然\n|zht  = 安然\n|ja   = 安然\n|ko   = 안연\n|fr   = Anran\n|de   = Anran\n|es   = Anran\n|th   = Anran\n|pt   = Anran\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

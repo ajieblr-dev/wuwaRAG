@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:26Z",
+  "title": "Fianna",
+  "pageid": 38419,
+  "wikitext": "{{Stub|dialogue}}\n{{NPC Infobox\n|image            = NPC Fianna.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Starward Riseway\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Fianna''' is a female researcher at the [[Starward Riseway|Researcher Institute]] complaining to her colleague, '''Zhuqing''',  about the [[Heliodic Six]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Fianna:''' You mean the Heliodic Six? Hmph, just because they have unprecedented mathematical talents doesn't give them the right to look down on everyone.\n:'''Fianna:''' They're partners with the Institute, but when we visited, they completely ignored us! Didn't even meet our eyes. That's just arrogance!\n:'''Zhuqing:''' You're misunderstanding them. The Heliodic Six aren't arrogant. They're just so consumed by complex calculations that they have no time for everyday stuff, let alone social graces.\n:'''Zhuqing:''' You're new to Lahai-Roi, so it's understandable you don't know Royan customs yet. Here, take this, \"Roya Socio-Cultural History.\" It'll help.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fianna\n|zhs  = 菲娅玛\n|zht  = 菲婭瑪\n|ja   = フィアンマ\n|ko   = 피아나\n|fr   = Fianna\n|de   = Fianna\n|es   = Fianna\n|th   = Fianna\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

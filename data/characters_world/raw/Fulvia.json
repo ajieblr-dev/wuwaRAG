@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:39Z",
+  "title": "Fulvia",
+  "pageid": 35919,
+  "wikitext": "{{NPC Infobox\n|name             = Fulvia\n|title            = Solis Tavern\n|image            = NPC Fulvia.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Septimont\n|group            = \n|affiliation      = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Fulvia''' is a shop NPC in {{Location|Capitoline Hill|nocat=1}}. She is the owner of [[Solis Tavern]]. \n\n==Shop==\n{{Shop/Wrapper|\n{{Shop|Oaknut Honeycake|4,500|20|total=1}}\n{{Shop|Saltimbocca|9,000|20|total=1}}\n{{Shop|Frosted Cream Blizzard|9,000|20|total=1}}\n{{Shop|Bamboo Iris Crisps|9,000|20|total=1}}\n{{Shop|Solis|13,500|20|total=1}}\n{{Shop|Glory Roast Platter|18,000|20|total=1}}\n{{Shop|Oaknut Honeycake Recipe|5,000|1|total=1}}\n{{Shop|Saltimbocca Recipe|10,000|1|total=1}}\n{{Shop|Frosted Cream Blizzard Recipe|10,000|1|total=1}}\n{{Shop|Bamboo Iris Crisps Recipe|10,000|1|total=1}}\n{{Shop|Seasalt Popcorn Recipe|15,000|1|total=1}}\n{{Shop|Marinated Olives Recipe|15,000|1|total=1}}\n{{Shop|Blooming Bread Recipe|15,000|1|total=1}}\n{{Shop|Laurel Shrimp in Nimbus Reduction Recipe|15,000|1|total=1}}\n|total=1,260,000+|vendor=Fulvia|type=Restaurant}}\n\n==Quests and Events==\n{{Quests and Events|Fulvia}} \n\n== Dialogue ==\n{{Dialogue Start}}\n;'''Fulvia''' Hero Gladiators! Arena stars! Feast upon this \"Honor\" and meet us at the summit!\n\n;{{DIcon}} I want to buy some food\n;(Open store)\n::'''Fulvia''': Ah, the arena's champion graces us today. What can I get you?\n;(Purchase an item)\n::'''Fulvia''': What an honor! Solis shines brighter with your trust!\n:{{DIcon}} Chat\n::'''Fulvia''': You can't come to Septimont and not visit Solis! Here, you're free to enjoy it all.\n::'''Fulvia''': Grab a Glory Set, sip some fresh wheat juice, or dance along with the agon broadcast!\n::'''Fulvia''': You can even challenge diners nearby to a friendly duel! Just... not in here, alright? Take it outside if you must clash steel.\n:{{DIcon|Exit}}\n\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fulvia\n|zhs  = 富尔维娅\n|zht  = 富爾維婭\n|ja   = フルウィア\n|ko   = 풀비아\n|es   = Fulvia\n|fr   = Fulvia\n|de   = Fulvia\n}}\n\n==Change History==\n{{Change History|2.4}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

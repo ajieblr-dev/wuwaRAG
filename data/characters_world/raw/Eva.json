@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:21Z",
+  "title": "Eva",
+  "pageid": 42296,
+  "wikitext": "{{NPC Infobox\n|image            = \n|title            = \n|type             = Quest\n|nation           = Lahai-Roi\n|location         = Roya Frostlands\n|affiliation      = \n|affiliation2     = Startorch Academy\n|affiliation3     = \n}}\n'''{{PAGENAME}}''' is a quest-exclusive female expeditioner [[NPC]] who appears after the completion of {{Quest|The Star That Voyages Far}}. \n\nShe can be found inside the [[Everfrost Cavern]], near the [[Exostrider Observation Station]] at 06\u003cnowiki\u003e:\u003c/nowiki\u003e00-18\u003cnowiki\u003e:\u003c/nowiki\u003e00, talking to others.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue== \n{{Dialogue Start}}\n:'''Eva:''' Is that the [[SkyArk Space Station]] up ahead?\n:'''Bren:''' Strange. Fallen objects like this would usually be swarmed by people trying to grab a piece. But not this one…\n:'''Dimitri:''' I heard that the \"[[Etheric Sea|droplets]]\" are tricky to transport. The Institute's still figuring it out.\n:'''Dimitri:''' Only a handful of people are allowed to investigate the interior right now. Probably to prevent damage.\n:'''Bren:''' So mysterious... I really wanna see it myself.\n:'''Eva:''' Even if we could, we probably wouldn’t understand much.\n:'''Eva:''' I heard the [[Court of Savantae|written language]] used in that space station is completely different from Solaris's modern common script.\n:'''Bren:''' Don't tell me you heard that from some \"insider\" again. I swear if you're messing with us—\n:'''Eva:''' Hey, trust me! It's one hundred percent real!\n:'''Eva:''' A friend from [[Huanglong]] told me similar characters have been found somewhere in [[Mengzhou]]...\n{{Dialogue End}} \n\n==Other Languages==\n{{Other Languages\n|en   = Eva\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

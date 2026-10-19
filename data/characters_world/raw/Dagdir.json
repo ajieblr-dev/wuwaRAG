@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:07Z",
+  "title": "Dagdir",
+  "pageid": 62897,
+  "wikitext": "{{Stub|dialogue}}\n{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Startorch Academy\n|title            = \n}}\n'''{{PAGENAME}}''' is an instructor who can be found teaching a class of Rabelle College students at the [[Synth Armament Crafting Bay]] in Startorch Academy.\n\n==Dialogue==\n{{Dialogue Start}}\n:;'''Dagdir''' Treat the Mechascout as an extension of your own body and senses...\n:;'''Dagdir''' Remember that feeling... Reach the pinnacle of human–machine unity...\n:At the Division of Tactical Development's proving grounds, an instructor is giving a public lecture......\n:{{DIcon|Option}} (Listen.)\n::'''Dagdir:''' I'm the instructor for this open \"Mechascout Operations Practice\" class. I'm also a grad from the Rabelle College, Class of '04. I'm your senior, but there's no need for formality. You can just call me \"Old Dag.\"\n::'''Dagdir:''' Since this is a practical class, just talking theory clearly won't cut it for you all... So, who wants to be the first to try hands-on operation?\n::'''Hiroyuki:''' Me!!\n::'''Dagdir:''' Huh? Speak up if you wanna pilot a Mechascout! AGAIN!!!\n::'''Hiroyuki:''' ME!!!!!!!!!!!!\n::'''Dagdir:''' Good! That's the spirit! Now, link your Stargram to the port on top of the Mechascout's head. That'll give you temporary control.\n::'''Hiroyuki:''' Sir, why did it just... trigger an orange alert?\n::'''Dagdir:''' The light strip on the Mechascout's face shows real-time Void Storm density and the operator's own frequency stability.\n::'''Dagdir:''' For a freshman operating a Mechascout for the first time, getting worked up is completely normal. Take a deep breath. Calm yourself down.\n::'''Dagdir:''' Once the link is established, the Mechascout will respond and move in line with our every thought.\n::'''Dagdir:''' Only by treating the Mechascout as an extension of your own body and senses will you reach the pinnacle of human–machine unity...\n::'''Dagdir:''' Remember that feeling. If one day you make it through all the trials and finally take command of the Exostrider… this experience will be a huge help.\n:{{DIcon|Exit}} (Leave.)\n----\n;After {{Quest|Starlights from Yesterdays}}\n:;'''Dagdir''' Chin up! Chest out! Where's your fire?!\n:;'''Dagdir''' You're a Synchronist, aren't you? What's with this sniveling?\n:;'''Hiroyuki''' B-but what's going to happen to Rabelle College...\n:In the Tactical Proving Grounds, an instructor is giving a dejected student a brutal dressing-down.\n:{{DIcon|Option}} (Listen)\n::'''Dagdir:''' Answer me, Hiroyuki! Who are you? What are you doing here? Why did you come to this place?\n::'''Hiroyuki:''' I... I'm Hiroyuki! A first-year at Rabelle College! I came here to learn! To gain skill! To make my ideals real!\n::'''Dagdir:''' Good energy! Wrong answer!\n::'''Dagdir:''' Burn this into your skull! You are a SYNCHRONIST of Rabelle College, Startorch Academy!\n::'''Dagdir:''' No matter where you go, no matter what happens! Even if the Exostrider leaves, even if the Synchronist program changes. YOU. ARE. STILL. A. SYNCRHONIST!\n::'''Hiroyuki:''' But Dag... wasn't the Synchronist Development Program created so we could pilot the Exostrider...?\n::'''Dagdir:''' Answer me this, Hiroyuki. Have you ever stopped to ask why both the Exostrider and the Mechascouts are humanoid?\n::'''Hiroyuki:''' Because... frequency control is easier that way? Let's us adapt to combat more naturally?\n::'''Dagdir:''' Wrong! With a Synchronist's abilities, you really think you couldn't pilot a quadruped robot? Or a dreadnought gun?\n::'''Dagdir:''' The Exostrider is humanoid because it carries the human spirit! Its creator meant for it to stand. On this earth. As we do. Forever.\n::'''Dagdir:''' The moment you get used to sitting behind heavy artillery, pouring fire from a safe distance, you stop being a person. You become a weapon. And a weapon doesn't search for a way forward.\n::'''Dagdir:''' The Exostrider's limbs. Its armament. Each one is a symbol of humankind. An extension of the human spirit!\n::'''Dagdir:''' So when you inherit that spirit as a Synchronist, what difference does it make whether the Exostrider is here or not?!\n{{Dialogue End}}\n\n==See Also==\n* [[Fassdorf]] regarding Mechascout Protocol\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dagdir\n|zhs  = 达格达\n|zht  = 達格達\n|ja   = ダグダ\n|ko   = 다그다\n|fr   = Dagdir\n|de   = Dagdir\n|es   = Dagdir\n|th   = Dagdir\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

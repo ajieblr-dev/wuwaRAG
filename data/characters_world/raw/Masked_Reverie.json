@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:34Z",
+  "title": "Masked Reverie",
+  "pageid": 26397,
+  "wikitext": "{{Location Infobox\n|image        = Masked Reverie.png\n|type         = Point of Interest\n|type2        = Weapon Shop\n|region       = Rinascita\n|area         = Ragunna\n|description  = Remember, darling, that costumes and masks are mere florid facades. Beneath their elegance and beauty lie not refined ladies and gentlemen, but seductive and deadly perils.\n}}\n'''Masked Reverie''' is a weapon shop owned by [[Nyarla]].\n\n==Shop==\n{{Vendor|Nyarla}}\n\n==Other Languages==\n{{Other Languages\n|en   = Masked Reverie\n|zhs  = 戏服与面具行「梦中人」\n|zht  = 戲服與面具行「夢中人」\n|ja   = コスチューム＆仮面専門店「マスクド・レヴェリー」\n|ko   = 코스튬과 가면의 세상 「마스체라 미라지」\n|es   = Ensoñación Enmascarada\n|fr   = Rêve Masqué\n|de   = Maskenreverie\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{PoI Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

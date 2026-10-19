@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:53Z",
+  "title": "Uncle Dong",
+  "pageid": 4419,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Uncle Dong.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Uncle Dong''' is an NPC in {{Location|Jinzhou}}.\n\n==Location== \n{{Map Embed|Jinzhou|96;92|nogroup=1}}\n\n==Quests and Events==\n{{Quests and Events|Uncle Dong}}\n\n==Idle Quotes==\n:{{DIcon}} That was quite a show back in the day, wasn't it?\n:{{DIcon}} I just don't believe that [[Qinghe]]'s new play can actually impress me.\n\n==Dialogue==\n{{Dialogue Start}}\n;(Day)\n:'''Uncle Dong:''' You guys just don't know what makes a good play!\n:'''Uncle Dong:''' Back in my day, those actors were real gluttons for hard work. And that makes them great performers.\n----\n;(Night)\n:'''Uncle Dong:''' Hero Play it's about the story of responsibility, honor, loss and gain.\n:'''Uncle Dong:''' Honor and responsibility can easily be confused while burdens may as well bring applause.\n:'''Uncle Dong:''' Actors should be able to distinguish the difference, or they fail to play as a hero.\n:'''Uncle Dong:''' The Hero Play isn't just for us old folks, it's for the kids too. How many kids started dreaming of becoming heroes after watching Hero Play?\n:'''Uncle Dong:''' So, the performers will do their job while we should devote all our heart to the watching.\n:'''Uncle Dong:''' After all, life's a stage, and all the men and women are mere players...\n{{Dialogue End}}\n\n\n==Event Dialogue==\n===By Moon's Grace===\n{{Dialogue Start}}\n;(First interaction)\n:'''Uncle Dong''': ...Let's see, we've got 21 fireworks and the full moon on the 15th. Together, that makes 36! Six times six! Such a lucky number!\n:'''Uncle Dong''': A good omen for a lucky life!\n:{{DIcon}} ... I don't understand a word you're saying.\n:'''Uncle Dong''': Hehe, it's numerology. It's a bit of a mystery, so don't worry about it.\n:'''Uncle Dong''': How about you draw a fortune stick, Rover? These are Sentinel Fortune Sticks, each one corresponding to a specific Sentinel prophecy.\n:'''Uncle Dong''': A good draw will bring you luck and fortune.\n:{{DIcon}} What if I get a bad one?\n:'''Uncle Dong''': Just laugh it off! It's only a divination, no big deal.\n:'''Uncle Dong''': Besides, with the Sentinel's blessings on this special day, how could you possibly get a bad draw?\n:{{DIcon}} ... Don't tell me they're all good draws.\n:'''Uncle Dong''': Well, well, if you say it out loud, the luck might not work.\n----\n:'''Uncle Dong:''' Draw a fortune stick for luck and blessings! See into the future, see for yourself!\n:{{DIcon|Reward}} Fortune Stick\n::'''Uncle Dong:''' {{Rover}}, come and have your daily fortune told. I wonder who your destined Sentinel is today.\n::{{DIcon}} Draw Sentinel Fortune Sticks.\n::;(Horn)\n::::'''Uncle Dong:''' The Horn. [[Jue|This Sentinel]]'s statement is: \"The dragon has emerged, bestowing wisdom and benevolence far and wide.\" This is a good omen symbolizing new beginnings with the return of spring.\n::::'''Uncle Dong:''' Vigorous, prosperous, harmonious, and righteous. May the Sentinel's blessing be with you\n::::'''Uncle Dong:''' {{Rover}}, I wish you a beautiful day. (Buff gained: Reduce the team's [[STA]] consumption by 15% until 4am)\n::;(Neck)\n::::'''Uncle Dong:''' The Neck. This Sentinel's statement is: \"The dragon lies hidden in the deep, biding its time.\" It implies that you should conserve your strength and avoid direct confrontations. This could be a good omen depending on your circumstances.\n::::'''Uncle Dong:''' Vigorous, prosperous, harmonious, and righteous. May the Sentinel's blessing be with you\n::::'''Uncle Dong:''' {{Rover}}, I wish you a beautiful day. (Buff gained: Increase the team's [[ATK]] by 12% until 4am)\n::;(Root)\n::::'''Uncle Dong:''' The Root. This Sentinel's statement is: \"The dragon soars high in the sky, heralding the arrival of the great and eminent.\" It implies that you have great prospects and will be helped by someone important to you. This is a good omen.\n::::'''Uncle Dong:''' Vigorous, prosperous, harmonious, and righteous. May the Sentinel's blessing be with you\n::::'''Uncle Dong:''' {{Rover}}, I wish you a beautiful day. (Buff gained: Increase the team's [[Energy Regen]] by 15% until 4am)\n::;(Room)\n::::'''Uncle Dong:''' The Room. This Sentinel's statement is: \"One must stay diligent and vigilent throughout the day.\" It implies that if you constantly strive to be better, everything will turn out well for you. This is a good omen.\n::::'''Uncle Dong:''' Vigorous, prosperous, harmonious, and righteous. May the Sentinel's blessing be with you\n::::'''Uncle Dong:''' {{Rover}}, I wish you a beautiful day. (Buff gained: Increase the team's [[Crit. Rate]] by 8% until 4am)\n::;(Heart)\n::::'''Uncle Dong:''' The Heart. [[Hsin|This Sentinel]]'s statement is: \"Soar to the sky or dive into the abyss, a dragon must advance based on the situation.\" It implies that you can decide whether to advance or retreat based on the situation. This is a good omen.\n::::'''Uncle Dong:''' Vigorous, prosperous, harmonious, and righteous. May the Sentinel's blessing be with you\n::::'''Uncle Dong:''' {{Rover}}, I wish you a beautiful day. (Buff gained: Increase the team's [[Crit. DMG]] by 16% until 4am)\n::;(Tail)\n::::'''Uncle Dong:''' The Tail. This Sentinel's statement is: \"The dragon that soars too high in the sky cannot stay there for long.\" It implies that there is a beginning and an end to everything, and the natural order of the world must be followed. This is a good omen.\n::::'''Uncle Dong:''' Vigorous, prosperous, harmonious, and righteous. May the Sentinel's blessing be with you\n::::'''Uncle Dong:''' {{Rover}}, I wish you a beautiful day. (Buff gained: Reduce the Cooldown of [[Grapple]] by 25% until 4am)\n::;(Winnowing Basket)\n::::'''Uncle Dong:''' The Winnowing Basket. This Sentinel's statement is: \"Dragons fill the sky, all virtuous and competent.\" It implies that these are times of peace and harmony for all. This is an extremely good omen.\n::::'''Uncle Dong:''' Vigorous, prosperous, harmonious, and righteous. May the Sentinel's blessing be with you.\n::::'''Uncle Dong:''' {{Rover}}, I wish you a beautiful day. (Buff gained: Increase the [[Echo]] drop rate by 20% until 4am)\n:;(Talk to Uncle Dong again after drawing a fortune stick)\n:::'''Uncle Dong:''' You've already had your fortune told today. Please come again tomorrow.\n:{{DIcon}} Chat\n::'''Uncle Dong:''' I got into divination from watching those plays about our heroes.\n::'''Uncle Dong:''' You know, they always start as nobodies until they meet a divination master who sets them on the right path.\n::'''Uncle Dong:''' An opportunity, isn't it? That's why I decided to learn divination myself.\n::'''Uncle Dong:''' I thought I was getting pretty good, so I tried using divination to find my lost glasses.\n::'''Uncle Dong:''' First try said they were under the bed. The second try, on the rooftop. The third try, in my pocket.\n::{{DIcon}} So, where were they exactly?\n::'''Uncle Dong:''' Well, I couldn't find them anywhere, so I just bought a new pair.\n::'''Uncle Dong:''' That's when I realized divination isn't as magical as in those hero plays.\n::'''Uncle Dong:''' It's mostly for fun. No need to take it too seriously. But hey, it's not bad to believe in something... Maybe I just need a bit more practice.\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Other Languages==\n{{Other Languages\n|en   = Uncle Dong\n|zhs  = 董叔\n|zht  = 董叔\n|ja   = 董（トウ）\n|ko   = 동현\n|es   = Señor Dong\n|fr   = Oncle Dong\n|de   = Onkel Dong\n}}\n\n==Change History==\n{{Change History|1.0}}\n[[Category:Browse]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Event Dialogue",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "By Moon's Grace",
+      "number": "5.1",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "9"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:14Z",
+  "title": "Yuanzhi",
+  "pageid": 9198,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Yuanzhi.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n{{Lang|Yuanzhi|远知}} is an NPC located in {{Location|Hongzhen}}.\n\n==Location==\nYuanzhi can be found on the staircase to the right of the [[Synthesizer]].\n\n==Profile==\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Yuanzhi:''' Excuse me, but did you just get back from the mountain? Did you see Xunwei and Lili?\n:'''Yuanzhi:''' They are both researchers from Huaxu Academy, wearing uniforms, and are about my age.\n:{{DIcon}} Yes.\n::'''Yuanzhi:''' I see, so they did go into the mountain for research.\n:{{DIcon}} Nope.\n::'''Yuanzhi:''' It's ok. I'm guessing they're still in the mountain doing their research.\n:{{DIcon}} Maybe, but I can't recall for sure.\n::'''Yuanzhi:''' It's ok. I'm guessing they're still in the mountain doing their research.\n:'''Yuanzhi:''' I'd really like to see Xunwai and Lili's work routine. I think I can learn a lot even just by watching them work.\n:{{DIcon}} But you're from Hongzhen, so how did you know them?\n:'''Yuanzhi:''' There was a blizzard a few days ago. They and Wei took shelter in my house. We chatted and got to know each other.\n:'''Yuanzhi:''' From then on, they come to see me whenever they're free and share all kinds of interesting things.\n:'''Yuanzhi:''' Like why Scarefrost Deer have heart-shaped fur and how Airsailers feed themselves.\n:'''Yuanzhi:''' I never thought I could see the world through such a perspective. Things I thought couldn't be any more ordinary turned out to be so interesting and... valuable.\n:'''Yuanzhi:''' Maybe I'm daydreaming here, but I thought perhaps I could become a Huaxu researcher, too, like Xunwei, and Wei\n:'''Yuanzhi:''' At least I'm working toward that goal.\n:{{DIcon}} Being a researcher takes a lot of effort.\n::'''Yuanzhi:''' Lili told me that, too, but I'm determined.\n::'''Yuanzhi:''' I think there are very few things in this world that are easy... If they all take an effort anyway, might as well do what you like.\n:{{DIcon}} That's a nice aspiration, but how do you plan to achieve it?\n:{{DIcon}} Nice aspiration. Good luck.\n:'''Yuanzhi:''' I plan to head to Jinzhou to study.\n:'''Yuanzhi:''' I must take my first step. More doing, less talking. That's what I learned from Xunwei.\n:'''Yuanzhi:''' But before I do that, I want to say goodbye to Yi'an.\n:'''Yuanzhi:''' Yi'an is my best friend. We grew up together. I don't want him to be troubled by my decision.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yuanzhi\n|zhs  = 远知\n|zht  = 遠知\n|ja   = 遠知（エンチ）\n|ko   = 원지\n|es   = Yuanzhi\n|fr   = Yuanzhi\n|de   = Yuanzhi\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

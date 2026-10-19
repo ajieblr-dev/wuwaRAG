@@ -1,0 +1,100 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:42Z",
+  "title": "Tethys Hub",
+  "pageid": 23219,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Tethys Hub\n|image=Tethys Hub.png\n|world_map=Solaris-3\n|type = Area\n|nation=The Black Shores\n|region=Black Shores Archipelago\n}}\n'''Tethys Hub''' is an area of [[Black Shores Archipelago]], [[The Black Shores]]. An archipelago shrouded in the Stormy Sea of Solaris. Formed from Tacetites, these isles constantly emanate Remnant Energy, casting an eerie \"mist\" that envelopes the region. This mist distorts human perception and jams all forms of communication, making the archipelago inaccessible to most. Only those recognized or invited by the Black Shores can navigate their way to this mysterious place.\n\n==Points of Interest==\n===Communication Interference===\nThe frequencies emitted by the Tacetites disrupt standard communication signals. Communication with the outside world is only possible via the Black Shores' Beacon relay system.\n\n===Veiled Rock===\nAmidst the lingering mist and blake blooms, this is where newcomers first set foot upon their arrival.\n\n===Hall of Foreign Affairs===\nThe grand hall of the Black Shores where foreign envoys are received. It also functions as the administrative hub that manages the region's affairs.\n\n===[[Greenhouse]]===\nThe glass conservatory perched at the highest point of the Black Shores. An impressive collection of plant specimens from across the world thrives within its walls. Every newcomer, Bloom Bearer or Consultant, is invited to contribute a seed from their homeland. At the heart of this verdant sanctuary, a unique modulation device sits encircled by flowers representing diverse civilizations. Each plant in the Greenhouse speaks the unspoken hopes of its sower. Some of these seeds come from lands erased by the Lament, standing as the last living memory of places that no longer exist.\n\n===Money Tree===\nAn unremarkable tree with a sign that reads \"Money Tree.\" Rumor has it that watering it precisely at eight past eight in the morning will grant you extra funds for your ventures.\u003cref\u003eArticle: [[Wutherium Geographic: Lands and Waters — The Black Shores Vol. 1]]\u003c/ref\u003e\n\n==Resources==\n*{{Item|Azure Lizard}}\n*{{Item|Blue Feather Butterfly}}\n*{{Item|Lotus Seeds}}\n*{{Item|Perilla}}\n\n==NPCs==\n{{NPCs by Location List|Tethys Hub}}\n\n==Gallery==\n==Other Languages==\n{{Other Languages\n|en   = Tethys Hub\n|zhs  = 泰缇斯枢纽\n|zht  = 泰緹斯樞紐\n|ja   = テティス{{Rubi|中枢部|ちゅうすうぶ}}\n|ko   = 테티스 중추\n|es   = Centro de Tetis\n|fr   = Centre de Tethys\n|de   = Tethys Hub\n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==References==\n\u003creferences /\u003e\n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Points of Interest",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Communication Interference",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Veiled Rock",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Hall of Foreign Affairs",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Greenhouse",
+      "number": "1.4",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Money Tree",
+      "number": "1.5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resources",
+      "number": "2",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "3",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "13"
+    }
+  ]
+}

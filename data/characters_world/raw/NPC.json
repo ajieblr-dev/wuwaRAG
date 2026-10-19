@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:42Z",
+  "title": "NPC",
+  "pageid": 2936,
+  "wikitext": "{{stub}}\n{{Terminology Infobox\n|image        = \n|type         = Characters\n}}\n'''Non-Player Characters''' ('''NPCs''') are all [[character]]s that cannot be controlled by the player. This includes characters that have only been mentioned, as well as characters that may become playable in the future.\n\nThere are a total of '''{{Category Total|NPCs|uses=Template:NPC Infobox}}''' NPCs.\n\n==NPCs by Nation/Region==\n===Huanglong===\n{{NPCs by Category List\n|Huanglong NPCs\n|header = [[Huanglong]] NPCs\n}}\n\n===The Black Shores===\n{{NPCs by Category List\n|The Black Shores NPCs\n|header = [[Black Shores]] NPCs\n}}\n\n===Rinascita===\n{{NPCs by Category List\n|Rinascita NPCs\n|header = [[Rinascita]] NPCs\n}}\n\n===Lahai-Roi===\n{{NPCs by Category List\n|Lahai-Roi NPCs\n|header = [[Lahai-Roi]] NPCs\n}}\n\n==NPCs by Type==\n===Open-World===\n{{NPCs by Category List\n|Open-World NPCs\n|header = Open-World NPCs\n}}\n===Quest-Exclusive===\n{{NPCs by Category List\n|Quest-Exclusive NPCs\n|header = [[Quest]]-Exclusive NPCs\n}}\n===Event-Exclusive===\n{{NPCs by Category List\n|Event-Exclusive NPCs\n|header = [[Event]]-Exclusive NPCs\n}}\n\n==Other Languages==\n{{Other Languages\n|en   = NPC\n|zhs  = 对话人NPC\n|zht  = 對話人NPC\n|ja   = 話者NPC\n|ko   = 대화인 NPC\n|es   = PNJ\n|fr   = PNJ\n|de   = NPC\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n[[Category:NPCs| ]]\n[[zh:NPC]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs by Nation/Region",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Huanglong",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "The Black Shores",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Rinascita",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Lahai-Roi",
+      "number": "1.4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs by Type",
+      "number": "2",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Open-World",
+      "number": "2.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Quest-Exclusive",
+      "number": "2.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event-Exclusive",
+      "number": "2.3",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "11"
+    }
+  ]
+}

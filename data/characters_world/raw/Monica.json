@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:39Z",
+  "title": "Monica",
+  "pageid": 22069,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = Monica.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Black Shores Archipelago\n|group            = \n|affiliation      = Black Shores\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Monica''' is an NPC and the Chief Administrator among the Gardeners of the [[Black Shores]].\n==Quests and Events==\n{{Quests and Events|Monica}}\n==Dialogue==\n{{Dialogue Start}}\n;(After completing [[To the Shore's End]])\n:'''Monica:''' {{Rover}}, hello again! Thank you so much for your help.\n:{{DIcon}} Just doing my duty as a Bloom Bearer.\n:{{DIcon}} All for the Black Shores.\n:'''Monica:''' I promised to give you a proper welcome as our new member after this crisis.\n:'''Monica:''' But I've still got a lot of follow-up tasks. Sorry about that.\n:{{DIcon}} That's very kind of you, Monica.\n:{{DIcon}} We can do it next time.\n:You notice Monica frowning, clearly worried about something.\n:'''Monica:''' Is something bothering you?\n:'''Monica:''' Ha, I guess it's all over my face, isn't it? It's a bit tricky, actually.\n:'''Monica:''' The issue with Tethys is resolved, so the corrupted data in Black Shores should have been cleared as well.\n:'''Monica:''' But the infected members aren't showing any signs of recovery.\n:'''Monica:''' In other words, the source of the infection is gone, but their condition isn't improving.\n:{{DIcon}} Sounds like phantom pain.\n:{{DIcon}} Sounds like a cognitive issue.\n:'''Monica:''' The medical team thinks so, too.\n:'''Monica:''' The [[Shorekeeper]]'s been helping with their treatment. I just hope they'll get better soon.\n:{{DIcon}} They will. Don't worry.\n:{{DIcon}} Let me know if I can help.\n:'''Monica:''' Thank you, {{Rover}}.\n{{Dialogue End}}\n==Other Languages==\n{{Other Languages\n|en   = Monica\n|zhs  = 莫妮卡\n|zht  = 莫妮卡\n|ja   = モニカ\n|ko   = 모니카\n|es   = Monica\n|fr   = Monica\n|de   = Monica\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

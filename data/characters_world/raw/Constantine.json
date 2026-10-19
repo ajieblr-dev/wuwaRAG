@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:04Z",
+  "title": "Constantine",
+  "pageid": 22093,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = Constantine.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Modulation Hall\n|group            = \n|affiliation      = Black Shores\n|title            = \n}}\n'''Constantine''' is an NPC in the {{Location|Modulation Hall}}.\n==Quests and Events==\n{{Quests and Events|Constantine}}\n==Dialogue==\n{{Dialogue Start}}\n;(During the quest [[Advance toward the Future from Today]])\n:'''Constantine:''' If we keep scanning Tethys' memory, we can pinpoint the Shorekeeper's exact location.\n:'''Constantine:''' We won't... ever give up on anyone.\n:'''[[Jiuri]]:''' Her physical form may be lost in the Matrix, but she is still in there.\n:'''Jiuri:''' Because her entire frequency spectrum is still somewhere in Tethys\n:{{DIcon}}: The law of conversation?\n:'''Constantine:''' Yes! Hmm... so you're familiar with this concept, it's quite significant. \n:'''Constantine:''' If we can recover her frequencies, we can use Tethys to bring her back.\n:'''Jiuri:''' It'll be like finding a neelde in a haystack...\n:'''Constantine:''' She believed in {{Rover}}. So, please trust us as well!\n----\n;(After completion of [[Beyond the Shore's End]])\n:'''Constantine:''' Reporting detection result: The operational logic of Stellar Matrix \"Hearth ✘ 3\" has been irreversibly corrupted by abnormal frequencies.\n:'''[[Morisha]]:''' Close monitoring of nearby Matriced is required. Report the Matrices closest to Hearth ✘ 3.\n:'''Constantine:''' Understood. After transferring its orbit, Hearth ✘ 3 exchanged codes with Heluo RU, the closest Matrix.\n:'''Constantine:''' Request access to the mechanical arm for capturing and pulling Hearth ✘ 3.\n:'''Morisha:''' Copy that. Calling Error Cell. Prepare the isolation room and activate the Stellar Matrix analyzer.\n:'''Morisha:''' The Probe is recommended to extract the exception code. \n{{Dialogue End}}\n==Other Languages==\n{{Other Languages\n|en   = Constantine\n|zhs  = 康斯坦丁\n|zht  = 康斯坦丁\n|ja   = コンスタンティン\n|ko   = 콘스탄틴\n|es   = Constantine\n|fr   = Constantin\n|de   = Constantine\n}}\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

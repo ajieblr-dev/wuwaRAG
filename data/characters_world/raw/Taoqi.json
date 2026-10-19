@@ -1,0 +1,100 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:43Z",
+  "title": "Taoqi",
+  "pageid": 578,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}}\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 4\n|class            = Natural\n|weapon           = Broadblade\n|role             = Support and Healer;Resonance Liberation Damage;Resonance Skill DMG Amplification\n|attribute        = Havoc\n|releaseDate      = 2024-05-23 \n\n\u003c!-- Info --\u003e\n|name             = Taoqi\n|realname         = \n|title            = Blossom of Slashes\n|gender           = Female\n|age              = \n|birthday         = February 25th\n|birthplace       = Huanglong\n|nation           = Huanglong\n|affiliation      = Jinzhou\n|affiliation2     = Ministry of Development\n|sigil            = Napping Time\n|dish             = Floral Porridge\n|obtain           = \n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm2463762|Clare Louise Connolly]]\u003cref\u003eYouTube: [https://www.youtube.com/watch?v=6VEUnUcoqww Wuthering Waves | Voice Actress Greetings | Taoqi]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/KIYO KIYO]\u003cref name=\"CN-VA_KGTaoqi\"\u003eOfficial Website: [https://mc.kurogames.com/main#resonators 共鸣者 瑝珑 秧秧]\u003c/ref\u003e\n|voiceJP          = {{w|Hina Yōmiya|Yōmiya Hina ({{Lang|mini=1|ja=羊宮妃那}})}}\u003cref name=\"JP-VA_TWTaoqi\"\u003eTwitter: [https://twitter.com/WW_JP_Official/status/1785247734221672694 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/이새아 Yi Sae-ah ({{Lang|mini=1|ko=이새아}})]\u003cref name=\"KR-VA_TWTaoqi\"\u003eTwitter: [https://twitter.com/WW_KR_Official/status/1785255274259136776 KR VA Announcement]\u003c/ref\u003e\n}}\n{{Quote|Time for another afternoon consultation, I see. What's on your mind today?|Taoqi}}\n{{Intro/Resonator|Taoqi|lang=zh=桃祈}} She is the director of border defense at the [[Ministry of Development]].\n\n==Official Introduction==\n{{Quote|Taoqi oversees Jinzhou's border defense at the Ministry of Development.\u003cbr\u003eDespite her unhurried demeanor, she is an exceptionally dependable individual who works tirelessly to protect others and provide a peaceful haven.\u003cbr\u003eWith effortless efficiency, she balances her work and personal life, steadily moving towards her ultimate goal: creating a future of true safety for all.|[https://wutheringwaves.kurogames.com/en/main#resonators Her introduction on the Official Website.]}}\n\n==Combat Overview==\n{{Main|Taoqi/Combat}}\n===Ascension Material===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Taoqi|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en   = Taoqi\n|zhs  = 桃祈\n|zht  = 桃祈\n|ja   = {{Rubi|桃|タオ|祈|キ}}\n|ko   = 도기\n|es   = Taoqi\n|fr   = Taoqi\n|de   = Taoqi\n}}\n\n==Change History ==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n[[Category:Female]]\n\n[[zh:桃祈]]\n[[ru:Тао Ци]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Material",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

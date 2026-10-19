@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:21Z",
+  "title": "Lexia",
+  "pageid": 30600,
+  "wikitext": "{{Meta|missing_NPC_dialogue=yes}}{{stub}}\n{{NPC Infobox\n|image            = NPC Lexia.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Fool's Elysium\n|group            = \n|affiliation      = Troupe of Fools\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Lexia''' is a female NPC who appears in {{location|Fool's Elysium|nocat=1}}.\n\n==Quests and Events==\n''(Not in any quest or event yet)'' \u003c!-- Remove if the NPC appears in any quest/events --\u003e\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Lexia:''' Oh, dearest Elisha... what shall our next ballet be?\n:{{DIcon}} Who are you talking to?\n:'''Lexia:''' Ah, {{Rover}}, is that you? I was just asking Elisha what our next performance should be...\n:'''Lexia:''' See, each island nation has its own preferences, you know.\n:'''Lexia:''' Take [[Septimont]], for example. They favor plays like \"The Three Hundred Knights of Capitoline\" and \"Assassin's Journey\"—you know, action-packed, filled with historical sagas and war. That's their thing.\n:'''Lexia:''' I like them too, but Elisha doesn't share my enthusiasm.\n:'''Lexia:''' She prefers heart-wrenching tragedies like \"The Shape of the Ocean\" or \"The Perished Waterworld.\" You know, those tear-jerking stories that only the [[Riccioli Islands|Riccioli]] people seem to appreciate...\n:'''Lexia:''' But I can't stand that place. And let's be honest, tragedy is not in my wheelhouse. Ugh... it's so frustrating, Elisha, my dear Elisha...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lexia\n|zhs  = 莱克莎\n|zht  = 萊克莎\n|ja   = レクシャ\n|ko   = 렉사\n|es   = Lexia\n|fr   = Lexia\n|de   = Lexia\n}}\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

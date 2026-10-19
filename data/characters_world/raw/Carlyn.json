@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:53Z",
+  "title": "Carlyn",
+  "pageid": 38404,
+  "wikitext": "{{Stub|dialogue}}\n{{NPC Infobox\n|image            = NPC Carlyn.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Giant's Gaze\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Carlyn''' is a female staff found at Spacetrek Observatory, talking with her colleague about [[Dhalifa]].\n\n{{Dialogue Start}}\n==Idle==\n:;'''Carlyn''' Everyone talks about how brave Dhalifa is, but I'm more worried that she can't even shed tears.\n:;You mean the aftereffects?\n:;'''Carlyn''' Yes, just thinking about what she went through breaks my heart.\n\n==Dialogue==\n\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Carlyn\n|zhs  = 卡曼\n|zht  = 卡曼\n|ja   = カーマン\n|ko   = 칼린\n|fr   = Carlyn\n|de   = Carlyn\n|es   = Carlyn\n|th   = Carlyn\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

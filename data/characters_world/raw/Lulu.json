@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:28Z",
+  "title": "Lulu",
+  "pageid": 5987,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Lulu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Lulu''' is an NPC in {{Location|Jinzhou}}.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Lulu:''' The weather is so nice. If it can last until the [[Moon-chasing Festival]], I can go out with [[Qixian]]!\n:{{DIcon}} Moon-chasing Festival?\n:'''Lulu:''' Yes, the Moon-chasing Festival! There'll be all sorts of delicious foods and fun activities!\n:'''Lulu:''' As soon as it's time, Qixian and I are going out to enjoy ourselves!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lulu\n|zhs  = 露露\n|zht  = 露露\n|ja   = 露露（ロロ）\n|ko   = 루루\n|es   = Lulu\n|fr   = Lulu\n|de   = Lulu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

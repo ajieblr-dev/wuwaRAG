@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:03Z",
+  "title": "Wuluo",
+  "pageid": 79484,
+  "wikitext": "{{Stub|image (Preferably full body, without the dialogue/subtitle UI); double check profile}}\n{{NPC Infobox\n|image            = NPC Wuluo.png\n|type             = Quest\n|type2            = \n|nation           = Huanglong\n|affiliation      = \n|status           = Deceased\u003cbr\u003eCommitted suicide to defy the Dark Whisper, as shown in [[Tales from the Capsule: Ashen Fox]]\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n\n'''{{PAGENAME}}''' {{Lang|zh=梧洛}} is a quest-exclusive NPC who makes her first appearance during the {{Quest|Tales from the Capsule: Ashen Fox}}.\n\n==Profile==\nWuluo was the leader of [[Xuanfang Wardens]] in holding the defense line around the [[Central Plains]] against [[Tacet Discord|Tacet Discords]]. She believed that the Sentinel [[Hsin]] the Moon Fox had abandoned her, as her prayer wasn't answered. She took on the [[Thundering Mephis]] by herself, when she was being manipulated by the Dark Whispher to beg for mercy. However, instead of succumbing to the manipulation, she decided to commit suicide to defy it.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Wuluo\n|zhs  = 梧洛\n|zht  = 梧洛\n|ja   = 梧洛（ゴラク）\n|ko   = 오낙\n|fr   = Wuluo\n|de   = Wuluo\n|es   = Wuluo\n|th   = Wuluo\n|pt   = Wuluo\n}}\n\n==Change History==\n{{Change History|3.7}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Exploration Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

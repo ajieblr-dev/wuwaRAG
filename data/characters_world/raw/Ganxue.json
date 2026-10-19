@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:43Z",
+  "title": "Ganxue",
+  "pageid": 4625,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Ganxue.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Pioneer Association\n|title            = Pioneer Association Shop Receptionist\n\u003c!--Voice Actors--\u003e\n|voiceEN          = [[imdb:nm2464131|Polly Eachus]]\n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}'''Ganxue''' is a [[Shop]] NPC in {{Location|Jinzhou}}. She is the receptionist of the official Merch Shop of the [[Pioneer Association]].\n\n==Shop==\n{{Shop/Wrapper|currency=Wood-texured Shard|\n{{Shop|Lustrous Tide|50|5|total=1}}\n{{Shop|Advanced Resonance Potion|6|30|total=1}}\n{{Shop|Advanced Energy Core|6|30|total=1}}\n{{Shop|Advanced Sealed Tube|6|30|total=1}}\n{{Shop|Premium Tuner|x=10|20|25|total=1}}\n{{Shop|Perilla Salad Recipe|5|1|total=1}}\n{{Shop|Aureate Fried Rice Recipe|10|1|total=1}}\n{{Shop|Food Ration Bar Recipe|10|1|total=1}}\n{{Shop|Edodes Recipe|10|1|total=1}}\n{{Shop|Xi Ling Tea Recipe|10|1|total=1}}\n{{Shop|Caltrop Soup Recipe|15|1|total=1}}\n{{Shop|Inert Metallic Drip|2|20|total=1}}\n{{Shop|Impure Phlogiston|2|20|total=1}}\n{{Shop|Waveworn Residue 210|2|20|total=1}}\n{{Shop|Lento Helix|2|20|total=1}}\n{{Shop|Cadence Seed|2|20|total=1}}\n{{Shop|Shell Credit|x=8,000|6|20|total=1}}\n{{Shop|Shell Credit|x=1,000|2|∞|total=1}}\n|total=1,670+|vendor=Ganxue|type=Souvenir}}\n\n==Quests and Events==\n{{Quests and Events|Ganxue}}\n\n==Location==\n\u003cgallery\u003e\nNPC Ganxue Location.png|Ganxue's Location\n\u003c/gallery\u003e\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Ganxue:''' Welcome to the official Merch Shop of Pioneer Association. We adopt a point redemption system.\n:{{DIcon}} I want some Souvenirs\n:{{DIcon}} Gourmet Rumors\n::'''Ganxue:''' The recipe for the [[Braising Sauce]]? Hehe, I happen to know it.\n::'''Ganxue:''' So, what kind of precious, shiny, commemorative coin are you going to trade with me, huh?\n::{{DIcon}} ...\n::'''Ganxue:''' ...\n::'''Ganxue:''' Ah, forget it. You seem unwilling to answer my quiz. It's not fun at all.\n::'''Ganxue:''' I'll just tell you. The secret is a small amount of [[sugar]], melted over a low heat and stirred for a certain amount of time, and then added to the Braising Sauce. That's it.\n::'''Ganxue:''' As for the timing and the duration, well, I'll leave that for you to figure out!\n:{{DIcon}} Chat\n::'''Ganxue:''' Hello there, feel free to browse around. Our team put a lot of love into designing all these goodies.\n::'''Ganxue:''' Check out this badge shaped like a snow mountain. It's got this cool feel to it, made from the shell of a [[Hoartoise]]!\n::'''Ganxue:''' And here's an inkwell that looks just like a [[Roseshroom]]. Give it a gentle press, and voila! It sprays out like the real deal, except it's ink!\n::'''Ganxue:''' What do you think? Aren't they adorable?\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|1_en   = Ganxue\n|1_zhs  = 甘雪\n|1_zht  = 甘雪\n|1_ja   = 甘雪（カンセツ）\n|1_ko   = 감설\n|1_es   = Ganxue\n|1_fr   = Ganxue\n|1_de   = Ganxue\n\n|2_en   = Pioneer Association Shop Receptionist\n|2_zhs  = 「先行公约」商店接待员\n|2_zht  = 「先行公約」周邊商店接待員\n|2_ja   = 「先駆条約」グッズショップ店員\n|2_ko   = 「선행 공약」 굿즈 판매원\n|2_es   = Recepcionista de la Asociación de Pioneros\n|2_fr   = Réceptionniste de la boutique de l'Association pionnière\n|2_de   = Empfangsdame im Laden der Pioneer Association\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ganxue",
+      "number": "5.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Pioneer Association Shop Receptionist",
+      "number": "5.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:27Z",
+  "title": "First Solistree",
+  "pageid": 39623,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = First Solistree\n|image     = First Solistree.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Roya Frostlands\n|region    = Bjartr Woods\n}}\n\nThe '''First Solistree''' is an area of [[Bjartr Woods]], [[Roya Frostlands]]. \n\n==NPCs==\n{{NPCs by Location List|First Solistree}}\n\n==Other Languages==\n{{Other Languages\n|en   = First Solistree\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{Location Navbox|Roya Frostlands}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

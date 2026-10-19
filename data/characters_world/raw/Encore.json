@@ -1,0 +1,128 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:20Z",
+  "title": "Encore",
+  "pageid": 522,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery|Encore}}\n\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 5\n|class            = Congenital\n|weapon           = Rectifier\n|role             = Main Damage Dealer; Basic Attack Damage\n|attribute        = Fusion\n|releaseDate      = 2024-05-23\n\n\u003c!-- Info --\u003e\n|name             = Encore\n|title            = Wooly–counting Game\n|title2           = Heavenly Sheep\n|gender           = Female\n|age              = 9~\u003cref\u003eEncore's Character Story: [[Encore/Backstory#Character Stories|A New Story, A New Adventure]]\u003c/ref\u003e\n|birthday         = March 21st\n|birthplace       = New Federation\n|nation           = The Black Shores\n|affiliation      = Black Shores\n|sigil            = Fairytale\n|dish             = Baa Baa Crisp\n|obtain           = Convene\n\n\u003c!-- Family --\u003e\n|mother           = Encore's Mother\n|motherNote       = deceased\n|motherRef        = \u003cref\u003e{{Quest|Small Wooly, Big Adventures}}\u003c/ref\u003e\n|relative         = Aalto\n|relativeNote     = Guardian\n\n\u003c!-- VAs --\u003e\n|voiceEN          = [[imdb:nm1544577|Carina Reeves]]\u003cref\u003eTwitter: [https://twitter.com/Wuthering_Waves/status/1783073404981027217 EN VA Announcement]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/皛四白 Xiao Sibai ({{Lang|mini=1|zh=皛四白}})]\u003cref\u003eOfficial Website: [https://mc.kurogames.com/main#resonators 安可 ENCORE]\u003c/ref\u003e\n|voiceJP          = [[imdb:nm14509096|Ibuki Chikano ({{Lang|mini=1|ja=伊吹誓乃}})]]\u003cref\u003eTwitter: [https://twitter.com/WW_JP_Official/status/1782710756683002145 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/이세레나 Serena Lee ({{Lang|mini=1|ko=이세레나}})]\u003cref\u003eTwitter: [https://twitter.com/WW_KR_Official/status/1783073397708046804 KR VA Announcement]\u003c/ref\u003e\n}}\n{{Quote|Woah! Hey! Woolies, make some room! I wanna look, see? ...Black Shores member, Encore, reporting in!|Encore}}\n\n{{Intro/Resonator}} She is from the [[New Federation]] and a Consultant of the [[Black Shores]]. With her vivid imagination, her Wooly companions, Cosmos and Cloudy, and a penchant for crafting fairy tales, she is responsible for finding new clients for the Black Shores alongside her fellow Consultant and brother figure [[Aalto]].\n\n==Official Introduction==\n{{Quote|Encore, a consultant from the Black Shores, is a quirky, lively, and spunky girl who loves to recount her friendships and adventures through fantasy and fairy tales.\n\nShe always has two Woolies with her, who are Encore's best friends and protectors.\n\nWith Cosmos and Cloudy, Encore travels all over the world!|[https://wutheringwaves.kurogames.com/en/main#resonators Her introduction on the Official Website.]\n}}\n\n==Combat Overview==\n{{Main|Encore/Combat}}\n===Ascension Material===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Encore|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}} \n\n==Other Languages==\n{{Other Languages\n|en   = Encore\n|zhs  = 安可\n|zht  = 安可\n|ja   = アンコ\n|ko   = 앙코\n|es   = Encore\n|fr   = Encore\n|de   = Encore\n}}\n\n==Trivia==\n===Etymology===\n* An ''[https://en.wikipedia.org/wiki/Encore encore]'' is an additional performance at the end of a concert originally performed in response to the audience's applause.\n\n==Change History==\n{{Change History|1.0}} \n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[ru:Анкор]]\n[[zh:安可]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Material",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "6.1",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "14"
+    }
+  ]
+}

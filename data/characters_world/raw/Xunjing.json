@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:08Z",
+  "title": "Xunjing",
+  "pageid": 41690,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = no\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = no\n|missing_NPC_dialogue = no\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Xunjing.png\n|type             = Quest\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = Wutherium Geographic\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Xunjing''' is a quest-exclusive [[NPC]] in {{location|Hongzhen}}. He appears in the [[Side Quest]] {{Quest|Kaleidoscope of Hongzhen}}. He is an editor for Wutherium Geographic.\u003cref\u003e[[Side Quest]] {{Quest|Kaleidoscope of Hongzhen}}\n:'''''Xunjing:''' Let me introduce myself. I'm Xunjing, an editor for Wutherium Geographic.''\u003c/ref\u003e\n\n==Quests and Events==\n{{Quests and Events|Xunjing}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xunjing\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==References==\n\u003creferences /\u003e",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:43Z",
+  "title": "Niccolo",
+  "pageid": 27145,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Niccolo.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Montelli Quarter\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Niccolo''' is an NPC who appears in [[Montelli Quarter]], [[Ragunna]]. He can be seen standing near a plant and waving to [[Novelli|Professor Novelli]] from 6:00 AM to 5:59 PM.\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Novelli:''' Let me take a good look at you, the sword-wielding hatless one, and the promising Niccolo. Hmm, you've grown out of that naive boy and into a reliable adult.\n:'''Niccolo:''' Ahem, I was young and full of myself back then, coming up with all kinds of silly names... Please don't make fun of me for it, Professor Novelli.\n:'''Niccolo:''' Those who look out to sea often dream of setting sail, but after seeing it all, they long to ride the waves back home, where life truly takes root.\n:'''Niccolo:''' Please accept this, Professor Novelli. I bought it just for you.\n:'''Novelli:''' What a beautiful bundle of Sword Acorus... I didn't think you'd remember.\n:'''Niccolo:''' Of course, you once told me it was your favorite flower.\n:'''Niccolo:''' You used these flowers with their strong, straight stems to teach me how to fight opponents with a sword, long before I put my hands on a real one.\n:'''Novelli:''' Yes. Traditionally, we used them in swordsmanship lessons for young nobles. But there was one child whom I recall was the exception.\n:'''Niccolo:''' You mean that Montelli girl who bested me? I heard she has become an important figure in her family now.\n:'''Niccolo:''' Losing to someone so much younger really got to me. Then I noticed the calluses on her hands... Unlike other nobles her age, she'd been training with a heavy, sharp metal sword from the start.\n:'''Novelli:''' To her, fighting wasn't some noble virtue—it was a matter of life and death.\n:'''Novelli:''' Perhaps that's the price of becoming a true Montelli.\n:'''Niccolo:''' A hefty price, indeed... Now, those calluses mark my own hands, and I finally understand the look she gave me when she saw me with that Sword Acorus.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Niccolo\n|zhs  = 尼克罗\n|zht  = 尼克羅\n|ja   = ニックロ\n|ko   = 니크로\n|es   = Niccolo\n|fr   = Niccolo\n|de   = Niccolo\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

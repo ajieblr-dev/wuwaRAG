@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:02Z",
+  "title": "Chop Chop Headless",
+  "pageid": 25687,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Chop Chop: Headless\n|image=Chop Chop Headless Icon.png\n|dmgtype=Fusion\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Clamorling\n}}{{Description|A Tacet Discord that functions as the \"head\" of Chop Chop.\"}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Elite Clamorling}}\n==Stats==\n{{Enemy Stats|Chop Chop: Headless}}\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} against {{Color|Fusion damage}}.\u003cbr/\u003e \u003cbr/\u003eA Tacet Discord constantly in search of a suitable \"body\". It functions as the \"head\" of Chop Chop.|Description when discovered}}\n\n==Trophies==\n{{Trophies|Chop Chop: Headless}}\n\n==Other Languages==\n{{Other Languages\n|en   = Chop Chop: Headless\n|zhs  = 浮灵偶・海德\n|zht  = 浮靈偶・海德\n|ja   = フロートアルマ・ヘッド\n|ko   = 유령 인형 ・ 헤드\n|es   = Flotán: Testa\n|fr   = Hache hache : Tête\n|de   = Hau-Hau: Heider\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

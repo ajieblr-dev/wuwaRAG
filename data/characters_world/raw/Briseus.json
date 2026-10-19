@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:47Z",
+  "title": "Briseus",
+  "pageid": 62886,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=\n|location=Exostrider Observation Station\n|location2=Everfrost Cavern\n|affiliation=\n|group=\n}}\n\n''Briseus''' and '''Esmond''' can be found in the [[Everfrost Cavern]] after completing {{Quest|The Star That Voyages Far}}. \n\nThey're originally from New Federation and sent under order of someone to escort a pair of researchers.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Briseus:''' The Void Storm appeared out of nowhere and tore this place apart before anyone even noticed… This is way too dangerous.\n\n:'''Briseus:''' I don't want to be here. When can we leave?\n\n:'''Esmond:''' Right after the two we've been escorting finish collecting the data.\n\n:'''Briseus:''' Fine. Heh, this job's a real pain. Those researchers have a talent for getting themselves into trouble.\n\n:'''Briseus:''' Babysitting these naive blokes, or doing dirty work back in the New Fed... hard to say which is worse.\n\n:'''Briseus:''' Sometimes I swear these \"scientists\" are all unhinged. No sane person would come all the way out here just to study the Threnodian.\n\n:'''Esmond:''' If it weren't for Mr. [[Chase]] backing the business prospects here, our boss never would've sent us all the way from the New Fed.\n\n:'''Esmond:''' It's just a job. Same as any other.\n\n:'''Briseus:''' Mr. Chase, huh… I've heard of him. Got a knack for big games. Boss might want to join his table, but folks like him usually play everyone else.\n\n:'''Esmond:''' If that happens, we'll just find someone else to work for.\n\n:'''Esmond:''' Like I said, Briseus, it's only a job. Doesn't mean all that much to people like us.\n{{Dialogue End}} \n\n==Other Language==\n{{Other Languages\n|en   = Briseus\n|zhs  = 布里塞伊斯\n|zht  = 布里塞伊斯\n|ja   = ブリーセーイス\n|ko   = 브리세우스\n|fr   = Briseus\n|de   = Briseus\n|es   = Briseus\n|th   = Briseus\n}}\n\n==Change History==\n{{Change History|3.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Language",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

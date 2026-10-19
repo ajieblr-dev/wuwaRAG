@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:34Z",
+  "title": "Forbidden Bastion",
+  "pageid": 42394,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n |name=Forbidden Bastion\n |title=\n |image=Forbidden Bastion Icon.png\n |dmgtype=Glacio\n |weakpoint=Unknown\n |echo=Yes\n |class=Elite\n |family=Tacet Discord\n |group=Autopuppet\n |nation=Huanglong\n |region=Mengzhou\n |subregion=\n |drops=\n |nightmare=No\n}}\n{{Description|Within the Censure Court lies an Autopuppet hailed as the Censure Court's Apparatus.\" Legends tell it bears an enormous form and is especially formidable in strength.}} \n{{Intro/Enemy}} \n\n==Drops== \n{{Drops|Elite Autopuppet}}\n\n==Stats==\n{{Enemy Stats|Forbidden Bastion}}\n\n==Trophies==\n{{Trophies|Forbidden Bastion|customheader=Forbidden Bastions}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Glacio DMG}}.\u003cbr\u003e\u003cbr\u003eWhen enemies nearby obtain a shield, Forbidden Bastion takes 10% more total DMG for 6s. This effect can be triggered once every 0.5s, stacking up to 4 times.\u003cbr\u003e\u003cbr\u003eEvery brick and tile in the Censure Court is made of modular parts. It is both an elegant garden and a prison for holding and purging Tacet Discords.\u003cbr\u003eWithin the Censure Court, the Forbidden Bastion is one of the most formidable Autopuppets. The columns and ridges within the Court form its towering build.\u003cbr\u003eThe ultimate defense that safeguards the grounds, Forbidden Bastion spends year after year purging the Tacet Discords left behind within these walls, maintaining peace within Xuanfang.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en  = Forbidden Bastion\n|zhs = 封庭械囿\n|zht = 封庭械囿\n|ja  = 封庭の械囿\n|ko  = 봉정계유\n|fr  = Bastion interdit\n|de  = Verbotene Bastion\n|es  = Bastión Prohibido\n|th  = Forbidden Bastion\n|pt  = Pavilhão Proibido\n}}\n\n==Change History==\n{{Change History|3.5}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

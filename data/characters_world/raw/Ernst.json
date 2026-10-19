@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:21Z",
+  "title": "Ernst",
+  "pageid": 38411,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Ernst.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Ernst''' is a male [[NPC]] Rabelle College student seen trying to comfort his scared friend, '''Gamov''' from Department of Exostrider Engineering. \n\n==Idle==\n{{Dialogue Start}}\n:;'''Gamov''' ...Brr, it's kinda cold in here. Is the A/C cranked up?\n:;'''Gamov''' Huh!? I hear water dripping. You hear that?\n\n==Dialogue==\n:'''Ernst:''' Dripping water? I don't hear anything. Feels pretty warm to me, actually.\n:'''Ernst:''' Come on, it's just the bathroom. What are you scared of?\n:'''Gamov:''' Can you... uh... come into the stall with me?\n:'''Ernst:''' But it's too small to fit the two of us!\n:'''Ernst:''' Ugh, if you binge those deep-sea horror movies again, I'm gonna haunt you myself.\n:'''Gamov:''' Oh, please don't do that...\n:'''Gamov:''' The bathroom. It's right there...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ernst\n|zhs  = 恩斯特\n|zht  = 恩斯特\n|ja   = エルンスト\n|ko   = 언스트\n|fr   = Ernst\n|de   = Ernst\n|es   = Ernst\n|th   = Ernst\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

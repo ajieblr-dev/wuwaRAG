@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:44Z",
+  "title": "Gilberto",
+  "pageid": 26216,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Gilberto.png\n|type             = Quest\n|type2            = Resonator\n|nation           = Rinascita\n|affiliation      = Fisalia Family\n|status           = Deceased\u003cbr\u003eEuthanized by [[Cantarella]], at his own request, when he was on the verge of turning into a [[Dark Tide|Tidespawn]].\u003cref\u003e{{Quest|The Bygone Shall Always Return}}\u003c/ref\u003e\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Gilberto''' is a quest-exclusive NPC in {{Location|Rinascita}} who first appears in {{Quest|The Sacred Breeze So Often Breathes}}. \n\n==Profile==\nGilberto was a proud noble of the [[Fisalia Family]] though his attitude wasn't looked upon favorably by many. [[Nyarla]], the owner of [[Masked Reverie]], described him as being arrogant and cited how she had to revise a commissioned mask twenty-three times for him.\n\nAlongside [[Priest Alessio]] from the [[Order of the Deep|Order]] he used a [[Lycoris with Ominous Aura|Lycoris]] to sabotage the [[Vitreum Dancer]] rehearsal before the [[Carnevale]]. This resulted in the endangerment of various civilians and was used to frame the [[Montelli Family]], whom the Vitreum Dancers belonged to, as the ones responsible for the incident. He is later captured whilst trying to corrupt [[Lorelei]] and revealed to be just a pawn in the grander schemes orchestrated by the Fisalia Family. Following his capture, he is held in the custody of the Montelli Family. \n\nWhen he's close to turning due to the [[Dark Tide]], Cantarella attempts to cure Gilberto but the man insists that his mind is beyond fixing and begs her to save the potions she has for those who still have hope of recovering. [[Galbrena]] directly informs Cantarella that, whilst the antidote her family made can cure those lightly infected, others like Gilberto whose corruption runs deep cannot be saved. Gilberto once again begs Cantarella to allow him to die human and to not allow him to burden those who still have hope. Galbrena offers to do so on Cantarella's behalf, if she finds it too hard to do so, but Cantarella insists that Fisalia blood should be ended at the hands of another Fisalia and she uses her poisonous Forte to end Gilberto's life. Gilberto thanks her before passing on and his fellow Fisalia take a moment to pay their respects to him.\n\nGilberto was mentioned to be a [[Resonator]], though not a very powerful one, and his [[Forte]] remains unknown.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Gallery==\n===Videos===\n\u003cgallery\u003e\nWuthering Waves Version 2.0 Story Cinematics - Carnevale's Prologue-2\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Gilberto\n|zhs  = 吉尔贝\n|zht  = 吉爾貝\n|ja   = ジルベルト\n|ko   = 질베르토\n|es   = Gilberto\n|fr   = Gilberto\n|de   = Gilberto\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "7"
+    }
+  ]
+}

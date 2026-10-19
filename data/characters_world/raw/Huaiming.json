@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:57Z",
+  "title": "Huaiming",
+  "pageid": 62896,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = no\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = no\n|missing_NPC_dialogue = no\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Huaiming.png\n|type             = Open-World\n|nation           = Roya Frostlands\n|location         = Teaching Zone\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n'''Huaiming''' is an [[NPC]] professor who appears both during 12:00-17:59 at the Faculty Office and during the day at the {{Location|Teaching Zone}}.\n\n{{Dialogue Start}}\n==Idle==\n:'''Huaiming:''' Your thesis paper is... academically hopeless.\n:'''Huaiming:''' But don't lose hope! It might find an audience somewhere else.\n\n==Dialogue==\n:'''Huaiming:''' Massi! I haven't seen eye to eye with that geezer in years. Alright, listen to me, delete my name from your thesis paper. Put him down as your advisor instead.\n:'''Huaiming:''' I'll find some way to discredit him. The faculty will have to strike his name from all academic works, and you'll get sole authorship! How's that sound?\n:'''Rayla:''' Professor, I'm stressing out here, and you're making jokes. Please give some actual feedback. I'm counting on this paper to graduate.\n:'''Huaiming:''' Actual... feedback, alright. Change this, this, this, and everything else.\n:'''Rayla:''' You want me to start from scratch and write a new one? The work that involves—Impossible...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Huaiming\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

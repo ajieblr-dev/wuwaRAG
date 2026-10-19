@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:25Z",
+  "title": "Liu Fang",
+  "pageid": 36653,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = Liu Fang.png\n|type             = Open-World/Event\n|nation           = \n|location         = Septimont\n|group            = \n|affiliation      = \n|title            = \n}}\n'''Liu Fang''' is a female Huanglong NPC visiting Septimont in [[Capitoline Hill City]]. She is on a quest to visit every wishing fountain and it's implied she already visited 12 cities. \n\n==Quests and Events==\n{{Quests and Events}}\n\n{{Dialogue Start}}\n==Dialogue==\n;(Day)\n:;'''Liu Fang''' I think I did it the right way. Fingers crossed...\n:;Huh? Is that tourist trying to make a wish at the fountain? Should I tell her that's not a thing we do here...?\n:;Nah... Let the tourists have their fun.\n\n:'''Liu Fang''' Hello, have you come to make a wish too?\n:{{DIcon}} You can make wishes here?\n:'''Liu Fang''' Of course, a [[Buling|Taoist monk]] told me Septimont's wishing well can really work miracles. She even taught me the right way to do it.\n:'''Liu Fang''' I've been to many wishing wells, so I know that each place has its own wishing customs. Which is why if you don't follow the proper procedures, your wish won't come true!\n----\n;(Night at [[Leondis Hotel]])\n:;'''Liu Fang''' I'll head home once I've visited every wishing well I can find. Until then, I'll just have to have my little brother look after Mom.\n:;'''Liu Fang''' Septimont makes it No. 12. You will get better, Mom.\t\n{{Dialogue End}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Liu Fang\n|zhs  = 柳芳\n|zht  = 柳芳\n|ja   = 柳芳（リュウホウ）\n|ko   = 유선\n|es   = Liu Fang\n|fr   = Liu Fang\n|de   = Liu Fang\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

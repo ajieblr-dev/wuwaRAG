@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:36Z",
+  "title": "Art Manager",
+  "pageid": 24938,
+  "wikitext": "{{NPC Infobox\n|image            = Art_Manager.PNG|In-game\n|type             = Quest\n|region           = \n|location         = Huanglong\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n|name=Art Manager}}\nThe '''Art Manager''' is an NPC featured in the [[Somnium Labyrinth]] [[Event]] as part of the quest [[Dreamscape Odyssey: The Mountain and Six Credits]]. He serves as the antagonist in [[Zhezhi]]'s Somnoire storyline. During the quest, the Art Manager is portrayed as someone who exploits Zhezhi's artistic skills, using her talent to create fine art that he sells at auctions for the highest prices. He pressures Zhezhi to recreate another ''Winter's Serenade in Bloom'', which he believes would fetch a significant sum at auction. However, Zhezhi refuses his demand after meeting and gaining insight from [[Rover]] in the Somnoire.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Art Manager\n|zhs  = 经纪人\n|zht  = 經紀人\n|ja   = マネージャー\n|ko   = 중매인\n|es   = Agente\n|fr   = Gérant de l'art\n|de   = Kunst-Manager\n}}\n\n==Change History==\n{{Change History|1.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

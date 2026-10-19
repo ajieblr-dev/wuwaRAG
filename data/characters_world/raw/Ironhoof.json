@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:04Z",
+  "title": "Ironhoof",
+  "pageid": 39005,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name          = Ironhoof\n|image         = Ironhoof Icon.png\n|dmgtype       = Fusion\n|echo          = Yes\n|class         = Elite\n|family        = Tacet Discord\n|group         = Exoswarm\n|nation        = Lahai-Roi\n}}{{Description|A mechanical muskox, grown from the Exostrider's own parts. They often help the Roya in transporting loads.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Elite Exoswarm}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Trophies==\n{{Trophies|Ironhoof}} \n\n==Description==\n{{Description|This enemy has a higher RES to {{Color|[[Fusion]] DMG|nobold=1}}.\u003cbr /\u003e\u003cbr /\u003eThe mechanical horns on its head can be damaged by Counterattacks. Successfully breaking the horns will reduce its attack power and range.\u003cbr /\u003e\u003cbr /\u003eWhen the Ironhoof is under Tune Rupture - Shifting and hit by Tune Break, it takes 30% more total DMG for 15s.\u003cbr /\u003e\u003cbr /\u003eAfter scanning the data of past animals in Lahai-Roi, the Exostrider used its own parts to grow and proliferate mechanical muskox. Due to the Ironhoof's tough armor, which allows it to survive frigid temperatures on long journeys, the Roya often use them to transport heavy loads.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ironhoof\n|zhs  = 重工铁蹄\n|zht  = 重工鐵蹄\n|ja   = アイアン・フーフ\n|ko   = 아이언후프\n|fr   = Sabot-de-fer\n|de   = Eisenhuf\n|es   = Pezuña Férrea\n|th   = Ironhoof\n}}\n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

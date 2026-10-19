@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:05Z",
+  "title": "Xiaotang",
+  "pageid": 9194,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Xiaotang.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Hongzhen\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n{{Lang|Xiaotang|zh= 小棠}} is an NPC located in {{Location|Hongzhen}}.\n\n==Location==\nXiaotang can be found near the Sagaci Springs during the day, and to the left of the Hongzhen Pioneer Association during the evening.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Hidden Quest==\n{{Dialogue Start}}\n:'''Xiaotang:''' Oh no... The box is missing... The bad guy stole it...\n:'''Xiaotang:''' Tabbie... Patchie... no...\n----\n:'''??:''' Meow-\n:'''Rover:''' Sounds like there's a little cat in that pile of boxes...\n----\n:''Destroy wooden boxes''\n:'''Rover:''' Two kittens?\n----\n:'''Rover:''' They're not scared of humans... and look well and healthy. Someone must be taking care of them.\n:'''Rover:''' But why are they wandering in this place...\n:The tabby kitten brushes against your legs and gives out a \"meee-ooow\", before running off with its companions.\n:'''Rover:''' Are they going back home? That looks like the way to Hongzhen.\n----\n:'''Tabbie:''' Meow-\n:'''Patchie:''' Purr-\n:'''Xiaotang:''' Tabbie and Patchie like you very much, Big (Brother/Sister).\n:'''Tabbie:''' Meow, meow meow.\n:The tabby kitten circles around you and then meows anxiously at Little Tang.\n:'''Xiaotang:''' What is it, Tabbie? Hmmm, you mean this Big (Brother/Sister) saved you from the bad guy?\n:'''Tabbie:''' Meow.\n:'''Xiaotang:''' I see. Thank you so much, Big (Brother/Sister).\n:'''Xiaotang:''' Come on, you two. Say \"Thank you!\"\n:'''Tabbie:''' Meow!\n:'''Patchie:''' Meow, meow!\n:{{DIcon}} No trouble at all.\n:{{DIcon}} Why did the Exiles take them?\n::'''Xiaotang:''' ...Granny told me some bad uncles and aunties are doing bad things in town recently.\n::'''Xiaotang:''' Tabbie and Patchie like to sleep in the box. Maybe those bad guys thought there was a \"treasure\" inside, like others said, so they grabbed the box and took Tabbie and Patchie with them. \n:'''Xiaotang:''' I've been looking for them for quite a long time... Thank you for bringing them home safely. \n:{{DIcon}} Don't worry. I've taught them to behave.\n:'''Xiaotang:''' Wow! You are so cool! I need to be stronger and protect Tabbie and Patchie.\n:'''Xiaotang:''' And I made a new home for them using a beautiful new box! I put it in my home, so it's safe there. \n:'''Xiaotang:''' You are welcomed to come and play with us at any time!\n:{{DIcon}} I will. Thank you.\n:Xiaotang waves you goodbye as she picks up Tabbie and Patchie and hippity-hops off into the distance. \n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n{{Description|''\"What are you looking at?\"''\u003cbr/\u003e}}\n;(After saving Tabbie and Patches)\n:'''Qinghe:''' Hey, what is a little cat doing in the pool?!\n:'''Qinghe:''' Don't panic, kitty-kitty. I'll get you out of there right now!\n:'''Xiaotang:''' Please keep it down. The cat doesn't like loud noises when it's enjoying the hot spring.\n:'''Xiaotang:''' Oh, and it's name is Tiger, not kitty.\n:'''Qinghe:''' Enjoying the hot spring? Stop messing with me, little girl. All cats hate water.\n:'''Xiaotang:''' I'm not messing with you. Cats in Mt. Firmament don't.\n:'''Xiaotang:''' Well, that's not entirely true, I guess... They don't like the streams. Maybe they just prefer Sagaci Springs...\n:'''Xiaotang:''' Hey, look, Tiger heard us and is swimming our way!\n:'''Qinghe:''' That is odd. The cat does seem fine and well...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xiaotang\n|zhs  = 小棠\n|zht  = 小棠\n|ja   = 小棠（ショウドウ）\n|ko   = 소당\n|es   = Xiaotang\n|fr   = Xiaotang\n|de   = Xiaotang\n}}\n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Hidden Quest",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

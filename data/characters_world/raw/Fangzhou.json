@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:24Z",
+  "title": "Fangzhou",
+  "pageid": 26494,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title        = Fangzhou\n|image        =\n|type         = City\n|type3        = Huanglong City{{!}}Huanglong Cities\n|map          = Solaris-3\n|event        = \n|nation       = Huanglong\n}}\n{{Quote|\"What did he tell you again? That it's from Fangzhou?\" The petite antique appraiser leans back in her stone chair, examining the porcelain plate while stroking her chin. \"Take it from me, an antique expert—don't do business with that man again. It's a fake, and he didn't even bother to make it look real.\"|[https://wutheringwaves.kurogames.com/en/main/news/detail/1524 About Youhu—A Master Appraiser]}}\n\n'''Fangzhou''' is a mentioned city in [[Huanglong]]. Aside from [[Rongzhou]], whose only appearance is mistranslated as ''Shuzhou'', it is the only major Huanglong settlement to have its sole mention exist outside the game as of [[3.4]].\n\n==Other Languages==\n{{Other Languages\n|en      = Fangzhou\n|zhs     = 方州\n}}\n\n==Change History==\n{{Change History|introduced=1.3|}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n\n[[Category:Cities]]\n[[Category:Huanglong Cities]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

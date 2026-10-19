@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:33Z",
+  "title": "Fog Lionarch: Body",
+  "pageid": 42390,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n |name=Fog Lionarch: Body\n |title=\n |image=Fog Lionarch Body Icon.png\n |dmgtype=Fusion\n |weakpoint=Unknown\n |echo=Yes\n |class=Common\n |family=Tacet Discord\n |group=Autopuppet\n |nation=Huanglong\n |region=Mengzhou\n |subregion=\n |drops=\n |nightmare=No\n}}\n{{Description|An Autopuppet bearing the body of a beast shrouded in fog. Like the legendary beast that fends off evil, it roams with the fog, awaiting its chance to strike.}} \n{{Intro/Enemy}} \n\n==Drops== \n{{Drops|Common Autopuppet}}\n\n==Stats==\n{{Enemy Stats|Fog Lionarch: Body}}\n\n==Trophies==\n{{Trophies|Fog Lionarch: Body|customheader=Fog Lionarch: Bodys}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Fusion DMG}}.\u003cbr\u003e\u003cbr\u003eFog Lionarch: Body takes 60% more total Echo Skill DMG.\u003cbr\u003e\u003cbr\u003eThe Fog Lionarch is capable of separating its head from the body, enabling it to fight with high flexibility.\nFrom the vacant neck, its body rapidly releases Disorienting Fog, confusing Tacet Discords while working in tandem with the other Autopuppets in battle.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en  = Fog Lionarch: Body\n|zhs = 霁息兽尊·身\n|zht = 霽息獸尊·身\n|ja  = 霽息の獣尊・胴\n|ko  = 안개 수존 · 몸\n|fr  = Lionarque des Brumes : Corps\n|de  = Nebel-Bestienfürst: Körper\n|es  = León Neblinoso: Cuerpo\n|th  = Fog Lionarch: Body\n|pt  = Leão Soberano da Névoa: Corpo\n}}\n\n==Change History==\n{{Change History|3.5}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

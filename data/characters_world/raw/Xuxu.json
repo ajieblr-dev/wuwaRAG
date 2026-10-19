@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:08Z",
+  "title": "Xuxu",
+  "pageid": 31566,
+  "wikitext": "{{Meta\n|missing_NPC_context  = yes}}\n{{NPC Infobox\n|image            = NPC Xuxu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Rearguard Base\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n{{Lang|Xuxu|zh= 栩栩|zh_rm= Xǔxǔ}} is an NPC who appears in {{Location|Desorock Highland}}.\n\n==Location==\n{{Map Embed|Desorock Highland|Xuxu}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Xuxu:''' One, two, three... These Green Rabbits should be enough to last a week.\n:{{DIcon}} What are you doing?\n:'''Xuxu:''' As you can see, I'm processing the ingredients. First, wash them, then peel them, and finally chop them into small pieces. Add scallions, ginger, and garlic, and stir-fry them...\n:{{DIcon}} Why eat the cute rabbits?\n::'''Xuxu:''' Because rabbit meat is delicious! Freshly cooked rabbit meat has a soft texture and delicious taste... Just thinking about it makes my mouth water!\n:{{DIcon}} It sounds delicious.\n::'''Xuxu:''' Freshly cooked rabbit meat has a soft texture and delicious taste... Just thinking about it makes my mouth water!\n:'''Xuxu:''' Desorock Highland is far from Jinzhou. Even fresh meat will become dry and tough after being transported here.\n:'''Xuxu:''' It's better to have some fresh meat here and satisfy our cravings.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xuxu\n|zhs  = 栩栩\n|zht  = 栩栩\n|ja   = 栩栩（クク）\n|ko   = 허허\n|es   = Xuxu\n|fr   = Xuxu\n|de   = Xuxu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

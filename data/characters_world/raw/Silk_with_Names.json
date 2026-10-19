@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:27Z",
+  "title": "Silk with Names",
+  "pageid": 39517,
+  "wikitext": "{{Terminology Infobox\n|image        = \n|type         = Lore\n|nation       = Lahai-Roi\n}}'''{{PAGENAME}}''' is a note found during [[Operation: Frontier Renewal]] and is added to its Archives, Spacetrek Observatory Files.\n\n==Text==\nA length of plain, monotone silk, embroidered with the names of the Roya lost to the Void Storm that ravaged the Spacetrek Observatory. Dhalifa's name is there as well, yet a single strand of violet thread crosses it out.\n\n==Other Languages==\n{{Other Languages\n|en   = Silk with Names\n|zhs  = 绣有人名的绸缎\n|zht  = 繡有人名的綢緞\n|ja   = 名前が刺繍された絹の布切れ\n|ko   = 사람의 이름을 수놓은 비단\n|fr   = Soie brodée de noms\n|de   = Seide mit Namen.\n|es   = Seda con nombres\n|th   = ผ้ามั้ยตินปักชื่อ\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Text",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:06Z",
+  "title": "Xichuan",
+  "pageid": 79495,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=Huanglong\n|location=Xuanfang Hold\n|affiliation=\n|group=\n}}\n{{PAGENAME}} is a NPC mother who is first see locked out of her house by her son, Xiluo, begging to go out to eat instead. After the incident, her son comes to term with his mom financial situation and sacrifices, and no longer throws a tantrum. \n\nShe reveals her husband and Xiluo father had passed away, leading her to spoil her son despite their financial struggles.\n\n{{Dialogue Start}}\n==Idle==\n:'''Jieda:''' Did Luo lock you out again, Xichuan? What happened this time?\n\n:'''Xiluo:''' I! WANT! TO! EAT! YUAN'S! FLAVORS!\n\n:'''Xichuan:''' Hmph... There's your answer. Business hasn't been good these last two days, so I told him no.\n\n:'''Xichuan:''' Then he went and locked the door on me, and I don't have the key.\n\n:'''Jieda:''' Don't worry, let me handle it. I'll get it open for you without a scratch.\n\n==Dialogue==\n:'''Xiluo:''' (*Voice behind the door*) You again! Don't you dare open this door! Aren't you Ministry of Development people supposed to be busy working overtime anyway? Why are you here?!\n\n:'''Jieda:''' Heh, I appreciate your concern, boy. But don't worry, cracking this lock is easy.\n\n:'''Xiluo:''' (*Voice behind the door*) Don't you open it! Don't! Mama, tell him to leave. Promise you'll take me to eat Cloudward Stew, Sizzling Jade Stir-fry, Crab Braised Fish, and Little Snowy Moons, and I'll open up right now!\n\n:'''Xichuan:''' You little rascal... We went two days ago! With everything happening both inside the Hold and at home, we can't afford to eat out every day. Be good. Open the door. Mama will take you to Yuan's Flavors once I sell the last batch of goods.\n\n:'''Xiluo:''' (*Voice behind the door*) No, no, no... I want to go now!\n\n:'''Jieda:''' Xichuan, let me handle this. Listen... I know it's not my place to say, but you might be spoiling him. If this keeps up...\n\n:'''Xichuan:''' Sigh... I know. His father passed early, and I... I simply want to give him what I can.\n\n:'''Xichuan:''' But you're right. Luo's getting older. I can't keep treating him like a little boy. Thank you...\n----\n;Next Day\n:'''Xiluo:''' Mama, bring me a few Little Snowy Moons when you come home for lunch.\n\n:'''Xichuan:''' No, we had a deal. No treats until all the goods are sold.\n\n:'''Xiluo:''' That's all I want... One plate of Little Snowy Moons... Please, Mama?\n\n:'''Xichuan:''' We had to hire that locksmith yesterday, remember? We've no extra money for desserts now.\n----\n:'''Xiluo:''' Just one plate... Please, Mama? Everything's tasted awful the last two days... I'm so hungry... Euggh.\n\n:'''Xichuan:''' Let me ask you something, Luo. Do you know how many times Mama has taken you to Yuan's Flavors?\n\n:'''Xiluo:''' So many times... I can't even count. But you used to say yes whenever I asked...\n\n:'''Xichuan:''' That's right. I've taken you many times. So when are you going to take me?\n\n:'''Xiluo:''' I-I don't have any money... Don't you have to be grown up like you to earn money?\n\n:'''Xichuan:''' Well, I didn't have any money before either. Do you know how Mama earns money now?\n\n:'''Xiluo:''' By going out and selling things...? Ohh. I-I want to grow up fast and be just like you! I'll earn money and take you to Yuan's Flavors!\n\n:'''Xichuan:''' Good. You need to grow up, Luo. I can't keep treating you like a child forever.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xichuan\n|zhs  = 曦钏\n|zht  = 曦釧\n|ja   = 曦釧（キセン）\n|ko   = 희천\n|fr   = Xichuan\n|de   = Xichuan\n|es   = Xichuan\n|th   = Xichuan\n|pt   = Xichuan\n}}\n==Change History==\n{{Change History|3.5}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

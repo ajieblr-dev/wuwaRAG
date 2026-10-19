@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:18Z",
+  "title": "Elias",
+  "pageid": 74450,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' and '''Fletcher''' are male NPC wearing Survey wear found in front of Startorch Academy during the day.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Elias:''' Finally done! Lahai-Roi is way bigger than I thought... Hard to believe this is all natural.\n\n:'''Fletcher:''' This underground cavern has existed since ancient times. Seeds from the Roya Frostlands drifted in with meltwater and ended up here by chance.\n\n:'''Fletcher:''' You could call Lahai-Roi a natural seed vault—cold and damp enough to preserve ancient seeds and spores.\n:'''Elias:''' ...And then the Reactor Drive came along and woke everything up.\n\n:'''Fletcher:''' Exactly. Dormant until they were exposed to the light from the Exostrider's Drive. The revived plants even developed electrical veining in their leaves.\n\n:'''Elias:''' So the Reactor Drive left its mark on the vegetation too...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Elias\n|zhs  = 以利亚斯\n|zht  = 以利亞斯\n|ja   = イリアス\n|ko   = 일리아스\n|fr   = Elias\n|de   = Elias\n|es   = Elias\n|th   = Elias\n}}\n\n{{Other Languages\n|en   = Fletcher\n|zhs  = 翡奇\n|zht  = 翡奇\n|ja   = フィッチ\n|ko   = 베기\n|fr   = Fletcher\n|de   = Fletcher\n|es   = Fletcher\n|th   = Fletcher\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:35Z",
+  "title": "Fractsidus Follower",
+  "pageid": 42094,
+  "wikitext": "{{Enemy Infobox\n|name       = Fractsidus Follower\n|image      = Fractsidus Gunmaster Icon.png\n|dmgtype    = Physical\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Human\n|group      = Fractsidus\n|nation     = Huanglong\n|region     = Port City of Guixu\n|level      = 80\n}}\n'''Fractsidus Follower''' is a [[Special Enemies|special enemy]] consisting of three [[Fractsidus]] members found in {{Location|Port City of Guixu|nocat=1}}.\u003c!--\n\n==Drops== \n{{Drops|Carapace: Engine Zero}} \n\n==Stats==\n{{Enemy Stats|Carapace: Engine Zero}} \n\n==Abilities==--\u003e\n\n==Location==\n\u003cgallery\u003eTrophy Debut Project of the Big Three! Location.png\u003c/gallery\u003e\n\n==Trophies==\n{{Trophies|Fractsidus Follower|customheader=Fractsidus Follower}} \n\n==Other Languages==\n{{Other Languages\n|en  = Fractsidus Follower\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

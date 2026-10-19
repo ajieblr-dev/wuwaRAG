@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:10Z",
+  "title": "Yeyhe",
+  "pageid": 23441,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Yeyhe.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = Huaxu Academy\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Yeyhe''' is a researcher in [[Huaxu Academy]] in the Branch of Tacetite Weaponry.\n\n==Quests and Events==\n{{Quests and Events|Yeyhe}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Yeyhe:''' Hmm... Tacetite weapons have their limits, you know...\n:{{DIcon}} What limit?\n:'''Yeyhe:''' Oh, hey! I was just discussing a new weapon project with the department head.\n:'''Yeyhe:''' Your timing is impeccable. I have a question for you.\n:'''Yeyhe:''' You know what? We just had this epiphany! So, regular Tacetite weapons are like, for one person, right? They don't have much impact on a big battle?\n:{{DIcon}} That's right.\n:'''Yeyhe:''' But imagine this: a Tacetite weapon that needs a whole team to operate. That would pack a serious punch!\n:{{DIcon}} Can it actually move at that size?\n:'''Yeyhe:''' Uh... then just fix it!\n:{{DIcon}} What if you're surrounded by Tacet Discords?\n:'''Yeyhe:''' Uh, hold on a sec...\n:'''Yeyhe:''' Ugh, yeah... Still a bunch of kinks to work out...\n----\n;(In the afternoon)\n:'''Yeyhe:''' Man, everytime I read Mr. [[Mortefi]]'s research, I learn something new...\n:{{DIcon}} You're the researcher I've seen before.\n:'''Yeyhe:''' No way, you were there too?\n:'''Yeyhe:''' Did you see Mr. Mortefi shut down that guy making all those crazy demands?\n:'''Yeyhe:''' Seriously! Who's the genius behind these thoughtless demands on our R\u0026D?\n:'''Yeyhe:''' Only Mr. Mortefi has the guts to challenge them openly, it's pretty cool!\n:{{DIcon}} It seems you admire him a lot.\n:'''Yeyhe:''' I've always looked up to him. His genius and fearless attitude... I hope to emulate that one day.\n:'''Yeyhe:''' Some folks might not get Mr. Mortefi, seeing him as only short-tempered, but there are plenty who secretly admire him.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yeyhe\n|zhs  = 叶野\n|zht  = 葉野\n|ja   = 葉野（ヨウヤ）\n|ko   = 예야\n|es   = Yeyhe\n|fr   = Yeyhe\n|de   = Yeyhe\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

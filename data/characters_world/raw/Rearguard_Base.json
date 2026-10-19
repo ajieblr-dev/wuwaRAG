@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:09Z",
+  "title": "Rearguard Base",
+  "pageid": 6043,
+  "wikitext": "{{Location Infobox\n|title1 = Rearguard Base\n|image = Rearguard Base.png\n|world_map = Solaris-3\n|type = Area\n|nation = Huanglong\n|region = Desorock Highland\n}}\n'''Rearguard Base''' is an area of {{Location|Desorock Highland}}.\n\n==Description==\nThe Rearguard Base is a large area filled with military encampments. [[Midnight Rangers]] can be found on patrol almost constantly; as such, there are notably fewer [[TD]]s than the neighboring regions. This relative safety also has allowed several [[Exiles|Exile]] camps to appear.\n\n==Features==\nTwo of the [[Torn Pages from Desorock Highland]] can be found here. One is at the large base near the [[Resonance Nexus]], one near an [[Exiles|Exile]] encampment north of the base.\n\n===Interactables===\n{{#dpl:|category = Rearguard Base Terminology|ordermethod= title}}\n\n==NPCs==\n{{NPCs by Location List|Rearguard Base}}\n\n==Gallery==\n\u003cgallery\u003e\nItem Torn Pages from Desorock Highland 1 Location.png|Torn Page I\nItem Torn Pages from Desorock Highland 2 Location.png|Torn Page II\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Rearguard Base\n|zhs  = 伏波阵前\n|zht  = 伏波陣前\n|ja   = {{Rubi|伏波|ふくは}}陣地前\n|ko   = 후방 기지\n|es   = Base de retaguardia\n|fr   = Camp de défense d'arrière-garde\n|de   = Nachhutbasis\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Features",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Interactables",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "8"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:39Z",
+  "title": "Sybilla",
+  "pageid": 32484,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Sybilla.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Porto-Veno Castle\n|group            = \n|affiliation      = Fisalia Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Sybilla''' is a female NPC who appears in {{Location|Porto-Veno Castle|nocat=1}} at night. She works as a maid for [[Fisalia Family]].\n\n==Quests and Events==\n''(Not in any quest or event yet)'' \u003c!-- Remove if the NPC appears in any quest/events --\u003e\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Sybilla:''' Did I just see fish swimming by...?\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Sybilla:''' Did I just see fish swimming by...?\n:{{DIcon}} I saw it too.\n:'''Sybilla:''' Oh my!\n:{{DIcon}} Sorry, did I scare you?\n:'''Sybilla:''' My apologies, honored guest. It's just that the atmosphere in the mansion at night... well, I'm not as brave as [[Fiore]].\n:'''Sybilla:''' Probably just the shadow of some deep-sea fish kept somewhere in the mansion... Yes, that must be it!\n:{{DIcon}} Is this part of the Fisalia's family business?\n:'''Sybilla:''' Well, this is a recent side venture of ours. Our main business is still gathering deep-sea plants and extracting their essences to make medicines.\n:'''Sybilla:''' We've practically cornered the potion trade in Ragunna and [[Septimont]].\n:'''Sybilla:''' You know, I overheard someone say there are... unexpected discoveries to be made while gathering the plants.\n:{{DIcon}} Unexpected discoveries?\n:'''Sybilla:''' That's right. Some of them are shipwrecks mentioned in old records. Salvage something like that, well...\n:'''Sybilla:''' Let's just say you could fetch an amount I'm not allowed to disclose. Heh.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sybilla\n|zhs  = 西比拉\n|zht  = 西比拉\n|ja   = シビラ\n|ko   = 시빌라\n|es   = Sybilla\n|fr   = Sybilla\n|de   = Sybilla\n}}\n\n==Change History==\n{{Change History|2.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

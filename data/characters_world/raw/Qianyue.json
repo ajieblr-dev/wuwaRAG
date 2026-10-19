@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:04Z",
+  "title": "Qianyue",
+  "pageid": 26795,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = NPC Qianyue.png\n|title            = \n|type             = Quest\n|nation           = Huanglong\n|location         = Mt. Firmament\n|group            = \n|affiliation      = Imperial Academy\n|affiliation2     = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Qianyue''' is a quest-exclusive [[NPC]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Qianyue\n|zhs  = 千玥\n|zht  = 千玥\n|ja   = 千玥（センゲツ）\n|ko   = 천모\n|es   = Qianyue\n|fr   = Qianyue\n|de   = Qianyue\n}} \n\n==Change History==\n{{Change History|1.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

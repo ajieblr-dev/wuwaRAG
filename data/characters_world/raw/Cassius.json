@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:54Z",
+  "title": "Cassius",
+  "pageid": 35975,
+  "wikitext": "{{NPC Infobox\n|name             = Cassius\n|title            = \n|image            = \n|type             = Open-World\n|realname         = \n|nation           = Rinascita\n|location         = Leonidas Hotel\n|group            = \n|affiliation      = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n\n'''Cassius''' is a male Hotel Employee NPC Septimont Leonidas Hotel, found in [[Capitoline Hill City]]. He gives the achievement; [[Young and Beautiful]] when spoken to at night.\n\u003c!--==Quests and Events==\n{{Quests and Events|Danvers}} --\u003e\n==Dialogue==\n{{Dialogue Start}}\n;(Idle at Day)\n:;'''Cassius''' ...Is everyone clear?\n:;'''Serious Hotel Staff''' Yes, sir! No \"Ayes\" or \"Yeahs\". Only reply with \"Yesses.\"\n:;'''Cassius''' Correct. Now, let's put them into practice, shall we?\n\n;(Talk to Cassius at Daytime)\n:'''Cassius''': ...Is everyone clear?\n:'''Serious Hotel Staff''': Yes, sir! No \"Ayes\" or \"Yeahs\". Only reply with \"Yesses.\"\n:'''Skilled Hotel Staff''': Say \"Please\" as much as possible, and add \"Dear guest\" at the start of every sentence.\n:'''Cassius''': Correct. Now, let's put them into practice, shall we? You seem like you've got something to say. Well, go ahead...\n:'''Nervous Hotel Staff''': Y-yes, sir... Dear sir... I mean guest. I-I... I really need to pee!\n:'''Cassius''': ...\n----\n;(Idle at Night)\n:;'''Cassius''' We'll also need some Ragunna-made silverware and dinnerware.\n:;'''Cassius''' Yes, we must treat every guest like an honorable guest.\n\n;(Talk to Cassius at Night)\n:'''Cassius''': Greetings, dear guest. Are you here to attend the Ragunna-inspired dinner banquet?\n:{{DIcon}} Why is it Ragunna-inspired?\n::'''Cassius''': Just recently, [[Vulcan Mining]] and the [[Fisalia Family|Fisalia family]] plans to arrange a business meeting at our hotel.\n::'''Cassius''': Vulcan Mining hopes that their friends can experience the charms of Ragunna even away from home.\n:{{DIcon}} Who's attending?\n::'''Cassius''': This evening's banquet will be attended by members from [[Vulcan Mining]] and the [[Fisalia Family|Fisalia family]]. We've also sent an invitation to the [[Montelli Family|Montelli family]].\n:'''Cassius''': We hope everyone will enjoy a pleasant discussion at the banquet.\n:'''Cassius''': In any case, I look forward to your attendance.\n{{Dialogue End}}\n\u003c!--==Character Mentions==\n{{Character Mentions|Laurence}}--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Cassius\n|zhs  = 卡西乌斯\n|zht  = 卡西烏斯\n|ja   = カシウス\n|ko   = 카시우스\n|es   = Cassius\n|fr   = Cassius\n|de   = Cassius\n}}\n\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

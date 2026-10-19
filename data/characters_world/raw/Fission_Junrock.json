@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:30Z",
+  "title": "Fission Junrock",
+  "pageid": 23142,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Fission Junrock\n|title     = \n|image     = Fission Junrock Icon.png\n|dmgtype   = Physical\n|weakpoint = \n|echo      = Yes\n|class     = Common\n|family    = Tacet Discord\n|group     = Tranquilite\n|nation    = \n|region    = \n|subregion = \n|drops     = \n}}{{Description|A Common Class Tranquilite TD inhabiting mountainous areas. Often overlooked due to its lava-like shape.}}\n{{Intro/Enemy|a=1|lang=zh=裂变幼岩}}\n\n==Drops== \n{{Drops|Common Tranquilite}}\n\n==Stats==\n{{Enemy Stats|Fission Junrock}}\n\u003c!--\n==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Fission Junrock|customheader=Fission Junrock}}\n\n==Description==\n{{Description|A TD constructed with fragmented rocks. Commonly found in the company of Vanguard Junrock.\nDifferent from the latter, Fission Junrock has a more active and unstable energy and easily explodes under impacts. Records show that it is sometimes used as a throwing weapon by other Tacet Discords.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Fission Junrock\n|zhs  = 裂变幼岩\n|zht  = 裂變幼岩\n|ja   = 壊れかけ岩塊\n|ko   = 분열 암괴\n|es   = Junroca Fisión\n|fr   = Jeunpierre fissuré\n|de   = Fission Junrock\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

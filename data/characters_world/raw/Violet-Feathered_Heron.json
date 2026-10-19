@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:58Z",
+  "title": "Violet-Feathered Heron",
+  "pageid": 23028,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Violet-Feathered Heron\n|title=\n|image=Violet-Feathered Heron Icon.png\n|dmgtype=Electro\n|weakpoint=\n|echo=Yes\n|class=Elite\n|family=Tacet Discord\n|group=Howler\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|An Elite Class Howler TD found in forests and shores. Their aggressive nature is often manifested in their thunderous actions.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Elite Howler}}\n\n==Stats==\n{{Enemy Stats|Violet-Feathered Heron}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Violet-Feathered Heron|customheader=Violet-Feathered Heron}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Electro damage}}.\u003cbr/\u003eHeron-like animals found active in mountain forests and water edges. Though born with wide-spreading purple wings, they only extend them and fly in furious thunderstorms.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Violet-Feathered Heron\n|zhs  = 紫羽鹭\n|zht  = 紫羽鷺\n|ja   = 紫羽サギ\n|ko   = 보라색 왜가리\n|es   = Garza Plumavioleta\n|fr   = Héron violet\n|de   = Violettfederreiher\n}}\n\n==Change History==\n{{Change History|1.0}} \n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

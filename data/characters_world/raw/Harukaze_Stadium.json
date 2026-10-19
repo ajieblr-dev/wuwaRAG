@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:50Z",
+  "title": "Harukaze Stadium",
+  "pageid": 38144,
+  "wikitext": "{{Location Infobox\n|image        = Harukaze Stadium.png\n|type         = Area\n|nation       = The Black Shores\n|region       = Chronorift Metropolis\n}}\n'''Harukaze Stadium''' is an [[Area]] located in [[Chronorift Metropolis]]. It is accessible via [[Stranger Things in Honami]].\n\n==NPCs==\n{{NPCs by Location List|Harukaze Stadium}} \n\n==Other Languages==\n{{Other Languages\n|en   = Harukaze Stadium\n|zhs  = 市立薰风体育场\n|zht  = 市立薰風體育場\n|ja   = 穂波市春風スポーツセンター\n|ko   = 시립 하루카제 경기장\n|fr   = Stade Harukaze\n|de   = Harukaze-Stadion\n|es   = Estadio Harukaze\n|th   = สนามฮารุคาเสะ\n}} \n\n==Change History==\n{{Change History|2.8}} \n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

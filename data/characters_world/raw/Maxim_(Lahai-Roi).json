@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:34Z",
+  "title": "Maxim (Lahai-Roi)",
+  "pageid": 65819,
+  "wikitext": "{{NPC Infobox\n|image       = NPC.png\n|type        = Open-World\n|nation      = Lahai-Roi\n|location    = Starward Riseway\n|affiliation = Department of Voidmatters\n|group       =\n}}\n{{Quote|Ah, the sheer magnificence of the Starward Riseway...|Maxim}}\n'''{{PAGENAME}}''' is a student seen admiring the Starward Riseway elevator.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Maxim:''' Ah, the sheer magnificence of the Starward Riseway… I never get tired of this view.\n:'''Maxim:''' A giant, solitary marvel buried underground, yet it's never alone. That's because it's Lahai-Roi's number one transportation hub, the busiest spot around.\n:'''Maxim:''' The carriages launched from here can reach the Research Institute or the surface in the blink of an eye.\n:'''Maxim:''' A true miracle of Exostrider Engineering, don't you think?\n:{{DIcon}} Indeed.\n:'''Maxim:''' Mm, I just love megastructures like this. Big is beautiful! Big is grand! Bigger is just \u003ci\u003ebetter\u003c/i\u003e.\n:'''Maxim:''' I dream of the day I can create something as monumental as the Starward Riseway… at least in size.\n:'''Maxim:''' By the way, where are you headed?\n:{{DIcon}} The Research Institute.\n::'''Maxim:''' Ah, the Institute… Haha, I remember being completely floored when I went there to burn my Cassette.\n::'''Maxim:''' It was as surreal as a spaceship from a sci-fi movie. Can you believe humans actually built something like that?\n::'''Maxim:''' Sigh… if only I'd been born a few decades earlier. To have seen these giants under construction…\n::'''Maxim:''' At least the Archive has footage from back then. That lets me fill in the blanks a little…\n:{{DIcon}} The Roya Frostlands.\n::'''Maxim:''' The Roya Frostlands, huh… That's not a place you can just visit on a whim.\n::'''Maxim:''' To go there, you need to be part of an expedition team. Or have a special permit from the Academy, but those are hard to come by.\n::'''Maxim:''' And when it's peak Void Storm season, or the Voidworms start acting up, service to the frostlands may be suspended.\n::'''Maxim:''' Until the all-clear orders, only automated supply runs make the trip.\n::'''Maxim:''' …Speaking of automated runs, I heard that once a girl stowed away in a freight carriage to sneak out to the frostlands.\n::'''Maxim:''' I don't know if she actually made it… but I bet the professors gave her a serious scolding.\n::'''Maxim:''' Don't try that yourself, okay? The frostlands are no joke. You go with permission, or you don't go at all.\n----\n;After {{Quest|Starlights from Yesterdays}} \n:'''Maxim:''' Since the Exostrider left Lahai-Roi, the Riseway has slowed down a lot.\n:'''Maxim:''' Its greatsword used to be part of the Riseway's support structure. But the Collective designed it so well that even after the sword was removed, it still operates... It's an engineering miracle.\n:\"We must move beyond reliance.\"\n:'''Maxim:''' True enough. Maybe that's exactly why the Spacetrek Collective exists.\n:'''Maxim:''' \"Solaris is the cradle of humanity, but one cannot live in a cradle forever.\"\n:'''Maxim:''' What you said just reminded me of that saying from the Old Federation.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Maxim\n|zhs  = 马克西姆\n|zht  = 馬克西姆\n|ja   = マキシム\n|ko   = 막시모\n|fr   = Maxim\n|de   = Maxim\n|es   = Maxim\n|th   = Maxim\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

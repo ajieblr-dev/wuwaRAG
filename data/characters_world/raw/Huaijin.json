@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:57Z",
+  "title": "Huaijin",
+  "pageid": 2641,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Huaijin.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Tiger's Maw Mine\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Huaijin''' is an NPC in {{Location|Tiger's Maw Mine}}.\n\n==Quests and Events==\n{{Quests and Events|Huaijin}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Huaijin:''' Let's call it a day. The happy hours begin! Hmm? It's you, is there something you need?\n:{{DIcon}} I think it's still business hours, right?\n:'''Huaijin:''' Hehe. Because I practice the \"conservationism of energy\". I avoid unnecessary endeavors and seek to finish what needs to be done with least efforts.\n:'''Huaijin:''' Although I'm often misunderstood, isn't it perfectly normal to get off work as soon as you're done with what you need to do?\n:'''Huaijin:''' The first principle of energy conservation is to learn to adapt. But I'm not talking about adapting to the pace of work, but about making work adapt to your own pace.\n:'''Huaijin:''' Alright, do you want to say goodbye to the energy-consuming work life with me?\n:'''Huaijin:''' For example, you can go to the living area. Although you can't bring the entire [[Jinzhou]] to the mining area, at least you can recreate parts of it.\n:'''Huaijin:''' Like the local dishes at the food stalls. Sharing conversations with your friends around a table over some tea. Or perhaps playing some chess with the retired miners.\n:'''Huaijin:''' Over time, this small area became the miniature of Jinzhou to the miners.\n:'''Huaijin:''' You need to feel the vibe yourself. Drop by the area if you have time.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Huaijin\n|zhs  = 怀瑾\n|zht  = 懷瑾\n|ja   = 懐瑾（カイキン）\n|ko   = 회근\n|es   = Huaijin\n|fr   = Huaijin\n|de   = Huaijin\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

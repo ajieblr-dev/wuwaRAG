@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:35Z",
+  "title": "Angry Father",
+  "pageid": 26227,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Angry Father.png\n|type             = Over-World \n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = Leto\n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Angry Father''' is an NPC that appears in [[Ragunna]], [[Rinascita]]. He can be found yelling at his son [[Leto]] at 8.00 AM - 3.59 PM.\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''Angry Father:''' Hey, get down! It's too dangerous!\n:'''Angry Father:''' If you keep messing around, the Order Penitentiary will come and take you all away!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Angry Father\n|zhs  = 家长\n|zht  = 家長\n|ja   = 保護者\n|ko   = 가장\n|es   = Padre\n|fr   = Angry Father\n|de   = Wütender Vater\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:18Z",
+  "title": "Zhenliu",
+  "pageid": 79503,
+  "wikitext": "{{NPC Infobox\n|image=NPC Zhenliu.jpg\n|type=Open-World\n|nation=Huanglong\n|location=Xuanfang Ministry of War\n|affiliation=Xuanfang Warden\n|group=\n}}\n'''{{PAGENAME}}''' is a Quest-Exclusive NPC. She was injured during the event that occured in the {{Quest|Xuanling Sings, Storm Quelled}}, and now helps deliver belongings to deceased warden members family.\n\u003c!--\n{{Dialogue Start}}\n==Idle==\n==Dialogue==\n{{Dialogue End}}\n--\u003e\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Zhenliu\n|zhs  = 枕流\n|zht  = 枕流\n|ja   = 枕流（チンリュウ）\n|ko   = 침류\n|fr   = Zhenliu\n|de   = Zhenliu\n|es   = Zhenliu\n|th   = Zhenliu\n|pt   = Zhenliu\n}}\n==Change History==\n{{Change History|3.5}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

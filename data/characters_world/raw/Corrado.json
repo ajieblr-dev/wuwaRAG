@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:04Z",
+  "title": "Corrado",
+  "pageid": 37956,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Carrado.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Hunter's Den\n|group            = Gladiator}}\n'''{{PAGENAME}}''' is a Quest Exclusive NPC Gladiator who only appears during {{Quest|By Sun's Burning Hand}}.\n==Dialogue==\n{{Dialogue Start}}\n:;Been a long while since the fire of the hunt burned this bright around here...\n:;How I wish you  were here to see it with me, old friend...\n\n:'''Corrado:''' A newcomer, are ya? Looking for someone to talk to?\n:{{DIcon}} Any stories about the hunts you've joined?\n:'''Corrado:''' Haha, sure. Let me tell you one... One I'll never forget.\n:'''Corrado:''' Thirty years ago, I went hunting with [[Falco|an old friend]]. We were young, hungry for the biggest, meanest beast we could find. My friend was stronger than the rest of us, and twice as ambitious. \n:'''Corrado:''' Following his plan, we spent days luring a Tacet Discord into the beast's territory. The goal was to provoke its territorial instinct and drive it into a fight.\n:'''Corrado:''' When the two monsters clashed, we pounced. With the help of the [[By Sun's Burning Hand#Glossary|Griffrexes]], we drove our blades through the beast's skull.\n:{{DIcon}} And then? What happened next?\n:'''Corrado:''' And then... he claimed the kill, took the glory, and left the [[Sanguis Plateaus|Plateaus]].\n:'''Corrado:''' I didn't mind. That was always our agreement. We both had dreams, and he had the better shot at making them real.\n:'''Corrado:''' But... like the beast we slew, he couldn't conquer his own hunger. Just another hunter, lost in someone else's hunting ground.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Corrado\n|zhs  = 科拉多\n|zht  = 科拉多\n|ja   = コッラード\n|ko   = 코라도\n|fr   = Corrado\n|de   = Corrado\n|es   = Corrado\n|th   = คอร์ราโด\n}}\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

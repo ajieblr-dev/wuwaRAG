@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:49Z",
+  "title": "Tiger's Maw Mine",
+  "pageid": 6015,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Tiger's Maw Mine\n|image=Tiger's Maw Mine.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Tiger's Maw\n}}\n'''Tiger\u0026#39;s Maw Mine''' is an area of [[Tiger's Maw]], [[Huanglong]]. \n\n==Quests==\n* [[Hidden Dangers in Peaceful Life]]\n\n==Features==\n===Resources===\n*{{Item|Lanternberry}}\n\n===Interactables===\n{{#dpl:|category = Tiger's Maw Mine Terminology|ordermethod= title}}\n\n==NPCs==\n{{NPCs by Location List|Tiger's Maw Mine}}\n\n==Other Languages ==\n{{Other Languages\n|en   = Tiger's Maw Mine\n|zhs  = 虎口矿场\n|zht  = 虎口礦場\n|ja   = {{Rubi|虎口|ここう}}採掘場\n|ko   = 호환 광산\n|es   = Mina de Fauces del Tigre\n|fr   = Mines des tigres\n|de   = Tigerschlund-Mine\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Features",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Interactables",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "8"
+    }
+  ]
+}

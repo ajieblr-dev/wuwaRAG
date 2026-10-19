@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:21Z",
+  "title": "Zig Zag",
+  "pageid": 23044,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Zig Zag\n|title=\n|image=Zig Zag Icon.png\n|dmgtype=Spectro\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Whisperin\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A Common Class Whisperin TD widely distributed in the wild. It can wield a small amount of Spectro energy for attacks.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Whisperin}}\n\n==Stats==\n{{Enemy Stats|Zig Zag}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Zig Zag|customheader=Zig Zags}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{color|Spectro damage}}.\u003cbr/\u003eAn immature humanoid Tacet Discord that often emits a \"zig zag” sound when they focus and release light rays.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Zig Zag\n|zhs  = 阿嗞嗞\n|zht  = 阿嗞嗞\n|ja   = アツツ\n|ko   = 아즈즈\n|es   = Zig Zag\n|fr   = Zig Zag\n|de   = Zig Zag\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

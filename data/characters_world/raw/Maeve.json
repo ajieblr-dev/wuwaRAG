@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:32Z",
+  "title": "Maeve",
+  "pageid": 77394,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|title            = Head Priestess\n|nation           = Rinascita\n|affiliation      = Septimont\n|affiliation2     = Tetragon Temple\n|group            = Tetragon Temple Priestess\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=莉莉贝}} is a Priestess [[NPC]] found praying at the entrance of Tetragon Temple. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:(Under the hands of a Priestess, even a blank wall may transform with quiet revelation.)\n\n:(But the Priestess averts her eyes from the flickering flames or fate, as if one more look will burn her.)\n\n:She trembles. She cannot bear to look. She cannot bring herself to paint.)\n\n:{{DIcon}} Murals don't paint themselves.\n\n:'''Maeve:''' I'm afraid of seeing too clearly. Once I see fate's full shape, I might never escape that future.\n\n:'''Maeve:''' And if I falter or lose my way... what will happen to those who look to me for guidance?\n\n:'''Maeve:''' Grandmother Lillibet once said, \"Know your fate, and prepare for it. Only then can we find firm ground on the path it takes us.\"\n\n:'''Maeve:''' It's okay... as long as I remember that, I won't be lost.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Maeve\n|zhs  = 梅芙\n|zht  = 梅芙\n|ja   = メイヴ\n|ko   = 매브\n|fr   = Maeve\n|de   = Maeve\n|es   = Maeve\n|th   = Maeve\n|pt   = Maeve\n}}\n\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

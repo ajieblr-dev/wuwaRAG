@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:59Z",
+  "title": "Chest Mimic",
+  "pageid": 25684,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name    = Chest Mimic\n|image   = Chest Mimic Icon.png\n|dmgtype = Spectro\n|echo    = Yes\n|class   = Common\n|family  = Tacet Discord\n|group   = \n}}\n{{Description|A deceptive Tacet Discord disguised as a supply chest, preying on the greed of its victims and devouring those who approach.}}\n{{Intro/Enemy}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies|Chest Mimic|customheader=Chest Mimic}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} against {{Color|Spectro DMG}}.\u003cbr\u003e\u003cbr\u003eA deceptive Tacet Discord disguised as a supply chest, preying on the greed of its victims and devouring those who approach. To this day, no scholar has been able to determine just how much a Chest Mimic can consume. Some records suggest that it has a strange tendency to swallow others of its kind, absorbing the treasures they have claimed. Hence, it's often referred to as the \"Rinascita Nesting Doll\" in the Pioneer Association's Ecoacoustics reports.|Description when discovered}}\n\n==Tutorial==\n{{Tutorial|Chest Mimic}}\n\n==Other Languages==\n{{Other Languages\n|en   = Chest Mimic\n|zhs  = 欺诈奇藏\n|zht  = 欺詐奇藏\n|ja   = 秘蔵ミミック\n|ko   = 미믹\n|es   = Cofre Mímico\n|fr   = Coffre trompeur\n|de   = Truhe Mimik\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

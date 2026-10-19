@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:45Z",
+  "title": "Gladiator's Portrait",
+  "pageid": 26812,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|name             = Gladiator's Portrait\n|image            = NPC Gladiator's Portrait.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Montelli Quarter\n|group            = \n|title            = Simulation Training\n}}The '''Gladiator's Portrait''' is an [[Echo]] NPC that offers [[Simulation Training]] in {{Location|Ragunna}}.\n\n==Quests and Events==\n{{Quests and Events|Gladiator's Portrait}}\n\n==Other Languages==\n{{Other Languages\n|en   = Gladiator's Portrait\n|zhs  = 角斗士的肖像\n|zht  = 角鬥士的肖像\n|ja   = グラディエーターの肖像画\n|ko   = 투사의 초상화\n|es   = Adriano el Gladiador\n|fr   = Portrait du gladiateur\n|de   = Gladiator\n|th   = \n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

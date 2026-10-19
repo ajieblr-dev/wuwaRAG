@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:59Z",
+  "title": "Vitreum Dancer",
+  "pageid": 25683,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Vitreum Dancer\n|image         = Vitreum Dancer Icon.png\n|dmgtype       = Electro\n|echo          = Yes\n|class         = Elite\n|family        = Tacet Discord\n|group         = Whisperin\n|group2        = Influenced by the Dark Tide\n|nation        = Rinascita\n}}{{Description|A humanoid Tacet Discord with a body assembled from shattered stained glass. Glittering lights beam from its body with each move.}}\n{{Intro/Enemy}}\n==Drops==\n{{Drops|Elite Dark Tide Influenced}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies|Vitreum Dancer}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} against {{Color|Electro damage}}.\u003cbr/\u003e\u003cbr/\u003eA humanoid Tacet Discord with a body assembled from shattered stained glass. Glittering lights beam from its body with each move. It exudes a resilient beauty born of rebirth through destruction.\u003cbr/\u003e\u003cbr/\u003eThe stained glasses that form the Vitreum Dancers are varied and unique, making each Vitreum Dancer a unique existence.|Description when discovered}}\n\n==Other Languages==\n{{Other Languages\n|en  = Vitreum Dancer\n|zhs = 琉璃刀伶\n|zht = 琉璃刀伶\n|ja  = ヴィトルムダンサー\n|ko  = 블레이드 댄서\n|es  = Bailarina Vítrea\n|fr  = Danseuse du Vitreum\n|de  = Vitreum Tänzerin\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

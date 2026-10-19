@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:11Z",
+  "title": "Kangjiu",
+  "pageid": 2663,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Kangjiu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Kangjiu''' is an NPC in {{Location|Jinzhou}}. He is incredibly unlucky.\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Why am I so unlucky...\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Morning)\n:'''Kangjiu:''' Sigh I'm going to be late for work again... Being chased by a giant whale in my dream wore me out. The alarm clock went off a hundred times, and I still didn't hear it...\n:'''Kangjiu:''' If only the butterfly nymph were here, she'd definitely scare away that whale...\n----\n;(Afternoon)\n:'''Kangjiu:''' Ouch! Who left this huge rock in the middle of the road? Ouch... my foot...\n:'''Kangjiu:''' This isn't working. I wanted to go to the fairy mountain at sea to get some good luck... With my luck, I might not even see the mountain when I get there...\n----\n;(Night)\n:'''Kangjiu:''' Hmm... What should I eat next?\n:'''Kangjiu:''' Wait. Why is my wallet empty? Where's my money...\n----\n;(Around Midnight)\n:'''Kangjiu:''' Why am I always so unlucky...\n:'''Kangjiu:''' Once, when I was at sea, a whale broke the hull of our boat. I still lived to see the nymph mountain!\n:'''Kangjiu:''' My luck shouldn't be this bad, I haven't seen the butterfly nymph yet...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Kangjiu\n|zhs  = 康玖\n|zht  = 康玖\n|ja   = 康玖（コウキュウ）\n|ko   = 강식\n|es   = Kangjiu\n|fr   = Kangjiu\n|de   = Kangjiu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:13Z",
+  "title": "Romeo",
+  "pageid": 38433,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Romeo.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Department of Voidmatters\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Romeo''' is a male student of the Department of Voidmatters, found at the [[Spacetrek Archive]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Romeo:''' ...The \"Fundamentals of Phase Coating Theory and Techniques\" exam is on Monday. Great, I haven't read a single chapter yet...\n:'''Romeo:''' Then there's the \"Consciousness Field Theory\" exam on Tuesday. That one's okay, I guess. Just one big chapter left to go through... Not like the earlier chapters gave much away for the answers anyway.\n:'''Romeo:''' Wednesday, \"Roya Socio-Cultural History.\" I'll cram it on Wednesday morning. And there's the campus [[Fleet Snowfluff|virtual idol]] online concert this weekend, so it'll be another all-nighter...\n:'''Romeo:''' Ugh, why should a student handle so much stuff?\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Romeo\n|zhs  = 雷麦欧\n|zht  = 雷麥歐\n|ja   = レイメオ\n|ko   = 레마이오\n|fr   = Romeo\n|de   = Romeo\n|es   = Romeo\n|th   = Romeo\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

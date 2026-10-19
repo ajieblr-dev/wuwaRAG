@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:01Z",
+  "title": "Icefield Beast",
+  "pageid": 42107,
+  "wikitext": "{{Enemy Infobox\n|name       = Icefield Beast\n|image      = Glacio Dreadmane Icon.png\n|dmgtype    = Glacio\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|group      = Howler\n|nation     = Huanglong\n|region     = Mt. Firmament\n|level      = 100\n}}\n'''Icefield Beast''' is a [[Special Enemies|special enemy]] found on {{Location|Mt. Firmament|nocat=1}}.\n\n\n==Location==\n\u003cgallery\u003e\nIcefield Beast Location.png|Location\nIcefield Beast Location Context.png|Location Context\n\u003c/gallery\u003e\n\n==Trophies==\n{{Trophies|Howlers in the Icefield|customheader=Icefield Beast}} \n\n==Other Languages==\n{{Other Languages\n|en  = Icefield Beast\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n}} \n\n\n==Trivia==\nThe original name of this Special Enemy was ''Howlers in the Icefield''.\n\n==Change History==\n{{Change History|1.1}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

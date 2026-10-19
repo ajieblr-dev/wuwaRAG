@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:40Z",
+  "title": "Suzu",
+  "pageid": 40510,
+  "wikitext": "{{Terminology Infobox\n|title        = Suzu\n|image        = \n|type         = Lore\n|nation       = Ashinohara\n}}\n'''Suzu''' is a [[Legacy Talismans|Legacy Talisman]] from [[Ashinohara]], in the possession of the Miko of Flaming Sakura, [[Hiyuki]]. Like the other Talismans, it was left behind in the country for safekeeping by the [[Sentinels]].\n\n==Other Languages==\n{{Other Languages\n|en      = Suzu\n|zhs     = \n|zht     = \n|ja      = \n|ko      = \n|es      = \n|fr      = \n|de      = \n|th      = \n|pt      = \n}}\n\n==Change History==\n{{Change History|3.3}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

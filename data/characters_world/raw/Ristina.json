@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:12Z",
+  "title": "Ristina",
+  "pageid": 39200,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Ristina.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Square\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' and  '''Caroline''' are NPC female researchers found nearby the {{Rubi|Solis Lens Array|Lahai-Roi Resonance Nexus}} during the day.\n\n{{Dialogue Start}}\n==Idle==\n:Did Black Shores change their recruiter?\n\n==Dialogue==\n:Caroline: [[Basic Introduction to the Black Shores I|KU-Tata]] from the Black Shores HR... applying for a campus visitation pass?\n:Caroline: Did the Black Shores change their recruiters? I thought it was Ms. [[Paranora]] and Mr. [[Aalto]].\n:Ristina: Yeah. Mr. Aalto got sent to the New Federation for urgent marine insurance issues, so the application changed at the last minute.\n:Caroline: But biometric scans and frequency checks don't work on a [[KU-Roro]]... How am I supposed to approve this?\n:Ristina: Good point... Has a KU-Roro ever entered Lahai-Roi before? How did they handle it?\n:Caroline: Let me check... Oh, the Black Shores just shipped it here... Shipped it?\n:Caroline: Sender: Mr. Aalto. Courier: Mr. Wei from Lollo Logistics.\n:Ristina: E-economy shipping? Well, I guess that works...\n{{Dialogue End}}\n\n==Triva==\n* Aalto's boat issue happened during {{Quest|Through the Sea Thou Break}}\n* There is a Lollo Logistic member in Black Shores named [[Weyl]], who specifically handles Black Shores deliveries. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ristina\n|zhs  = 芮思汀娜\n|zht  = 芮思汀娜\n|ja   = レスティナ\n|ko   = 리스티나\n|fr   = Ristina\n|de   = Ristina\n|es   = Ristina\n|th   = Ristina\n}}\n\n{{Other Languages\n|en   = Caroline\n|zhs  = 卡洛莉娜\n|zht  = 卡洛莉娜\n|ja   = カロリーナ\n|ko   = 칼로리네\n|fr   = Caroline\n|de   = Caroline\n|es   = Caroline\n|th   = Caroline\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Triva",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

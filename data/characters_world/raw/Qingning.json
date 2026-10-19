@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:05Z",
+  "title": "Qingning",
+  "pageid": 4273,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Qingning.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Public Security Bureau\n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          = Qingxi\n|child            = \n|relative         =\n}}\n'''Qingning''' is an NPC in [[Huanglong]]. She guards the western entrance to Jinzhou with [[Heguang]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Qingning:''' When they say, \"Make the most of the land, and the people's wisdom will follow,\" they've gotta be talking about this impressive high wall in Jinzhou.\n:'''Qingning:''' I heard the creation of this wall was a lucky accident. The byproducts from processing [[Tacetite]] weapons turned out to be ideal for defense.\n:'''Qingning:''' It's ideal for building strong and stable defense structures.\n:'''Qingning:''' The land was used to its fullest, and everyone did their part. Together, we built Jinzhou brick by brick with our skills.\n:'''Qingning:''' I think it's not only the high wall that keeps Jinzhou safe, but all of us who stand behind it.\n:'''Qingning:''' Thinking about this makes the dullness and weariness of guarding the gate fade away.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Qingning\n|zhs  = 清凝\n|zht  = 清凝\n|ja   = 清凝（セイギョウ）\n|ko   = 세영\n|es   = Qingning\n|fr   = Qingning\n|de   = Qingning\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

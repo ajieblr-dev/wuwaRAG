@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:03Z",
+  "title": "Claudio",
+  "pageid": 28017,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Claudio.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Fool's Elysium\n|group            = \n|affiliation      = Troupe of Fools\n|title            = \n}}\n'''Claudio''' is a Troupe of Fools member who can be found speaking with [[Patricia]] about their next performance.\n\n==Quests and Events==\n{{Quests and Events}}\n''(Not in any quest or event yet)''\n\n==Dialogue==\n{{Dialogue Start}}\n;(When talking with Patricia)\n:'''Patricia:''' I suspect we'll head for [[Lilyland]] next.\n:'''Claudio:''' I'd wager that [[Septimont]] is more likely.\n:{{DIcon}}: What are you doing?\n:'''Claudio:''' We're debating our next destination. We're still on a Pan-Ragunna Tour, after all.\n:'''Claudio:''' The Captain often says, \"Wherever the applause calls, there we'll go to 'capture laughter.' With our craft, our wit, and a touch of our own flair, we'll claim what's rightfully ours.\"\n:'''Patricia:''' True enough. But each island has its own tastes when it comes to theater. We'll need to tailor our efforts to make sure everyone feels the journey was worthwhile!\n:'''Claudio:''' But, whether we head to the Lilyland's Sea of Flowers or the exhilarating spectacles of Septimont, it's up to the captain to decide!\n----\n;(Where [[Tulio]] was last seen in Fool's Elysium)\n:'''Claudio''': Ah... of all days, why'd he pick such awful weather...\n:'''{{DIcon}}:''' Acolyte Tulio, what are you doing here? {{sic}}\n:'''Claudio''': A member witnessed the Acolyte secretly sailing away from the stronghold alone at night.\n:'''Claudio''': We can understand why Order members don't recognize us... it's understandable if they leave.\n:'''Claudio''': But... ah, with this weather... fog all around, and the storm is closing in.\n:'''Claudio''': I hope the Sentinel's blessings see him safely ashore...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Claudio\n|zhs  = 克劳迪奥\n|zht  = 克勞迪奧\n|ja   = クロディーオー\n|ko   = 클라우디오\n|es   = Claudio\n|fr   = Claudio\n|de   = Claudio\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

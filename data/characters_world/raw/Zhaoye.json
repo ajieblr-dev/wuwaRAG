@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:17Z",
+  "title": "Zhaoye",
+  "pageid": 79072,
+  "wikitext": "{{NPC Infobox\n|image=NPC.png\n|type=Open-World\n|nation=Huanglong\n|location=Xuanfang Hold\n|affiliation=Xuanfang Wardens\n|group=\n}}\n'''Zhaoye''' is a male NPC Xuanfang Warden found with his fellow Warden, Cangxian and Jiangban. \n\nThey can be found at Xuanfang Hold, Verdant Court after the completion of {{Quest|Xuanling Sings, Storm Quelled}} \n\n{{Dialogue Start}}\n==Dialogue==\n:'''Zhaoye:''' Please let me retire safely and return home to get married.\n\n:'''Cangxian:''' That sounds great. But listen, if I'm not standing there as your best man, I won't forgive you.\n\n:'''Jiangban:''' Hey, don't leave me out! I've been saving my appetite for your wedding feast for ages!\n\n:'''Rover:''' (They say it's bad luck to make promises like that before a battle... but as the saying goes: a single branch is easily snapped, while a bundle remains unyielding.)\n\n:'''Rover:''' (If these three stay together... perhaps they really have nothing to fear.)\n\n:'''Rover:''' (I hope so, anyway...)\n\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Zhaoye\n|zhs  = 照野\n|zht  = 照野\n|ja   = 照野（ショウヤ）\n|ko   = 조야\n|fr   = Zhaoye\n|de   = Zhaoye\n|es   = Zhaoye\n|th   = Zhaoye\n|pt   = Zhaoye\n}}\n\n==Change History==\n{{Change History|3.5}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

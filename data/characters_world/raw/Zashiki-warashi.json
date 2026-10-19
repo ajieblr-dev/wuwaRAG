@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:16Z",
+  "title": "Zashiki-warashi",
+  "pageid": 39855,
+  "wikitext": "{{NPC Infobox\n|title            =\n|image            = \n|type             = Mentioned\n|nation           = Ashinohara\n|affiliation      = Fractsidus\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Zashiki-warashi''' {{Lang|ja=座敷童子}} is an Overseer of the [[Fractsidus]] who is first mentioned during [[All That Sunlight Touches]]. They are said to primarily operate in [[Ashinohara]], a region that's been largely destroyed by [[the Lament]].\n\n==Trivia==\n===Etymology===\n*[[wp:Zashiki-warashi|''Zashiki-warashi'']] {{Lang|ja=座敷童子}} are spirit-like yōkai that in parlors or storage rooms and perform pranks. It is believed that families who saw one would receive good fortune.\n\n==Other Languages==\n{{Other Languages\n|en   = Zashiki-warashi\n|zhs  = 座敷童子\n|zht  = 座敷童子\n|ja   = 座敷童子\n|ko   = 자시키와라시\n|fr   = Zashiki-warashi\n|de   = Zashiki-warashi\n|es   = Zashiki-Warashi\n|th   = Zashiki-warashi\n|pt   = Zashiki-warashi\n}}\n\n==Change History==\n{{Change History|introduced=3.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "4"
+    }
+  ]
+}

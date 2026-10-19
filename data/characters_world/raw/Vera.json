@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:55Z",
+  "title": "Vera",
+  "pageid": 42206,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Event\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|location2        = Rabelle College\n|group            = \n|affiliation      = \n|title            = \n}}{{Quote|[[Prometheus]] did not possess transcendent powers or divine strength—just an unwavering passion for truth}}\n'''{{PAGENAME}}''' is an event-exclusive [[NPC]] for the {{Quest|Gold Suspended in Shadows}} during the {{Extra Effect|New Solar Celebration|New Solar Celebration|The Exostrider poured forth light and heat from its Reactor Drive, sheltering life from the killing frost. Grateful for this gift, the Roya revered the Reactor Drive as their sun. They took it upon themselves to gather the Exostrider's \"cells,\" making this quiet labor the duty of their tribe.\u003cbr\u003eNow, their ancient vow is complete. As the new sun rises, they hold the New Solar Celebration, both to mark the renewal and to remind their kin of the purpose that set them on this path.}}.\n\nShe appears in the debate club room at :{{color|help|\u003cnowiki\u003e12:00-14:59\u003c/nowiki\u003e}}\n\n{{Dialogue Start}}\n==Idle==\n:'''Vera''' Regarding today's debate topic...\n:'''Vera''' The Proposition argues that departments should prioritize those with great passion...\n\n==Dialogue==\n:'''Vera:''' Regarding today's debate topic: Should departments prioritize passion or expertise during selection?\n:'''Vera:''' The Proposition argues that only choices made in passion can sustain someone in the long term.\n:'''Vera:''' Just because a decision defies a cold cost-benefit analysis doesn't make it rash or impulsive.\n:'''Vera:''' Prometheus did not possess transcendent powers or divine strength—just an unwavering passion for truth.\n----\n:;The left side has some really good points, but the right side isn't wrong either... Oh, which one should I choose?\n\n:;Did you see Speaker 4 of the Opposition's face when Speaker 3 was talking? That was loaded.\n:;I hear that Speaker 4 of the Opposition got rejected when he confessed his feelings.\n:;Then... Speaker 3 was a bit offensive to bring that up, no?\n\n:'''Haden:''' Impulses that defy logic and the scientific method can produce beautiful, meaningful moments, and passion certainly fuels impulsivity...\n:'''Haden:''' he Opposition approves of the right to indulge in impulses, but only science and reason can carry us forward. They are the compass.\n:'''Haden:''' A friend of mine once rode his motorbike into an active Voidworm zone all alone, just to find a heart-shaped chunk of Meteoric Iron as a gesture of his love...\n:'''Haden:''' He still had to come back to campus. Finish his degree. Use that expertise to survive his dissertation.\n:'''Raleigh:''' ...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Vera\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

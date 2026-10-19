@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:25Z",
+  "title": "Liuqin",
+  "pageid": 2669,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_dialogue = yes\n}}\n{{Stub|Dialogue}}\n{{NPC Infobox\n|image            = Liuqin.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Huaxu Academy\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Liuqin''' is a researcher of medicines working at [[Huaxu Academy]] in {{Location|Jinzhou}}. He is the brother of [[Koko]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(First time meeting)\u003c!---not sure if missing dialogue options, can't find this prompt anymore---\u003e\n:'''Liuqin:''' Should I join Mr. [[Mortefi]]'s project? ...Koko, would you support my decision?\n:'''Liuqin:''' Ah, you must be the Rover. What can I do for you?\n:'''{{DIcon}}:''' Mortefi's project?\n:'''Liuqin:''' Koko is my little sister, and she's currently the acting manager of [[Shifang Pharmacy]].\n:'''Liuqin:''' Yesterday, Mr. Mortefi invited me to join one of his projects.\n:'''Liuqin:''' But joining would mean spending even less time with Koko.\n:'''{{DIcon}}:''' Why is this project so appealing to you?\n:'''Liuqin:''' I don't want to pass up this chance. It's more than just a project. Being able to working{{sic}} alongside Mr. Mortefi is an honor itself.\n:'''Liuqin:''' He's probably the most respected researcher here, just behind our Principal Investigator, Mr. [[Xiangli Yao]].\n:'''Liuqin:''' He's great at fending off unreasonable client demands. He rejected over 40 of them in his first week alone!\n:'''Liuqin:''' He even treats us to afternoon tea. He really looks out for us.\n:'''{{DIcon}}:''' Who's more talented than this Mortefi? \n:'''Liuqin:''' Mortefi's been trying to outdo him in research, but it's not easy. Xiangli is just... built different.\n:'''Liuqin:''' About Mr. Xiangli... You'll see what I mean when you meet him.\n----\n;(Outdoor 6PM-12AM)\n:'''Liuqin:''' Hmm... the medicine seems to be working better this time.\n:{{DIcon}}: Is he sick?\n:'''Liuqin:''' Yes, this is my patient, [[Niu]]. He's got a strange illness, and the usual meds don't work on him.\n:'''Liuqin:''' So I decided to try a new medicine, hoping it'll do the trick.\n----\n;(Indoor 1AM-9AM)\n:'''Liuqin:''' Rover, is that you? You're still up at this hour?\n:'''Liuqin:''' You gotta get more sleep, or you'll end up like us, unable to sleep even when you want to.\n:'''{{DIcon}}:''' Have you been busy lately?\n:'''Liuqin:''' We're pretty much always busy.\n:'''Liuqin:''' You know what? Koko might actually be right. I've seriously considered quitting my job to join her, running the pharmacy.\n:'''Liuqin:''' But after mulling it over, I still preferred to stay and do research.\n:'''Liuqin:''' Our current medicines can handle most diseases.\n:'''Liuqin:''' However, with the discovery of more diseases and the spread of new treatments, we're also facing an increasing number of pathogens.\n:'''Liuqin:''' So, meds gotta stay up to date, and my job is to give more powerful tools to those battling diseases.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Liuqin\n|zhs  = 柳卿\n|zht  = 柳卿\n|ja   = 柳卿（リュウケイ）\n|ko   = 유경\n|es   = Liuqin\n|fr   = Liuqin\n|de   = Liuqin\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

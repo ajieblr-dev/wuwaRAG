@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:12Z",
+  "title": "Riccioli Islands",
+  "pageid": 27328,
+  "wikitext": "{{Location_Infobox\n|title  = Riccioli Islands\n|image  = Riccioli Islands.jpg\n|map    = Solaris-3\n|type   = Region\n|nation = Rinascita\n}}\nThe {{Intro/Location|Riccioli Islands}} It is a group of islands northwest of Ragunna, rich in various marine resources. Falling out of the governance of the Order of the Deep, these islands have preserved the customs from Rinascita's Age of a Thousand Islands era, setting them apart from the rest of Ragunna in lifestyle. However, rumor has it a great mystery lies hidden within this secluded paradise...\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Port of Riccioli\"\n|[[Port of Riccioli]]\n|[[File:Port of Riccioli.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Helm Village\"\n|[[Helm Village]]\n|[[File:Helm Village.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Serene Bay\"\n|[[Serene Bay]]\n|[[File:Serene Bay.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Reyes Ruins\"\n|[[Reyes Ruins]]\n|[[File:Reyes Ruins.png|180px]] \u003cbr /\u003e\n|\n|- id=\"Drake's Island\"\n|[[Drake's Island]]\n|[[File:Drake's Island.png|180px]] \u003cbr /\u003e\n|\n|}\n==Quests==\n{{Quest by Category List|Riccioli Islands Quests}}\n\n==Exploration Report==\n\n==='''Riccioli Islands Promotional Poster I'''===\n* Unlocked by reaching 50% exploration.\n\n{{Transclude|Riccioli Islands Promotional Poster I|Text|main=1}}\n\n==='''Riccioli Islands Promotional Poster II'''===\n* Unlocked by reaching 100% exploration.\n\n{{Transclude|Riccioli Islands Promotional Poster II|Text|main=1}}\n\n== Notable Features==\n===Tacet Fields===\n* [[Tacet Field: Riccioli Islands]]\n===Resources===\n\n==Other Languages==\n{{Other Languages\n|en   = Riccioli Islands\n|zhs  = 黎乔利群岛\n|zht  = 黎喬利群島\n|ja   = リジョリ群島\n|ko   = 리졸리 군도\n|es   = Islas Riccioli\n|fr   = Les îles Riccioli\n|de   = Riccioli-Inseln\n|th   = \n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eRiccioli Islands Promotional Poster I\u003c/b\u003e",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eRiccioli Islands Promotional Poster II\u003c/b\u003e",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tacet Fields",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

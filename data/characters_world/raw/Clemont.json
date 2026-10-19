@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:03Z",
+  "title": "Clemont",
+  "pageid": 36622,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Riccioli Islands\n|group            = \n|affiliation      = \n|title            = \n}}\n\n'''Clemont''' is a male NPC found by the lighthouse in Port of Riccioli, [[Riccioli Islands]]. He is a colleague of [[Bertoli]]. \n\n==Dialogue==\n{{Dialogue Start}}\n:'''Clemont''': You're telling me... this lighthouse existed even before the founding of Ragunna?\n:'''Paxton''': Huh? What was that?\n:'''Clemont''': I said... this very lighthouse, it was here before Ragunna was even a thought, right?\n:'''Paxton''': Ah, yes, that's right.\n:'''Paxton''': They say [[Imperator]] built these lighthouses as part of some grand plan, something They laid out long before.\n:'''Paxton''': The tale has been passed down through the ages. My great-grandfather spoke of it, too.\n:{{DIcon}} That would make it older than the [[Order of the Deep]].\n:'''Clemont''': Well, if it's really true, it would make this place an archaeological treasure trove.\n:'''Paxton''': Stove? You looking to roast some fish? Head to the market, you'll find it there, easy enough.\n:'''Clemont''': Ah, it  seems your hearing is a bit...\n:'''Clemont''': It's quite alright, old sir! Thank you! Have a nice day!\n:'''Paxton''': Aye, sure, you're welcome, kid. If you're serious about diggin' up stories, head on over to Helm Village. Those old codgers are no younger than me. They'll have stories to share.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Clemont\n|zhs  = 克莱蒙\n|zht  = 克萊蒙\n|ja   = クレモン\n|ko   = 클레르몽\n|es   = Clemont\n|fr   = Clemont\n|de   = Clemont\n}}\n==Change History==\n{{Change History|2.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

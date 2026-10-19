@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:16Z",
+  "title": "Ruka",
+  "pageid": 38437,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Ruka and Arisa.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Department of Light Energy Sciences\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Ruka''' and '''Arisa''' are female student NPC who is talking about [[Chisa]]. They can be found on the pathway below in front of [[N.A.N.A.]].\n\n==Location==\n\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Ruka:''' Chisa's top of the class again... How impressive...\n:'''Ruka:''' She enrolled not long ago but is already caught up. How can I get that good...?\n:'''Arisa:''' Why not just ask her for advice?\n:'''Ruka:''' Eh?! She feels... I don't know, unapproachable?\n:'''Arisa:''' Really? I once had low blood sugar, and she was the first to notice. Took me straight to infirmary and stuffed me with chocolate... Maybe she's nicer than she looks?\n:'''Ruka:''' Then what does she like? I should think of some common interests first before I approach her, right?\n:'''Arisa:''' I've seen her at the bookstore a few times reading the same novel... something like \"And Then There Were No Tacet Discords\"?\n:'''Ruka:''' \"And Then There Were No Tacet Discords\"?! I know that one! So she likes classic mystery novels too, hehe...\n:'''Arisa:''' More importantly, fix your schedule. You won't bump into her if you're sleeping through most of the day and partying at night.\n----\n;During {{Quest|Starlights from Yesterdays}} - Search for Runes\n:;Chisa is amazing. That giant TD didn't even last a second against her.\n:;I figured she was just the brainy type. Didn't expect her to be that good in a fight too...\n:;You think this operation might be our chance? To become friends with her?\n:;Uh... maybe? Though she kind of never looks us in the eye...\n:;Then we go to her first!\n----\n;After {{Quest|Starlights from Yesterdays}}\n:;'''Ruka''' Did you see what happened during that Void Storm?\n:;'''Arisa''' You mean that student, Chisa...\n:'''Ruka:''' Did you see what happened during that Void Storm?\n:'''Arisa:''' You mean that student, Chisa...\n:'''Ruka:''' Yup, you saw her too, right? Chisa doesn't follow the crowd. She does her own thing with style.\n:'''Arisa:''' Right? I know she excels academically, but standing up to protect everyone? That's next level.\n:'''Ruka:''' I almost tripped running for cover, and she caught me. She's actually the sweetest, too.\n:'''Arisa:''' Say, aren't you in the Detective Novel Fan Club? What's the membership thing again?\n:'''Ruka:''' Read three detective novels, any subgenre... Wait, why the sudden interest?\n:'''Arisa:''' Chisa likes detective stories too, right? The fan club could invite her to join.\n:'''Ruka:''' Oh, good call! If Chisa wants in, the club leader will definitely approve it. What about you, Arisa?\n:'''Arisa:''' Me? If Chisa could be my reading partner... then yeah, I'll join, too!\n:'''Ruka:''' Then you've got some homework, girl. You could start with \"There Were None,\" \"The Big Quartet, and \"Mystery on the Etheric Express.\"\n{{Dialogue End}}\n\n==Note==\n* '''And Then There Were No Tacet Discords''' is a reference a real life mystery novel;  '''And Then There Were None by Agatha Christie'''. \n\n==Other Languages==\n{{Other Languages\n|en   = Ruka\n|zhs  = 琉夏\n|zht  = 琉夏\n|ja   = 琉夏\n|ko   = 루카\n|fr   = Ruka\n|de   = Ruka\n|es   = Ruka\n|th   = Ruka\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Note",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:56Z",
+  "title": "Cheng",
+  "pageid": 4267,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Cheng.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = Lollo Logistics\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Cheng''' is a Lollo Logistic NPC in found in Central Plains and Whining Aix's Mire, [[Huanglong]]. They are involved in a series of side quests in the wild. \u003cbr\u003eSimilar situation is [[Rong'an]] and [[Xingbai]].\n\n==Total Reward==\n{{Event Rewards\n|Union EXP=80\n|Astrite=40\n|Medium Resonance Potion=8\n|Medium Energy Core=4}} \n\n{{Dialogue Start}}\n==Dialogue==\n;(Central Plains)\n;'''Cheng''' I'm screwed... There's no way I'm getting them back...\n:{{DIcon|Quest}} What happened?\n::'''Cheng'''  I saw someone staring up at something, so I got curious and looked up...\n::'''Cheng''' When I turned around, I realized that all the packages I'm delivering had been snatch away by those [[Viridblaze Saurian|damn lizards]]!\n::{{DIcon}} ...\n::'''Cheng''' Do you think we can sneak up on them and get my packages back?\n::{{DIcon}} Leave it to me.\n:{{DIcon|Exit}} Leave\n\n;(Retrieve Backpack)\n;'''Cheng''' You really managed to get them back!\n:'''Cheng''' Those were some really cool moves! Wow!\n:'''Cheng''' Oh right, thank you for helping me get my packages back!\n----\n;(Central Plains)\n;(Defeat Exiles)\n;'''Cheng''' Now you'll think twice before coming back to mess with me again! Bah!\n:{{DIcon|Quest}} Are you all right?\n::'''Cheng''' Huh? Oh! Yeah, yeah, I'm fine! I appreciate your help, stranger!\n::'''Cheng''' I can't figure out the life of me why these  fools keep coming after me! I'm never taking this path again!\n::'''Cheng''' Good thing you came to help! Much obliged!\n:{{DIcon|Exit}} Leave\n----\n;(Whining Aix's Mire)\n;'''Cheng''' Soooo huuunnngryyyy...\n:{{DIcon|Quest}} Why are you so hungry?\n::'''Cheng''' Oh, don't even get me started. My lunch was stolen! Grrr... Ugh...\n::'''Cheng''' Well... Did you pack any extras?\n:{{DIcon|Exit}} Leave\n\n;(Item delivery)\n:My hero! Anything will do! Just give me something to eat!\n\n:'''Cheng''' Thank you!\n:'''Cheng''' Oh, this is so good!\n----\n;(Whining Aix's Mire)\n;'''Cheng''' I don't have any money on me, really. I don't have any!\n:{{DIcon}} What happened?\n:'''Cheng''' They're asking me to pay the toll before they would let me pass. But I really don't have any money on me.\n:'''Cheng''' I even showed them my pockets, and they still won't believe me. Our stations has all the supplies we need, so I don't usually need to carry any money on me.\n:{{DIcon}} You sure its a good idea to say these things in front of them?\n:'''Cheng''' Um, yeah... Hey! They're trying to take my clothes!\n\n;(Defeat the Exiles)\n:'''Cheng''' Phew. They almost got away with it!\n:'''Cheng''' I'm so glad you helped me out. I need to get going and deliver this package now, or I'll be late for the order.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Cheng\n|zhs  = 阿澄\n|zht  = 阿澄\n|ja   = 澄\n|ko   = 여정\n|fr   = Cheng\n|de   = Cheng\n|es   = Cheng\n|th   = Cheng\n}}\u003c!--\n==Video Guide==\n{{#ev:youtube|faPXFISIEcY|||Guide: All Lollo Logistic NPC Location (Xingbai, Rong'an, Cheng)}}\n\nneed permission--\u003e\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Total Reward",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

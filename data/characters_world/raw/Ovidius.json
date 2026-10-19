@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:56Z",
+  "title": "Ovidius",
+  "pageid": 36754,
+  "wikitext": "{{Stub|Confirmation of possible easter egg. Unable to recreate scenario.}}\n{{NPC Infobox\n|image            = .png\n|type             = Open-World/Event\n|nation           = Rinascita\n|location         = Septimont\n|group            = \n|affiliation      = \n|title            = \n}}\n'''Ovidius''' is a male NPC telling horror story to children in [[Capitoline Hill City]]. \u003c!--In the same location, a [[Aero Predator]] may appear at night. --\u003e\n\n{{Dialogue Start}}\n==Dialogue==\n;(Day)\n:'''Ovidius''': They say during rainy nights, you can hear something whimpering in the Old District... The sounds of a bird, a lion. Even slithering across your body quietly like a snake...\n:'''Ovidius''': A man was so curious that he decided to walk into the water to find out what it was.\n:'''Ovidius''': He slowly walked into the lake to get a better look. And then...\n:{{DIcon}} And then?\n:'''Ovidius''': And then... he saw a strange creature. The combination of a lion and a snake, but it also had the wings of a bird. The moment the creature and the man met eye to eye, it pounced towards him!\n:'''Ovidius''': The man ran with all his might, yet he was nowhere near the edge of the lake. That was when he realized that he had stepped into a darkened sea...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions|Name}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ovidius\n|zhs  = 奥维第乌斯\n|zht  = 奧維第烏斯\n|ja   = オウィディウス\n|ko   = 오비디우스\n|es   = Ovidius\n|fr   = Ovidius\n|de   = Ovidius\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

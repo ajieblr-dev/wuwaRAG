@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:21Z",
+  "title": "Esson",
+  "pageid": 42837,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is a male [[Lollo Logistics]] [[NPC]], who is actually an [[Outcasts|Outcast]] in disguise, seen trying to extract information from '''Halberg'''. They can be found outside the Academy at night while the '''real Esson''' is located nearby [[Atuja Camp]] [[Resonance Nexus|{{tt|Solis Lens Array|Resonance Nexus}}]] and is unfortunately mistaken as the Outcast.\n\n==Location==\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Esson:''' Chief, I still don't get it. Just how many procedures does external cargo need to get into [[Lahai-Roi]]?\n:'''Halberg:''' Plenty! First, everything goes to our headquarters.\n:'''Esson:''' Right, centralized management. Got it.\n:'''Halberg:''' Then the most crucial step—inspection and quarantine. Nothing gets in or out of Lahai-Roi without being tested and verified.\n:'''Esson:''' Right, check the cargo. Got it.\n:'''Halberg:''' Only then can it board the Lollo Logistics ship and land at the frostlands port.\n:'''Esson:''' Right, switch to land transport. Got it.\n:'''Halberg:''' Finally, the downward express of the [[Starward Riseway]], straight from the frostlands to the Institute and Academy.\n:'''Halberg:''' Now, repeat it.\n:'''Esson:''' Uh... well...\n:'''Halberg:''' Wait... you're not a spy, are you? That procedure applies to people too!\n:'''\"Esson\":''' Tch...\n:{{DIcon}} He's an Outcast in disguise.\n:'''Halberg:''' Oh no! Then where's the real Esson?! Support staff! SUPPORT STAFF!!\n----\n;The Real Esson\n:;Behave yourself! Try any funny business, and this won't end well for you!\n:;Stay sharp. We've no idea what tricks that traitor's still hiding.\n:;I'll contact the Academy for backup!\n:;'''Esson''' Hey, hey! Stop hitting me! These clothes aren't even mine!\n:;'''Esson''' I woke up and my uniform and Terminal were gone...\n:;'''Esson''' Oh right! My badge! Esson, Lollo Logistics, ID 89757!\n:;'''Esson''' Why do I keep waking up and getting beaten up...? Sniff sniff...\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Esson\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

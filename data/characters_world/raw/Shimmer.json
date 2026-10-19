@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:25Z",
+  "title": "Shimmer",
+  "pageid": 39611,
+  "wikitext": "{{See Also|Void Storm}}\n{{stub}}\n{{Terminology Infobox\n|image        = The Shimmer.jpg\n|type         = Lore\n|nation       = Lahai-Roi\n}}\n{{Description|Wherever the Shimmer gathers, a Void Storm soon follows.|[[Mr. Chase's Published Eulogy]]}}\nA '''Shimmer''' is an atmospheric light that typically appears before a [[Void Storm]], serving as an early warning.\n\nIt is described to be an anomaly array of violent lights that forms in the skys. It was first discovered by Roald Scientific Expedition team in the frostlands before being consumed by the Void Storm.\u003cref\u003e[[Terminal Log Recovered form a Lost Mawburrow Desert Expedition Member]]\u003c/ref\u003e\n\n==Gallery==\n\u003cgallery\u003e\nThe Shimmer.jpg|\u003cnowiki\u003eThe Shimmer shown in \"Wuthering Waves | Resonator Showcase | Mornye — VERY FIRST STAR\"\u003c/nowiki\u003e\nLahai-Roi Forgery Challenge 02.png|The Shimmer shown in [[Forgery Challenge: Lesson in Sunset]]\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en      = Shimmer\n|zhs     = \n|zht     = \n|ja      = \n|ko      = \n|es      = \n|fr      = \n|de      = \n|th      = \n|pt      = \n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

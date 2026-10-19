@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:11Z",
+  "title": "Yirou",
+  "pageid": 10253,
+  "wikitext": "{{NPC Infobox\n|name             = Yirou\n|image            = NPC Yirou.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Memento Square\n|group            = \n|affiliation      = \n|title            = \n}}\n{{Lang|Yirou|zh=意柔|zh_rm=Yìróu}} is an NPC in {{Location|Memento Square}}.\n\n==Location==\nYirou can be found in Memento Square after completing the quest [[Utterance of Marvels: II]].\n\n\u003cgallery\u003e\nWork Report on Exploration Site Selection-Part One Location.png|Yirou's location\nNPC Location Yirou Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\nYirou is one of the leaders of the restoration of [[Memento Square]]. She holds the Sentinel [[Jué]] in high regard, which is why she puts such a high value on repairing and restoring the statue. In her opinion, this project will help inspire and console the people of [[Jinzhou]] in the face of the attacks and disasters of the [[Tacet Discord]]s. This idealistic perspective is at odds with [[Hao'bai]], who believes that the main priority of the project should be repairing and defending the area. \n\nYirou seems oblivious to Hao'bai's feelings for her,\u003cref\u003eDialogue with [[Hao'bai]]\u003c/ref\u003e but others in the camp have commented on their conflicting opinions.\u003cref\u003eDialogue with [[Xianfeng]]\u003c/ref\u003e\n\n==Quests and Events==\n{{Quests and Events|Yirou}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Yirou:''' Just curious why they haven't started repairing the Sentinel statue yet...\n:'''Yirou:''' All the issues mentioned in the report can be solved!\n:{{DIcon}} What's wrong with it all?\n:'''Yirou:''' The mountains and rocks are unstable... Frequent [[Tacet Discord]] Outbreaks...\n:{{DIcon}} I'm afrain it won't be resolved for a while.\n:{{DIcon}} Not a small problem indeed.\n:'''Yirou:''' People are living in fear, afraid that these disasters will happen again...\n:'''Yirou:''' A restoration of the Sentinel sculpture would surely inspire everyone.\n:'''Yirou:''' After all, we all grew up listening to Sentinel's stories!\n{{Dialogue End}}\n\u003c!--\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Yirou\n|zhs  = 意柔\n|zht  = 意柔\n|ja   = 意柔（イジュウ）\n|ko   = 의유\n|es   = Yirou\n|fr   = Yirou\n|de   = Yirou\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

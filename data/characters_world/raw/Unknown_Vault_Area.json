@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:54Z",
+  "title": "Unknown Vault Area",
+  "pageid": 36351,
+  "wikitext": "{{Stub}}\n{{Location_Infobox\n|title  = Unknown Vault Area\n|image  = Unknown Vault Area.png\n|map    = Solaris-3\n|type   = Area\n|region = Vault Underground\n|nation = Rinascita\n}}\n{{Intro/Location|Unknown Vault Area}} \n'''Unknown Vault Area''' is an area in [[Vault Underground]], [[Rinascita]].\n\n==NPCs==\n{{NPCs by Location List|Unknown Vault Area}}\n\n==Quests==\n{{Quest by Category List|Vault Underground Quests}}\n\n==Notable Features==\n\n==Other Languages==\n{{Other Languages\n|en   = Unknown Vault Area\n|zhs  = 金库内未知区域\n|zht  = 金庫內未知區域\n|ja   = 金庫未知エリア\n|ko   = 금고의 미지의 구역\n|es   = Área desconocida de la bóveda\n|fr   = Zone inconnue de la Chambre forte\n|de   = Unbekanntes Depot\n}}\n\n==Change History==\n{{Change History|2.1}}\n==References==\n\u003creferences /\u003e\n==Navigation==\n{{Location Navbox|Rinascita}}\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

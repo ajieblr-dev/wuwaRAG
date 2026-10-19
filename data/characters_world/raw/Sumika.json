@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:38Z",
+  "title": "Sumika",
+  "pageid": 37488,
+  "wikitext": "{{NPC Infobox\n|image            = Sumika Cutscene.jpg\n|name             = Sumika\n|type             = Resonator\n|type2            = Quest\n|status           = Deceased\u003cbr\u003eDied after pulling [[Rover]] into [[Chronorift Metropolis]].\n|affiliation      = Black Shores \n\n\u003c!--VAs--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Sumika''' {{Lang|ja=澄夏}} is a quest-exclusive [[NPC]] that first appears in [[Stagnant Dawn on Wastelands]] and a former [[Black Shores#Bloom Bearers|Bloom Bearer]] for the [[Black Shores]].\n\n==Profile==\nOnce an elite Bloom Bearer of The Black Shores, Sumika went M.I.A many years prior due to her being trapped inside [[Chronorift Metropolis]] and was never found despite search and rescue efforts.\n\nBased on the time dilation experienced by Chisa and Sumika's notes, Sumika was trapped in the Sonoro Sphere for 160 days (5 months and 20 days). This is the equivalent to around 50-something years, as Chisa's 2 months within Honami was twenty years in the real world.\n\n===Resonance===\nSumika was a [[Resonator]], her [[Forte]] allowing her to create amber that store memories or moments in time within them. Interacting with the amber allows others to see the information Sumika recorded within.\n\n==Quests and Events==\n{{Quests and Events}} \n\n==Mentions==\n{{Character Mentions}}\n\n==Gallery==\n{{Files by Character Gallery|not1=Sumika Videos}}\n\n===Videos===\n{{Files by Character Gallery|Sumika Videos}}\n\n==Other Languages ==\n{{Other Languages\n|en   = Sumika\n|zhs  = 澄夏\n|zht  = 澄夏\n|ja   = 澄夏\n|ko   = 스미카\n|fr   = Sumika\n|de   = Sumika\n|es   = Sumika\n|th   = Sumika\n}}\n\n==Change History==\n{{Change History|2.8}}\n\n[[zh:澄夏]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Voicelines",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Videos",
+      "number": "4.1",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "8"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:49Z",
+  "title": "Nightmare: Hecate",
+  "pageid": 32750,
+  "wikitext": "{{Stub}}\n{{Enemy Echo Tabs}}\n{{Nightmare Enemy Infobox\n|name      = Nightmare: Hecate\n|image     = Nightmare Hecate Icon.png\n|dmgtype   = Havoc\n|echo      = Yes\n|location  = Fabricatorium of the Deep\n|variants  = Hecate; Tactical Hologram: Hecate\n|class     = Calamity\n}}\n{{Intro/Enemy}}\n\n==Other Languages==\n{{Other Languages\n|en      = Nightmare: Hecate\n|zhs     = 梦魇·赫卡忒\n|zht     = 夢魘·赫卡忒\n|ja      = ナイトメア・ヘカテー\n|ko      = 악몽 · 헤카테\n|fr      = Cauchemar : Hecatte\n|de      = Albtraum: Hekate\n|es      = Pesadilla: Hécate\n}}\n\n==Change History==\n{{Change History|2.5}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

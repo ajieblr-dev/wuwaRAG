@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:01Z",
+  "title": "Chop Chop",
+  "pageid": 25679,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name    = Chop Chop\n|image   = Chop Chop Icon.png\n|dmgtype = Fusion\n|echo    = Yes\n|class   = Elite\n|family  = Tacet Discord\n|group   = Clamorling\n}}{{Description|A Tacet Discord often seen hovering atop large structures, feigning an imposing posture as if the buildings are extensions of its body. Its silhouette blends with the architecture, towering like a menacing giant.}}\n{{Intro/Enemy}}\n\n==Drops==\n{{Drops|Elite Clamorling}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} against {{Color|Fusion damage}}.\u003cbr/\u003e \u003cbr/\u003eA Tacet Discord constantly in search of a suitable \"body\".\u003cbr/\u003e \u003cbr/\u003eRumor has it that after the knights vanquished the evil giant, its Reverberations split into wandering Chop Chops, aimlessly seeking to reclaim their once-magnificent form.\u003cbr/\u003e \u003cbr/\u003eA Tacet Discord often seen hovering atop large structures, feigning an imposing posture as if the buildings are extensions of its body. Its silhouette blends with the architecture, towering like a menacing giant.|Description when discovered}}\n\n==Tutorial==\n{{Tutorial|Chop Chop}}\n\n==Trophies==\n{{Trophies|Chop Chop|customheader=Chop Chops}}\n\n==Other Languages==\n{{Other Languages\n|en  = Chop Chop\n|zhs = 浮灵偶\n|zht = 浮靈偶\n|ja  = フロートアルマ\n|ko  = 유령 인형\n|es  = Flotanes\n|fr  = Hache hache\n|de  = Hau-Hau\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

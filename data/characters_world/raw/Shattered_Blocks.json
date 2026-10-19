@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:23Z",
+  "title": "Shattered Blocks",
+  "pageid": 6032,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title1=Shattered Blocks\n|image=Shattered Blocks.png\n|world_map=Solaris-3\n|type = Area\n|nation=Huanglong\n|region=Wuming Bay\n}}\n'''Shattered Blocks''' is an area of [[Wuming Bay]], [[Huanglong]]. \n\n==Other Languages==\n{{Other Languages\n|en   = Shattered Blocks\n|zhs  = 弦月礁\n|zht  = 弦月礁\n|ja   = {{Rubi|弦月礁|げんげつしょう}}\n|ko   = 현월섬\n|es   = Bloques Destrozados\n|fr   = Blocs lunaires\n|de   = Zerschmetterte Blöcke\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

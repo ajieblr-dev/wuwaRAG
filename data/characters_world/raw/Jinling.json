@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:07Z",
+  "title": "Jinling",
+  "pageid": 74689,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Huizhen Plaza\n|affiliation      = \n|affiliationNote  = \n|title = \n|status           = \n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a [[NPC]] Jinzhou child playing with another child from Mengzhou, '''Linfu''' at the Hold.\n\n{{Dialogue Start}}\n==Idle==\n;During {{Quest|Xuanling Sings, Storm Quelled}}\n:'''Jinling:''' Sob... Sob... I-I'm scared...\n:'''Jinling:''' I-if the fog never goes away, does that mean I'm never gonna go home...\n:'''Linfu:''' Don't worry. Those amazing Xuanfang Wardens are already on their way.\n----\n;After\n:'''Jinling:''' Thank you, Linfu. The Rafter Kite you made is adorable. I'll keep it with me at all times.\n:'''Jinling:''' It's time for me to go back to Jinzhou... Here, this is for you.\n:'''Jinling:''' They're called Star Flakes. A snack from Jinzhou. You can make wishes after eating them, and they might even come true!\n\n==Dialogue==\n;During {{Quest|Xuanling Sings, Storm Quelled}}\n:'''Jinling:''' Sob... Sob... I-I'm scared...\n\n:'''Jinling:''' I-if the fog never goes away, does that mean I'm never gonna go home...\n\n:'''Linfu:''' Don't worry. Those amazing Xuanfang Wardens are already on their way.\n\n:'''Linfu:''' They'll take care of those bad Autopuppets in no time! And before we even know it, you'll be back home in Jinzhou, and I'll be heading back to Xianling Village.\n\n:'''Linfu:''' I'll give you a Rafter Kite as a present by then, Jinling. Ugh, but it's only a copy of what they have at the Ministry of Development, so I'm not sure if it can actually fly...\n\n:'''Jinling:''' A Rafter Kite...? Really?\n\n:'''Linfu:''' For real. And it's the same color as the Xuanling Bird. But hey, if you want a different color, you can pick whatever you like. We're friends, you know.\n----\n;After\n:'''Jinling:''' Thank you, Linfu. The Rafter Kite you made is adorable. I'll keep it with me at all times.\n\n:'''Jinling:''' It's time for me to go back to Jinzhou... Here, this is for you.\n\n:'''Jinling:''' They're called Star Flakes. A snack from Jinzhou. You can make wishes after eating them, and they might even come true!\n\n:'''Linfu:''' Hehe... Thank you. I'll take it home and share it with my mom tonight.\n\n:'''Linfu:''' Will you come along whenever your parents come to Xuanfang Hold for business every year, Jinling? I really want to hang out with you more.\n\n:'''Jinling:''' I will, it's a promise. Let's meet up again next year! Next time, tell me more about that little blue bird, okay?\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jinling\n|zhs  = 巾聆\n|zht  = 巾聆\n|ja   = 巾聆\n|ko   = 건령\n|fr   = Jinling\n|de   = Jinling\n|es   = Jinling\n|th   = Jinling\n|pt   = Jinling\n}}\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

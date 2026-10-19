@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:58Z",
+  "title": "Chasm Rider",
+  "pageid": 41710,
+  "wikitext": "{{Stub|Drops, stats, abilities, and location}}\n{{Enemy Infobox\n|name       = Chasm Rider\n|image      = Chasm Guardian Icon.png\n|dmgtype    = Havoc\n|weakpoint  =\n|echo       = \n|class      = Special\n|family     = Tacet Discord\n|group      = Whisperin\n|nation     = Huanglong\n|region     = Qichi Village\n|level      = 45\n}}\n'''Chasm Rider''' is a [[Special Enemies|special enemy]] found in {{Location|Qichi Village|nocat=1}}.\u003c!--\n\n==Drops== \n{{Drops|Chasm Rider}} \n\n==Stats==\n{{Enemy Stats|Chasm Rider}} \n\n==Abilities==--\u003e\n\n==Location==\n\u003cgallery\u003eTrophy We Are the Challenger, My Friend Location.png\u003c/gallery\u003e\n\n==Trophies==\n{{Trophies|Chasm Rider|customheader=Chasm Rider}} \n\n==Other Languages==\n{{Other Languages\n|en  = Chasm Rider\n|zhs = \n|zht = \n|ja  = \n|ko  = \n|fr  = \n|de  = \n|es  = \n|th  = \n|pt  = \n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

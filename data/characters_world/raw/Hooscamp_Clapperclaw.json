@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:58Z",
+  "title": "Hooscamp Clapperclaw",
+  "pageid": 23083,
+  "wikitext": "{{Stub}}{{Enemy Infobox\n|name=Hooscamp Clapperclaw\n|title=\n|image=Hooscamp Clapperclaw Icon.png\n|dmgtype=Physical\n|weakpoint=\n|echo=No\n|class=Common\n|family=\n|group=\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n==Stats==\n{{Enemy Stats}}\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:48Z",
+  "title": "Tiger's Maw",
+  "pageid": 2160,
+  "wikitext": "{{Stub}}\n{{Location_Infobox\n|title  = Tiger's Maw\n|image  = Tigers maw mine.png\n|map    = Solaris-3\n|type   = Region\n|nation = Huanglong\n}}\n{{Description|The Tiger's Maw Mine primarily produces [[Lampylumen]] along with other ore deposits, as well as a minor quantity of Tacetite ores.|Survey Report on the Lampylumen Veins I}}\n'''Tiger's Maw''' is a region in [[Huanglong]] located to the south of [[Jinzhou]], most notable for its large mine.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n! Image\n! Description\n|- id=\"Distribution Center\"\n|[[Distribution Center]]\n|[[File:Distribution Center.png|180px]]\u003cbr /\u003e\n|A large base located to the south of the mine.\n|- id=\"Tiger's Maw Mine\"\n|[[Tiger's Maw Mine]]\n|[[File:Tiger's Maw Mine.png|180px]]\u003cbr /\u003e\n|The large mine for which the region is named. It is built on top of the [[Lampylumen Myriad]].\n|- id=\"Dust-Sealed Track\"\n|[[Dust-Sealed Track]]\n|[[File:Dust-Sealed Track.png|180px]]\u003cbr /\u003e\n|A chilling path at the depths of the mine.\n|}\n==Quests==\n{{Quest by Category List|Tiger's Maw}}\n\n==Exploration Report==\n===Survey Report on the Lampylumen Veins I===\nUnlocked by reaching 50% exploration.\n\n{{Transclude|Survey Report on the Lampylumen Veins I|Text|main=1}}\n\n===Survey Report on the Lampylumen Veins II===\nUnlocked by reaching 100% exploration.\n\n{{Transclude|Survey Report on the Lampylumen Veins II|Text|main=1}}\n\n==Notable Features==\n===Bosses===\n*{{Enemy|Lampylumen Myriad}}\n===Resources===\n*{{Item|Lanternberry}}\n\u003c!--\n==Gallery==\n==Trivia==\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Tiger's Maw\n|zhs  = 虎口山脉\n|zht  = 虎口山脈\n|ja   = {{Rubi|虎口|ここう}}の山脈\n|ko   = 호환 산맥\n|es   = Fauces del tigre\n|fr   = Montagnes tigres\n|de   = Tigerschlund\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Survey Report on the Lampylumen Veins I",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Survey Report on the Lampylumen Veins II",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

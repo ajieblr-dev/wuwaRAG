@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:18Z",
+  "title": "Lanny",
+  "pageid": 28011,
+  "wikitext": "{{Spoiler}}\n{{NPC Infobox\n|image            = NPC Lanny.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = City Square\n|group            = \n|affiliation      =\n|title            = \n}}\n{{Quote|O sacred waters... reveal to me the path of my destiny...}}\n'''Lanny''' is a NPC that can be found at the fountain in Ragunna's [[City Square]] when players first arrive to Rinascita. After talking with Rover, he returns to work. \n\n==Dialogue==\n{{Dialogue Start}}\n===First Interaction===\n:'''Lanny:''' O sacred waters... reveal to me the path of my destiny...\n:'''{{DIcon}}''' Is this where I can try water divination?\n::'''Lanny:''' Of course! Ah, you must be here for the famous \"Arito Well,\" right? They say it's as ancient as the Rinascita Archipelagos themselves. \n:'''{{DIcon}}''' What's so interesting about this well water, anyway?\n::'''Lanny:''' Oh, there's more to it than meets the eye. They say it's as ancient as the Rinascita Archipelagos themselves.\n:'''Lanny:''' The well was once blessed by the Sentinel. Back when Ragunna City was founded, people used to get their fresh water from it. There are also legends that say the well is bottomless, which connects to the depths of the ocean...\n:'''Lanny:''' Although Ragunna's freshwater woes are a thing of the past, the well's power wasn't withdrawn by the Sentinel.\n:'''Lanny:''' People still visit to honor the Sentinel, and over time, Ragunnans discovered another of its mystical powers—\n:'''Lanny:''' Toss in a Monnaie, and ask a question with a sincere heart, and you will get the answer that you need: be it the telling of your future of the truth of your past you seek.\n:'''Lanny:''' But bear this in mind—never use the well to pry into forbidden matters. Someone did this once and the well's waters turned black as night, flooding all of Ragunna's streets!\n:'''Lanny:''' Thus was the sea's retribution against humanity for defiling the sacred waters-Oh, my Sentinel, I must refrain from such emotions. Must keep a peaceful mind...\n:'''Lanny:''' O sacred waters, tell me—will today be a good day for a little slacking off at work?\n:(Ding-a-ling... Lanny's terminal suddenly rings.)\n:'''Lanny:''' Oh no, it's my boss! Looks like they caught on to me sneaking out of the shop! Maybe today really isn't a good day to slack off...\n:'''Lanny:''' Arito Well, isn't it amazing? Haha...\n\n===Second Interaction===\n:'''Lanny:''' Sacred water... please listen to my confession...\n:{{DIcon}} Are you here for a divination again today?\n:{{DIcon}} Slacking off again today?\n:'''Lanny:''' Shh... I didn't come here for fortune-telling. After that day, I had an epiphany from that brief experience with water divination...\n:'''Lanny:''' If water divination is so accurate, revealing all uncertainties and leading them to definite outcomes...\n:'''Lanny:''' Then, as long as I don't divine, I'll exist in a superposition of getting caught slacking and not getting caught... My fate, will be forever undetermined...\n:{{DIcon}} Divination reveals your fate. You cannot change it.\n:{{DIcon}} I think you might have a point.\n:'''Lanny:''' Oh, taking a little lazy break never hurt anyone!\n:'''Lanny:''' If you wish to perform water divination, simply toss a Monaie into the sacred well and silently ask your question with a devout heart.\n:'''Lanny:''' They say good things will happen if you come for divination daily. Perhaps this is also a form of blessing for the pious from the Sentinel.\n\n===First Interaction after Chapter II: Act XI===\n:'''Lanny:''' O sacred waters... reveal to me the path of my destiny...\n:'''{{DIcon}}''' Is this where I can try water divination?\n::'''Lanny:''' Of course! Ah, you must be here for the famous \"Arito Well,\" right? They say it's as ancient as the Rinascita Archipelagos themselves. \n:'''{{DIcon}}''' What's so interesting about this well water, anyway?\n::'''Lanny:''' Oh, there's more to it than meets the eye. They say it's as ancient as the Rinascita Archipelagos themselves.\n:'''Lanny:''' The well was once blessed by the Sentinel. Back when Ragunna City was founded, people used to get their fresh water from it. There are also legends that say the well is bottomless, which connects to the depths of the ocean...\n:'''Lanny:''' Although Ragunna's freshwater woes are a thing of the past, and the Sentinel's not here anymore.\n:'''Lanny:''' People still visit to honor the Sentinel, and the well's sacred powers never vanish into thin air...\n:'''Lanny:''' Toss in a Monnaie, and ask a question with a sincere heart, and you will get the answer that you need: be it the telling of your future or the truth of your past you seek.\n:'''Lanny:''' Could this be the Sentinel's final gift? …Yes, I believe it is.\n:'''Lanny:''' O sacred waters, tell me—will today be a good day for a little slacking off at work?\n:(The sacred well stands silent, as ever.)\n:'''Lanny:''' Alright, today's the day! Before my boss gets back, I'm off to snag the limited-edition Tubpup merchant!\n:'''Lanny:''' Until next time!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lanny\n|zhs  = 兰尼\n|zht  = 蘭尼\n|ja   = レイニー\n|ko   = 랜니\n|es   = Lanny\n|fr   = Lanny\n|de   = Lanny\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "First Interaction",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Second Interaction",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "First Interaction after Chapter II: Act XI",
+      "number": "1.3",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "6"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:36Z",
+  "title": "Arkyria",
+  "pageid": 38105,
+  "wikitext": "{{NPC Infobox\n|image            = Arkyria CG.png\n|name             = Arkyria\n|type             = Resonator\n|type2            = Quest\n|status           = Deceased\u003cbr\u003eConsumed by the [[Dark Tide]].\n|nation           = Rinascita\n|affiliation      = Septimont\n|affiliationNote  = Gladiator\n\u003c!--VAs--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Arkyria''' {{Lang|zh=阿奇丽娅}} is a quest-exclusive [[NPC]] who makes her first appearance in {{Quest|Dawn Breaks on Dark Tides}}. \n\nShe was [[Galbrena|Angel]] opponent in a duel, but ultimately lost due.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Gallery==\n{{Files by Character Gallery}}\n\n==Other Languages ==\n{{Other Languages\n|en   = Arkyria\n|zhs  = 阿奇丽娅\n|zht  = 阿奇麗婭\n|ja   = アキリア\n|ko   = 아킬리아\n|fr   = Arkyria\n|de   = Arkyria\n|es   = Arkyria\n|th   = Arkyria\n}}\n\n==Change History==\n{{Change History|2.7}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

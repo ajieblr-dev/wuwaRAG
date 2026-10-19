@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:07Z",
+  "title": "Jiro",
+  "pageid": 38548,
+  "wikitext": "{{NPC Infobox\n|image=NPC Jiro.png\n|type=Open-World\n|nation=\n|location=Chronorift Metropolis\n|group = Left Behind\n}}\n'''Jiro''' is a male {{Extra Effect|Left Behind|Left Behind|Citizens of Honami City who perished during the Lament and who now \"live\" inside the Sonoro Sphere in the form of Human Reverberations. Faint iridescent light flows around their bodies, and they don't seem to be aware of what really happened to them.}} NPC found north of Shiawase Fountain Square next to [[Eriko]].\n\n== Location ==\n{{Map Embed|Chronorift Metropolis|Jiro}}\n\n== Dialogue ==\n{{Dialogue Start}}\n:'''Eriko:''' Alright! Next, I'll bring pop anime culture into Honami Crossing.\n:'''Jiro:''' Miss... I'm afraid Master would never approve such a proposal.\n:'''Eriko:''' Hmph, like I care. Don't you think the Crossing is dreadfully boring as it is?\n:'''Eriko:''' Not a single shop leaves any real impression... Well, [[Shashou Cafe]] stands out a little, I suppose.\n:'''Eriko:''' By then, we'll have more anime merchandise shops and mascots parading down the street to attract customers.\n:'''Jiro:''' Sigh... The higher-ups of the corporation will certainly raise objections.\n----\n;(After completing {{Quest|Stagnant Dawn on Wastelands}}\n:'''Eriko:''' Hey! Where did you go? Just vanished after saying something like, \"I have no more regrets\"...\n:'''Eriko:''' Did I ever allow you to  disappear like that? Did you forget the promise we made when we were kids?!\n:'''Eriko:''' ...I swear I won't be this willful anymore.\n:'''Eriko:''' Just please... don't leave me alone...\n{{Dialogue End}}\n\n\n== Other Languages ==\n{{Other Languages\n|en   = Jiro\n|zhs  = 次郎\n|zht  = 次郎\n|ja   = 次郎\n|ko   = 지로\n|fr   = Jiro\n|de   = Jiro\n|es   = Jiro\n|th   = Jiro\n}}\n\n== Change History ==\n{{Change History|2.8}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

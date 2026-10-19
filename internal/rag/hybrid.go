@@ -206,8 +206,8 @@ func ReciprocalRankFusion(
 		}
 		doc.RRFScore = rrf
 
-		// Composite ranking: RRF (primary) + Vector cosine weight + Lexical bonus
-		doc.FinalScore = rrf*10.0 + (doc.VectorScore * 0.3) + math.Min(doc.LexicalScore*0.02, 1.0)
+		// Composite ranking: RRF (primary) + Vector cosine weight + Lexical keyword bonus
+		doc.FinalScore = rrf*10.0 + (doc.VectorScore * 0.25) + math.Min(doc.LexicalScore*0.08, 0.40)
 		docList = append(docList, doc)
 	}
 

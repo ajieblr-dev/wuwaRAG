@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:43Z",
+  "title": "Napoli II",
+  "pageid": 26897,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Napoli II.png\n|name             = Napoli II\n|title            = First Primus of the Order of the Deep\n|type             = Mentioned\n|nation           = Rinascita\n|location         = \n|group            = \n|affiliation      = Order of the Deep\n|status           = Deceased\u003cbr /\u003eDied shortly after establishing the Order\n}}\n{{Quote|After the Dark Tide, Napoli, the first Primus, restored civilization from the ashes. He founded the Order to guide the broken Ragunna.|[[Carlotta]], [[Veils Off in Sun or Shadow]]\n}}\n'''Napoli II''' is a deceased, mentioned only [[NPC]] from [[Rinascita]] history.\n\n== Profile==\nThe first time that the [[Dark Tide]] ravaged Rinascita, it was stopped by Napoli II, who went on to restore civilization and establish the [[Order of the Deep]] where he served as its first Primus and guided [[Ragunna]]. However, he died shortly after that. On his death bed, he gave the prophecy of the [[Cartethyia|Blessed Maiden]].\n\nAccording to Order's current doctrine, Napoli II had received a prophecy from the Sentinel that in a distant future, a \"Last Wave\" shall engulf the earth.\n\n==Trivia==\n===Etymology ===\n*The name Napoli is an Italian word derived from a Greek word that means \"new city\".\n\n==Other Languages==\n{{Other Languages\n|1_en      = The First Primus\n|1_zhs     = 初代主座\n|1_zht     = 初代主座\n|1_ja      = 初代{{Rubi|主座|しゅざ}}\n|1_ko      = 초대 수좌\n|1_fr      = \n|1_de      = \n|1_es      = \n\n|2_en      = Napoli II\n|2_zhs     = 那不盖勒二世\n|2_zht     = \n|2_ja      = \n|2_ko      = \n|2_fr      = Napoli II\n|2_de      = Napoli II\n|2_es      = Napoli II\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "The First Primus",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Napoli II",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "5"
+    }
+  ]
+}

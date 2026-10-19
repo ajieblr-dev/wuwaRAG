@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:36Z",
+  "title": "Minervaun",
+  "pageid": 74624,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Minervaun.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Sanguis Plateaus\n|location2        = Asphodel Barrens\n|group            = Gladiator\n|affiliation      = Septimont\n|affiliationNote  = Gladiator\n}}__NOTOC__\n'''{{PAGENAME}}''' is a NPC female Gladiator by the lake with the leaning blue tree.\n{{Dialogue Start}}\n==Idle==\n;(Day)\n:'''Minervaun:''' This is a tree that yearns for moonlight.\n:'''Minervaun:''' Only after nightfall does it emit its unique radiance.\n:'''Minervaun:''' ...Just like me.\n\n;(Night)\n:'''Minervaun:''' Whether I stand on battlefields or wastelands, oh, sweet moon, you're always there for me.\n:'''Minervaun:''' Only when bathed in moonlight do I truly belong to myself.\n\n;On the side during day\n:'''Gladiator:''' This is the first time I've seen leaves like these...\n:'''Gladiator:''' They are related to those in Maroonwood, but why do they exhibit blue shades?\n:'''Gladiator:''' Fascinating...\n\n==Dialogue==\n:'''Minervaun:''' O traveler from afar. Do you find Septimont's moon appealing?\n:{{DIcon}} I do.\n::'''Minervaun:''' You do? Then it seems I've found a fellow moon gazer.\n:{{DIcon}} I don't.\n::'''Minervaun:''' Well, that's a shame. I really did believe I'd meet a fellow moon gazer here.\n:'''Minervaun:''' My apologies for asking such a question out of the blue. I hope I didn't startle you, and please don't take me as a strange person.\n:'''Minervaun:''' It's just... I haven't spoken to anyone for a long time, and got hot-headed to strike up a conversation.\n:'''Minervaun:''' Being part of the hunt has left me gravely exhausted, both body and soul. The days are spent engulfed in the terror of battle, and only moonlight can keep those creatures from hiding...\n:'''Minervaun:''' Only when bathed in moonlight do I feel I've recovered myself again.\n:'''Minervaun:''' Ah, the moonlight. Beautiful, isn't it? Whether it's during the hunt or when we're resting. It always hangs high in the sky, illuminating me with tranquility.\n:'''Minervaun:''' Oh, sweet moon, was there someone like me, pouring their loneliness out to you hundreds of years ago?\n{{Dialogue End}}\n\n==See Also==\n* [[Ayla]] who stands on the other side\n\n==Other Languages==\n{{Other Languages\n|en   = Minervaun\n|zhs  = 米诺露安\n|zht  = 米諾露安\n|ja   = ミノルアン\n|ko   = 미네르바운\n|fr   = Minervaun\n|de   = Minervaun\n|es   = Minervaun\n|th   = Minervaun\n}}\n\n==Change History==\n{{Change History|2.6}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

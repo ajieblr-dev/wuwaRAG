@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:12Z",
+  "title": "Riccardo",
+  "pageid": 27310,
+  "wikitext": "{{Meta\n|missing_NPC_dialogue = yes\n}}\n{{stub}}\n{{NPC Infobox\n|image            = NPC Riccardo de Fisalia.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Bank Street\n|group            = \n|affiliation      = Fisalia Family\n|title            = \n|fullname         = Riccardo de Fisalia\n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Riccardo''' is an NPC who appears in [[Bank Street]], [[Ragunna]]. He can be seen arguing with [[Alexandro|Alexandro Montelli]] during the daytime.\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n;(at Margherita)\n:'''Riccardo de Fisalia:''' I heard that Montelli's golds flow on every river in today's Ragunna.\n:'''Alexandro Montelli:''' Simple rule of supply and demand. The market calls and we're only answering their needs.\n:'''Riccardo de Fisalia:''' And I was wondering why Ragunna City reeks of money and snobs these days.\n:'''Alexandro Montelli:''' Some folks are eager to work with us in their pursuit of wealth and self-actualization. We're simply providing them with the platform.\n:'''Alexandro Montelli:''' Since we're on that matter, do you have financial needs we can assist you with? I couldn't help but notice the lofts in Fisalia Residencies seem... out of repair.\n:'''Alexandro Montelli:''' If you're planning on a renovation, rest assured—I have some connections in construction and design.\n:'''Riccardo de Fisalia:''' Hmph—I would not waste my breath lecturing you on defending the longstanding traditions and principles of Ragunna, and of Rinascita.\n:'''Riccardo de Fisalia:''' We Fisalias would never disrespect our values and beliefs. But you Montellis wouldn't wait to walk away from these for your grand \"course\", would you?\n:{{DIcon}} (It got pretty intense...)\n:{{DIcon}} (Best not to interrupt...)\n:'''Alexandro Montelli:''' We're simply adapting to the times. Even the Order is willing to guide us toward ascension. Only fools would drown in old dreams.\n:'''Alexandro Montelli:''' Oh, forgive me—I nearly forgot.\n:'''Alexandro Montelli:''' In the past, it was you who controlled the Order and the path of ascension. But now...\n:'''Riccardo de Fisalia:''' Mind you, though we may have past our prime, our family still stands stronger than yours.\n:'''Alexandro Montelli:''' There, you said it yourself, Fisalia is history now.\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Riccardo\n|zhs  = 里卡多\n|zht  = 里卡多\n|ja   = リカルド\n|ko   = 리카르도\n|es   = Riccardo\n|fr   = Riccardo\n|de   = Riccardo\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

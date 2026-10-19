@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:28Z",
+  "title": "\"Hydra\"",
+  "pageid": 40573,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|name             = \"Hydra\"\n|realname         = Unknown\n|image            = \n|type             = Mentioned\n|affiliation      = Fractsidus\n}}\n'''\"Hydra\"''' is an Overseer of the [[Fractsidus]] who is first mentioned during [[All That Sunlight Touches]]. Their identity remains unknown and \"Hydra\" is a codename, although [[Luuk Herssen]] was able to discover that they are the leading mind on human evolution and body modifications, often working alongside fellow Overseer [[\"Siren\"]].\n\n==Trivia==\n===Etymology===\n*{{W|Lernaean Hydra}} {{Lang|grc=Λερναῖα ὕδρα}}, more commonly referred to simply as Hydra, is a serpentine lake monster in {{W|Greek mythology|Greek}} and {{W|Roman mythology}} that was killed by {{W|Heracles}} ({{W|Hercules}}).\n\n==Other Languages==\n{{Other Languages\n|en   = \"Hydra\"\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n}}\n\n==Change History==\n{{Change History|introduced=3.1}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "4"
+    }
+  ]
+}

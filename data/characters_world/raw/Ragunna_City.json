@@ -1,0 +1,114 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:09Z",
+  "title": "Ragunna City",
+  "pageid": 24785,
+  "wikitext": "{{Stub}}\n{{About|the region|the city-state|Ragunna}}\n{{Location Tabs}}{{Location Infobox\n|title        = Ragunna City\n|image        = \u003cgallery\u003e\nRagunna City.png|In-Game\nRagunna City Map.png|Map\n\u003c/gallery\u003e\n|type         = Region\n|type2        = City\n|type3        = Rinascita City{{!}}Rinascita Cities\n|map          = Solaris-3\n|event        = \n|nation       = Rinascita\n}}{{Intro/Location|Ragunna City}} Ragunna City, the administrative center of the Ragunna city-state in Rinascita, is a thriving port city by the sea, its districts linked by winding waterways. It is also the city with the strongest link to the [[Sentinel]], thus the Ragunnesi are devout followers of the Sentinel, [[Imperator]], and believe [[Common Echoes]] to be gifts from the Sentinel carrying Their divine will.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n! Image\n! Description\n|- id=\"City Square\"\n|[[City Square]]\n|[[File:City Square.png|180px]] \u003cbr /\u003e\n|The central spine of city life. Consists of both the small square around the Genesis Nexus where travellers are screened by the Order, and the central plaza with restaurants, music, the Pioneer Association, clothing boutiques, and fountains.\n|- id=\"Bank Street\"\n|[[Bank Street]]\n|[[File:Bank Street.png|180px]] \u003cbr /\u003e\n|A wealthy district of the city, containing facilities for travellers such as Averardo Bank, Trattoria Margherita, and hotels.\n|- id=\"Montelli Quarter\"\n|[[Montelli Quarter]]\n|[[File:Montelli Quarter.png|180px]] \u003cbr /\u003e\n|A district owned by the wealthy Montelli family. Aside from serving as a base for their wealthy mercantile empire, it contains restaurants and a pool for relaxation.\n|- id=\"Order of the Deep\"\n|[[Order of the Deep (Area)|Order of the Deep]]\n|[[File:Order of the Deep (Area).png|180px]] \u003cbr /\u003e\n|The headquarters of the Order of the Deep and the location of its most impressive church, the Cathedral of Mercury.\n|}\n===Points of Interest===\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Description\n|- id=\"Trattoria Margherita\"\n|[[File:Trattoria Margherita.png|180px]]\u003cbr /\u003e[[Trattoria Margherita]]\n|\n|- id=\"Gondola Market\"\n|[[File:NPC Gondola Market.png|180px]]\u003cbr /\u003e[[Gondola Market]]\n|\n|- id=\"Ragunna Pioneer Association\"\n| [[File:Pioneer Association Ragunna.png|180px]]\u003cbr /\u003e[[Ragunna Pioneer Association]]\n|\n|- id=\"Rosemary's Apothecary\"\n| [[File:Rosemary's Apothecary.png|180px]]\u003cbr /\u003e[[Rosemary's Apothecary]]\n|\n|- id=\"Masked Reverie\"\n| [[File:Masked Reverie.png|180px]]\u003cbr /\u003e[[Masked Reverie]]\n|\n|}\n\n==Quests==\n{{Quest by Category List|Ragunna City Quests}}\n\n==Exploration Report==\n===Codex of the Deep: Order Philosophy I===\n* Unlocked by reaching 50% exploration.\n\n{{Transclude|Codex of the Deep: Order Philosophy I|Text|main=1}}\n\n===Codex of the Deep: Order Philosophy II===\n* Unlocked by reaching 100% exploration.\n\n{{Transclude|Codex of the Deep: Order Philosophy II|Text|main=1}}\n\n==Notable Features==\n===Challenges===\n*[[Simulation Training#Rinascita|Gladiator's Portrait]]\n===Bosses===\n*{{Enemy|Hecate}}\n===Resources===\n*{{Item|Sword Acorus}}\n\n==Gallery==\n\u003cgallery\u003e\nRagunna Terminal.png|Ragunna Terminal\nRagunna Gondola.png|Echo Gondola\nRagunna Octopus Echo.png|Bell-striking Octopus Echo\nRagunna Bear Echo.png|Echo that can be found in Ragunna\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Ragunna City\n|zhs  = 拉古那城\n|zht  = 拉古那城\n|ja   = ラグーナ城\n|ko   = 라군나 성\n|es   = Ciudad de Raguna\n|fr   = Ville de Ragunna\n|de   = Ragunna\n|th   = เมืองรากูนน่า\n|pt   = Cidade de Ragunna\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}\n[[zh:拉古那城]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Points of Interest",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Codex of the Deep: Order Philosophy I",
+      "number": "3.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Codex of the Deep: Order Philosophy II",
+      "number": "3.2",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Challenges",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.2",
+      "index": "9"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.3",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "5",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "14"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "15"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:17Z",
+  "title": "Dreamless",
+  "pageid": 7516,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Dreamless\n|title=\n|image=Dreamless Icon.png\n|dmgtype=Havoc\n|weakpoint=Unknown\n|echo=Yes\n|class=Calamity\n|family=Tacet Discord\n|group=Whisperin\n|location = [[Statue of the Crownless: Heart]]\n|drops=Dreamless Feather\n|variants=Tactical Hologram: Dreamless\n}}\n{{Description|A Whisperin TD discovered in the [[Norfall Barrens]], exhibiting more prominent characteristics of the human female form. There is a suspected link to [[Threnodian]], surrounded by other TD sub-class aggregates. Due to its hazardous environment, there remains insufficient information and records, it has been classified as a Calamity Class.}} \n{{Lang|Dreamless|zh=无妄者}} is a [[Calamity Class]] [[Weekly Boss|Weekly]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in [[Statue of the Crownless: Heart]].\n\n==Drops==\n{{Boss Rewards|weekly=1|exclusive=Dreamless Feather}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Abilities== \n\n==Trophies==\n{{Trophies|Dreamless|customheader=Dreamless}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Havoc damage}}.\u003cbr/\u003eAlong with the eerie Void Plenilune, this Whisperin TD appeared at the end of the Norfall Barrens.\u003cbr/\u003eIts very presence is an ominous reminder of the devastating war that once ravaged this land. Born from the residual energies of battle, it continues to evolve and has become the most feared weapon in the Threnodian's arsenal. With merciless destruction, it reawakens humanity's primal fear of warfare. And now, it greets its ruler, ready to unleash chaos upon the world.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en      = Dreamless\n|zhs     = 无妄者\n|zht     = 無妄者\n|de      = Traumlos\n|es      = Insomne\n|fr      = Le Sans-délire\n|ja      = 無妄者\n|ko      = 무망자\n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

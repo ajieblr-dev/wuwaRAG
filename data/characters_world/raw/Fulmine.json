@@ -1,0 +1,86 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:39Z",
+  "title": "Fulmine",
+  "pageid": 26170,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Fulmine.png\n|type             = NPC\n|type2            = \n|nation           = Rinascita\n|location         = City Square\n|affiliation      = Pioneer Association\n|affiliation2     = Wutherim Film Studio\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''Fulmine''' is an [[NPC]] in {{Location|Ragunna City}}. He is the manager of the Wutherim Film Studio and a member of the [[Pioneer Association]].\n\nFulmine's [[Forte]] is called Celluloid Chronicle or Film Memory, allowing him to turn events into strands of film-shaped hair. With the help of his partner, [[C-MOSS]], he can project these captured moments. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Fulmine:''' Here's to a world of discoveries and wonders! Welcome to the Pioneer Association of [[Ragunna]].\n:{{DIcon}} About Pioneer Association\n:'''Fulmine:''' The Pioneer Association of Ragunna operates under our visual production division, the Wutherium Film Studio.\n:'''Fulmine:''' We're dedicated to capturing reality through our lenses, showing not just the devastation of disasters but also the transformations they bring.\n:'''Fulmine:''' Our mission here is to capture and preserve these changes to offer people a new way to see the world.\n:'''Fulmine:''' Whenever you need it, [[C-MOSS]] and I will be ready to capture every important moment for you.\n:'''Fulmine:''' I'm confident that we'll create many  treasured memories here in Ragunna.\n\n:{{DIcon}} About yourself\n:'''Fulmine:''' Pleasure to meet you! I am Fulmine, the head of the Wutherium Film Studio. We are the visual production division of the Pioneer Association. \n:'''Fulmine:''' Umm... Did you happen to pick up any film on your way here?\n::{{DIcon}} What kind of film?\n:'''Fulmine:''' Well, like the ones on my head.\n:'''Fulmine:''' My Resonance power, \"Film Memory,\" lets me turn memorable moments and dreams into strands of film-shaped hair.\n:'''Fulmine:''' Nifty, right? Sometimes even lost ideas resurface in the film!\n:'''Fulmine:''' But lately, all those late nights have started taking a toll... I'm losing hair, and along with it, some of my precious film.\n:'''Fulmine:''' Some of it is a bit... personal. If anyone ever saw them, I'd just die of embarrassment—ahhhh!\n:'''Fulmine:''' So, {{Rover}}, if you come across any of my films lying around, could you please return them to me?\n:'''Fulmine:''' ...And um, promise me you  won't peek, okay?\n::{{DIcon}} I promise.\n::{{DIcon}} No promises!\n:{{DIcon}} Goodbye\n:'''Fulmine:''' Here's to a world of discoveries and wonders! Until we meet again!\n----\n;One time Interaction at the Resonance Nexus in Ragunna City\n:'''Matheus:''' Nonsense! Absolutely nonsense!\n:'''Nathan:''' Huh!? You are overreacting...\n:{{DIcon}} What happened?\n:'''Nathan:''' This Acolyte here was telling me stories about the Order of the Deep in Ragunna, like the Final Tide and Flood of the End Times prophesied by the Sentinel Imperator.\n:'''Nathan:''' I actually think some of these ideas align with terms from current Tacetite theories. \n:'''Nathan:''' For example, you've likely seen the [[Etheric Sea]] in Huanglong, haven't you? It's a unique sky phenomenon associated with the appearance of the Tacet Fields and Tacent Discords.\n:'''Nathan:''' Now, we've proven this waveworn phenomenon is a manifestation of the Lament—a pattern we can observe and study and —\n:'''Matheus:''' Nonsense! The tides suspended in the sky are clear evidence of the Sentinel's prophesy!\n:'''Matheus:''' Only by gathering under the protection of Imperator and the Order, by constantly ascending and connecting, can we find the path to salvation.\n:'''Nathan:''' I understand why you'd hold that view, but —\n:'''Matheus:''' By Imperator! Perhaps I really should send you to the Order Penitentiary immediately. You should be on the Pilgrim's Sail, repenting for your sins!\n:{{DIcon}} Maybe you should stop here...\n:'''Nathan:''' Alright, alright...\n:'''Matheus:''' Ragunna will not tolerate insults to our faith!\n:'''Tao:''' Mr. Fulmine!\n:'''Fulmine:''' What is it? Calm down. Take your time.\n:'''Tao:''' Nathan had a major disagreement with an Acolyte named Matheus. Now he threatens to contact the Order Penitentiary to have Nathan expelled...\n:'''Fulmine:''' What? How did it get to this?\n:'''Tao:''' Heard it was about the prophecies by Imperator. Nathan raised some unconventional interpretations and the two started to argue.\n:'''Fulmine:''' Nathan's new in the city. You can't expect him to catch on the depths of Ragunna's history...\n:'''Fulmine:''' Let me handle this... Hello, am I speaking to Brother Matheus?\n:'''Matheus:''' Yes, that's me. May I ask to whom am I speaking?\n:'''Fulmine:''' This is Fulmine from the Pioneer Association. You may have heard of me.\n:'''Fulmine:''' I heard the Order plans to produce a documentary about the Tidal Sancturary to spread Imperator's blessings through a new channel?\n:'''Matheus:''' Yes... the Order is indeed preparing for that.\n:'''Fulmine:''' I believe the Pioneer Association may help with this project. If you're interested, why not come to our studio for a detailed discussion when you're available?\n:'''Matheus:''' Well... but...\n:'''Fulmine:''' Also, I think in the interests of cooperation, and of the Order, we could move past the unpleasant exchange you've had?\n:'''Matheus:''' ...I see. Thank you for your contribution to the Order, Mr. Fulmine.\n:'''Tao:''' He hung up...\n:'''Fulmine:''' I'll take care of this from here. Don't worry.\n{{Dialogue End}}\n\n==Gallery==\n===Official Artwork===\n{{Files by Character Gallery}}\n\n==Trivia==\n*'Fulmine' is the Italian word for lightning.\n\n==Other Languages==\n{{Other Languages\n|en   = Fulmine\n|zhs  = 哈苏\n|zht  = 哈蘇\n|ja   = ハース\n|ko   = 풀미네\n|es   = Fulmine\n|fr   = Fulmine\n|de   = Fulmine\n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|2.0}}\n==References==\n{{Reflist}}\n[[Category:Resonator NPCs]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tutorial Quests",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Official Artwork",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "8"
+    }
+  ]
+}

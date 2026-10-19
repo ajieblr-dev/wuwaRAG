@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:20Z",
+  "title": "Lehton",
+  "pageid": 39197,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Lehton.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Square\n|group            = Biomatic Club\n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC male professor found talking about [[Chisa]] with another professor, along with students from Department of Voidmatters, during the day near by {{Rubi|Solis Lens Array|Lahai-Roi Resonance Nexus}}.\n\n{{Dialogue Start}}\n==Idle==\n:'''Lehton:''' Should we consider moving her up a grade?\n:'''Pyak:''' But she just got back. She's still learning the ropes.\n\n==Dialogue==\n:'''Lehton:''' She was gone for ''years'', and now she's not just keeping up, she's even ahead. Should we consider moving her up a grade?\n:'''Pyak:''' Maybe... but she just got back. She's still learning the ropes. Jumping her ahead now might just make it worse.\n:'''Anders:''' Technically, she's a year below us, so she's our junior, right?\n:'''Heller:''' But she enrolled years before we did... Calling her our \"junior\" just feels wrong...\n:'''Haruka:''' Why overthink it? Just call her Chisa. Who cares about seniority?\n:'''Haruka:''' Spend that energy helping her catch up in Engineering!\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lehton\n|zhs  = 莱赫托\n|zht  = 萊赫托\n|ja   = レヘト\n|ko   = 레톤\n|fr   = Lehton\n|de   = Lehton\n|es   = Lehton\n|th   = Lehton\n}}\n\n{{Other Languages\n|en   = Pyak\n|zhs  = 庇雅克\n|zht  = 庇雅克\n|ja   = ピヤク\n|ko   = 비야크\n|fr   = Pyak\n|de   = Pyak\n|es   = Pyak\n|th   = Pyak\n}}\n\n{{Other Languages\n|en   = Anders\n|zhs  = 安德斯\n|zht  = 安德斯\n|ja   = アンダース\n|ko   = 안데르스\n|fr   = Anders\n|de   = Anders\n|es   = Anders\n|th   = Anders\n}}\n\n{{Other Languages\n|en   = Heller\n|zhs  = 赫勒\n|zht  = 赫勒\n|ja   = ヘラー\n|ko   = 헬레\n|fr   = Heller\n|de   = Heller\n|es   = Heller\n|th   = Heller\n}}\n\n{{Other Languages\n|en   = Haruka\n|zhs  = 遥\n|zht  = 遙\n|ja   = 遥\n|ko   = 하루카\n|fr   = Haruka\n|de   = Haruka\n|es   = Haruka\n|th   = Haruka\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

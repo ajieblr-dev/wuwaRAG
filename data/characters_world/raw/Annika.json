@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:35Z",
+  "title": "Annika",
+  "pageid": 32982,
+  "wikitext": "{{NPC Infobox\n|image=NPC Annika.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Septimont\n|location2        = Capitoline Hill\n|affiliation      = Septimont\n|affiliationNote  = Merchant \u0026 Blacksmith}}\n'''{{PAGENAME}}''' is a female NPC who can be found during the day at Septimont bathhouse in the VIP section with a noblewoman name Emilia. She is a reputable merchant and designer for Gladiators armor.\n\n== Dialogue ==\n{{Dialogue Start}}\n:;'''Annika''' Gladiator Plate Armor. Gold-tier quality! 5,000 each. Get it while it's in stock! \n:;'''Emilia''' Can't you sell these a little cheaper?\n:;'''Annika''' I'm sorry, but this is the best deal I can offer...\n:;'''Annika''' Honesty's our trade, fair to everyone, young and old. We've been in this business for years, and our reputation speaks for itself.\n\n;(Day at the Bathhouse)\n:'''Annika:'''  I'll be honest with you, miss. This is as low as we can go.\n:'''Emilia:'''  I know, but right now our family's funds are... on the tighter side.\n:{{DIcon|Option}} Listen in.\n::'''Annika:'''  I can understand your situation, but please think it through. Spending some money now on proper equipment is a way better investment than being forced to pay a \"sponsorship fee\" just because you didn't qualify for the main tournament.\n::'''Emilia:'''  I get what you're saying. Last time we bought gear from that merchant, [[Banagher]], he sold us nothing but repackaged junk.\n::'''Emilia:'''  How are we supposed to fight with this junk? That's what our Gladiators kept complaining to me. You take my meaning, Miss Annika?\n::'''Annika:'''  [[Banagher]]? Ha. Those scrap metals he calls armor don't even come close to my work. Honestly, you'd be better off strapping yourself with cardboard than using his junk.\n::'''Annika:'''  My shop has always done honest business. Don't take my word for it, ask anyone on this street.\n::'''Emilia:'''  Since a friend recommended your shop to me, I place my trust in you. And I truly hope that we can establish a long-term partnership.\n::'''Emilia:'''  As a gesture of goodwill, our family's Gladiators will help promote your shop after winning this Agon season. As long as we can secure a place in the tournament, we'll be in for a long-term partnership. But on the other hand, I hope you can understand the situation we're currently facing.\n:{{DIcon|Exit}}\n----\n;(Night at the arena)\n:;'''Annika'''  Hmm. I just can't shake the feeling that the way Gladiator is handling their weapon is a bit strange...\n:;'''Annika'''  Maybe the hilt was made too stiff?\n:;'''Annika'''  There's still room for adjustments for this batch... Give me a moment.\n:'''Annika''': There, modeling the pauldron after the buckler and adding concussion edges is perfect for Gladiators who excel in strength.\n:'''Annika''': Offers an extra option for parrying, and it also lets you catch your opponent's weapon with your pauldron. And if it really came down to it, you can use that momentum to crash straight into them and close the distance...\n:'''Annika''': Hey, you there. What do you think of that Gladiator's gear design?\n:{{DIcon}} That's quite unique.\n:{{DIcon|Exit}} Not interested. \n:'''Annika''': Hehe. Sparking new ideas through actual combat is what makes the stuff we make at our workshop unique.\n:'''Annika''': If we could test our equipment in more combat scenarios, our skills would do an even better job of protecting the Gladiators and the warriors out on hunts, wouldn't you think?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Annika\n|zhs  = 安妮卡\n|zht  = 安妮卡\n|ja   = アニカ\n|ko   = 안니카\n|es   = Annika\n|fr   = Annika\n|de   = Annika\n}}\n==Change History==\n{{Change History|2.4}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

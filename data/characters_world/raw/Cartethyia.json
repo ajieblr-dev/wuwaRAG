@@ -1,0 +1,128 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:53Z",
+  "title": "Cartethyia",
+  "pageid": 26196,
+  "wikitext": "{{Resonator Tabs}}\n{{About|the Resonator|the Weekly Boss|Fleurdelys}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery}} \n\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 5\n|class            = Congenital\n|weapon           = Sword\n|attribute        = Aero\n|role             = Main Damage Dealer; Aero Erosion; Aero DMG Amplification; Traction\n|releaseDate      = 2025-06-12\n\n\u003c!-- Info --\u003e\n|name             = Cartethyia\n|title            = Feathered Tempest\n|title2           = The Blessed Maiden\n|title3           = Blessed Maiden of the Order of the Deep\n|title4           = Queen of Gale and Tide\n|title5           = Enlightened One\n|alias            = Fleurdelys\u003cref\u003e{{Quest|What Yesterday Wept, Today Doth Sing}} — (\"before taking on her holy title, the Blessed Fleurdelys was called... Cartethyia.\")\u003c/ref\u003e\n|gender           = Female\n|birthday         = \n|birthplace       = Rinascita\n|nation           = Rinascita\n|affiliation      = Ragunna\n|affiliation2     = Order of the Deep\n|affiliationNote2 = formerly\n|sigil            = \n|dish             = Knight-Errant's Essentials\n|obtain           = Dance in the Storm's Wake\n|mother           = Unnamed\n|motherNote       = Adoptive\n|father           = Unnamed\n|fatherNote       = Adoptive\n|relative         = Leviathan \n|relativeNote     = Creator\n|sibling          = Mya\n|siblingNote      = Fellow creation of Leviathan\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = [[imdb:nm1764274|Amanda Elizabeth Rischel]]\u003cref name=\"EN-VA-Carethyia\"\u003eX: [https://x.com/amanda_rischel/status/1903055623245234344 EN VA Self Announcement]\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/云鹤追 Yun He Zhui ({{Lang|mini=1|zh=云鹤追}})]\u003cref name=\"Cartethyia Bilibili\"\u003eBilibili: [https://www.bilibili.com/opus/1071865739377377287 《鸣潮》动画短片 | 天明]\u003c/ref\u003e\n|voiceJP          = {{w|Yū Asakawa|Asakawa Yū ({{Lang|mini=1|ja=浅川悠}})}}\u003cref name=\"JP-VA-Carethyia\"\u003eX: [https://x.com/WW_JP_Official/status/1905152808913080660 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/배하경 Bae Ha-gyoung ({{Lang|mini=1|ko=배하경}})]\u003cref name=\"Cartethyia Bilibili\"\u003e\u003c/ref\u003e\n}}\n{{Quote|The crown of winds... has been engulfed by the sea. Tell me, are you the one who summoned this blade?|Cartethyia}}\n{{Intro/Resonator}} Throughout [[Rinascita]], she is revered as '''Fleurdelys''', the \"Blessed Maiden,\" and in some accounts, \"The Martyred Maiden.\" As a key figure in the region’s history, she holds profound influence, with her connections to the [[Sentinel]] [[Imperator]], the [[Threnodian]] [[Leviathan]], and the [[Dark Tide]]. Her true desires, however, lie in freeing herself from the shackles of her titles and living out her days as a just and righteous wandering knight.\n\n==Official Introduction==\n{{Quote|The powers of the Sentinel and Threnodian clash and unite within her, propelling her into an uncertain future.\u003cbr\u003eWhether the future is bright or dim, she will hold the blade firmly and confront all that comes her way.|[https://wutheringwaves.kurogames.com/en/main#resonators Her introduction on the Official Website.]}}\n\n==Combat Overview==\n{{Main|Cartethyia/Combat}}\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Cartethyia|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Cartethyia\n|zhs     = 卡提希娅\n|zht     = 卡提希婭\n|ja      = カルテジア\n|ko      = 카르티시아\n|es      = Cartethyia\n|fr      = Cartethyia\n|de      = Cartethyia\n}}\n\n==Trivia==\n* Her favorite opera line is said to be \"A thousand stars light up the air. Freedom blooms like flowers wide,\" from the now banned opera play ''Pegasus''.\u003cref\u003e{{Quest|Starry is the Night}} — (\"'A thousand stars light up the air. Freedom blooms like flowers wide.' That was her favorite line from an opera.\")\u003c/ref\u003e\n* According to [[Abby]], she carries the \"scent\" of a Threnodian - hinting at her connection with the Threnodian, Leviathan.\n* She is repulsed by [[Pizza Tropicale]] and feels nostalgic by [[Pizza Classica]].\u003cref name=\":0\"\u003e[[Main Quest]] ''[[Chapter II]] - [[The Maiden, The Defier, The Death Crier|Act IV: The Maiden, The Defier, The Death Crier]]'' - Cartethyia gives her opinions on the three dishes upon showing them to her after obtaining [[Hognis]].\u003c/ref\u003e\n* Her favorite dish is [[Laurus Salad]]; she recommended the dish to Bardolino after he heard her voice during the Carnvale.\u003cref name=\":0\" /\u003e \n\n===Etymology===\n* [https://en.wikipedia.org/wiki/Fleur-de-lis Fleur-de-lys] (more commonly spelt fleur-de-lis) is a common type of stylized heraldic charge shaped like a lily flower, described as \"at one and the same time, religious, political, dynastic, artistic, emblematic, and symbolic\".\n** Fleur-de-lis (lit. \"flower of lily\") is a French word; the name itself derives from ancient Greek ''λείριον'' \u003e Latin ''lilium'' \u003e French ''lis''.\n\n==Change History==\n{{Change History|2.4|introduced=2.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[zh:卡提希娅]]\n[[ru:Картесия]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "6.1",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "14"
+    }
+  ]
+}

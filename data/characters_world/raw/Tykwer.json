@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:51Z",
+  "title": "Tykwer",
+  "pageid": 22067,
+  "wikitext": "{{NPC Infobox\n|image            = Tykwer.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Tethys Hub\n|group            = \n|affiliation      = Black Shores\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Tykwer''' is an NPC in [[Tethys Hub]], [[The Black Shores]].\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events|Tykwer}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Tykwer:''' What took her so long...\n:{{DIcon}} Are you waiting for someone?\n:'''Tykwer:''' Oh yes. I'm waiting for [[Camellya]]—the Bloom Bearer covered in vines.\n:{{DIcon}} What does she do here?\n:'''Tykwer:''' She usually handles the \"germination test.\" It's the test we give to new candidates.\n:'''Tykwer:''' The Gardeners organize their personal info, and the [[Tethys System]] decides how they'll be evaluated.\n:'''Tykwer:''' I've heard Camellya takes care of all the combat-oriented tests. She always grabs the candidates' profiles without notifying us and does her thing.\n:'''Tykwer:''' By the time we find her, the test is already over, and she just smacks the results in our faces.\n:{{DIcon}} That sounds efficient.\n:'''Tykwer:''' Not exactly. She's gotten a lot of complaints... Honestly, I don't know how to talk to her about it. It's just too awkward...\n:{{DIcon}} What do the complaints say?\n:'''Tykwer:''' Mostly that she's more interested in fighting that actually running the tests...\n:{{DIcon}} Of course she is.\n:'''Tykwer:''' Her methods can be a bit intense, but they're great for pressure tests or for vetting candidates in dangerous regions.\n:'''Tykwer:''' If you can pass her test, it means you've got the physical and mental strength to handle extreme situations.\n:'''Tykwer:''' Overall, she's a solid tester. I just wish I didn't have to clean up the mess she leaves behind...\n{{Dialogue End}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Tykwer\n|zhs  = 提克威\n|zht  = 提克威\n|ja   = ティクヴァ\n|ko   = 튀크베어\n|es   = Tykwer\n|fr   = Tykwer\n|de   = Tykwer\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

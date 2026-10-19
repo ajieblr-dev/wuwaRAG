@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:07Z",
+  "title": "Xiran",
+  "pageid": 74688,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Xuanfang Square\n|affiliation      = \n|affiliationNote  = \n|status           = Alive\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a NPC merchant with a [[Jade Steed]] found in [[Xuanfang Hold]], [[Mengzhou]] region. \n\n==Quests and Events==\n{{Quests and Events}}\n\n{{Dialogue Start}}\n==Idle==\n:'''Xiran:''' Step right up! Come take a look... Top-quality goods—\n:'''Xiran:''' Taste... Big portions... Sweet as can be...\n:'''Xiran:''' Ugh, when is this road gonna come back...\n\n==Dialogue==\n:'''Xiran:''' Step right up! Come take a look... Top-quality goods—\n\n:'''Xiran:''' Taste... Big portions... Sweet as can be...\n\n:'''Xiran:''' Ugh, when is this road gonna come back...\n\n:The moment she notices you've stopped to look, the pained expression on her face vanishes. She forces a tight, strained smile.\n\n:'''Xiran:''' ...Ah, hello, there. Interested in some mountain produce?\n\n:'''Xiran:''' See this big and plump Uncracked Jade? The perfect ingredient for Little Snowy Moons. It'll make it sweet to the bone...\n\n:'''Xiran:''' And these White Jade Beauties... I guarantee there's not a single bump or scratch. Absolutely flawless...\n\n:'''Xiran:''' ...\n\n:'''Xiran:''' Ugh... Sorry, I'm not in the mood at the moment... Come back some other time...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xiran\n|zhs  = 熙冉\n|zht  = 熙冉\n|ja   = 熙冉\n|ko   = 희염\n|fr   = Xiran\n|de   = Xiran\n|es   = Xiran\n|th   = Xiran\n|pt   = Xiran\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

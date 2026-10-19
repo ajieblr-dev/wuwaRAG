@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:02Z",
+  "title": "Ishida",
+  "pageid": 38423,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Ashinohara\n|location         = Startorch Academy\n|group            = \n|affiliation      = Rabelle College\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n}}\n'''Ishida''' is a female NPC student, who is seen at the Infirmary with her teacher, '''Ms. Yuki'''.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Ishida:''' Sensei, I'm really fine… See? I can move just fine. I'm quick, I'm nimble, good as new!\n\n:'''Ms. Yuki:''' …I'm checking your consciousness map and stress diagnostics again.\n\n:'''Ms. Yuki:''' Everything looks normal… Sigh. Just don't go overboard in your next Synchronist Test, okay?\n\n:'''Ms. Yuki:''' You need more than just a strong Forte to become a Synchronist. What matters more is understanding it, so you are able to sync and power up the Exostrider's \"Drive.\"\n\n:'''Ms. Yuki:''' I know how badly you want this. I've just seen too many students burn out chasing it...\n\n:'''Ms. Yuki:''' I'll be proud if you become a Synchronist. But I'd rather see you graduate in one piece.\n\n:'''Ms. Yuki:''' Anywhere else that feels uncomfortable?\n\n:'''Ishida:''' If anything… I'm just a little hungry…\n\n:'''Ms. Yuki:''' Come on. To the cafeteria we go then. I'll treat you with my card.\n----\n;After {{Quest|Starlights from Yesterdays}}\n:;'''Ms. Yuki''' During the rune search, your frequency readings spiked past the safety limit several times.\n\n:;'''Ms. Yuki''' Your resonance patterns are still within the safety range, but...\n\n:;'''[[Ishida]]''' Wasn't me. Didn't happen. I swear on my credits.\n\n:In the infirmary, a student fresh out of his medical check-up seems to be trying very hard to explain himself to a teacher.\n\n:{{DIcon|Option}} (Listen)\n::'''Ms. Yuki:''' I understand. Most Synchronists would stay behind in their mechs and hold the line, buying time for everyone else.\n\n::'''Ms. Yuki:''' Maybe you can fool I.R.I.S. and N.A.N.A., but you can't fool me... This isn't the first time you've pushed yourself toward Overclocking, is it?\n\n::'''Ishida:''' How did you know...? Is it because you're from Ashinohara too, Professor?\n\n::'''Ms. Yuki:''' Wrong. It's because this technique originated from Rabelle College.\n\n::'''Ms. Yuki:''' Listen to me, Ishida. You're just an ordinary person who happened to develop a Forte. You are not obligated to throw your life away for the Synchronist Program.\n\n::'''Ms. Yuki:''' I understand how you feel. But the closer you get to Overclocking, the easier it is to trigger an accident no one can control.\n\n::'''Ms. Yuki:''' And besides... the Synchronist Program itself may not be around much longer.\n:{{DIcon|Exit}} (Leave)\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n{{Quests and Events|Ms. Yuki}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ishida\n|zhs  = 石田\n|zht  = 石田\n|ja   = 石田\n|ko   = 이시다\n|fr   = Ishida\n|de   = Ishida\n|es   = Ishida\n|th   = Ishida\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

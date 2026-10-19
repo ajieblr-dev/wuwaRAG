@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:29Z",
+  "title": "Sigillum",
+  "pageid": 39524,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Sigillum\n|title     = Homebound Starfarer\n|image     = Sigillum Icon.png\n|dmgtype   = Spectro\n|weakpoint = Unknown\n|echo      = Yes\n|class     = Calamity\n|family    = \n|group     = \n|location  = [[Gate of the Lost Star]]\n|drops     = Gold in Memory\n|variants  = Tactical Hologram: Sigillum\n}}\n{{Description|A wordless black mech, lost and longing to return home.}} \n{{Lang|Sigillum|zh=辛吉勒姆}} is a [[Calamity Class]] [[Weekly Challenge|Weekly]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in [[Gate of the Lost Star]].\n\n==Drops==\n{{Boss Rewards|weekly=1|exclusive=Gold in Memory}} \n\n==Stats==\n{{Enemy Stats}} \n\n==Abilities== \n\n==Trophies==\n{{Trophies|Sigillum|customheader=Sigillum}} \n\n==Description==\n{{Description|This enemy has a {{Color|help|higher RES}} to {{Color|Spectro DMG}}.\u003cbr\u003eWhen hit by an Echo Skill, Sigillum gains 1 stack of Off Course, up to 5 stacks. Echoes with the same name can only trigger this effect once.\u003cbr\u003eEach stack of Off Course makes it take 10% more total DMG. At 5 stacks, Sigillum takes an additional 30% total DMG.\u003cbr\u003e\u003cbr\u003eRage and tears. Suffering and joy. Sorrow and pain. All are condensed, along with her sigh, into a single golden frequency.\u003cbr\u003eIt gazes at the sky, lost in memories worn thin by the ages. The lost voyager is still searching for the way home.|Description When Discovered}}\n\n==Soundtracks==\n{{Soundtracks by Category Table|type=combat}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sigillum\n|zhs  = 辛吉勒姆\n|zht  = 辛吉勒姆\n|ja   = シギルム\n|ko   = 시길룸\n|fr   = Sigillum\n|de   = Sigillum\n|es   = Sigillum\n|th   = Sigillum\n}}\n\n==Trivia==\n* Sigillum is the entity that siphoned Rover's frequency through the rift in Honami City during [[Flowing Starlight in the Iris]].\n\n==Change History==\n{{Change History|3.1}}\n\n==Navigation==\n{{Enemy Navbox}}\n[[zh:辛吉勒姆]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Soundtracks",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "9",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "10",
+      "index": "10"
+    }
+  ]
+}

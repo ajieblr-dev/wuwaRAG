@@ -1,0 +1,107 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:23Z",
+  "title": "Fabricatorium of the Deep",
+  "pageid": 32741,
+  "wikitext": "{{stub}}\n{{Location_Infobox\n|title=Fabricatorium of the Deep\n|image=\u003cgallery\u003e\nFabricatorium of the Deep.png|In-Game\nFabricatorium Map.png|Map\n\u003c/gallery\u003e\n|map=Solaris-3\n|type = Region\n|nation= Rinascita\n}}\n{{Intro/Location|Fabricatorium of the Deep}} \n\nThe Fabricatorium of the Deep is a facility hidden in the unfathomed depths of the sea, where Common Echoes are manufactured, recycled, and studied. At its heart stands the Lumen Tower, composed of experimental zones that are arranged in a circular fashion and interconnected by pathways; everything here serves to maintain the smooth running of the facility.\n\n==Areas==\n{| class=\"article-table alternating-colors-table tdc1\" style=\"width: 100%;\"\n! style=\"width: 200px;\" |Name\n!Image\n!Description\n|- id=\"Fallen Grave\"\n|[[Fallen Grave]]\n|[[File:Fallen Grave.png|180px]]\n|In the outlying corner of the Fabricatorium lies an Echo burial ground embedded into deep-sea canyons. Here, heaps of abandoned Brooders cover the floor. Decommissioned Echoes wait in lines to be dismantled and incinerated in the workshops. Their frequencies will be recycled and redirected across the Fabricatorium, feeding the creation of new Echoes.\n|- id=\"Anima Cradle\"\n|[[Anima Cradle]]\n|[[File:Anima Cradle.png|180px]]\n|The core area in the Fabricatorium of the Deep for developing Common Echoes. Endless arrays of Echo Brooders line the space, cradling Echoes awaiting rebirth.\nAs the foundation of the Common Echo system, this site commands heavy investment of security and research resources by the Order.\n|- id=\"Energy Hub (Rinascita)\"\n|[[Energy Hub (Rinascita)|Energy Hub]]\n|[[File:Energy Hub (Rinascita).png|180px]]\n|The energy storage and distribution center of the Fabricatorium.\nThe recycled energy from the Fallen Grave converges here, waiting to be distributed to other areas as needed. All energy is reserved in liquid media. Frequencies born of the tides once again dissolve in water.\n|- id=\"Sanctuary of Faith\"\n|[[Sanctuary of Faith]]\n|[[File:Sanctuary of Faith.png|180px]]\n|A praying ground dedicated to the Acolytes dwelling under the sea, the only sanctuary of the Order's undersea expanse that remains untouched by the Fractsidus.\n|- id=\"Lumen Tower\"\n|[[Lumen Tower]]\n|[[File:Lumen Tower.png|180px]]\n|The central tower of the Fabricatorium of the Deep, where the Lost Beyond is created.\nAs the control hub of the entire Fabricatorium, the tower regulates the activities in all other areas within the facility. Deep in the tower keeps the lantern of the first Primus, the first gift bestowed upon the Order by Sentinel Imperator.\n|}\n\n==Quests==\n{{Quest by Category List|Fabricatorium of the Deep Quests}}\n\n== Exploration Report ==\n\n=== '''Fabricatorium of the Deep: Surveillance Report I''' ===\n* Unlocked by reaching 50% exploration.\n\n{{Transclude|Fabricatorium of the Deep: Surveillance Report I|Text|main=1}}\n\n=== '''Fabricatorium of the Deep: Surveillance Report II''' ===\n* Unlocked by reaching 100% exploration.\n\n{{Transclude|Fabricatorium of the Deep: Surveillance Report II|Text|main=1}}\n\n==Notable Features==\n===Nightmare Nests===\n* [[Fallen Grave Nightmare Nest]]\n\n===Bosses===\n* {{Enemy|Nightmare: Hecate}}\n* {{Enemy|Fenrico}}\n\n===Enemies===\n====Common Class====\n* {{Enemy|Abyssal Gunmaster}}\n* {{Enemy|Fractsidus Inspector}}\n\n===Resources===\n* {{Item|\"Afterlife\"}}\n* {{Item|Abyss Luminary}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fabricatorium of the Deep\n|zhs  = 隐海试验场\n|zht  = 隱海試驗場\n|ja   = 隠海実験場\n|ko   = 깊은 바다 실험장\n|es   = Fabricatorium Abisal\n|fr   = Fabricatorium des Profondeurs\n|de   = Fabrikatorium der Tiefen\n}}\n\n==Change History==\n{{Change History|2.5}}\n\n==Navigation==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Areas",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Exploration Report",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eFabricatorium of the Deep: Surveillance Report I\u003c/b\u003e",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "\u003cb\u003eFabricatorium of the Deep: Surveillance Report II\u003c/b\u003e",
+      "number": "3.2",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Notable Features",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Nightmare Nests",
+      "number": "4.1",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Bosses",
+      "number": "4.2",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Enemies",
+      "number": "4.3",
+      "index": "9"
+    },
+    {
+      "toclevel": 3,
+      "level": "4",
+      "line": "Common Class",
+      "number": "4.3.1",
+      "index": "10"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resources",
+      "number": "4.4",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "14"
+    }
+  ]
+}

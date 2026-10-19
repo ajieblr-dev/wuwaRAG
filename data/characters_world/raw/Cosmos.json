@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:05Z",
+  "title": "Cosmos",
+  "pageid": 36004,
+  "wikitext": "{{CustomTabs\n|tab1 = Overview\n|tab2 = Gallery}}\n{{About|the black wooly doll|the white wooly doll|Cloudy}}\n{{NPC Infobox\n|image            = Cosmos In-game.jpg\n|name             = Cosmos\n|title            = Wooly Dolls\n|type             = Quest\n|nation           = \n|group            = \n|affiliation      = Black Shores\n\n\u003c!-- Voice Actors --\u003e\n|voiceEN          = [[imdb:nm1544577|Carina Reeves]]\u003cref name=\"Woolies Bilibili\"/\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/皛四白 Xiao Sibai ({{Lang|mini=1|zh=皛四白}})]\u003cref name=\"Woolies Bilibili\"\u003eBilibili: [https://www.bilibili.com/opus/923171059586301968 《鸣潮》共鸣者「安可」展示PV]\u003c/ref\u003e\n|voiceJP          = [[imdb:nm14509096|Ibuki Chikano ({{Lang|mini=1|ja=伊吹誓乃}})]]\u003cref name=\"Woolies Bilibili\"/\u003e\n|voiceKR          = [https://namu.wiki/w/이세레나 Serena Lee ({{Lang|mini=1|ko=이세레나}})]\u003cref name=\"Woolies Bilibili\"/\u003e\n}}\n'''Cosmos''' {{Lang|zh=黑咩}} is a quest-exclusive [[NPC]] and, by extention of [[Encore]], a member of the [[Black Shores]]. Cosmos and [[Cloudy]], once ordinary dolls gifted to Encore by her [[Encore's Mother|mother]], are sentient as manifestations of Encore's imagination and are believed to represent her forte abilities. The two always stay by her side and also assist her in [[Encore/Combat|combat]]. \n\n==Quests and Events==\n{{Quests and Events}} \n\n==Mentions==\n{{Character Mentions}} \n\n==Other Languages==\n{{Other Languages\n|en   = Cosmos\n|zhs  = 黑咩\n|zht  = 黑咩\n|ja   = 黒メェ\n|ko   = 그늘이\n|fr   = Cosmos\n|de  = Cosmos\n|es   = Cosmos\n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Character Stories",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

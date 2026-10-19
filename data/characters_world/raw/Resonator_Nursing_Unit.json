@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:11Z",
+  "title": "Resonator Nursing Unit",
+  "pageid": 38526,
+  "wikitext": "{{Location Infobox\n|image        = Resonator Nursing Unit.png\n|icon         = Pharmacy Map Marker.png\n|type         = Point of Interest\n|type2        = Pharmacies\n|nation       = Roya Frostlands\n|region       = Startorch Academy (Region)\n|area         = Startorch Academy - Square\n}}\nThe '''Resonator Nursing Unit''' (ReNU) is Startorch Academy's pharmacy led by [[Luuk Herssen]]. \n\n==Shop==\n{{Vendor|N.A.N.A.}} \n\n==Descriptions==\n{{Description|Resonator Nursing Unit is the Academy's infirmary, operating as an affiliate of Rabelle College. It is renowned for its specialization in Frequency Therapeutics. The facility is led by Head Physician Luuk Herssen, with the assistance of N.A.N.A., the Nightingale Autonomous Nursing Assistant.|Map Description}}\n\n{{Description|Officially the \"Resonator Nursing Unit,\" the infirmary is a clinical-research hybrid facility overseen by Rabelle College.\u003cbr\u003eManaged by Academy physician Luuk Herssen, it utilizes Frequency Therapeutics to provide comprehensive healthcare for the students and faculty of Startorch Academy.|Glossary Excerpt}}\n\n==Other Languages==\n{{Other Languages\n|en   = Resonator Nursing Unit\n|zhs  = 共鸣医疗科\n|zht  = 共鳴醫療科\n|ja   = 共鳴医療科\n|ko   = 공명 보건실\n|fr   = Division Réso-médicale\n|de   = Resonator-Pflegestation\n|es   = Unidad Médica de Resonancia\n|th   = ฝ่ายเวชศาสตร์เรโซแนนซ์\n}} \n\n==Change History==\n{{Change History|3.0}} \n\n==Navigation==\n{{PoI Navbox}}\n[[zh:医务室]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

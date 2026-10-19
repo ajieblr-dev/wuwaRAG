@@ -1,0 +1,93 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:01Z",
+  "title": "Planck",
+  "pageid": 28062,
+  "wikitext": "{{NPC Infobox\n|name             = Planck\n|image            = Planck.png\n|type             = Open-World\n|group            = Common Echoes\n|group2           = Echo NPCs\n|nation           = Rinascita\n|location         = Riccioli Islands\n|location2        = Helm Village\n|location3        = Serene Bay\n|location4        = Reyes Ruins\n|title            = Octopus Merchant\n|affiliation      = Fishing Shop\n|affiliation2     = Docks of Riccioli Islands\n}}'''Planck''' is an NPC on {{Location|Riccioli Islands|nocat=1}}. It is an Octopus Echo that manages the [[Fishing Shop]]s and [[Dock]]s on [[Riccioli Islands]].\n\n==Description==\n'''Planck''' is an Octopus Merchant that sells [[Items]] used for upgrading [[Fishing Skills]] and [[Rachel]], as well as [[Bampuffs]]. By talking to Planck, players can access the Dock menu as well as Planck's [[Fishing Shop]].\n\nPlanck can be found at all four Docks around the Riccioli Islands. It has separate shops in all locations each with it's own stock and selection of items. Each Dock and it's shop is unlocked by progressing through the [[Permanent Events|Permanent In-game Event's]] Quest: [[Old Man and the Whale]].\n\n==Shops==\n===Port of Riccioli===\n{{Shop/Wrapper|\n{{Shop|Rinascita Fishing Guidebook: Chapter Three|1,000|1|total=1}}\n{{Shop|Fragment of a Mysterious Scripture: Chapter Two|1,000|1|total=1}}\n{{Shop|Coast Flax|text = Coast Flax \u0026times;10|50|5|total=1|type=Fish}}\n{{Shop|Coast Flax|text = Coast Flax \u0026times;10|200|10|total=1|type=Fish}}\n{{Shop|Palm Tree Log|text = Palm Tree Log \u0026times;10|50|10|total=1|type=Fish}}\n{{Shop|Palm Tree Log|text = Palm Tree Log \u0026times;10|200|20|total=1|type=Fish}}\n{{Shop|Metal Debris|text = Metal Debris \u0026times;10|100|10|total=1|type=Fish}}\n{{Shop|Metal Debris|text = Metal Debris \u0026times;10|30|20|total=1|type=Fish}}\n{{Shop|Old Compass|25|50|total=1}}\n{{Shop|Wonder Bubble of Port of Riccioli|500|1|total=1}}\n{{Shop|\"Sweet Puff\"|500|10|total=1}}\n|total=17,100|vendor=Planck|type=Dock|currency=Riccioli Fishery Coin}}\n===Helm Village=== \n{{Shop/Wrapper|\n{{Shop|Conviction of Voyage|2,000|1|total=1}}\n{{Shop|Faith of Unity|10,000|1|total=1}}\n{{Shop|Rinascita Fishing Guidebook: Chapter Three|2,500|1|total=1}}\n{{Shop|Fragment of a Mysterious Scripture: Chapter One|2,500|1|total=1}}\n{{Shop|Coast Flax|text = Coast Flax \u0026times;10|50|5|total=1|type=Fish}}\n{{Shop|Coast Flax|text = Coast Flax \u0026times;10|200|10|total=1|type=Fish}}\n{{Shop|Palm Tree Log|text = Palm Tree Log \u0026times;10|50|10|total=1|type=Fish}}\n{{Shop|Palm Tree Log|text = Palm Tree Log \u0026times;10|200|20|total=1|type=Fish}}\n{{Shop|Metal Debris|text = Metal Debris \u0026times;10|100|10|total=1|type=Fish}}\n{{Shop|Metal Debris|text = Metal Debris \u0026times;10|30|20|total=1|type=Fish}}\n{{Shop|Old Compass|25|50|total=1}}\n{{Shop|Wonder Bubble of Helm Village|500|1|total=1}}\n{{Shop|\"Sweet Puff\"|500|10|total=1}}\n|total=32,100|vendor=Planck|type=Dock|currency=Riccioli Fishery Coin}}\n===Serene Bay===\n{{Shop/Wrapper|\n{{Shop|Valor of Tidebreaker|20,000|1|total=1}}\n{{Shop|Rinascita Fishing Guidebook: Chapter One|6,000|1|total=1}}\n{{Shop|Rinascita Fishing Guidebook: Chapter Two|6,000|1|total=1}}\n{{Shop|Fragment of a Mysterious Scripture: Chapter Two|6,000|1|total=1}}\n{{Shop|Coast Flax|text = Coast Flax \u0026times;10|200|10|total=1|type=Fish}}\n{{Shop|Coast Flax|text = Coast Flax \u0026times;10|800|10|total=1|type=Fish}}\n{{Shop|Palm Tree Log|text = Palm Tree Log \u0026times;10|200|10|total=1|type=Fish}}\n{{Shop|Palm Tree Log|text = Palm Tree Log \u0026times;10|800|20|total=1|type=Fish}}\n{{Shop|Metal Debris|text = Metal Debris \u0026times;10|400|10|total=1|type=Fish}}\n{{Shop|Metal Debris|text = Metal Debris \u0026times;10|1,200|20|total=1|type=Fish}}\n{{Shop|Old Compass|150|100|total=1}}\n{{Shop|Wonder Bubble of the Serene Bay|1,000|1|total=1}}\n{{Shop|\"Sweet Puff\"|500|10|total=1}}\n|total=114,000|vendor=Planck|type=Dock|currency=Riccioli Fishery Coin}}\n===Reyes Ruins===\n{{Shop/Wrapper|\n{{Shop|Passion of Vengeance|40,000|1|total=1}}\n{{Shop|Rinascita Fishing Guidebook: Chapter Two|15,000|1|total=1}}\n{{Shop|Fragment of a Mysterious Scripture: Chapter One|15,000|1|total=1}}\n{{Shop|Fragment of a Mysterious Scripture: Chapter Three|15,000|1|total=1}}\n{{Shop|Coast Flax|text = Coast Flax \u0026times;10|400|5|total=1|type=Fish}}\n{{Shop|Coast Flax|text = Coast Flax \u0026times;10|1,600|10|total=1|type=Fish}}\n{{Shop|Palm Tree Log|text = Palm Tree Log \u0026times;10|400|10|total=1|type=Fish}}\n{{Shop|Palm Tree Log|text = Palm Tree Log \u0026times;10|1,600|20|total=1|type=Fish}}\n{{Shop|Metal Debris|text = Metal Debris \u0026times;10|1,000|10|total=1|type=Fish}}\n{{Shop|Metal Debris|text = Metal Debris \u0026times;10|3,000|20|total=1|type=Fish}}\n{{Shop|Old Compass|25|250|total=1}}\n{{Shop|Wonder Bubble of the Reyes Ruins|2,000|1|total=1}}\n{{Shop|\"Sweet Puff\"|2,000|50|total=1}}\n{{Shop|Sandworm|3,000|20|total=1}}\n|total=377,250|vendor=Planck|type=Dock|currency=Riccioli Fishery Coin}}\n\n==Dialogue==\n{{Dialogue start}}\n;(Open Shop)\n:'''Planck:''' Welcome!\n;(Sell one fish)\n:'''Planck:''' Such a big fish!\n;(Sell multiple fishes)\n:'''Planck:''' So many fishes!\n;(Buy an item)\n:'''Planck:''' Do come again!\n{{Dialogue end}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en  = Planck\n|zhs = 普朗克\n|zht = 普朗克\n|ja  = プランク\n|ko  = 플랑크\n|es  = Planck\n|fr  = Planck\n|de  = Planck\n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shops",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Port of Riccioli",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Helm Village",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Serene Bay",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Reyes Ruins",
+      "number": "2.4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "8"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "11"
+    }
+  ]
+}

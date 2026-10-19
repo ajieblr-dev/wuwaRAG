@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:54Z",
+  "title": "Nightmare: Violet-Feathered Heron",
+  "pageid": 35863,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Nightmare Enemy Infobox\n|name      = Nightmare: Violet-Feathered Heron\n|image     = Nightmare Violet-Feathered Heron Icon.png\n|dmgtype   = Electro\n|echo      = Yes\n|class     = Elite\n|family    = Tacet Discord\n|nation    = Rinascita\n|region    = Sanguis Plateaus\n|subregion = The Wastelands Nightmare Nest\n|variants  = Violet-Feathered Heron\n}}{{Description|A special Tacet Discord that lurks in the intricate network of the Dreamscape Nodes.}}\n{{Intro/Enemy|Nightmare: Violet-Feathered Heron|a=1|lang=zh=梦魇・青羽鹭}}\n\n==Stats==\n{{Enemy Stats|Nightmare: Violet-Feathered Heron}}\n\u003c!--\n==Abilities==--\u003e\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Electro DMG|nobold=1}}.\u003cbr/\u003eA special Tacet Discord that lurks in the intricate network of the Dreamscape Nodes. It gathers frequencies of a particular negative emotion emanating from across all of Ragunna.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en   = Nightmare: Violet-Feathered Heron\n|zhs  = 梦魇・紫羽鹭\n|zht  = 夢魘・紫羽鷺\n|ja   = ナイトメア・紫羽サギ\n|ko   = 악몽 ・ 보라색 왜가리\n|es   = Pesadilla: Garza Plumavioleta\n|fr   = Cauchemar : Héron violet\n|de   = Albtraum: Violettfederreiher\n}}\n\n==Change History==\n{{Change History|2.6}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

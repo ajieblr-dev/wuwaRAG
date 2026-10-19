@@ -1,0 +1,135 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:51Z",
+  "title": "Camellya",
+  "pageid": 599,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery|Camellya}} \n\n\u003c!-- Gameplay Info --\u003e\n|type             = Playable\n|rarity           = 5\n|class            = Artificial\n|weapon           = Sword\n|attribute        = Havoc\n|releaseDate      = 2024-11-14\n|role             = Main Damage Dealer;Concerto Efficiency;Basic Attack Damage\n\n\u003c!-- Info --\u003e\n|name             = Camellya\n|title            = Sanguine Blossom\n|gender           = Female\n|birthday         = Unknown\n|birthplace       = Unknown\n|nation           = The Black Shores\n|affiliation      = Black Shores\n|sigil            = \n|dish             = Iced Grape Tea\n|obtain           = End of Lost Trail \n\n\u003c!-- Voice Actors --\u003e\n|voiceEN          = {{w|Meaghan Martin}}\u003cref name=\"Camellya Bilibili\"/\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/柳知萧 Liu Zhixiao ({{Lang|mini=1|zh=柳知萧}})]\u003cref name=\"Camellya Bilibili\"\u003eBilibili: [https://www.bilibili.com/opus/997648597131460617 《鸣潮》共鸣者战斗演示]\u003c/ref\u003e\n|voiceJP          = {{w|Mariya Ise|Ise Mariya ({{Lang|mini=1|ja=伊瀬茉莉也}})}}\u003cref\u003eTwitter (X): [https://x.com/WW_JP_Official/status/1835876336579043766 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/유혜지 Yu Hye-ji ({{Lang|mini=1|ko=유혜지}})]\u003cref name=\"Camellya Bilibili\"/\u003e\n}}\n{{Quote|Oh! Hehe... I'm looking forward to our game.|Camellya\n}}\n{{Intro/Resonator}} She is a Bloom Bearer of the [[Black Shores]], and handles the combat-oriented germination tests given to new candidates. However, she refuses all sense of responsibility, delighting in satiating her unquenchable thirst for battle and personal amusement. In pursuit of the thrill of a fight, she gleefully abandons the risks to her life and the people around her.\n\n==Official Introduction==\n{{Quote|Bloom Bearer from the Black Shores, Camellya is a laid-back character free from shackles, with her personal aroma of \"danger.\"\u003cbr/\u003eIntrigued by the belief in fate, she wanders the lands of her own accord, following such a chain of scenarios and its vague guidance.|Introduction from the [https://wutheringwaves.kurogames.com/m/en/main/#resonators Official Website]}}\n\n==Combat Overview==\n{{Main|Camellya/Combat}}\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}{{Skill Upgrade|Camellya|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en   = Camellya\n|zhs  = 椿\n|zht  = 椿\n|ja   = ツバキ\n|ko   = 카멜리아\n|fr   = Camellya\n|de   = Camellya\n|es   = Camellya\n|th   = Camellya\n}}\n\n==Trivia==\n===Etymology===\n* ''[https://en.wikipedia.org/wiki/Camellia Camellia]'' is a genus of flowering plants native to Asia.\n** In Japan, the [https://en.wikipedia.org/wiki/Camellia_japonica#In_culture_and_art Japanese camellia]'s blooming in early spring is said to symbolize resilience. On the other hand, flowers falling off is likened to a \"beheaded samurai's head\".\n* Due to Camellya's unique [[Rabelle's Curve]] pattern, she is currently ''speculated'' to be an Artificial Resonator, as indicated in her [[Camellya/Forte Examination Report|Forte Examination Report]].\n* The name ''Camellya'' belonged to a separate character during pre-release. While the name now belongs to this character, the visual appearance of the pre-release Camellya seems to have been instead given to [[Carlotta]].\u003cref\u003ehttps://web.archive.org/web/20250526230633/https://gamerant.com/wuthering-waves-wuwa-revamped-resonators-list-ranked/\u003c/ref\u003e\n\n==Change History==\n{{Change History|introduced=1.0|1.4}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n[[zh:椿]]\n[[ru:Камеллия]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "3.3",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.4",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "6.1",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "14"
+    }
+  ]
+}

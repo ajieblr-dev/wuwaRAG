@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:47Z",
+  "title": "Gousi",
+  "pageid": 8897,
+  "wikitext": "{{Meta\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}{{NPC Infobox\n|name             = Gousi\n|image            = NPC Gousi.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = \n|group            = \n|affiliation      = Exiles\n|title            = \n}}\n'''Gousi''' is an NPC located within the cave cleared during [[A Free Meal?]].\n\u003c!--\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n--\u003e\n==Quests and Events==\n{{Quests and Events|Gousi}}\n\u003c!--\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Maosan:''' A perfect shelter it is! Ah, I can't expect a more comfortable life...\n:'''Gousi:''' I agree. We should thank {{Rover}} for that.\n:'''Maosan:''' I told [[Long'er|boss]] about it. {{MC|m=He|f=She}} deserves some proper respect.\n:{{DIcon}} Are you talking about me?\n:'''Maosan:''' Oh! Yes, yes! What brings you here? We've been thinking that we could find such a good place only because of you.\n:'''Gousi:''' Yeah... A shelter and some necessary money really save us from doing those dirty jobs!\n{{Dialogue End}}\n\n==Trivia==\n* Gousi name means Dog Four\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Gousi\n|zhs  = 狗四\n|zht  = 狗四\n|ja   = 犬四（ケンシ）\n|ko   = 견사\n|es   = Gousi\n|fr   = Gousi\n|de   = Gousi\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:57Z",
+  "title": "Vanguard Junrock",
+  "pageid": 23144,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Vanguard Junrock\n|title=\n|image=Vanguard Junrock Icon.png\n|dmgtype=Physical\n|weakpoint=\n|echo=Yes\n|class=Common\n|family=Tacet Discord\n|group=Tranquilite\n|nation=\n|region=\n|subregion=\n|drops=\n}}\n{{Description|A Common Class Tranquilite TD inhabiting mountainous areas. Often overlooked due to its rock-like appearance.}}\n{{Intro/Enemy}}\n\n==Drops== \n{{Drops|Common Tranquilite}}\n\n==Stats==\n{{Enemy Stats|Vanguard Junrock}}\n\n\u003c!--==Abilities== --\u003e\n\n==Trophies==\n{{Trophies|Vanguard Junrock|customheader=Vanguard Junrocks}}\n\n==Description==\n{{Description|A TD constructed with fragmented rocks. It has poor eyesight and a preference for rampaging.\nThe clinks and clacks of its rock skin colliding with other objects help Vanguard Junrock identify its circumstances.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Vanguard Junrock\n|zhs  = 先锋幼岩\n|zht  = 先鋒幼岩\n|ja   = 先兵岩塊\n|ko   = 선봉 암괴\n|es   = Junroca Vanguardia\n|fr   = Jeunpierre avant-guard\n|de   = Vorhut Junrock\n}}\n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

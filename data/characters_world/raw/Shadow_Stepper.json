@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:25Z",
+  "title": "Shadow Stepper",
+  "pageid": 39833,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Shadow Stepper\n|title     = \n|image     = Shadow Stepper Icon.png\n|dmgtype   = Havoc\n|weakpoint = \n|echo      = Yes\n|class     = Common\n|family    = Tacet Discord\n|group     = Whisperin\n|nation    = Roya Frostlands\n|region    = Frostlands Surface\n|subregion = \n|drops     = \n}}{{Description|}}\n{{Intro/Enemy|Shadow Stepper}}\n\n==Drops== \n{{Drops|Common Whisperin}}\n\n==Stats==\n{{Enemy Stats|Shadow Stepper}}\n\u003c!--\n==Abilities==--\u003e\n\n==Trophies==\n{{Trophies|Shadow Stepper|customheader=Shadow Stepper}}\n\n==Description==\n{{Description|This enemy has a higher RES to {{Color|Havoc DMG|nobold=1}}.\n\nA faceless humanoid Tacet Discord with a body that flows, splits, and coalesces like a living shadow. By splintering its own frequency, it can generate a pocket of shadow realm to lie in wait. When its prey draws near, it will erupt from the darkness to strike from impossible angles.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en   = Shadow Stepper\n|zhs  = 影烁者\n|zht  = 影爍者\n|ja   = シャドウステッパー\n|ko   = 쉐도우 스태퍼\n|fr   = Fausse ombre\n|de   = Schattenschreiter\n|es   = Caminante Sombrío\n|th   = Shadow Stepper\n}}\n\n==Change History==\n{{Change History|3.1}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

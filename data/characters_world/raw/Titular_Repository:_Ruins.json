@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:48Z",
+  "title": "Titular Repository: Ruins",
+  "pageid": 31691,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Titular Repository: Ruins\n|image=Titular Repository Ruins.png\n|world_map=Solaris-3\n|type=Area\n|nation=Rinascita\n|region=Avinoleum}}\n'''Titular Repository: Ruins''' is an area of [[Avinoleum]], [[Rinascita]].\n\n\n== Other Languages ==\n{{Other Languages\n|en   = Titular Repository: Ruins\n|zhs  = 扉页书馆・遗址\n|zht  = 扉頁書館・遺址\n|ja   = {{Rubi|本扉|ほんとびら}}図書館・遺跡 \n|ko   = 서문의 도서관 ・ 유적\n|es   = Biblioteca de Portadas: Ruinas\n|fr   = Ruines de la Bibliothèque de Frontispice\n|de   = Relikte: Titelbibliothek\n}}\n\n== Change History ==\n{{Change History|2.2}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}\n[[Category:Locations without Image]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:02Z",
+  "title": "Po'xiao",
+  "pageid": 5998,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Po'xiao.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Lake Heights\n|group            = \n|affiliation      = \n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = Xieyang\n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Po\u0026#39;xiao''' is an NPC in {{Location|Lake Heights}}.\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the day)\n:'''Po'xiao:''' Whew... Finally done. Oh, hi there.\n:{{DIcon}} What are you doing?\n:'''Po'xiao:''' I was just helping [[Kangjian|this gentleman]] write a eulogy.\n:'''Po'xiao:''' I'm a bit of a writer, so I sometimes help the elderly or injured soldiers here by writing things for them.\n:'''Po'xiao:''' There are letters, there are eulogies... There are wills...\n:{{DIcon}} Wills...\n:'''Po'xiao:''' The soldiers never know when their time's up. I can understand that.\n\n;(During the night)\n:'''Po'xiao:''' Well... This needs a little more polishing. We don't want his family to worry...\n:'''Po'xiao:''' Ah, that might be a little too hard to understand...\n:{{DIcon}} (Better not disturb him.)\n----\n;(Alternate dialogue)\n:'''Po'xiao:''' Did you meet [[Xieyang]]?\n:{{DIcon}} I did.\n:'''Po'xiao:''' He... he's my brother.\n:'''Po'xiao:''' Is it, like, hard to talk to him?\n:'''Po'xiao:''' My brother has his own, uh, way of expressing himself.\n:'''Po'xiao:''' But you could say we're similar. We both have our ways of expressing what we want to say.\n:'''Po'xiao:''' In some ways, he's set an example for me.\n:{{DIcon}} An example?\n:'''Po'xiao:''' Yes, an example of being true to yourself, expressing yourself bravely, and not backing down even when others don't understand.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Po'xiao\n|zhs  = 破晓\n|zht  = 破曉\n|ja   = 破暁（ハギョウ）\n|ko   = 파효\n|es   = Po'xiao\n|fr   = Po'xiao\n|de   = Po'xiao\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

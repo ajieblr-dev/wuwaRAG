@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:04Z",
+  "title": "Qichi Village",
+  "pageid": 6013,
+  "wikitext": "{{Location Infobox\n|title1    = Qichi Village\n|image     = Qichi Village.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Huanglong\n|region    = Central Plains\n}}\n'''Qichi Village''' is an area of {{Location|Central Plains}}. The village was abandoned many years ago due to an unknown tragedy in which almost all of the villagers were killed, and some were transformed into [[Tacet Discord]]s. [[Scar]] attributes the destruction to a mysterious individual referred to only as \"[[The Shepherd]].\"\u003cref\u003e[[Main Quest]]: [[Ominous Star]]\u003c/ref\u003e Ever since, the surrounding landscape has been transformed, and a large [[Tacet Field]] has appeared in a cavern beneath the town.\n\n==Interactables==\n{{#dpl:|category = Qichi Village Terminology\n|noresultsheader = There are no interactables in this area.\n|ordermethod= title}}\n\n==NPCs==\n{{NPCs by Location List|Qichi Village}}\n\n==References==\n{{Reflist}}\n\n==Other Languages==\n{{Other Languages\n|en   = Qichi Village\n|zhs  = 祈池村\n|zht  = 祈池村\n|ja   = {{Rubi|祈池村|きちむら}}\n|ko   = 소원 연못 마을\n|es   = Aldea Qichi\n|fr   = Ville de Qichi\n|de   = Dorf Qichi\n|th   = \n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Location Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Interactables",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

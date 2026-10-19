@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:48Z",
+  "title": "Greenhouse",
+  "pageid": 31760,
+  "wikitext": "{{Location Infobox\n|image        = Black Shores Greenhouse.png\n|type         = Point of Interest\n|nation       = The Black Shores\n|region       = Black Shores Archipelago\n|area         = Tethys Hub\n}}\nThe '''Greenhouse''' is a building located at the highest point of the {{Location|Tethys Hub|nocat=1}}. It contains a wide variety of diverse plants from all around the world, with each member of the [[Black Shores]] being free to add a seed from their homeland to the greenhouse. \n\n==Wutherium Geographic==\nThe glass conservatory perched at the highest point of the Black Shores. An impressive collection of plant specimens from across the world thrives within its walls. Every newcomer, Bloom Bearer or Consultant, is invited to contribute a seed from their homeland.\u003cbr\u003e\u003cbr\u003eAt the heart of this verdant sanctuary, a unique modulation device sits encircled by flowers representing diverse civilizations.\u003cbr\u003e\u003cbr\u003eEach plant in the Greenhouse speaks the unspoken hopes of its sower. Some of these seeds come from lands erased by the Lament, standing as the last living memory of places that no longer exist.\u003cref\u003eTwitter (X): [https://x.com/Wuthering_Waves/status/1838790534040613178 Wutherium Geographic: Lands and Waters — The Black Shores Vol. 1]\u003c/ref\u003e \n\n==Other Languages==\n{{Other Languages\n|en   = Greenhouse\n|zhs  = 花房\n|zht  = 花房\n|ja   = 花園\n|ko   = 플라워 룸\n|fr   = La Serre\n|de   = Gewächshaus\n|es   = Invernadero\n}}\n\n==Change History==\n{{Change History|1.3}} \n\n==References==\n{{Reflist}} \n\n==Navigation==\n{{PoI Navbox|The Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Wutherium Geographic",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

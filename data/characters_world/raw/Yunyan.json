@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:15Z",
+  "title": "Yunyan",
+  "pageid": 26034,
+  "wikitext": "{{NPC Infobox\n|image        = NPC Yunyan\n|nation       = Huanglong\n|location     = Whining Aix's Mire\n|affiliation  = Lollo Logistics\n}}\n'''Yunyan'' is an NPc that appears in [[Lollo Warehouse]], [[Whining Aix's Mire]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Yunyan:''' If you have an express to send, please fill out the form according to the template.\n:{{DIcon}} Template?\n:'''Yunyan:''' The template is on the notice board over there. You can check it out.\n:'''Yunyan:''' Please pay special attention to the item type, as well as the expected delivery date.\n:{{DIcon}} Quite strict rules for a delivery service.\n:'''Yunyan:''' We follow these strict rules just to ensure a smooth delivery.\n:'''Yunyan:''' Especially when your package has to travel through a timid, foggy swamp here in Whining Aix's Mire.\n:'''Yunyan:''' Most of the packages are bound for Frosting Harbor, and taking the Heron Wetland is the only shortcut.\n:'''Yunyan:''' To describe the dense fog... packages would be soaked by the fog in the past.\n:'''Yunyan:''' Quite strict rules for a delivery service.\n:'''Yunyan:''' Thankfully, [[Mumian]], my colleague, invented a type of dehumidifier. When paired with our special delivery boxes, we can ensure the package stays dry for three days.\n:'''Yunyan:''' But even with this extra insurance, one can never be too careful when you're traveling through Whining Aix's Mire.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Yunyan\n|zhs  = 云俨\n|zht  = 雲儼\n|ja   = 雲儼（ウンゲン）\n|ko   = 운엄\n|es   = Yunyan\n|fr   = Yunyan\n|de   = Yunyan\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

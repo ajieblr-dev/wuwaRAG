@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:23Z",
+  "title": "Lingfang",
+  "pageid": 56273,
+  "wikitext": "{{Spoiler}}\n{{NPC Infobox\n|image          = NPC Lingfang.jpg\n|type           = Quest\n|nation         = Huanglong\n|affiliation    = Mengzhou\n|affiliation2   = Ministry of War\n|status         = Deceased\u003cbr\u003eDied during the [[Fortress and Gorges War]]. \n\n\u003c!-- Family --\u003e\n|spouse         = Unnamed\n|spouseNote     = husband; deceased\n|father         = Unnamed\n|child          = Unnamed\n|childNote      = daughter\n|relative       = Unnamed\n|relativeNote   = grandmother\n|relative2      = Liangyu\n|relativeNote2  = descendant\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = {{w|ja:日比優理香|Hibi Yuriko ({{Lang|mini=1|ja=日比優理香}})}}\u003cref name=\"Hibi Yuriko\"\u003eX: [https://x.com/nippi1011/status/2090273875523440664 JP VA Self Announcement]\u003c/ref\u003e\n|voiceKR          = \n}}{{Description|{{A|Vo main huanglong xlzhdly 330 33.ogg}} ''Protect, you say... We have a baby girl, and I... I only wish I could protect her as she grows.''|Lingfang, [[Xuanling Sings, Storm Quelled]]}}\n'''Lingfang''' {{Lang|zh=铃坊}} is a quest-exclusive [[NPC]] that first appears during {{Quest|The Wind Before the Storm}}. \n\n==History==\nLingfang grew up with her father, who served in Mengzhou's [[Ministry of War]] and taught her how to fight from when she was young until she grew bored of it after a few years and ran away to study music. She was childhood friends with [[Ruoyun]], and attended the Waking Moon festival with [[Qingxiao]] and [[Ruoyun]] before the Fortress and Gorges War. During her years wandering, she met a painter who loved to paint [[Xuanling Bird]]s. The two eventually became married and had a daughter together and lived happily until her husband was killed by [[Tacet Discord]]s. Following the death of her husband, Lingfang sold her {{w|liuqin}}, swearing to get revenge for her husband, and took up the sword once again to fight as a soldier in the [[Fortress and Gorges War]]. \n\nDuring the war, Lingfang and her comrades fell in battle, and [[Muyu]] trapped their [[reverberation]]s, forcing them under his control and rendering them unable to pass on. Lingfang and her comrades remained trapped under Muyu's control until roughly 200 years later when [[Yangyang]] uses the [[Song of Xuanling]] to free them.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lingfang\n|zhs  = 铃坊\n|zht  = 鈴坊\n|ja   = 鈴坊\n|ko   = 영방\n|fr   = Lingfang\n|de   = Lingfang\n|es   = Lingfang\n|th   = Lingfang\n|pt   = Lingfang\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "History",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

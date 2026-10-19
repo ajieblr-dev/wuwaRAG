@@ -1,0 +1,121 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:02Z",
+  "title": "Ciaccona",
+  "pageid": 28670,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|image            = {{Infobox Gallery|Ciaccona}} \n\n\u003c!-- Gameplay Info --\u003e|type             = Playable\n|realname         = Ciaccona Toccata\n|rarity           = 5\n|class            = Unclear\n|weapon           = Pistols\n|attribute        = Aero\n|role             = Concerto Efficiency; Traction; Aero Erosion\n|releaseDate      = 2025-05-22\n\n\u003c!-- Info --\u003e|name             = Ciaccona\n|title            = Woven Melodies\n|gender           = Female\n|birthday         = \n|birthplace       = Rinascita\n|nation           = Rinascita\n|affiliation      = Ragunna\n|sigil            = \n|dish             = Pasta Bocadillo\n|obtain           = Through Verses and Rhythms\n\n\u003c!-- VAs --\u003e|voiceEN          = [[imdb:nm5336712|Rebecca Hanssen]]\u003cref name=\"Ciaccona Bilibili\"\u003e\u003c/ref\u003e\n|voiceCN          = [https://zh.moegirl.org.cn/zh-hans/叶知秋 Ye Zhiqiu ({{Lang|mini=1|zh=叶知秋}})]\u003cref name=\"Ciaccona Bilibili\"\u003eBilibili: [https://www.bilibili.com/video/BV1sKJNzpEXs/ 《鸣潮》共鸣者战斗演示 | 夏空]\u003c/ref\u003e\n|voiceJP          = {{w|Ikumi Hasegawa|Hasegawa Ikumi ({{Lang|mini=1|ja=長谷川育美}})}}\u003cref name=\"JP-VA_TW_Ciaccona\"\u003eX: [https://x.com/WW_JP_Official/status/1905154067556417768 JP VA Announcement]\u003c/ref\u003e\n|voiceKR          = [https://namu.wiki/w/김예림(성우) Kim Ye-rim ({{Lang|mini=1|ko=김예림}})]\u003cref name=\"Ciaccona Bilibili\"\u003e\u003c/ref\u003e\n|alias            = Topaz\n}}\n{{Quote|Hear that? A twinkling star just tinkled to the ground!|Ciaccona}}\n\n{{Intro/Resonator}} She is a free-spirited, romantic, sincere, and whimsical bard wandering [[Rinascita]] in search of inspiration. A passionate musician, poet, and storyteller for both commoners as well as the Divinity, Ciaccona aims to spread her talents, truths, and discoveries of the world around her to all those daring enough to listen.\n\n==Official Introduction==\n{{Quote|Ciaccona, the bard of Rinascita, is free-spirited, romantic, sincere, and passionate.\u003cbr\u003e\u003cbr\u003e\nOn her journey, she sang radiant poems of saints and heroes, weaving tales of people, miracles, turmoil, and suffering—along with the sorrow of death and farewell.|Introduction from the [https://wutheringwaves.kurogames.com/en/main#resonators Official Website.]}}\n\n==Combat Overview==\n{{Main|Ciaccona/Combat}}\n\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Ciaccona|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Ciaccona\n|zhs     = 夏空\n|zht     = 夏空\n|ja      = シャコンヌ\n|ko      = 샤콘\n|fr      = Ciaccona\n|de      = Ciaccona\n|es      = Ciaccona\n}}\n\n==Trivia==\n===Etymology===\n* A ''[https://en.wikipedia.org/wiki/Chaconne chaconne]'' (''ciaccona'' in Italian) is a style of musical composition popular during the Baroque Era (1600-1750 A.D.).\n* ''[https://en.wikipedia.org/wiki/Toccata Toccata]'' (from Italian ''toccare'', literally, \"to touch\", with \"toccata\" being the action of touching) is a virtuoso piece of music typically for a keyboard or plucked string instrument featuring fast-moving, lightly fingered or otherwise virtuosic passages or sections, generally emphasizing the dexterity of the performer's fingers.\n\n==Change History==\n{{Change History|2.3|introduced=2.2}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[zh:夏空]]\n[[ru:Чакона]]\n[[Category:Unclear Resonators]]\n[[Category:Aero Erosion DMG Amplification Resonators]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Materials",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Etymology",
+      "number": "6.1",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "12"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "13"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "14"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:47Z",
+  "title": "Grandma Hua",
+  "pageid": 10312,
+  "wikitext": "{{NPC Infobox\n|name             = Grandma Hua\n|image            = NPC Grandma Hua.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Taoyuan Vale\n|group            = \n|affiliation      = \n|title            = Qichi Villager\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Grandma Hua''' is an elderly female NPC found at {{Location|Taoyuan Vale}}. She is formally from Qichi Village, which was abandoned after an incident long ago.\u003cref\u003e[[Ominous Star]]\u003c/ref\u003e\n\nShe can be found at daytime, on the bridge heading towards Clouded Cliffs. \n\n\u003c!--\n==Location==\n\u003cgallery\u003e\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}}.png|{{subst:#titleparts:{{subst:PAGENAME}}}}'s location\nNPC Location {{subst:#titleparts:{{subst:PAGENAME}}}} Context.png|Additional context\n\u003c/gallery\u003e\n\n==Profile==\n''(To be added.)''\n\n===Appearance===\n''(To be added.)''\n\n==Quests and Events==\n{{Quests and Events|{{subst:#titleparts:{{subst:PAGENAME}}}}}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:{{DIcon}} Idle\n::{{A|VO {{subst:#titleparts:{{subst:PAGENAME}}}} 01.ogg}} \"{{tx}}\"\n{{Dialogue End}}\n--\u003e\n==Dialogue==\n{{Dialogue Start}}\n:'''Grandma Hua:''' Farming and watering the crops... The life here is the best.\n:'''Grandma Hua:''' It's peaceful and comfortable when you have everything worked out by yourself.\n:'''Grandma Hua:''' Better than the past when you had to trade something just to get a bite to eat...\n:{{DIcon}} Exchange?\n:'''Grandma Hua:''' Hmm... When I was younger, in another village, they had the habit of exchange.\n:'''Grandma Hua:''' Exchange... What exactly are we exchanging...?\n:'''Grandma Hua:''' I can't remember... Every time I think of the word \"exchange\", I get the heebie-jeebies...\n:'''Grandma Hua:''' Forget it... I'm too old to remember anything...\n{{Dialogue End}}\n\n\u003c!--\n==Character Mentions==\n{{Character Mentions}}\n\n==Trivia==\n* \n===Etymology===\n* \n\n==Gallery==\n\u003cgallery\u003e\n\u003c/gallery\u003e\n--\u003e\n==Other Languages==\n{{Other Languages\n|en   = Grandma Hua\n|zhs  = 花婆婆\n|zht  = 花婆婆\n|ja   = 花ばあ\n|ko   = 화 할머니\n|es   = Abuela Hua\n|fr   = Mamie Hua\n|de   = Oma Hua\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:11Z",
+  "title": "Dhalifa's Cherished Item",
+  "pageid": 39516,
+  "wikitext": "{{Terminology Infobox\n|image        = \n|type         = Lore\n|nation       = Lahai-Roi\n}}'''{{PAGENAME}}''' is a note found during [[Operation: Frontier Renewal]] and is added to its Archives, Spacetrek Observatory Files.\n\n==Text==\nA rust-stained electronic sheep toy, loose and wobbly, as if it could fall apart at any moment.\n\nDhalifa grew bored with this simple gadget almost immediately. But the instant she discovered that turning a single screw, nudging a bearing, or rerouting a thin line of circuitry could make the toy spin, tumble, or even bleat, something inside her ignited.\n\nFrom that moment on, she seized every chance to pester the visiting Spacetrek Collective researchers with endless questions. It was also the point when the more conservative members of her tribe began to alienate her for her newfound obsession.\n\n{{Other Languages\n|en   = Dhalifa's Forte Evaluation Report\n|zhs  = 德莉珐共鸣者能力报告\n|zht  = 德莉琺共鳴者能力報告\n|ja   = ディリファの共鳴能力報告\n|ko   = 달리파의 공명 어빌리티 리포트\n|fr   = Rapport d'évaluation de Forte de Dhalifa\n|de   = Bericht zu Dhalifas Resonanzkraft\n|es   = Informe de evaluación del Forte de Dhalifa\n|th   = รายงานพลังเรโซแนนซ์ของ Dhalifa\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Text",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    }
+  ]
+}

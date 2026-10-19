@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:48Z",
+  "title": "Nightmare: Kelpie",
+  "pageid": 32717,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Nightmare Enemy Infobox\n|name      = Nightmare: Kelpie\n|image     = Nightmare Kelpie Icon.png\n|title     = The Forsworn\n|dmgtype   = Aero\n|dmgtype2  = Glacio\n|nation=Rinascita\n|region=Septimont\n|subregion=Mournfell Canyon\n|variants  = Tactical Hologram: Kelpie\n|class     = Overlord\n}}\n'''{{Lang|Nightmare: Kelpie}}''' is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in {{Location|Mournfell Canyon}}.\n\n==Stats==\n{{Enemy Stats}}\n\n==Other Languages==\n{{Other Languages\n|en   = Nightmare: Kelpie\n|zhs  = 梦魇・凯尔匹\n|zht  = 夢魘・凱爾匹\n|ja   = ナイトメア・ケルピー\n|ko   = 악몽 ・ 켈피\n|es   = Pesadilla: Kelpie\n|fr   = Cauchemar : Kelpie\n|de   = Albtraum: Kelpie\n}}\n\n== Trivia ==\n* The {{W|Kelpie|kelpie}} is a shapeshifting water spirit from Scottish folklore. They are commonly depicted as equine or humanoid creatures who lure and drag unsuspecting prey into the lakes they inhabit before drowning and devouring them.\n* Nightmare: Kelpie appears and behaves identically to the Late Head of Fisalia's Obsession encountered in {{Quest|A Fleeting Night's Dream}}.\n\n==Change History==\n{{Change History|2.4}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

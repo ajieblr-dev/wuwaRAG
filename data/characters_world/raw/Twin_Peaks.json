@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:51Z",
+  "title": "Twin Peaks",
+  "pageid": 26422,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title=Twin Peaks\n|image=Twin Peaks.png\n|world_map=Solaris-3\n|type = Area\n|nation = Rinascita\n|region = Thessaleo Fells\n}}\n\n'''Twin Peaks''' is an area of [[Thessaleo Fells]], [[Rinascita]]. \n\n==NPCs==\n{{NPCs by Location List|Twin Peaks}}\n\n==Other Languages==\n{{Other Languages\n|en   = Twin Peaks\n|zhs  = 双子峪\n|zht  = 雙子峪\n|ja   = 双子の山\n|ko   = 쌍둥이 골짜기\n|es   = Barrancos Gemelos\n|fr   = Pics jumeaux\n|de   = Die Zwillingsgipfel\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Location Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

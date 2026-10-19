@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:39Z",
+  "title": "Takuma",
+  "pageid": 41789,
+  "wikitext": "{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = Department of Light and Energy Science\n|title            = \n}}\n'''{{PAGENAME}}''' is a student male NPC found talking to '''Kenichi''' in front of the Auditorium at night.\n\n\n{{Dialogue Start}}\n==Idle==\n:;'''Takuma''' It's so late. Why don't we just cut across the Round Square?\n\n:;'''Kenichi''' No way. Haven't you heard the rumor? I don't want to fail my exams...\n\n==Dialogue==\n:'''Takuma:''' It's so late. Why don't we just cut across the Round Square?\n\n:'''Kenichi:''' No way. Haven't you heard the rumor? \"Anyone who walks straight through the Round Square fails a course by semester's end.\"\n\n:'''Takuma:''' That's superstition! Science can explain that!\n\n:'''Kenichi:''' You go then. I'd rather take the long way than tempt fate.\n\n:{{DIcon}} Or maybe...\n\n:{{DIcon}} It's just to keep students from trampling the lawn?\n::'''Kenichi:''' Well, a student was caught cutting straight through once, and TARD-E deducted their credits…\n::'''Kenichi:''' You're saying, like how trash cans can't have trash, or cups can't sit on the lab table… It's just another school rule turned into a \"paranormal rule\"?\n:{{DIcon}} Or there's a Sonoro hiding under the Academy?\n::'''Kenichi:''' I have heard strange entrances sometimes do appear... They say it's from the Academy's atmosphere and student stress. If that \u003ci\u003eis\u003c/i\u003e a Sonoro...\n::'''Kenichi:''' Then maybe our fear of failing created another Sonoro under the square? Then its frequency messes with their heads and makes them underperform during exams...\n\n:'''Takuma:''' See? Even a freshman gets it better than you! You're… {{Rover}}, right? I like that skeptical, inquisitive spirit. You're alright!\n\n:'''Takuma:''' Anyway, this is still the shortest path back to the dorms. So, are we cutting across or not? If we wait any longer, we'll trigger another rule—\"Never return to the dorm after midnight.\"\n\n:'''Kenichi:''' Or else what?\n\n:'''Takuma:''' Or else the next morning, you won't be able to move a muscle, like a hundred Hurriclaws sat on you all night. Only the world's most disgusting Energizing Gel can save you.\n\n:'''Kenichi:''' ...Isn't that just what it feels like if you're sleep-deprived and overslept?!\n\n==Trivia==\n*The Sonoro Sphere under the Academy theory actually turns out to be true, revealed later in {{Quest|Gold Suspended in Shadows}} as the '''Dark Side'''.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Takuma\n|zhs  = 拓真\n|zht  = 拓真\n|ja   = 拓真\n|ko   = 타쿠마\n|fr   = Takuma\n|de   = Takuma\n|es   = Takuma\n|th   = Takuma\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

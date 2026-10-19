@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:34Z",
+  "title": "Amedeo",
+  "pageid": 27048,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Amedeo.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Ragunna City\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Amedeo''' is a male NPC who appears in [[Ragunna]], [[Rinascita]].\n\n==Dialogue==\n{{Dialogue Start}}\n:;'''Amedeo''' \"Eyes of illusion reflected underwater, coveting Avinoleum above...\"\n:;'''Amedeo''' \"...yet deceit draws breath, and truth drowns.\"\n:;'''Amedeo''' It... it's his work! It has to be!\n:;'''Amedeo''' We need to destroy these notes, old friends, or trouble will come knocking. \n;(First time talking to him)\n:'''Amedeo:''' Hello... a plesant day to you here in Ragunna!\n:{{DIcon}} What were you just reciting?\n:'''Amedeo:''' Oh... nothing, just some giberrish.\n:{{DIcon}} What do you mean by \"trouble will come knocking?\"\n:'''Amedeo:''' Please, forget what you heard.\n:'''Amedeo:''' I don't want to board the Pilgrim's Sale. I have a family to support!\n:'''Amedeo:''' Forget these forbidden words. They're curses from a mysterious playwright.\n:'''Amedeo:''' He cursed the people of Ragunna with his truncated sonnet verses, condemning everything here... and now, I'm the next target.\n:'''Amedeo:''' I... I have a family to feed.\n:'''Amedeo:''' Amedeo, forget it, forget you saw those words.\n:{{DIcon}} Is there anything I can do to help?\n:'''Amedeo:''' O merciful Imperator, I have fallen into the depths of unforgivable sin...\n:'''Amedeo:''' Forgive my family, forgive this innocent stranger!\n----\n;(At Night)\n:'''Amedeo:''' Ah, well... Right. Yeah... oh no...\n:{{DIcon}} What?\n:'''Amedeo:''' Lower you voice! Did you forget? This has to stay under wraps! Those who spread it around have already been exiled!\n:{{DIcon}} I haven't said anything...\n:'''Amedeo:''' From the sea, they shall walk upon the land. And now the land has become one with the sea.\n:'''Amedeo:''' That line is definitely correct. Even though it's just one line, I've researched it for a long time! It's definitely from that playwrite.\n:'''Amedeo:''' They say the original manuscript was destroyed by [[Order of the Deep|the Order]], which is such a shame- a real waste of a beautiful poem...\n:'''Amedeo:''' Hehehe... the heavenly feast awaits me! Blessed, sweet lamb... the sacrificed maiden...\n:'''Amedeo:''' Lower your voice! Amedeo! Do not grant her authority, balance will... the chosen garden...\n:'''Amedeo:''' Curses... unblessed... praise them by name...\n----\n;(After {{Quest|Dawn Breaks on Dark Tides}})\n:'''Amedeo:''' Oh... This... Huh? Why am I here?\n:{{DIcon}} What's going on?\n:'''Amedeo:''' I don't know!\n:'''Amedeo:''' Why am I here? I was supposed to be at home reading...\n:{{DIcon}} You don't remember anything?\n:'''Amedeo:''' No, not at all! Have we met before?\n:{{DIcon}} Yes!\n::'''Amedeo:''' Please tell me what I've been doing!\n:{{DIcon}} No.\n::'''Amedeo:''' I guess my mind must have wandered off... Maybe I had a bout of hysteria or something.\n:{{DIcon}} Do you really want to know?\n::'''Amedeo:''' ...No. No, forget it.\n:'''Amedeo:''' Never mind. I'm not that eager to know what I've been up to lately.\n:'''Amedeo:''' To hell with the Threnodian! I'm going home to get some rest.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Amedeo\n|zhs  = 阿梅代奥\n|zht  = 阿梅代奧\n|ja   = アメディオ\n|ko   = 아마데오\n|es   = Amadeo\n|fr   = Amedeo\n|de   = Amedeo\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:17Z",
+  "title": "Zelinda",
+  "pageid": 32534,
+  "wikitext": "{{stub|missing dialogue and idle quotes condition}}{{NPC Infobox\n|image            = \u003cgallery\u003e\n                     NPC Zelinda.png|Zelinda\n                     Cat Lulu.png|Lulu\n                    \u003c/gallery\u003e\n|type             = Open-World\n|nation           = Rinascita\n|location         = Porto-Veno Castle\n|group            = \n|affiliation      = Fisalia Family\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Zelinda''' is a female NPC who appears in {{Location|Porto-Veno Castle|nocat=1}}, where she works as a maid for [[Fisalia Family]]. She can be seen talking with Lulu, a black white cat.\n\n==Quests and Events==\n''(Not in any quest or event yet)'' \u003c!-- Remove if the NPC appears in any quest/events --\u003e\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n;(at night)\n:'''Zelinda:''' Lulu, don't touch any plants here, even if you've already had the medicine, alright?\n----\n;(\u003cspan class=\"text-error\"\u003eMissing condition\u003c/span\u003e)\n:'''Zelinda:''' Lulu, don't eat anything here, okay?\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(at night)\n:'''Zelinda:''' Lulu, don't touch any plants here, even if you've already had the medicine, alright?\n:'''Zelinda:''' I didn't expect the matriarch to make a new potion just to keep you from being affected.\n:'''Zelinda:''' I heard the potions she makes are hard to come by... How much did this cost...?\n:'''Zelinda:''' No, no, no. I can't think about that now, I've got to get back to work!\n:'''Lulu:''' Meow!\n----\n;(\u003cspan class=\"text-error\"\u003eMissing condition\u003c/span\u003e)\n:'''Zelinda:''' Lulu, don't eat anything here, okay?\n:'''Zelinda:''' Don't let the good matriarch's kindness go to waste. After all, you're the only one who can keep me company.\n:'''Zelinda:''' She has graciously taken us in, so you must behave and bring some life to this place.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Zelinda\n|zhs  = 泽琳达\n|zht  = 澤琳達\n|ja   = ゼリンダ\n|ko   = 젤린다\n|es   = Zelinda\n|fr   = Zelinda\n|de   = Zelinda\n}}\n\n==Change History==\n{{Change History|2.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

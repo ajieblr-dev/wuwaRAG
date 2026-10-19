@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:06Z",
+  "title": "Xingfeng",
+  "pageid": 4276,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Xingfeng.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Lollo Logistics\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Xingfeng''' is an NPC in [[Jinzhou]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Xingfeng:''' Oh no, I think I forgot my weapon at the station during the unloading.\n\n:{{DIcon}} Check out the size of that hamster!\n\n:'''Xingfeng:''' Hamster? Oh, you mean the hat's design. This is one of Lollo Logistics' must-haves\u0026mdash;protects us from wind, sun, rain, and fog!\n\n:{{DIcon}} Lollo Logistics?\n\n:'''Xingfeng:''' Shh... Listen. When the wind blows, it makes this cool whistling sound against our uniform!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xingfeng\n|zhs  = 行风\n|zht  = 行風\n|ja   = 行風（コウフウ）\n|ko   = 행풍\n|es   = Xingfeng\n|fr   = Xingfeng\n|de   = Xingfeng\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

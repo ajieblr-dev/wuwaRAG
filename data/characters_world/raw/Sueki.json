@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:37Z",
+  "title": "Sueki",
+  "pageid": 42204,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Event\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|location2 = Rabelle College\n|group            = \n|affiliation      = Rabelle College\n|title            = \n}}\n'''{{PAGENAME}}''' is an event-exclusive NPC for the {{Quest|Gold Suspended in Shadows}} during the {{Extra Effect|New Solar Celebration|New Solar Celebration|The Exostrider poured forth light and heat from its Reactor Drive, sheltering life from the killing frost. Grateful for this gift, the Roya revered the Reactor Drive as their sun. They took it upon themselves to gather the Exostrider's \"cells,\" making this quiet labor the duty of their tribe.\u003cbr\u003eNow, their ancient vow is complete. As the new sun rises, they hold the New Solar Celebration, both to mark the renewal and to remind their kin of the purpose that set them on this path.}}.\n\nHe is seen managing the Synchronist Pod simulation exhibition. \n\n==Dialogue==\n{{Dialogue Start}}\n:{{color|help|\u003cnowiki\u003e06:00-11:59\u003c/nowiki\u003e}}\n:;Strange. The class cancellation notice got flagged as spam...\n:;Oh? It triggered a blocked term... \"New Agro Wing Product,\" who wrote that part?\n\n:{{color|help|\u003cnowiki\u003e12:00-14:59\u003c/nowiki\u003e}}\n:'''Sueki:''' You want to try the simulator cockpit? ...What, haven't hurled enough in training\n:'''Xuetu:''' Just... passing through. Looking.\n:'''Xuetu:''' That feeling, like having ten Ironhooves pulling you in ten different directions... I don't think I'll ever get used to it.\n:'''Sueki:''' Then why're you here? Could've gone to the Archives. Or, y'know, stayed in bed.\n:'''Xuetu:''' I didn't get the cancellation notice. And \"New Agro Wing Product\" magically ended up on my WavesLine blocklist. That was you, wasn't it?\n:'''Sueki:''' ...Why would a Rabelle College class cancellation notice even contain those words?\n:'''Xuetu:''' No wonder I haven't gotten any messages from the Agro Wing updates lately. Never thought you'd go this far just to avoid a tasting event with me.\n:'''Sueki:''' I will never understand your obsession with different flavors of... \"cat treats.\"\n:'''Xuetu:''' They're convenient! Plus that buttery smooth texture... Mmm! Wanna share some on your next break?\n:'''Sueki:''' No...\n:'''Xuetu:''' What about a \"Munchie-More\"?! I'm having two.\n:'''Sueki:''' Fine.\n----\n;After celebration\n:;Wait, you went to the celebration, Xuetu? Thought I'd find you in the Archives.\n\n:;'''Xuetu:''' Total accident, actually. But I got to taste test some exciting new products. Plus, my sync rate went up.\n\n:Wait, you went to the celebration, Xuetu? Thought I'd find you in the Archives.\n:'''Xuetu:''' Total accident, actually. I happened to catch one of the Agro Wing's tasting events. The new stuff's trying somethin' different, like Stone-roasted Foxtail Kelp Squeezy Jelly. That one slaps.\"\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sueki\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.2}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

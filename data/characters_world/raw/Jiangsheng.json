@@ -1,0 +1,51 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:04Z",
+  "title": "Jiangsheng",
+  "pageid": 4428,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Jiangsheng.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Jiangsheng''' is an NPC in {{Location|Jinzhou}}, found by the stage.\n\n==Profile==\nJiangsheng dreams of starring as the main character in his own show one day. He has always practiced as minor characters and wishes he could get promoted to more important roles, even willing to go as far as playing the main antagonist in a play to gain more screen time and visibility.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n;Day\n:{{DIcon}} Take it easy... That's right... Keep pushing, no time for rest...\n\n;Evening\n:{{DIcon}} When will I get to star in my own Hero Play... \n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;Daytime, behind the stage\n:'''Jiangsheng:''' When can I get on stage... Huh? Hello, can I help you?\n:{{DIcon}} Chat.\n::'''Jiangsheng:''' Haha, whether you're Flamma or Aquarius, I'll crush you with my—\n::'''Jiangsheng:''' No, no it just doesn't feel right. I should exert more oomph...\n::'''Jiangsheng:''' Let me try again.\n::'''Jiangsheng:''' I need to press on. With all due efforts, maybe I can play the main villain in Sister [[Qinghe]]'s new play this time.\n:{{DIcon|Exit}} Leave\n\n;Nighttime, on stage by the side.\n:'''Jiangsheng:''' When can I get on stage... Huh? Hello, can I help you?\n:{{DIcon}} Chat.\n::'''Jiangsheng:''' Sister Qinghe told me to hold it like this... Yes, this should be it.\n::'''Jiangsheng:''' And this move... Hmm, how does she make it look so natural?\n::'''Jiangsheng:'''  Ah, I really wish I could improve faster, so I could play the character I've always wanted to...\n::'''Jiangsheng:'''  The next character selection is about to start. I need to push myself a bit more.\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Jiangsheng\n|zhs  = 将生\n|zht  = 將生\n|ja   = 将生（ショウセイ）\n|ko   = 정수\n|es   = Jiangsheng\n|fr   = Jiangsheng\n|de   = Jiangsheng\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    }
+  ]
+}

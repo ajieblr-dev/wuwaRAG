@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:21Z",
+  "title": "Schwartz",
+  "pageid": 39655,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Schwartz.png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = \n|affiliation      = Rabelle College\n|title            = \n}}\n'''{{PAGENAME}}''' is a NPC male Synchronist found talking to his classmates near the [[Tactical Hologram: Synchronization]] area about seeing clones. \n\n==Location==\n\n\n{{Dialogue Start}}\n==Idle==\n:'''Schwartz:'''  I'm telling you, Rabelle College is researching cloning tech!\n:'''Trom:''' What? But that's completely against every ethics law on the books!\n\n==Dialogue==\n;Day \u003cnowiki\u003e06:00-18:00\u003c/nowiki\u003e\n:'''Schwartz:'''  I'm telling you, Rabelle College is researching cloning tech!\n:'''Trom:''' What? But that's completely against every ethics law on the books!\n:'''Schwartz:'''  But I saw it myself! This morning, when I want{{sic}} to deliver the report, I ran into the same guy twice, once in class, and once in the hall!\n:'''Trom:''' Maybe he's a space-type Resonator? Or his Forte lets him make clones?\n:'''Schwartz:'''  It gets weirder! On my way back to the dorms, I saw \"him\" a third time!\n:'''Kerr:''' Oh, relax. They're just a set of triplets who got in fair and square. Don't make a scene.\n:'''Nordstern:''' Wait, could they be...?\n:'''Nordstern:''' [[Fratellone]], [[Fratellino]], and [[Fratello]]? Is that them?\n:'''Schwartz:'''  No... these guys looked like they were from Huanglong...\n{{Dialogue End}}\n\n==Trivia==\n* There is two NPC at Huaxu Academy in Jinzhou, both name [[Siqi]] who talks about cloning themself and both having stomachache.\n* This could also be a \"fourth wall\" being broken, referencing NPC's sharing the same appearances. \n* Possible hidden clue pointing to [[Schwarzloch|The Grand Architect]] infiltrating the Academy. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Schwartz\n|zhs  = 施瓦西\n|zht  = 施瓦西\n|ja   = シュヴァルツ\n|ko   = 슈바르츠\n|fr   = Schwartz\n|de   = Schwartz\n|es   = Schwartz\n|th   = Schwartz\n}}\n\n{{Other Languages\n|en   = Trom\n|zhs  = 特洛姆\n|zht  = 特洛姆\n|ja   = トロム\n|ko   = 트롬\n|fr   = Trom\n|de   = Trom\n|es   = Trom\n|th   = Trom\n}}\n\n{{Other Languages\n|en   = Kerr\n|zhs  = 克尔\n|zht  = 克爾\n|ja   = クーア\n|ko   = 케르\n|fr   = Kerr\n|de   = Kerr\n|es   = Kerr\n|th   = Kerr\n}}\n\n{{Other Languages\n|en   = Nordstern\n|zhs  = 诺德斯特\n|zht  = 諾德斯特\n|ja   = ノーデスト\n|ko   = 노르트슈테른\n|fr   = Nordstern\n|de   = Nordstern\n|es   = Nordstern\n|th   = Nordstern\n}}\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "8"
+    }
+  ]
+}

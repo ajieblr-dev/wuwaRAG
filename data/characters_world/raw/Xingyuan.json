@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:06Z",
+  "title": "Xingyuan",
+  "pageid": 10236,
+  "wikitext": "{{NPC Infobox\n|name             = Xingyuan\n|image            = NPC Xingyuan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Desorock Highland\n|group            = \n|affiliation      = Pioneer Association\n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Xingyuan''' is an NPC in {{Location|Desorock Highland}}.\n\n==Location==\n{{Map Embed|Desorock Highland|Xingyuan}}\n\n==Quests and Events==\n{{Quests and Events|Xingyuan}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Xingyuan:''' [[Norfall Barrens]] is now under threats...\n:'''Xingyuan:''' [[Tacet Discord]]s kept attacking, and it was only through the desperate resistance of the [[Midnight Rangers]] that [[Camp Overwatch]] was defended...\n:'''Xingyuan:''' Although I've often read about the horrors of war in books. Seeing it with my own eyes is a whole different experience...\n:'''Xingyuan:''' Even my heart feels like it's been drenched by the [[Retroact Rain]], losing its color just like the view of [[Withering Frontline]]...\n:{{DIcon}} Spirits up.\n:'''Xingyuan:''' *Sigh* Thank you. I should gather myself up.\n:'''Xingyuan:''' Even though I can't join the Midnight Rangers on the front lines, there's still something I can do.\n:'''Xingyuan:''' I want to capture the moment of where the desperate resistance shines upon those nameless graves.\n{{Dialogue End}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Xingyuan\n|zhs  = 行远\n|zht  = 行遠\n|ja   = 行遠（コウエン）\n|ko   = 형원\n|es   = Xingyuan\n|fr   = Xingyuan\n|de   = Xingyuan\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

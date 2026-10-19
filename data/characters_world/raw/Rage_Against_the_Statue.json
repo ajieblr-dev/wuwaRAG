@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:11Z",
+  "title": "Rage Against the Statue",
+  "pageid": 28098,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name = Rage Against the Statue\n|image = Rage Against the Statue Icon.png\n|dmgtype = Spectro\n|echo = Yes\n|class = Elite\n|family = Tacet Discord\n|group = Tranquilite\n|nation = Rinascita\n|region = \n|subregion = \n|drops = \n}}{{Description|A stone statue TD that embodies deconstruction and reconstruction. Its movements are sluggish and clumsy.}}\n{{Intro/Enemy}}\n==Drops==\n{{Drops|Common Tranquilite}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Trophies==\n{{Trophies|Rage Against the Statue|customheader=Rage Against the Statues}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES|nobold=1}} to {{Color|Spectro|Spectro DMG|nobold=1}}.\nA stone statue TD that embodies deconstruction and reconstruction. Though sluggish and clumsy, its punches are devastating.\nIt hurls rocks and other rock-mimic Tacet Discords as a means of attack.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en  = Rage Against the Statue\n|zhs = 重塑雕像的拳砾\n|zht = 重塑雕像的拳礫\n|ja  = 彫像を再構築する岩拳\n|ko  = 조각상을 재구성하는 돌멩이\n|es  = Brazal Escarpado\n|fr  = Rage contre la Statue\n|de  = Wut gegen die Statue\n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

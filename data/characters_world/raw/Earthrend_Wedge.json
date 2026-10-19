@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:16Z",
+  "title": "Earthrend Wedge",
+  "pageid": 36363,
+  "wikitext": "{{Stub}}\n{{Location Infobox\n|title     = Earthrend Wedge\n|image     = Earthrend Wedge.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Rinascita\n|region    = Sanguis Plateaus}}\n\n'''Earthrend Wedge''' is an area of [[Sanguis Plateaus]], [[Rinascita]].\n\n== Overview ==\nAccording to Augusta, the Earthrend Wedge is a device mechanism created by [[Imperator]], bearing its powers which can sever the link between Leviathan and the Dark Tide, burning the calamity deep beneath the Sanguis Plateaus. Though the energy range is limited, forcing Septimont to hunt the Tacet Discords that form near, this limits where they can manifest while those sent to hunt ensure the [[Dark Tide]] cannot spread any further than the designated location. This allows the Septimontians during the Hunt to eliminate the Dark Tide and its creations within the Sanguis Plateaus, limiting the damage they can do. \n\nHowever, through great effort, [[Leviathan]], upon regaining control of the Dark Tide from its near rebirth, can circumvent this protection and overwhelm the device’s capability to contain the Dark Tide and spread even further while ensuring no Blightcloud anomalies or frequency fluctuations appeared to catch Septimont off guard. Three Heroes’ Crest, which had never been contaminated by the Dark Tide due to belief that it was blessed by the three Hero of Heroes who stood there, found itself overrunning with the Dark Tide and only ceased when the situation had been resolved through the Rover and Fenrico’s actions in sealing the substance away after Leviathan’s defeat. Though, Galbrena notes that Rinascita would have been consumed faster if the Earthend Wedge was fully destroyed instead of overwhelmed. \n\nThis makes the Earthend Wedge a target by both Leviathan and the False Sovereign for destruction, as so long as the mechanism stands, Rinascita cannot be consumed by the Dark Tide fully.\n\n== NPCs ==\n{{NPCs by Location List|Earthrend Wedge}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Earthrend Wedge\n|zhs  = 彻地之楔\n|zht  = 徹地之楔\n|ja   = {{Rubi|地穿|うが}}ちの{{Rubi|楔|くさび}}\n|ko   = 관통의 쐐기\n|es   = Pilum Terracaelus\n|fr   = Sillon restituterre\n|de   = Erdspalter-Keil\n}}\n\n== Change History ==\n{{Change History|2.6}}\n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Overview",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

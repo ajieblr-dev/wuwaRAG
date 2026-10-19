@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:23Z",
+  "title": "Lily",
+  "pageid": 79524,
+  "wikitext": "{{Stub|}}\n{{Upcoming}}\n{{Resonator Tabs}}\n{{Resonator Infobox\n|name             = Lily\n|image            = {{Infobox Gallery}}\n|title            = \n|type             = Upcoming\n|modelType        = \n|gender           = Female\n|class            = \n|rarity           = 5\n|attribute        = Spectro\n|weapon           = Pistols\n|birthday         = \n|releaseDate      = \n|sigil            = \n|role             = \n|birthplace       = \n|nation           = \n|affiliation      = \n|affiliation2     = \n|dish             = \n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n{{Quote|Past sorrows scatter with the wind. I pray this fragrance guides you forward.|Lily}}\n{{Intro/Resonator|Lily}}\n\u003c!--\n==Combat Overview==\n{{Main|Lily/Combat}}\n\n===Ascension Materials===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Lily|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Trivia==\n===Etymology===\n* \n--\u003e\n==Other Languages==\n{{Other Languages\n|en      = Lily\n|zhs     = 莉莉\n|ja      = リリー\n|ko      = 릴리\n}}\n\n==Change History==\n{{Change History|3.8}}\n\u003c!--\n==References==\n{{Reflist|2}}\n--\u003e\n==Navigation==\n{{Resonator Navbox}}\n[[zh:莉莉]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:10Z",
+  "title": "KU-Mamar",
+  "pageid": 38707,
+  "wikitext": "{{NPC Infobox\n|image            = KU-Mamar.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Energy Hub\n|group            = \n|affiliation      = Black Shores\n|title            = \n|species          = KU-Roro\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''KU-Mamar''' is a KU-Roro located by the [[Energy Hub]] charging station.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n:'''KU-Mamar:''' Ahhh, I'm exhausted! Ku!\n:'''KU-Mamar:''' I'm not the ultra-long standby model... Arrgh, why did I take on this task in the first place?\n:KU-Roro No. 4586274, code name KU-Mamar, you are offline.\n:Please input the voice password to activate the emergency power.\n:'''KU-Mamar:''' Remanents and Reverberations in the Retroact Rain!\n:Authentication failed. Please try again.\n:'''KU-Mamar:''' Each eager Echo eagerly echoes each other's echo, echoing endlessly—\n:The device will be locked after multiple failed attempts. Please try one last time.\n:'''KU-Mamar:''' Ku.\n{{Dialogue End}}\n\n== Other Languages ==\n{{Other Languages\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

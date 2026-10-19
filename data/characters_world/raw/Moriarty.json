@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:39Z",
+  "title": "Moriarty",
+  "pageid": 26391,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = NPC Moriarty.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Bank Street\n|affiliation      = Averardo Bank\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}'''Moriarty''' is an NPC in {{location|Ragunna}}, found in [[Bank Street]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Moriarty:''' We will leave in ten minutes!\n:{{DIcon}} Where are we headed?\n:'''Moriarty:''' To the vault, of course.\n:'''Moriarty:''' Hi there! I'm Moriarty, an employee at Averardo Bank. The Echo train will be loaded in ten minutes, and I need to make sure these treasures get transported safely.\n:'''Moriarty:''' You've probably seen those Echo trains gliding through the Nimbus Sanctum, right? They're responsible for delivering treasures for the Montelli family's bank and vault.\n:'''Moriarty:''' But enough chit-chat! It's time for my prayer!\n:{{DIcon}} Prayer? Are you part of the Order?\n:'''Moriarty:''' Not exactly! I just pray that I get to record the song when we are in Nimbus Sanctum during this trip.\n:{{DIcon}} A song?\n:'''Moriarty:''' Yeah! Sometimes when I'm riding through the Nimbus Sanctum, I can hear this beautiful song coming from the water.\n:'''Moriarty:''' It's hauntingly sad, unlike anything I've ever heard, so I want to use my recording device to capture it for everyone to enjoy.\n:'''Moriarty:''' But here's the thing: after the train leaves the Nimbus Sanctum, the song will just disappear, leaving only static noise in the recorder.\n:'''Moriarty:''' I've been wondering lately... could it be that the Lorelei in Nimbus Sanctum doesn't want that song to be shared with more people?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Moriarty\n|zhs  = 莫里亚蒂\n|zht  = 莫里亞蒂\n|ja   = モリアーティ\n|ko   = 모리아티\n|es   = Moriarty\n|fr   = Moriarty\n|de   = Moriarty\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

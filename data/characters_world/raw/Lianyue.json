@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:22Z",
+  "title": "Lianyue",
+  "pageid": 4257,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Lianyue.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = Bookworm Girl\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Lianyue''' is an NPC in {{Location|Jinzhou}}. She can be found next to [[Chenpi]].\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Lianyue:''' The lost heart is like a flower blooming alone in the [[Dim Forest]]. Its scarlet color remains, but fragile and indistinct, with scars running down its body.\n:{{DIcon}} Are you reciting a poem?\n:'''Lianyue:''' Eek! You startled me for a moment there... If it isn't the Night Champion, {{Rover}}?\n:'''Lianyue:''' Through fading thorns, has the hero finally arrived to rescue the maiden wounded by the spikes?\n:{{DIcon}} You must've gotten the wrong person.\n:'''Lianyue:''' Have I? It seems that the dusty memories cannot be awakened by a single sentiment after all.\n:'''Lianyue:''' You and I are like two meteors flying off in opposite directions, only til we fall can we seek redemption from the sins of convergence...\n:{{DIcon}} ...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lianyue\n|zhs  = 怜月\n|zht  = 憐月\n|ja   = 怜月（レイゲツ）\n|ko   = 보람\n|es   = Lianyue\n|fr   = Lianyue\n|de   = Lianyue\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

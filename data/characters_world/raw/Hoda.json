@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:55Z",
+  "title": "Hoda",
+  "pageid": 38833,
+  "wikitext": "{{Stub|info, image}}\n{{NPC Infobox\n|image            = NPC Hoda.jpg\n|name             = Hoda\n|type             = Resonator\n|type2            = Quest\n|status           = Deceased\u003cbr\u003eDied during the [[The Lament|Lament]] of [[Port City of Guixu]]\n|affiliation      = Black Shores \n\n\u003c!--VAs--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n{{Quote|Please free us... from this endless cycle...}}\n'''Hoda''' {{Lang|zh=霍德}} is a quest-exclusive NPC for {{Quest|To the Shore's End}} and a [[Black Shores#Bloom Bearers|Bloom Bearer]] for the [[Black Shores]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Profile==\nA Doctor and Bloom Bearer of The Black Shores, Hoda was present during the destruction of [[Port City of Guixu]] by the [[The Lament|Lament]], helping with evacuations and performing surgical operations for the injured. \n\nEngulfed by the Lament, Hoda and the remaining survivors were absorbed into the black hole which was later contained into a {{Extra Effect|Necrostar|Necrostar|\nA type of Stellar Matrix. Inside the Tethys System, a celestial body called Necrostar swallows the faulty data in its wake, a black hole where forsaken Matrices find their end. \nEven the newfound science of Tacetite could not provide explanations for its fundamental nature, as all are subject to the gravity within it.\n}} by the [[Tethys System]]. \n\n==Mentions==\n{{Character Mentions}}\n\n==Other Languages ==\n{{Other Languages\n|en   = Hoda\n|zhs  = 霍德\n|zht  = 霍德\n|ja   = フォード\n|ko   = 오르디\n|fr   = Hoda\n|de   = Hoda\n|es   = Hoda\n|th   = Hoda\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "1.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

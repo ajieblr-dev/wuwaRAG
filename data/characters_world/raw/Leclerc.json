@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:19Z",
+  "title": "Leclerc",
+  "pageid": 20668,
+  "wikitext": "{{NPC Infobox\n|image            = Leclerc.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Haven of Sprouts\n|group            = \n|affiliation      = Black Shores\n|title            = \n}}\n'''Leclerc''' is an NPC in the [[The Black Shores]] who appears in [[Haven of Sprouts]] and [[Tethys Hub]]. She is a cognitive behaviorist studying the [[Tethys System]] robots.\n\n==Quests and Events==\n{{Quests and Events|Leclerc}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(In Tethys Hub during the day)\n:'''KU-Pika:''' Ms. Leclerc, could you check when KU-Join's maintenance will be finished?\n:'''Leclerc:''' Hmm, you've been asking about KU-Join a lot lately. Missing it? Don't worry, I'll find out for you.\n:'''KU-Miki:''' Ms. Leclerc, help! Adrian says he's upgrading me tomorrow! Last time he did that, I lost a whole year's worth of memory!\n:'''Leclerc:''' Ugh, that man! Always doing whatever he feels like... Don't worry, I'll talk to him for you.\n:'''KU-Tay:''' Ms Leclerc, KU-Leto and KU-Svan are fighting.\n:'''Leclerc:''' Those two? Really? I'll go check on them in a bit.\n:'''Leclerc:''' Oh, hello there. Sorry, I didn't see you.\n:{{DIcon}} You're really popular.\n:'''KU-Miki:''' Ms. Leclerc is our best friend!\n:'''KU-Pika:''' Definitely!\n:'''KU-Tay:''' Absolutely!\n:'''Leclerc:''' Haha, I'm honored.\n:'''Leclerc:''' I'm a cognitive behaviorist, and I've been studying the Tethys System robots. Maybe they trust me because I talk to them a lot.\n:{{DIcon}} So, you study how they think and behave?\n:'''Leclerc:''' Yes. Their personalities were originally assigned by the Tethys System to help with tasks.\n:'''Leclerc:''' But now, they're expressing themselves, with their own thoughts and worries.\n:'''Leclerc:''' I believe with some guidance and education, their logic program can evolve and form more developed identities.\n:'''Leclerc:''' Just look at them— they've already gone beyond what the system initially gave them. It's a different kind of life, but it's still life, isn't it?\n:{{DIcon}} Sounds interesting.\n::'''Leclerc:''' You should try talking to the robots more. Perhaps you'll even make friends with one of them.\n:{{DIcon}} Sounds risky.\n::'''Leclerc:''' I get your concern, but I think instead of curbing it, we should find ways to adapt and move forward.\n----\n;(In Haven of Sprouts at night)\n:'''Leclerc:''' [[Adrian]], are you planning to upgrade KU-Miki?\n:'''Adrian:''' Yeah, its system's been acting up since the last update. I think the new component isn't compatible, so I need to make some adjustments.\n:'''Leclerc:''' But you can't just change things like that. The last time you upgraded KU-Miki, it lost a whole year of memories!\n:'''Adrian:'''That was a temporary side effect--things like discomfort, memory loss, or cognitive issues can happen sometimes. Once I'm done, everything will be fine.\n:'''Leclerc:''' But you're interfering with its natural growth. It has its own way of adapting.\n:'''Leclerc:''' We should guide these little ones based on their development, not just force changes on them.\n:'''Adrian:'''It's more efficient if we handle the adjustments ourselves to improve their programming.\n:'''Leclerc:''' Don't you think your approach is a bit too harsh? They hide from you every time they see you.\n:'''Adrian:''' It's okay. I've got a remote controller to track them down.\n:'''Leclerc:''' I... I just can't reason with you!\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Leclerc\n|zhs  = 勒克蕾尔\n|zht  = 勒克蕾爾\n|ja   = レクレア\n|ko   = 르클레르\n|es   = Leclerc\n|fr   = Leclerc\n|de   = Leclerc\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

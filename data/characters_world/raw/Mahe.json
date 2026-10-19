@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:32Z",
+  "title": "Mahe",
+  "pageid": 2144,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Mahe.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = Mahe's Grocery Vendor\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Mahe''' is a [[shop]] NPC in {{Location|Jinzhou}}. He is the owner of [[Mahe's Grocery Vendor]].\n\n==Shop==\n{{Shop/Wrapper|\n{{Shop|Fowl Meat|1,500|10|total=1}}\n{{Shop|Raw Meat|1,500|10|total=1}}\n{{Shop|Fish|1,500|10|total=1}}\n{{Shop|Bird Egg|1,500|10|total=1}}\n{{Shop|Angelica|1,500|10|total=1}}\n{{Shop|Flour|1,000|100|total=1}}\n{{Shop|Cooking Oil|1,000|100|total=1}}\n{{Shop|Chili|1,000|100|total=1}}\n{{Shop|Sugar|1,000|100|total=1}}\n{{Shop|Tea|1,000|100|total=1}}\n{{Shop|Milk|1,000|100|total=1}}\n{{Shop|Rice|1,000|100|total=1}}\n{{Shop|Kudzu Root|1,000|100|total=1}}\n{{Shop|Salt|1,000|100|total=1}}\n{{Shop|Beans|1,000|100|total=1}}\n{{Shop|Vinegar|1,000|100|total=1}}\n{{Shop|Hot Pot Base|4,000|3|total=1}}\n{{Shop|Clear Soup|4,000|3|total=1}}\n{{Shop|Braising Sauce|6,000|5|total=1}}\n{{Shop|Sweet and Sour Sauce|6,000|5|total=1}}\n{{Shop|Tofu|6,000|5|total=1}}\n{{Shop|Premium Incense Oil|5,000|10|total=1}}\n{{Shop|Premium Gold Incense Oil|10,000|5|total=1}}\n|total=189,000+|vendor=Mahe|type=Grocery}}\n\n==Quest and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Mahe:''' Great food, great value! Hello, what can I get for you today?\n:{{DIcon}} I want some ingredients.\n:{{DIcon}} Gourmet Rumors\n::'''Mahe:''' When making clear soup, add a couple more [[Edodes]] while simmering. It makes the soup more flavorful and the color brighter.\n::'''Mahe:''' But use seasoning sparingly to preserve the original taste of the ingredients. That's how you get the most delicious soup.\n:{{DIcon}} Have a chat\n;(Morning)\n::'''Mahe:''' Everything here is fresh, I promise. We handpick our veggies every morning, and the meat is fresh too.\n::'''Mahe:''' Even on their own with no seasonings, our ingredients simply burst with flavor!\n::'''Mahe:''' Just make sure to cook everything thoroughly to avoid any stomach troubles!\n::'''Mahe:''' Oh, and don't use any strange ingredients like... [[Gulpuff]]s.\n::'''Mahe:''' You know, one time a [[Encore|young girl]] came in with her toy sheep asking about Gulpuffs, saying she'd eaten them before and was fine.\n::'''Mahe:''' I mean, no way is that safe! If I ever find her parents, they're in for a serious lesson on food safety.\n----\n;(Night)\n::'''Mahe:''' You've been visiting quite often lately. Bet you cook a lot in your free time!\n::'''Mahe:''' Me? I happen to know a thing or two about cooking.\n::'''Mahe:''' Has [[Panhua]] been talking your ear off about proper seasoning techniques? Well, let me give you the real secret to delicious food: preserving the ingredients' natural flavors.\n::'''Mahe:''' Take Milky Fish Soup for example. It only requires simple ingredients, but with care and dedication, you'll get incredible results.\n::'''Mahe:''' The fish becomes tender and melt-in-your-mouth, while the soup retains its fresh taste. No need to drown it in seasonings! \n::'''Mahe:''' In fact, I'm going to bring her a bowl right now and show her how it's done. I'll make her see the difference! \n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|1_en   = Mahe\n|1_zhs  = 马和\n|1_zht  = 馬和\n|1_ja   = 馬和（マーフー）\n|1_ko   = 마화\n|1_es   = Mahe\n|1_fr   = Mahe\n|1_de   = Mahe\n\n|2_en   = Mahe's Grocery Vendor\n|2_zhs  = 「马和杂货」店主\n|2_zht  = 「馬和雜貨」店主\n|2_ja   = 「馬和雑貨屋」店主\n|2_ko   = 「마화 잡화점」 사장\n|2_es   = Dueño de la Tienda de Mahe\n|2_fr   = Le gérant de la Boutique de Mahe\n|2_de   = Besitzer von Mahes Lebensmittelgeschäft\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Shop",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quest and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Tutorial Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "2.3",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Mahe",
+      "number": "4.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Mahe's Grocery Vendor",
+      "number": "4.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

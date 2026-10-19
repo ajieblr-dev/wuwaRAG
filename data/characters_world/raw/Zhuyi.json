@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:19Z",
+  "title": "Zhuyi",
+  "pageid": 4280,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Zhuyi.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = Pioneer Association\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Zhuyi''' is an NPC in {{Location|Jinzhou}}. \n\nHe recently joined the [[Pioneer Association]], and serves as an intern photographer. He idolizes the Icebreakers and wishes to become one.\n\n==Dialogue== \n{{Dialogue start}}\n:'''Zhuyi:''' Do you know the adventure stories of the Icebreakers? They are legends in the history of the Pioneer Association, my idols!\n:'''Zhuyi:''' On the polar regions, up the volcanoes, deep in the great rifts, and across the wetlands... their footprints are spread across every corner of the world. This is what adventurers should be like.\n:'''Zhuyi:''' As written on the front page of \"Tidal Geography\": Go see the world and witness history in the making.\n:'''Zhuyi:''' Go see the masterpieces of humanity, paintings, architecture, and inventions, and find joy in the journey.\n:'''Zhuyi:''' The seniors always tell me to wait a little longer. I guess it's because I don't have the resonance ability that they never took me on the expeditions.\n:'''Zhuyi:''' But there are members of the Icebreakers that discovered their Resonance in times of crisis. Perhaps it's the same for me.\n:'''Zhuyi:''' You'll never know if you never try.\n{{Dialogue end}}\n\n\n==Other Languages==\n{{Other Languages\n|en   = Zhuyi\n|zhs  = 朱逸\n|zht  = 朱逸\n|ja   = 朱逸（シュイツ）\n|ko   = 주일\n|es   = Zhuyi\n|fr   = Zhuyi\n|de   = Zhuyi\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

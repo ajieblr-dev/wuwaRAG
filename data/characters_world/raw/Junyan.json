@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:09Z",
+  "title": "Junyan",
+  "pageid": 4421,
+  "wikitext": "{{NPC Infobox\n|image            = Junyan.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Junyan''' is an NPC in [[Jinzhou]], found by Jinhzou Theater stage next to [[Xiaobao]]. A big fan of the play ''Fiamma'', who [[Qinghe]] plays as the main character.\n\n==Location==\n{{Map Embed|Jinzhou|97;90|nogroup=1}}\n\n==Idle Quotes==\n{{Dialogue Start}}\n;(Day)\n:'''Xiaobao''': Why haven't we started yet?\n:'''Junyan''': Easy there, kiddo, Sister Qinghe won't be here until tonight.\n:'''Xiaobao''': So what about now? The big bad guy is about to show up, where is the big hero? I want to see it now!\n\u003c!--::{{A|VO Siqi 01.ogg}} \"{{tx}}\"--\u003e\n\n;\u003cnowiki\u003e22:00-05:59\u003c/nowiki\u003e\n:What a dazzling performance! When those sparks flew, the whole theater lit up like gold. Kindle truly lives up to its name!\n:Bravo, bravo! The moment Fiamma struggled to rise, gripping that flaming blade... Her determination was as fierce as the fire itself! Bravo!\n:'''Junyan''':  Today's show was really something. Just when I thought we were at the end of the line, the fire blazed and Fiamma showed up!\n:'''Qinghe''': Thank you, everyone! Fiamma couldn't be wielding the Torch Sword without your support!\n{{Dialogue End}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(First interaction)\n:'''Junyan''': I know how desperate he wants to see the show, but he's being annoying now... Oh, hello. Is there anything I can help?\n:{{DIcon}} Chat\n::'''Junyan''': I know all the regular fans who come to watch the show, but this is the first time I've seen you.\n::'''Junyan''': Are you here to watch the Hero Play too?\n::{{DIcon}} Hello.\n::'''Junyan''': Hello, I'm Junyan. I've seen all the plays performed at the Jinzhou Theater.\n::'''Junyan''': Let me pick a show for you, the Liondance Troupe's \"Vanguard Tiger's Song\". During the performance, the lion will be rolling up and down on the Plum Blossom Pole. Quite a feat! \n::'''Junyan''': But if you ask me, the best is still the Hero Play performed by Qinghe, and her role as the Fiamma!\n::'''Junyan''': As long as Fiamma shows up, any trouble can be solved!\n::'''Junyan''': Even this kid next to me can settle down and enjoy the show.\n:{{DIcon|Exit}} Leave\n----\n;(Second interaction)\n:'''Junyan''': I know how desperate he wants to see the show, but he's being annoying now... Oh, hello. Is there anything I can help?\n:{{DIcon}} Chat\n::'''Junyan''': {{Rover}}? Here to watch Sister Qinghe's show again?\n::'''Junyan''': I told you, her acting is top-notch!\n::'''Junyan''': But you've got bad timing, it seems like there's a new play about to start, and Sister Qinghe is still backstage, busy with the final preparations!\n::{{DIcon}} I remember your face.\n::{{DIcon}} Are you a longtime fan?\n::'''Junyan''': Betcha. I've watched her grow step by step to where she is today.\n::'''Junyan''': There was a time when I was really down, feeling like nothing was going my way. It was the Speedster who gave me the courage to face adversity!\n::'''Junyan''': The Fiamma that came after, ignited a flame in my heart, giving me the confidence to face the complexities of life.\n::'''Junyan''': That's why I love Qinghe's plays so much!\n:{{DIcon|Exit}} Leave\n----\n;(Third interaction)\n:'''Junyan''': I know how desperate he wants to see the show, but he's being annoying now... Oh, hello. Is there anything I can help?\n:{{DIcon}} Chat\n::'''Junyan''': {{Rover}}, thank god you're here. Can you help me talk some sense into this kid?\n::'''Junyan''': He's been nagging to see the new play, but Qinghe is still in rehearsal!\n::'''Junyan''': I've been explaining this to him, but he just won't listen. *sigh* I'm kind of desperate now...\n:{{DIcon|Exit}} Leave\n----\n:'''Junyan''': I know how desperate he wants to see the show, but he's being annoying now... Oh, hello. Is there anything I can help?\n:{{DIcon}} Chat\n::'''Junyan''': I really don't know what to do, but I'm glad that you could help.\n:{{DIcon|Exit}} Leave\n----\n:'''Junyan''': I know how desperate he wants to see the show, but he's being annoying now... Oh, hello. Is there anything I can help?\n:{{DIcon}} Chat\n::'''Junyan''': Xiaobao seems to be behaving better, did you talk to him? I can't thank you enough, Rover.\n:{{DIcon|Exit}} Leave\n----\n:'''Junyan''': I know how desperate he wants to see the show, but he's being annoying now... Oh, hello. Is there anything I can help?\n:{{DIcon}} Chat\n::'''Junyan''': Qinghe will take the stage and I'll just wait here without any nuisance. Perfect!\n::'''Junyan''': I hope her new play will be ready soon. I can't wait to see the new show!\n::'''Junyan''': Once I pick up the Torch Sword, I will eradicate that monster! I haven't forgotten a single line!\n::'''Junyan''': Can't wait to see Fiamma's brand new adventure story!\n:{{DIcon|Exit}} Leave\n----\n;(Night)\n:'''Junyan''': Sister Qinghe is really amazing, don't you think?\n:{{DIcon}} Chat\n::'''Junyan''': You're back! I've got a big news for you! The sequel to the Speedster's story is almost here!\n::'''Junyan''': Last time, the story of the Speedster ended at the crucial moment of standoff with the final boss, it really killed me with suspense!\n:{{DIcon|Exit}} Leave\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Junyan\n|zhs  = 俊妍\n|zht  = 俊妍\n|ja   = 俊妍（シュンゲン）\n|ko   = 준연\n|es   = Junyan\n|fr   = Junyan\n|de   = Junyan\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle Quotes",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:17Z",
+  "title": "Zhaoming Commerce Guild",
+  "pageid": 77300,
+  "wikitext": "{{stub}}\n\n{{Location Infobox\n|name         = Zhaoming Commerce Guild\n|image        = Zhaoming Commerce Guild.jpg\n|type         = Lore\n|type2        = Instance\n|icon         = \n|nation       = Huanglong\n|region       = Mengzhou\n|area         = \n|description  = \n}}__NOTOC__\n'''{{PAGENAME}}''' is a renowned merchant guild located in [[Mengzhou]]. \n\n==Description==\n{{Description|Zhaoming Commerce Guild, with its roots in Mengzhou, stands as a celebrated force in Huanglong's trade scene. Guided by its mission to facilitate trade and uplift lives, the guild frequently joins hands with Lollo Logistics, weaving together goods from distant states and sending them to markets near and far. Their efforts not only ease the worries of farmers with unsold harvests but also bring the tastes and treasures of far-off lands to local tables. It serves as a lively and welcoming thread along Huanglong's trade route.}} \n\n==Members==\n===Notable Members===\n{| class=\"article-table\"\n! Icon!!Name!!Role\n|-\n|[[File:Resonator Suisui.png|50px]]\n|[[Suisui]]\n|Chairwoman, Director\n|-\n|\n|[[Mingchou]]\n|Employee\n|} \n\u003c!--Gallery--\u003e\n\n==Gallery==\n===Annals of Huanglong Ubiquitous — Zhaoming Commerce Guild===\nSpeaking of Huanglong's renowned cuisine,\neven the most devoted food enthusiasts would struggle to name every specialty.\nFood lovers agree the city's only grown livelier these past few years.\nAs trade routes opened up in every direction, flavors from across Huanglong's one capital and six cities gradually converged\n\nTo improve people's livelihoods and boost their local economies, cities throughout Huanglong have partnered with Lollo Logistics to build transport networks while working with local commerce guilds to open new trade routes.\nAmong these guilds, one of the most renowned is the Zhaoming Commerce Guild of Mengzhou.\nIts Chairwoman, Suisui, is celebrated for her discerning eye. Wherever she travels, whatever she acquires tends to spark a trend.\nEven in Jinzhou, the youngest of the six cities, the bustling Panhua's Restaurant and the well-stocked Mahe's Grocery both have ties to the Zhaoming Commerce Guild.\n\nWord has it that when Panhua's Restaurant first rolled out its Spicy Pulled Chicken, the dish was such a hit it caused a local chili shortage in Jinzhou. When Suisui heard about it through her regular letters with her younger sister, she sent guild staff to Jinzhou to look into the matter. happened, Jinzhou City Hall was also seeking to expand its commercial partnerships. As it With the Zhaoming Commerce Guild's help, chili peppers from as far away as Chongzhou soon found their way to Jinzhou, becoming a fixture on local dinner tables. This initiative also solved a headache for Chongzhou's farmers, who'd had a bumper chili harvest and nowhere to sell it.\n\nBeyond fresh produce, the Zhaoming Commerce Guild also excels at sourcing regional specialty goods and getting them exactly where they're needed. Blue-and-white porcelain, fine bolts of silk, intricately crafted mechanical dolls, bamboo-woven baskets... As the Guild's Chairwoman, Sulsul's eye for quality is sharp enough that whatever catches it tends to become the hottest item in town. \n\nWith the guild's support and Lollo Logistics' delivery network, goods from every comer of Huanglong flow more freely now, like a gentle stream reaching farther and farther, soft rain quietly rescuing farmers and artisans who'd been struggling to find buyers, easing worries that were all too real. And so people across every city can now find goods from a thousand miles away right on their own doorstep, and taste specialty dishes from lands far from home.\n\n\u003cgallery\u003e\nAnnals of Huanglong Ubiquitous — Zhaoming Commerce Guild 1.jpg|\nAnnals of Huanglong Ubiquitous — Zhaoming Commerce Guild 2.jpg\nAnnals of Huanglong Ubiquitous — Zhaoming Commerce Guild 3.jpg\n\u003c/gallery\u003e\n\n==Other Languages==\n{{Other Languages\n|en   = Zhaoming Commerce Guild\n|zhs  = 昭明商会\n|zht  = 昭明商會\n|ja   = 昭明商会\n|ko   = 소명 상인회\n|fr   = Maison de commerce de Zhaoming\n|de   = Zhaoming-Handelsgilde\n|es   = Gremio de Comercio Zhaoming\n|th   = สมาคมการค้าเจาหมิง\n|pt   = Câmara de Comércio Zhaoming\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{PoI Navbox|Huanglong}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Notable Members",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Gallery",
+      "number": "3",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Annals of Huanglong Ubiquitous — Zhaoming Commerce Guild",
+      "number": "3.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "9"
+    }
+  ]
+}

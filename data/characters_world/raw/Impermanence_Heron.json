@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:03Z",
+  "title": "Impermanence Heron",
+  "pageid": 22998,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name=Impermanence Heron\n|title=Death Incarnate\n|image=Enemy Impermanence Heron (Boss).png\n|dmgtype=Havoc\n|weakpoint=Unknown\n|echo=Yes\n|class=Overlord\n|family=Tacet Discord\n|group=Howler\n|nation=Huanglong\n|region=Desorock Highland\n|subregion=Camp Overwatch\n|drops=Gold-Dissolving Feather\n|variants=Tactical Hologram: Impermanence Heron\n}}\n{{Description|A giant avian creature that flies around Desorock Highland. Its three heads are respectively responsible for ingestion, offence, and guard.\n\"Foolish left, wicked right. Center heard's the greatest blight\", so would Jinzhou rhymes describe the heads.}}\n\n{{Lang|Impermanence Heron|zh=无常凶鹭}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in [[Huanglong]].\n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Gold-Dissolving Feather}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Abilities==\n\n==Trophies==\nThere are currently no [[Trophies]] related to '''Impermanence Heron'''.\n\n==Tutorial==\n{{Tutorial|Impermanence Heron}}\n\n==Description==\n{{Description|An Overlord Class Howler TD showing up in Desorock Highland. It is known to be ferocious and highly aggresive. This enemy has {{Color|help|higher RES}} to {{Color|Havoc damage}}.}}\n\n==Other Languages==\n{{Other Languages\n|en      = Impermanence Heron\n|zhs     = 无常凶鹭\n|zht     = 無常凶鷺\n|ja      = 無情のサギ\n|ko      = 음험한 백로\n|es      = Garza Impermanencia\n|fr      = Héron impermanent\n|de      = Vergänglicher Reiher\n}}\n\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "9"
+    }
+  ]
+}

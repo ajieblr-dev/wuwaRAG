@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:04Z",
+  "title": "Qianling",
+  "pageid": 2673,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Qianling.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Qianling''' is an NPC in {{Location|Jinzhou}}. He appears in front of the [[Pioneer Association]] building, chatting with [[Shangwen]].\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events|Qianling}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Qianling:''' Hi there. I heard that Pioneer Explorers are informed travelers. Maybe you can answer my friend's little question here?\n:'''Qianling:''' There's so much talk about the Magistrate's guest. My friend thinks... it's actually him!\n:'''Qianling:''' My friend's a seasoned traveler. He walks a thousand miles a day and lifts a thousand catties with his bare hands...\n:'''Shangwen:''' Hold on. You're talking about yourself, aren't you?\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Qianling\n|zhs  = 千零\n|zht  = 千零\n|ja   = 千零（センレイ）\n|ko   = 천영\n|es   = Qianling\n|fr   = Qianling\n|de   = Qianling\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

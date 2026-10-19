@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:34Z",
+  "title": "Maxim",
+  "pageid": 26086,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|name             = Maxim\n|image            = NPC Maxim.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Ragunna\n|group            = \n|affiliation      = \n}}'''Maxim''' is an NPC in {{Location|Ragunna|nocat=1}}.\n==Quests and Events==\n{{Quests and Events}}\n==Dialogue==\n==Other Languages==\n{{Other Languages\n|en   = Maxim\n|zhs  = 马克西姆\n|zht  = 馬克西姆\n|ja   = マキシム\n|ko   = 막시모\n|es   = Maxim\n|fr   = Maxim\n|de   = Maxim\n}}\n==Change History==\n{{Change History|2.0}}\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

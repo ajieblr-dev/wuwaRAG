@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:44Z",
+  "title": "Big Bad Demon",
+  "pageid": 24986,
+  "wikitext": "{{Meta\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = Big Bad Demon.PNG|In-game\n|type             = Quest\n|region           = \n|location         = Huanglong\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n|name=Big Bad Demon}}\n'''Big Bad Demon''' is an NPC featured during the [[Dreamscape Odyssey: Little Warrior's Stage]] quest, in the [[Somnium Labyrinth]] [[Event]]. It's form is taken from the TD [[Gulpuff]], and it seems like it's appearance has appeared before in Encore's companion quest: [[Small Wooly, Big Adventures]].\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Other Languages==\n{{Other Languages\n|en   = Big Bad Demon\n|zhs  = 大坏魔王\n|zht  = 大壞魔王\n|ja   = 超無敵の大魔王\n|ko   = 나쁜 대마왕\n|es   = Gran Demonio\n|fr   = Grand méchant démon\n|de   = Der Große Böse Dämon\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

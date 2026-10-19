@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:53Z",
+  "title": "Heliodic Six",
+  "pageid": 38592,
+  "wikitext": "{{Spoiler}}\n{{Terminology Infobox\n|title        = Heliodic Six\n|image        = Heliodic Six.png\n|nation       = Lahai-Roi\n|type         = Lore\n|affiliation  = [[Roya Tribe]]\n}}\nThe '''Heliodic Six''' is a group of six [[Roya Tribe]] members known to have great mathematical and calculation skills. They act as the sense for the [[Heliogyre]] located in [[Solisylum]]. People from the tribe rarely see the members because they remain inside the Solisylum most of the time, and access is highly restricted.\n\nBy the time [[Rover]] reaches [[Lahai-Roi]], five out of the Six members are 'no more'. Only [[\"The Shaper\"]] mind remains intact.\n\n==Members==\n===Current===\n{| class=\"article-table\"\n!Title!!Current!!Successor (Solsworn)\n|-\n|The Shaper\n|[[Isander]]\n|Unknown \u003c!--[[Sigrika]] Please confirmed with a source in game and not by assumptions--\u003e\n|-\n|The Recorder\n|[[Laetia]]\n|Unknown\n|-\n|The Eye\n|[[Iselde]]\n|[[Yngvar]]\n|-\n|The Binder\n|[[Horstvald]]\n|Unknown\n|-\n|The Refiner\n|[[Freamir]]\n|Unknown\n|-\n|The Chronicler\n|[[Eivind]]\n|Unknown\n|}\n\nThe Shaper describes Solisylum as \"not what it once was\" as the five of the Six minds have been corrupted by Voidmatter and no longer able to decipher the Heliogyre calculations to make predictions against Void Storm occurrences. The members of the Heliodic Six who were corrupted, had the following descriptions:\n\n* The Binder: He resembles a vessel carved by time itself.\n* The Eye: She looks like she hasn't seen the sun in a very long time.\n* The Recorder: Not a single speck of dust lies upon her robes.\n* The Refiner: Her closed eyes seem less like rest and more like a designed state.\n* The Chronicler: His breath carries a strange chill.\n\nAfter passing all calculating authority to The Shaper in {{Quest|Ode to the Second Sunrise}}, the others now roam Lahai-Roi.\n* The Shaper remains within Solislyum, found at any time.\n* The Recorder is found at Startorch Archive at \u003cnowiki\u003e06:00 to 17:00\u003c/nowiki\u003e\n* The Eye is found near Haldarheim at \u003cnowiki\u003e06:00 to 17:00\u003c/nowiki\u003e\n* The Binder is found by Starward Riseway at \u003cnowiki\u003e06:00 to 17:00\u003c/nowiki\u003e\n* The Refiner is found near Atuja Camp at \u003cnowiki\u003e18:00 to 15:00\u003c/nowiki\u003e\n* The Chronicler is found near the Startorch Academy, TIN \u0026 CAN eatery at \u003cnowiki\u003e06:00 to 17:00\u003c/nowiki\u003e\n\n===Solsworn===\nThe Solsworn is the term for a future successor of the Heliodic Six. Each Heliodic six member has a chosen successor from the Roya Tribe. Yngvar, despite his derelict of duty and his disinterest of succeeding The Eye as  he was chosen as her replacement which made his qualification often being questioned by other Roya tribesmen; however he was chosen nonetheless because of resonance abilities. Sigrika is also one of the Heliodic Six successors, although it remains unconfirmed which member she is succeeding, based on \"Lahai-Roi Special Cinematics | Farwatchers\" it is speculated to be The Shaper.\n\n==Descriptions==\n{{Description|The Roya elders are organized into the Six— three pairs holding roles such as the Eye, the Binder, and the Shaper. Each pair in the Six is entrusted with a core function: observation, archival, and extrapolation. They dwell within the Solisylumn, linking their consciousness to the Heliogyre to trace the Reactor Drive's trajectories and forecast Void Storms. To Maximize efficiency, only one of the Six remains awake during each cycle to oversee daily affairs. At the close of each season, Shepherds from all settlements gather in Bjartr Wood to deliver their recorded data, which the Six then deliberate upon to chart the future.|Glossary Excerpt}}\n\n==Other Languages==\n{{Other Languages\n|en   = Heliodic Six\n|zhs  = 秘日六席\n|zht  = 秘日六席\n|ja   = ヘリオディック・シックス\n|ko   = 헬리오딕 식스\n|fr   = Les Six héliodiques\n|de   = Die Heliodischen Sechs\n|es   = Seis Heliódicos\n|th   = ษัฏสุริยัน\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{Lore Navbox|Terminology}}\n[[Category:Heliodic Six| ]]\n[[zh:秘日六席]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Members",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Current",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Solsworn",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Descriptions",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "7"
+    }
+  ]
+}

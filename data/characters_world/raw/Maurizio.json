@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:34Z",
+  "title": "Maurizio",
+  "pageid": 27312,
+  "wikitext": "{{NPC Infobox\n|image            = NPC Maurizio.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Bank Street\n|group            = \n|affiliation      = \n|title            = \n\n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           =\n|sibling          =\n|child            = \n|relative         =\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Maurizio''' is a male NPC who appears at Trattoria Margherita on [[Bank Street]], talking to Michele from 6:00 PM to 8:59 PM.\n\n==Quests and Events==\n''(To Be Added)\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Maurizio:''' Here are the ingredients you ordered. Do a run down and I just need you to sign here when you're ready.\n:'''Michele:''' Giovanni's the one that usually handles our deliveries. How come he's not here today?\n:'''Maurizio:''' Don't get me started. Giovanni got nailed in the back by a Tumbleyak at the ranch. Takes him forever to even get off the bed.\n:'''Maurizio:''' Weird, the animals at Egla Ranch have gotten really frantic lately.\n:'''Maurizio:''' Speaking of him, it just hit me—doesn't Rosemary's potion work really well for injuries?\n:'''Michele:''' That's true.\n:'''Maurizio:''' But I've heard she's a [[Fisalia Family|Fisalia]]...\n:'''Michele:''' That's also true.\n:'''Maurizio:''' Ha, no wonder Giovanni didn't want to go see her by himself and wanted me to tag along...\n:'''Michele:''' Don't worry. You have no reason to fear her. Rosemary is really nice, and not everyone from the Fisalia family is bad.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Maurizio\n|zhs  = 毛里齐奥\n|zht  = 毛里齊奧\n|ja   = マウリツィオ\n|ko   = 마리지오\n|es   = Maurizio\n|fr   = Maurizio\n|de   = Maurizio\n}}\n\n==Change History==\n{{Change History|2.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:56Z",
+  "title": "Verina",
+  "pageid": 620,
+  "wikitext": "{{Resonator Tabs}}\n{{Resonator Infobox\n|name             = Verina\n|title            = Nature Calling\n|image            = \u003cgallery\u003e\nVerina's Card.jpg|Card\nVerina Full Body Sprite.png|Model\nVerina Splash Art.png|Splash Art\n\u003c/gallery\u003e\n|type             = Playable\n|gender           = Female\n|modelType        = \n|age              = 12 \u003cref\u003eVerina age is mentioned in a spin-off comic from the official development team. https://x.com/WW_devteam/status/1770032135531036723\u003c/ref\u003e\n|rarity           = 5\n|attribute        = Spectro\n|weapon           = Rectifier\n|birthday         = May 18th\n|releaseDate      = 2024-05-23 \n|role             = Support and Healer;Coordinated Attack;DMG Amplification\n|class            = Congenital\n|birthplace       = New Federation\n|affiliation      = Jinzhou\n|affiliation2     = Pioneer Association\n|sigil            = Exploration (Sigil)\n|dish             = Green Field Pot\n|obtain           = Convene\n|voiceEN          = [[imdb:nm2744476|Heather Nicol]]\n|voiceCN          = [https://zh.moegirl.org.cn/zh-hans/赵爽 Zhao Shuang ({{Lang|mini=1|zh=赵爽}})]\u003cref name=\"CN-VA_KGVerina\"\u003eOfficial Website: [https://mc.kurogames.com/main#resonators 共鸣者 瑝珑 秧秧]\u003c/ref\u003e\n|voiceJP          = {{w|Yū Sasahara|Sasahara Yū ({{Lang|mini=1|ja=篠原侑}})}}\n|voiceKR          = [https://namu.wiki/w/강새봄 Kang Saebom ({{Lang|mini=1|ko=강새봄}})]\n}}\n{{Quote|This flower is for you. I hope it makes you happy!|Verina\n}}\n{{Intro/Resonator|Verina}}\n\nShe is a botanist from the [[New Federation]] who dwells in [[Jinzhou]], [[Huanglong]].\n\n==Official Introduction==\nWith an extensive knowledge of botany, Verina is always solicitous, always smiling, and always wishing for every flower to be blessed with the miracle of life.s ends up taking on caretaker duties in any expedition, showing remarkable tenacity for her age. \u003cref\u003eOfficial ''Wuthering Waves'' Website: [https://wutheringwaves.kurogames.com/m/en/main/news/detail/676 Profile Reveal: Nature Calling — Verina]\u003c/ref\u003e\n\n{{Quote|Formerly a member of a Pioneer Association expedition team from the New Federation, Verina is a humble and determined plant breeder.\n\u003cbr\u003e\u003cbr\u003eSomehow she always ends up taking on caretaker duties in any expedition, showing remarkable tenacity for her age.|[https://wutheringwaves.kurogames.com/en/main#resonators Her introduction on the Official Website.]\n}}\n\n==Combat Overview==\n{{Main|Verina/Combat}}\n===Ascension Material===\n{{Character Ascensions and Stats|total_only=1}}\n\n===Forte===\n{{Skill Navbox}}\n{{Skill Upgrade|Verina|totalOnly}}\n\n===Resonance Chain===\n{{Nodes Navbox}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Availability==\n===Event Convenes===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en      = Verina\n|zhs     = 维里奈\n|zht     = 維里奈\n|ja      = ヴェリーナ\n|ko      = 벨리나\n|es      = Verina\n|fr      = Verina\n|de      = Verina\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Resonator Navbox}}\n\n[[ru:Верина]]\n[[Category:Female]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Official Introduction",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Combat Overview",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Ascension Material",
+      "number": "2.1",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Forte",
+      "number": "2.2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Resonance Chain",
+      "number": "2.3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "3.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Companion Stories",
+      "number": "3.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Availability",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Event Convenes",
+      "number": "4.1",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "5",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "6",
+      "index": "10"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "7",
+      "index": "11"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "8",
+      "index": "12"
+    }
+  ]
+}

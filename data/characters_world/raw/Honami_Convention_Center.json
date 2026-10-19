@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:55Z",
+  "title": "Honami Convention Center",
+  "pageid": 38145,
+  "wikitext": "{{Location Infobox\n|image        = Honami Convention Center.png\n|type         = Area\n|nation       = The Black Shores\n|region       = Chronorift Metropolis\n}}\n'''Honami Convention Center''' is an [[Area]] located in [[Chronorift Metropolis]]. It is accessible via [[Stranger Things in Honami]].\n\n==NPCs==\n{{NPCs by Location List|Honami Convention Center}} \n\n==Other Languages==\n{{Other Languages\n|en   = Honami Convention Center\n|zhs  = 穗波国际会议中心\n|zht  = 穗波國際會議中心\n|ja   = コンベンションセンター\n|ko   = 호나미 국제 컨벤션 센터\n|fr   = Palais des congrès\n|de   = Kongresszentrum\n|es   = Centro de Convenciones\n|th   = ศูนย์ประชุมนานาชาติโฮนามิ\n}} \n\n==Change History==\n{{Change History|2.8}} \n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

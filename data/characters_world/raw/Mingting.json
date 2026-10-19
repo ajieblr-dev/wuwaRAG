@@ -1,0 +1,79 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:37Z",
+  "title": "Mingting",
+  "pageid": 10760,
+  "wikitext": "{{Stub}}\n{{Location Tabs}}\n{{Location Infobox\n|title        = Mingting\n|image        = \n|type         = City\n|map          = Solaris-3\n|event        = \n|nation       = Huanglong\n}}\n'''Mingting''' is the capital of [[Huanglong]]. It is the nation's political, economic, and cultural hub. While it is not entirely clear which, if any, of the provinces the city resides in, Qiuyuan's Resonator Showcase\u003cref\u003e[https://www.youtube.com/watch?v=8o12Z2ejpBc Wuthering Waves | Resonator Showcase | Qiuyuan — MASTER]\u003c/ref\u003e implies it is near [[Chongzhou]]. It is known to house the Ministry of Sentinel Affairs, the Ministry of War, the Internal Security Agency, the Censorate,\u003cref\u003e[[A Stranger in a Strange Land|Chapter II, A Stranger in a Strange Land]]\u003c/ref\u003e and the Institute of Art\u003cref\u003e[[Xuanling Sings, Storm Quelled]]\u003c/ref\u003e.\n\n==Resonators==\n===Playable===\n{{Resonators by Category Table|Playable Resonators\u0026Mingting}}\n===Upcoming===\n{{Resonators by Category Table|Upcoming Resonators\u0026Mingting}}\n\n==Government==\n===Former Members===\n{| class=\"article-table\"\n!Icon!!Name!!Position\n|-\n|\n|[[Xinyi]]\n|Unknown important former position. Retired to become the current Mayor [[Hongzhen]].\n|-\n|[[File:Resonator Changli.png|50px]]\n|[[Changli]]\n|Former Secretary-General\n|-\n|[[File:Resonator Qiuyuan.png|50px]]\n|[[Qiuyuan]]\n|Former Senior Agent of Internal Security Agency\u003cbr\u003e(kicked out after being framed for Liang Dongyuan's murder)\n|-\n|\n|[[Minister Lin]]\n|Former Minister of Sentinel Affairs. Retired due to old age and illness\n|-\n|\n|[[Liang Dongyuan]]\n|Former Master of the ISA. Killed by the [[Grand Architect]], Qiuyuan framed for the crime.\n|}\n\n==Trivia==\n*Mingting may be based on Beijing. Qiuyuan describes\u003cref\u003eDisliked Food: Mingting has a certain... drink. Greenish-gray, with a smell you don't forget. Trust me, you don't want to find out how it tastes...\u003c/ref\u003e a drink which resembles [[wp:Douzhi|douzhi]], traditional in Beijing cuisine.\n\n==Other Languages==\n{{Other Languages\n|en      = Mingting\n|zhs     = 明庭\n|zht     = 明庭\n|ja      = {{Rubi|明庭|めいてい}}\n|ko      = 명정\n|es      = Mingting\n|fr      = Mingting\n|de      = Mingting\n|th      = \n|pt      = \n}}\n\n==Change History==\n{{Change History|introduced=1.1|}}\n\n==References==\n\u003creferences /\u003e\n\n==Navigation==\n{{Location Navbox|Huanglong}}\n[[zh:明庭]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Resonators",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Playable",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Upcoming",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Government",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Former Members",
+      "number": "2.1",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "6",
+      "index": "9"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "7",
+      "index": "10"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:11Z",
+  "title": "Kangjian",
+  "pageid": 5997,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Kangjian.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Lake Heights\n|group            = \n|affiliation      = Midnight Rangers\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Kangjian''' is an NPC in {{Location|Lake Heights}}.\n\n==Dialogue==\n{{Dialogue Start}}\n;(During the day)\n:'''Kangjian:''' Sorry, I was just asking [[Po'xiao|this friend]] to help me write a eulogy for my fallen comrade...\n:{{DIcon}} Sorry if I bothered you...\n:'''Kangjian:''' No worries, it's over now. Are you here to visit an old friend?\n:{{DIcon}} And you?\n:'''Kangjian:''' Yeah, I come here every day to pay my respects to my comrades who fell to the [[Tacet Discord]]s and the [[Exiles]].\n:'''Kangjian:''' Though often filled with hatred and anger, I stand here as just a broken shell.\n:'''Kangjian:''' The fingers on my injured hand are useless... Can't even hold a pen to write. How pathetic.\n\n;(During the evening)\n:'''Kangjian:''' [[Tuanjin]] is a good kid. She's always here helping out and looking after us.\n:'''Kangjian:''' Everyone likes her, but it's hard for them to express their gratitude.\n:{{DIcon}} Are you thankful to her, too?\n:'''Kangjian:''' Of course, just don't let her know. She'd probably get all embarrassed.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Kangjian\n|zhs  = 康健\n|zht  = 康健\n|ja   = 康健（コウケン）\n|ko   = 강건\n|es   = Kangjian\n|fr   = Kangjian\n|de   = Kangjian\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:17Z",
+  "title": "Lan",
+  "pageid": 42437,
+  "wikitext": "{{Meta|missing_NPC_location = yes}}\n{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy - Teaching Zone\n|group            = \n|affiliation      = Department_of_Voidmatter}}\n{{PAGENAME}} is a female NPC who is seen talking to a Light \u0026 Energy Science student about the sound of mushrooms.\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Canduras:''' Have you ever heard the sound mushrooms make?\n:'''Lan:''' Huh? Mushroom sounds?\n:'''Canduras:''' And Lichen. And Snowfluff Seals...\n:'''Canduras:''' The Overtonic Society has a frequency extraction device that can capture their voices.\n:'''Canduras:''' The mushrooms make really sharp, high-pitched sounds, almost like they're screaming.\n:'''Lan:''' Yeah, they make the same sound when you toss them in a frying pan...\n{{Dialogue End}} \n\n==See Also==\n*[[Audio Lab Phonograph]]\n\n==Trivia==\n*Placing items, mainly organic items, to a modular synthesizer to create sounds. A well known example being the [https://www.youtube.com/watch?v=-hlQHYtncww Pink Oyster Mushroom].\n\n==Other Languages==\n{{Other Languages\n|en   = Lan\n|zhs  = 岚\n|zht  = 嵐\n|ja   = 嵐\n|ko   = 아라시\n|fr   = Lan\n|de   = Lan\n|es   = Lan\n|th   = Lan\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "See Also",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

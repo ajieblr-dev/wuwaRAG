@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:26Z",
+  "title": "Feilian Beringal",
+  "pageid": 8852,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n |name=Feilian Beringal\n |title=Ruthless Fury\n |image=Feilian Beringal Icon.png\n |dmgtype=Aero\n |weakpoint=Unknown\n |echo=Yes\n |class=Overlord\n |family=Tacet Discord\n |group=Howler\n |nation=Huanglong\n |region=Dim Forest\n |subregion=Giant Banyan\n |drops=Roaring Rock Fist\n |variants=Tactical Hologram: Feilian Beringal\n}}\n{{Description|An Overlord Class Howler TD in [[Dim Forest]]. With a giant size, it boasts the sovereign of this land.}}\n{{Lang|Feilian Beringal|zh=飞廉之猩}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in {{Location|Giant Banyan}}. \n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Roaring Rock Fist}}\n\n==Stats==\n{{Enemy Stats}} \n\n==Abilities== \n\n==Trophies==\n{{Trophies|Feilian Beringal (Boss)|customheader=Feilian Beringal}}\n\n==Tutorial==\n{{Tutorial|Feilian Beringal}} \n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Aero damage}}.\u003cbr/\u003eA giant ape-like monster that resides at the towering banyan tree, guarding the apes’ territory from intrusion.\u003cbr/\u003eTo avoid unexpected confrontation with it, the [[Midnight Rangers]] and the [[Huaxu Academy]] once collaborated in a special operation to fix the Feilian Beringal with a tracking bracelet, enabling the tracking of its movements within the forest.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n |en   = Feilian Beringal\n |zhs  = 飞廉之猩\n |zht  = 飛廉之猩\n |ja   = 飛廉の大猿\n |ko   = 폭주의 고릴라\n |es   = Beringal del Bosque\n |fr   = Feilian Beringal\n |de   = Fliegende Sense von Gori\n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==Navigation==\n{{Enemy Navbox}}\n[[zh:飞廉之猩]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "9"
+    }
+  ]
+}

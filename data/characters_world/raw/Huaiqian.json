@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:58Z",
+  "title": "Huaiqian",
+  "pageid": 74718,
+  "wikitext": "{{Stub|audio voice, Remove if no further Dialogues after Quest}}\n{{NPC Infobox\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Xuanfang Hold\n|location2        = Xuanfang Ministry of Development\n|affiliation      = Ministry of Development\n|affiliationNote  = Artisan\n|status           = Alive\n\n\u003c!-- VAs --\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          = \n|voiceKR          = \n}}\n'''{{PAGENAME}}''' {{Lang|zh=椋羽}} is a quest-exclusive [[NPC]] that first appears with [[Qiansu]] in {{Quest|Xuanling Sings, Storm Quelled}}. \n\n==Quests and Events==\n{{Quests and Events}}\n\n{{Dialogue Start}}\n==Idle==\n:'''Huaiqian:''' Have all the recovered Autopuppet remains been transported?\n\n==Dialogue==\n;During {{Quest|Xuanling Sings, Storm Quelled}}.\n:'''Huaiqian:''' Have all the recovered Autopuppet remains been transported?\n:'''Qiansu:''' All accounted for... I still cannot wrap my head around it. I saw my own work—the transmission lever I just fixed.\n:'''Huaiqian:''' Keep a close watch on them. We will need to give an account for this later.\n:'''Qiansu:''' To others... and to ourselves.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Huaiqian\n|zhs  = 怀谦\n|zht  = 懷謙\n|ja   = 懐謙（カイケン）\n|ko   = 회겸\n|fr   = Huaiqian\n|de   = Huaiqian\n|es   = Huaiqian\n|th   = Huaiqian\n|pt   = Huaiqian\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n[[zh:椋羽]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Idle",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

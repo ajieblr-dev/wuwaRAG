@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:01:34Z",
+  "title": "Andreas",
+  "pageid": 27211,
+  "wikitext": "{{Meta\n|missing_NPC_picture = yes}}\n{{NPC Infobox\n|image            = NPC Andreas.png\n|name             = Andreas\n|type             = Quest\n|nation           = Rinascita\n|location         = \n|group            = \n|affiliation      = Troupe of Fools\n\u003c!--Voice Actors--\u003e\n|voiceEN          = [[imdb:nm8540573|Salvatore Scarpa]]\n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}'''Andreas''' is is an quest-exclusive NPC in {{Location|Rinascita}} who first appears in {{Quest|Through the Sea Thou Break}}.\n\n==Profile==\nAndreas is first seen being forced to embark on the [[Pilgrim's Sail]]. After the ship wrecks on [[Penitent's End]] Island, he is rescued by [[Brant]], and joins the [[Troupe of Fools]].\n\n==Quests and Events==\n{{Quests and Events|Andreas}}\n\n==Other Languages==\n{{Other Languages\n|en   = Andreas\n|zhs  = 安德烈\n|zht  = 安德烈\n|ja   = アンドレア\n|ko   = 안드레아\n|es   = Andreas\n|fr   = Andreas\n|de   = Andreas\n}}\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Profile",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Main Quests",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Side Quests",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

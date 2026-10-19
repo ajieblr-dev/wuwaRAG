@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:57Z",
+  "title": "Paranora",
+  "pageid": 22085,
+  "wikitext": "{{NPC Infobox\n|image            = Paranora.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Energy Hub\n|group            = \n|affiliation      = Black Shores\n|title            = \n}}\n'''Paranora''' is an NPC who appears in [[Energy Hub]], [[Tethys' Deep]]. She's a Gardener from the [[Black Shores]] alongside her brother, [[Panoram]].\n\n==Quests and Events==\n{{Quests and Events|Paranora}}\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Paranora:''' Greetings. I'm Paranora, the Bloom Bearer responsible for human resources at the Black Shores.\n:'''Paranora:''' Are you the new recruit? May I check your itinerary, please?\n:'''Paranora:''' It looks like you haven't been assigned a \"germination test\" yet.\n:{{DIcon}} A \"germination test\"?\n:'''Paranora:''' Sorry, that's a bit technical. It's just a general test we arrange for candidates who want to become Consultants or Bloom Bearers.\n:{{DIcon}} How do you gather their personal info?\n:'''Paranora:''' The Tethys System is linked to all Nexus on the planet, constantly monitoring for abnormal frequencies.\n:'''Paranora:''' The frequencies generated when a new resonator appears, uses their Forte, or gets Overclocked will be captured by the Nexus and uploaded to Tethys.\n:'''Paranora:''' Using the computing power of the Stellar Matrices, the data we extract from these frequencies is as detailed as DNA analysis.\n:'''Paranora:''' We build our candidates' profiles with this info and store them in our talent pool.\n:{{DIcon}} And how do you choose the right candidate?\n:'''Paranora:''' We Gardeners visit each candidate in person, check their background, and bring that information back to Tethys.\n:'''Paranora:''' Tethys then determines the test content for each individual.\n:'''Paranora:''' In other words, every test is tailor-made.\n:'''Paranora:''' Based on what I see in you, I think you'll make a great tester.\n{{Dialogue End}}\n\n== Other Languages ==\n{{Other Languages\n|en   = Paranora\n|zhs  = 帕拉诺默\n|zht  = 帕拉諾默\n|ja   = パラノーマル\n|ko   = 파라노머\n|es   = Paranora\n|fr   = Paranora\n|de   = Paranora\n}}\n\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:16Z",
+  "title": "Kumu",
+  "pageid": 20643,
+  "wikitext": "{{Stub}}\n{{NPC Infobox\n|image            = Kumu.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Central Plains\n|group            = \n|affiliation      = Exiles\n|title            = Exile Leader\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Kumu''' is an Exile Leader that can be found in [[Gubei Pass]], [[Central Plains]]. He's one of the exiles who is not hostile to the player.\n\n== Location ==\nHuanglong, (-898,294,97)\n\n==Quests and Events==\n''(To be added)''\n{{Quests and Events|Kumu}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Talk to Kumu)\n:'''Kumu:''' [[Shengying]]'s not here again... Well, he's getting the hang of this!\n:{{DIcon}} What makes you say that?\n:'''Kumu:''' I mean he's grown up like a real fighter.\n:'''Kumu:''' I asked him to compete with the folks from [[Lollo Logistics]] before but I don't feel his determination in doing this.\n:'''Kumu:''' But he's into this now, always running around outside the camp.\n:'''Kumu:''' Well, he must have mastered his way. Got those couriers all tamed.\n:'''Kumu:''' But he didn't bring any supplies back with him...\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Kumu\n|zhs  = 枯木\n|zht  = 枯木\n|ja   = 枯木（コボク）\n|ko   = 구목\n|es   = Kumu\n|fr   = Kumu\n|de   = Kumu\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

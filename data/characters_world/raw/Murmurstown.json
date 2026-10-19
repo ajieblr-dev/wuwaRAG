@@ -1,0 +1,65 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:03:42Z",
+  "title": "Murmurstown",
+  "pageid": 35926,
+  "wikitext": "{{Location Infobox\n|title     = Murmurstown\n|image     = Murmurstown.png\n|world_map = Solaris-3\n|type      = Area\n|nation    = Rinascita\n|region    = Sanguis Plateaus}}\n{{Quote|A town wiped out by the Dark Tide. All that remains are the Threnodian Leviathan's whispers and thoughts. People call this place Murmurstown in a desperate attempt to bury an agony too great to bear.}}\n\n'''Murmurstown''' is an area of {{Location|Sanguis Plateaus}}. Before it fell to the [[Dark Tide]] sixteen years ago, Murmurstown was called Fabianum. It was the hometown of [[Augusta]] and [[Galbrena|Angel]] who are the only survivors of the Dark Tide.\n\nThe people of the former town were turned into [[Dark Tide#Effects and Properties|Hollow Figures]], their minds twisted by the Dark Tide and their corpses raised as mindless puppets.\n\n==Affiliations==\n===Playable===\n{{Resonators by Category Table|Playable Resonators\u0026Fabianum}}\n===Upcoming===\n{{Resonators by Category Table|Upcoming Resonators\u0026Fabianum}}\n\n== Other Languages ==\n{{Other Languages\n|1_en   = Murmurstown\n|1_zhs  = 呓语镇\n|1_zht  = 囈語鎮\n|1_ja   = うわごとの町\n|1_ko   = 잠꼬대 마을\n|1_es   = Murmulium\n|1_fr   = Murmure-ville\n|1_de   = Säuselstadt\n\n|2_en   = Fabianum\n|2_zhs  = 法比亚纳\n|2_zht  = 法比亞納\n|2_ja   = ファビアヌム\n|2_ko   = 파비아눔\n|2_es   = Fabianum\n|2_fr   = Fabianum\n|2_de   = Fabianum\n}}\n\n== Change History ==\n{{Change History|2.6}} \n\n== Navigation ==\n{{Location Navbox|Rinascita}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Affiliations",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Playable",
+      "number": "1.1",
+      "index": "2"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Upcoming",
+      "number": "1.2",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "4"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Murmurstown",
+      "number": "2.1",
+      "index": ""
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Fabianum",
+      "number": "2.2",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "4",
+      "index": "6"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:00Z",
+  "title": "Pijin",
+  "pageid": 4408,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_picture  = yes\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n|missing_NPC_dialogue = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Pijin.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = Lollo Logistics\n|title            = Lollo Logistics Navigator\n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}'''Pijin''' is an NPC in [[Huanglong]].\n==Dialogue==\n{{Dialogue Start}}\n:'''Pijin:''' All the deliveries for the [[Tiderise Cliff]] have been finished. Are we done today? Well, that's unusual...\n:'''Pijin:''' Whoa! I've got another 50 orders from [[Peipei]] just now!\n:'''Pijin:''' These ones surely have an overwhelming kick...\n:'''Pijin:''' Wait. All of these are sent to [[Taoyuan Vale]], which means we have to pass through the [[Gubei Pass]] again.\n:{{DIcon}} Looks she is quite busy. Let's leave her alone.\n:'''Pijin:''' I taught a lesson to that annoying [[Shengying]] a few times. Hope he can just stop bothering me.\n:'''Pijin:''' Ugh... I can't stand it... But as a navigator, I have to keep my spirits up and work hard, to set a good example for the younger ones!\n{{Dialogue End}}\n\n== Location ==\n(-905,139,109)\n\n==Other Languages==\n{{Other Languages\n|en   = Pijin\n|zhs  = 披荆\n|zht  = 披荊\n|ja   = 披荊（ヒケイ）\n|ko   = 한경\n|es   = Pijin\n|fr   = Pijin\n|de   = Pijin\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

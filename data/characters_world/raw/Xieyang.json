@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:06Z",
+  "title": "Xieyang",
+  "pageid": 5908,
+  "wikitext": "{{Meta\n\u003c!-- Remove this template after adding the missing info --\u003e\n|missing_NPC_location = yes\n|missing_NPC_context  = yes\n|missing_NPC_profile  = yes\n|missing_NPC_idle     = yes\n}}\n{{Stub}}\n{{NPC Infobox\n|image            = NPC Xieyang.png\n|type             = Open-World\n|nation           = Huanglong\n|location         = Huanglong\n|group            = \n|affiliation      = \n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = \n|mother           = \n|spouse           = \n|sibling          = Po'xiao\n|child            = \n|relative         = \n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Xieyang''' is an NPC in {{Location|Jinzhou}}.\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Dialogue==\n{{Dialogue Start}}\n;(Set 1)\n:'''Xieyang:''' What should I write in the letter to [[Lianyue]]?\n:'''Xieyang:''' Yeah... I shouldn't have said that my work is about to be published. The editor rejected my poem again, and Lianyue asked me for the number of the issue where my work is published...\n:'''Xieyang:''' Well, I- I'll say that the editor wants me to write two more, and the whole collection will be published together!\n:'''Xieyang:''' But it's not good to keep going like this...\n:'''Xieyang:''' Well, I- I'll stick to this excuse- no- reason.\n:'''Puppy Nearby:''' Woof! Woof, woof woof!\n----\n;(Set 2)\n:'''Xieyang:''' Listen, the mourning of the planet before the apocalypse\u0026mdash;\n:'''Xieyang:''' It's a broken symphony of sounds, the sighs of the tide, it's your, your...\n:'''Xieyang:''' Yes, yes! We'll cut it here. The energy is just right...\n:{{DIcon}} Are you okay?\n:'''Xieyang:''' What? Oh, pfft, I couldn't be better! This is the end of my apocalypse, the beginning of a creative stretch of poems, and the embodiment of my love for literature!\n:'''Xieyang:''' Writer's block? Nonsense... Just put a period where you're stuck\u0026mdash;\n:'''Xieyang:''' Brilliant. I'm really a genius!\n{{Dialogue End}}\n\n==Event Dialogue==\n===By Moon's Grace===\n{{Transclude|Riddle Twiddle|Dialogue|main=1|top=1}}\n\n\n==Other Languages==\n{{Other Languages\n|en   = Xieyang\n|zhs  = 斜阳\n|zht  = 斜陽\n|ja   = 斜陽（シャヨウ）\n|ko   = 일월\n|es   = Xieyang\n|fr   = Xieyang\n|de   = Xieyang\n}}\n\n==Change History==\n{{Change History|1.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "Events",
+      "number": "1.1",
+      "index": ""
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Event Dialogue",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 2,
+      "level": "3",
+      "line": "By Moon's Grace",
+      "number": "3.1",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "4",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "5",
+      "index": "6"
+    }
+  ]
+}

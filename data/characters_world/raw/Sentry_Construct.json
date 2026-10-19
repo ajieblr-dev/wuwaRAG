@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:24Z",
+  "title": "Sentry Construct",
+  "pageid": 25713,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Sentry Construct\n|title     = Gargoyle\n|image=Sentry Construct Icon.png\n|dmgtype   = Glacio\n|class     = Overlord\n|echo      = Yes\n|weakpoint = Unknown\n|family    = Construct\n|group     = \n|nation    = Rinascita\n|region    = Averardo Vault\n|subregion = \n|drops     = Platinum Core\n|variants  = Tactical Hologram: Sentry Construct\n}}{{Description|A precise and powerful battle machine that has been refitted with special technology. It carries out its master's commands with absolute loyalty.}}\nThe '''{{PAGENAME}}''' is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in the {{Location|Averardo Vault|nocat=1}}.\n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Platinum Core}}\n\n==Stats==\n{{Enemy Stats}}\n\n==Abilities== \n\n==Trophies==\n{{Trophies|Sentry Construct|customheader=Sentry Construct}}\n\n==Tutorial==\n{{Tutorial|Sentry Construct}}\n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Glacio damage}}.\u003cbr/\u003eA precise and powerful battle machine that has been refitted with special technology. It carries out its master's commands with absolute loyalty.\u003cbr/\u003eAny trace of its original form has faded, leaving only finely honed combat instincts within its frequencies. As an unyielding guardian, it adapts seamlessly to all types of combat. When needed, it activates a unique component to enhance mobility or unleashes all its energy in a devastating blast.\u003cbr/\u003eThe [[Montelli Family]], voyaging from distant shores, has seen a wider world—and they are willing to pay any price to gain the strength needed to revive their homeland.|Description When Discovered}}\n\n==Other Languages==\n{{Other Languages\n|en  = Sentry Construct\n|zhs = 异构武装挑战获得\n|zht = 異構武裝挑戰獲得\n|ja  = ゼノコロッサス挑戦で獲得\n|ko  = 이성(異性) 무장 도전 획득\n|es  = Constructo Guardia\n|fr  = Arsenal hybride\n|de  = Wächterkonstrukt\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Enemy Navbox}}\n\n[[zh:异构武装]]",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Tutorial",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "9"
+    }
+  ]
+}

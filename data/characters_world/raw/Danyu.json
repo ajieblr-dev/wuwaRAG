@@ -1,0 +1,58 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:09Z",
+  "title": "Danyu",
+  "pageid": 42835,
+  "wikitext": "{{NPC Infobox\n|image            = .png\n|type             = Open-World\n|nation           = Lahai-Roi\n|location         = Startorch Academy\n|group            = \n|affiliation      = \n|title            = \n}}\n'''{{PAGENAME}}''' is a male [[Lollo Logistics]] [[NPC]] found speaking with '''Gidion''', an Academy Staff member. They can be found at the entrance way of [[Startorch Academy]] at night.\n\n==Location==\n\n==Dialogue==\n{{Dialogue Start}}\n:'''Gidion:''' Running into [[Exiles]] every single day of the year, and each time they've got some new stunt...\n:'''Danyu:''' Tell me about it! Royan Outcasts are way sneakier than the Exiles back where I'm from.\n:'''Gidion:''' Yeah... I've dealt with Exiles. They just charged in like bulls. No brains to speak of.\n:'''Danyu:''' Right! But Outcasts here? Smart and ruthless... Academy inventions, imported goods... they snatch everything.\n:'''Gidion:''' Worst part is, they'll even butcher [[Exoswarm]]... right when the [[Exostrider]] needs them for repairs...\n:'''Gidion:''' They've betrayed the Roya's duty and betrayed the Exostrider. Pfff!\n:'''Danyu:''' Pfff!\n----\n;After completing {{Quest|Starlights from Yesterdays}}\n:'''Gidion''': Okay, so the Threnodian has been driven back. Isn't it time the Spacetrek Collective finally did something about those Outcasts?\n:'''Gidion:''' They loot. They raid. They trash everything. You've been putting up with them long enough, haven't you?\n:'''[[Danyu]]:''' You preach to the converted, brother. But they used to be Roya. The Outcast situation is complicated... Hmph!\n:'''Danyu:''' We're outsiders. There's only so much we can do.\n:'''Gidion:''' So you're just going to continue letting them run wild?\n:'''Danyu:''' No, we'll deal with it. But we need to talk to the Roya in Bjartr Woods first. We can't just lump everyone together and crack down...\n{{Dialogue End}}\n\n==Trivia==\n* \"Pfff\" is a sound made by exhaling air to show discontent or disapproval. \n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n==Other Languages==\n{{Other Languages\n|en   = Danyu\n|zhs  = \n|zht  = \n|ja   = \n|ko   = \n|es   = \n|fr   = \n|de   = \n|th   = \n|pt   = \n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Location",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trivia",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    }
+  ]
+}

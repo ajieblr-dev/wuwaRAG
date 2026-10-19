@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:18Z",
+  "title": "Eleanor",
+  "pageid": 23244,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|image            = Eleanor.png\n|type             = Open-World\n|nation           = The Black Shores\n|location         = Haven of Sprouts\n|group            = \n|affiliation      = Black Shores\n|title            = \n\n\u003c!--Voice Actors--\u003e\n|voiceEN          = \n|voiceCN          = \n|voiceJP          =  \n|voiceKR          =  \n}}\n'''Eleanor''' is an NPC in [[Haven of Sprouts]], [[The Black Shores]]. She is a Gardener at the Black Shores.\n\n==Quests and Events==\n{{Quests and Events|Eleanor}}\n==Dialogue==\n{{Dialogue Start}}\n:'''[[Artemisia]]:''' I've made up my mind, Ms. Eleanor.\n:'''Eleanor:''' I see. Artemisia, I want you to know that I respect whatever decision you make.\n:'''Eleanor:''' Indeed. Resonators assigned to collect Reverberations tend to have acute senses that allow them to detect even minuscule amounts of residual frequencies.\n:'''Eleanor:''' It's our gift... also our burden.\n:'''Artemisia:''' Are you saying that before you assumed the role of Gardener...\n:'''Eleanor:''' ...I'd felt the weight of those lingering emotions myself, yes. So if you feel like you need someone to talk to, I'm here for you.\n:'''Artemisia:''' Thank you, Ms. Eleanor. It's just that... the moment I touch those Reverberations, the emotions and last wishes contained within them flood my mind...\n:'''Artemisia:''' I know my work helps many, but I simply can't take in all the pain, despair, and regret I feel...\n:'''Artemisia:''' The heaviness of it all has been wearing me down, leaving me torn between my urge to end the suffering and my sense of responsibility.\n:'''Artemisia:''' I joined the Black Shores to free the world from suffering, didn't I?\n:'''Artemisia:''' Now my resoluteness at the very beginning only makes a pathetic reflection on my cowardice now. I'm so sorry—\n:'''Eleanor:''' Artemisia...\n----\n:;(Found by the docks afterwards)\n:'''Eleanor:''' Don't leave the Black Shores with such a weight in your heart.\n:'''Eleanor:''' What I meant to tell you is that you've done an outstanding job.\n:'''Eleanor:''' You've protected many from harm and contributed significantly to the Black Shores' understanding of the Lament's origin.\n:'''Eleanor:''' Please have faith that the things you did have left a positive impact, no matter how intractable at first. The momentum of change you've started will tilt the track of history for the better and leave a mark on your life.\n:'''Eleanor:''' These changes will endure, even if you leave the Black Shores.\n:'''Artemisia:''' Ms. Eleanor...?\n:'''Eleanor:''' Did you notice? The seed you brought from your hometown has fully bloomed now.\n:'''Eleanor:''' Thank you, Artemisia, for everything.\n{{Dialogue End}}\n==Other Languages==\n{{Other Languages\n|en   = Eleanor\n|zhs  = 埃莉诺\n|zht  = 埃莉諾\n|ja   = エレノア\n|ko   = 엘리노어\n|es   = Eleanor\n|fr   = Eleanor\n|de   = Eleanor\n}}\n==Change History==\n{{Change History|1.3}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

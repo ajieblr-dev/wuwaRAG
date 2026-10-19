@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:05:00Z",
+  "title": "Wenmo",
+  "pageid": 35609,
+  "wikitext": "{{NPC Infobox\n|name             = Wenmo\n|image            = \n|type             = Open-World\n|nation           = Huanglong\n|location         = Jinzhou\n|group            = \n|affiliation      = \n|title            = \n\u003c!-- Clan/family --\u003e\n|ancestry         = \n|father           = Wenshui\n|mother           = \n|spouse           = \n|sibling          = \n|child            = \n|relative         = \n}}\n'''Wenmo''' {{Lang|zh=椋羽}} is the son of [[Wenshui]] who can be found located in various spots nearby his father.\n\n==Dialogue==\n{{Dialogue Start}}\n;(Idle during day)\n:'''Wenmo''' Wow, a device I've never seen before, what would happen if I disassembled it?\n:'''Wenmo''' A top-heavy structure. Will it be more solid?\n:'''Wenmo''' That thing is too high. I can't see the design of the other side. Oh how I wish to grow taller.\n\n;(Talk at night near-by his father)\n:'''Wenmo:''' {{MC|m=Big brother|f=Big sister}}, you are here again, shh... wait a moment.\n:'''Wenmo:''' I'm at a crucial step in the disassembly, if I messed up the order, it can never be restored.\n:'''Wenmo:''' Oh no, gotta head back, or my dad's gonna get mad at me, Let's play some other time.\n{{Dialogue End}}\n\n==Other Languages==\n{{Other Languages\n|en   = Wenmo\n|zhs  = 文末\n|zht  = 文末\n|ja   = 文末（ブンマツ）\n|ko   = 창균\n|es   = Wenmo\n|fr   = Wenmo\n|de   = Wenwei\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

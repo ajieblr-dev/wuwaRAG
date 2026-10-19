@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:18Z",
+  "title": "Sakura Quarter",
+  "pageid": 38138,
+  "wikitext": "{{Location Infobox\n|image        = Sakura Quarter.png\n|type         = Area\n|nation       = The Black Shores\n|region       = Chronorift Metropolis\n}}\n{{Description|This area was once known as \"Honami's most beautiful living quarter,\" where homes and cherry blossoms stood in perfect harnomy. Though the houses now lie hollow and lifeless, the cherry blossoms only flourish more vibrantly...|Sakura Quarter Loading Screen}}\n'''Sakura Quarter''' is an [[Area]] located in [[Chronorift Metropolis]]. It is accessible via [[Stranger Things in Honami]].\n\n==NPCs==\n{{NPCs by Location List|Sakura Quarter}} \n\n==City Secrets==\n''Unlocked by finding all Missing Namipons in [[Namipon Case Files]]''\n\nOnce hailed as \"Honami City's most beautiful living quarter,\" Sakura Quarter was a place where cherry blossoms framed the rows of residences in a picturesque harmony. Cross the blossom-shaped footbridge and walk a few blocks, and you would see the famous \"Sakura Upon Water\" spot, a favourite for young lovers. The housing prices here, however, were anything but beautiful.\n\nIn the past, the neighbourhood was safe, uneventful, and almost free of ghost stories. But after the Lament, tales began to spread. Many speak of the \"Mysterious Scissorwoman,\" a black-haired, red-eyed schoolgirl. At times, she leaps from rooftops, drifting down like a crow's feather. At others, she flashes across the streets, cutting through TDs with her giant scissors. Some say she came from Hell, others call her a hero of justice, while a few whisper that her figure in battle resembles the legendary miko herself.\n\n\n==Other Languages==\n{{Other Languages\n|en   = Sakura Quarter\n|zhs  = 樱漫町\n|zht  = 櫻漫町\n|ja   = 桜満町\n|ko   = 오우만쵸\n|fr   = Quartier Sakura\n|de   = Sakura-Viertel\n|es   = Barrio Sakura\n|th   = ซากุระมาจิ\n}} \n\n==Change History==\n{{Change History|2.8}} \n\n==Navigation==\n{{Location Navbox|Black Shores}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "NPCs",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "City Secrets",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}

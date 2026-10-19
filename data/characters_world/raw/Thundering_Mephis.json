@@ -1,0 +1,72 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:48Z",
+  "title": "Thundering Mephis",
+  "pageid": 21941,
+  "wikitext": "{{Enemy Echo Tabs}}\n{{Enemy Infobox\n|name      = Thundering Mephis\n|title     = Mourning Thunder\n|image     = Thundering Mephis Icon.png\n|dmgtype   = Electro\n|weakpoint = Unknown\n|echo      = Yes\n|class     = Overlord\n|family    = Tacet Discord\n|group     = Whisperin\n|nation    = Huanglong\n|region    = Desorock Highland\n|area      = Withering Frontline\n|drops     = Thundering Tacet Core\n}}\n{{Description|An Overlord Class Whisperin TD found in [[Desorock Highland]]. It demonstrates combat abilities similar to those of a human.}}\u003c!--\n--\u003e{{Lang|Thundering Mephis|zh=云闪之鳞}} is an [[Overlord Class]] [[Boss]] in ''[[Wuthering Waves]]'' that can be found in {{Location|Withering Frontline|nocat=1}}. \n\n==Drops==\n{{Boss Rewards|regular=1|exclusive=Thundering Tacet Core}} \n\n==Stats==\n{{Enemy Stats}} \n\n==Abilities== \n\n==Trophies==\n{{Trophies|Thundering Mephis (Boss)|customheader=Thundering Mephis}} \n\n==Description==\n{{Description|This enemy has {{Color|help|higher RES}} to {{Color|Havoc DMG}}.\u003cbr/\u003eA powerful TD based in Desorock Highland with the power of thunder. It is considered one of the vanguards in the [[Threnodian]]’s army.|Description When Discovered}} \n\n==Other Languages==\n{{Other Languages\n|en     = Thundering Mephis\n|zhs    = 云闪之鳞\n|zht    = 雲閃之鱗\n|ja     = 雲閃のウロコ\n|ko     = 뇌운의 비늘\n|es     = Mephis Trueno\n|fr     = Mephis éclatant\u003cref\u003eThe correct French translation should have been \"Mephis tonnerre,\" but it is already used for [[Tempest Mephis]], which should have been \"Mephis tempête.\"\u003c/ref\u003e\n|de     = Donnernder Mephis\n|th     = \n}} \n\n==Change History==\n{{Change History|1.0}} \n\n==References==\n{{Reflist}} \n\n==Navigation==\n{{Enemy Navbox}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Drops",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Stats",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Abilities",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Trophies",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Description",
+      "number": "5",
+      "index": "5"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "6",
+      "index": "6"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "7",
+      "index": "7"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "8",
+      "index": "8"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Navigation",
+      "number": "9",
+      "index": "9"
+    }
+  ]
+}

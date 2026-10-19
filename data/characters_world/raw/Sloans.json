@@ -1,0 +1,37 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:04:29Z",
+  "title": "Sloans",
+  "pageid": 39057,
+  "wikitext": "{{stub}}\n{{NPC Infobox\n|name=Sloans\n|type= Open-World\n|image=NPC Sloans.png\n|nation=Lahai-Roi\n|location=Startorch Academy - Teaching Zone\n|affiliation=Rabelle College}}\n\n'''Sloans''' is a NPC male student, found asking Professor '''[[Pepys]]''' about Royan Culture. \n\n==Dialogue==\n{{Dialogue Start}}\n:'''Sloan:''' Professor Pepys, the textbook doesn't seem to cover the Reactor Drive algorithms the Solisylum uses.\n:'''Pepys:''' That's outside the scope of this Royan Culture course. But if you're curious, you could always take the Solis Lens Array Engineering elective.\n:'''Pepys:''' They get into the nitty-gritty of the Drive's operations. The Academy and the Solisylum use different algorithms, but they're both trying to solve the same puzzle.\n:'''Pepys:''' What a coincidence, I happened to have a physical copy of \"Solis Method: An Introduction\" with me...\n:'''Sloan:''' That thing's a brick! Are you sure this is just an introduction?\n:'''Pepys:''' Yes, it is. Royan calculation methods are really complex and precise.\n:'''Pepys:''' If you're interested, you could ask [[Stanik]], or even visit the Roya settlements to learn more.\n{{Dialogue End}}\n\n==Quests and Events==\n{{Quests and Events}}\n\n==Character Mentions==\n{{Character Mentions}}\n\n{{Other Languages\n|en   = Sloan\n|zhs  = 斯隆\n|zht  = 斯隆\n|ja   = スローン\n|ko   = 슬로안\n|fr   = Sloan\n|de   = Sloan\n|es   = Sloan\n|th   = Sloan\n}}\n\n==Change History==\n{{Change History|3.0}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Character Mentions",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    }
+  ]
+}

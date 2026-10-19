@@ -15,6 +15,7 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
+	"sync"
 	"time"
 
 	"github.com/ajieblr-dev/wuwaRAG/internal/config"
@@ -37,6 +38,7 @@ func main() {
 	rawDir := flag.String("raw-dir", "data/raw", "Directory for raw wiki JSON dumps")
 	outFile := flag.String("out", "data/processed/chunks.json", "Destination for processed chunks JSON")
 	datasetCode := flag.String("dataset-code", "lore-corpus-v1", "Code name identifier for this batch of data")
+	concurrency := flag.Int("concurrency", 1, "Number of concurrent workers for live fetching/processing")
 	timeout := flag.Duration("timeout", 45*time.Minute, "Overall context timeout for ingestion")
 	flag.Parse()
 
@@ -85,7 +87,7 @@ func main() {
 
 	var allChunks []parser.Chunk
 
-	for i, title := range pages {
+	processPage := func(i int, title string) []parser.Chunk {
 		var page *fetcher.WikiPage
 		var err error
 
@@ -101,7 +103,7 @@ func main() {
 			page, err = fetchClient.FetchPage(ctx, title)
 			if err != nil {
 				log.Printf("ERROR: [%d/%d] failed to fetch %q: %v", i+1, len(pages), title, err)
-				continue
+				return nil
 			}
 			if *datasetCode != "" {
 				page.DatasetCode = *datasetCode
@@ -121,7 +123,7 @@ func main() {
 		}
 
 		if *gatherOnly {
-			continue
+			return nil
 		}
 
 		chunks := parser.ParseIntoChunks(page.Title, page.Wikitext, *chunkSize, *overlap)
@@ -137,7 +139,64 @@ func main() {
 			}
 			chunks[ci].Metadata["dataset_code"] = code
 		}
-		allChunks = append(allChunks, chunks...)
+		return chunks
+	}
+
+	if *concurrency > 1 {
+		type job struct {
+			idx   int
+			title string
+		}
+		type res struct {
+			idx    int
+			chunks []parser.Chunk
+		}
+		jobs := make(chan job, len(pages))
+		results := make(chan res, len(pages))
+
+		for i, title := range pages {
+			jobs <- job{idx: i, title: title}
+		}
+		close(jobs)
+
+		var wg sync.WaitGroup
+		for w := 0; w < *concurrency; w++ {
+			wg.Add(1)
+			go func() {
+				defer wg.Done()
+				for j := range jobs {
+					chunks := processPage(j.idx, j.title)
+					results <- res{idx: j.idx, chunks: chunks}
+				}
+			}()
+		}
+
+		go func() {
+			wg.Wait()
+			close(results)
+		}()
+
+		chunkMap := make(map[int][]parser.Chunk)
+		for r := range results {
+			if len(r.chunks) > 0 {
+				chunkMap[r.idx] = r.chunks
+			}
+		}
+
+		if !*gatherOnly {
+			for i := 0; i < len(pages); i++ {
+				if chs, ok := chunkMap[i]; ok {
+					allChunks = append(allChunks, chs...)
+				}
+			}
+		}
+	} else {
+		for i, title := range pages {
+			chs := processPage(i, title)
+			if !*gatherOnly && len(chs) > 0 {
+				allChunks = append(allChunks, chs...)
+			}
+		}
 	}
 
 	if *gatherOnly {
@@ -149,17 +208,17 @@ func main() {
 		log.Fatal("no chunks produced; nothing to index")
 	}
 
+	if *dryRun {
+		previewChunks(allChunks)
+		log.Printf("dry-run complete: %d chunk(s), output and Qdrant untouched", len(allChunks))
+		return
+	}
+
 	// Persist processed chunks for reproducible offline runs.
 	if err := saveChunks(allChunks, *outFile); err != nil {
 		log.Printf("WARNING: failed to write %s: %v", *outFile, err)
 	} else {
 		log.Printf("wrote %d chunks -> %s", len(allChunks), *outFile)
-	}
-
-	if *dryRun {
-		previewChunks(allChunks)
-		log.Printf("dry-run complete: %d chunk(s), Qdrant untouched", len(allChunks))
-		return
 	}
 
 	// Full ingestion: embed and upsert.

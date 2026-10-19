@@ -1,0 +1,44 @@
+{
+  "dataset_code": "characters-world-v1",
+  "gathered_at": "2026-10-19T06:02:23Z",
+  "title": "Fabrizio",
+  "pageid": 26088,
+  "wikitext": "{{Stub}}{{NPC Infobox\n|name             = Fabrizio\n|image            = NPC Fabrizio.png\n|type             = Open-World\n|nation           = Rinascita\n|location         = Ragunna\n|group            = \n|affiliation      = \n}}'''Fabrizio''' is an NPC in {{Location|Ragunna|nocat=1}}.\n==Quests and Events==\n{{Quests and Events}}\n==Dialogue==\n==Other Languages==\n{{Other Languages\n|en   = Fabrizio\n|zhs  = 法比齐奥\n|zht  = 法比齊奧\n|ja   = ファブリツィオ\n|ko   = 파비치오\n|es   = Fabrizio\n|fr   = Fabrizio\n|de   = Fabrizio\n}}\n==Change History==\n{{Change History|2.0}}\n==References==\n{{Reflist}}",
+  "sections": [
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Quests and Events",
+      "number": "1",
+      "index": "1"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Dialogue",
+      "number": "2",
+      "index": "2"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Other Languages",
+      "number": "3",
+      "index": "3"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "Change History",
+      "number": "4",
+      "index": "4"
+    },
+    {
+      "toclevel": 1,
+      "level": "2",
+      "line": "References",
+      "number": "5",
+      "index": "5"
+    }
+  ]
+}
