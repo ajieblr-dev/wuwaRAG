@@ -15,12 +15,33 @@
   /* ── 0. Base URL Resolver ── */
   const API_BASE = (function () {
     if (typeof window !== "undefined" && window.location) {
-      if (window.location.protocol === "http:" || window.location.protocol === "https:") {
-        // If served from dev servers (e.g. Vite 5173, Next 3000, LiveServer 5500), proxy to 8080
-        if (window.location.port === "5173" || window.location.port === "3000" || window.location.port === "5500") {
-          return `${window.location.protocol}//${window.location.hostname}:8080`;
+      if (window.WUWA_API_BASE) return window.WUWA_API_BASE;
+      try {
+        const stored = localStorage.getItem("ra-api-base");
+        if (stored) return stored;
+      } catch (_) {}
+
+      const proto = window.location.protocol;
+      const host = window.location.hostname || "localhost";
+      const port = window.location.port;
+
+      if (proto === "http:" || proto === "https:") {
+        // Direct access on the Go backend port
+        if (port === "8080") {
+          return "";
         }
-        // When served from the Go server directly on any port or reverse proxy, use relative path
+
+        // Standard production web ports (behind reverse proxy / ALB / CloudFront)
+        if (port === "" || port === "80" || port === "443") {
+          return "";
+        }
+
+        // When browsing via a separate local dev server (e.g. python -m http.server 8000,
+        // LiveServer 5500, Vite 5173, Node 3000, etc.), route API calls to the Go backend on 8080.
+        if (host === "localhost" || host === "127.0.0.1") {
+          return `${proto}//${host}:8080`;
+        }
+
         return "";
       }
     }
