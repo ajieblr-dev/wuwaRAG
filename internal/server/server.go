@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"log"
 	"net/http"
 	"os"
 	"path/filepath"
@@ -820,9 +821,19 @@ func (s *Server) handleChat(c *gin.Context) {
 	}
 
 	// 2. Resolve or create thread
-	threadID := req.ThreadID
+	threadID := strings.TrimSpace(req.ThreadID)
 	if s.db != nil && userID != "" {
-		if threadID == "" {
+		needNewThread := (threadID == "")
+		if !needNewThread {
+			// Verify if the thread actually exists in the database for this user
+			_, _, err := s.db.GetThreadWithMessages(c.Request.Context(), userID, threadID)
+			if err != nil {
+				// Thread does not exist in DB (e.g. client-generated temporary ID)
+				needNewThread = true
+			}
+		}
+
+		if needNewThread {
 			tTitle := strings.TrimSpace(req.Question)
 			if len(tTitle) > 48 {
 				tTitle = tTitle[:48] + "…"
@@ -834,7 +845,10 @@ func (s *Server) handleChat(c *gin.Context) {
 		}
 
 		if threadID != "" {
-			_, _ = s.db.AddMessage(c.Request.Context(), threadID, userID, "user", req.Question, "", "")
+			_, err := s.db.AddMessage(c.Request.Context(), threadID, userID, "user", req.Question, "", "")
+			if err != nil {
+				log.Printf("Warning: failed to add user message to thread %s: %v", threadID, err)
+			}
 		}
 	}
 
@@ -855,7 +869,10 @@ func (s *Server) handleChat(c *gin.Context) {
 			"latency_ms":   res.LatencyMs,
 			"total_tokens": res.TotalTokens,
 		})
-		_, _ = s.db.AddMessage(c.Request.Context(), threadID, userID, "assistant", res.Answer, string(sourcesJSON), string(metaJSON))
+		_, err := s.db.AddMessage(c.Request.Context(), threadID, userID, "assistant", res.Answer, string(sourcesJSON), string(metaJSON))
+		if err != nil {
+			log.Printf("Warning: failed to add assistant message to thread %s: %v", threadID, err)
+		}
 	}
 
 	c.JSON(http.StatusOK, gin.H{

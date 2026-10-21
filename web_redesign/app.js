@@ -956,8 +956,8 @@
         if (res.ok) {
           const data = await res.json();
           if (data && Array.isArray(data.threads)) {
-            threads = data.threads.map(st => {
-              const local = (threads || []).find(lt => lt.id === st.id);
+            const serverThreads = data.threads.map(st => {
+              const local = (threads || []).find(lt => lt && lt.id === st.id);
               return {
                 id: st.id,
                 title: st.title,
@@ -966,6 +966,11 @@
                 messages: (local && local.messages && local.messages.length > 0) ? local.messages : []
               };
             });
+
+            // Retain any local threads that are unsynced or newly created
+            const unSyncedLocal = (threads || []).filter(lt => lt && !serverThreads.some(st => st.id === lt.id));
+            threads = [...serverThreads, ...unSyncedLocal];
+
             Storage.set("threads", threads);
             renderHistory();
           }
@@ -1131,7 +1136,9 @@
       // Determine or create thread
       if (!Array.isArray(threads)) threads = [];
       let thread = threads.find(t => t && t.id === currentThreadId);
+      let isNewThread = false;
       if (!thread) {
+        isNewThread = true;
         thread = {
           id: "th-" + Date.now().toString(36) + "-" + Math.random().toString(36).slice(2, 6),
           title: q.slice(0, 48) + (q.length > 48 ? "…" : ""),
@@ -1222,7 +1229,7 @@
           body: JSON.stringify({
             question: q,
             history: historyPayload,
-            thread_id: currentThreadId
+            thread_id: isNewThread ? "" : (currentThreadId || "")
           })
         });
 
@@ -1263,8 +1270,13 @@
         }
 
         if (data.thread_id && thread) {
+          const oldId = thread.id;
           thread.id = data.thread_id;
           currentThreadId = data.thread_id;
+          Storage.set("active-thread-id", data.thread_id);
+          if (oldId !== data.thread_id) {
+            Storage.set("threads", threads);
+          }
         }
 
         const assistantMsg = {

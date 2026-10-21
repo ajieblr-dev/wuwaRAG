@@ -418,3 +418,122 @@ func TestAdminPrivilegesAndEndpointProtection(t *testing.T) {
 		t.Errorf("User quota not reset: count=%d, limit=%d", updatedUser.QuestionCount, updatedUser.QuestionLimit)
 	}
 }
+
+func TestChatWithNewOrNonExistentThreadIDCreatesThreadAndPersistsMessages(t *testing.T) {
+	qdrantMux := http.NewServeMux()
+	qdrantMux.HandleFunc("/collections/wuwa_lore/points/search", func(w http.ResponseWriter, r *http.Request) {
+		res := map[string]interface{}{
+			"result": []map[string]interface{}{
+				{
+					"id":      "chunk-1",
+					"score":   0.9,
+					"payload": map[string]interface{}{"title": "Mount Firmament", "content": "Mount Firmament is situated..."},
+				},
+			},
+			"status": "ok",
+		}
+		_ = json.NewEncoder(w).Encode(res)
+	})
+	qdrantServer := httptest.NewServer(qdrantMux)
+	defer qdrantServer.Close()
+
+	llmMux := http.NewServeMux()
+	llmMux.HandleFunc("/v1/chat/completions", func(w http.ResponseWriter, r *http.Request) {
+		res := map[string]interface{}{
+			"model": "wuwa-lore-model",
+			"choices": []map[string]interface{}{
+				{"message": map[string]interface{}{"role": "assistant", "content": "Mount Firmament is in the southeastern waters."}},
+			},
+			"usage": map[string]interface{}{"total_tokens": 55},
+		}
+		_ = json.NewEncoder(w).Encode(res)
+	})
+	llmServer := httptest.NewServer(llmMux)
+	defer llmServer.Close()
+
+	tmpDir := t.TempDir()
+	database, _ := db.New(filepath.Join(tmpDir, "chat_new_thread.db"))
+	defer database.Close()
+
+	jwtSecret := "test-secret"
+	qClient := qdrant.NewClient(qdrantServer.URL)
+	embedder := rag.NewHuggingFaceEmbedder("", "", "", 384)
+	llmClient := rag.NewLLMClient(llmServer.URL, "dummy-key", "wuwa-lore-model", "", "")
+	ragService := rag.NewService(qClient, embedder, llmClient, "wuwa_lore", 5, 0.1)
+	fetchClient := fetcher.NewClient("")
+
+	srv := NewServer(ragService, qClient, embedder, fetchClient, "wuwa_lore", "Simulacrum_of_the_Heart", database, jwtSecret, 5)
+
+	user, err := database.CreateUser(context.Background(), "session_user", "session@solaris.org", "pwd", "admin", -1)
+	if err != nil {
+		t.Fatalf("Failed to create user: %v", err)
+	}
+	token, _ := auth.GenerateToken(jwtSecret, user.ID, user.Username, user.Role, 0)
+
+	// User sends a question with a client-generated fake thread ID (e.g. from starting a new topic)
+	clientFakeID := "th-client-temporary-session-123"
+	chatPayload, _ := json.Marshal(map[string]interface{}{
+		"question":  "Where is Mount Firmament?",
+		"thread_id": clientFakeID,
+	})
+
+	req, _ := http.NewRequest(http.MethodPost, "/api/v1/chat", bytes.NewReader(chatPayload))
+	req.Header.Set("Content-Type", "application/json")
+	req.Header.Set("Authorization", "Bearer "+token)
+
+	w := httptest.NewRecorder()
+	srv.Router().ServeHTTP(w, req)
+
+	if w.Code != http.StatusOK {
+		t.Fatalf("Expected 200 OK, got %d: %s", w.Code, w.Body.String())
+	}
+
+	var resp map[string]interface{}
+	if err := json.Unmarshal(w.Body.Bytes(), &resp); err != nil {
+		t.Fatalf("Failed to decode response: %v", err)
+	}
+
+	returnedThreadID, ok := resp["thread_id"].(string)
+	if !ok || returnedThreadID == "" {
+		t.Fatalf("Expected valid thread_id in chat response, got %v", resp["thread_id"])
+	}
+
+	// Verify that the thread actually exists in the database
+	threads, err := database.ListThreads(context.Background(), user.ID)
+	if err != nil || len(threads) == 0 {
+		t.Fatalf("Expected thread to be persisted in database, got %v (len: %d)", err, len(threads))
+	}
+	if threads[0].ID != returnedThreadID {
+		t.Errorf("Expected database thread ID %s, got %s", returnedThreadID, threads[0].ID)
+	}
+
+	// Verify that both user and assistant messages were saved in the thread
+	_, msgs, err := database.GetThreadWithMessages(context.Background(), user.ID, returnedThreadID)
+	if err != nil {
+		t.Fatalf("Failed to get thread with messages: %v", err)
+	}
+	if len(msgs) != 2 {
+		t.Fatalf("Expected 2 messages (user + assistant), got %d", len(msgs))
+	}
+	if msgs[0].Role != "user" || msgs[0].Content != "Where is Mount Firmament?" {
+		t.Errorf("Unexpected user message: %+v", msgs[0])
+	}
+	if msgs[1].Role != "assistant" || msgs[1].Content == "" {
+		t.Errorf("Unexpected assistant message: %+v", msgs[1])
+	}
+
+	// Verify GET /api/v1/threads HTTP endpoint returns this thread
+	reqList, _ := http.NewRequest(http.MethodGet, "/api/v1/threads", nil)
+	reqList.Header.Set("Authorization", "Bearer "+token)
+	wList := httptest.NewRecorder()
+	srv.Router().ServeHTTP(wList, reqList)
+
+	if wList.Code != http.StatusOK {
+		t.Fatalf("Expected GET /api/v1/threads 200, got %d", wList.Code)
+	}
+	var listResp map[string][]interface{}
+	_ = json.Unmarshal(wList.Body.Bytes(), &listResp)
+	if len(listResp["threads"]) != 1 {
+		t.Errorf("Expected 1 thread in GET /api/v1/threads response, got %d", len(listResp["threads"]))
+	}
+}
