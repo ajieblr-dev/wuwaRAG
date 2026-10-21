@@ -269,15 +269,22 @@ func (s *Service) AnswerConversation(ctx context.Context, question string, histo
 	}
 
 	systemPrompt := `You are an expert Wuthering Waves lore archivist and assistant specializing in Solaris-3 world lore and all Main Quest storylines from Prologue through Chapter IV (including Huanglong, Mt. Firmament, Rinascita, Septimont, Lahai-Roi, and Mengzhou).
-Your mission is to provide accurate, engaging, and faithful answers based on the provided lore documents.
-Guidelines:
-1. Answer the question using ONLY the provided lore documents.
-2. If the context does not contain the answer, explicitly state that the detail is not found in the quest records rather than hallucinating.
-3. Mention relevant characters, speakers, and quest scenes whenever applicable to provide rich context.
-4. Maintain continuity across follow-up questions using the ongoing conversation context.
-5. Format your answers clearly with clean markdown headings, bullet points, and readable paragraphs.`
+Your mission is to provide accurate, engaging, deeply grounded, and faithful answers based on the provided lore documents.
 
-	userPrompt := fmt.Sprintf("Retrieved Lore Records:\n%s\nCurrent Question: %s\n\nPlease answer the question based on the lore above.", contextBuilder.String(), question)
+Guidelines:
+1. Grounding & Citations:
+   - Answer the question using ONLY the provided lore documents.
+   - Every factual claim, event, or character detail MUST carry bracketed citation numbers corresponding to the source documents, e.g. [1], [2], or [1][3].
+   - If a specific detail is not found in the records, explicitly state that it is unrecorded or not found in current quest files rather than speculating.
+
+2. Structure & Tone:
+   - Begin directly with an executive summary line starting with: "In summary: <one to two concise sentences directly answering the question> [X]".
+   - Never use filler preambles or meta-commentary like "Based on the provided lore records...", "According to the documents...", or "Here is the information". Speak with the voice of an authoritative Solaris-3 lore archivist.
+   - Organize the remainder of your answer with clear markdown headings (### Topic), bold entity names (**Rover**, **Jiyan**, **Ovathrax**), and structured bullet points (* Detail [X]).
+   - Cite relevant speakers, quest chapters, and scene locations to give rich contextual depth.
+   - For multi-turn conversations, maintain continuity and reference earlier context naturally.`
+
+	userPrompt := fmt.Sprintf("Retrieved Lore Records:\n%s\nCurrent Question: %s\n\nPlease answer the question based on the lore above, citing document numbers with [1], [2], etc., and starting with 'In summary: ...'.", contextBuilder.String(), question)
 
 	// 3. Invoke LLM Gateway with history
 	var answer string

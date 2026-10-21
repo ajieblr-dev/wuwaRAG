@@ -322,25 +322,30 @@
     // Blockquotes
     html = html.replace(/^>\s?(.*$)/gim, "\n\n<blockquote>$1</blockquote>\n\n");
 
-    // Headers
+    // Summary callout detection (supports "In summary:", "Summary:", etc.)
+    html = html.replace(/^(?:(?:\*\*In summary:\*\*|\*\*Summary:\*\*|In summary:|Summary:|Key takeaway:|Takeaway:)\s*)(.*$)/gim, 
+      "\n\n<div class=\"ra-answer-summary-box\"><div class=\"ra-summary-label\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>IN SUMMARY</div><p>$1</p></div>\n\n"
+    );
+
+    // Headers (cleanly strips outer markdown bold formatting inside headings)
+    html = html.replace(/^### \*\*?(.*?)\*\*?$/gim, "\n\n<h3>$1</h3>\n\n");
     html = html.replace(/^### (.*$)/gim, "\n\n<h3>$1</h3>\n\n");
+    html = html.replace(/^## \*\*?(.*?)\*\*?$/gim, "\n\n<h2>$1</h2>\n\n");
     html = html.replace(/^## (.*$)/gim, "\n\n<h2>$1</h2>\n\n");
     html = html.replace(/^# (.*$)/gim, "\n\n<h2>$1</h2>\n\n");
+
+    // Bullet lists (processed BEFORE italics so bullet asterisks are not mangled into em tags)
+    html = html.replace(/^\s*[\*\-]\s+(.*$)/gim, "<li>$1</li>");
+    html = html.replace(/((?:<li>.*?<\/li>\s*)+)/gi, (m) => "\n\n<ul>" + m.trim() + "</ul>\n\n");
+
+    // Numbered lists
+    html = html.replace(/^\s*\d+\.\s+(.*$)/gim, "<li>$1</li>");
 
     // Bold & Italic
     html = html.replace(/\*\*\*(.*?)\*\*\*/gim, "<strong><em>$1</em></strong>");
     html = html.replace(/\*\*(.*?)\*\*/gim, "<strong>$1</strong>");
-    html = html.replace(/\*(.*?)\*/gim, "<em>$1</em>");
-
-    // Summary callout detection
-    html = html.replace(/^(?:(?:In summary|Summary|Key takeaway|Takeaway):?\s*)(.*$)/gim, 
-      "\n\n<div class=\"ra-answer-summary-box\"><div class=\"ra-summary-label\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.5\"><polyline points=\"20 6 9 17 4 12\"></polyline></svg>IN SUMMARY</div><p>$1</p></div>\n\n"
-    );
-
-    // Bullet lists
-    html = html.replace(/^\* (.*$)/gim, "<li>$1</li>");
-    html = html.replace(/^- (.*$)/gim, "<li>$1</li>");
-    html = html.replace(/((?:<li>.*?<\/li>\s*)+)/gi, (m) => "\n\n<ul>" + m.trim() + "</ul>\n\n");
+    html = html.replace(/(?<!\*)\*([^*\n]+?)\*(?!\*)/gim, "<em>$1</em>");
+    html = html.replace(/_([^_]+)_/gim, "<em>$1</em>");
 
     // Paragraph blocks (split by double newlines)
     const blocks = html.split(/\n\n+/);
