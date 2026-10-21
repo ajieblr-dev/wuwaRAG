@@ -196,8 +196,13 @@ func (c *LLMClient) callOpenAICompatible(ctx context.Context, endpoint, apiKey, 
 		return nil, fmt.Errorf("no completion choices returned")
 	}
 
+	ans := strings.TrimSpace(chatCompletion.Choices[0].Message.Content)
+	if ans == "" {
+		return nil, fmt.Errorf("model returned empty answer")
+	}
+
 	return &ChatResponse{
-		Answer:       strings.TrimSpace(chatCompletion.Choices[0].Message.Content),
+		Answer:       ans,
 		Model:        chatCompletion.Model,
 		TotalTokens:  chatCompletion.Usage.TotalTokens,
 		PromptTokens: chatCompletion.Usage.PromptTokens,
@@ -205,7 +210,7 @@ func (c *LLMClient) callOpenAICompatible(ctx context.Context, endpoint, apiKey, 
 }
 
 func (c *LLMClient) callGeminiDirect(ctx context.Context, systemPrompt string, history []ChatMessage, userQuery string) (*ChatResponse, error) {
-	endpoint := fmt.Sprintf("https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent?key=%s", c.geminiKey)
+	endpoint := fmt.Sprintf("https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key=%s", c.geminiKey)
 
 	contents := make([]map[string]interface{}, 0, len(history)+1)
 	for _, h := range history {
@@ -287,9 +292,20 @@ func (c *LLMClient) callGeminiDirect(ctx context.Context, systemPrompt string, h
 		return nil, fmt.Errorf("gemini returned no candidates")
 	}
 
+	var sb strings.Builder
+	for _, p := range geminiResp.Candidates[0].Content.Parts {
+		if p.Text != "" {
+			sb.WriteString(p.Text)
+		}
+	}
+	answer := strings.TrimSpace(sb.String())
+	if answer == "" {
+		return nil, fmt.Errorf("gemini returned empty content")
+	}
+
 	return &ChatResponse{
-		Answer:       strings.TrimSpace(geminiResp.Candidates[0].Content.Parts[0].Text),
-		Model:        "gemini-3.1-flash-lite (direct fallback)",
+		Answer:       answer,
+		Model:        "gemini-3.8-flash (direct fallback)",
 		TotalTokens:  geminiResp.UsageMetadata.TotalTokenCount,
 		PromptTokens: geminiResp.UsageMetadata.PromptTokenCount,
 	}, nil

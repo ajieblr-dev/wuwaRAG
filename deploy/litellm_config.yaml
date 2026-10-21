@@ -1,17 +1,24 @@
 model_list:
-  # Primary Model: Google Gemini 3.1 Flash Lite
+  # Primary Model: Google Gemini 3.8 Flash (High availability, fast reasoning)
   - model_name: wuwa-lore-model
     litellm_params:
-      model: gemini/gemini-3.1-flash-lite
+      model: gemini/gemini-3.8-flash
       api_key: os.environ/GEMINI_API_KEY
-      rpm: 30
+      rpm: 60
 
-  # Secondary Gemini model fallback
+  # Secondary Gemini model fallback: Gemini 3.5 Flash
   - model_name: wuwa-lore-gemini-pro
     litellm_params:
       model: gemini/gemini-3.5-flash
       api_key: os.environ/GEMINI_API_KEY
-      rpm: 30
+      rpm: 60
+
+  # Tertiary Gemini fallback: Gemini 3.1 Flash Lite
+  - model_name: wuwa-lore-gemini-lite
+    litellm_params:
+      model: gemini/gemini-3.1-flash-lite
+      api_key: os.environ/GEMINI_API_KEY
+      rpm: 60
 
   # Fallback Model: Groq Llama 3.3 70B Versatile
   - model_name: wuwa-lore-fallback
@@ -23,7 +30,7 @@ model_list:
   # Direct alias mappings for individual testing
   - model_name: gemini-flash
     litellm_params:
-      model: gemini/gemini-3.1-flash-lite
+      model: gemini/gemini-3.8-flash
       api_key: os.environ/GEMINI_API_KEY
 
   - model_name: groq-llama
@@ -31,21 +38,14 @@ model_list:
       model: groq/llama-3.3-70b-versatile
       api_key: os.environ/GROQ_API_KEY
 
-  # HuggingFace Embedding Model via LiteLLM
-  - model_name: all-MiniLM-L6-v2
-    litellm_params:
-      model: huggingface/sentence-transformers/all-MiniLM-L6-v2
-      api_key: os.environ/HUGGINGFACE_API_KEY
-
 router_settings:
   # Automatic failover when primary encounters rate limits, timeouts, or quota errors
   fallbacks:
-    - wuwa-lore-model: ["wuwa-lore-gemini-pro", "wuwa-lore-fallback"]
-    - gemini-flash: ["groq-llama"]
-  num_retries: 3
-  timeout: 30
+    - wuwa-lore-model: ["wuwa-lore-gemini-pro", "wuwa-lore-gemini-lite"]
+  num_retries: 2
+  timeout: 25
   retry_policy:
-    RateLimitError: 3
+    RateLimitError: 2
     APIConnectionError: 2
     Timeout: 2
 
