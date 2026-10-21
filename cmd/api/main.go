@@ -5,6 +5,7 @@ import (
 	"log"
 
 	"github.com/ajieblr-dev/wuwaRAG/internal/config"
+	"github.com/ajieblr-dev/wuwaRAG/internal/db"
 	"github.com/ajieblr-dev/wuwaRAG/internal/fetcher"
 	"github.com/ajieblr-dev/wuwaRAG/internal/qdrant"
 	"github.com/ajieblr-dev/wuwaRAG/internal/rag"
@@ -13,6 +14,13 @@ import (
 
 func main() {
 	cfg := config.Load()
+
+	database, err := db.New(cfg.DBPath)
+	if err != nil {
+		log.Fatalf("failed to initialize sqlite database at %s: %v", cfg.DBPath, err)
+	}
+	defer database.Close()
+	log.Printf("SQLite database initialized at %s", cfg.DBPath)
 
 	fetchClient := fetcher.NewClient(cfg.WikiAPIURL)
 	qdrantClient := qdrant.NewClient(cfg.QdrantURL)
@@ -50,6 +58,9 @@ func main() {
 		fetchClient,
 		cfg.Collection,
 		cfg.DefaultWikiPage,
+		database,
+		cfg.JWTSecret,
+		cfg.DefaultQuestionLimit,
 	)
 
 	addr := ":" + cfg.Port

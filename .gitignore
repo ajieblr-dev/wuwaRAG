@@ -24,3 +24,11 @@ github-credential
 
 # Recap documentation folder
 recap/
+
+# SQLite databases
+*.db
+*.db-wal
+*.db-shm
+data/*.db
+data/*.db-wal
+data/*.db-shm

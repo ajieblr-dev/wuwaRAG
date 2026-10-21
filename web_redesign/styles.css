@@ -2995,3 +2995,203 @@ body.ra-reader-page .ra-topbar-inner {
   background-color: var(--surface-muted);
   border-top: 1px solid var(--border);
 }
+
+/* ── Authentication & Quota System Styles ── */
+.ra-auth-section {
+  display: flex;
+  align-items: center;
+}
+
+.ra-user-profile {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.ra-user-name {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.ra-quota-badge {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 500;
+  padding: 3px 8px;
+  border-radius: 9999px;
+  background-color: var(--surface-muted);
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  display: inline-flex;
+  align-items: center;
+}
+
+.ra-quota-badge.ra-quota-admin {
+  background-color: rgba(209, 160, 84, 0.15);
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.ra-quota-badge.ra-quota-exhausted {
+  background-color: rgba(239, 68, 68, 0.15);
+  border-color: var(--danger);
+  color: var(--danger);
+}
+
+.ra-btn-logout {
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  color: var(--text-muted);
+  font-size: 11px;
+  padding: 3px 8px;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.ra-btn-logout:hover {
+  background-color: var(--surface-muted);
+  color: var(--text-primary);
+  border-color: var(--border-strong);
+}
+
+.ra-quota-banner {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  background-color: rgba(239, 68, 68, 0.1);
+  border: 1px solid rgba(239, 68, 68, 0.35);
+  border-radius: var(--radius-md);
+  color: var(--danger);
+  font-family: var(--font-sans);
+  font-size: 13px;
+  line-height: 1.4;
+  margin-bottom: 12px;
+}
+
+.ra-quota-banner svg {
+  flex-shrink: 0;
+}
+
+.ra-auth-modal-card {
+  max-width: 420px;
+  width: 92%;
+  background-color: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 24px 48px rgba(0, 0, 0, 0.45);
+  overflow: hidden;
+}
+
+#ra-auth-modal.is-open {
+  display: flex !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+
+#ra-auth-modal.is-open .ra-auth-modal-card {
+  transform: scale(1) translateY(0) !important;
+}
+
+.ra-modal-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-4) var(--space-5);
+  border-bottom: 1px solid var(--border);
+}
+
+.ra-modal-tabs {
+  display: flex;
+  background-color: var(--surface-muted);
+  padding: 3px;
+  border-radius: var(--radius-sm);
+  gap: 2px;
+}
+
+.ra-modal-tab {
+  background: transparent;
+  border: none;
+  padding: 6px 14px;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-muted);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.ra-modal-tab.active {
+  background-color: var(--surface);
+  color: var(--text-primary);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.ra-auth-form {
+  padding: var(--space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.ra-form-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.ra-form-field label {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+.ra-form-input {
+  background-color: var(--surface-muted);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 10px 12px;
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  outline: none;
+  transition: border-color var(--transition-fast);
+}
+
+.ra-form-input:focus {
+  border-color: var(--accent);
+}
+
+.ra-form-error {
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  background-color: rgba(239, 68, 68, 0.15);
+  border: 1px solid var(--danger);
+  color: var(--danger);
+  font-size: 12.5px;
+  font-family: var(--font-sans);
+}
+
+.ra-form-hint {
+  font-family: var(--font-sans);
+  font-size: 11.5px;
+  color: var(--text-muted);
+  text-align: center;
+  margin: 4px 0 0;
+}
+
+.ra-btn-block {
+  width: 100%;
+  justify-content: center;
+}
+
+.ra-admin-only,
+#ra-console-btn {
+  display: none;
+}
+

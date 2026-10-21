@@ -5,7 +5,27 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Admin · Resonance Archive</title>
 <link rel="stylesheet" href="/web/styles.css" />
-
+<script>
+(function() {
+  try {
+    var rawUser = localStorage.getItem("ra-user");
+    var token = localStorage.getItem("ra-auth-token");
+    if (!token || !rawUser) {
+      alert("Administrator privileges required. Please sign in with an admin account.");
+      window.location.replace("ask.html?error=admin_required");
+      return;
+    }
+    var user = JSON.parse(rawUser);
+    if (!user || user.role !== "admin") {
+      alert("Access denied: You are logged in as @" + (user.username || "user") + ". Admin privileges are required to access the console.");
+      window.location.replace("ask.html?error=admin_required");
+      return;
+    }
+  } catch (e) {
+    window.location.replace("ask.html?error=admin_required");
+  }
+})();
+</script>
 </head>
 <body>
 <main id="content">

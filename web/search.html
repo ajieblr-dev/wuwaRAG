@@ -5,6 +5,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Semantic search · Resonance Archive</title>
 <link rel="stylesheet" href="styles.css" />
+<script>
+(function() {
+  try {
+    var token = localStorage.getItem("ra-auth-token");
+    if (!token) {
+      window.location.replace("index.html?auth=required&redirect=" + encodeURIComponent("search.html" + window.location.search));
+    }
+  } catch(e) {}
+})();
+</script>
 
 </head>
 <body>

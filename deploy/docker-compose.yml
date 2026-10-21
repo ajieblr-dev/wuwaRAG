@@ -67,8 +67,13 @@ services:
       - DEFAULT_WIKI_PAGE=Simulacrum_of_the_Heart
       - TOP_K=5
       - SCORE_THRESHOLD=0.25
+      - DB_PATH=/app/data/wuwa.db
+      - JWT_SECRET=${JWT_SECRET:-wuwa-rag-secret-jwt-key}
+      - DEFAULT_QUESTION_LIMIT=${DEFAULT_QUESTION_LIMIT:-5}
     volumes:
+      - ../data:/app/data
       - ../web:/app/web:ro
+      - ../web_redesign:/app/web_redesign:ro
     depends_on:
       qdrant:
         condition: service_healthy

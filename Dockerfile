@@ -14,9 +14,10 @@ RUN go mod download
 # Copy source code
 COPY . .
 
-# Build API server and CLI ingestion tool
+# Build API server, CLI ingestion tool, and Admin tool
 RUN CGO_ENABLED=0 GOOS=linux go build -ldflags="-w -s" -o /bin/api ./cmd/api
 RUN CGO_ENABLED=0 GOOS=linux go build -ldflags="-w -s" -o /bin/ingest ./cmd/ingest
+RUN CGO_ENABLED=0 GOOS=linux go build -ldflags="-w -s" -o /bin/admin ./cmd/admin
 
 # Stage 2: Minimal runtime image
 FROM alpine:3.20
@@ -28,9 +29,13 @@ RUN apk add --no-cache ca-certificates tzdata
 # Create unprivileged user
 RUN addgroup -S wuwa && adduser -S wuwa -G wuwa
 
+RUN mkdir -p /app/data && chown -R wuwa:wuwa /app/data
+
 COPY --from=builder /bin/api /app/api
 COPY --from=builder /bin/ingest /app/ingest
+COPY --from=builder /bin/admin /app/admin
 COPY --chown=wuwa:wuwa web /app/web
+COPY --chown=wuwa:wuwa web_redesign /app/web_redesign
 
 USER wuwa
 

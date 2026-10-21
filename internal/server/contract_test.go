@@ -2,20 +2,43 @@ package server
 
 import (
 	"bytes"
+	"context"
 	"encoding/json"
 	"net/http"
 	"net/http/httptest"
 	"testing"
 
+	"github.com/ajieblr-dev/wuwaRAG/internal/auth"
+	"github.com/ajieblr-dev/wuwaRAG/internal/db"
 	"github.com/ajieblr-dev/wuwaRAG/internal/fetcher"
 	"github.com/ajieblr-dev/wuwaRAG/internal/qdrant"
 	"github.com/ajieblr-dev/wuwaRAG/internal/rag"
 )
 
-// newContractServer builds a Server backed by mock Qdrant + mock LiteLLM.
+var contractToken string
+
+// newContractServer builds a Server backed by mock Qdrant + mock LiteLLM + test DB.
 // Uses the deterministic embedder fallback (empty apiKey => no network).
 func newContractServer(t *testing.T) *Server {
 	t.Helper()
+
+	tmpDir := t.TempDir()
+	database, err := db.New(tmpDir + "/test_contract.db")
+	if err != nil {
+		t.Fatalf("failed to init test db: %v", err)
+	}
+	t.Cleanup(func() { _ = database.Close() })
+
+	jwtSecret := "test-contract-jwt-secret"
+	user, err := database.CreateUser(context.Background(), "contract_user", "contract@solaris3.org", "pwd", "user", 5)
+	if err != nil {
+		t.Fatalf("failed to create contract user: %v", err)
+	}
+
+	contractToken, err = auth.GenerateToken(jwtSecret, user.ID, user.Username, user.Role, 0)
+	if err != nil {
+		t.Fatalf("failed to generate contract token: %v", err)
+	}
 
 	qdrantMux := http.NewServeMux()
 	qdrantMux.HandleFunc("/collections/wuwa_lore/points/search", func(w http.ResponseWriter, r *http.Request) {
@@ -69,7 +92,7 @@ func newContractServer(t *testing.T) *Server {
 	ragService := rag.NewService(qClient, embedder, llmClient, "wuwa_lore", 5, 0.1)
 	fetchClient := fetcher.NewClient("")
 
-	return NewServer(ragService, qClient, embedder, fetchClient, "wuwa_lore", "Simulacrum_of_the_Heart")
+	return NewServer(ragService, qClient, embedder, fetchClient, "wuwa_lore", "Simulacrum_of_the_Heart", database, jwtSecret, 5)
 }
 
 func doJSON(t *testing.T, srv *Server, method, path string, body interface{}) (int, map[string]interface{}) {
@@ -82,6 +105,9 @@ func doJSON(t *testing.T, srv *Server, method, path string, body interface{}) (i
 	}
 	req, _ := http.NewRequest(method, path, &buf)
 	req.Header.Set("Content-Type", "application/json")
+	if contractToken != "" {
+		req.Header.Set("Authorization", "Bearer "+contractToken)
+	}
 	w := httptest.NewRecorder()
 	srv.Router().ServeHTTP(w, req)
 	var decoded map[string]interface{}

@@ -16,8 +16,12 @@
   const API_BASE = (function () {
     if (typeof window !== "undefined" && window.location) {
       if (window.location.protocol === "http:" || window.location.protocol === "https:") {
-        if (window.location.port === "8080") return "";
-        return `${window.location.protocol}//${window.location.hostname}:8080`;
+        // If served from dev servers (e.g. Vite 5173, Next 3000, LiveServer 5500), proxy to 8080
+        if (window.location.port === "5173" || window.location.port === "3000" || window.location.port === "5500") {
+          return `${window.location.protocol}//${window.location.hostname}:8080`;
+        }
+        // When served from the Go server directly on any port or reverse proxy, use relative path
+        return "";
       }
     }
     return "http://localhost:8080";
@@ -46,6 +50,152 @@
     }
   };
   RA.Storage = Storage;
+
+  /* ── 1b. Authentication & User Quota Manager ── */
+  const Auth = {
+    getToken() {
+      try {
+        return localStorage.getItem("ra-auth-token") || "";
+      } catch (e) {
+        return "";
+      }
+    },
+    setToken(token) {
+      try {
+        if (token) localStorage.setItem("ra-auth-token", token);
+        else localStorage.removeItem("ra-auth-token");
+      } catch (e) {}
+    },
+    getUser() {
+      return Storage.get("user", null);
+    },
+    setUser(u) {
+      if (u) Storage.set("user", u);
+      else Storage.remove("user");
+    },
+    isAuthenticated() {
+      return !!this.getToken();
+    },
+    isAdmin() {
+      const u = this.getUser();
+      return !!(u && (u.role === "admin" || (u.role && u.role.toLowerCase() === "admin")));
+    },
+    logout() {
+      this.setToken("");
+      this.setUser(null);
+      this.updateUI();
+      RA.toast("Logged out of session", "info");
+      const currentPath = window.location.pathname;
+      if (currentPath.includes("ask.html") || currentPath.includes("search.html")) {
+        window.location.href = "index.html";
+        return;
+      }
+      if (typeof RA.refreshReader === "function") {
+        RA.refreshReader();
+      }
+    },
+    async syncMe() {
+      const token = this.getToken();
+      if (!token) return null;
+      try {
+        const res = await fetch(API_BASE + "/api/v1/auth/me", {
+          headers: { "Authorization": "Bearer " + token }
+        });
+        if (res.ok) {
+          const data = await res.json();
+          if (data && data.user) {
+            this.setUser(data.user);
+            this.updateUI();
+            return data.user;
+          }
+        } else if (res.status === 401) {
+          this.setToken("");
+          this.setUser(null);
+          this.updateUI();
+        }
+      } catch (e) {
+        console.warn("Failed to sync user state:", e);
+      }
+      return null;
+    },
+    updateUI() {
+      const u = this.getUser();
+      const isAuth = this.isAuthenticated() && !!u;
+      const isAdmin = this.isAdmin();
+
+      // 1. Toggle Admin-Only elements (Console / Maintainer links)
+      // Hidden by default; visible only when signed in with admin role
+      const adminEls = document.querySelectorAll(".ra-admin-only, #ra-console-btn");
+      adminEls.forEach(el => {
+        if (isAdmin) {
+          el.style.display = el.tagName === "A" && el.classList.contains("ra-footer-link") ? "block" : "inline-flex";
+        } else {
+          el.style.display = "none";
+        }
+      });
+
+      // 2. Auth widgets in top navigation
+      const signInBtn = document.getElementById("ra-sign-in-btn");
+      const userProfile = document.getElementById("ra-user-profile");
+      const userName = document.getElementById("ra-user-name");
+      const quotaBadge = document.getElementById("ra-quota-badge");
+
+      if (signInBtn) signInBtn.style.display = isAuth ? "none" : "inline-flex";
+      if (userProfile) userProfile.style.display = isAuth ? "inline-flex" : "none";
+
+      if (isAuth && u) {
+        if (userName) userName.textContent = "@" + (u.username || "user");
+        if (quotaBadge) {
+          if (isAdmin) {
+            quotaBadge.textContent = "Admin · Unlimited";
+            quotaBadge.className = "ra-quota-badge ra-quota-admin";
+          } else {
+            const rem = u.questions_remaining !== undefined ? u.questions_remaining : Math.max(0, (u.question_limit || 5) - (u.question_count || 0));
+            quotaBadge.textContent = `${rem} / ${u.question_limit || 5} left`;
+            quotaBadge.className = `ra-quota-badge ${rem <= 0 ? "ra-quota-exhausted" : ""}`;
+          }
+        }
+      }
+
+      // 3. Quota lock on composer (if standard user with 0 remaining)
+      const quotaBanner = document.getElementById("ra-quota-banner");
+      const dockQuotaBanner = document.getElementById("ra-dock-quota-banner");
+      const askBtn = document.getElementById("ra-ask-btn");
+      const dockAskBtn = document.getElementById("ra-dock-ask-btn");
+      const qInput = document.getElementById("ra-question-input");
+      const dockInput = document.getElementById("ra-dock-input");
+
+      const isQuotaExhausted = isAuth && !isAdmin && (u.questions_remaining !== undefined && u.questions_remaining <= 0);
+
+      if (quotaBanner) quotaBanner.style.display = isQuotaExhausted ? "flex" : "none";
+      if (dockQuotaBanner) dockQuotaBanner.style.display = isQuotaExhausted ? "flex" : "none";
+
+      if (isQuotaExhausted) {
+        if (askBtn) askBtn.disabled = true;
+        if (dockAskBtn) dockAskBtn.disabled = true;
+        if (qInput) {
+          qInput.disabled = true;
+          qInput.placeholder = "Question limit reached (5/5). Contact administrator for additional questions.";
+        }
+        if (dockInput) {
+          dockInput.disabled = true;
+          dockInput.placeholder = "Question limit reached (5/5).";
+        }
+      } else {
+        if (qInput && qInput.disabled) {
+          qInput.disabled = false;
+          qInput.placeholder = "Ask about a character, place, sentinel or quest… (e.g. What is Ovathrax Threnodian?)";
+        }
+        if (dockInput && dockInput.disabled) {
+          dockInput.disabled = false;
+          dockInput.placeholder = "Ask a follow-up question (e.g. “What happened next?”, “Tell me more about their fate”)…";
+        }
+        if (askBtn && qInput && qInput.value.trim()) askBtn.disabled = false;
+        if (dockAskBtn && dockInput && dockInput.value.trim()) dockAskBtn.disabled = false;
+      }
+    }
+  };
+  RA.Auth = Auth;
 
   /* ── 2. Theme Management ── */
   RA.initTheme = function () {
@@ -186,6 +336,228 @@
     });
 
     return html;
+  };
+
+  /* ── 5b. Authentication Modal & Flow Controller ── */
+  RA.initAuth = function () {
+    const modal = document.getElementById("ra-auth-modal");
+    const openBtn = document.getElementById("ra-sign-in-btn");
+    const closeBtn = document.getElementById("ra-auth-modal-close");
+    const tabLogin = document.getElementById("ra-tab-login");
+    const tabReg = document.getElementById("ra-tab-register");
+    const loginForm = document.getElementById("ra-login-form");
+    const regForm = document.getElementById("ra-register-form");
+    const loginErr = document.getElementById("ra-login-error");
+    const regErr = document.getElementById("ra-register-error");
+    const logoutBtn = document.getElementById("ra-logout-btn");
+
+    function openModal(mode = "login") {
+      if (!modal) return;
+      modal.removeAttribute("hidden");
+      modal.style.display = "flex";
+      setMode(mode);
+      // Trigger reflow so browser registers display:flex before adding is-open
+      void modal.offsetHeight;
+      modal.classList.add("is-open");
+      const input = mode === "register" ? document.getElementById("ra-reg-username") : document.getElementById("ra-login-username");
+      if (input) setTimeout(() => input.focus(), 60);
+    }
+    RA.openAuthModal = openModal;
+
+    function closeModal() {
+      if (!modal) return;
+      modal.classList.remove("is-open");
+      setTimeout(() => {
+        if (!modal.classList.contains("is-open")) {
+          modal.style.display = "none";
+        }
+      }, 200);
+      if (loginErr) loginErr.style.display = "none";
+      if (regErr) regErr.style.display = "none";
+    }
+
+    function setMode(mode) {
+      if (mode === "register") {
+        if (tabReg) tabReg.classList.add("active");
+        if (tabLogin) tabLogin.classList.remove("active");
+        if (regForm) regForm.style.display = "flex";
+        if (loginForm) loginForm.style.display = "none";
+      } else {
+        if (tabLogin) tabLogin.classList.add("active");
+        if (tabReg) tabReg.classList.remove("active");
+        if (loginForm) loginForm.style.display = "flex";
+        if (regForm) regForm.style.display = "none";
+      }
+    }
+
+    if (openBtn) {
+      openBtn.addEventListener("click", () => {
+        RA.redirectAfterLogin = null;
+        const notice = document.getElementById("ra-auth-notice");
+        if (notice) notice.style.display = "none";
+        openModal("login");
+      });
+    }
+    if (closeBtn) closeBtn.addEventListener("click", closeModal);
+    if (tabLogin) tabLogin.addEventListener("click", () => setMode("login"));
+    if (tabReg) tabReg.addEventListener("click", () => setMode("register"));
+
+    if (modal) {
+      modal.addEventListener("click", (e) => {
+        if (e.target === modal) closeModal();
+      });
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape" && modal.classList.contains("is-open")) closeModal();
+      });
+    }
+
+    if (logoutBtn) {
+      logoutBtn.addEventListener("click", () => Auth.logout());
+    }
+
+    // Login Form Submit
+    if (loginForm) {
+      loginForm.addEventListener("submit", async (e) => {
+        e.preventDefault();
+        const username = document.getElementById("ra-login-username").value.trim();
+        const password = document.getElementById("ra-login-password").value;
+        const submitBtn = document.getElementById("ra-login-submit");
+
+        if (loginErr) loginErr.style.display = "none";
+        if (submitBtn) submitBtn.disabled = true;
+
+        try {
+          const res = await fetch(API_BASE + "/api/v1/auth/login", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ username, password })
+          });
+          const data = await res.json();
+          if (!res.ok) {
+            throw new Error(data.message || data.error || "Login failed");
+          }
+
+          Auth.setToken(data.token);
+          Auth.setUser(data.user);
+          Auth.updateUI();
+          closeModal();
+          RA.toast(`Welcome back, @${data.user.username}!`);
+
+          if (RA.redirectAfterLogin) {
+            const dest = RA.redirectAfterLogin;
+            RA.redirectAfterLogin = null;
+            window.location.href = dest;
+            return;
+          }
+
+          if (typeof RA.refreshReader === "function") {
+            RA.refreshReader();
+          }
+
+          if (RA.pendingQuestion && typeof RA.submitPendingQuestion === "function") {
+            RA.submitPendingQuestion();
+          }
+        } catch (err) {
+          if (loginErr) {
+            loginErr.textContent = err.message;
+            loginErr.style.display = "block";
+          }
+        } finally {
+          if (submitBtn) submitBtn.disabled = false;
+        }
+      });
+    }
+
+    // Register Form Submit
+    if (regForm) {
+      regForm.addEventListener("submit", async (e) => {
+        e.preventDefault();
+        const username = document.getElementById("ra-reg-username").value.trim();
+        const email = document.getElementById("ra-reg-email").value.trim();
+        const password = document.getElementById("ra-reg-password").value;
+        const submitBtn = document.getElementById("ra-register-submit");
+
+        if (regErr) regErr.style.display = "none";
+        if (submitBtn) submitBtn.disabled = true;
+
+        try {
+          const res = await fetch(API_BASE + "/api/v1/auth/register", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ username, email, password })
+          });
+          const data = await res.json();
+          if (!res.ok) {
+            throw new Error(data.message || data.error || "Registration failed");
+          }
+
+          Auth.setToken(data.token);
+          Auth.setUser(data.user);
+          Auth.updateUI();
+          closeModal();
+          RA.toast(`Account created! Welcome, @${data.user.username}!`);
+
+          if (RA.redirectAfterLogin) {
+            const dest = RA.redirectAfterLogin;
+            RA.redirectAfterLogin = null;
+            window.location.href = dest;
+            return;
+          }
+
+          if (typeof RA.refreshReader === "function") {
+            RA.refreshReader();
+          }
+
+          if (RA.pendingQuestion && typeof RA.submitPendingQuestion === "function") {
+            RA.submitPendingQuestion();
+          }
+        } catch (err) {
+          if (regErr) {
+            regErr.textContent = err.message;
+            regErr.style.display = "block";
+          }
+        } finally {
+          if (submitBtn) submitBtn.disabled = false;
+        }
+      });
+    }
+
+    // Intercept clicks on any buttons/links routing to ask.html or search.html
+    document.querySelectorAll('a[href*="ask.html"], a[href*="search.html"], a[href="/ask"], a[href="/search"]').forEach(link => {
+      link.addEventListener("click", (e) => {
+        if (!Auth.isAuthenticated()) {
+          e.preventDefault();
+          RA.redirectAfterLogin = link.getAttribute("href");
+          const notice = document.getElementById("ra-auth-notice");
+          if (notice) {
+            notice.textContent = "Please sign in or create an account to access the Ask Reader and Semantic Search.";
+            notice.style.display = "block";
+          }
+          openModal("login");
+        }
+      });
+    });
+
+    // Check URL query parameters for ?auth=required
+    try {
+      const urlParams = new URLSearchParams(window.location.search);
+      if (urlParams.get("auth") === "required") {
+        const dest = urlParams.get("redirect") || "ask.html";
+        RA.redirectAfterLogin = dest;
+        const notice = document.getElementById("ra-auth-notice");
+        if (notice) {
+          notice.textContent = "Please sign in or create an account to access the Ask Reader and Semantic Search.";
+          notice.style.display = "block";
+        }
+        openModal("login");
+      }
+    } catch (_) {}
+
+    // Initial sync
+    Auth.updateUI();
+    if (Auth.isAuthenticated()) {
+      Auth.syncMe();
+    }
   };
 
   /* ── 6. Ask the Archive (Reader Controller) ── */
@@ -486,6 +858,36 @@
       Storage.set("active-thread-id", id);
       renderHistory();
 
+      // If thread has no messages cached, fetch from backend SQLite
+      if ((!thread.messages || thread.messages.length === 0) && Auth.isAuthenticated()) {
+        fetch(API_BASE + `/api/v1/threads/${id}`, {
+          headers: { "Authorization": "Bearer " + Auth.getToken() }
+        })
+          .then(r => r.json())
+          .then(data => {
+            if (data && Array.isArray(data.messages)) {
+              thread.messages = data.messages.map(m => {
+                let sources = [];
+                let meta = {};
+                try { if (m.sources) sources = JSON.parse(m.sources); } catch (_) {}
+                try { if (m.meta) meta = JSON.parse(m.meta); } catch (_) {}
+                return {
+                  role: m.role,
+                  content: m.content,
+                  sources: sources,
+                  meta: meta,
+                  timestamp: new Date(m.created_at).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+                };
+              });
+              Storage.set("threads", threads);
+              if (currentThreadId === id) {
+                loadThread(id);
+              }
+            }
+          })
+          .catch(err => console.warn("Failed to fetch thread messages:", err));
+      }
+
       initialView.style.display = "none";
       conversationView.style.display = "flex";
       dockComposer.style.display = "block";
@@ -518,6 +920,48 @@
       // Scroll to bottom of chat
       scrollChatToBottom();
     }
+
+    async function syncThreadsFromServer() {
+      if (!Auth.isAuthenticated()) return;
+      try {
+        const res = await fetch(API_BASE + "/api/v1/threads", {
+          headers: { "Authorization": "Bearer " + Auth.getToken() }
+        });
+        if (res.ok) {
+          const data = await res.json();
+          if (data && Array.isArray(data.threads)) {
+            threads = data.threads.map(st => {
+              const local = (threads || []).find(lt => lt.id === st.id);
+              return {
+                id: st.id,
+                title: st.title,
+                createdAt: new Date(st.created_at).getTime(),
+                updatedAt: new Date(st.updated_at).getTime(),
+                messages: (local && local.messages && local.messages.length > 0) ? local.messages : []
+              };
+            });
+            Storage.set("threads", threads);
+            renderHistory();
+          }
+        }
+      } catch (e) {
+        console.warn("Failed to sync threads from server:", e);
+      }
+    }
+    RA.refreshReader = function() {
+      syncThreadsFromServer();
+      Auth.updateUI();
+    };
+    RA.submitPendingQuestion = function() {
+      if (RA.pendingQuestion) {
+        const pq = RA.pendingQuestion;
+        RA.pendingQuestion = null;
+        submitQuestion(pq);
+      }
+    };
+
+    // Initial server thread synchronization
+    syncThreadsFromServer();
 
     function showInitialView() {
       currentThreadId = null;
@@ -636,6 +1080,14 @@
       if (!questionText || !questionText.trim()) return;
       const q = questionText.trim();
 
+      // Require authentication to ask questions
+      if (!Auth.isAuthenticated()) {
+        RA.pendingQuestion = q;
+        RA.toast("Please sign in or create an account to ask the archive (5 free questions)", "info");
+        RA.openAuthModal("login");
+        return;
+      }
+
       // AUTO REMOVE / CLEAR IMMEDIATELY UPON PRESSING ASK
       if (initialTextarea) {
         initialTextarea.value = "";
@@ -733,25 +1185,61 @@
             content: String(m.content)
           }));
 
+        const token = Auth.getToken();
+        const headers = { "Content-Type": "application/json" };
+        if (token) headers["Authorization"] = "Bearer " + token;
+
         const t0 = performance.now();
         const res = await fetch(API_BASE + "/api/v1/chat", {
           method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ question: q, history: historyPayload })
+          headers: headers,
+          body: JSON.stringify({
+            question: q,
+            history: historyPayload,
+            thread_id: currentThreadId
+          })
         });
 
         if (!res.ok) {
           const errText = await res.text();
           let msg = `API responded with status ${res.status}`;
+          let isQuota = false;
           try {
             const errJson = JSON.parse(errText);
-            if (errJson && errJson.error) msg = errJson.error;
+            if (errJson && errJson.error) {
+              msg = errJson.message || errJson.error;
+              if (errJson.error === "question_limit_reached") isQuota = true;
+            }
           } catch (_) {}
+
+          if (isQuota) {
+            const user = Auth.getUser();
+            if (user) {
+              user.questions_remaining = 0;
+              Auth.setUser(user);
+              Auth.updateUI();
+            }
+          }
           throw new Error(msg);
         }
 
         const data = await res.json();
         const latencyMs = Math.round(data.latency_ms || (performance.now() - t0));
+
+        // Update quota tracking
+        if (data.questions_remaining !== undefined) {
+          const user = Auth.getUser();
+          if (user) {
+            user.questions_remaining = data.questions_remaining;
+            Auth.setUser(user);
+            Auth.updateUI();
+          }
+        }
+
+        if (data.thread_id && thread) {
+          thread.id = data.thread_id;
+          currentThreadId = data.thread_id;
+        }
 
         const assistantMsg = {
           role: "assistant",
@@ -1276,11 +1764,22 @@
 
       try {
         const t0 = performance.now();
+        const headers = { "Content-Type": "application/json" };
+        const token = Auth.getToken();
+        if (token) headers["Authorization"] = "Bearer " + token;
+
         const res = await fetch(API_BASE + "/api/v1/search", {
           method: "POST",
-          headers: { "Content-Type": "application/json" },
+          headers: headers,
           body: JSON.stringify({ query: q, limit: limit })
         });
+
+        if (res.status === 401) {
+          Auth.logout();
+          alert("Your session has expired. Please log in again.");
+          window.location.href = `index.html?auth=required&redirect=${encodeURIComponent(window.location.pathname.split('/').pop() || 'search.html')}`;
+          return;
+        }
 
         if (!res.ok) throw new Error(`HTTP error ${res.status}`);
         const data = await res.json();
@@ -1412,10 +1911,17 @@
   }
 
   /* ── 9. Global Initialization ── */
-  document.addEventListener("DOMContentLoaded", () => {
-    RA.initTheme();
-    RA.initStatus();
-    RA.initReader();
-    RA.initSearch();
-  });
+  function initApp() {
+    try { RA.initTheme(); } catch (e) { console.error("Theme init error:", e); }
+    try { RA.initStatus(); } catch (e) { console.error("Status init error:", e); }
+    try { RA.initAuth(); } catch (e) { console.error("Auth init error:", e); }
+    try { RA.initReader(); } catch (e) { console.error("Reader init error:", e); }
+    try { RA.initSearch(); } catch (e) { console.error("Search init error:", e); }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initApp);
+  } else {
+    initApp();
+  }
 })();

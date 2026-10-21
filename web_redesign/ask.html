@@ -9,6 +9,16 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="styles.css" />
+    <script>
+    (function() {
+      try {
+        var token = localStorage.getItem("ra-auth-token");
+        if (!token) {
+          window.location.replace("index.html?auth=required&redirect=" + encodeURIComponent("ask.html" + window.location.search));
+        }
+      } catch(e) {}
+    })();
+    </script>
   </head>
   <body class="ra-reader-page">
     <!-- Top Bar -->
@@ -44,9 +54,22 @@
             <!-- Dynamically populated -->
           </button>
 
-          <a href="admin-overview.html" class="ra-btn ra-btn-secondary ra-btn-sm" title="Open maintainer console">
+          <!-- Console Link: Hidden unless signed in as an Admin account -->
+          <a href="admin-overview.html" id="ra-console-btn" class="ra-btn ra-btn-secondary ra-btn-sm ra-admin-only" style="display: none;" title="Open maintainer console">
             <span>Console</span>
           </a>
+
+          <!-- User Authentication Section -->
+          <div id="ra-auth-section" class="ra-auth-section">
+            <button id="ra-sign-in-btn" class="ra-btn ra-btn-secondary ra-btn-sm" type="button">
+              <span>Sign In</span>
+            </button>
+            <div id="ra-user-profile" class="ra-user-profile" style="display: none;">
+              <span id="ra-user-name" class="ra-user-name"></span>
+              <span id="ra-quota-badge" class="ra-quota-badge">5/5 left</span>
+              <button id="ra-logout-btn" class="ra-btn-logout" type="button" title="Sign out of account">Log out</button>
+            </div>
+          </div>
         </div>
       </div>
     </header>
@@ -92,6 +115,12 @@
               <p class="ra-reader-lead">
                 Answers are grounded in Solaris-3 quest chronicles and world records. Questions outside scope are explicitly flagged rather than hallucinated.
               </p>
+            </div>
+
+            <!-- Quota Limit Banner -->
+            <div id="ra-quota-banner" class="ra-quota-banner" style="display: none;">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+              <span id="ra-quota-banner-text">You have reached your limit of 5 questions. Please contact an administrator for extended access.</span>
             </div>
 
             <!-- Composer Card -->
@@ -196,6 +225,13 @@
               <span class="ra-dock-spacer"></span>
               <span class="ra-dock-context-note">Context from previous answers is retained</span>
             </div>
+
+            <!-- Dock Quota Banner -->
+            <div id="ra-dock-quota-banner" class="ra-quota-banner" style="display: none; margin-bottom: 8px;">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+              <span id="ra-dock-quota-banner-text">You have reached your limit of 5 questions. Please contact an administrator for extended access.</span>
+            </div>
+
             <div class="ra-composer-card">
               <textarea
                 id="ra-dock-input"
@@ -400,6 +436,62 @@
             <span>Clear history</span>
           </button>
         </div>
+      </div>
+    </div>
+
+    <!-- Auth Modal Dialog (Sign In & Sign Up) -->
+    <div id="ra-auth-modal" class="ra-modal-backdrop" style="display: none;" role="dialog" aria-modal="true" aria-labelledby="ra-auth-modal-title">
+      <div class="ra-modal-card ra-auth-modal-card">
+        <div class="ra-modal-head">
+          <div class="ra-modal-tabs">
+            <button id="ra-tab-login" class="ra-modal-tab active" type="button">Sign In</button>
+            <button id="ra-tab-register" class="ra-modal-tab" type="button">Sign Up</button>
+          </div>
+          <button id="ra-auth-modal-close" class="ra-modal-close-btn" type="button" aria-label="Close dialog">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+          </button>
+        </div>
+
+        <!-- Sign In Form -->
+        <form id="ra-login-form" class="ra-auth-form">
+          <div id="ra-login-error" class="ra-form-error" style="display: none;"></div>
+          <div class="ra-form-field">
+            <label for="ra-login-username">Username or Email</label>
+            <input id="ra-login-username" class="ra-form-input" type="text" required placeholder="rover or user@example.com" autocomplete="username" />
+          </div>
+          <div class="ra-form-field">
+            <label for="ra-login-password">Password</label>
+            <input id="ra-login-password" class="ra-form-input" type="password" required placeholder="Enter password" autocomplete="current-password" />
+          </div>
+          <button id="ra-login-submit" class="ra-btn ra-btn-primary ra-btn-block" type="submit" style="margin-top: 8px;">
+            <span>Sign In</span>
+          </button>
+          <p class="ra-form-hint">Standard accounts receive 5 lifetime questions.</p>
+        </form>
+
+        <!-- Sign Up Form -->
+        <form id="ra-register-form" class="ra-auth-form" style="display: none;">
+          <div id="ra-register-error" class="ra-form-error" style="display: none;"></div>
+          <div class="ra-form-field">
+            <label for="ra-reg-username">Username</label>
+            <input id="ra-reg-username" class="ra-form-input" type="text" required placeholder="Choose a username" autocomplete="username" minlength="3" />
+          </div>
+          <div class="ra-form-field">
+            <label for="ra-reg-email">Email</label>
+            <input id="ra-reg-email" class="ra-form-input" type="email" required placeholder="rover@solaris3.org" autocomplete="email" />
+          </div>
+          <div class="ra-form-field">
+            <label for="ra-reg-password">Password</label>
+            <input id="ra-reg-password" class="ra-form-input" type="password" required placeholder="At least 6 characters" autocomplete="new-password" minlength="6" />
+          </div>
+          <button id="ra-register-submit" class="ra-btn ra-btn-primary ra-btn-block" type="submit" style="margin-top: 8px;">
+            <span>Create Account</span>
+          </button>
+          <p class="ra-form-hint">Includes 5 free questions. No credit card required.</p>
+        </form>
       </div>
     </div>
 

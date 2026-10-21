@@ -19,6 +19,7 @@
   }
   var LS = makeStore("local"), SS = makeStore("session");
   OD.LS = LS; OD.SS = SS;
+  OD.token = (typeof localStorage !== "undefined" && localStorage.getItem("ra-auth-token")) || SS.get("od-token") || "";
 
   /* ── settings ─────────────────────────────────────────────── */
   const S = {

@@ -35,6 +35,10 @@ type Config struct {
 	QueryRewriteEnabled bool
 	RRFConstant         int
 	CandidatePoolSize   int
+
+	DBPath               string
+	JWTSecret            string
+	DefaultQuestionLimit int
 }
 
 // Load loads configuration from environment variables and an optional .env file.
@@ -69,6 +73,10 @@ func Load() *Config {
 		QueryRewriteEnabled: getEnvAsBool("QUERY_REWRITE_ENABLED", true),
 		RRFConstant:         getEnvAsInt("RRF_K", 60),
 		CandidatePoolSize:   getEnvAsInt("CANDIDATE_POOL_SIZE", 25),
+
+		DBPath:               getEnv("DB_PATH", "./data/wuwa.db"),
+		JWTSecret:            getEnv("JWT_SECRET", "wuwa-rag-local-dev-secret-change-in-prod"),
+		DefaultQuestionLimit: getEnvAsInt("DEFAULT_QUESTION_LIMIT", 5),
 	}
 
 	return cfg

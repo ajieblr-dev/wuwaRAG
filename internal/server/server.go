@@ -3,6 +3,7 @@ package server
 import (
 	"context"
 	"encoding/json"
+	"errors"
 	"fmt"
 	"net/http"
 	"os"
@@ -15,6 +16,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
+	"github.com/ajieblr-dev/wuwaRAG/internal/auth"
+	"github.com/ajieblr-dev/wuwaRAG/internal/db"
 	"github.com/ajieblr-dev/wuwaRAG/internal/fetcher"
 	"github.com/ajieblr-dev/wuwaRAG/internal/parser"
 	"github.com/ajieblr-dev/wuwaRAG/internal/qdrant"
@@ -47,15 +50,18 @@ type CorpusData struct {
 
 // Server holds the dependencies for the HTTP API.
 type Server struct {
-	router      *gin.Engine
-	ragService  *rag.Service
-	qdrant      *qdrant.Client
-	embedder    rag.Embedder
-	fetcher     *fetcher.Client
-	collection  string
-	defaultPage string
-	corpusMu    sync.RWMutex
-	corpus      *CorpusData
+	router               *gin.Engine
+	ragService           *rag.Service
+	qdrant               *qdrant.Client
+	embedder             rag.Embedder
+	fetcher              *fetcher.Client
+	collection           string
+	defaultPage          string
+	corpusMu             sync.RWMutex
+	corpus               *CorpusData
+	db                   *db.DB
+	jwtSecret            string
+	defaultQuestionLimit int
 }
 
 // IngestionService encapsulates the ingestion workflow.
@@ -74,6 +80,9 @@ func NewServer(
 	fetcherClient *fetcher.Client,
 	collection string,
 	defaultPage string,
+	database *db.DB,
+	jwtSecret string,
+	defaultQuestionLimit int,
 ) *Server {
 	gin.SetMode(gin.ReleaseMode)
 	router := gin.New()
@@ -81,14 +90,24 @@ func NewServer(
 	router.Use(gin.Logger())
 	router.Use(corsMiddleware())
 
+	if jwtSecret == "" {
+		jwtSecret = "wuwa-rag-local-dev-secret-change-in-prod"
+	}
+	if defaultQuestionLimit <= 0 {
+		defaultQuestionLimit = 5
+	}
+
 	s := &Server{
-		router:      router,
-		ragService:  ragService,
-		qdrant:      qdrantClient,
-		embedder:    embedder,
-		fetcher:     fetcherClient,
-		collection:  collection,
-		defaultPage: defaultPage,
+		router:               router,
+		ragService:           ragService,
+		qdrant:               qdrantClient,
+		embedder:             embedder,
+		fetcher:              fetcherClient,
+		collection:           collection,
+		defaultPage:          defaultPage,
+		db:                   database,
+		jwtSecret:            jwtSecret,
+		defaultQuestionLimit: defaultQuestionLimit,
 	}
 
 	s.registerRoutes()
@@ -154,10 +173,40 @@ func (s *Server) registerRoutes() {
 		api.GET("/corpus", s.handleCorpus)
 		api.GET("/pages", s.handlePages)
 		api.GET("/speakers", s.handleSpeakers)
-		api.POST("/chat", s.handleChat)
-		api.POST("/query", s.handleChat) // alias
-		api.POST("/search", s.handleSearch)
-		api.POST("/ingest", s.handleIngest)
+
+		// Public authentication
+		authGroup := api.Group("/auth")
+		{
+			authGroup.POST("/register", s.handleRegister)
+			authGroup.POST("/login", s.handleLogin)
+			authGroup.GET("/me", auth.AuthRequired(s.jwtSecret), s.handleAuthMe)
+		}
+
+		// Search routes (require authentication)
+		api.POST("/search", auth.AuthRequired(s.jwtSecret), s.handleSearch)
+
+		// Chat routes (require authentication)
+		api.POST("/chat", auth.AuthRequired(s.jwtSecret), s.handleChat)
+		api.POST("/query", auth.AuthRequired(s.jwtSecret), s.handleChat) // alias
+
+		// Conversation threads (require authentication)
+		threadsGroup := api.Group("/threads", auth.AuthRequired(s.jwtSecret))
+		{
+			threadsGroup.GET("", s.handleListThreads)
+			threadsGroup.POST("", s.handleCreateThread)
+			threadsGroup.GET("/:id", s.handleGetThread)
+			threadsGroup.DELETE("/:id", s.handleDeleteThread)
+		}
+
+		// Protected Ingestion (admin only)
+		api.POST("/ingest", auth.AdminRequired(s.jwtSecret), s.handleIngest)
+
+		// Admin management
+		adminGroup := api.Group("/admin", auth.AdminRequired(s.jwtSecret))
+		{
+			adminGroup.GET("/users", s.handleAdminListUsers)
+			adminGroup.POST("/users/:id/reset", s.handleAdminResetQuota)
+		}
 	}
 
 	// Discover directories
@@ -570,9 +619,174 @@ func (s *Server) handleSpeakers(c *gin.Context) {
 	})
 }
 
+type registerRequest struct {
+	Username string `json:"username" binding:"required"`
+	Email    string `json:"email" binding:"required"`
+	Password string `json:"password" binding:"required"`
+}
+
+func (s *Server) handleRegister(c *gin.Context) {
+	if s.db == nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Database not initialized"})
+		return
+	}
+
+	var req registerRequest
+	if err := c.ShouldBindJSON(&req); err != nil {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "Username, email, and password are required"})
+		return
+	}
+
+	req.Username = strings.TrimSpace(req.Username)
+	req.Email = strings.TrimSpace(req.Email)
+	if len(req.Username) < 3 {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "Username must be at least 3 characters long"})
+		return
+	}
+	if len(req.Password) < 6 {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "Password must be at least 6 characters long"})
+		return
+	}
+	if !strings.Contains(req.Email, "@") {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "Invalid email address format"})
+		return
+	}
+
+	hash, err := auth.HashPassword(req.Password)
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to process password"})
+		return
+	}
+
+	user, err := s.db.CreateUser(c.Request.Context(), req.Username, req.Email, hash, "user", s.defaultQuestionLimit)
+	if err != nil {
+		if errors.Is(err, db.ErrUserAlreadyExists) {
+			c.JSON(http.StatusConflict, gin.H{"error": "Username or email is already registered"})
+			return
+		}
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to register user"})
+		return
+	}
+
+	token, err := auth.GenerateToken(s.jwtSecret, user.ID, user.Username, user.Role, 7*24*time.Hour)
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to generate session token"})
+		return
+	}
+
+	c.JSON(http.StatusCreated, gin.H{
+		"token": token,
+		"user": gin.H{
+			"id":                  user.ID,
+			"username":            user.Username,
+			"email":               user.Email,
+			"role":                user.Role,
+			"question_count":      user.QuestionCount,
+			"question_limit":      user.QuestionLimit,
+			"questions_remaining": user.QuestionLimit,
+		},
+	})
+}
+
+type loginRequest struct {
+	Username string `json:"username" binding:"required"`
+	Password string `json:"password" binding:"required"`
+}
+
+func (s *Server) handleLogin(c *gin.Context) {
+	if s.db == nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Database not initialized"})
+		return
+	}
+
+	var req loginRequest
+	if err := c.ShouldBindJSON(&req); err != nil {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "Username and password are required"})
+		return
+	}
+
+	user, err := s.db.GetUserByUsernameOrEmail(c.Request.Context(), req.Username)
+	if err != nil {
+		c.JSON(http.StatusUnauthorized, gin.H{"error": "invalid_credentials", "message": "Invalid username or password"})
+		return
+	}
+
+	if !auth.CheckPassword(user.PasswordHash, req.Password) {
+		c.JSON(http.StatusUnauthorized, gin.H{"error": "invalid_credentials", "message": "Invalid username or password"})
+		return
+	}
+
+	token, err := auth.GenerateToken(s.jwtSecret, user.ID, user.Username, user.Role, 7*24*time.Hour)
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to generate session token"})
+		return
+	}
+
+	remaining := -1
+	if strings.ToLower(user.Role) != "admin" {
+		remaining = user.QuestionLimit - user.QuestionCount
+		if remaining < 0 {
+			remaining = 0
+		}
+	}
+
+	c.JSON(http.StatusOK, gin.H{
+		"token": token,
+		"user": gin.H{
+			"id":                  user.ID,
+			"username":            user.Username,
+			"email":               user.Email,
+			"role":                user.Role,
+			"question_count":      user.QuestionCount,
+			"question_limit":      user.QuestionLimit,
+			"questions_remaining": remaining,
+		},
+	})
+}
+
+func (s *Server) handleAuthMe(c *gin.Context) {
+	if s.db == nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Database not initialized"})
+		return
+	}
+
+	userID := c.GetString(auth.ContextUserID)
+	if userID == "" {
+		c.JSON(http.StatusUnauthorized, gin.H{"error": "Unauthorized"})
+		return
+	}
+
+	user, err := s.db.GetUserByID(c.Request.Context(), userID)
+	if err != nil {
+		c.JSON(http.StatusNotFound, gin.H{"error": "User not found"})
+		return
+	}
+
+	remaining := -1
+	if strings.ToLower(user.Role) != "admin" {
+		remaining = user.QuestionLimit - user.QuestionCount
+		if remaining < 0 {
+			remaining = 0
+		}
+	}
+
+	c.JSON(http.StatusOK, gin.H{
+		"user": gin.H{
+			"id":                  user.ID,
+			"username":            user.Username,
+			"email":               user.Email,
+			"role":                user.Role,
+			"question_count":      user.QuestionCount,
+			"question_limit":      user.QuestionLimit,
+			"questions_remaining": remaining,
+		},
+	})
+}
+
 type chatRequest struct {
 	Question string            `json:"question" binding:"required"`
 	History  []rag.ChatMessage `json:"history,omitempty"`
+	ThreadID string            `json:"thread_id,omitempty"`
 }
 
 func (s *Server) handleChat(c *gin.Context) {
@@ -580,6 +794,48 @@ func (s *Server) handleChat(c *gin.Context) {
 	if err := c.ShouldBindJSON(&req); err != nil {
 		c.JSON(http.StatusBadRequest, gin.H{"error": "Missing or invalid 'question' field"})
 		return
+	}
+
+	userID := c.GetString(auth.ContextUserID)
+	var remaining, limit int
+
+	// 1. Quota enforcement via database
+	if s.db != nil && userID != "" {
+		allowed, rem, lim, err := s.db.CheckAndIncrementQuestionCount(c.Request.Context(), userID)
+		if err != nil {
+			c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to verify usage quota"})
+			return
+		}
+		if !allowed {
+			c.JSON(http.StatusForbidden, gin.H{
+				"error":               "question_limit_reached",
+				"message":             fmt.Sprintf("You have reached your limit of %d questions. Please contact an administrator for extended access.", lim),
+				"questions_remaining": 0,
+				"questions_limit":     lim,
+			})
+			return
+		}
+		remaining = rem
+		limit = lim
+	}
+
+	// 2. Resolve or create thread
+	threadID := req.ThreadID
+	if s.db != nil && userID != "" {
+		if threadID == "" {
+			tTitle := strings.TrimSpace(req.Question)
+			if len(tTitle) > 48 {
+				tTitle = tTitle[:48] + "…"
+			}
+			newThread, err := s.db.CreateThread(c.Request.Context(), userID, tTitle)
+			if err == nil && newThread != nil {
+				threadID = newThread.ID
+			}
+		}
+
+		if threadID != "" {
+			_, _ = s.db.AddMessage(c.Request.Context(), threadID, userID, "user", req.Question, "", "")
+		}
 	}
 
 	ctx, cancel := context.WithTimeout(c.Request.Context(), 120*time.Second)
@@ -591,7 +847,136 @@ func (s *Server) handleChat(c *gin.Context) {
 		return
 	}
 
-	c.JSON(http.StatusOK, res)
+	// 3. Persist assistant message
+	if s.db != nil && userID != "" && threadID != "" {
+		sourcesJSON, _ := json.Marshal(res.Sources)
+		metaJSON, _ := json.Marshal(gin.H{
+			"model":        res.Model,
+			"latency_ms":   res.LatencyMs,
+			"total_tokens": res.TotalTokens,
+		})
+		_, _ = s.db.AddMessage(c.Request.Context(), threadID, userID, "assistant", res.Answer, string(sourcesJSON), string(metaJSON))
+	}
+
+	c.JSON(http.StatusOK, gin.H{
+		"question":            req.Question,
+		"answer":              res.Answer,
+		"sources":             res.Sources,
+		"model":               res.Model,
+		"latency_ms":          res.LatencyMs,
+		"total_tokens":        res.TotalTokens,
+		"thread_id":           threadID,
+		"questions_remaining": remaining,
+		"questions_limit":     limit,
+	})
+}
+
+type createThreadRequest struct {
+	Title string `json:"title"`
+}
+
+func (s *Server) handleListThreads(c *gin.Context) {
+	if s.db == nil {
+		c.JSON(http.StatusOK, gin.H{"threads": []interface{}{}})
+		return
+	}
+	userID := c.GetString(auth.ContextUserID)
+	threads, err := s.db.ListThreads(c.Request.Context(), userID)
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to list threads"})
+		return
+	}
+	c.JSON(http.StatusOK, gin.H{"threads": threads})
+}
+
+func (s *Server) handleCreateThread(c *gin.Context) {
+	if s.db == nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Database not initialized"})
+		return
+	}
+	var req createThreadRequest
+	_ = c.ShouldBindJSON(&req)
+
+	userID := c.GetString(auth.ContextUserID)
+	thread, err := s.db.CreateThread(c.Request.Context(), userID, req.Title)
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to create thread"})
+		return
+	}
+	c.JSON(http.StatusCreated, gin.H{"thread": thread})
+}
+
+func (s *Server) handleGetThread(c *gin.Context) {
+	if s.db == nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Database not initialized"})
+		return
+	}
+	userID := c.GetString(auth.ContextUserID)
+	threadID := c.Param("id")
+
+	thread, msgs, err := s.db.GetThreadWithMessages(c.Request.Context(), userID, threadID)
+	if err != nil {
+		if errors.Is(err, db.ErrThreadNotFound) {
+			c.JSON(http.StatusNotFound, gin.H{"error": "Thread not found"})
+			return
+		}
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to get thread"})
+		return
+	}
+	c.JSON(http.StatusOK, gin.H{"thread": thread, "messages": msgs})
+}
+
+func (s *Server) handleDeleteThread(c *gin.Context) {
+	if s.db == nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Database not initialized"})
+		return
+	}
+	userID := c.GetString(auth.ContextUserID)
+	threadID := c.Param("id")
+
+	if err := s.db.DeleteThread(c.Request.Context(), userID, threadID); err != nil {
+		if errors.Is(err, db.ErrThreadNotFound) {
+			c.JSON(http.StatusNotFound, gin.H{"error": "Thread not found"})
+			return
+		}
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to delete thread"})
+		return
+	}
+	c.JSON(http.StatusOK, gin.H{"status": "deleted"})
+}
+
+func (s *Server) handleAdminListUsers(c *gin.Context) {
+	if s.db == nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Database not initialized"})
+		return
+	}
+	users, err := s.db.ListUsers(c.Request.Context())
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to query users"})
+		return
+	}
+	c.JSON(http.StatusOK, gin.H{"users": users})
+}
+
+type resetQuotaRequest struct {
+	Count int `json:"count"`
+	Limit int `json:"limit"`
+}
+
+func (s *Server) handleAdminResetQuota(c *gin.Context) {
+	if s.db == nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Database not initialized"})
+		return
+	}
+	targetUserID := c.Param("id")
+	var req resetQuotaRequest
+	_ = c.ShouldBindJSON(&req)
+
+	if err := s.db.ResetUserQuestionCount(c.Request.Context(), targetUserID, req.Count, req.Limit); err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to reset quota"})
+		return
+	}
+	c.JSON(http.StatusOK, gin.H{"status": "success", "user_id": targetUserID})
 }
 
 type searchRequest struct {
