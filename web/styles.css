@@ -503,15 +503,16 @@ body[data-spoiler="blur"] .answer-body.revealed{filter:none}
 .hist-item .when{font-family:var(--font-mono);font-size:10.5px;color:var(--text-3);margin-top:3px}
 
 /* ─── log row (route / changelog lists) ─── */
-.log-row{display:grid;grid-template-columns:120px 1fr 90px;gap:20px;padding:16px 0;border-top:1px solid var(--border);align-items:baseline;color:inherit}
-.log-row h3{margin:0}
-.log-row p{margin:2px 0 0}
-.log-row .pull{text-align:right}
-.stack>.log-row:first-child{border-top:0}
+a.log-row, div.log-row{display:grid;grid-template-columns:120px 1fr 90px;gap:20px;padding:16px 0;border-top:1px solid var(--border);align-items:baseline;color:inherit}
+a.log-row h3, div.log-row h3{margin:0}
+a.log-row p, div.log-row p{margin:2px 0 0}
+a.log-row .pull, div.log-row .pull{text-align:right}
+.stack>a.log-row:first-child, .stack>div.log-row:first-child{border-top:0}
 @media (max-width:600px){
-  .log-row{grid-template-columns:1fr auto;gap:6px 14px}
-  .log-row .mono.tiny.dim{grid-column:1 / -1;order:-1}
+  a.log-row, div.log-row{grid-template-columns:1fr auto;gap:6px 14px}
+  a.log-row .mono.tiny.dim, div.log-row .mono.tiny.dim{grid-column:1 / -1;order:-1}
 }
+table.data tbody tr.log-row, tr.log-row{display:table-row}
 
 /* ─── admin sub-nav: tabs over a single rule ─── */
 .subnav{display:flex;gap:2px;overflow-x:auto;padding-bottom:0;margin-bottom:30px;scrollbar-width:none;
@@ -587,6 +588,32 @@ table.data td.num,table.data th.num{text-align:right;font-family:var(--font-mono
 table.data th:last-child,table.data td:last-child{padding-right:0}
 .sortbtn{display:inline-flex;align-items:center;gap:5px;border:0;background:none;color:inherit;font:inherit;text-transform:inherit;letter-spacing:inherit}
 .sortbtn:hover{color:var(--text-1)}
+
+/* ─── table card container ─── */
+.table-card{background:var(--bg-1);border:1px solid var(--rule);border-radius:var(--r-card);
+  box-shadow:var(--shadow-pop);overflow:hidden}
+.table-card .table-wrap{border:0;border-radius:0;background:transparent}
+.table-card table.data thead{background:var(--bg-2)}
+.table-card table.data thead th{padding:12px 16px;border-bottom:1px solid var(--rule)}
+.table-card table.data thead th:first-child{padding-left:18px}
+.table-card table.data thead th:last-child{padding-right:18px}
+.table-card table.data tbody tr td{padding:11px 16px;vertical-align:middle}
+.table-card table.data tbody tr td:first-child{padding-left:18px}
+.table-card table.data tbody tr td:last-child{padding-right:18px}
+
+/* method badges */
+.method-badge{display:inline-flex;align-items:center;justify-content:center;
+  font-family:var(--font-mono);font-size:10px;font-weight:700;letter-spacing:.06em;
+  padding:2px 7px;border-radius:3px;text-transform:uppercase;line-height:1.2;min-width:44px}
+.method-get{background:color-mix(in oklch,var(--success) 14%,transparent);color:var(--success);
+  border:1px solid color-mix(in oklch,var(--success) 32%,transparent)}
+.method-post{background:var(--gold-subtle);color:var(--gold);
+  border:1px solid color-mix(in oklch,var(--gold) 35%,transparent)}
+.method-put{background:color-mix(in oklch,var(--info) 14%,transparent);color:var(--info);
+  border:1px solid color-mix(in oklch,var(--info) 32%,transparent)}
+.method-delete{background:color-mix(in oklch,var(--danger) 14%,transparent);color:var(--danger);
+  border:1px solid color-mix(in oklch,var(--danger) 32%,transparent)}
+.method-patch,.method-other{background:var(--bg-2);color:var(--text-2);border:1px solid var(--border)}
 
 /* score: a figure with a thin rule beneath it, not a chunky bar */
 .score{display:inline-flex;align-items:center;gap:10px;font-family:var(--font-mono);font-size:11.5px;color:var(--text-3)}

@@ -6,9 +6,228 @@
 <title>Admin · Logs · Resonance Archive</title>
 <link rel="stylesheet" href="/web/styles.css" />
 <style>
-  .log-row { cursor: pointer; transition: background 0.15s ease; }
-  .log-row:hover { background: color-mix(in oklch, var(--accent) 8%, transparent); }
-  .log-row.selected { background: color-mix(in oklch, var(--accent) 15%, transparent); }
+  /* ─── Modern Log Table & Card Container ─── */
+  .table-card {
+    background: var(--bg-1);
+    border: 1px solid var(--rule);
+    border-radius: var(--r-card, 12px);
+    box-shadow: var(--shadow-pop, 0 1px 3px rgba(0, 0, 0, 0.06));
+    overflow: hidden;
+  }
+  .table-wrap {
+    overflow-x: auto;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    scrollbar-width: thin;
+    scrollbar-color: var(--rule) transparent;
+  }
+  .table-wrap::-webkit-scrollbar {
+    height: 6px;
+  }
+  .table-wrap::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .table-wrap::-webkit-scrollbar-thumb {
+    background: var(--rule);
+    border-radius: 3px;
+  }
+
+  /* ─── Table Structure ─── */
+  table.data.log-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+    min-width: 680px;
+    table-layout: auto;
+  }
+  table.data.log-table thead {
+    background: var(--bg-2);
+  }
+  table.data.log-table thead th {
+    padding: 11px 14px;
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--text-3);
+    font-weight: 600;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: middle;
+    white-space: nowrap;
+    text-align: left;
+  }
+  table.data.log-table thead th.num {
+    text-align: right;
+  }
+  table.data.log-table thead th:first-child {
+    padding-left: 18px;
+  }
+  table.data.log-table thead th:last-child {
+    padding-right: 18px;
+  }
+
+  /* ─── Sortable Column Headers ─── */
+  .sortbtn {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    border: 0;
+    background: none;
+    color: inherit;
+    font: inherit;
+    text-transform: inherit;
+    letter-spacing: inherit;
+    cursor: pointer;
+    padding: 2px 6px;
+    border-radius: var(--radius-xs, 4px);
+    transition: color 0.15s ease, background-color 0.15s ease;
+  }
+  .sortbtn:hover {
+    color: var(--text-1);
+    background: color-mix(in oklch, var(--text-1) 8%, transparent);
+  }
+  .sortbtn.active {
+    color: var(--accent);
+    font-weight: 700;
+  }
+  .sort-indicator {
+    display: inline-block;
+    font-size: 9px;
+    line-height: 1;
+    opacity: 0.35;
+    transition: opacity 0.15s ease, color 0.15s ease;
+  }
+  .sortbtn.active .sort-indicator {
+    opacity: 1;
+    color: var(--accent);
+  }
+
+  /* ─── Rows & Cells ─── */
+  table.data.log-table tbody tr.log-row {
+    display: table-row !important;
+    border-bottom: 1px solid var(--rule);
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+  }
+  table.data.log-table tbody tr.log-row:last-child {
+    border-bottom: 0;
+  }
+  table.data.log-table tbody tr.log-row td {
+    padding: 10px 14px;
+    vertical-align: middle;
+    border-bottom: inherit;
+  }
+  table.data.log-table tbody tr.log-row td:first-child {
+    padding-left: 18px;
+  }
+  table.data.log-table tbody tr.log-row td:last-child {
+    padding-right: 18px;
+  }
+  table.data.log-table tbody tr.log-row:hover {
+    background-color: color-mix(in oklch, var(--accent) 7%, transparent) !important;
+  }
+  table.data.log-table tbody tr.log-row.selected {
+    background-color: color-mix(in oklch, var(--accent) 14%, transparent) !important;
+  }
+  table.data.log-table tbody tr.log-row.selected td:first-child {
+    box-shadow: inset 4px 0 0 var(--accent);
+  }
+
+  /* ─── HTTP Method Badges ─── */
+  .method-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: .06em;
+    padding: 2px 7px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    line-height: 1.25;
+    min-width: 44px;
+  }
+  .method-get {
+    background: color-mix(in oklch, var(--success) 14%, transparent);
+    color: var(--success);
+    border: 1px solid color-mix(in oklch, var(--success) 32%, transparent);
+  }
+  .method-post {
+    background: var(--gold-subtle);
+    color: var(--gold);
+    border: 1px solid color-mix(in oklch, var(--gold) 35%, transparent);
+  }
+  .method-put {
+    background: color-mix(in oklch, var(--info) 14%, transparent);
+    color: var(--info);
+    border: 1px solid color-mix(in oklch, var(--info) 32%, transparent);
+  }
+  .method-delete {
+    background: color-mix(in oklch, var(--danger) 14%, transparent);
+    color: var(--danger);
+    border: 1px solid color-mix(in oklch, var(--danger) 32%, transparent);
+  }
+  .method-patch, .method-other {
+    background: var(--bg-2);
+    color: var(--text-2);
+    border: 1px solid var(--border);
+  }
+
+  /* ─── Path Cell & Truncation ─── */
+  .log-path-cell {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    max-width: 420px;
+  }
+  .log-path-text {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--text-1);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  /* ─── Latency Formatting ─── */
+  .latency-val {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
+  }
+  .latency-val.warn {
+    color: var(--warning);
+    font-weight: 600;
+  }
+  .latency-unit {
+    font-size: 10px;
+    color: var(--text-3);
+    margin-left: 1px;
+  }
+
+  /* ─── Empty State ─── */
+  .log-empty-state {
+    text-align: center;
+    padding: 44px 20px !important;
+  }
+  .empty-state-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+  }
+  .empty-state-wrap svg {
+    color: var(--text-3);
+    opacity: 0.6;
+  }
+  .empty-state-wrap p {
+    margin: 0;
+    font-size: 13.5px;
+    font-weight: 500;
+    color: var(--text-2);
+  }
 </style>
 </head>
 <body>
@@ -48,23 +267,29 @@
       </div>
     </div>
 
-    <div class="table-wrap">
-      <table class="data">
-        <thead>
-          <tr>
-            <th><button class="sortbtn" data-sort="ts" type="button">Time</button></th>
-            <th>Method</th>
-            <th>Path</th>
-            <th class="num"><button class="sortbtn" data-sort="status" type="button">Status</button></th>
-            <th class="num"><button class="sortbtn" data-sort="ms" type="button">Latency</button></th>
-            <th class="num"><button class="sortbtn" data-sort="tokens" type="button">Tokens</button></th>
-            <th>Class</th>
-          </tr>
-        </thead>
-        <tbody id="lg-body"></tbody>
-      </table>
+    <!-- Log Table Card -->
+    <div class="table-card">
+      <div class="table-wrap">
+        <table class="data log-table">
+          <thead>
+            <tr>
+              <th style="width:115px"><button class="sortbtn" data-sort="ts" type="button">Time <span class="sort-indicator"></span></button></th>
+              <th style="width:75px">Method</th>
+              <th>Path</th>
+              <th class="num" style="width:90px"><button class="sortbtn" data-sort="status" type="button">Status <span class="sort-indicator"></span></button></th>
+              <th class="num" style="width:105px"><button class="sortbtn" data-sort="ms" type="button">Latency <span class="sort-indicator"></span></button></th>
+              <th class="num" style="width:95px"><button class="sortbtn" data-sort="tokens" type="button">Tokens <span class="sort-indicator"></span></button></th>
+              <th style="width:95px">Class</th>
+            </tr>
+          </thead>
+          <tbody id="lg-body"></tbody>
+        </table>
+      </div>
     </div>
-    <p class="tiny dim" style="margin-top:10px" id="lg-count"></p>
+    <div class="row-between wrapflex tiny dim" style="margin-top:10px;padding:0 4px">
+      <span id="lg-count"></span>
+      <span>Click any request row to inspect full headers, payload, and timing</span>
+    </div>
 
     <!-- Request Inspector Drawer -->
     <section class="panel" id="req-inspector" style="margin-top:20px" hidden>
@@ -73,15 +298,15 @@
           <h3>Request Details</h3>
           <span class="mono tiny dim" id="ins-id"></span>
         </div>
-        <button class="btn btn-ghost btn-sm" id="close-ins" type="button">Close</button>
+        <button class="btn btn-ghost btn-sm" id="close-ins" type="button">Close ✕</button>
       </div>
       <div class="panel-body stack gap-3">
-        <div class="row-between wrapflex tiny dim mono">
+        <div class="row-between wrapflex tiny dim mono" style="padding-bottom:6px;border-bottom:1px solid var(--rule)">
           <span id="ins-timestamp"></span>
           <span id="ins-status-badge"></span>
         </div>
-        <div class="row gap-3">
-          <span class="mono" id="ins-method-path" style="font-size:14px;font-weight:600"></span>
+        <div class="row gap-2" style="align-items:center">
+          <div id="ins-method-path" style="display:flex;align-items:center;gap:8px"></div>
         </div>
         <div class="json"><pre id="ins-json"></pre></div>
       </div>
@@ -106,6 +331,35 @@
     if (r.status == null) return '<span class="dim">—</span>';
     var k = r.status >= 400 ? "danger" : r.status >= 300 ? "warn" : "ok";
     return '<span class="pill ' + k + '">' + r.status + '</span>';
+  }
+
+  function methodBadge(m) {
+    var method = (m || "GET").toUpperCase();
+    var c = "method-other";
+    if (method === "GET") c = "method-get";
+    else if (method === "POST") c = "method-post";
+    else if (method === "PUT") c = "method-put";
+    else if (method === "DELETE") c = "method-delete";
+    else if (method === "PATCH") c = "method-patch";
+    return '<span class="method-badge ' + c + '">' + method + '</span>';
+  }
+
+  function formatLatency(ms) {
+    if (ms == null) return '<span class="dim">—</span>';
+    var cls = ms > 1500 ? "warn" : "";
+    return '<span class="latency-val ' + cls + '">' + ms + '<span class="latency-unit">ms</span></span>';
+  }
+
+  function formatTokens(t) {
+    if (!t) return '<span class="dim">—</span>';
+    return '<span class="mono">' + t.toLocaleString() + '</span>';
+  }
+
+  function formatPath(r) {
+    var p = r.path || "";
+    var title = p + (r.note ? " — " + r.note : "");
+    var mock = r.mock ? ' <span class="mock-badge">mock</span>' : '';
+    return '<div class="log-path-cell" title="' + title.replace(/"/g, '&quot;') + '"><span class="log-path-text">' + p + '</span>' + mock + '</div>';
   }
 
   function updateKpis() {
@@ -134,18 +388,33 @@
     });
     rows.sort(function (a, b) { var x = a[sortKey] ?? 0, y = b[sortKey] ?? 0; return x > y ? sortDir : x < y ? -sortDir : 0; });
 
+    // Update sort button indicators
+    document.querySelectorAll("[data-sort]").forEach(function (btn) {
+      var k = btn.dataset.sort;
+      var isActive = (sortKey === k);
+      btn.classList.toggle("active", isActive);
+      var icon = btn.querySelector(".sort-indicator");
+      if (icon) {
+        if (isActive) {
+          icon.textContent = sortDir === 1 ? "▲" : "▼";
+        } else {
+          icon.textContent = "↕";
+        }
+      }
+    });
+
     document.getElementById("lg-body").innerHTML = rows.length ? rows.map(function (r) {
       var isSel = (r.id && r.id === selectedReqId);
       return '<tr class="log-row ' + (isSel ? "selected" : "") + '" data-req-id="' + (r.id || "") + '">' +
         '<td class="mono tiny">' + new Date(r.ts).toLocaleTimeString() + '</td>' +
-        '<td class="mono">' + r.method + '</td>' +
-        '<td class="mono" style="max-width:260px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="' + (r.note || "") + '">' + r.path + (r.mock ? ' <span class="mock-badge">mock</span>' : '') + '</td>' +
+        '<td>' + methodBadge(r.method) + '</td>' +
+        '<td>' + formatPath(r) + '</td>' +
         '<td class="num">' + status(r) + '</td>' +
-        '<td class="num">' + (r.ms != null ? r.ms + ' ms' : '—') + '</td>' +
-        '<td class="num">' + (r.tokens ? r.tokens.toLocaleString() : '—') + '</td>' +
+        '<td class="num">' + formatLatency(r.ms) + '</td>' +
+        '<td class="num">' + formatTokens(r.tokens) + '</td>' +
         '<td>' + label(cls(r)) + '</td>' +
         '</tr>';
-    }).join("") : '<tr><td colspan="7" style="text-align:center;padding:36px" class="dim">No requests match this filter. Ask a question or run a search to populate the log.</td></tr>';
+    }).join("") : '<tr><td colspan="7" class="log-empty-state"><div class="empty-state-wrap"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg><p>No requests match this filter.</p><span class="tiny dim">Ask a question or run a search to populate the log.</span></div></td></tr>';
 
     document.getElementById("lg-count").textContent = rows.length + " of " + OD.log.all().length + " requests";
 
@@ -172,7 +441,11 @@
     document.getElementById("ins-id").textContent = req.id || "";
     document.getElementById("ins-timestamp").textContent = new Date(req.ts).toISOString() + " (" + new Date(req.ts).toLocaleString() + ")";
     document.getElementById("ins-status-badge").innerHTML = status(req) + " " + label(cls(req));
-    document.getElementById("ins-method-path").textContent = req.method + " " + req.path + (req.ms != null ? " · " + req.ms + " ms" : "");
+    document.getElementById("ins-method-path").innerHTML =
+      methodBadge(req.method) +
+      '<span class="mono" style="font-size:13.5px;font-weight:600">' + req.path + '</span>' +
+      (req.ms != null ? '<span class="dim tiny mono">· ' + req.ms + ' ms</span>' : "") +
+      (req.tokens ? '<span class="dim tiny mono">· ' + req.tokens.toLocaleString() + ' tokens</span>' : "");
     document.getElementById("ins-json").innerHTML = JSON.stringify(req, null, 2)
       .replace(/"([^"]+)":/g, '<span class="jk">"$1"</span>:')
       .replace(/: "([^"]*)"/g, ': <span class="js">"$1"</span>')

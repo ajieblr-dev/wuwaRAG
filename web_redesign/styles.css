@@ -3195,3 +3195,81 @@ body.ra-reader-page .ra-topbar-inner {
   display: none;
 }
 
+/* ─── Modern Table Cards & HTTP Badges ─── */
+.table-card {
+  background-color: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+}
+.table-card .table-wrap {
+  overflow-x: auto;
+  background: transparent;
+  border: 0;
+}
+.table-card table.data thead {
+  background-color: var(--surface-muted);
+}
+.table-card table.data thead th {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+}
+.table-card table.data thead th:first-child {
+  padding-left: 18px;
+}
+.table-card table.data thead th:last-child {
+  padding-right: 18px;
+}
+.table-card table.data tbody tr td {
+  padding: 11px 16px;
+  vertical-align: middle;
+}
+.table-card table.data tbody tr td:first-child {
+  padding-left: 18px;
+}
+.table-card table.data tbody tr td:last-child {
+  padding-right: 18px;
+}
+
+.method-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .06em;
+  padding: 2px 7px;
+  border-radius: 3px;
+  text-transform: uppercase;
+  line-height: 1.25;
+  min-width: 44px;
+}
+.method-get {
+  background: rgba(16, 185, 129, 0.14);
+  color: #10B981;
+  border: 1px solid rgba(16, 185, 129, 0.32);
+}
+.method-post {
+  background: rgba(209, 160, 84, 0.16);
+  color: var(--accent);
+  border: 1px solid rgba(209, 160, 84, 0.35);
+}
+.method-put {
+  background: rgba(59, 130, 246, 0.14);
+  color: #3B82F6;
+  border: 1px solid rgba(59, 130, 246, 0.32);
+}
+.method-delete {
+  background: rgba(239, 68, 68, 0.14);
+  color: var(--danger);
+  border: 1px solid rgba(239, 68, 68, 0.32);
+}
+.method-patch, .method-other {
+  background: var(--surface-muted);
+  color: var(--text-secondary);
+  border: 1px solid var(--border);
+}
+
+
