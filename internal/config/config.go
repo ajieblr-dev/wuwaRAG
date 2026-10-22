@@ -37,6 +37,7 @@ type Config struct {
 	CandidatePoolSize   int
 
 	DBPath               string
+	DevAuditDBPath       string
 	JWTSecret            string
 	DefaultQuestionLimit int
 }
@@ -75,6 +76,7 @@ func Load() *Config {
 		CandidatePoolSize:   getEnvAsInt("CANDIDATE_POOL_SIZE", 25),
 
 		DBPath:               getEnv("DB_PATH", "./data/wuwa.db"),
+		DevAuditDBPath:       getEnv("DEV_AUDIT_DB_PATH", "./data/dev_audit.db"),
 		JWTSecret:            getEnv("JWT_SECRET", "wuwa-rag-local-dev-secret-change-in-prod"),
 		DefaultQuestionLimit: getEnvAsInt("DEFAULT_QUESTION_LIMIT", 5),
 	}

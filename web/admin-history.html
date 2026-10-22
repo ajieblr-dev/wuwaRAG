@@ -1,0 +1,542 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Admin · User History · Resonance Archive</title>
+<link rel="stylesheet" href="/web/styles.css" />
+<script>
+(function() {
+  try {
+    var rawUser = localStorage.getItem("ra-user");
+    var token = localStorage.getItem("ra-auth-token");
+    if (!token || !rawUser) {
+      alert("Administrator privileges required. Please sign in with an admin account.");
+      window.location.replace("ask.html?error=admin_required");
+      return;
+    }
+    var user = JSON.parse(rawUser);
+    if (!user || user.role !== "admin") {
+      alert("Access denied: You are logged in as @" + (user.username || "user") + ". Admin privileges are required to access the console.");
+      window.location.replace("ask.html?error=admin_required");
+      return;
+    }
+  } catch(e) {
+    window.location.replace("ask.html?error=admin_required");
+  }
+})();
+</script>
+<style>
+  /* ─── Modern Table & Card Container ─── */
+  .table-card {
+    background: var(--bg-1);
+    border: 1px solid var(--rule);
+    border-radius: var(--r-card, 12px);
+    box-shadow: var(--shadow-pop, 0 1px 3px rgba(0, 0, 0, 0.06));
+    overflow: hidden;
+  }
+  .table-wrap {
+    overflow-x: auto;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    scrollbar-width: thin;
+    scrollbar-color: var(--rule) transparent;
+  }
+  .table-wrap::-webkit-scrollbar {
+    height: 6px;
+  }
+  .table-wrap::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .table-wrap::-webkit-scrollbar-thumb {
+    background: var(--rule);
+    border-radius: 3px;
+  }
+
+  /* ─── Table Structure ─── */
+  table.data.hist-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+    min-width: 820px;
+    table-layout: auto;
+  }
+  table.data.hist-table thead {
+    background: var(--bg-2);
+  }
+  table.data.hist-table thead th {
+    padding: 11px 14px;
+    font-family: var(--font-mono);
+    font-size: 10px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--text-3);
+    font-weight: 600;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: middle;
+    white-space: nowrap;
+    text-align: left;
+  }
+  table.data.hist-table thead th.num {
+    text-align: right;
+  }
+  table.data.hist-table thead th:first-child {
+    padding-left: 18px;
+  }
+  table.data.hist-table thead th:last-child {
+    padding-right: 18px;
+  }
+
+  /* ─── Sortable Column Headers ─── */
+  .sortbtn {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    border: 0;
+    background: none;
+    color: inherit;
+    font: inherit;
+    text-transform: inherit;
+    letter-spacing: inherit;
+    cursor: pointer;
+    padding: 2px 6px;
+    border-radius: var(--radius-xs, 4px);
+    transition: color 0.15s ease, background-color 0.15s ease;
+  }
+  .sortbtn:hover {
+    color: var(--text-1);
+    background: color-mix(in oklch, var(--text-1) 8%, transparent);
+  }
+  .sortbtn.active {
+    color: var(--accent);
+    font-weight: 700;
+  }
+  .sort-indicator {
+    display: inline-block;
+    font-size: 9px;
+    line-height: 1;
+    opacity: 0.35;
+    transition: opacity 0.15s ease, color 0.15s ease;
+  }
+  .sortbtn.active .sort-indicator {
+    opacity: 1;
+    color: var(--accent);
+  }
+
+  /* ─── Rows & Cells ─── */
+  table.data.hist-table tbody tr.hist-row {
+    display: table-row !important;
+    border-bottom: 1px solid var(--rule);
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+  }
+  table.data.hist-table tbody tr.hist-row:last-child {
+    border-bottom: 0;
+  }
+  table.data.hist-table tbody tr.hist-row td {
+    padding: 10px 14px;
+    vertical-align: middle;
+    border-bottom: inherit;
+  }
+  table.data.hist-table tbody tr.hist-row td:first-child {
+    padding-left: 18px;
+  }
+  table.data.hist-table tbody tr.hist-row td:last-child {
+    padding-right: 18px;
+  }
+  table.data.hist-table tbody tr.hist-row:hover {
+    background-color: color-mix(in oklch, var(--accent) 7%, transparent) !important;
+  }
+  table.data.hist-table tbody tr.hist-row.selected {
+    background-color: color-mix(in oklch, var(--accent) 14%, transparent) !important;
+  }
+  table.data.hist-table tbody tr.hist-row.selected td:first-child {
+    box-shadow: inset 4px 0 0 var(--accent);
+  }
+
+  /* ─── Question Cell & Badges ─── */
+  .hist-q-cell {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    max-width: 440px;
+  }
+  .hist-q-text {
+    font-size: 13px;
+    color: var(--text-1);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 500;
+  }
+
+  .session-badge {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--text-3);
+    background: var(--bg-2);
+    padding: 2px 6px;
+    border-radius: 3px;
+    border: 1px solid var(--rule);
+    white-space: nowrap;
+  }
+
+  .user-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-family: var(--font-mono);
+    font-size: 11.5px;
+    color: var(--accent);
+    font-weight: 500;
+  }
+
+  /* ─── Latency & Numbers ─── */
+  .latency-val {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
+  }
+  .latency-val.warn {
+    color: var(--warning);
+    font-weight: 600;
+  }
+  .latency-unit {
+    font-size: 10px;
+    color: var(--text-3);
+    margin-left: 1px;
+  }
+
+  /* ─── Empty State ─── */
+  .hist-empty-state {
+    text-align: center;
+    padding: 44px 20px !important;
+  }
+  .empty-state-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+  }
+  .empty-state-wrap svg {
+    color: var(--text-3);
+    opacity: 0.6;
+  }
+  .empty-state-wrap p {
+    margin: 0;
+    font-size: 13.5px;
+    font-weight: 500;
+    color: var(--text-2);
+  }
+</style>
+</head>
+<body>
+<main id="content">
+  <div class="wrap page">
+    <div class="page-head" data-od-id="user-history-head">
+      <p class="crumb"><a href="index.html">Resonance Archive</a> / admin / user-history</p>
+      <h1>User Question History</h1>
+      <p>Dedicated development audit database tracking all questions asked across all user sessions. Records remain permanently preserved in <span class="mono">dev_audit.db</span> even when users clear their individual chat histories.</p>
+    </div>
+    <nav id="admin-nav" class="subnav" aria-label="Admin sections"></nav>
+
+    <!-- KPI Summary Cards -->
+    <section class="kpi-grid" style="margin-bottom:18px">
+      <div class="kpi"><div class="k-top"><span class="k-label">Total Questions</span></div><div class="k-val num" id="k-hist-total">0</div><div class="k-sub">across all users</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Success Rate</span></div><div class="k-val num" id="k-hist-rate">100%</div><div class="k-sub" id="k-hist-rate-sub">0 failed queries</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Avg Latency</span></div><div class="k-val num" id="k-hist-avg-ms">0 ms</div><div class="k-sub">end-to-end inference</div></div>
+      <div class="kpi"><div class="k-top"><span class="k-label">Tokens Consumed</span></div><div class="k-val num" id="k-hist-tokens">0</div><div class="k-sub">total model generation</div></div>
+    </section>
+
+    <!-- Filter & Action Controls -->
+    <div class="row-between wrapflex" style="margin-bottom:12px;gap:12px">
+      <div class="row gap-2 wrapflex">
+        <input class="input" id="hist-filter" type="search" placeholder="Search question, user, session ID…" style="width:260px" aria-label="Filter user history" />
+        <select class="select" id="hist-status" style="width:150px" aria-label="Filter by status">
+          <option value="">All statuses</option>
+          <option value="success">Success</option>
+          <option value="fail">Failed</option>
+        </select>
+        <button class="btn btn-secondary btn-sm" id="hist-refresh" type="button">Refresh</button>
+      </div>
+      <div class="row gap-2">
+        <button class="btn btn-secondary btn-sm" id="hist-json" type="button">Export JSON</button>
+        <button class="btn btn-secondary btn-sm" id="hist-csv" type="button">Export CSV</button>
+      </div>
+    </div>
+
+    <!-- User History Table Card -->
+    <div class="table-card">
+      <div class="table-wrap">
+        <table class="data hist-table">
+          <thead>
+            <tr>
+              <th style="width:140px"><button class="sortbtn" data-sort="created_at" type="button">Time <span class="sort-indicator"></span></button></th>
+              <th style="width:110px">User</th>
+              <th>Pertanyaan (Question)</th>
+              <th class="num" style="width:105px"><button class="sortbtn" data-sort="tokens" type="button">Tokens <span class="sort-indicator"></span></button></th>
+              <th style="width:130px">ID Sesi</th>
+              <th class="num" style="width:105px"><button class="sortbtn" data-sort="latency_ms" type="button">Latency <span class="sort-indicator"></span></button></th>
+              <th style="width:90px;text-align:center"><button class="sortbtn" data-sort="status" type="button">Status <span class="sort-indicator"></span></button></th>
+            </tr>
+          </thead>
+          <tbody id="hist-body"></tbody>
+        </table>
+      </div>
+    </div>
+    <div class="row-between wrapflex tiny dim" style="margin-top:10px;padding:0 4px">
+      <span id="hist-count">Loading history records…</span>
+      <span>Click any row to inspect full prompt question, session details, and error telemetry</span>
+    </div>
+
+    <!-- User History Inspector Drawer -->
+    <section class="panel" id="hist-inspector" style="margin-top:20px" hidden>
+      <div class="panel-head">
+        <div class="row gap-2">
+          <h3>Question Audit Details</h3>
+          <span class="mono tiny dim" id="ins-id"></span>
+        </div>
+        <button class="btn btn-ghost btn-sm" id="close-ins" type="button">Close ✕</button>
+      </div>
+      <div class="panel-body stack gap-3">
+        <div class="row-between wrapflex tiny dim mono" style="padding-bottom:6px;border-bottom:1px solid var(--rule)">
+          <span id="ins-timestamp"></span>
+          <span id="ins-status-badge"></span>
+        </div>
+        <div class="stack gap-1">
+          <label class="tiny dim uppercase font-mono" style="letter-spacing:.08em">Question Asked</label>
+          <div id="ins-question-text" style="font-size:15px;line-height:1.5;color:var(--text-1);font-weight:500;padding:8px 12px;background:var(--bg-2);border-radius:var(--r-ctl);border:1px solid var(--rule)"></div>
+        </div>
+        <div class="row wrapflex gap-3" style="font-size:12.5px">
+          <div><span class="dim">User:</span> <span class="mono font-bold" id="ins-username" style="color:var(--accent)"></span></div>
+          <div><span class="dim">Session ID:</span> <span class="mono" id="ins-session"></span></div>
+          <div><span class="dim">Tokens:</span> <span class="mono" id="ins-tokens"></span></div>
+          <div><span class="dim">Latency:</span> <span class="mono" id="ins-latency"></span></div>
+        </div>
+        <div id="ins-error-box" class="stack gap-1" hidden>
+          <label class="tiny dim uppercase font-mono" style="color:var(--danger);letter-spacing:.08em">Error Details</label>
+          <div id="ins-error-text" style="font-size:12.5px;color:var(--danger);padding:8px 12px;background:color-mix(in oklch,var(--danger) 10%,transparent);border:1px solid color-mix(in oklch,var(--danger) 30%,transparent);border-radius:var(--r-ctl)"></div>
+        </div>
+        <div class="stack gap-1">
+          <label class="tiny dim uppercase font-mono" style="letter-spacing:.08em">Raw Audit Record</label>
+          <div class="json"><pre id="ins-json"></pre></div>
+        </div>
+      </div>
+    </section>
+  </div>
+</main>
+
+<script src="/web/app.js"></script>
+<script>
+(function () {
+  OD.mount("admin-history");
+  OD.token = localStorage.getItem("ra-auth-token") || OD.SS.get("od-token") || "";
+
+  var sortKey = "created_at", sortDir = -1;
+  var selectedLogId = null;
+  var allLogs = [];
+
+  function statusPill(status) {
+    if (status === "success") {
+      return '<span class="pill ok">success</span>';
+    }
+    return '<span class="pill danger">fail</span>';
+  }
+
+  function formatLatency(ms) {
+    if (ms == null) return '<span class="dim">—</span>';
+    var cls = ms > 1500 ? "warn" : "";
+    return '<span class="latency-val ' + cls + '">' + ms.toLocaleString() + '<span class="latency-unit">ms</span></span>';
+  }
+
+  function formatTokens(t) {
+    if (!t) return '<span class="dim">—</span>';
+    return '<span class="mono">' + t.toLocaleString() + '</span>';
+  }
+
+  function formatSession(id) {
+    if (!id) return '<span class="dim">—</span>';
+    return '<span class="session-badge" title="' + id + '">' + (id.length > 14 ? id.slice(0, 14) + '…' : id) + '</span>';
+  }
+
+  async function loadStats() {
+    try {
+      const stats = await OD.api.adminUserHistoryStats();
+      if (stats) {
+        document.getElementById("k-hist-total").textContent = (stats.total_queries || 0).toLocaleString();
+        var total = stats.total_queries || 0;
+        var succ = stats.success_count || 0;
+        var fail = stats.fail_count || 0;
+        var rate = total > 0 ? Math.round((succ / total) * 100) : 100;
+        document.getElementById("k-hist-rate").textContent = rate + "%";
+        document.getElementById("k-hist-rate-sub").textContent = fail + " failed queries";
+        document.getElementById("k-hist-avg-ms").textContent = (stats.avg_latency_ms || 0) + " ms";
+        document.getElementById("k-hist-tokens").textContent = (stats.total_tokens || 0).toLocaleString();
+      }
+    } catch (err) {
+      console.warn("Failed to fetch audit stats:", err);
+    }
+  }
+
+  async function fetchHistory() {
+    var q = document.getElementById("hist-filter").value;
+    var status = document.getElementById("hist-status").value;
+    try {
+      document.getElementById("hist-count").textContent = "Loading history records…";
+      const res = await OD.api.adminUserHistory({ limit: 100, status: status, q: q });
+      if (res && Array.isArray(res.history)) {
+        allLogs = res.history;
+        render();
+      }
+    } catch (err) {
+      document.getElementById("hist-body").innerHTML = '<tr><td colspan="7" class="hist-empty-state"><div class="empty-state-wrap"><p style="color:var(--danger)">Failed to load history from audit database.</p><span class="tiny dim">' + (err.message || err) + '</span></div></td></tr>';
+      document.getElementById("hist-count").textContent = "Error loading records";
+    }
+  }
+
+  function render() {
+    var rows = allLogs.slice();
+    rows.sort(function (a, b) {
+      var x = a[sortKey] ?? 0;
+      var y = b[sortKey] ?? 0;
+      if (sortKey === "created_at") {
+        x = new Date(x).getTime();
+        y = new Date(y).getTime();
+      }
+      return x > y ? sortDir : x < y ? -sortDir : 0;
+    });
+
+    // Update sort button indicators
+    document.querySelectorAll("[data-sort]").forEach(function (btn) {
+      var k = btn.dataset.sort;
+      var isActive = (sortKey === k);
+      btn.classList.toggle("active", isActive);
+      var icon = btn.querySelector(".sort-indicator");
+      if (icon) {
+        if (isActive) {
+          icon.textContent = sortDir === 1 ? "▲" : "▼";
+        } else {
+          icon.textContent = "↕";
+        }
+      }
+    });
+
+    document.getElementById("hist-body").innerHTML = rows.length ? rows.map(function (r) {
+      var isSel = (r.id && r.id === selectedLogId);
+      var timeStr = new Date(r.created_at).toLocaleString([], { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit' });
+      return '<tr class="hist-row ' + (isSel ? "selected" : "") + '" data-log-id="' + (r.id || "") + '">' +
+        '<td class="mono tiny" title="' + new Date(r.created_at).toISOString() + '">' + timeStr + '</td>' +
+        '<td><span class="user-badge">@' + (r.username || "unknown") + '</span></td>' +
+        '<td><div class="hist-q-cell" title="' + (r.question || "").replace(/"/g, '&quot;') + '"><span class="hist-q-text">' + (r.question || "—") + '</span></div></td>' +
+        '<td class="num">' + formatTokens(r.tokens) + '</td>' +
+        '<td>' + formatSession(r.session_id) + '</td>' +
+        '<td class="num">' + formatLatency(r.latency_ms) + '</td>' +
+        '<td style="text-align:center">' + statusPill(r.status) + '</td>' +
+        '</tr>';
+    }).join("") : '<tr><td colspan="7" class="hist-empty-state"><div class="empty-state-wrap"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg><p>No user questions match this search or filter.</p><span class="tiny dim">Questions asked by users will appear here permanently.</span></div></td></tr>';
+
+    document.getElementById("hist-count").textContent = rows.length + " queries recorded in audit database";
+
+    // Row click listeners for inspecting individual questions
+    document.querySelectorAll(".hist-row").forEach(function (tr) {
+      tr.addEventListener("click", function () {
+        var id = tr.dataset.logId;
+        inspectLog(id);
+      });
+    });
+  }
+
+  function inspectLog(id) {
+    var item = allLogs.find(function (r) { return r.id === id; });
+    var ins = document.getElementById("hist-inspector");
+    if (!item) {
+      ins.hidden = true;
+      selectedLogId = null;
+      return;
+    }
+    selectedLogId = id;
+    ins.hidden = false;
+    document.getElementById("ins-id").textContent = item.id || "";
+    document.getElementById("ins-timestamp").textContent = new Date(item.created_at).toISOString() + " (" + new Date(item.created_at).toLocaleString() + ")";
+    document.getElementById("ins-status-badge").innerHTML = statusPill(item.status);
+    document.getElementById("ins-question-text").textContent = item.question || "—";
+    document.getElementById("ins-username").textContent = "@" + (item.username || "unknown");
+    document.getElementById("ins-session").textContent = item.session_id || "None";
+    document.getElementById("ins-tokens").textContent = item.tokens ? item.tokens.toLocaleString() : "0";
+    document.getElementById("ins-latency").textContent = (item.latency_ms || 0) + " ms";
+
+    var errBox = document.getElementById("ins-error-box");
+    if (item.error_message) {
+      errBox.hidden = false;
+      document.getElementById("ins-error-text").textContent = item.error_message;
+    } else {
+      errBox.hidden = true;
+    }
+
+    document.getElementById("ins-json").innerHTML = JSON.stringify(item, null, 2)
+      .replace(/"([^"]+)":/g, '<span class="jk">"$1"</span>:')
+      .replace(/: "([^"]*)"/g, ': <span class="js">"$1"</span>')
+      .replace(/: (\d+)/g, ': <span class="jn">$1</span>')
+      .replace(/: true|: false/g, function (m) { return ': <span class="jb">' + m.slice(2) + '</span>'; });
+
+    // highlight row
+    document.querySelectorAll(".hist-row").forEach(function (tr) {
+      tr.classList.toggle("selected", tr.dataset.logId === id);
+    });
+  }
+
+  document.getElementById("close-ins").addEventListener("click", function () {
+    document.getElementById("hist-inspector").hidden = true;
+    selectedLogId = null;
+    document.querySelectorAll(".hist-row").forEach(function (tr) { tr.classList.remove("selected"); });
+  });
+
+  document.getElementById("hist-filter").addEventListener("input", function () {
+    fetchHistory();
+  });
+  document.getElementById("hist-status").addEventListener("change", function () {
+    fetchHistory();
+  });
+  document.getElementById("hist-refresh").addEventListener("click", function () {
+    loadStats();
+    fetchHistory();
+    OD.toast("Audit logs refreshed", "ok");
+  });
+
+  document.querySelectorAll("[data-sort]").forEach(function (b) {
+    b.addEventListener("click", function () {
+      var k = b.dataset.sort;
+      if (sortKey === k) sortDir *= -1; else { sortKey = k; sortDir = -1; }
+      render();
+    });
+  });
+
+  document.getElementById("hist-json").addEventListener("click", function () {
+    OD.copy(JSON.stringify(allLogs, null, 2), "User History JSON");
+  });
+
+  document.getElementById("hist-csv").addEventListener("click", function () {
+    var csv = ["id,created_at,user_id,username,session_id,question,tokens,latency_ms,status,error_message"].concat(allLogs.map(function (r) {
+      return [
+        r.id || "",
+        new Date(r.created_at).toISOString(),
+        r.user_id || "",
+        JSON.stringify(r.username || ""),
+        r.session_id || "",
+        JSON.stringify(r.question || ""),
+        r.tokens ?? 0,
+        r.latency_ms ?? 0,
+        r.status || "",
+        JSON.stringify(r.error_message || "")
+      ].join(",");
+    })).join("\n");
+    OD.copy(csv, "User History CSV");
+  });
+
+  loadStats();
+  fetchHistory();
+})();
+</script>
+</body>
+</html>

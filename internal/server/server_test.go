@@ -537,3 +537,168 @@ func TestChatWithNewOrNonExistentThreadIDCreatesThreadAndPersistsMessages(t *tes
 		t.Errorf("Expected 1 thread in GET /api/v1/threads response, got %d", len(listResp["threads"]))
 	}
 }
+
+func TestClearAllThreadsAndAuditIsolation(t *testing.T) {
+	qdrantMux := http.NewServeMux()
+	qdrantMux.HandleFunc("/collections/wuwa_lore/points/search", func(w http.ResponseWriter, r *http.Request) {
+		res := map[string]interface{}{
+			"result": []map[string]interface{}{
+				{"id": "chunk-1", "score": 0.9, "payload": map[string]interface{}{"title": "Jinzhou", "content": "Jinzhou city..."}},
+			},
+			"status": "ok",
+		}
+		_ = json.NewEncoder(w).Encode(res)
+	})
+	qdrantServer := httptest.NewServer(qdrantMux)
+	defer qdrantServer.Close()
+
+	llmMux := http.NewServeMux()
+	llmMux.HandleFunc("/v1/chat/completions", func(w http.ResponseWriter, r *http.Request) {
+		res := map[string]interface{}{
+			"model": "wuwa-lore-model",
+			"choices": []map[string]interface{}{
+				{"message": map[string]interface{}{"role": "assistant", "content": "Jinzhou is a city of Huanglong."}},
+			},
+			"usage": map[string]interface{}{"total_tokens": 60},
+		}
+		_ = json.NewEncoder(w).Encode(res)
+	})
+	llmServer := httptest.NewServer(llmMux)
+	defer llmServer.Close()
+
+	tmpDir := t.TempDir()
+	database, _ := db.New(filepath.Join(tmpDir, "chat_user.db"))
+	defer database.Close()
+
+	auditDatabase, _ := db.NewAuditDB(filepath.Join(tmpDir, "chat_dev_audit.db"))
+	defer auditDatabase.Close()
+
+	jwtSecret := "test-secret"
+	qClient := qdrant.NewClient(qdrantServer.URL)
+	embedder := rag.NewHuggingFaceEmbedder("", "", "", 384)
+	llmClient := rag.NewLLMClient(llmServer.URL, "dummy-key", "wuwa-lore-model", "", "")
+	ragService := rag.NewService(qClient, embedder, llmClient, "wuwa_lore", 5, 0.1)
+	fetchClient := fetcher.NewClient("")
+
+	srv := NewServer(ragService, qClient, embedder, fetchClient, "wuwa_lore", "Simulacrum_of_the_Heart", database, jwtSecret, 5, auditDatabase)
+
+	user, _ := database.CreateUser(context.Background(), "cleartester", "clear@solaris.org", "pwd", "user", 5)
+	token, _ := auth.GenerateToken(jwtSecret, user.ID, user.Username, user.Role, 0)
+
+	// 1. User asks question -> saved in database AND in audit database
+	chatPayload, _ := json.Marshal(map[string]interface{}{
+		"question": "Tell me about Jinzhou",
+	})
+	reqChat, _ := http.NewRequest(http.MethodPost, "/api/v1/chat", bytes.NewReader(chatPayload))
+	reqChat.Header.Set("Content-Type", "application/json")
+	reqChat.Header.Set("Authorization", "Bearer "+token)
+	wChat := httptest.NewRecorder()
+	srv.Router().ServeHTTP(wChat, reqChat)
+	if wChat.Code != http.StatusOK {
+		t.Fatalf("Expected chat 200, got %d", wChat.Code)
+	}
+
+	// Verify thread exists in user database
+	uThreads, _ := database.ListThreads(context.Background(), user.ID)
+	if len(uThreads) != 1 {
+		t.Fatalf("Expected 1 thread in user database, got %d", len(uThreads))
+	}
+
+	// Verify query exists in audit database
+	auditLogs, totalAudit, _ := auditDatabase.ListQueryLogs(context.Background(), 10, 0, "", "")
+	if totalAudit != 1 || len(auditLogs) != 1 {
+		t.Fatalf("Expected 1 log in audit database, got total=%d len=%d", totalAudit, len(auditLogs))
+	}
+
+	// 2. User clears chat history via DELETE /api/v1/threads
+	reqClear, _ := http.NewRequest(http.MethodDelete, "/api/v1/threads", nil)
+	reqClear.Header.Set("Authorization", "Bearer "+token)
+	wClear := httptest.NewRecorder()
+	srv.Router().ServeHTTP(wClear, reqClear)
+	if wClear.Code != http.StatusOK {
+		t.Fatalf("Expected DELETE /api/v1/threads 200, got %d: %s", wClear.Code, wClear.Body.String())
+	}
+
+	// Verify user database threads are now EMPTY
+	uThreadsAfter, _ := database.ListThreads(context.Background(), user.ID)
+	if len(uThreadsAfter) != 0 {
+		t.Errorf("Expected 0 threads in user database after clear, got %d", len(uThreadsAfter))
+	}
+
+	// CRITICAL REQUIREMENT 2 VERIFICATION:
+	// Verify that the development audit database STILL RETAINS the question!
+	auditLogsAfter, totalAuditAfter, _ := auditDatabase.ListQueryLogs(context.Background(), 10, 0, "", "")
+	if totalAuditAfter != 1 || len(auditLogsAfter) != 1 {
+		t.Errorf("Audit database was unexpectedly cleared! Expected 1 preserved query, got %d", totalAuditAfter)
+	}
+	if auditLogsAfter[0].Question != "Tell me about Jinzhou" {
+		t.Errorf("Audit record content mismatch: %s", auditLogsAfter[0].Question)
+	}
+}
+
+func TestAdminUserHistoryEndpoints(t *testing.T) {
+	srv, database, jwtSecret := setupFullTestServer(t)
+
+	tmpDir := t.TempDir()
+	auditDatabase, _ := db.NewAuditDB(filepath.Join(tmpDir, "audit_admin_test.db"))
+	defer auditDatabase.Close()
+
+	// Seed audit database with a query log
+	_, _ = auditDatabase.LogQuery(context.Background(), db.UserQueryLog{
+		UserID:    "user-123",
+		Username:  "rover",
+		SessionID: "th-abc",
+		Question:  "What is Tacet Discord?",
+		Tokens:    150,
+		LatencyMs: 950,
+		Status:    "success",
+	})
+
+	srv.auditDB = auditDatabase
+
+	user, _ := database.CreateUser(context.Background(), "reg_user", "reg@test.com", "pwd", "user", 5)
+	userToken, _ := auth.GenerateToken(jwtSecret, user.ID, user.Username, user.Role, 0)
+
+	admin, _ := database.CreateUser(context.Background(), "admin_user", "admin@test.com", "pwd", "admin", -1)
+	adminToken, _ := auth.GenerateToken(jwtSecret, admin.ID, admin.Username, admin.Role, 0)
+
+	// 1. Regular user accessing /api/v1/admin/history -> 403 Forbidden
+	reqUserHist, _ := http.NewRequest(http.MethodGet, "/api/v1/admin/history", nil)
+	reqUserHist.Header.Set("Authorization", "Bearer "+userToken)
+	wUserHist := httptest.NewRecorder()
+	srv.Router().ServeHTTP(wUserHist, reqUserHist)
+	if wUserHist.Code != http.StatusForbidden {
+		t.Fatalf("Expected 403 Forbidden for regular user, got %d", wUserHist.Code)
+	}
+
+	// 2. Admin user accessing /api/v1/admin/history -> 200 OK
+	reqAdminHist, _ := http.NewRequest(http.MethodGet, "/api/v1/admin/history?limit=10&status=success", nil)
+	reqAdminHist.Header.Set("Authorization", "Bearer "+adminToken)
+	wAdminHist := httptest.NewRecorder()
+	srv.Router().ServeHTTP(wAdminHist, reqAdminHist)
+	if wAdminHist.Code != http.StatusOK {
+		t.Fatalf("Expected 200 OK for admin history, got %d: %s", wAdminHist.Code, wAdminHist.Body.String())
+	}
+
+	var histResp map[string]interface{}
+	_ = json.Unmarshal(wAdminHist.Body.Bytes(), &histResp)
+	total := int(histResp["total"].(float64))
+	if total != 1 {
+		t.Errorf("Expected total 1, got %d", total)
+	}
+
+	// 3. Admin user accessing /api/v1/admin/history/stats -> 200 OK
+	reqStats, _ := http.NewRequest(http.MethodGet, "/api/v1/admin/history/stats", nil)
+	reqStats.Header.Set("Authorization", "Bearer "+adminToken)
+	wStats := httptest.NewRecorder()
+	srv.Router().ServeHTTP(wStats, reqStats)
+	if wStats.Code != http.StatusOK {
+		t.Fatalf("Expected 200 OK for admin history stats, got %d", wStats.Code)
+	}
+
+	var statsResp map[string]interface{}
+	_ = json.Unmarshal(wStats.Body.Bytes(), &statsResp)
+	if int(statsResp["total_queries"].(float64)) != 1 {
+		t.Errorf("Expected 1 query in stats, got %v", statsResp["total_queries"])
+	}
+}

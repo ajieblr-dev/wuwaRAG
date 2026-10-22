@@ -145,6 +145,16 @@ func (d *DB) DeleteThread(ctx context.Context, userID, threadID string) error {
 	return nil
 }
 
+// DeleteAllThreads removes all conversation threads for a user and cascades deletion to messages.
+func (d *DB) DeleteAllThreads(ctx context.Context, userID string) error {
+	query := `DELETE FROM threads WHERE user_id = ?`
+	_, err := d.db.ExecContext(ctx, query, userID)
+	if err != nil {
+		return fmt.Errorf("failed to delete all threads: %w", err)
+	}
+	return nil
+}
+
 // AddMessage inserts a new message into a thread and touches the thread's updated_at timestamp.
 func (d *DB) AddMessage(ctx context.Context, threadID, userID, role, content, sourcesJSON, metaJSON string) (*Message, error) {
 	now := time.Now().UTC()

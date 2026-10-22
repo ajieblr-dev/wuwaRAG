@@ -1075,16 +1075,26 @@
     });
 
     if (clearConfirmBtn) {
-      clearConfirmBtn.addEventListener("click", () => {
-        try {
-          localStorage.clear();
-        } catch (e) {}
+      clearConfirmBtn.addEventListener("click", async () => {
+        const token = Auth.getToken();
+        if (token) {
+          try {
+            await fetch(API_BASE + "/api/v1/threads", {
+              method: "DELETE",
+              headers: { "Authorization": "Bearer " + token }
+            });
+          } catch (e) {
+            console.warn("Failed to delete threads from database:", e);
+          }
+        }
         threads = [];
         currentThreadId = null;
+        Storage.set("threads", []);
+        Storage.set("active-thread-id", null);
         renderHistory();
         showInitialView();
         closeClearModal();
-        RA.toast("All conversation history cleared");
+        RA.toast("All conversation history cleared from database", "ok");
       });
     }
 

@@ -213,3 +213,133 @@ func TestThreadAndMessagePersistence(t *testing.T) {
 		t.Errorf("Expected ErrThreadNotFound after deletion, got %v", err)
 	}
 }
+
+func TestDeleteAllThreads(t *testing.T) {
+	database := setupTestDB(t)
+	ctx := context.Background()
+
+	u1, _ := database.CreateUser(ctx, "user1", "u1@test.com", "pwd", "user", 5)
+	u2, _ := database.CreateUser(ctx, "user2", "u2@test.com", "pwd", "user", 5)
+
+	t1, _ := database.CreateThread(ctx, u1.ID, "Thread 1")
+	t2, _ := database.CreateThread(ctx, u1.ID, "Thread 2")
+	t3, _ := database.CreateThread(ctx, u2.ID, "Other User Thread")
+
+	_, _ = database.AddMessage(ctx, t1.ID, u1.ID, "user", "Q1", "", "")
+	_, _ = database.AddMessage(ctx, t2.ID, u1.ID, "user", "Q2", "", "")
+	_, _ = database.AddMessage(ctx, t3.ID, u2.ID, "user", "Q3", "", "")
+
+	// Clear all threads for user 1
+	if err := database.DeleteAllThreads(ctx, u1.ID); err != nil {
+		t.Fatalf("DeleteAllThreads failed: %v", err)
+	}
+
+	u1Threads, err := database.ListThreads(ctx, u1.ID)
+	if err != nil {
+		t.Fatalf("ListThreads failed: %v", err)
+	}
+	if len(u1Threads) != 0 {
+		t.Errorf("Expected 0 threads for user 1, got %d", len(u1Threads))
+	}
+
+	// User 2's thread must remain intact
+	u2Threads, err := database.ListThreads(ctx, u2.ID)
+	if err != nil || len(u2Threads) != 1 {
+		t.Errorf("Expected user 2 thread to remain, got %v (len: %d)", err, len(u2Threads))
+	}
+}
+
+func TestAuditDBOperations(t *testing.T) {
+	tmpDir := t.TempDir()
+	auditPath := filepath.Join(tmpDir, "dev_audit_test.db")
+
+	audit, err := NewAuditDB(auditPath)
+	if err != nil {
+		t.Fatalf("Failed to initialize AuditDB: %v", err)
+	}
+	defer audit.Close()
+
+	ctx := context.Background()
+
+	// 1. Log queries
+	l1, err := audit.LogQuery(ctx, UserQueryLog{
+		UserID:    "u-1",
+		Username:  "rover",
+		SessionID: "th-1",
+		Question:  "Who is Jinhsi?",
+		Tokens:    120,
+		LatencyMs: 850,
+		Status:    "success",
+	})
+	if err != nil || l1.ID == "" {
+		t.Fatalf("Failed to log query 1: %v", err)
+	}
+
+	_, err = audit.LogQuery(ctx, UserQueryLog{
+		UserID:       "u-2",
+		Username:     "yangyang",
+		SessionID:    "th-2",
+		Question:     "Explain Retroact Rain in detail.",
+		Tokens:       0,
+		LatencyMs:    150,
+		Status:       "fail",
+		ErrorMessage: "question_limit_reached",
+	})
+	if err != nil {
+		t.Fatalf("Failed to log query 2: %v", err)
+	}
+
+	_, err = audit.LogQuery(ctx, UserQueryLog{
+		UserID:    "u-1",
+		Username:  "rover",
+		SessionID: "th-3",
+		Question:  "Tell me about Changli.",
+		Tokens:    240,
+		LatencyMs: 1200,
+		Status:    "success",
+	})
+	if err != nil {
+		t.Fatalf("Failed to log query 3: %v", err)
+	}
+
+	// 2. List with pagination
+	logs, total, err := audit.ListQueryLogs(ctx, 10, 0, "", "")
+	if err != nil {
+		t.Fatalf("ListQueryLogs failed: %v", err)
+	}
+	if total != 3 || len(logs) != 3 {
+		t.Errorf("Expected 3 logs, got total=%d len=%d", total, len(logs))
+	}
+
+	// 3. Filter by status
+	successLogs, successTotal, err := audit.ListQueryLogs(ctx, 10, 0, "success", "")
+	if err != nil || successTotal != 2 || len(successLogs) != 2 {
+		t.Errorf("Expected 2 success logs, got total=%d, len=%d", successTotal, len(successLogs))
+	}
+
+	failLogs, failTotal, err := audit.ListQueryLogs(ctx, 10, 0, "fail", "")
+	if err != nil || failTotal != 1 || len(failLogs) != 1 {
+		t.Errorf("Expected 1 fail log, got total=%d, len=%d", failTotal, len(failLogs))
+	}
+
+	// 4. Search filter
+	searchLogs, searchTotal, err := audit.ListQueryLogs(ctx, 10, 0, "", "Retroact")
+	if err != nil || searchTotal != 1 || len(searchLogs) != 1 {
+		t.Errorf("Expected 1 search match, got total=%d, len=%d", searchTotal, len(searchLogs))
+	}
+
+	// 5. Stats
+	stats, err := audit.GetStats(ctx)
+	if err != nil {
+		t.Fatalf("GetStats failed: %v", err)
+	}
+	if stats.TotalQueries != 3 {
+		t.Errorf("Expected 3 total queries, got %d", stats.TotalQueries)
+	}
+	if stats.SuccessCount != 2 || stats.FailCount != 1 {
+		t.Errorf("Expected 2 success and 1 fail, got %d and %d", stats.SuccessCount, stats.FailCount)
+	}
+	if stats.TotalTokens != 360 {
+		t.Errorf("Expected 360 tokens, got %d", stats.TotalTokens)
+	}
+}

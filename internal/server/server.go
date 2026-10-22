@@ -61,6 +61,7 @@ type Server struct {
 	corpusMu             sync.RWMutex
 	corpus               *CorpusData
 	db                   *db.DB
+	auditDB              *db.AuditDB
 	jwtSecret            string
 	defaultQuestionLimit int
 }
@@ -84,6 +85,7 @@ func NewServer(
 	database *db.DB,
 	jwtSecret string,
 	defaultQuestionLimit int,
+	auditDB ...*db.AuditDB,
 ) *Server {
 	gin.SetMode(gin.ReleaseMode)
 	router := gin.New()
@@ -98,6 +100,11 @@ func NewServer(
 		defaultQuestionLimit = 5
 	}
 
+	var adb *db.AuditDB
+	if len(auditDB) > 0 {
+		adb = auditDB[0]
+	}
+
 	s := &Server{
 		router:               router,
 		ragService:           ragService,
@@ -107,6 +114,7 @@ func NewServer(
 		collection:           collection,
 		defaultPage:          defaultPage,
 		db:                   database,
+		auditDB:              adb,
 		jwtSecret:            jwtSecret,
 		defaultQuestionLimit: defaultQuestionLimit,
 	}
@@ -120,7 +128,7 @@ func corsMiddleware() gin.HandlerFunc {
 		c.Writer.Header().Set("Access-Control-Allow-Origin", "*")
 		c.Writer.Header().Set("Access-Control-Allow-Credentials", "true")
 		c.Writer.Header().Set("Access-Control-Allow-Headers", "Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization, accept, origin, Cache-Control, X-Requested-With")
-		c.Writer.Header().Set("Access-Control-Allow-Methods", "POST, OPTIONS, GET, PUT")
+		c.Writer.Header().Set("Access-Control-Allow-Methods", "POST, OPTIONS, GET, PUT, DELETE")
 
 		if c.Request.Method == "OPTIONS" {
 			c.AbortWithStatus(204)
@@ -195,6 +203,7 @@ func (s *Server) registerRoutes() {
 		{
 			threadsGroup.GET("", s.handleListThreads)
 			threadsGroup.POST("", s.handleCreateThread)
+			threadsGroup.DELETE("", s.handleClearAllThreads)
 			threadsGroup.GET("/:id", s.handleGetThread)
 			threadsGroup.DELETE("/:id", s.handleDeleteThread)
 		}
@@ -207,6 +216,8 @@ func (s *Server) registerRoutes() {
 		{
 			adminGroup.GET("/users", s.handleAdminListUsers)
 			adminGroup.POST("/users/:id/reset", s.handleAdminResetQuota)
+			adminGroup.GET("/history", s.handleAdminUserHistory)
+			adminGroup.GET("/history/stats", s.handleAdminUserHistoryStats)
 		}
 	}
 
@@ -225,6 +236,7 @@ func (s *Server) registerRoutes() {
 		s.router.StaticFile("/admin-corpus.html", filepath.Join(webDir, "admin-corpus.html"))
 		s.router.StaticFile("/admin-gateway.html", filepath.Join(webDir, "admin-gateway.html"))
 		s.router.StaticFile("/admin-logs.html", filepath.Join(webDir, "admin-logs.html"))
+		s.router.StaticFile("/admin-history.html", filepath.Join(webDir, "admin-history.html"))
 		s.router.StaticFile("/admin-settings.html", filepath.Join(webDir, "admin-settings.html"))
 		s.router.StaticFile("/design-system.html", filepath.Join(webDir, "design-system.html"))
 		s.router.StaticFile("/console.html", filepath.Join(webDir, "admin-overview.html"))
@@ -266,6 +278,10 @@ func (s *Server) registerRoutes() {
 		cleanPath := strings.Trim(c.Request.URL.Path, "/")
 		if (cleanPath == "console" || cleanPath == "admin" || cleanPath == "console.html") && webDir != "" {
 			c.File(filepath.Join(webDir, "admin-overview.html"))
+			return
+		}
+		if (cleanPath == "admin/history" || cleanPath == "admin-history.html") && webDir != "" {
+			c.File(filepath.Join(webDir, "admin-history.html"))
 			return
 		}
 
@@ -791,6 +807,7 @@ type chatRequest struct {
 }
 
 func (s *Server) handleChat(c *gin.Context) {
+	start := time.Now()
 	var req chatRequest
 	if err := c.ShouldBindJSON(&req); err != nil {
 		c.JSON(http.StatusBadRequest, gin.H{"error": "Missing or invalid 'question' field"})
@@ -798,6 +815,12 @@ func (s *Server) handleChat(c *gin.Context) {
 	}
 
 	userID := c.GetString(auth.ContextUserID)
+	username := c.GetString(auth.ContextUsername)
+	if username == "" && userID != "" && s.db != nil {
+		if u, err := s.db.GetUserByID(c.Request.Context(), userID); err == nil && u != nil {
+			username = u.Username
+		}
+	}
 	var remaining, limit int
 
 	// 1. Quota enforcement via database
@@ -808,6 +831,18 @@ func (s *Server) handleChat(c *gin.Context) {
 			return
 		}
 		if !allowed {
+			if s.auditDB != nil {
+				_, _ = s.auditDB.LogQuery(context.Background(), db.UserQueryLog{
+					UserID:       userID,
+					Username:     username,
+					SessionID:    strings.TrimSpace(req.ThreadID),
+					Question:     req.Question,
+					Tokens:       0,
+					LatencyMs:    int(time.Since(start).Milliseconds()),
+					Status:       "fail",
+					ErrorMessage: "question_limit_reached",
+				})
+			}
 			c.JSON(http.StatusForbidden, gin.H{
 				"error":               "question_limit_reached",
 				"message":             fmt.Sprintf("You have reached your limit of %d questions. Please contact an administrator for extended access.", lim),
@@ -857,8 +892,37 @@ func (s *Server) handleChat(c *gin.Context) {
 
 	res, err := s.ragService.AnswerConversation(ctx, req.Question, req.History)
 	if err != nil {
+		if s.auditDB != nil {
+			_, _ = s.auditDB.LogQuery(context.Background(), db.UserQueryLog{
+				UserID:       userID,
+				Username:     username,
+				SessionID:    threadID,
+				Question:     req.Question,
+				Tokens:       0,
+				LatencyMs:    int(time.Since(start).Milliseconds()),
+				Status:       "fail",
+				ErrorMessage: err.Error(),
+			})
+		}
 		c.JSON(http.StatusInternalServerError, gin.H{"error": fmt.Sprintf("Failed to answer question: %v", err)})
 		return
+	}
+
+	// Log query to development audit database
+	if s.auditDB != nil {
+		_, logErr := s.auditDB.LogQuery(context.Background(), db.UserQueryLog{
+			UserID:       userID,
+			Username:     username,
+			SessionID:    threadID,
+			Question:     req.Question,
+			Tokens:       res.TotalTokens,
+			LatencyMs:    int(res.LatencyMs),
+			Status:       "success",
+			ErrorMessage: "",
+		})
+		if logErr != nil {
+			log.Printf("Warning: failed to record audit query: %v", logErr)
+		}
 	}
 
 	// 3. Persist assistant message
@@ -962,6 +1026,24 @@ func (s *Server) handleDeleteThread(c *gin.Context) {
 	c.JSON(http.StatusOK, gin.H{"status": "deleted"})
 }
 
+func (s *Server) handleClearAllThreads(c *gin.Context) {
+	if s.db == nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Database not initialized"})
+		return
+	}
+	userID := c.GetString(auth.ContextUserID)
+	if userID == "" {
+		c.JSON(http.StatusUnauthorized, gin.H{"error": "Authentication required"})
+		return
+	}
+
+	if err := s.db.DeleteAllThreads(c.Request.Context(), userID); err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to clear threads"})
+		return
+	}
+	c.JSON(http.StatusOK, gin.H{"status": "deleted", "message": "All user threads cleared"})
+}
+
 func (s *Server) handleAdminListUsers(c *gin.Context) {
 	if s.db == nil {
 		c.JSON(http.StatusInternalServerError, gin.H{"error": "Database not initialized"})
@@ -994,6 +1076,52 @@ func (s *Server) handleAdminResetQuota(c *gin.Context) {
 		return
 	}
 	c.JSON(http.StatusOK, gin.H{"status": "success", "user_id": targetUserID})
+}
+
+func (s *Server) handleAdminUserHistory(c *gin.Context) {
+	if s.auditDB == nil {
+		c.JSON(http.StatusOK, gin.H{"total": 0, "history": []interface{}{}, "limit": 50, "offset": 0})
+		return
+	}
+
+	limit, _ := strconv.Atoi(c.DefaultQuery("limit", "50"))
+	offset, _ := strconv.Atoi(c.DefaultQuery("offset", "0"))
+	statusFilter := c.Query("status")
+	search := c.Query("q")
+
+	logs, total, err := s.auditDB.ListQueryLogs(c.Request.Context(), limit, offset, statusFilter, search)
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to query user history logs"})
+		return
+	}
+
+	c.JSON(http.StatusOK, gin.H{
+		"total":   total,
+		"history": logs,
+		"limit":   limit,
+		"offset":  offset,
+	})
+}
+
+func (s *Server) handleAdminUserHistoryStats(c *gin.Context) {
+	if s.auditDB == nil {
+		c.JSON(http.StatusOK, gin.H{
+			"total_queries":  0,
+			"success_count":  0,
+			"fail_count":     0,
+			"avg_latency_ms": 0,
+			"total_tokens":   0,
+		})
+		return
+	}
+
+	stats, err := s.auditDB.GetStats(c.Request.Context())
+	if err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to calculate history statistics"})
+		return
+	}
+
+	c.JSON(http.StatusOK, stats)
 }
 
 type searchRequest struct {

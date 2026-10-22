@@ -22,6 +22,13 @@ func main() {
 	defer database.Close()
 	log.Printf("SQLite database initialized at %s", cfg.DBPath)
 
+	auditDB, err := db.NewAuditDB(cfg.DevAuditDBPath)
+	if err != nil {
+		log.Fatalf("failed to initialize dev audit database at %s: %v", cfg.DevAuditDBPath, err)
+	}
+	defer auditDB.Close()
+	log.Printf("Development Audit database initialized at %s", cfg.DevAuditDBPath)
+
 	fetchClient := fetcher.NewClient(cfg.WikiAPIURL)
 	qdrantClient := qdrant.NewClient(cfg.QdrantURL)
 	embedder := rag.NewHuggingFaceEmbedder(
@@ -61,6 +68,7 @@ func main() {
 		database,
 		cfg.JWTSecret,
 		cfg.DefaultQuestionLimit,
+		auditDB,
 	)
 
 	addr := ":" + cfg.Port

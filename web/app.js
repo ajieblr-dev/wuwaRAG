@@ -381,6 +381,19 @@
       if (params.limit != null) qs.push("limit=" + encodeURIComponent(params.limit));
       var qStr = qs.length ? "?" + qs.join("&") : "";
       return OD.request("GET", "/api/v1/corpus" + qStr);
+    },
+    async adminUserHistory(params) {
+      params = params || {};
+      var qs = [];
+      if (params.limit != null) qs.push("limit=" + encodeURIComponent(params.limit));
+      if (params.offset != null) qs.push("offset=" + encodeURIComponent(params.offset));
+      if (params.status) qs.push("status=" + encodeURIComponent(params.status));
+      if (params.q) qs.push("q=" + encodeURIComponent(params.q));
+      var qStr = qs.length ? "?" + qs.join("&") : "";
+      return OD.request("GET", "/api/v1/admin/history" + qStr);
+    },
+    async adminUserHistoryStats() {
+      return OD.request("GET", "/api/v1/admin/history/stats");
     }
   };
 
@@ -432,6 +445,7 @@
     { key: "admin-corpus", href: "admin-corpus.html", label: "Corpus", icon: "db" },
     { key: "admin-gateway", href: "admin-gateway.html", label: "Gateway", icon: "route" },
     { key: "admin-logs", href: "admin-logs.html", label: "Logs", icon: "list" },
+    { key: "admin-history", href: "admin-history.html", label: "User History", icon: "clock" },
     { key: "admin-settings", href: "admin-settings.html", label: "Settings", icon: "cog" }
   ];
 
