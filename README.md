@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="margin: 20px 0;">
-  <img src="./documentation/web-preview-1.png" width="480" alt="WuWaRAG Banner" style="border-radius: 16px; box-shadow: 0 12px 36px rgba(0, 217, 255, 0.25); border: 2px solid rgba(0, 217, 255, 0.4);">
+  <img src="web-preview-1.png" width="480" alt="WuWaRAG Banner" style="border-radius: 16px; box-shadow: 0 12px 36px rgba(0, 217, 255, 0.25); border: 2px solid rgba(0, 217, 255, 0.4);">
 </div>
 
 # 🌊 WuWaRAG: Advanced Wuthering Waves Lore RAG System
@@ -89,7 +89,7 @@ With **9,473 indexed vectors**, **9,072 unified chunks**, and **1,928 recognized
 ## 🏗️ System Architecture & Pipeline Flow
 
 <div align="center" style="margin: 24px 0;">
-  <img src="./documentation/WuWaRAG_Architecture_&_Pipeline.png" alt="WuWaRAG System Architecture and Pipeline Flow" width="100%" style="border-radius: 14px; border: 2px solid rgba(0, 217, 255, 0.4); box-shadow: 0 16px 48px rgba(0, 217, 255, 0.2);">
+  <img src="WuWaRAG_Architecture_&_Pipeline.png" alt="WuWaRAG System Architecture and Pipeline Flow" width="100%" style="border-radius: 14px; border: 2px solid rgba(0, 217, 255, 0.4); box-shadow: 0 16px 48px rgba(0, 217, 255, 0.2);">
 </div>
 
 <details>
