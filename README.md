@@ -1,5 +1,9 @@
 <div align="center">
 
+<div style="margin: 20px 0;">
+  <img src="web-preview-2.png" width="70%" alt="WuWaRAG Banner" style="border-radius: 16px; box-shadow: 0 12px 36px rgba(0, 217, 255, 0.25); border: 2px solid rgba(0, 217, 255, 0.4);">
+</div>
+
 # 🌊 WuWaRAG: Advanced Wuthering Waves Lore RAG System
 
 <div align="center">
@@ -39,10 +43,6 @@
   <a href="#-admin-console--web-ui" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Web%20UI-Admin%20Console-f5a623?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a">
   </a>
-</div>
-
-<div style="margin: 20px 0;">
-  <img src="web-preview-2.png" width="100%" alt="WuWaRAG Banner" style="border-radius: 16px; box-shadow: 0 12px 36px rgba(0, 217, 255, 0.25); border: 2px solid rgba(0, 217, 255, 0.4);">
 </div>
 
 ---
