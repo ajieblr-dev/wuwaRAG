@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="margin: 20px 0;">
-  <img src="web-preview-1.png" width="480" alt="WuWaRAG Banner" style="border-radius: 16px; box-shadow: 0 12px 36px rgba(0, 217, 255, 0.25); border: 2px solid rgba(0, 217, 255, 0.4);">
+  <img src="web-preview-2.png" width="480" alt="WuWaRAG Banner" style="border-radius: 16px; box-shadow: 0 12px 36px rgba(0, 217, 255, 0.25); border: 2px solid rgba(0, 217, 255, 0.4);">
 </div>
 
 # 🌊 WuWaRAG: Advanced Wuthering Waves Lore RAG System
