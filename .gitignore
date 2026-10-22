@@ -2,6 +2,10 @@
 bin/
 /api
 /ingest
+documentation/
+plan.md
+project-record.md
+rag_accuracy_enhancement_plan.md
 
 # Environment variables (never commit real keys)
 .env
